@@ -18,8 +18,9 @@ export async function generateStaticParams() {
   }));
 }
 
-export default async function OGImage({ params }: { params: { slug: string } }) {
-  const article = getArticleBySlug(params.slug);
+export default async function OGImage({ params }: { params: Promise<{ slug: string }> }) {
+  const { slug } = await params;
+  const article = getArticleBySlug(slug);
 
   if (!article) {
     return new ImageResponse(
@@ -100,7 +101,6 @@ export default async function OGImage({ params }: { params: { slug: string } }) 
         <div
           style={{
             position: 'relative',
-            zIndex: 1,
             display: 'flex',
             flexDirection: 'column',
             alignItems: 'center',
@@ -112,13 +112,15 @@ export default async function OGImage({ params }: { params: { slug: string } }) 
           {category && (
             <div
               style={{
-                display: 'inline-block',
+                display: 'flex',
                 background: 'rgba(255, 255, 255, 0.25)',
                 padding: '12px 24px',
                 borderRadius: '50px',
                 fontSize: '24px',
                 fontWeight: '600',
                 border: '2px solid rgba(255, 255, 255, 0.5)',
+                alignItems: 'center',
+                justifyContent: 'center',
               }}
             >
               {category.icon} {category.label}

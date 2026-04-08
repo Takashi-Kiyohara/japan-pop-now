@@ -28,9 +28,7 @@ import GiscusComments from '@/components/GiscusComments';
 import { notFound } from 'next/navigation';
 
 interface ArticlePageProps {
-  params: {
-    slug: string;
-  };
+  params: Promise<{ slug: string }>;
 }
 
 export const revalidate = 3600;
@@ -43,13 +41,14 @@ export async function generateStaticParams() {
 export async function generateMetadata({
   params,
 }: ArticlePageProps): Promise<Metadata> {
-  const article = getArticleBySlug(params.slug);
+  const { slug } = await params;
+  const article = getArticleBySlug(slug);
 
   if (!article) {
     return { title: 'Article Not Found' };
   }
 
-  const articleUrl = `https://japan-pop-now.com/articles/${params.slug}`;
+  const articleUrl = `https://japan-pop-now.com/articles/${slug}`;
 
   return {
     title: article.title,
@@ -85,17 +84,18 @@ export async function generateMetadata({
   };
 }
 
-export default function ArticlePage({ params }: ArticlePageProps) {
-  const article = getArticleBySlug(params.slug);
+export default async function ArticlePage({ params }: ArticlePageProps) {
+  const { slug } = await params;
+  const article = getArticleBySlug(slug);
 
   if (!article) {
     notFound();
   }
 
-  const relatedArticles = getRelatedArticles(params.slug, 3);
+  const relatedArticles = getRelatedArticles(slug, 3);
   const allArticles = getAllArticles();
   const category = CATEGORIES.find((c) => c.slug === article.category);
-  const articleUrl = `https://japan-pop-now.com/articles/${params.slug}`;
+  const articleUrl = `https://japan-pop-now.com/articles/${slug}`;
   const headings = extractHeadings(article.content);
   const metrics = getContentMetrics(article.content);
   const faqs = extractQAFromHeadings(article.content);
@@ -106,11 +106,11 @@ export default function ArticlePage({ params }: ArticlePageProps) {
       label: category?.label || 'Articles',
       href: category ? `/category/${category.slug}` : '/',
     },
-    { label: article.title, href: `/articles/${params.slug}` },
+    { label: article.title, href: `/articles/${slug}` },
   ];
 
   const popularArticles = allArticles
-    .filter((a) => a.slug !== params.slug)
+    .filter((a) => a.slug !== slug)
     .slice(0, 5);
 
   return (
@@ -284,7 +284,7 @@ export default function ArticlePage({ params }: ArticlePageProps) {
               />
 
               {/* Comments */}
-              <GiscusComments slug={params.slug} />
+              <GiscusComments slug={slug} />
             </div>
 
             {/* Sidebar */}

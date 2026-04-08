@@ -4,9 +4,7 @@ import ArticleCard from '@/components/ArticleCard';
 import { notFound } from 'next/navigation';
 
 interface CategoryPageProps {
-  params: {
-    slug: string;
-  };
+  params: Promise<{ slug: string }>;
 }
 
 export const revalidate = 3600;
@@ -20,7 +18,8 @@ export async function generateStaticParams() {
 export async function generateMetadata({
   params,
 }: CategoryPageProps): Promise<Metadata> {
-  const category = CATEGORIES.find((c) => c.slug === params.slug);
+  const { slug } = await params;
+  const category = CATEGORIES.find((c) => c.slug === slug);
 
   if (!category) {
     return {
@@ -28,7 +27,7 @@ export async function generateMetadata({
     };
   }
 
-  const categoryUrl = `https://japan-pop-now.com/category/${params.slug}`;
+  const categoryUrl = `https://japan-pop-now.com/category/${slug}`;
 
   return {
     title: `${category.label} — Japan Pop Now`,
@@ -50,8 +49,9 @@ export async function generateMetadata({
   };
 }
 
-export default function CategoryPage({ params }: CategoryPageProps) {
-  const category = CATEGORIES.find((c) => c.slug === params.slug);
+export default async function CategoryPage({ params }: CategoryPageProps) {
+  const { slug } = await params;
+  const category = CATEGORIES.find((c) => c.slug === slug);
 
   if (!category) {
     notFound();
