@@ -11,15 +11,33 @@ interface SearchResult {
   category: string;
 }
 
+const QUERY_MAX_LENGTH = 200;
+
+/**
+ * Sanitize search query: strip HTML tags and trim whitespace
+ */
+const sanitizeSearchQuery = (query: string): string => {
+  return query
+    .trim()
+    .slice(0, QUERY_MAX_LENGTH)
+    .replace(/<[^>]*>/g, ''); // Remove HTML tags
+};
+
 export default function Search() {
   const [isOpen, setIsOpen] = useState(false);
   const [query, setQuery] = useState('');
+  const [debouncedQuery, setDebouncedQuery] = useState('');
   const [results, setResults] = useState<SearchResult[]>([]);
   const [selectedIndex, setSelectedIndex] = useState(0);
-  const [isLoading, setIsLoading] = useState(false);
   const indexRef = useRef<Index | null>(null);
   const inputRef = useRef<HTMLInputElement>(null);
   const resultsRef = useRef<(HTMLAnchorElement | null)[]>([]);
+
+  // Debounce search query
+  useEffect(() => {
+    const timer = setTimeout(() => setDebouncedQuery(query), 300);
+    return () => clearTimeout(timer);
+  }, [query]);
 
   // Initialize search index
   useEffect(() => {
@@ -56,16 +74,18 @@ export default function Search() {
     }
   }, []);
 
-  // Search function
+  // Search function - executes on debounced query
   const handleSearch = useCallback((searchQuery: string) => {
-    if (!indexRef.current || !searchQuery.trim()) {
+    const sanitized = sanitizeSearchQuery(searchQuery);
+
+    if (!indexRef.current || !sanitized) {
       setResults([]);
       setSelectedIndex(0);
       return;
     }
 
     try {
-      const searchResults = indexRef.current.search(searchQuery, {
+      const searchResults = indexRef.current.search(sanitized, {
         limit: 10,
       }) as string[];
 
@@ -83,6 +103,11 @@ export default function Search() {
       console.error('Failed to search:', error);
     }
   }, []);
+
+  // Trigger search when debounced query changes
+  useEffect(() => {
+    handleSearch(debouncedQuery);
+  }, [debouncedQuery, handleSearch]);
 
   // Keyboard shortcuts
   useEffect(() => {
@@ -175,35 +200,26 @@ export default function Search() {
                 type="text"
                 placeholder="Search articles..."
                 value={query}
-                onChange={(e) => {
-                  setQuery(e.target.value);
-                  handleSearch(e.target.value);
-                }}
+                onChange={(e) => setQuery(e.target.value)}
                 className="w-full px-0 py-2 text-lg focus:outline-none bg-transparent"
               />
             </div>
 
             {/* Results */}
             <div className="max-h-96 overflow-y-auto">
-              {isLoading && (
+              {query && results.length === 0 && (
                 <div className="p-8 text-center text-gray-500">
-                  Loading...
+                  No results for &quot;{query}&quot;
                 </div>
               )}
 
-              {!isLoading && query && results.length === 0 && (
-                <div className="p-8 text-center text-gray-500">
-                  No results for "{query}"
-                </div>
-              )}
-
-              {!isLoading && !query && (
+              {!query && (
                 <div className="p-8 text-center text-gray-500">
                   Start typing to search...
                 </div>
               )}
 
-              {!isLoading && results.length > 0 && (
+              {results.length > 0 && (
                 <ul className="divide-y divide-gray-200">
                   {results.map((result, idx) => (
                     <li key={result.slug}>
@@ -242,7 +258,7 @@ export default function Search() {
               <div className="border-t border-gray-200 p-3 bg-gray-50 text-xs text-gray-500 flex items-center justify-between">
                 <div className="flex gap-4">
                   <span>
-                    <span className="font-semibold">↑↓</span> Navigate
+                    <span className="font-semibold">{String.fromCharCode(8593, 8595)}</span> Navigate
                   </span>
                   <span>
                     <span className="font-semibold">⏎</span> Select

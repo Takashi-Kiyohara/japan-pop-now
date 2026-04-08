@@ -29,7 +29,7 @@ export default function NewsletterSignup({
       if (!res.ok) throw new Error('Subscribe failed');
 
       // GA4 tracking
-      if (typeof window !== 'undefined' && (window as any).gtag) {
+      if (typeof window !== 'undefined' && typeof (window as any).gtag === 'function') {
         (window as any).gtag('event', 'newsletter_signup', {
           method: compact ? 'sidebar' : 'inline',
         });

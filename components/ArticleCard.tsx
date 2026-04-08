@@ -1,3 +1,4 @@
+import React from 'react';
 import Link from 'next/link';
 import Image from 'next/image';
 import { ArticleMeta } from '@/lib/articles';
@@ -19,7 +20,7 @@ const imageHeights: Record<CardSize, string> = {
   lg: '380px',
 };
 
-export default function ArticleCard({
+const ArticleCard = React.memo(function ArticleCard({
   article,
   size = 'md',
   variant = 'default',
@@ -149,4 +150,6 @@ export default function ArticleCard({
       </article>
     </Link>
   );
-}
+});
+
+export default ArticleCard;

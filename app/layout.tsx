@@ -160,10 +160,13 @@ export default function RootLayout({
         )}
       </head>
       <body className="min-h-screen flex flex-col bg-[#fafaf9]">
+        <a href="#main-content" className="sr-only focus:not-sr-only focus:absolute focus:top-4 focus:left-4 focus:z-50 focus:bg-white focus:px-4 focus:py-2 focus:text-sm focus:font-semibold focus:rounded focus:shadow-lg">
+          Skip to content
+        </a>
         <GoogleAnalytics />
         <ScrollProgress />
         <Header />
-        <main className="flex-1">{children}</main>
+        <main id="main-content" className="flex-1">{children}</main>
         <Footer />
         <BackToTop />
         <CookieConsent />

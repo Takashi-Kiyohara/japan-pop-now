@@ -28,7 +28,7 @@ export default function NotFound() {
         This page got lost somewhere between Akihabara and Shibuya. Let&apos;s get you back on track.
       </p>
 
-      <div style={{ display: 'flex', gap: '12px', justifyContent: 'center', marginBottom: '3rem' }}>
+      <div style={{ display: 'flex', gap: '12px', justifyContent: 'center', marginBottom: '2rem', flexWrap: 'wrap' }}>
         <Link
           href="/"
           style={{
@@ -59,6 +59,11 @@ export default function NotFound() {
           Browse Collab Cafes
         </Link>
       </div>
+
+      {/* Quick Search Info */}
+      <p style={{ fontSize: '0.9rem', color: '#78716c', marginBottom: '2rem', fontStyle: 'italic' }}>
+        Tip: Press <kbd style={{ background: '#f5f5f4', padding: '2px 6px', borderRadius: '4px', border: '1px solid #e7e5e4' }}>Cmd+K</kbd> (or <kbd style={{ background: '#f5f5f4', padding: '2px 6px', borderRadius: '4px', border: '1px solid #e7e5e4' }}>Ctrl+K</kbd>) to search.
+      </p>
 
       {articles.length > 0 && (
         <section>

@@ -4,6 +4,7 @@ import { CATEGORIES, getArticlesByCategory } from '@/lib/articles';
 import ArticleCard from '@/components/ArticleCard';
 import Breadcrumb from '@/components/Breadcrumb';
 import AdUnit from '@/components/AdUnit';
+import AffiliateCTA from '@/components/AffiliateCTA';
 import { notFound } from 'next/navigation';
 
 interface CategoryPageProps {
@@ -16,6 +17,61 @@ export async function generateStaticParams() {
   return CATEGORIES.map((category) => ({
     slug: category.slug,
   }));
+}
+
+function getCategoryAffiliateCTA(category: { slug: string; label: string }) {
+  switch (category.slug) {
+    case 'collab-cafes':
+      return (
+        <AffiliateCTA
+          icon="🎫"
+          title="Book Anime Cafes with Klook"
+          description="Reserve your spot at anime collaboration cafes across Japan with English support and free cancellation on most bookings."
+          buttonText="Browse Cafe Experiences"
+          href={'https://www.klook.com/en-US/experiences?aff_id=' + (process.env.NEXT_PUBLIC_KLOOK_AFF_ID || '')}
+          program="klook"
+          category="collab-cafes"
+        />
+      );
+    case 'anime-pilgrimage':
+      return (
+        <AffiliateCTA
+          icon="⛩️"
+          title="Get Your JR Pass"
+          description="Visit pilgrimage sites across Japan efficiently with Japan Rail Pass. 7, 14, and 21-day options for all holy lands."
+          buttonText="Compare JR Pass"
+          href={'https://www.klook.com/en-US/activity/japan-rail-pass?aff_id=' + (process.env.NEXT_PUBLIC_KLOOK_AFF_ID || '')}
+          program="klook"
+          category="anime-pilgrimage"
+        />
+      );
+    case 'area-guides':
+      return (
+        <AffiliateCTA
+          icon="🏨"
+          title="Find Hotels in Anime Districts"
+          description="Stay in the heart of Tokyo's anime neighborhoods — Akihabara, Ikebukuro, Shibuya. Free cancellation on most bookings."
+          buttonText="Search Hotels"
+          href={'https://www.booking.com/index.html?aid=' + (process.env.NEXT_PUBLIC_BOOKING_AFF_ID || '')}
+          program="booking"
+          category="area-guides"
+        />
+      );
+    case 'travel-tips':
+      return (
+        <AffiliateCTA
+          icon="📱"
+          title="Get eSIM & Travel Essentials"
+          description="Instant eSIM activation, no physical SIM needed. Plus JR Pass, luggage forwarding, IC cards, and budgeting guides."
+          buttonText="Shop Travel Essentials"
+          href={'https://www.klook.com/en-US/activity/japan-esim?aff_id=' + (process.env.NEXT_PUBLIC_KLOOK_AFF_ID || '')}
+          program="klook"
+          category="travel-tips"
+        />
+      );
+    default:
+      return null;
+  }
 }
 
 export async function generateMetadata({
@@ -74,6 +130,30 @@ export default async function CategoryPage({ params }: CategoryPageProps) {
   ];
 
   return (
+    <>
+      {/* Structured Data — CollectionPage + ItemList */}
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{
+          __html: JSON.stringify({
+            '@context': 'https://schema.org',
+            '@type': 'CollectionPage',
+            name: category.label,
+            description: category.description || `Explore all articles about ${category.label.toLowerCase()} on Japan Pop Now.`,
+            url: `https://japan-pop-now.com/category/${slug}`,
+            mainEntity: {
+              '@type': 'ItemList',
+              numberOfItems: articles.length,
+              itemListElement: articles.map((a, i) => ({
+                '@type': 'ListItem',
+                position: i + 1,
+                url: `https://japan-pop-now.com/articles/${a.slug}`,
+                name: a.title,
+              })),
+            },
+          }),
+        }}
+      />
     <div style={{ background: '#fafaf9' }}>
       {/* Breadcrumb */}
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-6 pb-3">
@@ -116,6 +196,13 @@ export default async function CategoryPage({ params }: CategoryPageProps) {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mb-6">
         <AdUnit slot="6666666601" format="leaderboard" lazy />
       </div>
+
+      {/* Contextual Affiliate CTA */}
+      {category && (
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 mb-8">
+          {getCategoryAffiliateCTA(category)}
+        </div>
+      )}
 
       {/* Articles Grid */}
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
@@ -191,5 +278,6 @@ export default async function CategoryPage({ params }: CategoryPageProps) {
         </div>
       </section>
     </div>
+    </>
   );
 }

@@ -19,11 +19,21 @@ export function generateStaticParams() {
 export async function generateMetadata({ params }: TagPageProps): Promise<Metadata> {
   const { tag } = await params;
   const label = tag.replace(/-/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase());
+
+  // Get article count for this tag to determine indexing
+  const allArticles = getAllArticles();
+  const articleCount = allArticles.filter((a) =>
+    a.tags.map((t) => t.toLowerCase()).includes(tag.toLowerCase())
+  ).length;
+
+  // Noindex tags with 1 or fewer articles
+  const shouldIndex = articleCount > 1;
+
   return {
     title: `${label} Articles — Japan Pop Now`,
     description: `All articles tagged "${label}" on Japan Pop Now — anime, pop culture, and travel guides for Japan.`,
     alternates: { canonical: `https://japan-pop-now.com/tags/${tag}` },
-    robots: { index: true, follow: true },
+    robots: { index: shouldIndex, follow: true },
   };
 }
 

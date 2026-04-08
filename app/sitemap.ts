@@ -1,9 +1,10 @@
 import { MetadataRoute } from 'next';
 import { getAllArticleSlugs, getAllArticles, CATEGORIES } from '@/lib/articles';
 import { getAllUniqueTags } from '@/lib/auto-tags';
+import { getSiteUrl, articleUrl as getArticleUrl, tagUrl, guideUrl } from '@/lib/url';
 
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = 'https://japan-pop-now.com';
+  const baseUrl = getSiteUrl();
   const slugs = getAllArticleSlugs();
   const articles = getAllArticles();
 
@@ -55,7 +56,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
 
   // Article pages with lastModified dates
   const articlePages: MetadataRoute.Sitemap = articles.map((article) => ({
-    url: `${baseUrl}/articles/${article.slug}`,
+    url: getArticleUrl(article.slug),
     changeFrequency: 'weekly' as const,
     priority: 0.9,
     lastModified: new Date(article.date),
@@ -78,7 +79,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     'japan-travel-essentials',
   ];
   const guidePages: MetadataRoute.Sitemap = hubTopics.map((topic) => ({
-    url: `${baseUrl}/guides/${topic}`,
+    url: guideUrl(topic),
     changeFrequency: 'weekly' as const,
     priority: 0.8,
     lastModified: new Date(),
@@ -87,7 +88,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
   // Tag archive pages
   const tags = getAllUniqueTags(articles);
   const tagPages: MetadataRoute.Sitemap = tags.map((tag) => ({
-    url: `${baseUrl}/tags/${tag}`,
+    url: tagUrl(tag),
     changeFrequency: 'weekly' as const,
     priority: 0.5,
     lastModified: new Date(),

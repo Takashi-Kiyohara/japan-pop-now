@@ -31,6 +31,9 @@ const KEYWORD_TAG_MAP: Record<string, string[]> = {
   'weathering': ['weathering-with-you', 'makoto-shinkai'],
   'hero-academia': ['my-hero-academia'],
   'detective-conan': ['detective-conan'],
+  'naruto': ['naruto', 'ninja'],
+  'dragon-ball': ['dragon-ball'],
+  'pokemon': ['pokemon'],
 
   // Topics
   'collab-cafe': ['collab-cafe', 'anime-cafe'],

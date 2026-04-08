@@ -96,7 +96,7 @@ export default function Sidebar({
   currentCategory,
 }: SidebarProps) {
   return (
-    <aside className="space-y-5">
+    <aside className="space-y-5" style={{ position: 'sticky', top: '1rem' }}>
       {/* ── Ad Slot Top ── */}
       <AdUnit slot="8888888801" format="rectangle" lazy />
 

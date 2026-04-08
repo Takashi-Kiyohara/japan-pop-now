@@ -3,7 +3,9 @@
 import { usePathname } from 'next/navigation';
 import Link from 'next/link';
 import { useState, useEffect } from 'react';
+import { Search as SearchIcon } from 'lucide-react';
 import Search from './Search';
+import ThemeToggle from './ThemeToggle';
 
 const NAV_LINKS = [
   { href: '/category/collab-cafes', label: 'Collab Cafes' },
@@ -17,9 +19,18 @@ export default function Header() {
   const [mobileOpen, setMobileOpen] = useState(false);
   const [scrolled, setScrolled] = useState(false);
 
-  // Add subtle shadow on scroll
+  // Add subtle shadow on scroll (throttled)
   useEffect(() => {
-    const onScroll = () => setScrolled(window.scrollY > 8);
+    let ticking = false;
+    const onScroll = () => {
+      if (!ticking) {
+        requestAnimationFrame(() => {
+          setScrolled(window.scrollY > 8);
+          ticking = false;
+        });
+        ticking = true;
+      }
+    };
     window.addEventListener('scroll', onScroll, { passive: true });
     return () => window.removeEventListener('scroll', onScroll);
   }, []);
@@ -115,8 +126,24 @@ export default function Header() {
           </nav>
 
           {/* Right actions */}
-          <div className="flex items-center gap-2">
+          <div className="flex items-center gap-1">
             <Search />
+
+            {/* Mobile search button */}
+            <button
+              className="md:hidden p-2 rounded-lg"
+              style={{ color: '#44403c' }}
+              onClick={() => {
+                // Trigger search modal by dispatching a custom event or state
+                const searchBtn = document.querySelector('button[title="Press Cmd+K or Ctrl+K to search"]');
+                if (searchBtn) (searchBtn as HTMLButtonElement).click();
+              }}
+              aria-label="Open search"
+            >
+              <SearchIcon size={20} strokeWidth={2} />
+            </button>
+
+            <ThemeToggle />
 
             {/* Mobile hamburger */}
             <button

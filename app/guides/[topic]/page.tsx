@@ -7,6 +7,7 @@ import { CATEGORIES } from '@/lib/categories';
 import ArticleCard from '@/components/ArticleCard';
 import Breadcrumb from '@/components/Breadcrumb';
 import AdUnit from '@/components/AdUnit';
+import AffiliateCTA from '@/components/AffiliateCTA';
 import { getBlurPlaceholder } from '@/lib/image-utils';
 
 // ── Hub Topic Definitions ────────────────────────────────────
@@ -120,6 +121,167 @@ function getHubArticles(hub: HubTopic) {
     );
     return catMatch || tagMatch;
   });
+}
+
+// ── Helper: get contextual CTAs for hub page ─────────────────
+function getHubPlanYourTripCTAs(hub: HubTopic) {
+  const baseClookId = process.env.NEXT_PUBLIC_KLOOK_AFF_ID || '';
+  const baseBookingId = process.env.NEXT_PUBLIC_BOOKING_AFF_ID || '';
+
+  switch (hub.slug) {
+    case 'tokyo-anime-cafes':
+      return [
+        {
+          icon: '🎫',
+          title: 'Book Tokyo Cafes',
+          description: 'Reserve your spot at Tokyo\'s hottest anime collaboration cafes with free cancellation and English support.',
+          buttonText: 'Browse Experiences',
+          href: `https://www.klook.com/en-US/experiences/tokyo?aff_id=${baseClookId}`,
+          program: 'klook' as const,
+          category: 'collab-cafes',
+        },
+        {
+          icon: '🍽️',
+          title: 'Anime Restaurant Dining',
+          description: 'Special menus and themed dining experiences at collaboration restaurants across Tokyo.',
+          buttonText: 'Find Restaurants',
+          href: `https://www.klook.com/en-US/experiences/tokyo?aff_id=${baseClookId}`,
+          program: 'klook' as const,
+          category: 'collab-cafes',
+        },
+        {
+          icon: '🏨',
+          title: 'Stay in Anime Districts',
+          description: 'Hotels and capsule stays in Ikebukuro, Shibuya, Akihabara. Walk to cafes from your accommodation.',
+          buttonText: 'Search Hotels',
+          href: `https://www.booking.com/searchresults.html?ss=Tokyo&aid=${baseBookingId}`,
+          program: 'booking' as const,
+          category: 'area-guides',
+        },
+      ];
+    case 'anime-pilgrimage-tokyo':
+      return [
+        {
+          icon: '🚅',
+          title: 'JR Pass for Pilgrims',
+          description: 'Visit multiple pilgrimage sites efficiently with Japan Rail Pass. Covers trains to all major holy lands from Tokyo.',
+          buttonText: 'Get JR Pass',
+          href: `https://www.klook.com/en-US/activity/japan-rail-pass?aff_id=${baseClookId}`,
+          program: 'klook' as const,
+          category: 'anime-pilgrimage',
+        },
+        {
+          icon: '🏨',
+          title: 'Stay Near Pilgrimage Sites',
+          description: 'Hotels near Your Name (Komaichi), Weathering With You (Shinjuku), and other pilgrimage locations.',
+          buttonText: 'Find Accommodation',
+          href: `https://www.booking.com/searchresults.html?ss=Tokyo&aid=${baseBookingId}`,
+          program: 'booking' as const,
+          category: 'anime-pilgrimage',
+        },
+        {
+          icon: '📱',
+          title: 'Stay Connected',
+          description: 'eSIM and mobile data plans so you can navigate pilgrimage routes offline and share updates.',
+          buttonText: 'Get eSIM',
+          href: `https://www.klook.com/en-US/activity/japan-esim?aff_id=${baseClookId}`,
+          program: 'klook' as const,
+          category: 'travel-tips',
+        },
+      ];
+    case 'osaka-anime-guide':
+      return [
+        {
+          icon: '🎫',
+          title: 'Osaka Anime Experiences',
+          description: 'Book anime cafes, Den Den Town tours, and Universal Studios Japan anime attractions.',
+          buttonText: 'Browse Osaka',
+          href: `https://www.klook.com/en-US/experiences/osaka?aff_id=${baseClookId}`,
+          program: 'klook' as const,
+          category: 'collab-cafes',
+        },
+        {
+          icon: '🏨',
+          title: 'Stay in Dotonbori & Beyond',
+          description: 'Hotels in anime-friendly districts — Dotonbori, Namba, Shinsaibashi. Walking distance to shops and cafes.',
+          buttonText: 'Search Hotels',
+          href: `https://www.booking.com/searchresults.html?ss=Osaka&aid=${baseBookingId}`,
+          program: 'booking' as const,
+          category: 'area-guides',
+        },
+        {
+          icon: '🚄',
+          title: 'Kansai Rail Pass',
+          description: 'Day trips from Osaka to Kyoto, Kobe, and Nara. Perfect for expanding your anime pilgrimage.',
+          buttonText: 'Get Kansai Pass',
+          href: `https://www.klook.com/en-US/activity/kansai-rail-pass?aff_id=${baseClookId}`,
+          program: 'klook' as const,
+          category: 'travel-tips',
+        },
+      ];
+    case 'day-trips-from-tokyo':
+      return [
+        {
+          icon: '🚅',
+          title: 'JR Pass (7-Day)',
+          description: 'Visit Kamakura, Chichibu, Odaiba, and more all in one week. Perfect for day trip collectors.',
+          buttonText: 'Get JR Pass',
+          href: `https://www.klook.com/en-US/activity/japan-rail-pass?aff_id=${baseClookId}`,
+          program: 'klook' as const,
+          category: 'anime-pilgrimage',
+        },
+        {
+          icon: '🏖️',
+          title: 'Kamakura Day Trip',
+          description: 'Book skip-the-line access to temples and visit the Slam Dunk crossing with guided tours.',
+          buttonText: 'Book Tour',
+          href: `https://www.klook.com/en-US/experiences/kamakura?aff_id=${baseClookId}`,
+          program: 'klook' as const,
+          category: 'anime-pilgrimage',
+        },
+        {
+          icon: '🎭',
+          title: 'Local Guides & Maps',
+          description: 'GetYourGuide offers detailed pilgrimage guides and themed day trip itineraries.',
+          buttonText: 'Browse Guides',
+          href: `https://www.getyourguide.com/s/?q=Tokyo%20day%20trip&partner_id=${process.env.NEXT_PUBLIC_GETYOURGUIDE_AFF_ID || ''}`,
+          program: 'getyourguide' as const,
+          category: 'anime-pilgrimage',
+        },
+      ];
+    case 'japan-travel-essentials':
+      return [
+        {
+          icon: '📱',
+          title: 'eSIM & Mobile Data',
+          description: 'Instant eSIM activation. No physical SIM cards needed. From ¥1,000 for 7 days.',
+          buttonText: 'Compare Plans',
+          href: `https://www.klook.com/en-US/activity/japan-esim?aff_id=${baseClookId}`,
+          program: 'klook' as const,
+          category: 'travel-tips',
+        },
+        {
+          icon: '🚅',
+          title: 'JR Pass (All Durations)',
+          description: '7, 14, or 21-day passes. Compare prices and find the best option for your trip length.',
+          buttonText: 'Get JR Pass',
+          href: `https://www.klook.com/en-US/activity/japan-rail-pass?aff_id=${baseClookId}`,
+          program: 'klook' as const,
+          category: 'travel-tips',
+        },
+        {
+          icon: '🏨',
+          title: 'Hotels & Ryokans',
+          description: 'Budget capsule hotels to luxury ryokans. Free cancellation on most bookings.',
+          buttonText: 'Search Hotels',
+          href: `https://www.booking.com/?aid=${baseBookingId}`,
+          program: 'booking' as const,
+          category: 'area-guides',
+        },
+      ];
+    default:
+      return [];
+  }
 }
 
 // ── Page ─────────────────────────────────────────────────────
@@ -244,6 +406,26 @@ export default async function HubPage({ params }: HubPageProps) {
             </div>
           </div>
         )}
+
+        {/* Plan Your Trip — Affiliate CTA Section */}
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-10">
+          <h2
+            style={{
+              fontSize: '1.1rem',
+              fontWeight: 700,
+              color: '#14213d',
+              marginBottom: '1.5rem',
+              fontFamily: 'var(--font-display), "Playfair Display", Georgia, serif',
+            }}
+          >
+            Plan Your Trip
+          </h2>
+          <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
+            {getHubPlanYourTripCTAs(hub).map((cta, idx) => (
+              <AffiliateCTA key={idx} {...cta} />
+            ))}
+          </div>
+        </div>
 
         {/* Cluster Articles — Deep Dives */}
         {clusterArticles.length > 0 && (

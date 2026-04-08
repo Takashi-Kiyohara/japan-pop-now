@@ -5,6 +5,9 @@ import { generateAutoTags } from './auto-tags'
 
 const ARTICLES_DIR = path.join(process.cwd(), 'content/articles')
 
+// Module-level cache for all articles
+let cachedArticles: ArticleMeta[] | null = null
+
 export type Article = {
   slug: string
   title: string
@@ -62,16 +65,29 @@ export function getArticleBySlug(slug: string): Article | null {
 }
 
 export function getAllArticles(): ArticleMeta[] {
+  // Return cached articles if available
+  if (cachedArticles) {
+    return cachedArticles
+  }
+
   const slugs = getAllArticleSlugs()
-  return slugs
+  const articles = slugs
     .map((slug) => {
       const a = getArticleBySlug(slug)
       if (!a) return null
       const { content, ...meta } = a
+      // Ensure tags are always populated (auto-tags if empty)
+      if (!meta.tags || meta.tags.length === 0) {
+        meta.tags = generateAutoTags(meta.slug, meta.title, meta.category)
+      }
       return meta
     })
     .filter(Boolean)
     .sort((a, b) => (a!.date > b!.date ? -1 : 1)) as ArticleMeta[]
+
+  // Cache the result
+  cachedArticles = articles
+  return articles
 }
 
 export function getArticlesByCategory(category: string): ArticleMeta[] {

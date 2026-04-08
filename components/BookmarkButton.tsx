@@ -8,39 +8,61 @@ interface BookmarkButtonProps {
   title: string;
 }
 
+interface Bookmark {
+  slug: string;
+  title: string;
+  savedAt: string;
+}
+
+const getBookmarks = (): Bookmark[] => {
+  try {
+    const stored = localStorage.getItem('jpn_bookmarks');
+    return stored ? JSON.parse(stored) : [];
+  } catch (error) {
+    console.warn('Failed to read bookmarks:', error);
+    return [];
+  }
+};
+
+const saveBookmarks = (bookmarks: Bookmark[]): boolean => {
+  try {
+    localStorage.setItem('jpn_bookmarks', JSON.stringify(bookmarks));
+    return true;
+  } catch (error) {
+    console.warn('Failed to save bookmarks:', error);
+    return false;
+  }
+};
+
 export default function BookmarkButton({ slug, title }: BookmarkButtonProps) {
   const [saved, setSaved] = useState(false);
 
   useEffect(() => {
-    try {
-      const bookmarks = JSON.parse(localStorage.getItem('jpn_bookmarks') || '[]');
-      setSaved(bookmarks.some((b: { slug: string }) => b.slug === slug));
-    } catch {
-      // localStorage not available
-    }
+    const bookmarks = getBookmarks();
+    setSaved(bookmarks.some((b) => b.slug === slug));
   }, [slug]);
 
   const toggle = () => {
-    try {
-      const bookmarks = JSON.parse(localStorage.getItem('jpn_bookmarks') || '[]');
-      if (saved) {
-        const filtered = bookmarks.filter((b: { slug: string }) => b.slug !== slug);
-        localStorage.setItem('jpn_bookmarks', JSON.stringify(filtered));
+    const bookmarks = getBookmarks();
+    const isSaved = bookmarks.some((b) => b.slug === slug);
+
+    if (isSaved) {
+      const filtered = bookmarks.filter((b) => b.slug !== slug);
+      if (saveBookmarks(filtered)) {
         setSaved(false);
-      } else {
-        bookmarks.push({ slug, title, savedAt: new Date().toISOString() });
-        localStorage.setItem('jpn_bookmarks', JSON.stringify(bookmarks));
+      }
+    } else {
+      bookmarks.push({ slug, title, savedAt: new Date().toISOString() });
+      if (saveBookmarks(bookmarks)) {
         setSaved(true);
       }
+    }
 
-      // GA4 tracking
-      if (typeof window !== 'undefined' && (window as any).gtag) {
-        (window as any).gtag('event', saved ? 'bookmark_remove' : 'bookmark_add', {
-          article_slug: slug,
-        });
-      }
-    } catch {
-      // localStorage not available
+    // GA4 tracking
+    if (typeof window !== 'undefined' && typeof (window as any).gtag === 'function') {
+      (window as any).gtag('event', isSaved ? 'bookmark_remove' : 'bookmark_add', {
+        article_slug: slug,
+      });
     }
   };
 

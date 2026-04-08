@@ -1,6 +1,7 @@
 import { Article } from './articles'
+import { getSiteUrl } from './url'
 
-const SITE_URL = 'https://japan-pop-now.com'
+const SITE_URL = getSiteUrl()
 const SITE_NAME = 'Japan Pop Now'
 const LOGO_URL = `${SITE_URL}/logo.png`
 
@@ -51,11 +52,7 @@ export function getArticleSchema(article: Article, url: string, options?: Articl
     image: article.featuredImage || LOGO_URL,
     datePublished: article.date,
     dateModified: article.date,
-    author: {
-      '@type': 'Person',
-      name: article.author,
-      url: `${SITE_URL}/about`,
-    },
+    author: getAuthorSchema(),
     publisher: {
       '@type': 'Organization',
       name: SITE_NAME,
@@ -205,6 +202,8 @@ export function getAuthorSchema(
     url: url || `${SITE_URL}/about`,
     sameAs: [
       'https://twitter.com/japanpopnow',
+      'https://www.instagram.com/japan_pop_now/',
+      'https://youtube.com/@japanpopnow',
     ],
   }
 
@@ -223,4 +222,30 @@ export function getAuthorSchema(
   ]
 
   return schema
+}
+
+/**
+ * Generate HowTo schema for how-to and guide articles
+ */
+export function getHowToSchema(
+  title: string,
+  description: string,
+  steps: { name: string; text?: string }[],
+  url: string,
+  image?: string,
+) {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'HowTo',
+    name: title,
+    description,
+    url,
+    ...(image ? { image } : {}),
+    step: steps.map((step, i) => ({
+      '@type': 'HowToStep',
+      position: i + 1,
+      name: step.name,
+      ...(step.text ? { text: step.text } : {}),
+    })),
+  }
 }

@@ -9,7 +9,8 @@ import {
   getAllArticles,
 } from '@/lib/articles';
 import { CATEGORIES } from '@/lib/categories';
-import { getArticleSchemaWithSpeakable, getBreadcrumbSchema } from '@/lib/structured-data';
+import { getArticleSchemaWithSpeakable, getBreadcrumbSchema, getHowToSchema } from '@/lib/structured-data';
+import { articleUrl as getArticleUrl, absoluteUrl } from '@/lib/url';
 import { extractQAFromHeadings, generateFAQSchema } from '@/lib/faq-schema';
 import { getContentMetrics } from '@/lib/content-analysis';
 import { formatDateFull } from '@/lib/date-utils';
@@ -52,16 +53,16 @@ export async function generateMetadata({
     return { title: 'Article Not Found' };
   }
 
-  const articleUrl = `https://japan-pop-now.com/articles/${slug}`;
+  const url = getArticleUrl(slug);
 
   return {
     title: article.title,
     description: article.description,
     alternates: {
-      canonical: articleUrl,
+      canonical: url,
       languages: {
-        'en': articleUrl,
-        'x-default': articleUrl,
+        'en': url,
+        'x-default': url,
       },
     },
     openGraph: {
@@ -73,7 +74,7 @@ export async function generateMetadata({
       authors: [article.author],
       section: article.category,
       tags: article.tags,
-      url: articleUrl,
+      url: url,
       images: article.featuredImage
         ? [{ url: article.featuredImage, width: 1200, height: 630, alt: article.featuredImageAlt }]
         : undefined,
@@ -100,7 +101,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
   const relatedArticles = getRelatedArticles(slug, 3);
   const allArticles = getAllArticles();
   const category = CATEGORIES.find((c) => c.slug === article.category);
-  const articleUrl = `https://japan-pop-now.com/articles/${slug}`;
+  const url = getArticleUrl(slug);
   const headings = extractHeadings(article.content);
   const metrics = getContentMetrics(article.content);
   const faqs = extractQAFromHeadings(article.content);
@@ -116,6 +117,10 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     ...(hubSlug ? [{ label: 'Guide', href: `/guides/${hubSlug}` }] : []),
     { label: article.title, href: `/articles/${slug}` },
   ];
+
+  // Check if this is a how-to article and extract steps from H2 headings
+  const isHowTo = /how.?to|guide/i.test(article.title);
+  const h2Headings = headings.filter((h) => h.level === 2);
 
   const popularArticles = allArticles
     .filter((a) => a.slug !== slug)
@@ -146,7 +151,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
         type="application/ld+json"
         dangerouslySetInnerHTML={{
           __html: JSON.stringify(
-            getArticleSchemaWithSpeakable(article, articleUrl, {
+            getArticleSchemaWithSpeakable(article, url, {
               wordCount: metrics.wordCount,
               readingTime: metrics.readingTimeISO,
             })
@@ -159,7 +164,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
           __html: JSON.stringify(getBreadcrumbSchema(
             breadcrumbItems.map((item) => ({
               name: item.label,
-              url: `https://japan-pop-now.com${item.href}`,
+              url: absoluteUrl(item.href),
             }))
           )),
         }}
@@ -169,6 +174,22 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
           type="application/ld+json"
           dangerouslySetInnerHTML={{
             __html: JSON.stringify(generateFAQSchema(faqs)),
+          }}
+        />
+      )}
+      {isHowTo && h2Headings.length > 0 && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(
+              getHowToSchema(
+                article.title,
+                article.description,
+                h2Headings.map((h) => ({ name: h.text })),
+                url,
+                article.featuredImage,
+              )
+            ),
           }}
         />
       )}
@@ -247,7 +268,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
 
                 {/* Share Buttons + Bookmark — top of article */}
                 <div className="mt-4 flex items-center gap-3 flex-wrap">
-                  <ShareButtons url={articleUrl} title={article.title} />
+                  <ShareButtons url={url} title={article.title} />
                   <BookmarkButton slug={slug} title={article.title} />
                 </div>
               </header>
@@ -294,7 +315,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
 
               {/* Bottom Share Buttons */}
               <div className="mt-8 pt-6" style={{ borderTop: '1px solid #e7e5e4' }}>
-                <ShareButtons url={articleUrl} title={article.title} />
+                <ShareButtons url={url} title={article.title} />
               </div>
 
               {/* Article Footer — circulation design */}

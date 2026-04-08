@@ -1,6 +1,6 @@
 'use client';
 
-type AffiliateProgram = 'klook' | 'booking' | 'amazon' | 'getyourguide' | 'agoda' | 'jrpass' | 'other';
+type AffiliateProgram = 'klook' | 'booking' | 'amazon' | 'getyourguide' | 'agoda' | 'jrpass' | 'awin' | 'beehiiv' | 'other';
 
 interface AffiliateLinkProps {
   href: string;
@@ -8,6 +8,7 @@ interface AffiliateLinkProps {
   children: React.ReactNode;
   className?: string;
   showBadge?: boolean;
+  category?: string;
 }
 
 const programLabels: Record<AffiliateProgram, string> = {
@@ -17,8 +18,30 @@ const programLabels: Record<AffiliateProgram, string> = {
   getyourguide: 'GetYourGuide',
   agoda: 'Agoda',
   jrpass: 'JR Pass',
+  awin: 'Awin',
+  beehiiv: 'Newsletter',
   other: '',
 };
+
+/**
+ * Add UTM parameters to affiliate URL
+ * @param baseUrl - The affiliate URL
+ * @param category - Content category for campaign tracking
+ * @returns URL with UTM parameters
+ */
+function buildAffiliateUrl(baseUrl: string, category: string = 'general'): string {
+  try {
+    const url = new URL(baseUrl);
+    url.searchParams.set('utm_source', 'japanpopnow');
+    url.searchParams.set('utm_medium', 'affiliate');
+    url.searchParams.set('utm_campaign', category);
+    return url.toString();
+  } catch {
+    // If URL is invalid, return as-is
+    console.warn(`Invalid affiliate URL: ${baseUrl}`);
+    return baseUrl;
+  }
+}
 
 export default function AffiliateLink({
   href,
@@ -26,22 +49,31 @@ export default function AffiliateLink({
   children,
   className = '',
   showBadge = false,
+  category = 'general',
 }: AffiliateLinkProps) {
+  // Validate href is not empty
+  if (!href || !href.trim()) {
+    console.warn(`AffiliateLink: Missing affiliate URL for program "${program}"`);
+    return <>{children}</>;
+  }
+
+  const affiliateUrl = buildAffiliateUrl(href, category);
+
   const handleClick = () => {
     // GA4 event tracking for affiliate clicks
-    if (typeof window !== 'undefined' && (window as any).gtag) {
+    if (typeof window !== 'undefined' && typeof (window as any).gtag === 'function') {
       (window as any).gtag('event', 'affiliate_click', {
         affiliate_program: program,
-        affiliate_url: href,
+        affiliate_url: affiliateUrl,
       });
     }
   };
 
   return (
     <a
-      href={href}
+      href={affiliateUrl}
       target="_blank"
-      rel="noopener noreferrer sponsored"
+      rel="nofollow sponsored noopener noreferrer"
       onClick={handleClick}
       className={`inline-flex items-center gap-1 font-semibold transition-opacity hover:opacity-80 ${className}`}
       style={{ color: '#ea580c', borderBottom: '1px dashed rgba(234, 88, 12, 0.4)' }}

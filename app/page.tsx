@@ -3,6 +3,7 @@ import ArticleCard from '@/components/ArticleCard';
 import FeaturedCarousel from '@/components/FeaturedCarousel';
 import CategoryStrip from '@/components/CategoryStrip';
 import AdUnit from '@/components/AdUnit';
+import AffiliateCTA from '@/components/AffiliateCTA';
 import Link from 'next/link';
 
 export const revalidate = 3600;
@@ -114,18 +115,66 @@ export default function Home() {
         </section>
       )}
 
-      {/* ── Ad Unit ────────────────────────────────────────── */}
-      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-2">
-        <AdUnit slot="1234567890" format="leaderboard" className="py-4" />
+      {/* ── Ad Unit (Leaderboard — above fold) ────────────────────────────────────────── */}
+      <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">
+        <AdUnit slot="1111111101" format="leaderboard" className="py-4" />
       </section>
 
-      {/* ── Latest Articles ────────────────────────────────── */}
+      {/* ── Latest Articles + Sidebar Ad ────────────────────────────────── */}
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-        <SectionHeader title="Latest Articles" viewAllHref="/articles" />
-        <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-5">
-          {latestArticles.map((article) => (
-            <ArticleCard key={article.slug} article={article} size="md" />
-          ))}
+        <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
+          {/* Main Articles Grid */}
+          <div className="lg:col-span-2">
+            <SectionHeader title="Latest Articles" viewAllHref="/articles" />
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-5">
+              {latestArticles.map((article) => (
+                <ArticleCard key={article.slug} article={article} size="md" />
+              ))}
+            </div>
+          </div>
+
+          {/* Sidebar Ad */}
+          <div className="hidden lg:block">
+            <div className="sticky top-8">
+              <AdUnit slot="2222222201" format="rectangle" lazy />
+            </div>
+          </div>
+        </div>
+      </section>
+
+      {/* ── Popular Experiences (Affiliate Section) ────────── */}
+      <section style={{ background: '#f5f5f4' }}>
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
+          <SectionHeader title="Popular Experiences" />
+          <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
+            <AffiliateCTA
+              icon="🎫"
+              title="Book Tokyo Anime Cafes"
+              description="Reserve spots at Tokyo's hottest anime collaboration cafes with Klook. Free cancellation, English support, and skip-the-line access."
+              buttonText="Browse Tokyo Cafes"
+              href={'https://www.klook.com/en-US/experiences?aff_id=' + (process.env.NEXT_PUBLIC_KLOOK_AFF_ID || '')}
+              program="klook"
+              category="collab-cafes"
+            />
+            <AffiliateCTA
+              icon="🚅"
+              title="Japan Rail Pass"
+              description="Explore pilgrimage sites across Japan. JR Pass covers trains to most holy lands. 7, 14, and 21-day options available."
+              buttonText="Get JR Pass"
+              href={'https://www.klook.com/en-US/activity/japan-rail-pass?aff_id=' + (process.env.NEXT_PUBLIC_KLOOK_AFF_ID || '')}
+              program="klook"
+              category="travel-tips"
+            />
+            <AffiliateCTA
+              icon="🏨"
+              title="Stay in the Best Districts"
+              description="Find hotels and capsule stays in Akihabara, Ikebukuro, Shibuya, and other anime hotspots. From ¥3,000/night upward."
+              buttonText="Search Hotels"
+              href={'https://www.booking.com/index.html?aid=' + (process.env.NEXT_PUBLIC_BOOKING_AFF_ID || '')}
+              program="booking"
+              category="area-guides"
+            />
+          </div>
         </div>
       </section>
 
@@ -193,9 +242,9 @@ export default function Home() {
         </div>
       </section>
 
-      {/* ── Bottom Ad ──────────────────────────────────────── */}
+      {/* ── Bottom Ad (Leaderboard) ──────────────────────────────────────── */}
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
-        <AdUnit slot="9876543210" format="leaderboard" className="py-4" />
+        <AdUnit slot="1111111102" format="leaderboard" className="py-4" />
       </section>
     </div>
   );

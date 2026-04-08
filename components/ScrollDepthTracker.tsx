@@ -20,7 +20,7 @@ export default function ScrollDepthTracker() {
           fired.current.add(threshold);
 
           // Send to GA4
-          if (typeof window !== 'undefined' && (window as any).gtag) {
+          if (typeof window !== 'undefined' && typeof (window as any).gtag === 'function') {
             (window as any).gtag('event', 'scroll_depth', {
               percent_scrolled: threshold,
               page_path: window.location.pathname,

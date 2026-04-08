@@ -6,8 +6,21 @@ interface InternalLinkMatch {
   position: number;
 }
 
+// Keyword aliases for improved matching
+const KEYWORD_ALIASES: Record<string, string[]> = {
+  'akihabara-guide': ['akihabara', 'electric town'],
+  'shibuya-spots': ['shibuya', 'shibuya crossing'],
+  'harajuku-fashion': ['harajuku', 'takeshita street'],
+  'jr-pass': ['japan rail pass', 'jr pass', 'jrpass'],
+  'esim-japan': ['esim', 'sim card', 'data plan'],
+  'collab-cafe': ['collaboration cafe', 'collab cafe', 'themed cafe'],
+  'pokemon': ['pokemon', 'pikachu'],
+  'slam-dunk': ['slam dunk', 'inoue'],
+};
+
 /**
  * Automatically inserts internal links to related articles in markdown content
+ * Uses multiple matching strategies: exact title, slug-based, case-insensitive keywords
  * @param content - The markdown content to process
  * @param articles - Array of all available articles
  * @param excludeSlug - Slug of the current article (to avoid self-linking)
@@ -27,9 +40,9 @@ export function insertInternalLinks(
   // Filter out the current article
   const availableArticles = articles.filter((a) => a.slug !== excludeSlug);
 
-  // Find potential article mentions in the content
+  // Find potential article mentions in the content using multiple strategies
   availableArticles.forEach((article) => {
-    // Match article titles (case-insensitive, word boundaries)
+    // Strategy 1: Exact title match (case-insensitive)
     const titleRegex = new RegExp(
       `\\b${escapeRegex(article.title)}\\b`,
       'gi'
@@ -37,12 +50,7 @@ export function insertInternalLinks(
 
     let match;
     while ((match = titleRegex.exec(content)) !== null) {
-      // Don't match if already linked
-      const isAlreadyLinked = /\[.*?\]\(.*?\)/.test(
-        content.substring(Math.max(0, match.index - 50), match.index + match[0].length + 50)
-      );
-
-      if (!isAlreadyLinked) {
+      if (!isAlreadyLinked(content, match.index, match[0].length)) {
         matches.push({
           text: match[0],
           slug: article.slug,
@@ -50,13 +58,53 @@ export function insertInternalLinks(
         });
       }
     }
+
+    // Strategy 2: Slug-based matching - extract meaningful words from slug
+    const slugWords = article.slug
+      .split('-')
+      .filter((word) => word.length > 2);
+
+    for (const slugWord of slugWords) {
+      const slugWordRegex = new RegExp(`\\b${escapeRegex(slugWord)}\\b`, 'gi');
+      while ((match = slugWordRegex.exec(content)) !== null) {
+        // Only match if slug word appears in context (at least 3 words around it)
+        const contextStart = Math.max(0, match.index - 50);
+        const contextEnd = Math.min(content.length, match.index + match[0].length + 50);
+        const context = content.substring(contextStart, contextEnd);
+
+        // Check if it's not already linked and slug word is relevant
+        if (!isAlreadyLinked(content, match.index, match[0].length)) {
+          matches.push({
+            text: match[0],
+            slug: article.slug,
+            position: match.index,
+          });
+        }
+      }
+    }
+
+    // Strategy 3: Keyword aliases
+    const aliases = KEYWORD_ALIASES[article.slug] || [];
+    for (const alias of aliases) {
+      const aliasRegex = new RegExp(`\\b${escapeRegex(alias)}\\b`, 'gi');
+      while ((match = aliasRegex.exec(content)) !== null) {
+        if (!isAlreadyLinked(content, match.index, match[0].length)) {
+          matches.push({
+            text: match[0],
+            slug: article.slug,
+            position: match.index,
+          });
+        }
+      }
+    }
   });
 
-  // Sort by position (descending) to avoid index shifting
-  matches.sort((a, b) => b.position - a.position);
+  // Remove duplicates and sort by position (descending) to avoid index shifting
+  const uniqueMatches = removeDuplicateMatches(matches);
+  uniqueMatches.sort((a, b) => b.position - a.position);
 
   // Insert links up to maxLinks
-  for (const match of matches) {
+  for (const match of uniqueMatches) {
     if (insertedLinks.size >= maxLinks) break;
 
     if (!insertedLinks.has(match.slug)) {
@@ -67,6 +115,36 @@ export function insertInternalLinks(
         result.substring(match.position + match.text.length);
 
       insertedLinks.add(match.slug);
+    }
+  }
+
+  return result;
+}
+
+/**
+ * Check if text at position is already inside a markdown link
+ */
+function isAlreadyLinked(content: string, position: number, length: number): boolean {
+  const contextStart = Math.max(0, position - 100);
+  const contextEnd = Math.min(content.length, position + length + 100);
+  const context = content.substring(contextStart, contextEnd);
+  return /\[.*?\]\(.*?\)/.test(context);
+}
+
+/**
+ * Remove duplicate slug matches, keeping the earliest occurrence
+ */
+function removeDuplicateMatches(matches: InternalLinkMatch[]): InternalLinkMatch[] {
+  const seenSlugs = new Set<string>();
+  const result: InternalLinkMatch[] = [];
+
+  // Sort by position first to keep earliest
+  const sorted = [...matches].sort((a, b) => a.position - b.position);
+
+  for (const match of sorted) {
+    if (!seenSlugs.has(match.slug)) {
+      result.push(match);
+      seenSlugs.add(match.slug);
     }
   }
 

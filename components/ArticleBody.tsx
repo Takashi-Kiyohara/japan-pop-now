@@ -2,6 +2,7 @@ import { MDXRemote } from 'next-mdx-remote/rsc';
 import Link from 'next/link';
 import AdUnit from './AdUnit';
 import AffiliateCTA from './AffiliateCTA';
+import InlineNewsletter from './InlineNewsletter';
 import { insertInternalLinks } from '@/lib/internal-links';
 import { getAllArticles } from '@/lib/articles';
 
@@ -39,12 +40,16 @@ export default function ArticleBody({ content, category, slug, relatedSuggestion
   }
 
   // Calculate insertion points
+  // Newsletter after section 1-2 (~40% scroll, high engagement)
   // Ad after section 2 (~intro + first topic)
   // Affiliate CTA after section 3-4 (mid-article)
+  // Mid-content Rectangle Ad after section 3 (~3rd H2 heading)
   // Ad after section 5-6 (deep in article)
-  const adAfterSection = 2;
-  const affiliateAfterSection = Math.min(4, Math.floor(sections.length * 0.5));
-  const secondAdAfterSection = Math.min(6, sections.length - 2);
+  const newsletterAfterSection: number = Math.min(2, Math.floor(sections.length * 0.4));
+  const adAfterSection: number = 2;
+  const midContentAdAfterSection: number = 3;
+  const affiliateAfterSection: number = Math.min(4, Math.floor(sections.length * 0.5));
+  const secondAdAfterSection: number = Math.min(6, sections.length - 2);
 
   return (
     <>
@@ -54,10 +59,24 @@ export default function ArticleBody({ content, category, slug, relatedSuggestion
             <MDXRemote source={section} />
           </div>
 
+          {/* Inline Newsletter — after 2nd H2 (~40% scroll point) */}
+          {i === newsletterAfterSection && (
+            <div className="my-8 not-prose">
+              <InlineNewsletter />
+            </div>
+          )}
+
           {/* Inline Ad #1 — after intro sections */}
           {i === adAfterSection && (
             <div className="my-6 not-prose">
               <AdUnit slot="3333333301" format="leaderboard" lazy />
+            </div>
+          )}
+
+          {/* Mid-Content Rectangle Ad — after 3rd H2 heading */}
+          {i === midContentAdAfterSection && i !== adAfterSection && (
+            <div className="my-6 not-prose flex justify-center">
+              <AdUnit slot="7777777701" format="rectangle" lazy />
             </div>
           )}
 
@@ -69,7 +88,7 @@ export default function ArticleBody({ content, category, slug, relatedSuggestion
           )}
 
           {/* Inline Ad #2 — deeper in article */}
-          {i === secondAdAfterSection && i !== adAfterSection && (
+          {i === secondAdAfterSection && i !== adAfterSection && i !== midContentAdAfterSection && (
             <div className="my-6 not-prose">
               <AdUnit slot="3333333302" format="rectangle" lazy />
             </div>
@@ -114,6 +133,7 @@ function getAffiliateCTAForCategory(category: string) {
         buttonText: 'Browse Anime Experiences',
         href: 'https://www.klook.com/en-US/experiences?aff_id=' + (process.env.NEXT_PUBLIC_KLOOK_AFF_ID || ''),
         program: 'klook' as const,
+        category: 'collab-cafes',
       };
     case 'anime-pilgrimage':
       return {
@@ -123,6 +143,7 @@ function getAffiliateCTAForCategory(category: string) {
         buttonText: 'Compare JR Pass Prices',
         href: 'https://www.klook.com/en-US/activity/japan-rail-pass?aff_id=' + (process.env.NEXT_PUBLIC_KLOOK_AFF_ID || ''),
         program: 'klook' as const,
+        category: 'anime-pilgrimage',
       };
     case 'area-guides':
       return {
@@ -132,6 +153,7 @@ function getAffiliateCTAForCategory(category: string) {
         buttonText: 'Search Hotels',
         href: 'https://www.booking.com/index.html?aid=' + (process.env.NEXT_PUBLIC_BOOKING_AFF_ID || ''),
         program: 'booking' as const,
+        category: 'area-guides',
       };
     case 'travel-tips':
       return {
@@ -141,6 +163,7 @@ function getAffiliateCTAForCategory(category: string) {
         buttonText: 'Compare eSIM Plans',
         href: 'https://www.klook.com/en-US/activity/japan-esim?aff_id=' + (process.env.NEXT_PUBLIC_KLOOK_AFF_ID || ''),
         program: 'klook' as const,
+        category: 'travel-tips',
       };
     default:
       return null;

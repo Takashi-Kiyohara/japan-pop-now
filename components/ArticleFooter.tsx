@@ -3,6 +3,7 @@ import { ArticleMeta } from '@/lib/articles';
 import { CATEGORIES } from '@/lib/categories';
 import ArticleCard from './ArticleCard';
 import AdUnit from './AdUnit';
+import ReadNext from './ReadNext';
 
 interface ArticleFooterProps {
   author: string;
@@ -41,6 +42,13 @@ export default function ArticleFooter({
 
   return (
     <footer className="mt-12">
+      {/* ── Read Next ── */}
+      <ReadNext
+        relatedArticles={relatedArticles}
+        categoryArticles={categoryArticles}
+        currentCategory={category}
+      />
+
       {/* ── Author Bio ── */}
       <div
         className="rounded-xl p-5 mb-10"
