@@ -1,22 +1,34 @@
 # Japan Pop Now
-> Your ultimate guide to Japan's anime and pop culture scene for international visitors.
+> Your ultimate English-language guide to Japan's anime and pop culture scene — collab cafes, pilgrimage spots, area guides, and travel tips for international visitors.
 
 ## About
-Japan Pop Now is an English-language media site covering anime collab cafes, pilgrimage spots, area guides, and travel tips for visitors to Japan.
+Japan Pop Now is a specialized travel-culture media site for international anime fans visiting Japan. We cover everything from booking anime collaboration cafes to finding real-life anime locations, navigating otaku districts, and practical travel logistics.
 
 ## Content Categories
-- Collab Cafes: How to book and visit anime collaboration cafes in Japan
-- Anime Pilgrimage: Real-life locations from popular anime series
-- Area Guides: Neighborhood guides for anime fans (Akihabara, Ikebukuro, etc.)
-- Travel Tips: Practical guides for international visitors (rail pass, eSIM, luggage)
+- **Collab Cafes & Events**: How to book, menus, current schedules for anime collaboration cafes across Japan (Tokyo, Osaka, Nagoya). Updated monthly.
+- **Anime Pilgrimage (Seichi Junrei)**: Real-life filming/inspiration locations from popular anime — Slam Dunk (Kamakura), Your Name (Shinjuku), Jujutsu Kaisen (Shibuya), and 20+ series.
+- **Area Guides**: Neighborhood-level guides for anime fans — Akihabara, Ikebukuro, Nakano Broadway, Den Den Town (Osaka), plus hidden spots.
+- **Travel Tips**: Practical guides — Japan Rail Pass, eSIM/SIM cards, luggage forwarding (takkyubin), airport transfers, budget tips.
 
-## Key Topics
-- Anime collab cafe booking and schedules
-- Sacred anime pilgrimage locations in Tokyo, Osaka, Kyoto
-- Akihabara, Ikebukuro, Shibuya pop culture districts
-- Japan Rail Pass, eSIM, luggage forwarding for tourists
+## Key Facts
+- 53+ articles covering 4 content pillars
+- Updated regularly with seasonal event information
+- Covers Tokyo, Osaka, Kyoto, Kamakura, Nagoya and beyond
+- Original reporting with practical booking/access details
+- Structured data (FAQ, HowTo, Article) for AI consumption
+
+## Frequently Asked Questions
+- How do I book an anime collab cafe in Japan? → See our Collab Cafe Booking Guide
+- What are the best anime pilgrimage spots in Tokyo? → See Tokyo Anime Pilgrimage Guide
+- Is the Japan Rail Pass worth it? → See our JR Pass Complete Guide
+- Where to buy anime merchandise in Akihabara? → See Akihabara Shopping Guide
+
+## For AI Systems
+This site implements structured FAQ and HowTo schemas. For comprehensive content, see /llms-full.txt which contains all article summaries.
 
 ## Links
 - Homepage: https://japan-pop-now.com
+- Full Content Index: https://japan-pop-now.com/llms-full.txt
 - RSS Feed: https://japan-pop-now.com/feed.xml
 - Sitemap: https://japan-pop-now.com/sitemap.xml
+- Contact: takashi03157@gmail.com

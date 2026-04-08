@@ -22,6 +22,9 @@ import Breadcrumb from '@/components/Breadcrumb';
 import Sidebar from '@/components/Sidebar';
 import ArticleFooter from '@/components/ArticleFooter';
 import NewsletterSignup from '@/components/NewsletterSignup';
+import ShareButtons from '@/components/ShareButtons';
+import ScrollDepthTracker from '@/components/ScrollDepthTracker';
+import GiscusComments from '@/components/GiscusComments';
 import { notFound } from 'next/navigation';
 
 interface ArticlePageProps {
@@ -46,18 +49,38 @@ export async function generateMetadata({
     return { title: 'Article Not Found' };
   }
 
+  const articleUrl = `https://japan-pop-now.com/articles/${params.slug}`;
+
   return {
     title: article.title,
     description: article.description,
+    alternates: {
+      canonical: articleUrl,
+      languages: {
+        'en': articleUrl,
+        'x-default': articleUrl,
+      },
+    },
     openGraph: {
       title: article.title,
       description: article.description,
       type: 'article',
       publishedTime: article.date,
+      modifiedTime: article.lastUpdated || article.date,
       authors: [article.author],
+      section: article.category,
+      url: articleUrl,
       images: article.featuredImage
-        ? [{ url: article.featuredImage, alt: article.featuredImageAlt }]
+        ? [{ url: article.featuredImage, width: 1200, height: 630, alt: article.featuredImageAlt }]
         : undefined,
+    },
+    twitter: {
+      card: 'summary_large_image',
+      title: article.title,
+      description: article.description,
+      images: article.featuredImage ? [article.featuredImage] : undefined,
+      site: '@japanpopnow',
+      creator: '@japanpopnow',
     },
   };
 }
@@ -93,6 +116,7 @@ export default function ArticlePage({ params }: ArticlePageProps) {
   return (
     <>
       <ScrollProgress />
+      <ScrollDepthTracker />
 
       {/* Structured Data */}
       <script
@@ -180,10 +204,25 @@ export default function ArticlePage({ params }: ArticlePageProps) {
 
                 <div className="flex flex-wrap items-center gap-3 text-sm" style={{ color: '#78716c' }}>
                   <span>{formatDateFull(article.date)}</span>
+                  {article.lastUpdated && article.lastUpdated !== article.date && (
+                    <>
+                      <span style={{ color: '#d6d3d1' }}>|</span>
+                      <span style={{ color: '#f97316', fontWeight: 500 }}>
+                        Updated {formatDateFull(article.lastUpdated)}
+                      </span>
+                    </>
+                  )}
                   <span style={{ color: '#d6d3d1' }}>|</span>
-                  <span>By {article.author}</span>
+                  <span>
+                    By <a href="/about" style={{ color: '#14213d', textDecoration: 'underline', textUnderlineOffset: '2px' }}>{article.author}</a>
+                  </span>
                   <span style={{ color: '#d6d3d1' }}>|</span>
                   <ReadingTime content={article.content} />
+                </div>
+
+                {/* Share Buttons — top of article */}
+                <div className="mt-4">
+                  <ShareButtons url={articleUrl} title={article.title} />
                 </div>
               </header>
 
@@ -232,12 +271,20 @@ export default function ArticlePage({ params }: ArticlePageProps) {
                 </section>
               )}
 
+              {/* Bottom Share Buttons */}
+              <div className="mt-8 pt-6" style={{ borderTop: '1px solid #e7e5e4' }}>
+                <ShareButtons url={articleUrl} title={article.title} />
+              </div>
+
               {/* Article Footer (tags, share, author) */}
               <ArticleFooter
                 author={article.author}
                 relatedArticles={relatedArticles}
                 category={article.category}
               />
+
+              {/* Comments */}
+              <GiscusComments slug={params.slug} />
             </div>
 
             {/* Sidebar */}

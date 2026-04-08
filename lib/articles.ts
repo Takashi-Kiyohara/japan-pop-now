@@ -9,6 +9,7 @@ export type Article = {
   title: string
   description: string
   date: string
+  lastUpdated?: string
   category: string
   tags: string[]
   featuredImage: string
@@ -41,6 +42,7 @@ export function getArticleBySlug(slug: string): Article | null {
     title: data.title || '',
     description: data.description || '',
     date: data.date || '',
+    lastUpdated: data.lastUpdated || '',
     category: data.category || 'general',
     tags: data.tags || [],
     featuredImage: data.featuredImage || '',

@@ -35,6 +35,9 @@ export function getOrganizationSchema() {
     logo: { '@type': 'ImageObject', url: LOGO_URL },
     sameAs: [
       'https://twitter.com/japanpopnow',
+      'https://instagram.com/japanpopnow',
+      'https://youtube.com/@japanpopnow',
+      'https://tiktok.com/@japanpopnow',
     ],
   }
 }
@@ -97,10 +100,11 @@ export function getArticleSchemaWithSpeakable(
   // Add speakable property for voice search optimization
   schema.speakable = {
     '@type': 'SpeakableSpecification',
-    xPath: [
-      '/html/head/title',
-      '/html/body/article/h1[1]',
-      '/html/body/article/p[1]',
+    cssSelector: [
+      'article h1',
+      'article header',
+      '.prose h2',
+      '.prose p:first-of-type',
     ],
   }
 

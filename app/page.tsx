@@ -65,6 +65,23 @@ export default function Home() {
   return (
     <div style={{ background: '#fafaf9' }}>
 
+      {/* ── Visually hidden H1 for SEO (shown to crawlers, above carousel) ── */}
+      <h1
+        style={{
+          position: 'absolute',
+          width: '1px',
+          height: '1px',
+          padding: 0,
+          margin: '-1px',
+          overflow: 'hidden',
+          clip: 'rect(0, 0, 0, 0)',
+          whiteSpace: 'nowrap',
+          borderWidth: 0,
+        }}
+      >
+        Japan Pop Now — Your Guide to Anime Collab Cafes, Pilgrimage Spots &amp; Pop Culture in Japan
+      </h1>
+
       {/* ── Hero Carousel ──────────────────────────────────── */}
       <FeaturedCarousel articles={carouselArticles} />
 

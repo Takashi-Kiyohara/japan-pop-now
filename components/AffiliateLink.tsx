@@ -1,6 +1,6 @@
 'use client';
 
-type AffiliateProgram = 'klook' | 'booking' | 'amazon' | 'getyourguide' | 'jrpass' | 'other';
+type AffiliateProgram = 'klook' | 'booking' | 'amazon' | 'getyourguide' | 'agoda' | 'jrpass' | 'other';
 
 interface AffiliateLinkProps {
   href: string;
@@ -15,6 +15,7 @@ const programLabels: Record<AffiliateProgram, string> = {
   booking: 'Booking.com',
   amazon: 'Amazon',
   getyourguide: 'GetYourGuide',
+  agoda: 'Agoda',
   jrpass: 'JR Pass',
   other: '',
 };

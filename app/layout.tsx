@@ -4,6 +4,7 @@ import Header from "@/components/Header";
 import Footer from "@/components/Footer";
 import GoogleAnalytics from "@/components/GoogleAnalytics";
 import ScrollProgress from "@/components/ScrollProgress";
+import CookieConsent from "@/components/CookieConsent";
 import "./globals.css";
 
 const playfairDisplay = Playfair_Display({
@@ -24,7 +25,7 @@ export const metadata: Metadata = {
   metadataBase: new URL("https://japan-pop-now.com"),
   title: {
     template: "%s | Japan Pop Now",
-    default: "Japan Pop Now",
+    default: "Japan Pop Now — Anime Collab Cafes, Pilgrimage Spots & Pop Culture Travel Guide",
   },
   description:
     "Your ultimate guide to Japan's anime and pop culture scene — collab cafes, pilgrimage spots, area guides, and travel tips for international visitors.",
@@ -75,6 +76,17 @@ export default function RootLayout({
   return (
     <html lang="en" className={`${playfairDisplay.variable} ${dmSans.variable}`}>
       <head>
+        {/* hreflang — English primary, x-default */}
+        <link rel="alternate" hrefLang="en" href="https://japan-pop-now.com" />
+        <link rel="alternate" hrefLang="x-default" href="https://japan-pop-now.com" />
+
+        {/* DNS prefetch & preconnect for third-party origins */}
+        <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
+        <link rel="dns-prefetch" href="https://pagead2.googlesyndication.com" />
+        <link rel="dns-prefetch" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+        <link rel="preconnect" href="https://www.google-analytics.com" crossOrigin="anonymous" />
+
         {/* Structured Data - WebSite Schema */}
         <script
           type="application/ld+json"
@@ -108,17 +120,24 @@ export default function RootLayout({
               name: "Japan Pop Now",
               url: "https://japan-pop-now.com",
               logo: "https://japan-pop-now.com/logo.png",
-              sameAs: ["https://twitter.com/japanpopnow"],
+              sameAs: [
+                "https://twitter.com/japanpopnow",
+                "https://instagram.com/japanpopnow",
+                "https://youtube.com/@japanpopnow",
+                "https://tiktok.com/@japanpopnow",
+              ],
             }),
           }}
         />
 
-        {/* Google AdSense */}
-        <script
-          async
-          src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-XXXXXXXXXXXXXXXX"
-          crossOrigin="anonymous"
-        />
+        {/* Google AdSense — loaded dynamically via env var */}
+        {process.env.NEXT_PUBLIC_ADSENSE_ID && (
+          <script
+            async
+            src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${process.env.NEXT_PUBLIC_ADSENSE_ID}`}
+            crossOrigin="anonymous"
+          />
+        )}
       </head>
       <body className="min-h-screen flex flex-col bg-[#fafaf9]">
         <GoogleAnalytics />
@@ -126,6 +145,7 @@ export default function RootLayout({
         <Header />
         <main className="flex-1">{children}</main>
         <Footer />
+        <CookieConsent />
       </body>
     </html>
   );

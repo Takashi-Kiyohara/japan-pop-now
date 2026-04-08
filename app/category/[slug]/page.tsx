@@ -28,13 +28,24 @@ export async function generateMetadata({
     };
   }
 
+  const categoryUrl = `https://japan-pop-now.com/category/${params.slug}`;
+
   return {
-    title: `${category.label} | Japan Pop Now`,
-    description: `Explore all articles in the ${category.label} category on Japan Pop Now.`,
+    title: `${category.label} — Japan Pop Now`,
+    description: `Explore all articles about ${category.label.toLowerCase()} on Japan Pop Now — your guide to Japan's anime and pop culture scene.`,
+    alternates: {
+      canonical: categoryUrl,
+    },
     openGraph: {
-      title: category.label,
-      description: `Explore all articles in the ${category.label} category on Japan Pop Now.`,
+      title: `${category.label} — Japan Pop Now`,
+      description: `Explore all articles about ${category.label.toLowerCase()} on Japan Pop Now.`,
       type: 'website',
+      url: categoryUrl,
+    },
+    twitter: {
+      card: 'summary',
+      title: `${category.label} — Japan Pop Now`,
+      site: '@japanpopnow',
     },
   };
 }
