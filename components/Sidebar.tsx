@@ -1,5 +1,6 @@
 import Link from 'next/link';
-import { ArticleMeta, CATEGORIES } from '@/lib/articles';
+import { ArticleMeta } from '@/lib/articles';
+import { CATEGORIES } from '@/lib/categories';
 import TableOfContents from './TableOfContents';
 import NewsletterSignup from './NewsletterSignup';
 
@@ -21,33 +22,44 @@ export default function Sidebar({
   currentCategory,
 }: SidebarProps) {
   return (
-    <aside className="space-y-8">
+    <aside className="space-y-6">
       {/* Table of Contents */}
       {headings.length > 0 && (
-        <div className="bg-gray-50 rounded-lg p-6">
+        <div className="rounded-xl p-5" style={{ background: '#fff', border: '1px solid #e7e5e4' }}>
           <TableOfContents headings={headings} />
         </div>
       )}
 
       {/* Popular Articles */}
       {popularArticles.length > 0 && (
-        <div className="bg-gray-50 rounded-lg p-6">
-          <h3 className="text-lg font-bold text-[#1a1f36] mb-4">Popular</h3>
+        <div className="rounded-xl p-5" style={{ background: '#fff', border: '1px solid #e7e5e4' }}>
+          <h3
+            className="mb-4"
+            style={{
+              fontFamily: 'var(--font-display), "Playfair Display", Georgia, serif',
+              fontSize: '1rem',
+              fontWeight: 700,
+              color: '#14213d',
+            }}
+          >
+            Popular Articles
+          </h3>
           <ul className="space-y-3">
-            {popularArticles.slice(0, 3).map((article) => (
-              <li key={article.slug}>
+            {popularArticles.slice(0, 5).map((article, i) => (
+              <li key={article.slug} className="flex gap-3 items-start">
+                <span
+                  className="flex-shrink-0 w-6 h-6 rounded-full flex items-center justify-center text-xs font-bold"
+                  style={{ background: '#fff7ed', color: '#f97316' }}
+                >
+                  {i + 1}
+                </span>
                 <Link
                   href={`/articles/${article.slug}`}
-                  className="text-sm font-semibold text-[#1a1f36] hover:text-[#c2185b] transition-colors line-clamp-2 block"
+                  className="text-sm font-medium line-clamp-2 transition-colors leading-snug"
+                  style={{ color: '#44403c' }}
                 >
                   {article.title}
                 </Link>
-                <p className="text-xs text-gray-500 mt-1">
-                  {new Date(article.date).toLocaleDateString('en-US', {
-                    year: 'numeric',
-                    month: 'short',
-                  })}
-                </p>
               </li>
             ))}
           </ul>
@@ -55,23 +67,33 @@ export default function Sidebar({
       )}
 
       {/* Category Links */}
-      <div className="bg-gray-50 rounded-lg p-6">
-        <h3 className="text-lg font-bold text-[#1a1f36] mb-4">Categories</h3>
-        <ul className="space-y-2">
+      <div className="rounded-xl p-5" style={{ background: '#fff', border: '1px solid #e7e5e4' }}>
+        <h3
+          className="mb-4"
+          style={{
+            fontFamily: 'var(--font-display), "Playfair Display", Georgia, serif',
+            fontSize: '1rem',
+            fontWeight: 700,
+            color: '#14213d',
+          }}
+        >
+          Categories
+        </h3>
+        <ul className="space-y-1">
           {CATEGORIES.map((category) => {
             const isActive = currentCategory === category.slug;
             return (
               <li key={category.slug}>
                 <Link
                   href={`/category/${category.slug}`}
-                  className={`inline-flex items-center gap-2 px-3 py-2 rounded transition-colors ${
-                    isActive
-                      ? 'bg-[#c2185b] text-white'
-                      : 'text-gray-600 hover:text-[#c2185b]'
-                  }`}
+                  className="flex items-center gap-2 px-3 py-2 rounded-lg transition-all text-sm font-medium"
+                  style={{
+                    background: isActive ? '#fff7ed' : 'transparent',
+                    color: isActive ? '#ea580c' : '#78716c',
+                  }}
                 >
                   <span>{category.icon}</span>
-                  <span className="text-sm font-medium">{category.label}</span>
+                  <span>{category.label}</span>
                 </Link>
               </li>
             );
@@ -79,8 +101,8 @@ export default function Sidebar({
         </ul>
       </div>
 
-      {/* Newsletter Signup */}
-      <NewsletterSignup compact={true} />
+      {/* Newsletter CTA */}
+      <NewsletterSignup compact />
     </aside>
   );
 }

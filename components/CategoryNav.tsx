@@ -2,7 +2,7 @@
 
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
-import { CATEGORIES } from '@/lib/articles';
+import { CATEGORIES } from '@/lib/categories';
 
 interface CategoryNavProps {
   articleCounts?: Record<string, number>;

@@ -1,5 +1,6 @@
 import Link from 'next/link';
-import { ArticleMeta, CATEGORIES } from '@/lib/articles';
+import { ArticleMeta } from '@/lib/articles';
+import { CATEGORIES } from '@/lib/categories';
 import RelatedArticles from './RelatedArticles';
 import NewsletterSignup from './NewsletterSignup';
 

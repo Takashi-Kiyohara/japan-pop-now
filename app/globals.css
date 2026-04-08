@@ -1,109 +1,132 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@import "tailwindcss";
 
-/* CSS Reset and Base Styles */
-* {
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
+/* ─── Tailwind v4 Theme ─────────────────────────────────────── */
+@theme {
+  /* Fonts */
+  --font-display: var(--font-display), 'Playfair Display', Georgia, serif;
+  --font-sans: var(--font-sans), 'DM Sans', system-ui, sans-serif;
+
+  /* Brand Colors */
+  --color-brand-red: #e63946;
+  --color-brand-navy: #14213d;
+  --color-brand-cream: #fafaf9;
+  --color-brand-warm: #f4f1eb;
+
+  /* Accent: warm orange (MATCHA-style) */
+  --color-accent-50:  #fff7ed;
+  --color-accent-100: #ffedd5;
+  --color-accent-400: #fb923c;
+  --color-accent-500: #f97316;
+  --color-accent-600: #ea580c;
+
+  /* Neutral */
+  --color-neutral-50:  #fafaf9;
+  --color-neutral-100: #f5f5f4;
+  --color-neutral-200: #e7e5e4;
+  --color-neutral-300: #d6d3d1;
+  --color-neutral-500: #78716c;
+  --color-neutral-700: #44403c;
+  --color-neutral-900: #1c1917;
+
+  /* Teal accent for secondary */
+  --color-teal-400: #2dd4bf;
+  --color-teal-600: #0d9488;
 }
 
-html, body {
-  height: 100%;
-}
+/* ─── Base Reset ─────────────────────────────────────────────── */
+*, *::before, *::after { box-sizing: border-box; }
+html, body { height: 100%; }
 
 body {
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen', 'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue', sans-serif;
-  color: #1a1f36;
-  background-color: #fff;
+  font-family: var(--font-sans), 'DM Sans', system-ui, sans-serif;
+  color: #1c1917;
+  background-color: #fafaf9;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
 
-/* CSS Custom Variables */
-:root {
-  --primary: #c2185b;
-  --secondary: #1a1f36;
-  --accent: #1976d2;
+/* ─── Typography Scale ───────────────────────────────────────── */
+h1, h2, h3 {
+  font-family: var(--font-display), 'Playfair Display', Georgia, serif;
+  letter-spacing: -0.01em;
 }
 
-/* Prose Styles for Article Content */
+/* ─── Magazine Prose ─────────────────────────────────────────── */
 .prose {
-  max-width: 100%;
+  max-width: 65ch;
+  font-size: 1.0625rem;
+  line-height: 1.7;
 }
 
 .prose h2 {
-  margin-top: 2rem;
+  font-family: var(--font-display), 'Playfair Display', Georgia, serif;
+  margin-top: 2.5rem;
   margin-bottom: 1rem;
-  font-size: 1.5rem;
+  font-size: 1.6rem;
   font-weight: 700;
-  color: var(--secondary);
-  border-bottom: 2px solid #e8e6e3;
+  color: #14213d;
+  border-bottom: 2px solid #e7e5e4;
   padding-bottom: 0.5rem;
 }
 
 .prose h3 {
-  margin-top: 1.5rem;
+  font-family: var(--font-display), 'Playfair Display', Georgia, serif;
+  margin-top: 2rem;
   margin-bottom: 0.75rem;
   font-size: 1.25rem;
   font-weight: 700;
-  color: var(--secondary);
+  color: #14213d;
 }
 
 .prose p {
-  margin-bottom: 1rem;
+  margin-bottom: 1.25rem;
   line-height: 1.75;
+  color: #44403c;
 }
 
-.prose ul {
+.prose ul, .prose ol {
   margin-left: 1.5rem;
-  margin-bottom: 1rem;
-  list-style-type: disc;
+  margin-bottom: 1.25rem;
 }
 
-.prose ol {
-  margin-left: 1.5rem;
-  margin-bottom: 1rem;
-  list-style-type: decimal;
-}
+.prose ul { list-style-type: disc; }
+.prose ol { list-style-type: decimal; }
 
 .prose li {
   margin-bottom: 0.5rem;
   line-height: 1.75;
+  color: #44403c;
 }
 
 .prose a {
-  color: var(--accent);
+  color: #ea580c;
   text-decoration: none;
-  border-bottom: 1px solid var(--accent);
-  transition: opacity 0.2s ease;
+  border-bottom: 1px solid rgba(234, 88, 12, 0.3);
+  transition: border-color 0.2s ease;
 }
-
-.prose a:hover {
-  opacity: 0.8;
-}
+.prose a:hover { border-color: #ea580c; }
 
 .prose img {
-  margin-top: 1.5rem;
-  margin-bottom: 1.5rem;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
   border-radius: 0.5rem;
   max-width: 100%;
   height: auto;
 }
 
 .prose blockquote {
-  padding-left: 1rem;
-  padding-top: 0.5rem;
-  padding-bottom: 0.5rem;
-  margin-top: 1rem;
-  margin-bottom: 1rem;
-  border-left: 4px solid var(--primary);
+  padding: 1rem 1.5rem;
+  margin: 1.5rem 0;
+  border-left: 4px solid #fb923c;
+  background: #fff7ed;
   font-style: italic;
-  color: #666;
+  color: #78716c;
+  border-radius: 0 0.25rem 0.25rem 0;
 }
 
-/* Utility Classes */
+.prose strong { color: #1c1917; }
+
+/* ─── Line Clamp Utilities ───────────────────────────────────── */
 .line-clamp-2 {
   display: -webkit-box;
   -webkit-line-clamp: 2;
@@ -118,20 +141,51 @@ body {
   overflow: hidden;
 }
 
-/* Ad Break Spacing */
-.ad-break {
-  margin-top: 2rem;
+/* ─── Magazine Section Divider ───────────────────────────────── */
+.section-divider {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
   margin-bottom: 2rem;
-  padding-top: 1rem;
-  padding-bottom: 1rem;
+}
+.section-divider::after {
+  content: '';
+  flex: 1;
+  height: 1px;
+  background: #e7e5e4;
 }
 
-/* Global Component Styles */
-a {
-  transition: color 0.2s ease;
+/* ─── Category Pill ──────────────────────────────────────────── */
+.category-pill {
+  display: inline-block;
+  font-size: 0.7rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: #ea580c;
+  background: #fff7ed;
+  padding: 0.25rem 0.6rem;
+  border-radius: 9999px;
 }
 
-button {
-  cursor: pointer;
-  transition: all 0.2s ease;
+/* ─── Hover Image Zoom ───────────────────────────────────────── */
+.img-zoom img {
+  transition: transform 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94);
 }
+.img-zoom:hover img { transform: scale(1.05); }
+
+/* ─── Category Strip ─────────────────────────────────────────── */
+.category-strip-link:hover {
+  background: #fff7ed !important;
+  border-color: #fb923c !important;
+  color: #ea580c !important;
+}
+
+/* ─── Scroll Bar Thin ────────────────────────────────────────── */
+::-webkit-scrollbar { width: 6px; }
+::-webkit-scrollbar-track { background: #f5f5f4; }
+::-webkit-scrollbar-thumb { background: #d6d3d1; border-radius: 3px; }
+
+/* ─── Global Transitions ─────────────────────────────────────── */
+a { transition: color 0.2s ease; }
+button { cursor: pointer; transition: all 0.2s ease; }

@@ -6,9 +6,9 @@ import {
   getArticleBySlug,
   getAllArticleSlugs,
   getRelatedArticles,
-  CATEGORIES,
   getAllArticles,
 } from '@/lib/articles';
+import { CATEGORIES } from '@/lib/categories';
 import { getArticleSchemaWithSpeakable, getBreadcrumbSchema } from '@/lib/structured-data';
 import { extractQAFromHeadings, generateFAQSchema } from '@/lib/faq-schema';
 import { getContentMetrics } from '@/lib/content-analysis';
@@ -21,6 +21,7 @@ import ReadingTime from '@/components/ReadingTime';
 import Breadcrumb from '@/components/Breadcrumb';
 import Sidebar from '@/components/Sidebar';
 import ArticleFooter from '@/components/ArticleFooter';
+import NewsletterSignup from '@/components/NewsletterSignup';
 import { notFound } from 'next/navigation';
 
 interface ArticlePageProps {
@@ -33,9 +34,7 @@ export const revalidate = 3600;
 
 export async function generateStaticParams() {
   const slugs = getAllArticleSlugs();
-  return slugs.map((slug) => ({
-    slug,
-  }));
+  return slugs.map((slug) => ({ slug }));
 }
 
 export async function generateMetadata({
@@ -44,9 +43,7 @@ export async function generateMetadata({
   const article = getArticleBySlug(params.slug);
 
   if (!article) {
-    return {
-      title: 'Article Not Found',
-    };
+    return { title: 'Article Not Found' };
   }
 
   return {
@@ -59,12 +56,7 @@ export async function generateMetadata({
       publishedTime: article.date,
       authors: [article.author],
       images: article.featuredImage
-        ? [
-            {
-              url: article.featuredImage,
-              alt: article.featuredImageAlt,
-            },
-          ]
+        ? [{ url: article.featuredImage, alt: article.featuredImageAlt }]
         : undefined,
     },
   };
@@ -82,12 +74,9 @@ export default function ArticlePage({ params }: ArticlePageProps) {
   const category = CATEGORIES.find((c) => c.slug === article.category);
   const articleUrl = `https://japan-pop-now.com/articles/${params.slug}`;
   const headings = extractHeadings(article.content);
-
-  // Get content metrics for AIEO
   const metrics = getContentMetrics(article.content);
   const faqs = extractQAFromHeadings(article.content);
 
-  // Breadcrumb data
   const breadcrumbItems = [
     { label: 'Home', href: '/' },
     {
@@ -97,17 +86,15 @@ export default function ArticlePage({ params }: ArticlePageProps) {
     { label: article.title, href: `/articles/${params.slug}` },
   ];
 
-  // Get popular articles for sidebar
   const popularArticles = allArticles
     .filter((a) => a.slug !== params.slug)
     .slice(0, 5);
 
   return (
     <>
-      {/* Scroll Progress Bar */}
       <ScrollProgress />
 
-      {/* Structured Data - Article with Speakable */}
+      {/* Structured Data */}
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
@@ -119,8 +106,6 @@ export default function ArticlePage({ params }: ArticlePageProps) {
           ),
         }}
       />
-
-      {/* Structured Data - Breadcrumb */}
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
@@ -132,8 +117,6 @@ export default function ArticlePage({ params }: ArticlePageProps) {
           )),
         }}
       />
-
-      {/* Structured Data - FAQ (if headings detected) */}
       {faqs.length > 0 && (
         <script
           type="application/ld+json"
@@ -143,68 +126,113 @@ export default function ArticlePage({ params }: ArticlePageProps) {
         />
       )}
 
-      <article className="bg-white">
+      <article style={{ background: '#fafaf9' }}>
         {/* Breadcrumb */}
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-8 pb-4">
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-6 pb-3">
           <Breadcrumb items={breadcrumbItems} />
         </div>
 
-        {/* Featured Image */}
+        {/* Featured Image — full-width hero */}
         {article.featuredImage && (
-          <div className="w-full h-96 relative">
+          <div
+            className="relative w-full overflow-hidden"
+            style={{ height: 'clamp(280px, 45vh, 480px)' }}
+          >
             <Image
               src={article.featuredImage}
               alt={article.featuredImageAlt}
               fill
               className="object-cover"
               priority
+              sizes="100vw"
+            />
+            <div
+              className="absolute inset-0"
+              style={{ background: 'linear-gradient(to bottom, rgba(0,0,0,0) 50%, rgba(0,0,0,0.4) 100%)' }}
             />
           </div>
         )}
 
         {/* Main Content Area */}
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-          <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
-            {/* Main Content - 2 columns */}
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
+          <div className="grid grid-cols-1 lg:grid-cols-3 gap-10">
+
+            {/* Main Content */}
             <div className="lg:col-span-2">
               {/* Article Header */}
               <header className="mb-8">
                 {category && (
-                  <div
-                    className="inline-block px-3 py-1 rounded-full text-white text-xs font-semibold mb-4"
-                    style={{ backgroundColor: category.color }}
-                  >
-                    {category.label}
-                  </div>
+                  <span className="category-pill mb-3 inline-block">{category.label}</span>
                 )}
 
-                <h1 className="text-4xl font-bold text-[#1a1f36] mb-4">
+                <h1
+                  className="mb-4"
+                  style={{
+                    fontFamily: 'var(--font-display), "Playfair Display", Georgia, serif',
+                    fontSize: 'clamp(1.8rem, 4vw, 2.5rem)',
+                    fontWeight: 700,
+                    color: '#14213d',
+                    lineHeight: 1.2,
+                  }}
+                >
                   {article.title}
                 </h1>
 
-                <div className="flex flex-col sm:flex-row sm:items-center gap-3 sm:gap-6 text-sm text-gray-600">
+                <div className="flex flex-wrap items-center gap-3 text-sm" style={{ color: '#78716c' }}>
                   <span>{formatDateFull(article.date)}</span>
+                  <span style={{ color: '#d6d3d1' }}>|</span>
                   <span>By {article.author}</span>
+                  <span style={{ color: '#d6d3d1' }}>|</span>
                   <ReadingTime content={article.content} />
                 </div>
               </header>
 
-              {/* Article Content */}
-              <div className="prose prose-lg mb-8">
+              {/* Article Body */}
+              <div
+                className="prose prose-lg mb-8 rounded-xl p-6 md:p-8"
+                style={{ background: '#fff', border: '1px solid #e7e5e4' }}
+              >
                 <MDXRemote source={article.content} />
               </div>
 
-              {/* Ad Unit in Content */}
-              <div className="ad-break my-12">
-                <AdUnit slot="5555555555" format="leaderboard" className="justify-center" />
+              {/* In-article Ad #1 */}
+              <div className="my-8">
+                <AdUnit slot="5555555555" format="leaderboard" lazy />
               </div>
 
-              {/* Bottom Ad Unit */}
-              <div className="ad-break my-12">
-                <AdUnit slot="6666666666" format="rectangle" className="justify-center" />
+              {/* Newsletter CTA — mid-article */}
+              <NewsletterSignup />
+
+              {/* In-article Ad #2 */}
+              <div className="my-8">
+                <AdUnit slot="6666666666" format="rectangle" lazy />
               </div>
 
-              {/* Article Footer */}
+              {/* Related Articles */}
+              {relatedArticles.length > 0 && (
+                <section className="mt-10">
+                  <div className="flex items-center gap-4 mb-6">
+                    <div style={{ width: '4px', height: '24px', background: '#f97316', borderRadius: '2px' }} />
+                    <h2
+                      style={{
+                        fontFamily: 'var(--font-display), "Playfair Display", Georgia, serif',
+                        fontSize: '1.4rem',
+                        fontWeight: 700,
+                        color: '#14213d',
+                      }}
+                    >
+                      You Might Also Like
+                    </h2>
+                  </div>
+                  <div className="grid grid-cols-1 sm:grid-cols-3 gap-5">
+                    {relatedArticles.map((a) => (
+                      <ArticleCard key={a.slug} article={a} size="sm" />
+                    ))}
+                  </div>
+                </section>
+              )}
+
+              {/* Article Footer (tags, share, author) */}
               <ArticleFooter
                 author={article.author}
                 relatedArticles={relatedArticles}
@@ -212,13 +240,20 @@ export default function ArticlePage({ params }: ArticlePageProps) {
               />
             </div>
 
-            {/* Sidebar - 1 column */}
+            {/* Sidebar */}
             <aside className="lg:col-span-1">
-              <Sidebar
-                headings={headings}
-                popularArticles={popularArticles}
-                currentCategory={article.category}
-              />
+              <div className="sticky" style={{ top: '80px' }}>
+                <Sidebar
+                  headings={headings}
+                  popularArticles={popularArticles}
+                  currentCategory={article.category}
+                />
+
+                {/* Sidebar Ad — sticky */}
+                <div className="mt-6">
+                  <AdUnit slot="7777777777" format="rectangle" lazy />
+                </div>
+              </div>
             </aside>
           </div>
         </div>
