@@ -95,6 +95,9 @@ export function findRelatedArticleSlugs(
     // Same category: +10 points
     if (otherArticle.category === article.category) {
       score += 10;
+    } else {
+      // Cross-category bonus: ensures at least some cross-silo links
+      score += 3;
     }
 
     // Shared tags: +5 points each

@@ -29,7 +29,7 @@ export default function AffiliateCTA({
   return (
     <div
       className="my-8 rounded-xl overflow-hidden"
-      style={{ border: '1px solid #e7e5e4', background: '#fff' }}
+      style={{ border: '1px solid #e7e5e4', borderLeft: '4px solid #f97316', background: '#fff' }}
     >
       <div className="p-6">
         <div className="flex items-start gap-4">

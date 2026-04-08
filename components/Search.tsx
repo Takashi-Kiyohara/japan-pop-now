@@ -137,7 +137,7 @@ export default function Search() {
       {/* Search Button in Header */}
       <button
         onClick={() => setIsOpen(true)}
-        className="hidden md:flex items-center gap-2 px-3 py-2 text-sm text-gray-600 hover:text-[#c2185b] transition-colors"
+        className="hidden md:flex items-center gap-2 px-3 py-2 text-sm text-gray-600 hover:text-[#f97316] transition-colors"
         title="Press Cmd+K or Ctrl+K to search"
       >
         <svg
@@ -145,6 +145,7 @@ export default function Search() {
           fill="none"
           stroke="currentColor"
           viewBox="0 0 24 24"
+          aria-hidden="true"
         >
           <path
             strokeLinecap="round"
@@ -218,7 +219,7 @@ export default function Search() {
                       >
                         <div className="flex items-start justify-between gap-2">
                           <div className="flex-1">
-                            <h3 className="font-semibold text-[#1a1f36] group-hover:text-[#c2185b]">
+                            <h3 className="font-semibold text-[#1a1f36] group-hover:text-[#f97316]">
                               {result.title}
                             </h3>
                             <p className="text-sm text-gray-600 mt-1 line-clamp-2">

@@ -186,6 +186,31 @@ h1, h2, h3 {
 ::-webkit-scrollbar-track { background: #f5f5f4; }
 ::-webkit-scrollbar-thumb { background: #d6d3d1; border-radius: 3px; }
 
+/* ─── Focus Visible ─────────────────────────────────────────── */
+a:focus-visible, button:focus-visible, input:focus-visible, select:focus-visible, textarea:focus-visible {
+  outline: 2px solid #f97316;
+  outline-offset: 2px;
+  border-radius: 4px;
+}
+
 /* ─── Global Transitions ─────────────────────────────────────── */
 a { transition: color 0.2s ease; }
 button { cursor: pointer; transition: all 0.2s ease; }
+
+/* ─── Print Styles ──────────────────────────────────────────── */
+@media print {
+  header, footer, nav, aside,
+  .cookie-consent, .scroll-progress, .back-to-top,
+  .share-buttons, .newsletter-signup, .ad-unit,
+  .giscus, .scroll-depth-tracker,
+  button[aria-label="Back to top"] {
+    display: none !important;
+  }
+  body { background: #fff !important; color: #000 !important; }
+  .prose { max-width: 100%; font-size: 11pt; }
+  .prose a { color: #000; border-bottom: none; }
+  .prose a::after { content: ' (' attr(href) ')'; font-size: 9pt; color: #666; }
+  article { background: #fff !important; }
+  img { max-width: 100% !important; page-break-inside: avoid; }
+  h2, h3 { page-break-after: avoid; }
+}

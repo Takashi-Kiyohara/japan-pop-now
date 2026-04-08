@@ -64,7 +64,12 @@ export default function AdUnit({
   }, [isVisible, adLoaded]);
 
   const dims = formatDimensions[format];
-  const publisherId = process.env.NEXT_PUBLIC_ADSENSE_ID || 'ca-pub-XXXXXXXXXXXXXXXX';
+  const publisherId = process.env.NEXT_PUBLIC_ADSENSE_ID || '';
+
+  // Don't render anything if AdSense ID is not configured
+  if (!publisherId) {
+    return null;
+  }
 
   return (
     <div

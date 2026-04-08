@@ -6,6 +6,8 @@ const SITE_LINKS = [
   { href: '/category/anime-pilgrimage', label: 'Anime Pilgrimage' },
   { href: '/category/area-guides', label: 'Area Guides' },
   { href: '/category/travel-tips', label: 'Travel Tips' },
+  { href: '/guides', label: 'All Guides' },
+  { href: '/search', label: 'Search' },
 ];
 
 const COMPANY_LINKS = [

@@ -70,6 +70,15 @@ export default function ShareButtons({ url, title }: ShareButtonsProps) {
           rel="noopener noreferrer"
           aria-label={`Share on ${link.label}`}
           title={`Share on ${link.label}`}
+          onClick={() => {
+            if (typeof window !== 'undefined' && (window as any).gtag) {
+              (window as any).gtag('event', 'share', {
+                method: link.label,
+                content_type: 'article',
+                item_id: url,
+              });
+            }
+          }}
           style={{
             display: 'flex',
             alignItems: 'center',

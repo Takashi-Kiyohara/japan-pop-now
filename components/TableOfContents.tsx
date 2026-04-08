@@ -13,9 +13,14 @@ interface TableOfContentsProps {
   headings: Heading[];
 }
 
+const MAX_VISIBLE = 6;
+
 export default function TableOfContents({ headings }: TableOfContentsProps) {
   const [activeId, setActiveId] = useState<string>('');
-  const [isOpen, setIsOpen] = useState(true);
+  const [expanded, setExpanded] = useState(false);
+
+  // Only show h2 headings (level 2) for cleaner TOC
+  const h2Headings = headings.filter((h) => h.level === 2);
 
   useEffect(() => {
     const observer = new IntersectionObserver(
@@ -29,55 +34,74 @@ export default function TableOfContents({ headings }: TableOfContentsProps) {
       { rootMargin: '0px 0px -66% 0px' }
     );
 
-    headings.forEach((heading) => {
+    h2Headings.forEach((heading) => {
       const element = document.getElementById(heading.id);
-      if (element) {
-        observer.observe(element);
-      }
+      if (element) observer.observe(element);
     });
 
     return () => observer.disconnect();
-  }, [headings]);
+  }, [h2Headings]);
 
-  if (headings.length === 0) {
-    return null;
-  }
+  if (h2Headings.length === 0) return null;
+
+  const visibleHeadings = expanded ? h2Headings : h2Headings.slice(0, MAX_VISIBLE);
+  const hasMore = h2Headings.length > MAX_VISIBLE;
 
   return (
-    <nav className="mb-8">
-      <div className="flex items-center justify-between mb-4">
-        <h3 className="text-sm font-bold text-[#1a1f36] uppercase tracking-wide">
-          On This Page
-        </h3>
-        <button
-          onClick={() => setIsOpen(!isOpen)}
-          className="md:hidden text-[#c2185b] hover:opacity-80 transition-opacity"
-          aria-label="Toggle table of contents"
-        >
-          {isOpen ? '−' : '+'}
-        </button>
-      </div>
+    <nav>
+      <h3
+        className="mb-3"
+        style={{
+          fontFamily: 'var(--font-display), "Playfair Display", Georgia, serif',
+          fontSize: '0.95rem',
+          fontWeight: 700,
+          color: '#14213d',
+        }}
+      >
+        On This Page
+      </h3>
 
-      {isOpen && (
-        <ul className="space-y-2 text-sm">
-          {headings.map((heading) => (
-            <li
-              key={heading.id}
-              style={{ paddingLeft: `${(heading.level - 2) * 1}rem` }}
+      <ul
+        style={{
+          maxHeight: expanded ? 'none' : '240px',
+          overflow: 'hidden',
+          transition: 'max-height 0.3s ease',
+        }}
+      >
+        {visibleHeadings.map((heading, i) => (
+          <li key={heading.id}>
+            <Link
+              href={`#${heading.id}`}
+              className="block py-1.5 text-sm transition-colors leading-snug"
+              style={{
+                color: activeId === heading.id ? '#f97316' : '#78716c',
+                fontWeight: activeId === heading.id ? 600 : 400,
+                borderLeft: activeId === heading.id ? '2px solid #f97316' : '2px solid transparent',
+                paddingLeft: '10px',
+              }}
             >
-              <Link
-                href={`#${heading.id}`}
-                className={`block py-1 px-2 rounded transition-colors ${
-                  activeId === heading.id
-                    ? 'text-[#c2185b] bg-pink-50 font-semibold'
-                    : 'text-gray-600 hover:text-[#c2185b]'
-                }`}
-              >
-                {heading.text}
-              </Link>
-            </li>
-          ))}
-        </ul>
+              {heading.text}
+            </Link>
+          </li>
+        ))}
+      </ul>
+
+      {hasMore && (
+        <button
+          onClick={() => setExpanded(!expanded)}
+          style={{
+            marginTop: '8px',
+            fontSize: '0.8rem',
+            fontWeight: 600,
+            color: '#f97316',
+            background: 'none',
+            border: 'none',
+            cursor: 'pointer',
+            padding: 0,
+          }}
+        >
+          {expanded ? '− Show less' : `+ ${h2Headings.length - MAX_VISIBLE} more sections`}
+        </button>
       )}
     </nav>
   );

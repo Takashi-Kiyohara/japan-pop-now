@@ -1,6 +1,7 @@
 import fs from 'fs'
 import path from 'path'
 import matter from 'gray-matter'
+import { generateAutoTags } from './auto-tags'
 
 const ARTICLES_DIR = path.join(process.cwd(), 'content/articles')
 
@@ -37,16 +38,22 @@ export function getArticleBySlug(slug: string): Article | null {
   const raw = fs.readFileSync(filePath, 'utf-8')
   const { data, content } = matter(raw)
 
+  const title = data.title || '';
+  const category = data.category || 'general';
+  const rawTags = data.tags || [];
+  // Auto-generate tags if frontmatter tags are empty
+  const tags = rawTags.length > 0 ? rawTags : generateAutoTags(slug, title, category);
+
   return {
     slug,
-    title: data.title || '',
+    title,
     description: data.description || '',
     date: data.date || '',
     lastUpdated: data.lastUpdated || '',
-    category: data.category || 'general',
-    tags: data.tags || [],
+    category,
+    tags,
     featuredImage: data.featuredImage || '',
-    featuredImageAlt: data.featuredImageAlt || data.title || '',
+    featuredImageAlt: data.featuredImageAlt || title || '',
     author: data.author || 'Japan Pop Now',
     content,
     excerpt: data.excerpt || content.slice(0, 160).replace(/\n/g, ' '),

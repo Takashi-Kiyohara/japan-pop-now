@@ -7,7 +7,6 @@ export default function ScrollProgress() {
   const [progress, setProgress] = useState(0);
   const pathname = usePathname();
 
-  // Only show on article pages
   const isArticlePage = pathname.startsWith('/articles/');
 
   useEffect(() => {
@@ -18,18 +17,47 @@ export default function ScrollProgress() {
       setProgress(Math.min(scrollProgress, 100));
     };
 
-    window.addEventListener('scroll', handleScroll);
+    window.addEventListener('scroll', handleScroll, { passive: true });
     return () => window.removeEventListener('scroll', handleScroll);
   }, []);
 
-  if (!isArticlePage) {
-    return null;
-  }
+  if (!isArticlePage) return null;
 
   return (
-    <div
-      className="fixed top-0 left-0 h-1 bg-[#c2185b] z-50 transition-all duration-200"
-      style={{ width: `${progress}%` }}
-    />
+    <>
+      {/* Progress bar */}
+      <div
+        className="fixed top-0 left-0 h-0.5 z-50"
+        style={{
+          width: `${progress}%`,
+          background: 'linear-gradient(90deg, #f97316, #e63946)',
+          transition: 'width 0.1s ease-out',
+        }}
+      />
+      {/* Progress % indicator — shows after 10% scroll */}
+      {progress > 10 && progress < 95 && (
+        <div
+          className="fixed z-50"
+          style={{
+            bottom: '20px',
+            right: '20px',
+            width: '44px',
+            height: '44px',
+            borderRadius: '50%',
+            background: '#14213d',
+            color: '#fff',
+            display: 'flex',
+            alignItems: 'center',
+            justifyContent: 'center',
+            fontSize: '0.7rem',
+            fontWeight: 700,
+            boxShadow: '0 2px 12px rgba(0,0,0,0.15)',
+            opacity: 0.9,
+          }}
+        >
+          {Math.round(progress)}%
+        </div>
+      )}
+    </>
   );
 }

@@ -124,13 +124,14 @@ export default function Header() {
               style={{ color: '#44403c' }}
               onClick={() => setMobileOpen(!mobileOpen)}
               aria-label="Toggle menu"
+              aria-expanded={mobileOpen}
             >
               {mobileOpen ? (
-                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" aria-hidden="true">
                   <path d="M18 6L6 18M6 6l12 12" />
                 </svg>
               ) : (
-                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5" aria-hidden="true">
                   <path d="M4 6h16M4 12h16M4 18h16" />
                 </svg>
               )}

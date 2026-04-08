@@ -6,7 +6,7 @@ export default function robots(): MetadataRoute.Robots {
       {
         userAgent: '*',
         allow: '/',
-        disallow: ['/api/', '/_next/', '/admin/', '/.well-known/'],
+        disallow: ['/api/', '/_next/', '/admin/'],
       },
       {
         userAgent: 'Googlebot',
@@ -14,6 +14,27 @@ export default function robots(): MetadataRoute.Robots {
       },
       {
         userAgent: 'Bingbot',
+        allow: '/',
+      },
+      // AI crawlers — explicitly allowed for AEO
+      {
+        userAgent: 'GPTBot',
+        allow: '/',
+      },
+      {
+        userAgent: 'ClaudeBot',
+        allow: '/',
+      },
+      {
+        userAgent: 'PerplexityBot',
+        allow: '/',
+      },
+      {
+        userAgent: 'ChatGPT-User',
+        allow: '/',
+      },
+      {
+        userAgent: 'Applebot-Extended',
         allow: '/',
       },
     ],

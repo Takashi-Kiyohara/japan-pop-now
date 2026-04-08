@@ -5,6 +5,7 @@ import Footer from "@/components/Footer";
 import GoogleAnalytics from "@/components/GoogleAnalytics";
 import ScrollProgress from "@/components/ScrollProgress";
 import CookieConsent from "@/components/CookieConsent";
+import BackToTop from "@/components/BackToTop";
 import "./globals.css";
 
 const playfairDisplay = Playfair_Display({
@@ -130,6 +131,25 @@ export default function RootLayout({
           }}
         />
 
+        {/* Structured Data - SiteNavigationElement */}
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "SiteNavigationElement",
+              name: "Main Navigation",
+              hasPart: [
+                { "@type": "WebPage", name: "Collab Cafes", url: "https://japan-pop-now.com/category/collab-cafes" },
+                { "@type": "WebPage", name: "Anime Pilgrimage", url: "https://japan-pop-now.com/category/anime-pilgrimage" },
+                { "@type": "WebPage", name: "Area Guides", url: "https://japan-pop-now.com/category/area-guides" },
+                { "@type": "WebPage", name: "Travel Tips", url: "https://japan-pop-now.com/category/travel-tips" },
+                { "@type": "WebPage", name: "Guides", url: "https://japan-pop-now.com/guides" },
+              ],
+            }),
+          }}
+        />
+
         {/* Google AdSense — loaded dynamically via env var */}
         {process.env.NEXT_PUBLIC_ADSENSE_ID && (
           <script
@@ -145,6 +165,7 @@ export default function RootLayout({
         <Header />
         <main className="flex-1">{children}</main>
         <Footer />
+        <BackToTop />
         <CookieConsent />
       </body>
     </html>

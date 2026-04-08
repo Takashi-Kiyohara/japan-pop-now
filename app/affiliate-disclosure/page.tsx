@@ -2,12 +2,15 @@ import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: 'Affiliate Disclosure',
-  description: 'Affiliate disclosure for Japan Pop Now',
+  description: 'Affiliate disclosure for Japan Pop Now — how we earn commissions through affiliate partnerships.',
+  alternates: {
+    canonical: 'https://japan-pop-now.com/affiliate-disclosure',
+  },
 };
 
 export default function AffiliateDisclosure() {
   return (
-    <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-16">
+    <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 py-16" style={{ background: '#fafaf9' }}>
       <h1
         className="mb-6"
         style={{

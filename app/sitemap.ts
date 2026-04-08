@@ -1,5 +1,6 @@
 import { MetadataRoute } from 'next';
 import { getAllArticleSlugs, getAllArticles, CATEGORIES } from '@/lib/articles';
+import { getAllUniqueTags } from '@/lib/auto-tags';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = 'https://japan-pop-now.com';
@@ -12,6 +13,42 @@ export default function sitemap(): MetadataRoute.Sitemap {
       url: baseUrl,
       changeFrequency: 'daily',
       priority: 1.0,
+      lastModified: new Date(),
+    },
+    {
+      url: `${baseUrl}/about`,
+      changeFrequency: 'monthly',
+      priority: 0.5,
+      lastModified: new Date(),
+    },
+    {
+      url: `${baseUrl}/contact`,
+      changeFrequency: 'monthly',
+      priority: 0.4,
+      lastModified: new Date(),
+    },
+    {
+      url: `${baseUrl}/privacy`,
+      changeFrequency: 'monthly',
+      priority: 0.3,
+      lastModified: new Date(),
+    },
+    {
+      url: `${baseUrl}/affiliate-disclosure`,
+      changeFrequency: 'monthly',
+      priority: 0.3,
+      lastModified: new Date(),
+    },
+    {
+      url: `${baseUrl}/guides`,
+      changeFrequency: 'weekly',
+      priority: 0.7,
+      lastModified: new Date(),
+    },
+    {
+      url: `${baseUrl}/search`,
+      changeFrequency: 'monthly',
+      priority: 0.3,
       lastModified: new Date(),
     },
   ];
@@ -32,5 +69,29 @@ export default function sitemap(): MetadataRoute.Sitemap {
     lastModified: new Date(),
   }));
 
-  return [...staticPages, ...articlePages, ...categoryPages];
+  // Guide hub pages
+  const hubTopics = [
+    'tokyo-anime-cafes',
+    'anime-pilgrimage-tokyo',
+    'osaka-anime-guide',
+    'day-trips-from-tokyo',
+    'japan-travel-essentials',
+  ];
+  const guidePages: MetadataRoute.Sitemap = hubTopics.map((topic) => ({
+    url: `${baseUrl}/guides/${topic}`,
+    changeFrequency: 'weekly' as const,
+    priority: 0.8,
+    lastModified: new Date(),
+  }));
+
+  // Tag archive pages
+  const tags = getAllUniqueTags(articles);
+  const tagPages: MetadataRoute.Sitemap = tags.map((tag) => ({
+    url: `${baseUrl}/tags/${tag}`,
+    changeFrequency: 'weekly' as const,
+    priority: 0.5,
+    lastModified: new Date(),
+  }));
+
+  return [...staticPages, ...articlePages, ...categoryPages, ...guidePages, ...tagPages];
 }

@@ -23,6 +23,7 @@ const nextConfig: NextConfig = {
   // Experimental performance optimizations
   experimental: {
     optimizeCss: true,
+    optimizePackageImports: ['lucide-react', 'date-fns'],
   },
 
   // Bundle analyzer environment hint
@@ -37,7 +38,7 @@ const nextConfig: NextConfig = {
         { key: 'X-Content-Type-Options', value: 'nosniff' },
         { key: 'X-XSS-Protection', value: '1; mode=block' },
         { key: 'Referrer-Policy', value: 'strict-origin-when-cross-origin' },
-        { key: 'Permissions-Policy', value: 'geolocation=(), microphone=(), camera=()' },
+        { key: 'Permissions-Policy', value: 'geolocation=(), microphone=(), camera=(), payment=(), usb=(), magnetometer=(), gyroscope=(), accelerometer=()' },
         // HSTS — enforce HTTPS for 1 year, include subdomains, preload-ready
         { key: 'Strict-Transport-Security', value: 'max-age=31536000; includeSubDomains; preload' },
         // CSP — allow self, Google (Analytics/AdSense), Vercel, Beehiiv, Unsplash
@@ -45,7 +46,7 @@ const nextConfig: NextConfig = {
           key: 'Content-Security-Policy',
           value: [
             "default-src 'self'",
-            "script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.googletagmanager.com https://pagead2.googlesyndication.com https://www.google-analytics.com https://adservice.google.com",
+            "script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://pagead2.googlesyndication.com https://www.google-analytics.com https://adservice.google.com https://giscus.app",
             "style-src 'self' 'unsafe-inline' https://fonts.googleapis.com",
             "font-src 'self' https://fonts.gstatic.com",
             "img-src 'self' data: https: blob:",
@@ -101,12 +102,24 @@ const nextConfig: NextConfig = {
   ],
 
   redirects: async () => [
-    // WordPress → Next.js redirects (activate when DNS switches)
-    // {
-    //   source: '/:year(\\d{4})/:month(\\d{2})/:day(\\d{2})/:slug',
-    //   destination: '/articles/:slug',
-    //   permanent: true,
-    // },
+    // WordPress date-based URLs → Next.js article URLs
+    {
+      source: '/:year(\\d{4})/:month(\\d{2})/:day(\\d{2})/:slug',
+      destination: '/articles/:slug',
+      permanent: true,
+    },
+    // WordPress category URLs → Next.js category URLs
+    {
+      source: '/category/:slug/page/:num',
+      destination: '/category/:slug',
+      permanent: true,
+    },
+    // WordPress feed URLs
+    {
+      source: '/feed',
+      destination: '/feed.xml',
+      permanent: true,
+    },
   ],
 };
 

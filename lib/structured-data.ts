@@ -125,6 +125,72 @@ export function getBreadcrumbSchema(items: { name: string; url: string }[]) {
 }
 
 /**
+ * Generate Event schema for collab cafe / event articles
+ */
+export function getEventSchema(
+  name: string,
+  description: string,
+  startDate: string,
+  endDate: string,
+  location: { name: string; address: string },
+  url: string,
+  image?: string,
+) {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'Event',
+    name,
+    description,
+    startDate,
+    endDate,
+    eventStatus: 'https://schema.org/EventScheduled',
+    eventAttendanceMode: 'https://schema.org/OfflineEventAttendanceMode',
+    location: {
+      '@type': 'Place',
+      name: location.name,
+      address: {
+        '@type': 'PostalAddress',
+        addressCountry: 'JP',
+        addressLocality: location.address,
+      },
+    },
+    organizer: {
+      '@type': 'Organization',
+      name: SITE_NAME,
+      url: SITE_URL,
+    },
+    url,
+    ...(image ? { image } : {}),
+  }
+}
+
+/**
+ * Generate TouristAttraction schema for pilgrimage/area guide articles
+ */
+export function getTouristAttractionSchema(
+  name: string,
+  description: string,
+  address: string,
+  url: string,
+  image?: string,
+) {
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'TouristAttraction',
+    name,
+    description,
+    address: {
+      '@type': 'PostalAddress',
+      addressCountry: 'JP',
+      addressLocality: address,
+    },
+    url,
+    isAccessibleForFree: true,
+    ...(image ? { image } : {}),
+  }
+}
+
+/**
  * Generate Author schema for editorial team
  */
 export function getAuthorSchema(

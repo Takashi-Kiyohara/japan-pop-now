@@ -1,7 +1,7 @@
 import { Metadata } from 'next';
 import Image from 'next/image';
 import Link from 'next/link';
-import { MDXRemote } from 'next-mdx-remote/rsc';
+import ArticleBody from '@/components/ArticleBody';
 import {
   getArticleBySlug,
   getAllArticleSlugs,
@@ -24,8 +24,12 @@ import ArticleFooter from '@/components/ArticleFooter';
 import NewsletterSignup from '@/components/NewsletterSignup';
 import ShareButtons from '@/components/ShareButtons';
 import ScrollDepthTracker from '@/components/ScrollDepthTracker';
-import GiscusComments from '@/components/GiscusComments';
+import dynamic from 'next/dynamic';
+import { getBlurPlaceholder } from '@/lib/image-utils';
 import { notFound } from 'next/navigation';
+
+const GiscusComments = dynamic(() => import('@/components/GiscusComments'));
+const BookmarkButton = dynamic(() => import('@/components/BookmarkButton'));
 
 interface ArticlePageProps {
   params: Promise<{ slug: string }>;
@@ -68,6 +72,7 @@ export async function generateMetadata({
       modifiedTime: article.lastUpdated || article.date,
       authors: [article.author],
       section: article.category,
+      tags: article.tags,
       url: articleUrl,
       images: article.featuredImage
         ? [{ url: article.featuredImage, width: 1200, height: 630, alt: article.featuredImageAlt }]
@@ -100,18 +105,36 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
   const metrics = getContentMetrics(article.content);
   const faqs = extractQAFromHeadings(article.content);
 
+  // Build breadcrumbs with guide hub link if available
+  const hubSlug = category?.hubSlug;
   const breadcrumbItems = [
     { label: 'Home', href: '/' },
     {
       label: category?.label || 'Articles',
       href: category ? `/category/${category.slug}` : '/',
     },
+    ...(hubSlug ? [{ label: 'Guide', href: `/guides/${hubSlug}` }] : []),
     { label: article.title, href: `/articles/${slug}` },
   ];
 
   const popularArticles = allArticles
     .filter((a) => a.slug !== slug)
     .slice(0, 5);
+
+  // Latest articles (most recent, excluding current)
+  const latestArticles = allArticles
+    .filter((a) => a.slug !== slug)
+    .slice(0, 4);
+
+  // Same-category articles for footer circulation
+  const categoryArticles = allArticles
+    .filter((a) => a.category === article.category && a.slug !== slug)
+    .slice(0, 4);
+
+  // Cross-category picks (different category from current)
+  const crossCategoryArticles = allArticles
+    .filter((a) => a.category !== article.category && a.slug !== slug)
+    .slice(0, 4);
 
   return (
     <>
@@ -169,6 +192,8 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
               className="object-cover"
               priority
               sizes="100vw"
+              placeholder="blur"
+              blurDataURL={getBlurPlaceholder()}
             />
             <div
               className="absolute inset-0"
@@ -220,32 +245,28 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                   <ReadingTime content={article.content} />
                 </div>
 
-                {/* Share Buttons — top of article */}
-                <div className="mt-4">
+                {/* Share Buttons + Bookmark — top of article */}
+                <div className="mt-4 flex items-center gap-3 flex-wrap">
                   <ShareButtons url={articleUrl} title={article.title} />
+                  <BookmarkButton slug={slug} title={article.title} />
                 </div>
               </header>
 
-              {/* Article Body */}
+              {/* Article Body — with auto-inserted ads + affiliate CTAs */}
               <div
-                className="prose prose-lg mb-8 rounded-xl p-6 md:p-8"
+                className="mb-8 rounded-xl p-6 md:p-8"
                 style={{ background: '#fff', border: '1px solid #e7e5e4' }}
               >
-                <MDXRemote source={article.content} />
+                <ArticleBody
+                  content={article.content}
+                  category={article.category}
+                  slug={slug}
+                  relatedSuggestions={relatedArticles.map(a => ({ slug: a.slug, title: a.title }))}
+                />
               </div>
 
-              {/* In-article Ad #1 */}
-              <div className="my-8">
-                <AdUnit slot="5555555555" format="leaderboard" lazy />
-              </div>
-
-              {/* Newsletter CTA — mid-article */}
+              {/* Newsletter CTA */}
               <NewsletterSignup />
-
-              {/* In-article Ad #2 */}
-              <div className="my-8">
-                <AdUnit slot="6666666666" format="rectangle" lazy />
-              </div>
 
               {/* Related Articles */}
               {relatedArticles.length > 0 && (
@@ -276,10 +297,12 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                 <ShareButtons url={articleUrl} title={article.title} />
               </div>
 
-              {/* Article Footer (tags, share, author) */}
+              {/* Article Footer — circulation design */}
               <ArticleFooter
                 author={article.author}
                 relatedArticles={relatedArticles}
+                categoryArticles={categoryArticles}
+                crossCategoryArticles={crossCategoryArticles}
                 category={article.category}
               />
 
@@ -293,13 +316,9 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                 <Sidebar
                   headings={headings}
                   popularArticles={popularArticles}
+                  latestArticles={latestArticles}
                   currentCategory={article.category}
                 />
-
-                {/* Sidebar Ad — sticky */}
-                <div className="mt-6">
-                  <AdUnit slot="7777777777" format="rectangle" lazy />
-                </div>
               </div>
             </aside>
           </div>
