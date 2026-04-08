@@ -1,0 +1,13 @@
+# IndexNow Key Placeholder
+# Replace this filename and content with your actual IndexNow key
+# Example: If your key is "abc123def456...", the file would be named "abc123def456....txt"
+# and contain just the key as the file content
+# 
+# To get an IndexNow key:
+# 1. Visit https://www.indexnow.org/
+# 2. Register your site domain
+# 3. Copy the API key provided
+# 4. Create a file named "[key].txt" in /public/ with the key as content
+# 5. Set NEXT_PUBLIC_INDEXNOW_KEY environment variable
+
+PLACEHOLDER_KEY

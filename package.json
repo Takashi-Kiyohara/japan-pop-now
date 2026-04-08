@@ -6,10 +6,18 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "validate": "tsx scripts/validate-articles.ts",
+    "score": "tsx scripts/score-article.ts",
+    "new-article": "tsx scripts/new-article.ts",
+    "auto-link": "tsx scripts/auto-link.ts",
+    "freshness": "tsx scripts/freshness-check.ts",
+    "ping": "tsx scripts/ping-search-engines.ts",
+    "deploy-hook": "tsx scripts/deploy.ts"
   },
   "dependencies": {
     "date-fns": "^4.1.0",
+    "flexsearch": "^0.8.212",
     "gray-matter": "^4.0.3",
     "next": "16.2.2",
     "next-mdx-remote": "^6.0.0",
@@ -24,6 +32,7 @@
     "eslint": "^9",
     "eslint-config-next": "16.2.2",
     "tailwindcss": "^4",
+    "tsx": "^4.7.0",
     "typescript": "^5"
   }
 }

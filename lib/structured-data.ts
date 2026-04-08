@@ -4,6 +4,13 @@ const SITE_URL = 'https://japan-pop-now.com'
 const SITE_NAME = 'Japan Pop Now'
 const LOGO_URL = `${SITE_URL}/logo.png`
 
+export interface ArticleSchemaOptions {
+  wordCount?: number;
+  readingTime?: string; // ISO 8601 duration (e.g., "PT5M")
+  about?: string[];
+  mentions?: string[];
+}
+
 export function getWebsiteSchema() {
   return {
     '@context': 'https://schema.org',
@@ -32,10 +39,10 @@ export function getOrganizationSchema() {
   }
 }
 
-export function getArticleSchema(article: Article, url: string) {
-  return {
+export function getArticleSchema(article: Article, url: string, options?: ArticleSchemaOptions) {
+  const schema: any = {
     '@context': 'https://schema.org',
-    '@type': 'Article',
+    '@type': 'NewsArticle',
     headline: article.title,
     description: article.description,
     image: article.featuredImage || LOGO_URL,
@@ -53,6 +60,51 @@ export function getArticleSchema(article: Article, url: string) {
     },
     mainEntityOfPage: { '@type': 'WebPage', '@id': url },
   }
+
+  // Add optional enhanced properties
+  if (options?.wordCount) {
+    schema.wordCount = options.wordCount
+  }
+
+  if (options?.readingTime) {
+    schema.timeRequired = options.readingTime
+  }
+
+  if (options?.about && options.about.length > 0) {
+    schema.about = options.about.map((topic) => ({
+      '@type': 'Thing',
+      name: topic,
+    }))
+  }
+
+  if (options?.mentions && options.mentions.length > 0) {
+    schema.mentions = options.mentions.map((entity) => ({
+      '@type': 'Thing',
+      name: entity,
+    }))
+  }
+
+  return schema
+}
+
+export function getArticleSchemaWithSpeakable(
+  article: Article,
+  url: string,
+  options?: ArticleSchemaOptions
+) {
+  const schema = getArticleSchema(article, url, options)
+
+  // Add speakable property for voice search optimization
+  schema.speakable = {
+    '@type': 'SpeakableSpecification',
+    xPath: [
+      '/html/head/title',
+      '/html/body/article/h1[1]',
+      '/html/body/article/p[1]',
+    ],
+  }
+
+  return schema
 }
 
 export function getBreadcrumbSchema(items: { name: string; url: string }[]) {
@@ -66,4 +118,39 @@ export function getBreadcrumbSchema(items: { name: string; url: string }[]) {
       item: item.url,
     })),
   }
+}
+
+/**
+ * Generate Author schema for editorial team
+ */
+export function getAuthorSchema(
+  name: string = 'Japan Pop Now',
+  url?: string,
+  image?: string
+) {
+  const schema: any = {
+    '@context': 'https://schema.org',
+    '@type': 'Person',
+    name,
+    url: url || `${SITE_URL}/about`,
+    sameAs: [
+      'https://twitter.com/japanpopnow',
+    ],
+  }
+
+  if (image) {
+    schema.image = image
+  }
+
+  // Add expertise topics
+  schema.knowsAbout = [
+    'Anime',
+    'Manga',
+    'Japanese Pop Culture',
+    'Travel in Japan',
+    'Tourism',
+    'Anime Locations',
+  ]
+
+  return schema
 }

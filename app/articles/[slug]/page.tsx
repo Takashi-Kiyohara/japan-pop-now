@@ -7,11 +7,20 @@ import {
   getAllArticleSlugs,
   getRelatedArticles,
   CATEGORIES,
+  getAllArticles,
 } from '@/lib/articles';
-import { getArticleSchema, getBreadcrumbSchema } from '@/lib/structured-data';
+import { getArticleSchemaWithSpeakable, getBreadcrumbSchema } from '@/lib/structured-data';
+import { extractQAFromHeadings, generateFAQSchema } from '@/lib/faq-schema';
+import { getContentMetrics } from '@/lib/content-analysis';
 import { formatDateFull } from '@/lib/date-utils';
+import { extractHeadings } from '@/lib/markdown-utils';
 import ArticleCard from '@/components/ArticleCard';
 import AdUnit from '@/components/AdUnit';
+import ScrollProgress from '@/components/ScrollProgress';
+import ReadingTime from '@/components/ReadingTime';
+import Breadcrumb from '@/components/Breadcrumb';
+import Sidebar from '@/components/Sidebar';
+import ArticleFooter from '@/components/ArticleFooter';
 import { notFound } from 'next/navigation';
 
 interface ArticlePageProps {
@@ -69,54 +78,75 @@ export default function ArticlePage({ params }: ArticlePageProps) {
   }
 
   const relatedArticles = getRelatedArticles(params.slug, 3);
+  const allArticles = getAllArticles();
   const category = CATEGORIES.find((c) => c.slug === article.category);
   const articleUrl = `https://japan-pop-now.com/articles/${params.slug}`;
+  const headings = extractHeadings(article.content);
+
+  // Get content metrics for AIEO
+  const metrics = getContentMetrics(article.content);
+  const faqs = extractQAFromHeadings(article.content);
 
   // Breadcrumb data
-  const breadcrumbs = [
-    { name: 'Home', url: 'https://japan-pop-now.com' },
+  const breadcrumbItems = [
+    { label: 'Home', href: '/' },
     {
-      name: category?.label || 'Articles',
-      url: category
-        ? `https://japan-pop-now.com/category/${category.slug}`
-        : 'https://japan-pop-now.com',
+      label: category?.label || 'Articles',
+      href: category ? `/category/${category.slug}` : '/',
     },
-    { name: article.title, url: articleUrl },
+    { label: article.title, href: `/articles/${params.slug}` },
   ];
+
+  // Get popular articles for sidebar
+  const popularArticles = allArticles
+    .filter((a) => a.slug !== params.slug)
+    .slice(0, 5);
 
   return (
     <>
-      {/* Structured Data */}
+      {/* Scroll Progress Bar */}
+      <ScrollProgress />
+
+      {/* Structured Data - Article with Speakable */}
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
-          __html: JSON.stringify(getArticleSchema(article, articleUrl)),
+          __html: JSON.stringify(
+            getArticleSchemaWithSpeakable(article, articleUrl, {
+              wordCount: metrics.wordCount,
+              readingTime: metrics.readingTimeISO,
+            })
+          ),
         }}
       />
+
+      {/* Structured Data - Breadcrumb */}
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
-          __html: JSON.stringify(getBreadcrumbSchema(breadcrumbs)),
+          __html: JSON.stringify(getBreadcrumbSchema(
+            breadcrumbItems.map((item) => ({
+              name: item.label,
+              url: `https://japan-pop-now.com${item.href}`,
+            }))
+          )),
         }}
       />
+
+      {/* Structured Data - FAQ (if headings detected) */}
+      {faqs.length > 0 && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(generateFAQSchema(faqs)),
+          }}
+        />
+      )}
 
       <article className="bg-white">
         {/* Breadcrumb */}
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-8 pb-4">
-          <nav className="flex items-center gap-2 text-sm text-gray-600">
-            {breadcrumbs.map((crumb, idx) => (
-              <div key={crumb.url} className="flex items-center gap-2">
-                {idx > 0 && <span className="text-gray-400">/</span>}
-                {idx === breadcrumbs.length - 1 ? (
-                  <span className="text-[#1a1f36]">{crumb.name}</span>
-                ) : (
-                  <Link href={crumb.url} className="hover:text-[#c2185b]">
-                    {crumb.name}
-                  </Link>
-                )}
-              </div>
-            ))}
-          </nav>
+          <Breadcrumb items={breadcrumbItems} />
         </div>
 
         {/* Featured Image */}
@@ -152,9 +182,10 @@ export default function ArticlePage({ params }: ArticlePageProps) {
                   {article.title}
                 </h1>
 
-                <div className="flex items-center gap-6 text-sm text-gray-600">
+                <div className="flex flex-col sm:flex-row sm:items-center gap-3 sm:gap-6 text-sm text-gray-600">
                   <span>{formatDateFull(article.date)}</span>
                   <span>By {article.author}</span>
+                  <ReadingTime content={article.content} />
                 </div>
               </header>
 
@@ -173,89 +204,21 @@ export default function ArticlePage({ params }: ArticlePageProps) {
                 <AdUnit slot="6666666666" format="rectangle" className="justify-center" />
               </div>
 
-              {/* Related Articles at Bottom */}
-              {relatedArticles.length > 0 && (
-                <section className="mt-12 pt-8 border-t border-gray-200">
-                  <h2 className="text-2xl font-bold text-[#1a1f36] mb-6">
-                    Related Articles
-                  </h2>
-                  <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-                    {relatedArticles.map((related) => (
-                      <ArticleCard
-                        key={related.slug}
-                        article={related}
-                        size="sm"
-                      />
-                    ))}
-                  </div>
-                </section>
-              )}
+              {/* Article Footer */}
+              <ArticleFooter
+                author={article.author}
+                relatedArticles={relatedArticles}
+                category={article.category}
+              />
             </div>
 
             {/* Sidebar - 1 column */}
             <aside className="lg:col-span-1">
-              {/* Related Articles Sidebar */}
-              {relatedArticles.length > 0 && (
-                <div className="bg-gray-50 rounded-lg p-6 mb-8">
-                  <h3 className="text-lg font-bold text-[#1a1f36] mb-4">
-                    Related Articles
-                  </h3>
-                  <div className="space-y-4">
-                    {relatedArticles.slice(0, 3).map((related) => (
-                      <Link
-                        key={related.slug}
-                        href={`/articles/${related.slug}`}
-                        className="block group"
-                      >
-                        <h4 className="text-sm font-semibold text-[#1a1f36] group-hover:text-[#c2185b] transition-colors line-clamp-2">
-                          {related.title}
-                        </h4>
-                        <p className="text-xs text-gray-500 mt-1">
-                          {new Date(related.date).toLocaleDateString('en-US', {
-                            year: 'numeric',
-                            month: 'short',
-                          })}
-                        </p>
-                      </Link>
-                    ))}
-                  </div>
-                </div>
-              )}
-
-              {/* Category Link */}
-              {category && (
-                <div className="bg-gray-50 rounded-lg p-6 mb-8">
-                  <h3 className="text-lg font-bold text-[#1a1f36] mb-4">
-                    Category
-                  </h3>
-                  <Link
-                    href={`/category/${category.slug}`}
-                    className="flex items-center gap-2 text-[#c2185b] hover:opacity-80 transition-opacity"
-                  >
-                    <span className="text-2xl">{category.icon}</span>
-                    <span className="font-semibold">{category.label}</span>
-                  </Link>
-                </div>
-              )}
-
-              {/* Popular Tags */}
-              {article.tags.length > 0 && (
-                <div className="bg-gray-50 rounded-lg p-6">
-                  <h3 className="text-lg font-bold text-[#1a1f36] mb-4">
-                    Tags
-                  </h3>
-                  <div className="flex flex-wrap gap-2">
-                    {article.tags.map((tag) => (
-                      <span
-                        key={tag}
-                        className="px-3 py-1 bg-white border border-gray-200 rounded-full text-xs text-gray-600 hover:border-[#c2185b] transition-colors cursor-pointer"
-                      >
-                        {tag}
-                      </span>
-                    ))}
-                  </div>
-                </div>
-              )}
+              <Sidebar
+                headings={headings}
+                popularArticles={popularArticles}
+                currentCategory={article.category}
+              />
             </aside>
           </div>
         </div>

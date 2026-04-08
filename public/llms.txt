@@ -1,0 +1,22 @@
+# Japan Pop Now
+> Your ultimate guide to Japan's anime and pop culture scene for international visitors.
+
+## About
+Japan Pop Now is an English-language media site covering anime collab cafes, pilgrimage spots, area guides, and travel tips for visitors to Japan.
+
+## Content Categories
+- Collab Cafes: How to book and visit anime collaboration cafes in Japan
+- Anime Pilgrimage: Real-life locations from popular anime series
+- Area Guides: Neighborhood guides for anime fans (Akihabara, Ikebukuro, etc.)
+- Travel Tips: Practical guides for international visitors (rail pass, eSIM, luggage)
+
+## Key Topics
+- Anime collab cafe booking and schedules
+- Sacred anime pilgrimage locations in Tokyo, Osaka, Kyoto
+- Akihabara, Ikebukuro, Shibuya pop culture districts
+- Japan Rail Pass, eSIM, luggage forwarding for tourists
+
+## Links
+- Homepage: https://japan-pop-now.com
+- RSS Feed: https://japan-pop-now.com/feed.xml
+- Sitemap: https://japan-pop-now.com/sitemap.xml
