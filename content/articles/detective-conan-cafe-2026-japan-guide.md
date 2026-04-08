@@ -16,6 +16,9 @@ wpPostId: 827
 If you are a **Detective Conan fan visiting Japan in spring or summer 2026**, this is one of the easiest themed cafe events to build into a real trip. **Detective Conan ‘Retro Port Town’ Cafe 2026** begins on **April 10, 2026** and expands across **eight locations nationwide**, including **Shibuya, Ikebukuro, Tokyo Solamachi, Nagoya, Osaka, Miyagi, Hokkaido, and Kanagawa**. Some cities open later, and some stay available longer, so the best location depends on both your travel dates and what kind of anime itinerary you want to build around it.[1]
 
 ## Why Detective Conan Cafe 2026 is especially useful for international visitors
+
+![Why Detective Conan Cafe 2026 is especially useful for international visitors — Detective Conan Cafe 2026 in Japan](/images/articles/detective-conan-cafe-2026-japan-guide/1.jpg)
+
 A lot of anime cafes in Japan are great for locals but hard for short-term travelers because they are too small, too brief, or too limited to one city. Conan Cafe 2026 is different for two reasons.
 
 First, it is a **multi-city event**. That gives overseas visitors flexibility. You do not have to force your entire schedule around one Tokyo-only venue.
@@ -40,6 +43,9 @@ According to event reporting, the cafe will be held at multiple **BOX cafe and s
 That is a major advantage for international visitors because it allows you to choose a venue based on your real route through Japan rather than chasing only the most famous Tokyo branch.
 
 ## Which Tokyo location is best?
+
+![Which Tokyo location is best? — Detective Conan Cafe 2026 in Japan](/images/articles/detective-conan-cafe-2026-japan-guide/2.jpg)
+
 If your trip includes Tokyo, the most practical comparison is between **Shibuya**, **Ikebukuro**, and **Tokyo Solamachi**.
 
 | Location | Best for | Why it works |
@@ -77,6 +83,9 @@ The 2026 concept is **Retro Port Town**, with new illustrations showing characte
 That matters because it changes not only the visuals but also the overall appeal of the menu and merchandise. This is not just a standard reprint cafe. It is positioned as a seasonal concept with a distinct atmosphere, which is exactly the kind of event that tends to perform well with both dedicated fans and casual travelers looking for something memorable.
 
 ## What can you expect from the menu and goods?
+
+![What can you expect from the menu and goods? — Detective Conan Cafe 2026 in Japan](/images/articles/detective-conan-cafe-2026-japan-guide/3.jpg)
+
 The event coverage notes that the menu changes between the **first and second halves** of the event, with featured items such as a **Wind Beef Stew Hamburger**, **Detective Mixed Fry**, and movie-linked menu items like **Chihaya Hagiwara’s Lemon Mizore Pasta** and the **Angel vs. Fallen Angel Drink**.[1]
 
 For many travelers, this makes timing more important than usual. If you care about seasonal menu differences or specific collaboration items, you should avoid assuming that every visit window offers exactly the same food lineup.
@@ -118,6 +127,9 @@ If you are choosing Ikebukuro or Shibuya, the event can fit into a broader **Tok
 If you are traveling because Conan is one of your top series, the cafe becomes much more useful when paired with exhibition or movie-season planning rather than treated as a random lunch stop.
 
 ## Practical tips before you go
+
+![Practical tips before you go — Detective Conan Cafe 2026 in Japan](/images/articles/detective-conan-cafe-2026-japan-guide/4.jpg)
+
 ### Check city and date details before fixing your route
 Because cities do not all open and close at the same time, your best branch depends on travel dates, not just preference.
 

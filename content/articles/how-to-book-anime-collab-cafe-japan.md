@@ -4,7 +4,7 @@ description: "Complete guide to booking anime collaboration cafes in Tokyo. Cove
 date: "2026-03-24"
 category: "travel-tips"
 tags: []
-featuredImage: ""
+featuredImage: "/images/articles/how-to-book-anime-collab-cafe-japan/featured.jpg"
 featuredImageAlt: ""
 author: "Japan Pop Now"
 excerpt: "Complete guide to booking anime collaboration cafes in Tokyo. Covers Lawson Ticket, lottery systems, walk-in tips, and what to expect at your first collab cafe..."

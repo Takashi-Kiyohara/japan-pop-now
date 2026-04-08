@@ -4,7 +4,7 @@ description: "Visit real anime locations in Tokyo: Your Name stairs, Shibuya Cro
 date: "2026-03-25"
 category: "anime-pilgrimage"
 tags: []
-featuredImage: ""
+featuredImage: "/images/articles/anime-pilgrimage-spots-tokyo/featured.jpg"
 featuredImageAlt: ""
 author: "Japan Pop Now"
 excerpt: "Visit real anime locations in Tokyo: Your Name stairs, Shibuya Crossing (JJK), Sensoji (Demon Slayer), Akihabara (Steins;Gate), Kamakura (Slam Dunk), and more."

@@ -33,6 +33,9 @@ This guide breaks down every booking method by accessibility level, walks you th
 - [Frequently Asked Questions](#faq)
 
 ## Which Japan Anime Events Can You Book from Overseas?
+
+![Which Japan Anime Events Can You Book from Overseas? — How to Book Japan Anime Events from Overseas (2026 Guide)](/images/articles/book-japan-anime-events-overseas-2026/1.jpg)
+
 I’ve categorized Japan’s major anime events into three tiers based on how easy they are to book from outside the country. As of April 2026, here’s how it breaks down:
 
 | Booking Difficulty | Event Type | Examples | What You Need |
@@ -47,6 +50,9 @@ I’ve categorized Japan’s major anime events into three tiers based on how ea
 The good news: about 40% of anime events now offer some form of online booking that works with international cards. That number has been growing since 2024, partly because venue operators noticed the surge in overseas visitors (anime pilgrimage tourism grew from 4.6% to 8.5% of all inbound tourists between 2019 and 2023, according to Japan Tourism Agency data). The bad news: the most popular, limited-seat events — the ones that sell out fastest — tend to use the hardest-to-access booking systems.
 
 ## Which Events Need a Japanese Address or Phone Number?
+
+![Which Events Need a Japanese Address or Phone Number? — How to Book Japan Anime Events from Overseas (2026 Guide)](/images/articles/book-japan-anime-events-overseas-2026/2.jpg)
+
 Here’s where it gets frustrating. These platforms require something most overseas visitors don’t have:
 
 **Loppi (ローソンチケット in-store kiosk)** — Many collab cafes, especially BOX CAFE events and Animate Cafe collaborations, distribute tickets exclusively through Loppi machines inside Lawson convenience stores. You physically need to be at a Lawson in Japan to use the machine. There’s no online alternative for these events. If you arrive in Japan before the event, you can use Loppi yourself — but popular events sell out within hours of tickets going live, often before you land.
@@ -58,6 +64,9 @@ Here’s where it gets frustrating. These platforms require something most overs
 The pattern: the more exclusive and limited the event, the more likely it uses a Japan-only booking system. Regular collab cafes with 50+ seats per session are usually bookable online. Limited 20-seat events with exclusive merchandise? Almost always Loppi or lottery.
 
 ## How Do You Book Each Type of Event? (Step-by-Step)
+
+![How Do You Book Each Type of Event? (Step-by-Step) — How to Book Japan Anime Events from Overseas (2026 Guide)](/images/articles/book-japan-anime-events-overseas-2026/3.jpg)
+
 ### Theme Parks (PokePark Kanto, Ghibli Park, USJ)
 These are the easiest. All three major anime-adjacent theme parks now have English booking options:
 
@@ -85,6 +94,9 @@ For a complete walkthrough of the Lawson Ticket system, see our [Lawson Ticket &
 For events that can only be booked through Loppi machines or Japanese phone verification, you have two options: ask a friend in Japan, or use a proxy booking service. If you don’t know anyone in Japan, keep reading — the next two sections cover your options.
 
 ## What Are the Best Booking Proxy Services?
+
+![What Are the Best Booking Proxy Services? — How to Book Japan Anime Events from Overseas (2026 Guide)](/images/articles/book-japan-anime-events-overseas-2026/4.jpg)
+
 I’ve compared the major proxy booking services available to overseas anime fans. Here’s how they stack up:
 
 | Service | Service Fee | What They Book | English Support | Best For |
@@ -100,6 +112,9 @@ I’ve compared the major proxy booking services available to overseas anime fan
 **Budget option: DIY with hotel concierge** — If you’re already booked at a full-service hotel in Japan, ask the concierge to help with Loppi reservations after you arrive. This works for events that aren’t sold out yet, but doesn’t help with lottery reservations or events that sell out before your arrival date.
 
 ## How Does ShingoTravel’s Anime Booking Service Work?
+
+![How Does ShingoTravel’s Anime Booking Service Work? — How to Book Japan Anime Events from Overseas (2026 Guide)](/images/articles/book-japan-anime-events-overseas-2026/5.jpg)
+
 ShingoTravel is a Tokyo-based anime tour and booking service run by Shingo, who’s been organizing anime fan experiences in Tokyo since 2023. Japan Pop Now partners with ShingoTravel for overseas booking referrals — here’s how the process works:
 
 1. **Contact ShingoTravel** via their booking form or email with the event you want to attend, preferred date/time, and number of guests
@@ -112,6 +127,9 @@ Service fees typically range from ¥1,500-3,000 (~$10-20) per reservation, depen
 **Can’t book from overseas?** Japan Pop Now partners with [ShingoTravel](#), an anime-focused travel service based in Tokyo. They handle Japanese-language bookings on your behalf for a service fee. Contact them at least 2 weeks before your event for the best chance of securing a reservation.
 
 ## How Much Do Proxy Booking Services Cost?
+
+![How Much Do Proxy Booking Services Cost? — How to Book Japan Anime Events from Overseas (2026 Guide)](/images/articles/book-japan-anime-events-overseas-2026/6.jpg)
+
 Here’s what you’ll typically pay for proxy booking, broken down by event type:
 
 | Event Type | Ticket Price (¥) | Proxy Fee (¥) | Total Cost (~$USD) |
@@ -172,6 +190,9 @@ Planning a trip to Tokyo?
 [Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
 
 ## Never Miss a Cafe Opening or Anime Event
+
+![Never Miss a Cafe Opening or Anime Event — How to Book Japan Anime Events from Overseas (2026 Guide)](/images/articles/book-japan-anime-events-overseas-2026/7.jpg)
+
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.
 
 [Follow on Instagram](https://www.instagram.com/pop_now_jp/)

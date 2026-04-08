@@ -31,6 +31,9 @@ Conan also has one of the deepest pilgrimage networks of any anime: real-world l
 - [Frequently Asked Questions](#faq)
 
 ## What Conan Events Are Happening in 2026?
+
+![What Conan Events Are Happening in 2026? — Detective Conan Pilgrimage & Events 2026](/images/articles/detective-conan-pilgrimage-events-2026/1.jpg)
+
 Here’s everything running or confirmed as of April 2026:
 
 | Event | Location | Dates | Cost |
@@ -62,6 +65,9 @@ The biggest Conan event of 2026. This touring exhibition covers the entire produ
 Tickets are available through Lawson Ticket (l-tike.com) and Seven Ticket (7ticket.jp). The Osaka run (Jul 11 – Aug 16) overlaps with peak summer travel season and could be combined with USJ if the Conan World event gets extended.
 
 ## Where Are the Best Conan Pilgrimage Spots in Tokyo?
+
+![Where Are the Best Conan Pilgrimage Spots in Tokyo? — Detective Conan Pilgrimage & Events 2026](/images/articles/detective-conan-pilgrimage-events-2026/2.jpg)
+
 Detective Conan is set in the fictional Beika City (米花町), but the Tokyo landmarks that appear throughout the series are very real:
 
 **Tokyo Tower:** Appears as “Toto Tower” (東都タワー) in the series and features in multiple cases and movie climaxes. The observation deck at 150m costs ¥1,200 for adults. It’s most atmospheric at night — the tower’s orange illumination matches the series’ dramatic evening scenes.
@@ -73,6 +79,9 @@ Detective Conan is set in the fictional Beika City (米花町), but the Tokyo la
 **Sunshine City, Ikebukuro:** Currently hosting the 8th Conan collaboration event (through June 7, 2026). The observation deck “Tenbo Park” at the top of Sunshine 60 and the Sunshine Aquarium are both participating venues. Mystery-solving rally events run in two phases with different storylines. A Detective Conan Plaza pop-up store sells exclusive merchandise on the observation deck floor.
 
 ## How Do You Get Tickets for the Sunshine City Conan Event?
+
+![How Do You Get Tickets for the Sunshine City Conan Event? — Detective Conan Pilgrimage & Events 2026](/images/articles/detective-conan-pilgrimage-events-2026/3.jpg)
+
 The Sunshine City collaboration (April 8 – June 7, 2026) is one of the most accessible Conan events for international visitors because most of it is free:
 
 **Free elements:** Walking around the Conan-decorated Sunshine City complex, visiting the Detective Conan Plaza pop-up store, and seeing the character displays in common areas.
@@ -86,6 +95,9 @@ No advance reservation is needed for the general event. The observation deck and
 Getting there: Sunshine City is a 10-minute walk from Ikebukuro Station’s east exit, or directly connected via underground passage from Higashi-Ikebukuro Station on the Yurakucho Line.
 
 ## Is the Conan Cafe Worth It?
+
+![Is the Conan Cafe Worth It? — Detective Conan Pilgrimage & Events 2026](/images/articles/detective-conan-pilgrimage-events-2026/4.jpg)
+
 The 2026 Conan Cafe theme is “Harbor Town Retro” (港町レトロ) — a retro-modern Western restaurant aesthetic with custom character illustrations in vintage outfits. It’s running at 8 venues across 6 cities, with Tokyo locations in Shibuya (from April 10) and Ikebukuro (from April 17).
 
 The Conan Cafe consistently produces some of the highest-quality collab cafe food in Tokyo. Past years have featured character-themed cocktails (non-alcoholic options available), mystery-box dessert sets where you solve a mini case to determine your order, and food presentation that references specific manga panels. Exclusive merchandise is available only at the cafe.
@@ -95,6 +107,9 @@ Prices run ¥990 for drinks, ¥1,200-1,990 for food items, and ¥1,100-2,200 for
 For Tokyo visitors, the Ikebukuro cafe location is strategically smart — you can combine it with the Sunshine City Conan event (10-minute walk) for a full Conan half-day. Reservations are through the official cafe site at conan-cafe.jp. The Ikebukuro Phase 2 run (May 20 – August 2) will be easier to book than Phase 1, which overlaps with movie release hype.
 
 ## How Do You Visit Conan Town in Tottori?
+
+![How Do You Visit Conan Town in Tottori? — Detective Conan Pilgrimage & Events 2026](/images/articles/detective-conan-pilgrimage-events-2026/5.jpg)
+
 Creator Gosho Aoyama grew up in Hokuei (北栄町), Tottori Prefecture, and the town has fully embraced its connection to Detective Conan. The JR station has been officially renamed Conan Station (コナン駅), the shopping street is Conan Street, and the Gosho Aoyama Manga Factory museum displays original manuscripts, character models, and interactive exhibits.
 
 | Attraction | Details |
@@ -113,6 +128,9 @@ The honest assessment: Conan Town is a pilgrimage destination for dedicated fans
 If you’re making the trip, combine it with Tottori Sand Dunes (Japan’s largest sand dunes, about 1 hour from Conan Town) to fill a full day. The [JR Pass](/japan-rail-pass-2026-guide/) covers all train legs, which significantly reduces the cost — the Tokyo-Tottori round trip alone is worth ¥34,000+ without a pass.
 
 ## What About USJ’s Detective Conan World in Osaka?
+
+![What About USJ’s Detective Conan World in Osaka? — Detective Conan Pilgrimage & Events 2026](/images/articles/detective-conan-pilgrimage-events-2026/6.jpg)
+
 Universal Studios Japan runs Detective Conan World as part of its annual Universal Cool Japan event. The 2026 edition (January 30 – June 30) features three attractions:
 
 **Detective Conan: The Escape** — A live-action puzzle adventure where you’re a “hostage” trying to solve clues and stop a bombing. New for 2026: wristband-based interaction system that tracks your progress. Time-limited with groups of 20-30 participants. This is the most immersive Conan experience available anywhere — it’s part escape room, part live theater, part theme park ride.

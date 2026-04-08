@@ -39,6 +39,9 @@ Plan your collab cafe day faster:
 - [Frequently Asked Questions](#faq)
 
 ## Which Anime Collab Cafes Are Open in Tokyo This Summer?
+
+![Which Anime Collab Cafes Are Open in Tokyo This Summer? — Tokyo Anime Collab Cafes Summer 2026](/images/articles/tokyo-anime-collab-cafes-summer-2026/1.jpg)
+
 This list covers confirmed cafes running during June-August 2026. I’ll update it as new cafes are announced â collab cafes typically confirm dates 2-4 weeks before opening, so check back regularly.
 
 | Anime/IP | Venue | Dates | Reservation |
@@ -55,6 +58,9 @@ This table is a snapshot as of April 2026. Expect 10-15 additional cafes to be a
 The best real-time source for cafe announcements is [collabo-cafe.com](https://collabo-cafe.com/) (Japanese, but browser auto-translate works well). I check it weekly and update this article accordingly.
 
 ## Which Cafes Need Reservations and How Do You Book?
+
+![Which Cafes Need Reservations and How Do You Book? — Tokyo Anime Collab Cafes Summer 2026](/images/articles/tokyo-anime-collab-cafes-summer-2026/2.jpg)
+
 Each major cafe chain uses a different booking system. Here’s how they work for international visitors:
 
 ### How to Book Animate Cafe in Tokyo Without a Japanese Phone Number
@@ -93,6 +99,9 @@ Not every collab cafe requires a reservation. Several permanent or semi-permanen
 **Gundam Cafe (Akihabara):** Reopened as Gundam Factory Store and Cafe. Walk-in only. Less crowded on weekday afternoons.
 
 ## What Are the Best Summer 2026 Cafes?
+
+![What Are the Best Summer 2026 Cafes? — Tokyo Anime Collab Cafes Summer 2026](/images/articles/tokyo-anime-collab-cafes-summer-2026/3.jpg)
+
 Based on past collab quality, IP popularity among international fans, and booking accessibility, here are my top picks for summer 2026:
 
 **Haikyuu!! at Animate Cafe Ikebukuro (Jul 26 – Aug 20):** Haikyuu!! collabs consistently deliver excellent themed food presentation and exclusive merchandise. Animate Cafe’s Ikebukuro location is one of their largest, which means more seats and better availability. The timing â late July to late August â aligns well with international summer travel. Book through Animate Cafe’s open seat system after the lottery period.
@@ -102,6 +111,9 @@ Based on past collab quality, IP popularity among international fans, and bookin
 **Summer anime premiere cafes (July onward):** When Mushoku Tensei Season III and ONE PIECE HEROINES launch in July, expect collab cafes to follow within 1-2 weeks. These opening-week cafes ride the hype wave and tend to have the most creative menus and freshest merchandise. The trade-off: they’ll be the hardest to book during the first week.
 
 ## How Much Does a Collab Cafe Visit Typically Cost?
+
+![How Much Does a Collab Cafe Visit Typically Cost? — Tokyo Anime Collab Cafes Summer 2026](/images/articles/tokyo-anime-collab-cafes-summer-2026/4.jpg)
+
 Collab cafes aren’t cheap compared to regular restaurants, but you’re paying for the experience and exclusive merchandise as much as the food. Here’s what to expect:
 
 | Item | Typical Price | Notes |
@@ -118,6 +130,9 @@ Most cafes operate on a time-limited system â you get 70-90 minutes per sea
 The real spending trap is merchandise. Every collab cafe sells exclusive goods â acrylic stands (Â¥1,100), coasters (Â¥550), mugs (Â¥2,200), clear files (Â¥440) â that are only available during that specific collab run. If your favorite character is featured, budget an extra Â¥2,000-5,000 for merch you’ll want to take home.
 
 ## Can You Visit Multiple Cafes in One Day?
+
+![Can You Visit Multiple Cafes in One Day? — Tokyo Anime Collab Cafes Summer 2026](/images/articles/tokyo-anime-collab-cafes-summer-2026/5.jpg)
+
 Yes, and Ikebukuro makes it easiest. Within a 10-minute walking radius around Ikebukuro Station, you’ll find Animate Cafe (multiple locations), My Charaful Cafe, Collabo Cafe Honpo Ikebukuro, and several rotating pop-up cafes in Sunshine City. On a good day, you could hit three different collab cafes between 11:00 and 18:00.
 
 Here’s a realistic three-cafe route:
@@ -195,6 +210,9 @@ Planning a trip to Tokyo?
 [Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
 
 ## Never Miss a Cafe Opening or Anime Event
+
+![Never Miss a Cafe Opening or Anime Event — Tokyo Anime Collab Cafes Summer 2026](/images/articles/tokyo-anime-collab-cafes-summer-2026/6.jpg)
+
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.
 
 [Follow on Instagram](https://www.instagram.com/pop_now_jp/)

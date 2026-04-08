@@ -18,6 +18,9 @@ I’ve attended both AnimeJapan and Comiket more times than I can count. The fir
 If you’re timing a trip around Japan’s biggest anime events, you need to know which one actually fits your interests, how to book tickets properly, and exactly what to pack. Both events happen at Tokyo Big Sight, but they’re wildly different experiences.
 
 ## AnimeJapan: The Official Convention for Industry & Fans
+
+![AnimeJapan: The Official Convention for Industry & Fans — AnimeJapan & Comiket 2026](/images/articles/animejapan-comiket-2026-guide/1.jpg)
+
 ### When It Happens & How to Get Tickets
 AnimeJapan 2026 runs March 28-31, but public attendance is only March 28-29. Industry and media get March 30-31. Unless you work in anime production or have media credentials, you’re attending the public days.
 
@@ -53,6 +56,9 @@ Cosplay is heavy on Saturday, lighter on Sunday. Photography is allowed in desig
 **Use the Rinkai Line (Yurikamome).** Tokyo Big Sight sits on Odaiba. Take the Yurikamome from Shimbashi Station (20 minutes).
 
 ## Comiket: 500,000 People Buying Doujinshi & Fanworks
+
+![Comiket: 500,000 People Buying Doujinshi & Fanworks — AnimeJapan & Comiket 2026](/images/articles/animejapan-comiket-2026-guide/2.jpg)
+
 ### What Is Comiket, Exactly?
 Comiket (Comic Market) is a doujinshi market—a massive gathering where independent creators sell self-published manga, art books, music, and merchandise. It happens twice yearly: Summer Comiket (August) and Winter Comiket (December). Both at Tokyo Big Sight, 10:00 AM to 4:00 PM.
 
@@ -99,6 +105,9 @@ Download the official Comiket catalog PDF (comiket.co.jp, 2 weeks before event).
 **Comiket (one day):** ¥7,800–35,000+ depending on shopping.
 
 ## Hotels & Timing
+
+![Hotels & Timing — AnimeJapan & Comiket 2026](/images/articles/animejapan-comiket-2026-guide/3.jpg)
+
 Stay in Shinjuku, Shibuya, or Shimbashi for best access (20-35 minutes to Big Sight). Budget hotels ¥4,000–8,000/night. Book early for Comiket weekends.
 
 For [anime-themed stays](https://japan-pop-now.com/how-to-book-anime-collab-cafe-japan/), some capsule hotels in Akihabara have character themes.

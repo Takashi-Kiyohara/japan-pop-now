@@ -40,6 +40,9 @@ Plan your Kamakura pilgrimage faster:
 - [Frequently Asked Questions](#faq)
 
 ## Where Is the Famous Slam Dunk Train Crossing?
+
+![Where Is the Famous Slam Dunk Train Crossing? — Slam Dunk Kamakura Pilgrimage 2026](/images/articles/slam-dunk-kamakura-pilgrimage-2026/1.jpg)
+
 The crossing that launched a million pilgrimages is officially named Kamakurakokomae No.1 Railroad Crossing (éåé«æ ¡å1å·è¸å), located at Koegoe 1-1-25, Kamakura City, Kanagawa Prefecture. It sits where the Enoden railway line crosses a residential road with the Pacific Ocean directly behind it â that combination of train tracks, road, and open ocean is what makes the composition so recognizable from the anime’s opening credits.
 
 | Detail | Info |
@@ -57,6 +60,9 @@ The scene from the opening: the crossing gates lower, an Enoden train passes fro
 For the best recreation of that shot, position yourself on the ocean side of the crossing (south side of the tracks) and wait for the Enoden to pass. The train comes every 12 minutes, so you won’t wait long. Late afternoon light â around 4:00-5:00 PM â gives you the warm golden tones closest to the anime’s color palette.
 
 ## What Other Slam Dunk Locations Can You Visit in Kamakura?
+
+![What Other Slam Dunk Locations Can You Visit in Kamakura? — Slam Dunk Kamakura Pilgrimage 2026](/images/articles/slam-dunk-kamakura-pilgrimage-2026/2.jpg)
+
 The crossing gets all the attention, but there are several other Slam Dunk-connected spots along the Enoden line and Shonan coast:
 
 ### Can You Visit Kamakura High School From the Slam Dunk Crossing?
@@ -72,6 +78,9 @@ Further along the coast toward Fujisawa, this beach area is the backdrop for the
 While not a specific Slam Dunk location, Enoshima island is visible from the famous crossing and appears in the background of numerous manga panels. Most visitors combine the Slam Dunk pilgrimage with a walk across the bridge to Enoshima â it’s a natural extension of the coastal route and adds 1-2 hours to your day.
 
 ## How Do You Get to Kamakura from Tokyo?
+
+![How Do You Get to Kamakura from Tokyo? — Slam Dunk Kamakura Pilgrimage 2026](/images/articles/slam-dunk-kamakura-pilgrimage-2026/3.jpg)
+
 Two main routes, both straightforward:
 
 ### Fastest Route From Tokyo to Kamakurakokomae via the JR Yokosuka Line
@@ -96,6 +105,9 @@ If you’re coming from Shinjuku, Shibuya, or Ikebukuro, the Shonan-Shinjuku Lin
 Both routes are covered by the [Japan Rail Pass](/japan-rail-pass-2026-guide/) for the JR portion. The Enoden is a private railway, so JR Pass doesn’t cover it â use your [IC card](/japan-ic-card-transit-guide/) (Suica/PASMO) or buy the Enoden Day Pass (ã®ããããã) for Â¥800 at Kamakura or Fujisawa Station. The day pass pays for itself if you make four or more Enoden trips.
 
 ## What’s the Best Half-Day Pilgrimage Route?
+
+![What’s the Best Half-Day Pilgrimage Route? — Slam Dunk Kamakura Pilgrimage 2026](/images/articles/slam-dunk-kamakura-pilgrimage-2026/4.jpg)
+
 Here’s my recommended 3-4 hour route that covers the key spots without backtracking:
 
 **9:00 â Depart Tokyo Station** (JR Yokosuka Line). Grab an ekiben (station lunch box) if you want to eat on the train.
@@ -115,6 +127,9 @@ Here’s my recommended 3-4 hour route that covers the key spots without backtra
 **15:00-15:30 â Head back to Tokyo** from Kamakura Station (JR Yokosuka Line).
 
 ## Is the Crossing Still Crowded in 2026?
+
+![Is the Crossing Still Crowded in 2026? — Slam Dunk Kamakura Pilgrimage 2026](/images/articles/slam-dunk-kamakura-pilgrimage-2026/5.jpg)
+
 Yes, but it’s managed now. During the 2023 peak â right after THE FIRST SLAM DUNK’s theatrical run â the crossing area was genuinely chaotic: tourists spilling into the road, blocking the Enoden tracks, and causing problems for the residential neighborhood. Kamakura City responded with a managed tourism program that started in October 2025.
 
 As of early 2026, 3-4 staff members are permanently stationed at the crossing during operating hours (10:00-18:00 daily). They direct visitors to the designated photography area at Koegoe Rakko Park, a small park on the south side of the tracks that provides an excellent vantage point without blocking traffic or rail operations. Multilingual signs (Japanese, English, Chinese, Korean) explain the photography rules.
@@ -128,6 +143,9 @@ The result: the experience is significantly better than 2023-2024. You can still
 **Weekends and holidays:** Still busy. 30-100+ visitors at peak hours (11:00-15:00). The staff management system keeps it orderly, but expect to share the space. Go early morning (before 9:00 AM) or late afternoon (after 16:00) for the best experience.
 
 ## What Should You Know About Etiquette and Local Rules?
+
+![What Should You Know About Etiquette and Local Rules? — Slam Dunk Kamakura Pilgrimage 2026](/images/articles/slam-dunk-kamakura-pilgrimage-2026/6.jpg)
+
 This is a residential neighborhood, not a tourist attraction. People live here, walk their dogs here, and send their kids to school across this crossing. The local community has been dealing with a massive increase in tourist foot traffic since 2022, and their patience depends on visitors being respectful.
 
 **Rules to follow:**
@@ -211,6 +229,9 @@ Planning a trip to Tokyo?
 [Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
 
 ## Never Miss a Cafe Opening or Anime Event
+
+![Never Miss a Cafe Opening or Anime Event — Slam Dunk Kamakura Pilgrimage 2026](/images/articles/slam-dunk-kamakura-pilgrimage-2026/7.jpg)
+
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.
 
 [Follow on Instagram](https://www.instagram.com/pop_now_jp/)

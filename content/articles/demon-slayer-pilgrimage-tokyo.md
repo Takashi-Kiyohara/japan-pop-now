@@ -4,7 +4,7 @@ description: "Last updated: March 2026. All locations verified as publicly acces
 date: "2026-03-28"
 category: "anime-pilgrimage"
 tags: []
-featuredImage: ""
+featuredImage: "/images/articles/demon-slayer-pilgrimage-tokyo/featured.jpg"
 featuredImageAlt: ""
 author: "Japan Pop Now"
 excerpt: "Last updated: March 2026. All locations verified as publicly accessible. Covers Tokyo shrines, Asakusa, Mt. Kumotori, and the best Demon Slayer merchandise..."

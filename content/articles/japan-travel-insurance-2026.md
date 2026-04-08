@@ -4,7 +4,7 @@ description: "Last updated: April 2026 Affiliate Disclosure: Some links in this 
 date: "2026-04-03"
 category: "travel-tips"
 tags: []
-featuredImage: ""
+featuredImage: "/images/articles/japan-travel-insurance-2026/featured.jpg"
 featuredImageAlt: ""
 author: "Japan Pop Now"
 excerpt: "Last updated: April 2026 Affiliate Disclosure: Some links in this article are affiliate links. We earn a small commission at no extra cost to you — it helps..."
@@ -25,6 +25,9 @@ Here’s what you actually need to know about travel insurance for Japan, based 
 **Key Fact:** Medical evacuation costs ¥500,000–2,000,000. A single ER visit costs ¥30,000–50,000. Travel insurance for 2 weeks costs $50–150. The math is obvious.
 
 ## Why You Need Travel Insurance for Japan (The Real Costs)
+
+![Why You Need Travel Insurance for Japan (The Real Costs) — Japan Travel Insurance 2026](/images/articles/japan-travel-insurance-2026/1.jpg)
+
 **Medical costs without insurance in Japan:**
 
 - ER visit (3 hours, basic care): ¥30,000–50,000 (~$210–350)
@@ -49,6 +52,9 @@ The evacuation cost is why insurance matters. If you have a serious accident or 
 | Tap Worldwide | $250,000 | $35–65/trip | Yes | Limited | No | Budget-conscious, basic coverage |
 
 ## 1. World Nomads — Best for Activities & Adventure
+
+![World Nomads — Best for Activities & Adventure — Japan Travel Insurance 2026](/images/articles/japan-travel-insurance-2026/2.jpg)
+
 **Medical coverage:** $100,000
 
 **Price:** $50–80/week (variable by country and activities)
@@ -126,6 +132,9 @@ SafetyWing is absurdly cheap. $45 for a full month of medical coverage that incl
 [Get SafetyWing coverage](https://safetywing.com/travel-insurance)
 
 ## 3. Allianz — Best Comprehensive Coverage
+
+![Allianz — Best Comprehensive Coverage — Japan Travel Insurance 2026](/images/articles/japan-travel-insurance-2026/3.jpg)
+
 **Medical coverage:** $500,000
 
 **Price:** $60–100/trip (variable by trip length and activities)
@@ -201,6 +210,9 @@ AIG Travel Guard is the premium insurance. Highest medical coverage, highest tri
 [Get AIG Travel Guard coverage](https://www.travelguard.com/)
 
 ## Japan-Specific Considerations
+
+![Japan-Specific Considerations — Japan Travel Insurance 2026](/images/articles/japan-travel-insurance-2026/4.jpg)
+
 ### Language Barrier at Hospitals
 Japanese hospitals in major cities (Tokyo, Osaka, Kyoto) have English-speaking staff. Rural hospitals don’t. Your insurance should cover translation services if needed. World Nomads and Allianz have 24/7 lines where you can talk to an English-speaking coordinator who helps communicate with Japanese doctors. SafetyWing doesn’t.
 
@@ -244,6 +256,9 @@ You got sick and had to cancel your flight. You need proof: doctor’s letter, h
 Your bag is lost at Narita. Report it to the airline immediately (get a report number). Then report it to your insurance with the airline report number. Submit receipts proving what was in the bag. They reimburse you (up to policy limit) within 30–60 days.
 
 ## Free Alternatives (And Why They’re Not Enough)
+
+![Free Alternatives (And Why They’re Not Enough) — Japan Travel Insurance 2026](/images/articles/japan-travel-insurance-2026/5.jpg)
+
 **Credit card travel insurance:** Covers basic medical and trip cancellation. Doesn’t cover evacuation (the expensive part). Good as a backup, not sufficient alone.
 
 **Your home country’s government healthcare:** If you’re from a country with universal healthcare (UK, Canada, Australia), you might have some coverage. Check your government’s website. Most only cover emergency care, not evacuation. Not enough.
@@ -262,6 +277,9 @@ Your bag is lost at Narita. Report it to the airline immediately (get a report n
 **No 24/7 claims support:** You’re sick at 3 AM in Tokyo. You need to talk to someone. Make sure your plan has a 24/7 hotline.
 
 ## My Personal Recommendation
+
+![My Personal Recommendation — Japan Travel Insurance 2026](/images/articles/japan-travel-insurance-2026/6.jpg)
+
 For a typical 1–2 week Japan trip:
 
 - **Budget traveler (under 25, healthy):** SafetyWing ($45/month). Medical coverage only. If you get sick, you’re covered. If your flight cancels, you pay yourself. Good enough.
@@ -279,6 +297,9 @@ For a 2-week trip where I’m hiking Hokkaido, visiting hot springs, and booked 
 - [Japan IC Card Guide: Suica, Pasmo, and Transit in Tokyo & Osaka](https://japan-pop-now.com/japan-ic-card-transit-guide/)
 
 ## Common Questions
+
+![Common Questions — Japan Travel Insurance 2026](/images/articles/japan-travel-insurance-2026/7.jpg)
+
 **Can I buy insurance after I arrive in Japan?** Technically, some policies allow you to buy within your first week. But you’ll have a waiting period for coverage. Don’t risk it. Buy before you leave home.
 
 **What if I already have travel insurance from my home country?** Check what it covers. Many government healthcare systems don’t cover evacuation, which is the expensive part. Ask specifically if evacuation is covered. If not, buy supplementary insurance.

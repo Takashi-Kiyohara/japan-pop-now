@@ -34,6 +34,9 @@ Here’s what I learned about hunting down Straw Hat merch in Tokyo right now.
 - [FAQ](#faq)
 
 ## One Piece Base Shop Shinjuku
+
+![One Piece Base Shop Shinjuku — One Piece Tokyo Guide 2026](/images/articles/one-piece-tokyo-guide-2026/1.jpg)
+
 The flagship One Piece Base Shop opened in December 2025 at Shinjuku Marui Main Building, 4th floor, and it remains the most concentrated cache of official merch I found in the city. I spent 2 hours here on my first visit and still didn’t see everything. The space spans roughly 800 square meters with approximately 800 different products across multiple categories: figures, cards, apparel, accessories, stationery, home goods, and limited edition collectibles.
 
 When I walked in, the first thing I noticed was the organized section layout. Unlike some sprawling anime shops where you hunt through chaos, the Base Shop divides products by character and category. The Luffy section alone occupies three full display walls. I counted roughly 500 exclusive items you won’t find at other retailers, including limited-run figures, collaborations with Japanese fashion brands, and special bundles released monthly.
@@ -56,6 +59,9 @@ I bought a Gear Fifth statue here for 8,900 yen and a set of exclusive character
 One warning: weekends (Saturday, Sunday) are mobbed. I went on a Saturday afternoon and the shop reached maximum capacity for about 40 minutes. Go on a weekday morning if possible, or late evening after 7 PM when crowds thin out. The Saturday I visited had a 15-minute wait just to enter.
 
 ## Mugiwara Store Locations Across Tokyo
+
+![Mugiwara Store Locations Across Tokyo — One Piece Tokyo Guide 2026](/images/articles/one-piece-tokyo-guide-2026/2.jpg)
+
 The Mugiwara Store chain operates 5 locations across Tokyo and remains the most accessible official One Piece retail presence. I visited all 5 locations over 3 days, and while they carry overlapping inventory, each location has distinct advantages depending on your travel route.
 
 ### Shibuya MAGNET by SHIBUYA109
@@ -87,6 +93,9 @@ Both the Harajuku and Ikebukuro Mugiwara Stores follow similar patterns: roughly
 | Ikebukuro | Ikebukuro Station, 7-min walk | Apparel, family-friendly browsing |
 
 ## One Piece Cafe GENE at Shibuya PARCO
+
+![One Piece Cafe GENE at Shibuya PARCO — One Piece Tokyo Guide 2026](/images/articles/one-piece-tokyo-guide-2026/3.jpg)
+
 One Piece Cafe GENE reopened for its Part 2 run on April 1st, 2026, and runs through May 18th. This is a time-limited experience, so if you want to try it, book now. The cafe occupies the 6th floor of Shibuya PARCO in the heart of Shibuya district, about 8 minutes from the station depending on which exit you use.
 
 I made a reservation 3 days in advance and was assigned a 90-minute seating slot. The reservation is free (you only pay for food), but walk-ins face 1-2 hour waits on weekends. The menu features 8 signature dishes themed around different Straw Hat crew members. I ordered the Luffy Meat Power Bowl (1,980 yen) and a Nami Ocean Wind Parfait (1,280 yen). Both were legitimately goodânot just gimmicky character-themed food. The parfait had real flavor complexity, and the bowl used quality ingredients rather than cutting corners.
@@ -107,6 +116,9 @@ The atmosphere is Instagram-friendly but also comfortable. Background music play
 | Seating Time | 90 minutes per reservation |
 
 ## Jump Shop Locations & NEW Jimbocho Branch
+
+![Jump Shop Locations & NEW Jimbocho Branch — One Piece Tokyo Guide 2026](/images/articles/one-piece-tokyo-guide-2026/4.jpg)
+
 Jump Shops are official Shueisha retailers carrying products from all Jump manga properties, including One Piece. Tokyo has 3 Jump Shop locations, and the newest one at Jimbocho opened March 19th, 2026. This matters because it’s smaller and far less crowded than the flagship Ikebukuro location.
 
 ### NEW: Jump Shop Jimbocho (Opened March 19, 2026)
@@ -133,6 +145,9 @@ The Shinjuku location is the smallest Jump Shop and feels more like a kiosk than
 | Shinjuku | ~50 sq m | Quick shopping, current items | Moderate |
 
 ## Recommended Shopping Route
+
+![Recommended Shopping Route — One Piece Tokyo Guide 2026](/images/articles/one-piece-tokyo-guide-2026/5.jpg)
+
 I tested three different shopping routes during my visits and found one that minimizes transit time while hitting the best locations. Here’s the most efficient path if you have one full day:
 
             **Optimal One-Day One Piece Shopping Route (8 hours, ~6 km total transit)**
@@ -149,6 +164,9 @@ This route keeps you moving without feeling rushed and covers 4 different retail
 Alternative route for figuring collectors: Skip the cafe and spend the full afternoon at Jump Shop Ikebukuro instead, which gives you 3-4 hours to seriously hunt for hard-to-find items. Add the Odaiba DiverCity Mugiwara Store to your transit route if figurines are your primary interest.
 
 ## Timing Your Visit: April 2026 Events
+
+![Timing Your Visit: April 2026 Events — One Piece Tokyo Guide 2026](/images/articles/one-piece-tokyo-guide-2026/6.jpg)
+
 April 2026 is an excellent month for One Piece fans visiting Tokyo because multiple events overlap. The Elbaph Arc premiere happens April 5th, which means merchandise tied to new characters and plot points hits shelves that exact week. I noticed the Base Shop received three separate shipments the week of the premiere. New items appeared daily from April 5-11.
 
 The One Piece Card Game holds tournament events throughout April at multiple venues. Jump Shops and specialized card retailers host sanctioned tournaments on the 6th, 13th, 20th, and 27th. These events draw serious players, which means surrounding shops experience increased foot traffic. If you want to attend a tournament or watch competitive play, registration opens 2 weeks in advance via the official card game website.
@@ -158,6 +176,9 @@ The One Piece Cafe GENE runs April 1 through May 18. Plan your visit before May 
 Weekly restocks at the Base Shop happen  every Thursday morning. If you hunt for limited-edition items, visiting Thursday afternoon (after restocks) Ï gives you the best selection, though crowds are higher that day.
 
 ## Practical Shopping Tips
+
+![Practical Shopping Tips — One Piece Tokyo Guide 2026](/images/articles/one-piece-tokyo-guide-2026/7.jpg)
+
 I learned several lessons during my visits that will help you shop efficiently:
 
 ### Payment Methods
@@ -224,6 +245,9 @@ Planning a trip to Tokyo?
 [Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
 
 ## Never Miss a Cafe Opening or Anime Event
+
+![Never Miss a Cafe Opening or Anime Event — One Piece Tokyo Guide 2026](/images/articles/one-piece-tokyo-guide-2026/8.jpg)
+
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.
 
 [Follow on Instagram](https://www.instagram.com/pop_now_jp/)

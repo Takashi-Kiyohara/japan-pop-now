@@ -31,6 +31,9 @@ If you collect anime figures or have any interest in the craftsmanship behind th
 - [Frequently Asked Questions](#faq)
 
 ## What Is Wonder Festival and When Is It?
+
+![What Is Wonder Festival and When Is It? — Wonder Festival & Figure Events Japan 2026](/images/articles/wonder-festival-figure-events-japan-2026/1.jpg)
+
 Wonder Festival (ワンダーフェスティバル, commonly shortened to WonFes or WF) is a biannual figure and garage kit event held at Makuhari Messe in Chiba. It’s been running since 1984 and happens twice a year — once in winter (February) and once in summer (July). The 2026 Summer edition is confirmed for July 26.
 
 | Detail | Info |
@@ -48,6 +51,9 @@ The event has two halves. **The dealer hall** is where individual artists and sm
 WonFes 2026 Summer features two special exhibitions: the Hiroshi Yokoyama Exhibition 2026 (centered on Maschinen Krieger — the first exhibition since 2016) and Imaginary Creatures WonderFes, a showcase of original monster and yokai-themed works.
 
 ## How Do You Get Tickets as an International Visitor?
+
+![How Do You Get Tickets as an International Visitor? — Wonder Festival & Figure Events Japan 2026](/images/articles/wonder-festival-figure-events-japan-2026/2.jpg)
+
 Tickets are sold through Lawson Ticket (ローソンチケット). You can buy them online at l-tike.com or at any Loppi kiosk inside a Lawson convenience store in Japan.
 
 | Ticket Type | Price | Notes |
@@ -63,6 +69,9 @@ System fees add about ¥220 per ticket. Buy advance tickets if possible — the 
 For international visitors who arrive in Japan before the event: walk into any Lawson, use the Loppi kiosk, and search for “ワンダーフェスティバル” (or use the L-code if announced). Our [Loppi guide](/lawson-ticket-loppi-guide/) walks through the machine step by step. If you can’t access Loppi, our [overseas booking guide](/book-japan-anime-events-overseas-2026/) covers proxy purchase options.
 
 ## What’s the Best Strategy for Buying at WonderFes?
+
+![What’s the Best Strategy for Buying at WonderFes? — Wonder Festival & Figure Events Japan 2026](/images/articles/wonder-festival-figure-events-japan-2026/3.jpg)
+
 WonFes operates differently from a normal shopping experience. Here’s what works:
 
 **Bring cash.** Most amateur dealer booths are cash-only. Some corporate booths accept credit cards, but don’t count on it. Budget ¥30,000-100,000+ (~$200-680) depending on how seriously you collect. ATMs at Kaihin-Makuhari Station and inside Makuhari Messe can handle international cards.
@@ -87,6 +96,9 @@ Getting your WonFes haul back to your home country takes some planning. Here are
 **Proxy shipping services:** If you’re buying items through proxy services after the event (see next section), companies like ZenMarket, Japan Rabbit, and Buyee handle international shipping as part of their service. They’ll consolidate multiple purchases into one package.
 
 ## Can You Buy WonderFes Items After the Event?
+
+![Can You Buy WonderFes Items After the Event? — Wonder Festival & Figure Events Japan 2026](/images/articles/wonder-festival-figure-events-japan-2026/4.jpg)
+
 Most amateur garage kits are produced in tiny quantities and sell out at the event. However, some options exist after the fact:
 
 **Secondhand market:** Items from WonFes appear on Mercari (Japan’s largest secondhand app), Yahoo! Auctions Japan, and Mandarake within days of the event. Prices are marked up — often 2-5x the original price for popular items. Use a [proxy shopping service](/proxy-shopping-anime-figures-japan/) to buy from Japanese-only platforms.
@@ -96,6 +108,9 @@ Most amateur garage kits are produced in tiny quantities and sell out at the eve
 **Corporate exclusives:** Event-limited figures from major manufacturers occasionally get wider releases months later, but this isn’t guaranteed. If you see something you want at a corporate booth, buy it there.
 
 ## What Other Figure Events Happen in Japan?
+
+![What Other Figure Events Happen in Japan? — Wonder Festival & Figure Events Japan 2026](/images/articles/wonder-festival-figure-events-japan-2026/5.jpg)
+
 WonFes is the biggest, but not the only figure event worth knowing about:
 
 **Comiket (Comic Market):** Held at Tokyo Big Sight twice a year (summer and winter). Primarily a doujinshi (self-published manga) event, but many circles also sell original figures, art prints, and crafts. Attendance: 170,000+ per day. Free admission (wristband purchase required for some days). See our [Comiket guide](/animejapan-comiket-guide/) for details.

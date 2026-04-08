@@ -4,7 +4,7 @@ description: "Last updated: April 2026. Kyoto Anime Guide 2026: Pilgrimages, Stu
 date: "2026-04-02"
 category: "area-guides"
 tags: []
-featuredImage: ""
+featuredImage: "/images/articles/kyoto-anime-guide-2026/featured.jpg"
 featuredImageAlt: ""
 author: "Japan Pop Now"
 excerpt: "Last updated: April 2026. Kyoto Anime Guide 2026: Pilgrimages, Studios, and Otaku Culture in the Ancient Capital Kyoto’s ancient temples and shrines serve as..."
@@ -37,6 +37,9 @@ This guide covers everything: the KyoAni connection, specific pilgrimage routes 
 - [Practical Information and FAQs](#practical-info)
 
 ## The KyoAni Connection: History and Location
+
+![The KyoAni Connection: History and Location — Kyoto Anime Guide 2026](/images/articles/kyoto-anime-guide-2026/1.jpg)
+
 Kyoto Animation has been the studio behind some of the most iconic anime of the past 20 years. When I looked up their facility locations, I found that the main studio is located in Uji, about 30 kilometers south of central Kyoto. This wasn’t arbitraryâKyoAni chose Uji specifically because of its natural beauty and traditional atmosphere.
 
 The studio produced Haruhi Suzumiya, one of the most influential anime of the 2000s. They also created K-On!, which launched the entire genre of music-school slice-of-life shows. Violet Evergarden, Hibike Euphonium, A Silent Voice, and Free! all came from KyoAni’s studios. These shows didn’t just get popularâthey fundamentally shaped anime production values and storytelling techniques.
@@ -54,6 +57,9 @@ Important to know: KyoAni does not offer public studio tours. The facility is a 
 When you arrive in Uji, you’ll understand why the studio thrived here. The town sits on the banks of the Uji River, surrounded by traditional temples and gardens. The slower pace and access to these locations made Uji the perfect setting for KyoAni’s animation work.
 
 ## Hibike Euphonium Pilgrimage in Uji
+
+![Hibike Euphonium Pilgrimage in Uji — Kyoto Anime Guide 2026](/images/articles/kyoto-anime-guide-2026/2.jpg)
+
 Hibike Euphonium is arguably KyoAni’s most detailed location-based anime. Nearly every major location in the series corresponds to actual places in Uji. I spent an entire day visiting these locations with a location guide, and the accuracy is stunning. The animators visited each site multiple times and drew them with photographic precision.
 
 The pilgrimage starts at Byodo-in Temple, the most iconic location. In the anime, it appears in numerous episodes and serves as a visual anchor for the story. The temple itself is one of Japan’s most beautiful structures, with its famous Phoenix Hall reflected in a mirror pond. I visited at 9 AM to avoid crowds, and the early morning light made the temple stunning.
@@ -73,6 +79,9 @@ The third major location is Uji Shrine itself, which appears in character introd
 When you walk the Keage Incline, bring water and comfortable shoes. The path is mostly flat, following the old railway line through quiet neighborhoods and along the canal. Several spots show vending machines and small shops, but it’s better to prepare in advance. I took 90 minutes to walk the full length, stopping to photograph locations and compare them with anime screenshots.
 
 ## K-On! Filming Locations
+
+![K-On! Filming Locations — Kyoto Anime Guide 2026](/images/articles/kyoto-anime-guide-2026/3.jpg)
+
 K-On! is set in the fictional Sakuragaoka High School, but the real locations are spread across Kyoto and southern areas. The most famous location is the Suirokaku Aqueduct (also called the Keage Canal), which I visited multiple times. The arched stone aqueduct appears in countless anime scenes, and standing there, looking at the exact angle where the characters stood, feels surreal.
 
 I also visited Takaragaike Park, a scenic pond surrounded by trees. In K-On!, this location represents the outdoor performances and relaxation scenes. It’s remarkably peaceful, and I understand why the animators chose it. The park connects to the Philosopher’s Path, a 2-kilometer walking route along a canal lined with cherry trees. In spring, this path is lined with pink blossoms, just like in the anime.
@@ -111,6 +120,9 @@ The entire shrine complex has multiple levels. The main sanctuary sits at the ba
 One practical note: wear comfortable shoes if you plan to hike the mountain. The paths are uneven stone and dirt, and during rainy season (June) the ground becomes muddy. I visited in spring and had an excellent experience, but I’ve heard from visitors who went in summer and struggled with humidity and crowds.
 
 ## Studio Parks and Filming Facilities
+
+![Studio Parks and Filming Facilities — Kyoto Anime Guide 2026](/images/articles/kyoto-anime-guide-2026/4.jpg)
+
 Toei Kyoto Studio Park, a major attraction, was renamed to Uzumasa Kyoto Village on March 28, 2026. This facility is unique because it maintains actual historic sets and allows visitors to walk through working film locations. While primarily focused on live-action period dramas and films, the facility also hosts anime-related events and exhibitions.
 
 When I visited in March, I found that admission is Â¥2,800 for adults. The park spans multiple blocks and includes Japanese period architecture from various historical eras. The buildings function both as film sets and as museum exhibits. You can photograph yourself in traditional costume while standing on the same location where professional actors filmed scenes.
@@ -130,6 +142,9 @@ I spent 3 hours at the facility. I recommend budgeting 2-4 hours depending on yo
 Beyond Uzumasa Kyoto Village, there aren’t other major anime studio facilities open to the public in Kyoto. KyoAni, as mentioned, doesn’t offer tours. However, the studio park provides authentic film set experiences that appeal to anyone interested in how anime and live-action productions create their worlds.
 
 ## Anime Shopping Districts
+
+![Anime Shopping Districts — Kyoto Anime Guide 2026](/images/articles/kyoto-anime-guide-2026/5.jpg)
+
 If you want to buy anime merchandise while in Kyoto, the main option is Animate Kyoto, located on the 2nd floor of the Passagio shopping complex. I found the store has a solid selection of anime merchandise, manga, figures, and official goods. Hours are 11 AM to 9 PM daily. The selection isn’t as expansive as the flagship Animate in Tokyo, but it covers most major anime properties.
 
 Beyond Animate, the Teramachi-Shinkyogoku shopping district offers multiple anime and manga-related shops mixed in with general retail. This pedestrian shopping arcade stretches for several blocks and includes used anime shops, new release stores, and merchandise vendors. I spent an hour browsing and found fair prices compared to Tokyo storefronts.
@@ -147,6 +162,9 @@ A word of caution: Kyoto’s anime shopping scene is smaller than Tokyo’s Akih
 | Comparison to Tokyo | Smaller selection than Akihabara; specific items may not be available |
 
 ## April 2026 Anime Events
+
+![April 2026 Anime Events — Kyoto Anime Guide 2026](/images/articles/kyoto-anime-guide-2026/6.jpg)
+
 If you’re visiting Kyoto in April 2026, several anime-related events are happening. Jujutsu Kaisen is collaborating with Sweets Paradise from April 11 through April 29. This is a limited-time partnership featuring Jujutsu Kaisen-themed desserts and merchandise. I’m planning to visit the Kyoto Sweets Paradise location during this period.
 
 April also marks the height of cultural events in Kyoto. Miyako Odori, a famous maiko (apprentice geisha) performance, runs from April 1-30. While not anime, it represents the traditional performing arts that anime frequently depicts. If you’re interested in the cultural side of anime inspiration, these performances are well worth attending.
@@ -165,6 +183,9 @@ Another worthwhile experience is visiting ryokan (traditional inns) and dining a
 Walking tours of Gion district itself are free and heavily rewarding. The wooden machiya (traditional merchant houses) are stunning, and you might spot actual geisha walking between appointments during evening hours. Photography etiquette requires respecting geisha’s privacy, but observing the district’s atmosphere is an anime pilgrimage experience in itself.
 
 ## Side Trips and Related Locations
+
+![Side Trips and Related Locations — Kyoto Anime Guide 2026](/images/articles/kyoto-anime-guide-2026/7.jpg)
+
 Haruhi Suzumiya is one of KyoAni’s most famous productions, but I need to note an important detail: the series is set in Nishinomiya, a city in Hyogo Prefecture, not in Kyoto. However, since you’ll already be in the Kyoto region, a day trip to Nishinomiya is feasible. The locations include Nishinomiya Shrine, various schools, and shopping streets that appear in the anime.
 
 From Kyoto, you can take the Hankyu Railway toward Osaka and transfer to local lines reaching Nishinomiya. The journey takes about 90 minutes total. Several online guides map out the Haruhi pilgrimage locations specifically, and it’s become popular enough that other fans have documented every location in detail.
@@ -174,6 +195,9 @@ Osaka is another nearby major city with anime connections. If you have extra tim
 Getting around all these locations is simplified by getting a Suica or ICOCA card at Kyoto or Osaka Station. These rechargeable IC cards work on nearly all transportation systems in the Kansai region. I strongly recommend grabbing one before starting your pilgrimageâit beats buying individual tickets.
 
 ## Practical Information and FAQs
+
+![Practical Information and FAQs — Kyoto Anime Guide 2026](/images/articles/kyoto-anime-guide-2026/8.jpg)
+
 Before you finalize your Kyoto anime pilgrimage, here are key practical details I wish someone had told me before my first visit.
 
 ### Getting Around

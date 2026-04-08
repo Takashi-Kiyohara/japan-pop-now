@@ -18,6 +18,9 @@ FamilyMart Anime Collab Stores: Japan’s Newest Trend (2026)
 FamilyMart just cracked the code on making convenience stores into tourist destinations. By launching anime-themed collab stores, Japan’s largest convenience chain has turned everyday shopping into an experience that draws fans from across the city. The model is simple but brilliant: transform a single store location into a pop-up themed around one anime series, stock exclusive merch and food items, and let word-of-mouth do the work. Here’s what’s actually happening, where to find them, and why they matter.
 
 ## What Is a FamilyMart Anime Collab Store?
+
+![What Is a FamilyMart Anime Collab Store? — FamilyMart Anime Collab Stores](/images/articles/familymart-anime-collab-stores-2026/1.jpg)
+
 A standard FamilyMart location gets a full visual redesign—window displays, shelf signage, staff uniforms, bag designs, and interior layout all themed around a single anime. The store stocks exclusive merchandise (acrylic keychains, tote bags, pins) and limited-edition food items (drinks with character designs, boxed bentos with artwork). Items sell out fast, especially weekends.
 
 It’s a low-cost play for FamilyMart (minimal infrastructure change, existing store staff) and enormous value for fans. The store becomes a pilgrimage destination for collectors. A single collab can draw 500–1,000 visitors per day, with average spend of ¥2,000–¥4,000 per person.
@@ -59,6 +62,9 @@ Duration: Typically 4–8 weeks (check dates)
 **4. Tail Period (Weeks 2–4):** 100–300 daily visitors. Previously sold-out items restock. Good window for less time-sensitive shoppers.
 
 ## Exclusive Merch: What You Can Only Buy Here
+
+![Exclusive Merch: What You Can Only Buy Here — FamilyMart Anime Collab Stores](/images/articles/familymart-anime-collab-stores-2026/2.jpg)
+
 **Exclusive to this store:** FamilyMart-branded tote bags, store-exclusive acrylic stands/keychains, limited-edition food packaging, collaboration posters.
 
 **The buying strategy:** Prioritize exclusive items you can’t get elsewhere. Skip standard merch—buy it on Amazon Japan later.
@@ -83,6 +89,9 @@ Duration: Typically 4–8 weeks (check dates)
 Lawson runs smaller collabs (2–3 weeks, focus on food items, less store redesign). FamilyMart collabs are full-scale (4–8 weeks, larger merch selection, more visual impact). For serious collectors, FamilyMart is where you’ll find the action. Lawson is decent for [Loppi ticket purchases](https://japan-pop-now.com/lawson-ticket-loppi-guide/).
 
 ## One-Day Itinerary: Durarara!! Store + Ikebukuro
+
+![One-Day Itinerary: Durarara!! Store + Ikebukuro — FamilyMart Anime Collab Stores](/images/articles/familymart-anime-collab-stores-2026/3.jpg)
+
 **9:00 AM:** Arrive Ikebukuro Station, breakfast (¥600–¥1,000).
 
 **9:30–11:00 AM:** Durarara!! FamilyMart (¥2,000–¥5,000).

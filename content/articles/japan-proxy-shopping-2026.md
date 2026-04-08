@@ -4,7 +4,7 @@ description: "Last updated: April 2026 Affiliate Disclosure: Some links in this 
 date: "2026-04-03"
 category: "travel-tips"
 tags: []
-featuredImage: ""
+featuredImage: "/images/articles/japan-proxy-shopping-2026/featured.jpg"
 featuredImageAlt: ""
 author: "Japan Pop Now"
 excerpt: "Last updated: April 2026 Affiliate Disclosure: Some links in this article are affiliate links. We earn a small commission at no extra cost to you — it helps..."
@@ -23,6 +23,9 @@ I’ve used five proxy services over two years to buy anime figures, vintage man
 **Quick Tip:** Proxy services are completely legal. Japanese e-commerce sites allow them. You’re not breaking rules—you’re using a standard international buying method.
 
 ## What Is a Proxy Service? (30-Second Primer)
+
+![What Is a Proxy Service? (30-Second Primer) — Japan Proxy Shopping 2026](/images/articles/japan-proxy-shopping-2026/1.jpg)
+
 A proxy service gives you a Japanese address. You use that address to buy on Japanese sites (Mercari, Yahoo Auctions, Amazon Japan). The service buys it, stores it at their warehouse, and ships it to your real address. You pay: item price + proxy fee (usually ¥300/item or flat rate) + shipping to your country.
 
 ## Quick Comparison Table
@@ -36,6 +39,9 @@ A proxy service gives you a Japanese address. You use that address to buy on Jap
 | Neokyo | ¥250/item | European buyers, competitive shipping | 90+ stores | Various (EU-optimized) | High |
 
 ## 1. Buyee — Most Popular, Best for Auctions
+
+![Buyee — Most Popular, Best for Auctions — Japan Proxy Shopping 2026](/images/articles/japan-proxy-shopping-2026/2.jpg)
+
 **Proxy fee:** ¥300/item + 8% commission on winning bids
 
 **Best for:** Yahoo Auctions (especially), Amazon Japan
@@ -104,6 +110,9 @@ ZenMarket has the cleanest website of any proxy service. The interface actually 
 [Visit ZenMarket](https://zenmarket.jp/)
 
 ## 3. OneMall — Best Fees, Newest Option
+
+![OneMall — Best Fees, Newest Option — Japan Proxy Shopping 2026](/images/articles/japan-proxy-shopping-2026/3.jpg)
+
 **Proxy fee:** ¥200–300/item (negotiable)
 
 **Best for:** Budget-conscious buyers, Mercari & Yahoo
@@ -170,6 +179,9 @@ FROM JAPAN charges more (¥400/item vs. ¥300), but they specialize in handling 
 [Visit FROM JAPAN](https://www.fromjapan.co.jp/)
 
 ## 5. Neokyo — Best for European Buyers
+
+![Neokyo — Best for European Buyers — Japan Proxy Shopping 2026](/images/articles/japan-proxy-shopping-2026/4.jpg)
+
 **Proxy fee:** ¥250/item
 
 **Best for:** European shipping, competitive rates
@@ -242,6 +254,9 @@ Shipping (EMS to US): ¥2,800
 **Food and beverages:** Some proxy services allow this, some don’t. Shipping food internationally is expensive and sometimes risky. Skip it.
 
 ## How to Spot a Bootleg Figure (Before You Buy)
+
+![How to Spot a Bootleg Figure (Before You Buy) — Japan Proxy Shopping 2026](/images/articles/japan-proxy-shopping-2026/5.jpg)
+
 This is critical. Proxy services won’t refund you for counterfeits.
 
 **Check on MyFigureCollection:** Search the figure. See the official release. Compare photos to the Mercari listing. Official figures have clear packaging, professional paint lines, no paint drips. Bootlegs have fuzzy photos, inconsistent paint, cheap-looking boxes.
@@ -264,6 +279,9 @@ Expect to pay:
 If you’re buying multiple items, consolidation saves money. Three shipments of one item each (¥2,800 × 3 = ¥8,400) vs. one shipment of all three (~¥4,200). Consolidation is free, always do it.
 
 ## Free Alternatives to Proxy Services
+
+![Free Alternatives to Proxy Services — Japan Proxy Shopping 2026](/images/articles/japan-proxy-shopping-2026/6.jpg)
+
 **Amazon Japan:** Ships internationally to US, EU, Canada without needing a proxy. Selection is more limited than Mercari but prices are legit and shipping is included. Good for newer releases, official merchandise. No proxy fee, but Amazon’s prices are higher than Mercari.
 
 **eBay Japan:** Some Japanese sellers ship internationally. Selection varies. Prices are sometimes better than proxies, sometimes worse. Check shipping cost before bidding.
@@ -279,6 +297,9 @@ If you’re buying multiple items, consolidation saves money. Three shipments of
 - [Akihabara Complete Guide 2026: Anime Shops, Gaming & Arcades](https://japan-pop-now.com/akihabara-complete-guide-2026/)
 
 ## Common Questions
+
+![Common Questions — Japan Proxy Shopping 2026](/images/articles/japan-proxy-shopping-2026/7.jpg)
+
 **Is using a proxy service legal?** Yes, completely legal. Japanese e-commerce sites allow it. Customs won’t hassle you. It’s a normal service.
 
 **Will customs tax me on imports?** Depends on your country. US has a ~$800 threshold before you pay import duty. Under that, you’re fine. Over that, you pay 10–15% duty. Most proxy purchases are under the threshold. Check your country’s import rules.

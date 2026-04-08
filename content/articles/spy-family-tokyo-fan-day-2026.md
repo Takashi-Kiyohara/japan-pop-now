@@ -18,6 +18,9 @@ SPY×FAMILY Tokyo Fan Day: Events, Shops & Cafes
 SPY×FAMILY is everywhere in Tokyo right now. The anime has crossed over from obsessed fan base to mainstream phenomenon, and the city has responded with pop-up shops, limited-edition merch, collab cafes, and seasonal events that pack crowds. Here’s how to experience everything SPY×FAMILY has to offer in one day, without losing your mind in queues.
 
 ## WAKUWAKU PARK: The Flagship Fan Experience
+
+![WAKUWAKU PARK: The Flagship Fan Experience — SPY×FAMILY Tokyo Fan Day](/images/articles/spy-family-tokyo-fan-day-2026/1.jpg)
+
 WAKUWAKU PARK is a rotating exhibition space in Ikebukuro dedicated to SPY×FAMILY. Think character photo zones, original animation cels, merchandise selling out in real time, and a cafe with seasonal themed drinks. It’s not a permanent install—usually runs for 2–4 weeks at a time, typically spring and fall.
 
 The space is compact (around 200 square meters) but dense. Lines start forming at opening time. If you go on a Saturday or Sunday, expect 1–2 hour waits. Weekday mornings are calmer.
@@ -56,6 +59,9 @@ Multiple cafes across Tokyo run limited SPY×FAMILY collaboration menus (usually
 Check our [guide to booking anime collab cafes](https://japan-pop-now.com/how-to-book-anime-collab-cafe-japan/) and [Spring 2026 collab cafe list](https://japan-pop-now.com/tokyo-anime-collab-cafes-spring-2026/).
 
 ## Tokyo Character Street & Jump Shop
+
+![Tokyo Character Street & Jump Shop — SPY×FAMILY Tokyo Fan Day](/images/articles/spy-family-tokyo-fan-day-2026/2.jpg)
+
 Underground Tokyo Station hides one of the best SPY×FAMILY shopping spots in the city. Tokyo Character Street (First Avenue, B1F) runs a 100-meter corridor of character goods stores, and at least 3–4 shops carry SPY×FAMILY merchandise at any given time.
 
 The anchor is **Jump Shop Tokyo Station**, Shueisha’s official store for Weekly Shonen Jump properties. SPY×FAMILY gets prominent shelf space here: manga volumes with exclusive cover variants, acrylic stands (¥1,200–¥1,800), clear files (¥440), and seasonal limited-edition goods that rotate monthly. The store is small but the selection is curated—you won’t find these exact items on Amazon Japan.
@@ -116,6 +122,9 @@ The items themselves are cheap (¥150–¥600 for the qualifying purchase) but t
 **Total: ¥10,000–¥22,000 (USD $70–$155)**
 
 ## What Merch Is Actually Worth Buying
+
+![What Merch Is Actually Worth Buying — SPY×FAMILY Tokyo Fan Day](/images/articles/spy-family-tokyo-fan-day-2026/3.jpg)
+
 **Must-buy (event exclusive):** Limited-edition acrylic keychains, event apparel, collab cafe coasters, signed art prints.
 
 **Skip (cheaper online):** Common figures, standard posters, manga volumes.

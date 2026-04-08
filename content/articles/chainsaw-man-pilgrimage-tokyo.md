@@ -37,11 +37,17 @@ If you’re planning an anime-heavy trip to Tokyo, you can pair this route with 
 - [More Pilgrimage Guides](#more-guides)
 
 ## Reze Arc Movie Locations
+
+![Reze Arc Movie Locations — Chainsaw Man Tokyo Pilgrimage Guide 2026](/images/articles/chainsaw-man-pilgrimage-tokyo/1.jpg)
+
 Every major location from the Reze Arc movie sits within a tight cluster around Jinbocho (ç¥ä¿çº), Tokyo’s famous used-bookstore district. The area’s Showa-era architecture, narrow slopes, and quiet side streets clearly influenced the film’s visual design â and walking through it, you’ll immediately feel why the animators chose these specific spots.
 
 All five locations below are within a 10-minute walk of each other. I’d suggest starting from Suidobashi Station’s East Exit and working your way south toward Jinbocho Station. The whole route takes about 2-3 hours if you stop for photos and coffee.
 
 ## The Phone Booth â Where Denji Meets Reze
+
+![The Phone Booth â Where Denji Meets Reze — Chainsaw Man Tokyo Pilgrimage Guide 2026](/images/articles/chainsaw-man-pilgrimage-tokyo/2.jpg)
+
 The old phone booth in front of the Yamato Transport Jinbocho Hakusan Street Office has become the single most-visited Chainsaw Man pilgrimage spot in Tokyo. This is where Denji first meets Reze in the movie â she’s standing next to the booth in the rain, and the scene launched a thousand fan recreations on TikTok and Instagram.
 
 The booth is a standard NTT green phone booth, nothing special to look at on its own. What makes it worth visiting is the context: standing there, you can see the same street angle as the movie frame. Fans often leave small offerings (coins, drawings) near the base, though these get cleaned up regularly.
@@ -70,6 +76,9 @@ This is a working office building, so stay on the sidewalk and don’t enter. Fa
 | Cost | Free (exterior viewing only) |
 
 ## Onnazaka Stairs â The Iconic Staircase
+
+![Onnazaka Stairs â The Iconic Staircase — Chainsaw Man Tokyo Pilgrimage Guide 2026](/images/articles/chainsaw-man-pilgrimage-tokyo/3.jpg)
+
 Onnazaka (å¥³å) is the single most recognizable location from the Reze Arc. This stone staircase, wedged between old buildings in Sarugakucho, is the basis for the scene where Reze walks up the stairs on her way to the cafe. The stone paving, the buildings lining both sides, the quiet atmosphere â it’s an almost frame-for-frame match with the film.
 
 At sunset, this spot becomes particularly atmospheric. The light filters through the narrow gap between buildings, and you get that bittersweet mood that defines the Reze Arc. I visited at around 5:30 PM on a Tuesday and had the stairs completely to myself. Weekend afternoons draw more fans, especially since the TikTok videos started circulating.
@@ -84,6 +93,9 @@ The stairs are public and accessible 24 hours, but I’d recommend avoiding visi
 | Cost | Free (public staircase) |
 
 ## Cafe Vale â The Real-Life Model for Reze’s Cafe
+
+![Cafe Vale â The Real-Life Model for Reze’s Cafe — Chainsaw Man Tokyo Pilgrimage Guide 2026](/images/articles/chainsaw-man-pilgrimage-tokyo/4.jpg)
+
 Fans have identified two cafes as possible models for the cafe where Reze works part-time. The most widely accepted candidate is a cafe in the Kurabayashi Building, a quiet spot that matches the interior layout seen in several movie frames.
 
 The second candidate, sometimes called “Cafe L” by fans, sits at 1 Chome-5 Sarugakucho. Both cafes are small, independent spots with the kind of old-fashioned Tokyo *kissaten* (å«è¶åº) atmosphere that fits the Reze Arc’s visual tone.
@@ -113,6 +125,9 @@ That said, fans have identified a few connections worth noting:
 For Season 1 fans, I’d honestly recommend combining a Jinbocho pilgrimage with a general Tokyo pop culture day. Hit [Akihabara](/akihabara-complete-guide-2026/) for Chainsaw Man merchandise (Animate and Mandarake both stock plenty), then head to [our merch shopping guide](/anime-merch-shopping-guide/) for the full rundown on where to find figures, manga, and limited-edition goods.
 
 ## Recommended Walking Route (2-3 Hours)
+
+![Recommended Walking Route (2-3 Hours) — Chainsaw Man Tokyo Pilgrimage Guide 2026](/images/articles/chainsaw-man-pilgrimage-tokyo/5.jpg)
+
 Here’s the route I took, optimized for photo opportunities and walking efficiency:
 
 **Start: Suidobashi Station, East Exit** (JR Chuo-Sobu Line or Toei Mita Line)
@@ -130,6 +145,9 @@ Here’s the route I took, optimized for photo opportunities and walking efficie
 Total walking distance: about 2.5 km. Flat terrain except for the Onnazaka stairs.
 
 ## Where to Eat Near the Pilgrimage Spots
+
+![Where to Eat Near the Pilgrimage Spots — Chainsaw Man Tokyo Pilgrimage Guide 2026](/images/articles/chainsaw-man-pilgrimage-tokyo/6.jpg)
+
 Jinbocho is one of Tokyo’s best lunch neighborhoods, and it’s criminally underrated by tourists. The area is packed with curry shops (Jinbocho is actually famous as Tokyo’s curry district), old-school *kissaten*, and cheap ramen joints that cater to the neighborhood’s university students and office workers.
 
 **For curry**: Jinbocho has over 400 curry restaurants. Bondy (ãã³ãã£) on the second floor of a nondescript building near Jinbocho Station serves a rich, European-style curry that’s been a local favorite since 1973. Expect a 20-30 minute wait at lunch.
@@ -153,6 +171,9 @@ Jinbocho is one of Tokyo’s best lunch neighborhoods, and it’s criminally und
 | IC Card | Suica/PASMO work on all lines. See our [IC Card guide](/japan-ic-card-transit-guide/) |
 
 ## Pilgrimage Etiquette
+
+![Pilgrimage Etiquette — Chainsaw Man Tokyo Pilgrimage Guide 2026](/images/articles/chainsaw-man-pilgrimage-tokyo/7.jpg)
+
 Anime pilgrimage â *seichi junrei* (èå°å·¡ç¤¼) â has become a mainstream part of Japanese tourism culture, and most locals welcome respectful fans. But Jinbocho is a working neighborhood, not a theme park. Keep these points in mind:
 
 **Don’t block sidewalks or stairs.** Take your photo and move on. The Onnazaka stairs are narrow, and residents use them daily.

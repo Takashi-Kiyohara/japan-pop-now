@@ -16,6 +16,9 @@ wpPostId: 830
 If you want a **Jujutsu Kaisen-themed cafe experience in Japan during spring 2026**, the strongest current option is the **Jujutsu Kaisen 5th Anniversary Cafe at Sweets Paradise**. It starts on **April 2, 2026** and runs across **nine cities**, including **Tokyo, Osaka, Hiroshima, Yokohama, Omiya, Sendai, Nagoya, Kyoto, and Fukuoka**. For international visitors, the most important detail is not only the city list, but also the fact that **entry requires advance reservation through the official Sweets Paradise smartphone app**.[1]
 
 ## Why this Jujutsu Kaisen cafe matters for travelers
+
+![Why this Jujutsu Kaisen cafe matters for travelers — Jujutsu Kaisen Cafes in Japan 2026](/images/articles/jujutsu-kaisen-cafes-japan-2026-guide/1.jpg)
+
 A lot of anime cafe coverage focuses only on visuals or menu items. For overseas visitors, the real value is different: **where can you actually fit the event into your route, and how hard is it to get in?**
 
 That is why this cafe stands out. It is not limited to one Tokyo location, and it has a clear reservation rule. That combination makes it easier to compare real travel options instead of treating the event as a vague “maybe” stop.
@@ -45,6 +48,9 @@ This staggered opening matters because it changes which city makes sense for you
 | Yokohama / Omiya / Sendai / Nagoya / Kyoto / Fukuoka | April 11-29 | Better for mid-to-late April trips and wider regional planning |
 
 ## Is Tokyo or Osaka the better choice?
+
+![Is Tokyo or Osaka the better choice? — Jujutsu Kaisen Cafes in Japan 2026](/images/articles/jujutsu-kaisen-cafes-japan-2026-guide/2.jpg)
+
 For most international visitors, **Tokyo and Osaka are the most practical branches**, but they serve slightly different trip styles.
 
 ### Choose Tokyo if…
@@ -86,6 +92,9 @@ The event information says that reservations are made **exclusively through the 
 For international visitors, this is a major planning issue. If you do not prepare in advance, the event can move from “high priority” to “not realistically possible” very quickly.
 
 ## What can you expect from the cafe itself?
+
+![What can you expect from the cafe itself? — Jujutsu Kaisen Cafes in Japan 2026](/images/articles/jujutsu-kaisen-cafes-japan-2026-guide/3.jpg)
+
 The 5th Anniversary Cafe features a themed menu, new illustration art, and multiple purchase bonuses. Reported details include:
 
 - character-inspired savoury dishes, sweets, and drinks,
@@ -117,6 +126,9 @@ If you are undecided between Tokyo and Osaka, this event can actually help you d
 If Jujutsu Kaisen is one of your top series, use our **[Find by Anime](https://japan-pop-now.com/find-by-anime-in-japan-2026-pilgrimage-guides-by-series/)** hub next so the cafe becomes part of a larger themed itinerary, not just an isolated booking.
 
 ## Practical tips before you go
+
+![Practical tips before you go — Jujutsu Kaisen Cafes in Japan 2026](/images/articles/jujutsu-kaisen-cafes-japan-2026-guide/4.jpg)
+
 ### Download and test the reservation setup early
 If booking depends on an official app, do not leave the process until your trip is already underway.
 
