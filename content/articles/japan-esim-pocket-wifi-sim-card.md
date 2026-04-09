@@ -5,7 +5,8 @@ date: "2026-04-01"
 category: "travel-tips"
 tags: []
 featuredImage: "/images/articles/japan-esim-pocket-wifi-sim-card/featured.jpg"
-featuredImageAlt: ""
+featuredImageAlt: "Tourist using smartphone with WiFi connectivity over Tokyo cityscape"
+imageCredit: "Photo: © JNTO"
 author: "Japan Pop Now"
 excerpt: "Last updated: April 2026. All prices and plan details verified against provider websites. You just booked your flight to Japan. Now comes the question every..."
 relatedSlugs: []

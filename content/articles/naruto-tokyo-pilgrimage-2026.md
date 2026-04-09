@@ -4,8 +4,9 @@ description: "Discover real-world Naruto pilgrimage spots across Tokyo, from Jum
 date: "2026-04-08"
 category: "anime-pilgrimage"
 tags: ["Naruto", "anime-tourism", "Tokyo", "seichi-junrei", "ninja"]
-featuredImage: ""
-featuredImageAlt: "Tokyo street with anime shop and neon signs at night"
+featuredImage: "/images/articles/naruto-tokyo-pilgrimage-2026/featured.jpg"
+featuredImageAlt: "Naruto themed hotel room with fire kanji wall art and Konoha symbols"
+imageCredit: "Photo: © JNTO"
 author: "Japan Pop Now"
 excerpt: "Follow the path of Naruto through Tokyo's real-world pilgrimage sites, from merchandise havens to collaboration cafes and exhibitions dedicated to the legendary ninja series."
 relatedSlugs: []

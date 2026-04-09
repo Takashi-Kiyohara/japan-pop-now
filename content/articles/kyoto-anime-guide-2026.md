@@ -5,7 +5,7 @@ date: "2026-04-02"
 category: "area-guides"
 tags: []
 featuredImage: "/images/articles/kyoto-anime-guide-2026/featured.jpg"
-featuredImageAlt: ""
+featuredImageAlt: "Fushimi Inari Shrine thousand torii gates tunnel in Kyoto"
 author: "Japan Pop Now"
 excerpt: "Last updated: April 2026. Kyoto Anime Guide 2026: Pilgrimages, Studios, and Otaku Culture in the Ancient Capital Kyoto’s ancient temples and shrines serve as..."
 relatedSlugs: []

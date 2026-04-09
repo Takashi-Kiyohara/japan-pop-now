@@ -4,8 +4,8 @@ description: "Looking for the best Jujutsu Kaisen cafe in Japan in 2026? This pr
 date: "2026-04-06"
 category: "collab-cafes"
 tags: []
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/articles/jujutsu-kaisen-cafes-japan-2026-guide/featured.jpg"
+featuredImageAlt: "Shibuya Crossing aerial view Tokyo featured in Jujutsu Kaisen anime"
 author: "Japan Pop Now"
 excerpt: "Looking for the best Jujutsu Kaisen cafe in Japan in 2026? This practical guide compares Tokyo, Osaka, and other cities, with dates, reservation rules, and..."
 relatedSlugs: []

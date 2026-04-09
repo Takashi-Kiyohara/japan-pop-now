@@ -4,8 +4,9 @@ description: "Planning to visit Detective Conan Cafe 2026 in Japan? This practic
 date: "2026-04-06"
 category: "collab-cafes"
 tags: []
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/articles/detective-conan-cafe-2026-japan-guide/featured.jpg"
+featuredImageAlt: "Vibrant Akihabara electric town street with colorful anime signage"
+imageCredit: "Photo: © JNTO"
 author: "Japan Pop Now"
 excerpt: "Planning to visit Detective Conan Cafe 2026 in Japan? This practical guide covers the dates, best Tokyo and Osaka locations, what makes each city different,..."
 relatedSlugs: []

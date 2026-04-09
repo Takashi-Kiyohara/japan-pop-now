@@ -4,8 +4,8 @@ description: "Last updated: March 2026. Covers Shibuya PARCO’s 6F Cyberspace, 
 date: "2026-03-28"
 category: "area-guides"
 tags: []
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/articles/shibuya-harajuku-pop-culture-guide/featured.jpg"
+featuredImageAlt: "Crowded Takeshita Street in Harajuku with colorful kawaii shops"
 author: "Japan Pop Now"
 excerpt: "Last updated: March 2026. Covers Shibuya PARCO’s 6F Cyberspace, Harajuku’s Takeshita Street, Cat Street, Kawaii Monster Land, Kiddy Land, and a walking route..."
 relatedSlugs: []

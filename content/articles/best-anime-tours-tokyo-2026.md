@@ -4,8 +4,9 @@ description: "Last updated: April 2026. Disclosure: This article contains affili
 date: "2026-04-02"
 category: "travel-tips"
 tags: []
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/articles/best-anime-tours-tokyo-2026/featured.jpg"
+featuredImageAlt: "Yokohama Cosmo World amusement park with giant Ferris wheel at night"
+imageCredit: "Photo: © JNTO"
 author: "Japan Pop Now"
 excerpt: "Last updated: April 2026. Disclosure: This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you...."
 relatedSlugs: []

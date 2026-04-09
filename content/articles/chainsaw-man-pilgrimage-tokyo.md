@@ -4,8 +4,8 @@ description: "Last updated: April 2026. The quiet backstreets of Jinbocho â
 date: "2026-04-02"
 category: "anime-pilgrimage"
 tags: []
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/articles/chainsaw-man-pilgrimage-tokyo/featured.jpg"
+featuredImageAlt: "Secondhand bookstores in Jinbocho district Tokyo featured in Chainsaw Man"
 author: "Japan Pop Now"
 excerpt: "Last updated: April 2026. The quiet backstreets of Jinbocho â the real-world setting behind Chainsaw Man’s Reze Arc. Photo by Unsplash. The Chainsaw Man..."
 relatedSlugs: []

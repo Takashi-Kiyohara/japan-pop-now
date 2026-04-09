@@ -5,7 +5,7 @@ date: "2026-04-01"
 category: "travel-tips"
 tags: []
 featuredImage: "/images/articles/japan-rail-pass-guide-anime-fans/featured.jpg"
-featuredImageAlt: ""
+featuredImageAlt: "Scenic Japanese train traveling through snowy mountain landscape"
 author: "Japan Pop Now"
 excerpt: "Last updated: April 2026. If you’re planning an anime pilgrimage across Japan — hitting collab cafes in Tokyo, One Piece statues in Kumamoto, and Den Den Town..."
 relatedSlugs: []

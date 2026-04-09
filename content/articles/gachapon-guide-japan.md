@@ -5,7 +5,7 @@ date: "2026-03-28"
 category: "travel-tips"
 tags: []
 featuredImage: "/images/articles/gachapon-guide-japan/featured.jpg"
-featuredImageAlt: ""
+featuredImageAlt: "Bandai Gashapon store with capsule toy machines in Japan"
 author: "Japan Pop Now"
 excerpt: "Last updated: March 2026. Those colorful capsule toy machines lined up outside convenience stores and crammed into dedicated multi-floor buildings? That is..."
 relatedSlugs: []

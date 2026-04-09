@@ -5,7 +5,7 @@ date: "2026-04-03"
 category: "travel-tips"
 tags: []
 featuredImage: "/images/articles/japan-luggage-forwarding-2026/featured.jpg"
-featuredImageAlt: ""
+featuredImageAlt: "Yamato Transport Kuroneko delivery boxes in various sizes for luggage forwarding"
 author: "Japan Pop Now"
 excerpt: "Last updated: April 2026 Affiliate Disclosure: Some links in this article are affiliate links. We earn a small commission at no extra cost to you — it helps..."
 relatedSlugs: []

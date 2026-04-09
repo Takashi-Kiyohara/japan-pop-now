@@ -4,8 +4,8 @@ description: "Last updated: April 2026. Disclosure: This article contains affili
 date: "2026-04-02"
 category: "travel-tips"
 tags: []
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/articles/ship-anime-figures-merch-home-japan/featured.jpg"
+featuredImageAlt: "Yamato Transport Kuroneko delivery truck for shipping anime merch from Japan"
 author: "Japan Pop Now"
 excerpt: "Last updated: April 2026. Disclosure: This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you...."
 relatedSlugs: []

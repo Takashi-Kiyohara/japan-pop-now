@@ -5,7 +5,7 @@ date: "2026-03-29"
 category: "travel-tips"
 tags: []
 featuredImage: "/images/articles/japan-ic-card-transit-guide/featured.jpg"
-featuredImageAlt: ""
+featuredImageAlt: "IC card ticket gates and fare adjustment machine at Tokyo train station"
 author: "Japan Pop Now"
 excerpt: "Last updated: March 2026. IC cards eliminate the biggest headache of Japanese public transport: figuring out fare machines in a language you might not read...."
 relatedSlugs: []

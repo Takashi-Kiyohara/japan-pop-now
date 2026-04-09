@@ -5,7 +5,7 @@ date: "2026-04-02"
 category: "anime-pilgrimage"
 tags: []
 featuredImage: "/images/articles/jr-pass-anime-pilgrimage-routes-2026/featured.jpg"
-featuredImageAlt: ""
+featuredImageAlt: "Enoden train at Kamakura seaside crossing on anime pilgrimage route"
 author: "Japan Pop Now"
 excerpt: "Last updated: April 2026. Disclosure: This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you...."
 relatedSlugs: []

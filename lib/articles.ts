@@ -18,6 +18,7 @@ export type Article = {
   tags: string[]
   featuredImage: string
   featuredImageAlt: string
+  imageCredit?: string
   author: string
   content: string
   excerpt: string
@@ -57,6 +58,7 @@ export function getArticleBySlug(slug: string): Article | null {
     tags,
     featuredImage: data.featuredImage || '',
     featuredImageAlt: data.featuredImageAlt || title || '',
+    imageCredit: data.imageCredit || '',
     author: data.author || 'Japan Pop Now',
     content,
     excerpt: data.excerpt || content.slice(0, 160).replace(/\n/g, ' '),

@@ -4,8 +4,8 @@ description: "Visit every Your Name (Kimi no Na wa) location in Tokyo. Suga Shri
 date: "2026-03-25"
 category: "anime-pilgrimage"
 tags: []
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/articles/your-name-pilgrimage-tokyo/featured.jpg"
+featuredImageAlt: "Yunika Vision building in Shinjuku featured in Your Name anime"
 author: "Japan Pop Now"
 excerpt: "Visit every Your Name (Kimi no Na wa) location in Tokyo. Suga Shrine stairs, Shinjuku overpass, Shinanomachi Station — with a half-day walking route and photo..."
 relatedSlugs: []

@@ -4,8 +4,8 @@ description: "Last updated: March 2026. Covers all current Animate Cafe location
 date: "2026-03-28"
 category: "collab-cafes"
 tags: []
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/articles/animate-cafe-guide-japan/featured.jpg"
+featuredImageAlt: "Animate store and Lashinbang in Ikebukuro for anime cafe lottery booking"
 author: "Japan Pop Now"
 excerpt: "Last updated: March 2026. Covers all current Animate Cafe locations, the lottery booking system, Gratte stands, and DECOTTO donut shop. Animate Cafe is Japan’s..."
 relatedSlugs: []

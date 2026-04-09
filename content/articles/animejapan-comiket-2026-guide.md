@@ -4,8 +4,8 @@ description: "AnimeJapan vs. Comiket: Complete Guide to Tokyo’s Biggest Anime 
 date: "2026-04-03"
 category: "collab-cafes"
 tags: []
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/articles/animejapan-comiket-2026-guide/featured.jpg"
+featuredImageAlt: "Massive crowd at Comiket convention at Tokyo Big Sight"
 author: "Japan Pop Now"
 excerpt: "AnimeJapan vs. Comiket: Complete Guide to Tokyo’s Biggest Anime Events 2026 I’ve attended both AnimeJapan and Comiket more times than I can count. The first..."
 relatedSlugs: []

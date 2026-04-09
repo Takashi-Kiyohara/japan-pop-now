@@ -5,7 +5,7 @@ date: "2026-03-25"
 category: "anime-pilgrimage"
 tags: []
 featuredImage: "/images/articles/anime-pilgrimage-spots-tokyo/featured.jpg"
-featuredImageAlt: ""
+featuredImageAlt: "Sensoji Temple in Asakusa Tokyo a famous anime pilgrimage location"
 author: "Japan Pop Now"
 excerpt: "Visit real anime locations in Tokyo: Your Name stairs, Shibuya Crossing (JJK), Sensoji (Demon Slayer), Akihabara (Steins;Gate), Kamakura (Slam Dunk), and more."
 relatedSlugs: []

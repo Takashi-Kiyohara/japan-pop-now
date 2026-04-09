@@ -4,8 +4,8 @@ description: "Updated weekly. Every anime collaboration cafe in Tokyo for Spring
 date: "2026-03-25"
 category: "collab-cafes"
 tags: []
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/articles/tokyo-anime-collab-cafes-spring-2026/featured.jpg"
+featuredImageAlt: "Meguro River cherry blossom illumination in Tokyo spring season"
 author: "Japan Pop Now"
 excerpt: "Updated weekly. Every anime collaboration cafe in Tokyo for Spring 2026: JJK PLAZA, One Piece Cafe GENE, My Dress-Up Darling, and more. Dates, locations,..."
 relatedSlugs: []

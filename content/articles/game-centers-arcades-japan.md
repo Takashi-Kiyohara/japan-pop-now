@@ -5,7 +5,7 @@ date: "2026-03-28"
 category: "travel-tips"
 tags: []
 featuredImage: "/images/articles/game-centers-arcades-japan/featured.jpg"
-featuredImageAlt: ""
+featuredImageAlt: "Akihabara Electric Town with retro game shops and arcades"
 author: "Japan Pop Now"
 excerpt: "Last updated: March 2026. What Are Japanese Game Centers? Game centers (ゲームセンター, often shortened to “gēsen”) are multi-floor entertainment buildings found..."
 relatedSlugs: []

@@ -4,8 +4,8 @@ description: "Last updated: April 2026. Disclosure: This article contains affili
 date: "2026-04-05"
 category: "travel-tips"
 tags: []
-featuredImage: ""
-featuredImageAlt: ""
+featuredImage: "/images/articles/wonder-festival-figure-events-japan-2026/featured.jpg"
+featuredImageAlt: "Makuhari Messe convention hall for Wonder Festival figure events"
 author: "Japan Pop Now"
 excerpt: "Last updated: April 2026. Disclosure: This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you...."
 relatedSlugs: []

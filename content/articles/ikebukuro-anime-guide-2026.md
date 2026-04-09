@@ -5,7 +5,7 @@ date: "2026-03-25"
 category: "area-guides"
 tags: []
 featuredImage: "/images/articles/ikebukuro-anime-guide-2026/featured.jpg"
-featuredImageAlt: ""
+featuredImageAlt: "Nishi-Ikebukuro Ichibangai shopping street entrance in Ikebukuro Tokyo"
 author: "Japan Pop Now"
 excerpt: "Complete guide to Ikebukuro for anime fans. 9-floor Animate flagship, Otome Road, 4 collab cafe locations, Sunshine City events, and why locals prefer it over..."
 relatedSlugs: []

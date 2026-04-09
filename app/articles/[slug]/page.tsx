@@ -220,6 +220,14 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
               className="absolute inset-0"
               style={{ background: 'linear-gradient(to bottom, rgba(0,0,0,0) 50%, rgba(0,0,0,0.4) 100%)' }}
             />
+            {article.imageCredit && (
+              <span
+                className="absolute bottom-2 right-3 text-xs text-white/80"
+                style={{ textShadow: '0 1px 3px rgba(0,0,0,0.6)' }}
+              >
+                {article.imageCredit}
+              </span>
+            )}
           </div>
         )}
 
