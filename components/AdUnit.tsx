@@ -99,6 +99,11 @@ export default function AdUnit({
     return null;
   }
 
+  // Don't render if slot ID is a placeholder/dummy (all repeating digits)
+  if (/^(\d)\1+\d{2}$/.test(slot)) {
+    return null;
+  }
+
   return (
     <div
       ref={adRef}
