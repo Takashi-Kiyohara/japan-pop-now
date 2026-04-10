@@ -1,14 +1,27 @@
 import { revalidatePath, revalidateTag } from 'next/cache';
 import { NextRequest, NextResponse } from 'next/server';
+import { timingSafeEqual } from 'crypto';
+
+/**
+ * Timing-safe string comparison to prevent timing attacks on secret tokens.
+ */
+function safeCompare(a: string, b: string): boolean {
+  if (a.length !== b.length) {
+    // Still do a comparison to avoid leaking length info via timing
+    timingSafeEqual(Buffer.from(a), Buffer.from(a));
+    return false;
+  }
+  return timingSafeEqual(Buffer.from(a), Buffer.from(b));
+}
 
 export async function POST(request: NextRequest) {
   try {
-    // Verify secret token
-    const token = request.headers.get('x-revalidate-token');
-    const secret = process.env.REVALIDATE_SECRET;
+    // Verify secret token (timing-safe)
+    const token = request.headers.get('x-revalidate-token') || '';
+    const secret = process.env.REVALIDATE_SECRET || '';
 
-    if (!secret || token !== secret) {
-      return NextResponse.json({ error: 'Invalid or missing token' }, { status: 401 });
+    if (!secret || !token || !safeCompare(token, secret)) {
+      return NextResponse.json({ error: 'Unauthorized' }, { status: 401 });
     }
 
     const body = await request.json();
@@ -22,52 +35,51 @@ export async function POST(request: NextRequest) {
     }
 
     const revalidated: string[] = [];
-    const errors: string[] = [];
+    const errorCount = { paths: 0, tags: 0 };
 
     // Revalidate paths
     if (Array.isArray(paths)) {
-      for (const path of paths) {
+      for (const path of paths.slice(0, 50)) { // cap at 50 to prevent abuse
         try {
-          revalidatePath(path);
-          revalidated.push(`path: ${path}`);
+          if (typeof path === 'string' && path.startsWith('/')) {
+            revalidatePath(path);
+            revalidated.push(`path: ${path}`);
+          }
         } catch (err) {
-          errors.push(`path: ${path} - ${err instanceof Error ? err.message : 'Unknown error'}`);
+          errorCount.paths++;
+          console.error(`[ISR] Failed to revalidate path: ${path}`, err);
         }
       }
     }
 
-    // Revalidate tags (Next.js 16: revalidateTag requires profile as 2nd arg)
+    // Revalidate tags
     if (Array.isArray(tags)) {
-      for (const tag of tags) {
+      for (const tag of tags.slice(0, 50)) {
         try {
-          revalidateTag(tag, 'max');
-          revalidated.push(`tag: ${tag}`);
+          if (typeof tag === 'string') {
+            revalidateTag(tag, 'max');
+            revalidated.push(`tag: ${tag}`);
+          }
         } catch (err) {
-          errors.push(`tag: ${tag} - ${err instanceof Error ? err.message : 'Unknown error'}`);
+          errorCount.tags++;
+          console.error(`[ISR] Failed to revalidate tag: ${tag}`, err);
         }
       }
     }
 
-    // Log revalidation activity
+    // Log revalidation activity (server-side only)
     console.log('[ISR Revalidate]', {
       timestamp: new Date().toISOString(),
-      pathsCount: (paths || []).length,
-      tagsCount: (tags || []).length,
-      revalidated,
-      errors,
+      revalidated: revalidated.length,
     });
 
     return NextResponse.json({
       success: true,
-      revalidated,
-      errors: errors.length > 0 ? errors : undefined,
-      message: `Revalidated ${revalidated.length} path(s)/tag(s)`,
+      revalidated: revalidated.length,
+      message: `Revalidated ${revalidated.length} item(s)`,
     });
-  } catch (error) {
-    console.error('[ISR Revalidate Error]', error);
-    return NextResponse.json(
-      { error: 'Internal server error', details: error instanceof Error ? error.message : 'Unknown error' },
-      { status: 500 }
-    );
+  } catch {
+    console.error('[ISR Revalidate Error]');
+    return NextResponse.json({ error: 'Internal server error' }, { status: 500 });
   }
 }
