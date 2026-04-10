@@ -10,7 +10,13 @@ import {
 } from '@/lib/articles';
 import { CATEGORIES } from '@/lib/categories';
 import { getFeatureBySlug } from '@/lib/features';
-import { getArticleSchemaWithSpeakable, getBreadcrumbSchema, getHowToSchema } from '@/lib/structured-data';
+import {
+  getArticleSchemaWithSpeakable,
+  getBreadcrumbSchema,
+  getHowToSchema,
+  getEventSchema,
+  getTouristAttractionSchema,
+} from '@/lib/structured-data';
 import { articleUrl as getArticleUrl, absoluteUrl } from '@/lib/url';
 import { extractQAFromHeadings, generateFAQSchema } from '@/lib/faq-schema';
 import { getContentMetrics } from '@/lib/content-analysis';
@@ -192,6 +198,44 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                 h2Headings.map((h) => ({ name: h.text })),
                 url,
                 article.featuredImage,
+              )
+            ),
+          }}
+        />
+      )}
+      {/* Optional secondary schemas — fired when frontmatter sets schemaType.
+          Both Event and TouristAttraction sit alongside the NewsArticle schema
+          (Google supports multiple ld+json blocks per page) so AI Overview /
+          Rich Results have richer entity context. */}
+      {article.schemaType === 'Event' && article.startDate && article.endDate && article.location && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(
+              getEventSchema(
+                article.title,
+                article.description,
+                article.startDate,
+                article.endDate,
+                article.location,
+                url,
+                article.featuredImage || undefined,
+              )
+            ),
+          }}
+        />
+      )}
+      {article.schemaType === 'TouristAttraction' && article.location && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(
+              getTouristAttractionSchema(
+                article.title,
+                article.description,
+                article.location.address,
+                url,
+                article.featuredImage || undefined,
               )
             ),
           }}

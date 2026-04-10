@@ -84,10 +84,14 @@ export default function RootLayout({
         <link rel="alternate" hrefLang="en" href="https://japan-pop-now.com" />
         <link rel="alternate" hrefLang="x-default" href="https://japan-pop-now.com" />
 
-        {/* DNS prefetch & preconnect for third-party origins */}
+        {/* DNS prefetch & preconnect for third-party origins.
+            Fonts are loaded via next/font/google (Playfair_Display + DM_Sans)
+            so the gstatic preconnect is the LCP-critical one — keep both
+            googleapis.com and gstatic.com on `preconnect` rather than the
+            cheaper `dns-prefetch` to shave the TLS round trip on first paint. */}
         <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
         <link rel="dns-prefetch" href="https://pagead2.googlesyndication.com" />
-        <link rel="dns-prefetch" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
         <link rel="preconnect" href="https://www.google-analytics.com" crossOrigin="anonymous" />
 

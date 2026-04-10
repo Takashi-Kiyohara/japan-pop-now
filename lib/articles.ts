@@ -24,6 +24,13 @@ export type Article = {
   content: string
   excerpt: string
   relatedSlugs?: string[]
+  // Schema.org type override — defaults to NewsArticle if absent.
+  // 'Event' triggers getEventSchema, 'TouristAttraction' triggers
+  // getTouristAttractionSchema in app/articles/[slug]/page.tsx.
+  schemaType?: 'Article' | 'Event' | 'TouristAttraction'
+  startDate?: string
+  endDate?: string
+  location?: { name: string; address: string }
 }
 
 export type ArticleMeta = Omit<Article, 'content'>
@@ -66,6 +73,10 @@ export function getArticleBySlug(slug: string): Article | null {
     content,
     excerpt: data.excerpt || content.slice(0, 160).replace(/\n/g, ' '),
     relatedSlugs: data.relatedSlugs || [],
+    schemaType: data.schemaType,
+    startDate: data.startDate,
+    endDate: data.endDate,
+    location: data.location,
   }
 }
 
