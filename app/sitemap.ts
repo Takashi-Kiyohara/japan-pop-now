@@ -1,6 +1,13 @@
 import { MetadataRoute } from 'next';
 import { getAllArticles, CATEGORIES } from '@/lib/articles';
-import { getSiteUrl, articleUrl as getArticleUrl, guideUrl } from '@/lib/url';
+import { getCafesForSitemap } from '@/lib/cafes';
+import {
+  getSiteUrl,
+  articleUrl as getArticleUrl,
+  guideUrl,
+  cafesHubUrl,
+  cafeUrl,
+} from '@/lib/url';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = getSiteUrl();
@@ -83,10 +90,37 @@ export default function sitemap(): MetadataRoute.Sitemap {
     lastModified: new Date(),
   }));
 
+  // Collab cafe hub + individual cafe pages.
+  // Only active/upcoming cafes are advertised here — ended cafes remain
+  // crawlable via internal links but are excluded to keep the freshness signal
+  // high on the sitemap. See lib/cafes.ts -> getCafesForSitemap().
+  const cafes = getCafesForSitemap();
+  const cafeHubPage: MetadataRoute.Sitemap = [
+    {
+      url: cafesHubUrl(),
+      changeFrequency: 'daily' as const,
+      priority: 0.85,
+      lastModified: new Date(),
+    },
+  ];
+  const cafePages: MetadataRoute.Sitemap = cafes.map((c) => ({
+    url: cafeUrl(c.slug),
+    changeFrequency: 'daily' as const,
+    priority: 0.8,
+    lastModified: new Date(c.last_verified),
+  }));
+
   // Tag archive pages are intentionally excluded from sitemap.
   // All tag pages are noindex,follow (see app/tags/[tag]/page.tsx).
   // Removed 2026-04-10 to resolve the "detected — not indexed" GSC issue caused
   // by ~97 thin tag pages. See tag_page_noindex_spec_20260410.md.
 
-  return [...staticPages, ...articlePages, ...categoryPages, ...guidePages];
+  return [
+    ...staticPages,
+    ...articlePages,
+    ...categoryPages,
+    ...guidePages,
+    ...cafeHubPage,
+    ...cafePages,
+  ];
 }

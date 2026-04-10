@@ -16,6 +16,14 @@ export function tagUrl(tag: string): string {
   return `${SITE_URL}/tags/${tag}`
 }
 
+export function cafesHubUrl(): string {
+  return `${SITE_URL}/cafes`
+}
+
+export function cafeUrl(slug: string): string {
+  return `${SITE_URL}/cafes/${slug}`
+}
+
 export function absoluteUrl(path: string): string {
   return `${SITE_URL}${path}`
 }
