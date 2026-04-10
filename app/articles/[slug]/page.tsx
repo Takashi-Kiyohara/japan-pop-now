@@ -17,7 +17,6 @@ import { getContentMetrics } from '@/lib/content-analysis';
 import { formatDateFull } from '@/lib/date-utils';
 import { extractHeadings } from '@/lib/markdown-utils';
 import ArticleCard from '@/components/ArticleCard';
-import AdUnit from '@/components/AdUnit';
 import ScrollProgress from '@/components/ScrollProgress';
 import ReadingTime from '@/components/ReadingTime';
 import Breadcrumb from '@/components/Breadcrumb';

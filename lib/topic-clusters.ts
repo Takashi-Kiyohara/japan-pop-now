@@ -238,7 +238,7 @@ export function validateClusters(): string[] {
  */
 export function getClusterStats() {
   let totalArticles = 0;
-  let totalClusters = TOPIC_CLUSTERS.length;
+  const totalClusters = TOPIC_CLUSTERS.length;
 
   for (const cluster of TOPIC_CLUSTERS) {
     totalArticles += 1 + cluster.clusterArticles.length;

@@ -1,4 +1,4 @@
-import { Article, ArticleMeta } from './articles';
+import { ArticleMeta } from './articles';
 
 export const SITE_URL = 'https://japan-pop-now.com';
 export const SITE_NAME = 'Japan Pop Now';

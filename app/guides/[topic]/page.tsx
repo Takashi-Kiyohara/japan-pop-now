@@ -1,15 +1,12 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
-import Image from 'next/image';
 import { notFound } from 'next/navigation';
 import { Ticket, Utensils, Hotel, Train, TrainFront, Smartphone, Umbrella, Drama } from 'lucide-react';
 import { getAllArticles } from '@/lib/articles';
-import { CATEGORIES } from '@/lib/categories';
 import ArticleCard from '@/components/ArticleCard';
 import Breadcrumb from '@/components/Breadcrumb';
 import AdUnit from '@/components/AdUnit';
 import AffiliateCTA from '@/components/AffiliateCTA';
-import { getBlurPlaceholder } from '@/lib/image-utils';
 
 // ── Hub Topic Definitions ────────────────────────────────────
 // Each hub page aggregates articles by tags/categories into a themed landing

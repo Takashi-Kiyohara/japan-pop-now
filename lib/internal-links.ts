@@ -67,11 +67,6 @@ export function insertInternalLinks(
     for (const slugWord of slugWords) {
       const slugWordRegex = new RegExp(`\\b${escapeRegex(slugWord)}\\b`, 'gi');
       while ((match = slugWordRegex.exec(content)) !== null) {
-        // Only match if slug word appears in context (at least 3 words around it)
-        const contextStart = Math.max(0, match.index - 50);
-        const contextEnd = Math.min(content.length, match.index + match[0].length + 50);
-        const context = content.substring(contextStart, contextEnd);
-
         // Check if it's not already linked and slug word is relevant
         if (!isAlreadyLinked(content, match.index, match[0].length)) {
           matches.push({

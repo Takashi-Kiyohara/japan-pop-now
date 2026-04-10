@@ -68,7 +68,7 @@ export default function TableOfContents({ headings }: TableOfContentsProps) {
           transition: 'max-height 0.3s ease',
         }}
       >
-        {visibleHeadings.map((heading, i) => (
+        {visibleHeadings.map((heading) => (
           <li key={heading.id}>
             <Link
               href={`#${heading.id}`}

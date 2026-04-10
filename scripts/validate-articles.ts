@@ -46,7 +46,7 @@ function extractHeadings(text: string): number {
   return lines.filter((line) => /^#{1,6}\s+/.test(line)).length
 }
 
-function validateFrontmatter(data: any, file: string): ValidationError[] {
+function validateFrontmatter(data: Record<string, unknown>, file: string): ValidationError[] {
   const errors: ValidationError[] = []
 
   // Title validation
@@ -97,11 +97,11 @@ function validateFrontmatter(data: any, file: string): ValidationError[] {
   // Category validation
   if (!data.category) {
     errors.push({ file, type: 'error', message: 'Missing category field' })
-  } else if (!VALID_CATEGORIES.includes(data.category)) {
+  } else if (typeof data.category !== 'string' || !VALID_CATEGORIES.includes(data.category)) {
     errors.push({
       file,
       type: 'error',
-      message: `Invalid category: ${data.category}. Must be one of: ${VALID_CATEGORIES.join(', ')}`,
+      message: `Invalid category: ${String(data.category)}. Must be one of: ${VALID_CATEGORIES.join(', ')}`,
     })
   }
 
@@ -182,7 +182,7 @@ function validateArticles() {
   files.forEach((file) => {
     const filePath = path.join(ARTICLES_DIR, file)
     const raw = fs.readFileSync(filePath, 'utf-8')
-    const { data, content } = matter(raw)
+    const { data } = matter(raw)
 
     const frontmatterErrors = validateFrontmatter(data, file)
     const contentErrors = validateContent(raw, file)

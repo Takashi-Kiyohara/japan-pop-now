@@ -79,7 +79,8 @@ export function getAllArticles(): ArticleMeta[] {
     .map((slug) => {
       const a = getArticleBySlug(slug)
       if (!a) return null
-      const { content, ...meta } = a
+      const { content: _content, ...meta } = a
+      void _content
       // Ensure tags are always populated (auto-tags if empty)
       if (!meta.tags || meta.tags.length === 0) {
         meta.tags = generateAutoTags(meta.slug, meta.title, meta.category)
@@ -122,7 +123,8 @@ export function getRelatedArticles(slug: string, limit = 3): ArticleMeta[] {
       .map((s) => {
         const a = getArticleBySlug(s)
         if (!a) return null
-        const { content, ...meta } = a
+        const { content: _content, ...meta } = a
+        void _content
         return meta
       })
       .filter(Boolean)

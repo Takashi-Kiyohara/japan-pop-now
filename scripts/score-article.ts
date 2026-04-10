@@ -6,7 +6,6 @@
  */
 
 import fs from 'fs'
-import path from 'path'
 import matter from 'gray-matter'
 
 interface ScoreBreakdown {
@@ -57,7 +56,7 @@ function scoreHeadingStructure(content: string): number {
   return 0
 }
 
-function scoreInternalLinks(content: string, slug?: string): number {
+function scoreInternalLinks(content: string): number {
   // Count relative links (internal)
   const relativeLinks = (
     content.match(/\[([^\]]+)\]\(\/[a-z0-9\-]+(?:\/[a-z0-9\-]+)*\)/g) || []
@@ -173,12 +172,11 @@ function scoreArticle(filePath: string): ScoreBreakdown {
   const { data, content } = matter(raw)
 
   const wordCount = countWords(content)
-  const slug = path.basename(filePath, '.md')
 
   const breakdown: ScoreBreakdown = {
     wordCount: scoreWordCount(wordCount),
     headingStructure: scoreHeadingStructure(content),
-    internalLinks: scoreInternalLinks(content, slug),
+    internalLinks: scoreInternalLinks(content),
     externalLinks: scoreExternalLinks(content),
     images: scoreImages(content),
     faqSection: scoreFaqSection(content),

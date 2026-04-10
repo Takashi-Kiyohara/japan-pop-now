@@ -11,7 +11,6 @@ interface ReadNextProps {
 export default function ReadNext({
   relatedArticles = [],
   categoryArticles = [],
-  currentCategory,
 }: ReadNextProps) {
   // Prefer first related article, or fall back to first category article
   const nextArticle = relatedArticles && relatedArticles.length > 0 ? relatedArticles[0] : categoryArticles?.[0];

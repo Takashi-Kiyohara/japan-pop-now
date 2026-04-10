@@ -158,7 +158,6 @@ export function extractHowToStepsFromMarkdown(markdown: string): HowToStep[] {
   const lines = markdown.split('\n');
 
   let i = 0;
-  let stepNumber = 0;
 
   while (i < lines.length) {
     const line = lines[i];
@@ -169,7 +168,6 @@ export function extractHowToStepsFromMarkdown(markdown: string): HowToStep[] {
     const headingMatch = trimmed.match(/^###\s+(.+)/);
 
     if (numberMatch || headingMatch) {
-      stepNumber++;
       const stepName = numberMatch ? numberMatch[2] : headingMatch![1];
 
       // Collect text until next step or heading
