@@ -57,7 +57,7 @@ export async function GET() {
 
 ## About
 Japan Pop Now is an English-language media site covering anime collab cafes, pilgrimage spots, area guides, and travel tips for visitors to Japan.
-- Author: Takashi Kiyohara (Takapon) — born in Kyoto, based in Tokyo
+- Author: Takapon — Kyoto-born, Tokyo-based, UK-based graduate student in International Relations
 - Total articles: ${articles.length}
 - Last generated: ${now}
 

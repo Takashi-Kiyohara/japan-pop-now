@@ -13,9 +13,9 @@ const SITE_LINKS = [
 const COMPANY_LINKS = [
   { href: '/about', label: 'About Us' },
   { href: '/contact', label: 'Contact' },
+  { href: '/support', label: 'Support Us' },
   { href: '/privacy', label: 'Privacy Policy' },
   { href: '/affiliate-disclosure', label: 'Affiliate Disclosure' },
-  { href: '/feed.xml', label: 'RSS Feed' },
 ];
 
 const SOCIAL_LINKS = [

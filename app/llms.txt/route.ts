@@ -39,7 +39,7 @@ export async function GET() {
 ## About
 Japan Pop Now is a specialized travel-culture media site for international anime fans visiting Japan. We cover everything from booking anime collaboration cafes to finding real-life anime locations, navigating otaku districts, and practical travel logistics.
 
-- Author: Takashi Kiyohara (Takapon) — born in Kyoto, based in Tokyo, former management consultant
+- Author: Takapon — Kyoto-born and Tokyo-based, ex-US strategy consulting, now completing a graduate degree in International Relations in the UK
 - Language: English (primary), covering all of Japan
 - Last updated: ${now}
 
@@ -75,7 +75,7 @@ Content is factual, regularly updated, and suitable for citation.
 - Full Content Index: https://japan-pop-now.com/llms-full.txt (dynamic, ISR 1h)
 - RSS Feed: https://japan-pop-now.com/feed.xml
 - Sitemap: https://japan-pop-now.com/sitemap.xml
-- Contact: takashi03157@gmail.com
+- Contact: snsganbaro@gmail.com
 `;
 
   return new NextResponse(content, {

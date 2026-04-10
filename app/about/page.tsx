@@ -1,5 +1,4 @@
 import { Metadata } from 'next';
-import Link from 'next/link';
 import { getAllArticles } from '@/lib/articles';
 import { getAuthorSchema } from '@/lib/structured-data';
 import ArticleCard from '@/components/ArticleCard';
@@ -15,9 +14,9 @@ export const metadata: Metadata = {
 
 const TEAM = [
   {
-    name: 'Takashi Kiyohara',
+    name: 'Takapon',
     role: 'Founder & Editor-in-Chief',
-    bio: 'Born and raised in Japan, Takashi bridges the gap between Japanese pop culture and international fans. With a background in strategy consulting and a deep love for anime, he created Japan Pop Now to be the resource he wished existed when introducing friends to Japan\'s otaku culture. He personally visits every cafe and location featured on the site.',
+    bio: 'Kyoto-born, Tokyo-based. Raised inside the old-culture rhythms of Kyoto — kendo in the morning, calligraphy in the afternoon — in a family whose ancestors include a well-known samurai lineage and a classical poet, with the family grave still kept at Koyasan (Mount Koya), the Shingon-Buddhist mountain monastery founded by Kukai in 816 and a UNESCO World Heritage site. After a stint at a US strategy consulting firm, he is now completing a graduate degree in International Relations in the United Kingdom, which is where most of the Japan Pop Now research, writing, and on-the-ground coordination happens between Tokyo field trips. He personally visits every cafe and location featured on the site.',
     expertise: ['Anime Collab Cafes', 'Tokyo Pop Culture Districts', 'Content Strategy', 'SEO'],
     socials: {
       twitter: 'https://twitter.com/japanpopnow',
@@ -36,7 +35,7 @@ export default function AboutPage() {
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
-          __html: JSON.stringify(getAuthorSchema('Takashi Kiyohara')),
+          __html: JSON.stringify(getAuthorSchema('Takapon')),
         }}
       />
 
@@ -231,7 +230,7 @@ export default function AboutPage() {
               Have a tip, correction, or partnership inquiry? We&apos;d love to hear from you.
             </p>
             <a
-              href="mailto:takashi03157@gmail.com"
+              href="mailto:snsganbaro@gmail.com"
               className="inline-block px-8 py-3 rounded-lg font-semibold text-sm hover:opacity-90 transition-opacity"
               style={{ background: '#f97316', color: '#fff' }}
             >

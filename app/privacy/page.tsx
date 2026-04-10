@@ -89,7 +89,7 @@ export default function PrivacyPage() {
             <p className="mb-2"><strong>Vercel</strong> — website hosting</p>
             <p className="mb-2"><strong>Giscus (GitHub)</strong> — article comments</p>
             <p>
-              <strong>Affiliate Partners</strong> (Klook, Booking.com, GetYourGuide, Amazon, Agoda) — when you click affiliate links, these partners may set their own cookies. Please refer to their respective privacy policies.
+              <strong>Affiliate Partners</strong> (Klook, Awin network, GetYourGuide, Amazon Associates) — when you click affiliate links, these partners may set their own cookies. Please refer to their respective privacy policies.
             </p>
           </Section>
 
@@ -110,8 +110,8 @@ export default function PrivacyPage() {
             <p className="mb-2">Request deletion of any personal data we hold about you</p>
             <p>
               For any data-related requests, please contact us at{' '}
-              <a href="mailto:takashi03157@gmail.com" style={{ color: '#f97316', textDecoration: 'underline', textUnderlineOffset: '2px' }}>
-                takashi03157@gmail.com
+              <a href="mailto:snsganbaro@gmail.com" style={{ color: '#f97316', textDecoration: 'underline', textUnderlineOffset: '2px' }}>
+                snsganbaro@gmail.com
               </a>
             </p>
           </Section>
@@ -137,8 +137,8 @@ export default function PrivacyPage() {
           <Section title="10. Contact">
             <p>
               If you have any questions about this Privacy Policy, please contact us at{' '}
-              <a href="mailto:takashi03157@gmail.com" style={{ color: '#f97316', textDecoration: 'underline', textUnderlineOffset: '2px' }}>
-                takashi03157@gmail.com
+              <a href="mailto:snsganbaro@gmail.com" style={{ color: '#f97316', textDecoration: 'underline', textUnderlineOffset: '2px' }}>
+                snsganbaro@gmail.com
               </a>
             </p>
           </Section>

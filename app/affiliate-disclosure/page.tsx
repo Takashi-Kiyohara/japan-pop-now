@@ -25,8 +25,9 @@ export default function AffiliateDisclosure() {
       <div className="prose">
         <p>
           Japan Pop Now is a participant in several affiliate programs, including
-          the Amazon Associates Program, Klook Affiliate Program, Booking.com
-          Partner Program, and GetYourGuide Partner Program.
+          the Amazon Associates Program, Klook Affiliate Program, the Awin
+          network (which includes a number of Japan travel and retail advertisers),
+          and the GetYourGuide Partner Program.
         </p>
         <p>
           This means we may earn a commission when you click on links to these

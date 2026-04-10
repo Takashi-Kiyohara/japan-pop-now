@@ -66,10 +66,10 @@ export default function ContactPage() {
                 For tips about new collab cafes, corrections to existing articles, or general feedback:
               </p>
               <a
-                href="mailto:takashi03157@gmail.com"
+                href="mailto:snsganbaro@gmail.com"
                 style={{ color: '#f97316', fontWeight: 600, textDecoration: 'underline', textUnderlineOffset: '3px' }}
               >
-                takashi03157@gmail.com
+                snsganbaro@gmail.com
               </a>
             </div>
 
@@ -90,10 +90,10 @@ export default function ContactPage() {
                 For sponsored content, advertising, or partnership opportunities, please include &quot;Partnership&quot; in your subject line:
               </p>
               <a
-                href="mailto:takashi03157@gmail.com?subject=Partnership Inquiry"
+                href="mailto:snsganbaro@gmail.com?subject=Partnership Inquiry"
                 style={{ color: '#f97316', fontWeight: 600, textDecoration: 'underline', textUnderlineOffset: '3px' }}
               >
-                takashi03157@gmail.com
+                snsganbaro@gmail.com
               </a>
             </div>
 
