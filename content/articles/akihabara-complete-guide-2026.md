@@ -1,6 +1,6 @@
 ---
 title: "Akihabara: The Complete Pop Culture Guide for 2026"
-description: "The real Akihabara guide for 2026. Retro game shops, hidden specialist stores, maid cafes, collab cafes, and the side streets most tourists miss. Written by a..."
+description: "Akihabara pop culture guide 2026: retro game shops, figure stores, maid cafes, collab cafes, hidden specialist boutiques, and complete street map."
 date: "2026-03-25"
 category: "area-guides"
 tags: []

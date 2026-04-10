@@ -17,6 +17,12 @@ export const metadata: Metadata = {
   description:
     'The only English-language real-time tracker of anime collaboration cafes in Japan. See what is running now, what is opening soon, and browse the archive by IP.',
   alternates: { canonical: cafesHubUrl() },
+  // Hub page: noindex until cafes.json is populated with active entries.
+  // Revisit once real cafe data is backfilled from collabo-cafe.com sources.
+  robots: {
+    index: false,
+    follow: true,
+  },
   openGraph: {
     title: 'Anime Collab Cafes in Japan — Japan Pop Now',
     description:

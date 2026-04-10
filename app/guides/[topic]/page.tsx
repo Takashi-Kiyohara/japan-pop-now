@@ -103,6 +103,11 @@ export async function generateMetadata({ params }: HubPageProps): Promise<Metada
     title: hub.title,
     description: hub.description,
     alternates: { canonical: url },
+    // Hub page: noindex while unique editorial content is being built out.
+    robots: {
+      index: false,
+      follow: true,
+    },
     openGraph: {
       title: hub.title,
       description: hub.description,

@@ -1,13 +1,13 @@
 ---
 title: "Japan IC Card & Transit Guide for Anime Fans (2026)"
-description: "Last updated: March 2026. IC cards eliminate the biggest headache of Japanese public transport: figuring out fare machines in a language you might not read...."
+description: "Japan IC Card transit guide: how to use Suica/Pasmo, fare machines, regional compatibility, discount cards, and seamless travel in Tokyo/Kyoto/Osaka."
 date: "2026-03-29"
 category: "travel-tips"
 tags: []
 featuredImage: "/images/articles/japan-ic-card-transit-guide/featured.jpg"
 featuredImageAlt: "IC card ticket gates and fare adjustment machine at Tokyo train station"
 author: "Japan Pop Now"
-excerpt: "Last updated: March 2026. IC cards eliminate the biggest headache of Japanese public transport: figuring out fare machines in a language you might not read...."
+excerpt: "Japan IC Card transit guide: how to use Suica/Pasmo, fare machines, regional compatibility, discount cards, and seamless travel in Tokyo/Kyoto/Osaka."
 relatedSlugs: []
 wpPostId: 300
 ---

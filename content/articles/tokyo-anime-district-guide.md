@@ -1,13 +1,13 @@
 ---
 title: "Tokyo Anime Neighborhoods Guide 2026 — 6 Pop Culture Districts Compared"
-description: "Last updated: March 2026. The complete guide to every anime and pop culture neighborhood in Tokyo — where to go, what to buy, and how to plan your route across..."
+description: "The complete guide to every anime and pop culture neighborhood in Tokyo — where to go, what to buy, and how to plan your route across..."
 date: "2026-03-28"
 category: "area-guides"
 tags: []
 featuredImage: "/images/articles/tokyo-anime-district-guide/featured.jpg"
 featuredImageAlt: "Akihabara neon-lit anime district at night with SEGA and manga billboards"
 author: "Japan Pop Now"
-excerpt: "Last updated: March 2026. The complete guide to every anime and pop culture neighborhood in Tokyo — where to go, what to buy, and how to plan your route across..."
+excerpt: "The complete guide to every anime and pop culture neighborhood in Tokyo — where to go, what to buy, and how to plan your route across..."
 relatedSlugs: []
 wpPostId: 206
 ---

@@ -13,6 +13,11 @@ export const metadata: Metadata = {
   alternates: {
     canonical: 'https://japan-pop-now.com/features',
   },
+  // Hub index: noindex until series library grows.
+  robots: {
+    index: false,
+    follow: true,
+  },
   openGraph: {
     title: 'Features — Long-Form Editorial Columns | Japan Pop Now',
     description:

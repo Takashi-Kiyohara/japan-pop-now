@@ -1,13 +1,13 @@
 ---
 title: "Jujutsu Kaisen Shibuya Locations: Complete 2026 Guide"
-description: "Jujutsu Kaisen Shibuya Pilgrimage Guide: Location Matching & Walking Routes Last updated: April 2026 Shibuya in 2024 became the epicenter of Jujutsu Kaisen’s..."
+description: "Complete Jujutsu Kaisen Shibuya Locations: Complete 2026 Guide: guide with practical tips, 2026 details, and what you need to know."
 date: "2026-04-03"
 category: "anime-pilgrimage"
 tags: []
 featuredImage: "/images/articles/jujutsu-kaisen-shibuya-locations-2026/featured.jpg"
 featuredImageAlt: "Hachiko statue in Shibuya a key Jujutsu Kaisen anime location"
 author: "Japan Pop Now"
-excerpt: "Jujutsu Kaisen Shibuya Pilgrimage Guide: Location Matching & Walking Routes Last updated: April 2026 Shibuya in 2024 became the epicenter of Jujutsu Kaisen’s..."
+excerpt: "Complete Jujutsu Kaisen Shibuya Locations: Complete 2026 Guide: guide with practical tips, 2026 details, and what you need to know."
 relatedSlugs: []
 wpPostId: 604
 ---

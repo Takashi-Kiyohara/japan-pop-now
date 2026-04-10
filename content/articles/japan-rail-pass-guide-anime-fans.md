@@ -1,13 +1,13 @@
 ---
 title: "Japan Rail Pass Guide for Anime Fans: Is It Worth It? (2026)"
-description: "Last updated: April 2026. If you’re planning an anime pilgrimage across Japan — hitting collab cafes in Tokyo, One Piece statues in Kumamoto, and Den Den Town..."
+description: "Japan Rail Pass 2026: regional options, prices, exchange offices, airport locations, multi-city itinerary planning, and value vs spot tickets."
 date: "2026-04-01"
 category: "travel-tips"
 tags: []
 featuredImage: "/images/articles/japan-rail-pass-guide-anime-fans/featured.jpg"
 featuredImageAlt: "Scenic Japanese train traveling through snowy mountain landscape"
 author: "Japan Pop Now"
-excerpt: "Last updated: April 2026. If you’re planning an anime pilgrimage across Japan — hitting collab cafes in Tokyo, One Piece statues in Kumamoto, and Den Den Town..."
+excerpt: "Japan Rail Pass 2026: regional options, prices, exchange offices, airport locations, multi-city itinerary planning, and value vs spot tickets."
 relatedSlugs: []
 wpPostId: 383
 ---

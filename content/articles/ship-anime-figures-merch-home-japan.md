@@ -1,13 +1,13 @@
 ---
 title: "How to Ship Anime Figures & Merch Home from Japan: Complete Guide (2026)"
-description: "Last updated: April 2026. Disclosure: This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you...."
+description: "Ship anime figures and merchandise home from Japan: international forwarding services, customs forms, carrier options, shipping costs, and delivery times."
 date: "2026-04-02"
 category: "travel-tips"
 tags: []
 featuredImage: "/images/articles/ship-anime-figures-merch-home-japan/featured.jpg"
 featuredImageAlt: "Yamato Transport Kuroneko delivery truck for shipping anime merch from Japan"
 author: "Japan Pop Now"
-excerpt: "Last updated: April 2026. Disclosure: This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you...."
+excerpt: "Ship anime figures and merchandise home from Japan: international forwarding services, customs forms, carrier options, shipping costs, and delivery times."
 relatedSlugs: []
 wpPostId: 540
 ---

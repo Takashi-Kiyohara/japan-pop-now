@@ -1,13 +1,8 @@
 import { MetadataRoute } from 'next';
-import { getAllArticles, CATEGORIES } from '@/lib/articles';
-import { getCafesForSitemap } from '@/lib/cafes';
-import { FEATURES, getActiveFeatureSlugs } from '@/lib/features';
+import { getAllArticles } from '@/lib/articles';
 import {
   getSiteUrl,
   articleUrl as getArticleUrl,
-  guideUrl,
-  cafesHubUrl,
-  cafeUrl,
 } from '@/lib/url';
 
 export default function sitemap(): MetadataRoute.Sitemap {
@@ -47,18 +42,15 @@ export default function sitemap(): MetadataRoute.Sitemap {
       lastModified: new Date(),
     },
     {
-      url: `${baseUrl}/guides`,
-      changeFrequency: 'weekly',
-      priority: 0.7,
-      lastModified: new Date(),
-    },
-    {
       url: `${baseUrl}/search`,
       changeFrequency: 'monthly',
       priority: 0.3,
       lastModified: new Date(),
     },
   ];
+  // Note: /guides, /features, /category/*, /features/*, /guides/* are excluded
+  // from sitemap as of 2026-04-10 (AdSense low-value content fix). Hub pages
+  // are noindex,follow until unique editorial content is added to each.
 
   // Article pages with lastModified dates
   const articlePages: MetadataRoute.Sitemap = articles.map((article) => ({
@@ -68,70 +60,21 @@ export default function sitemap(): MetadataRoute.Sitemap {
     lastModified: new Date(article.date),
   }));
 
-  // Category pages
-  const categoryPages: MetadataRoute.Sitemap = CATEGORIES.map((category) => ({
-    url: `${baseUrl}/category/${category.slug}`,
-    changeFrequency: 'weekly' as const,
-    priority: 0.7,
-    lastModified: new Date(),
-  }));
+  // Category pages and guide hub pages are NOT included in sitemap.
+  // All hub pages are noindex,follow (see app/category/[slug]/page.tsx,
+  // app/guides/[topic]/page.tsx, app/features/[slug]/page.tsx).
+  // Removed 2026-04-10 to resolve AdSense "low-value content" policy violation.
+  const categoryPages: MetadataRoute.Sitemap = [];
+  const guidePages: MetadataRoute.Sitemap = [];
 
-  // Guide hub pages
-  const hubTopics = [
-    'tokyo-anime-cafes',
-    'anime-pilgrimage-tokyo',
-    'osaka-anime-guide',
-    'day-trips-from-tokyo',
-    'japan-travel-essentials',
-  ];
-  const guidePages: MetadataRoute.Sitemap = hubTopics.map((topic) => ({
-    url: guideUrl(topic),
-    changeFrequency: 'weekly' as const,
-    priority: 0.8,
-    lastModified: new Date(),
-  }));
+  // Cafe hub + individual cafe pages — excluded from sitemap until cafes.json
+  // is populated. Hub is noindex,follow as of 2026-04-10 (AdSense fix).
+  const cafeHubPage: MetadataRoute.Sitemap = [];
+  const cafePages: MetadataRoute.Sitemap = [];
 
-  // Collab cafe hub + individual cafe pages.
-  // Only active/upcoming cafes are advertised here — ended cafes remain
-  // crawlable via internal links but are excluded to keep the freshness signal
-  // high on the sitemap. See lib/cafes.ts -> getCafesForSitemap().
-  const cafes = getCafesForSitemap();
-  const cafeHubPage: MetadataRoute.Sitemap = [
-    {
-      url: cafesHubUrl(),
-      changeFrequency: 'daily' as const,
-      priority: 0.85,
-      lastModified: new Date(),
-    },
-  ];
-  const cafePages: MetadataRoute.Sitemap = cafes.map((c) => ({
-    url: cafeUrl(c.slug),
-    changeFrequency: 'daily' as const,
-    priority: 0.8,
-    lastModified: new Date(c.last_verified),
-  }));
-
-  // Feature series pages — only include if at least one active series exists.
-  // This guards against shipping an empty /features index or orphaned hubs.
-  // See docs/site-structure-20260410.md and the Critic review addendum.
-  const activeFeatureSlugs = getActiveFeatureSlugs();
-  const featurePages: MetadataRoute.Sitemap =
-    activeFeatureSlugs.length > 0 && FEATURES.length > 0
-      ? [
-          {
-            url: `${baseUrl}/features`,
-            changeFrequency: 'weekly' as const,
-            priority: 0.7,
-            lastModified: new Date(),
-          },
-          ...activeFeatureSlugs.map((slug) => ({
-            url: `${baseUrl}/features/${slug}`,
-            changeFrequency: 'weekly' as const,
-            priority: 0.7,
-            lastModified: new Date(),
-          })),
-        ]
-      : [];
+  // Feature series hub pages are NOT in sitemap either (noindex,follow).
+  // See app/features/[slug]/page.tsx and app/features/page.tsx.
+  const featurePages: MetadataRoute.Sitemap = [];
 
   // Tag archive pages are intentionally excluded from sitemap.
   // All tag pages are noindex,follow (see app/tags/[tag]/page.tsx).

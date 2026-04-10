@@ -1,13 +1,13 @@
 ---
 title: "Demon Slayer Pilgrimage Tokyo — Every Real Location from Kimetsu no Yaiba You Can Visit (2026)"
-description: "Last updated: March 2026. All locations verified as publicly accessible. Covers Tokyo shrines, Asakusa, Mt. Kumotori, and the best Demon Slayer merchandise..."
+description: "Demon Slayer Tokyo pilgrimage: verified real locations, shrine entrance fees, operating hours, merch availability, and nearby anime attractions combined itin..."
 date: "2026-03-28"
 category: "anime-pilgrimage"
 tags: []
 featuredImage: "/images/articles/demon-slayer-pilgrimage-tokyo/featured.jpg"
 featuredImageAlt: "Kaminarimon Gate at Asakusa decorated with flowers a Demon Slayer pilgrimage spot"
 author: "Japan Pop Now"
-excerpt: "Last updated: March 2026. All locations verified as publicly accessible. Covers Tokyo shrines, Asakusa, Mt. Kumotori, and the best Demon Slayer merchandise..."
+excerpt: "Demon Slayer Tokyo pilgrimage: verified real locations, shrine entrance fees, operating hours, merch availability, and nearby anime attractions combined itin..."
 relatedSlugs: []
 wpPostId: 202
 ---

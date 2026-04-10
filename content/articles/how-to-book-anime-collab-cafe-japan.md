@@ -1,6 +1,6 @@
 ---
 title: "How to Book an Anime Collab Cafe in Japan — The Complete Guide"
-description: "Complete guide to booking anime collaboration cafes in Tokyo. Covers Lawson Ticket, lottery systems, walk-in tips, and what to expect at your first collab cafe..."
+description: "Real-time guide to booking anime collaboration cafes in Japan: Lawson Ticket system, reservation methods, current locations, themed menus, and rotations."
 date: "2026-03-24"
 category: "travel-tips"
 tags: []

@@ -1,13 +1,13 @@
 ---
 title: "Shibuya & Harajuku Pop Culture Guide 2026 — Gaming Flagships, Kawaii Shopping, and the Best Walking Route"
-description: "Last updated: March 2026. Covers Shibuya PARCO’s 6F Cyberspace, Harajuku’s Takeshita Street, Cat Street, Kawaii Monster Land, Kiddy Land, and a walking route..."
+description: "Covers Shibuya PARCO’s 6F Cyberspace, Harajuku’s Takeshita Street, Cat Street, Kawaii Monster Land, Kiddy Land, and a walking route..."
 date: "2026-03-28"
 category: "area-guides"
 tags: []
 featuredImage: "/images/articles/shibuya-harajuku-pop-culture-guide/featured.jpg"
 featuredImageAlt: "Crowded Takeshita Street in Harajuku with colorful kawaii shops"
 author: "Japan Pop Now"
-excerpt: "Last updated: March 2026. Covers Shibuya PARCO’s 6F Cyberspace, Harajuku’s Takeshita Street, Cat Street, Kawaii Monster Land, Kiddy Land, and a walking route..."
+excerpt: "Covers Shibuya PARCO’s 6F Cyberspace, Harajuku’s Takeshita Street, Cat Street, Kawaii Monster Land, Kiddy Land, and a walking route..."
 relatedSlugs: []
 wpPostId: 205
 ---

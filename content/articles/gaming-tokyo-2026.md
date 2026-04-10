@@ -1,13 +1,13 @@
 ---
 title: "Gaming Tokyo 2026: Pokemon Center, Nintendo Store & 8 More"
-description: "Gaming Tourism Tokyo 2026: Your Complete Pokemon Center & Nintendo Guide Last updated: April 2026 Tokyo is built for gamers. Whether you’re hunting for..."
+description: "Gaming tourism in Tokyo: Pokemon Center locations, Nintendo Store flagship, game arcades, figure shops, merchandise exclusives, and recommended visiting routes."
 date: "2026-04-03"
 category: "area-guides"
 tags: []
 featuredImage: "/images/articles/gaming-tokyo-2026/featured.jpg"
 featuredImageAlt: "Akihabara neon-lit buildings at night showcasing Tokyo gaming culture"
 author: "Japan Pop Now"
-excerpt: "Gaming Tourism Tokyo 2026: Your Complete Pokemon Center & Nintendo Guide Last updated: April 2026 Tokyo is built for gamers. Whether you’re hunting for..."
+excerpt: "Gaming tourism in Tokyo: Pokemon Center locations, Nintendo Store flagship, game arcades, figure shops, merchandise exclusives, and recommended visiting routes."
 relatedSlugs: []
 wpPostId: 605
 ---

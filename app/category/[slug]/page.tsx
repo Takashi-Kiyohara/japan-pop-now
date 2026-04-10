@@ -98,6 +98,12 @@ export async function generateMetadata({
     alternates: {
       canonical: categoryUrl,
     },
+    // Hub page: noindex while content depth is being built up.
+    // Revisit after adding unique editorial content per category.
+    robots: {
+      index: false,
+      follow: true,
+    },
     openGraph: {
       title: `${category.label} — Japan Pop Now`,
       description: category.description || `Explore all articles about ${category.label.toLowerCase()} on Japan Pop Now.`,

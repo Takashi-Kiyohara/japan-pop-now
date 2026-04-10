@@ -1,6 +1,6 @@
 ---
 title: "Gachapon in Japan: A First-Timer's Guide to 600,000 Capsule Toy Machines"
-description: "Last updated: April 2026. A friend-guide walkthrough of gachapon in Japan — what to bring, how to turn a machine, where the best shops are, and the five mistakes every first-timer makes."
+description: "Gachapon guide to 600,000 Japanese capsule toy machines: how they work, rare figures, location hotspots, cost estimates, and collecting strategy tips."
 date: "2026-03-28"
 updated: "2026-04-10"
 category: "travel-tips"

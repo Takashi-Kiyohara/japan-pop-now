@@ -1,6 +1,6 @@
 ---
 title: "Best Anime Hotels Tokyo 2026: Manga Rooms from ¥3,000/Night"
-description: "Last updated: April 2026 Affiliate Disclosure: Some links in this article are affiliate links. We earn a small commission at no extra cost to you — it helps..."
+description: "Tokyo anime hotels from ¥3,000/night: manga-themed rooms, booking platforms, merchandise shops on-site, amenities, and closest anime attractions within walki..."
 date: "2026-04-03"
 category: "area-guides"
 tags: []
@@ -8,7 +8,7 @@ featuredImage: "/images/articles/anime-hotels-tokyo-2026/featured.jpg"
 featuredImageAlt: "Pokémon themed hotel room with Snorlax plush on bed at MIMARU Tokyo"
 imageCredit: "Photo: © JNTO"
 author: "Japan Pop Now"
-excerpt: "Last updated: April 2026 Affiliate Disclosure: Some links in this article are affiliate links. We earn a small commission at no extra cost to you — it helps..."
+excerpt: "Tokyo anime hotels from ¥3,000/night: manga-themed rooms, booking platforms, merchandise shops on-site, amenities, and closest anime attractions within walki..."
 relatedSlugs: []
 wpPostId: 609
 ---

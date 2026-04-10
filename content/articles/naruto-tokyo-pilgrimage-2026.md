@@ -1,6 +1,6 @@
 ---
 title: "Naruto Tokyo Pilgrimage: A Complete Guide to Shinobi Locations"
-description: "Discover real-world Naruto pilgrimage spots across Tokyo, from Jump Shop to anime exhibition halls. Visit where ninjas train, eat ramen, and experience seichi junrei."
+description: "Naruto Tokyo pilgrimage: verified filming locations across the city, train access, local shops, photo spots, and how real places inspired the series."
 date: "2026-04-08"
 category: "anime-pilgrimage"
 tags: ["Naruto", "anime-tourism", "Tokyo", "seichi-junrei", "ninja"]

@@ -44,6 +44,11 @@ export async function generateMetadata({
     alternates: {
       canonical: featureUrl,
     },
+    // Hub page: noindex while series grows past MVP seed articles.
+    robots: {
+      index: false,
+      follow: true,
+    },
     openGraph: {
       title: `${feature.label} — Japan Pop Now`,
       description: feature.tagline,

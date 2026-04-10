@@ -1,13 +1,13 @@
 ---
 title: "Kyoto Anime Guide 2026: Pilgrimages, Studios, and Otaku Culture in the Ancient Capital"
-description: "Last updated: April 2026. Kyoto Anime Guide 2026: Pilgrimages, Studios, and Otaku Culture in the Ancient Capital Kyoto’s ancient temples and shrines serve as..."
+description: "Kyoto anime pilgrimage guide: verified locations from major series, temple settings, cherry blossom timing, day-trip options from Tokyo, and transit maps."
 date: "2026-04-02"
 category: "area-guides"
 tags: []
 featuredImage: "/images/articles/kyoto-anime-guide-2026/featured.jpg"
 featuredImageAlt: "Fushimi Inari Shrine thousand torii gates tunnel in Kyoto"
 author: "Japan Pop Now"
-excerpt: "Last updated: April 2026. Kyoto Anime Guide 2026: Pilgrimages, Studios, and Otaku Culture in the Ancient Capital Kyoto’s ancient temples and shrines serve as..."
+excerpt: "Kyoto anime pilgrimage guide: verified locations from major series, temple settings, cherry blossom timing, day-trip options from Tokyo, and transit maps."
 relatedSlugs: []
 wpPostId: 513
 ---

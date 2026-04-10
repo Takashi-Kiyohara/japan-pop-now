@@ -1,13 +1,13 @@
 ---
 title: "One Piece Tokyo Guide 2026: Where to Find Every Straw Hat Experience"
-description: "Last updated: April 2026. Finding your way through Tokyo’s massive anime merchandise landscape in 2026 One Piece Tokyo Guide 2026: Where to Find Every Straw..."
+description: "Finding your way through Tokyo’s massive anime merchandise landscape in 2026 One Piece Tokyo Guide 2026: Where to Find Every Straw..."
 date: "2026-04-02"
 category: "area-guides"
 tags: []
 featuredImage: "/images/articles/one-piece-tokyo-guide-2026/featured.jpg"
 featuredImageAlt: "Tokyo Tower red illumination night skyline for One Piece themed attractions"
 author: "Japan Pop Now"
-excerpt: "Last updated: April 2026. Finding your way through Tokyo’s massive anime merchandise landscape in 2026 One Piece Tokyo Guide 2026: Where to Find Every Straw..."
+excerpt: "Finding your way through Tokyo’s massive anime merchandise landscape in 2026 One Piece Tokyo Guide 2026: Where to Find Every Straw..."
 relatedSlugs: []
 wpPostId: 512
 ---

@@ -1,13 +1,13 @@
 ---
 title: "The Complete Guide to Japanese Game Centers & Arcades (2026) — Crane Games, Rhythm Games & More"
-description: "Last updated: March 2026. What Are Japanese Game Centers? Game centers (ゲームセンター, often shortened to “gēsen”) are multi-floor entertainment buildings found..."
+description: "Japanese game centers explained: crane games strategy, rhythm games, what to bring, required coins, beginner guide, and best locations in major cities."
 date: "2026-03-28"
 category: "travel-tips"
 tags: []
 featuredImage: "/images/articles/game-centers-arcades-japan/featured.jpg"
 featuredImageAlt: "Akihabara Electric Town with retro game shops and arcades"
 author: "Japan Pop Now"
-excerpt: "Last updated: March 2026. What Are Japanese Game Centers? Game centers (ゲームセンター, often shortened to “gēsen”) are multi-floor entertainment buildings found..."
+excerpt: "Japanese game centers explained: crane games strategy, rhythm games, what to bring, required coins, beginner guide, and best locations in major cities."
 relatedSlugs: []
 wpPostId: 270
 ---
