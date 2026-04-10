@@ -7,6 +7,7 @@ import ArticleCard from '@/components/ArticleCard';
 import Breadcrumb from '@/components/Breadcrumb';
 import AdUnit from '@/components/AdUnit';
 import AffiliateCTA from '@/components/AffiliateCTA';
+import { env } from '@/lib/env';
 
 // ── Hub Topic Definitions ────────────────────────────────────
 // Each hub page aggregates articles by tags/categories into a themed landing
@@ -128,8 +129,8 @@ function getHubArticles(hub: HubTopic) {
 
 // ── Helper: get contextual CTAs for hub page ─────────────────
 function getHubPlanYourTripCTAs(hub: HubTopic) {
-  const baseClookId = process.env.NEXT_PUBLIC_KLOOK_AFF_ID || '';
-  const baseBookingId = process.env.NEXT_PUBLIC_BOOKING_AFF_ID || '';
+  const baseClookId = env.NEXT_PUBLIC_KLOOK_AFFILIATE_ID;
+  const baseBookingId = env.NEXT_PUBLIC_BOOKING_AFFILIATE_ID;
 
   switch (hub.slug) {
     case 'tokyo-anime-cafes':

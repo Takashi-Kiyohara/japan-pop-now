@@ -13,7 +13,8 @@
     "auto-link": "tsx scripts/auto-link.ts",
     "freshness": "tsx scripts/freshness-check.ts",
     "ping": "tsx scripts/ping-search-engines.ts",
-    "deploy-hook": "tsx scripts/deploy.ts"
+    "deploy-hook": "tsx scripts/deploy.ts",
+    "check-env": "tsx scripts/check-env.ts"
   },
   "dependencies": {
     "@vercel/analytics": "^2.0.1",

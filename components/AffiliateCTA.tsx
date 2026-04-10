@@ -2,12 +2,22 @@
 
 import type { ReactNode } from 'react';
 
+type AffiliateProgram =
+  | 'klook'
+  | 'booking'
+  | 'amazon'
+  | 'getyourguide'
+  | 'agoda'
+  | 'jrpass'
+  | 'awin'
+  | 'other';
+
 interface AffiliateCTAProps {
   title: string;
   description: string;
   buttonText: string;
   href: string;
-  program: string;
+  program: AffiliateProgram;
   /**
    * Optional icon. Accepts any ReactNode — typically a Lucide icon component
    * (e.g. <Coffee size={28} strokeWidth={1.8} />). Emoji string icons are

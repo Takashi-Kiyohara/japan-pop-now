@@ -7,6 +7,7 @@ import AdUnit from '@/components/AdUnit';
 import AffiliateCTA from '@/components/AffiliateCTA';
 import Link from 'next/link';
 import { Coffee, Train, Hotel } from 'lucide-react';
+import { env } from '@/lib/env';
 
 export const revalidate = 3600;
 
@@ -168,7 +169,7 @@ export default function Home() {
               title="Reserve a collab cafe before you fly"
               description="Most Tokyo collab cafes fill up two to three weeks ahead, and the booking flow is entirely in Japanese. Klook runs the handful of English-language reservation portals we actually trust — free cancellation and plain-English confirmation emails."
               buttonText="Browse Tokyo cafes"
-              href={'https://www.klook.com/en-US/experiences?aff_id=' + (process.env.NEXT_PUBLIC_KLOOK_AFF_ID || '')}
+              href={`https://www.klook.com/en-US/experiences?aff_id=${env.NEXT_PUBLIC_KLOOK_AFFILIATE_ID}`}
               program="klook"
               category="collab-cafes"
             />
@@ -177,7 +178,7 @@ export default function Home() {
               title="Get a JR Pass if your trip needs one"
               description="A JR Pass pays for itself the moment you leave Tokyo twice. We break down the exact breakeven math in our JR Pass guide, but if you already know you want Kamakura plus Hakone plus Kyoto, this is the 7-day buy."
               buttonText="Check JR Pass prices"
-              href={'https://www.klook.com/en-US/activity/japan-rail-pass?aff_id=' + (process.env.NEXT_PUBLIC_KLOOK_AFF_ID || '')}
+              href={`https://www.klook.com/en-US/activity/japan-rail-pass?aff_id=${env.NEXT_PUBLIC_KLOOK_AFFILIATE_ID}`}
               program="klook"
               category="travel-tips"
             />
@@ -186,7 +187,7 @@ export default function Home() {
               title="Stay inside an anime district, not outside it"
               description="A 15-minute walk from Akihabara or Ikebukuro is the difference between a normal Tokyo trip and one where you can drop your shopping bags and head back out. Booking.com has the best English filter for anime-friendly neighbourhoods from around 3,000 yen a night."
               buttonText="Find a neighbourhood stay"
-              href={'https://www.booking.com/index.html?aid=' + (process.env.NEXT_PUBLIC_BOOKING_AFF_ID || '')}
+              href={`https://www.booking.com/index.html?aid=${env.NEXT_PUBLIC_BOOKING_AFFILIATE_ID}`}
               program="booking"
               category="area-guides"
             />

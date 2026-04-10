@@ -6,6 +6,7 @@ import ArticleCard from '@/components/ArticleCard';
 import Breadcrumb from '@/components/Breadcrumb';
 import AdUnit from '@/components/AdUnit';
 import AffiliateCTA from '@/components/AffiliateCTA';
+import { env } from '@/lib/env';
 import { notFound } from 'next/navigation';
 
 interface CategoryPageProps {
@@ -214,7 +215,7 @@ function getCategoryAffiliateCTA(category: { slug: string; label: string }) {
           title="Book Anime Cafes with Klook"
           description="Reserve your spot at anime collaboration cafes across Japan with English support and free cancellation on most bookings."
           buttonText="Browse Cafe Experiences"
-          href={'https://www.klook.com/en-US/experiences?aff_id=' + (process.env.NEXT_PUBLIC_KLOOK_AFF_ID || '')}
+          href={`https://www.klook.com/en-US/experiences?aff_id=${env.NEXT_PUBLIC_KLOOK_AFFILIATE_ID}`}
           program="klook"
           category="collab-cafes"
         />
@@ -226,7 +227,7 @@ function getCategoryAffiliateCTA(category: { slug: string; label: string }) {
           title="Get Your JR Pass"
           description="Visit pilgrimage sites across Japan efficiently with Japan Rail Pass. 7, 14, and 21-day options for all holy lands."
           buttonText="Compare JR Pass"
-          href={'https://www.klook.com/en-US/activity/japan-rail-pass?aff_id=' + (process.env.NEXT_PUBLIC_KLOOK_AFF_ID || '')}
+          href={`https://www.klook.com/en-US/activity/japan-rail-pass?aff_id=${env.NEXT_PUBLIC_KLOOK_AFFILIATE_ID}`}
           program="klook"
           category="anime-pilgrimage"
         />
@@ -238,7 +239,7 @@ function getCategoryAffiliateCTA(category: { slug: string; label: string }) {
           title="Find Hotels in Anime Districts"
           description="Stay in the heart of Tokyo's anime neighborhoods — Akihabara, Ikebukuro, Shibuya. Free cancellation on most bookings."
           buttonText="Search Hotels"
-          href={'https://www.booking.com/index.html?aid=' + (process.env.NEXT_PUBLIC_BOOKING_AFF_ID || '')}
+          href={`https://www.booking.com/index.html?aid=${env.NEXT_PUBLIC_BOOKING_AFFILIATE_ID}`}
           program="booking"
           category="area-guides"
         />
@@ -250,7 +251,7 @@ function getCategoryAffiliateCTA(category: { slug: string; label: string }) {
           title="Get eSIM & Travel Essentials"
           description="Instant eSIM activation, no physical SIM needed. Plus JR Pass, luggage forwarding, IC cards, and budgeting guides."
           buttonText="Shop Travel Essentials"
-          href={'https://www.klook.com/en-US/activity/japan-esim?aff_id=' + (process.env.NEXT_PUBLIC_KLOOK_AFF_ID || '')}
+          href={`https://www.klook.com/en-US/activity/japan-esim?aff_id=${env.NEXT_PUBLIC_KLOOK_AFFILIATE_ID}`}
           program="klook"
           category="travel-tips"
         />
