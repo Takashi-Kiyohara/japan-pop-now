@@ -149,7 +149,7 @@ export default function Sidebar({
                 >
                   {(() => {
                     const Icon = ICON_MAP[category.lucideIcon];
-                    return Icon ? <Icon size={15} /> : null;
+                    return Icon ? <Icon size={15} aria-hidden="true" /> : null;
                   })()}
                   <span>{category.label}</span>
                 </Link>

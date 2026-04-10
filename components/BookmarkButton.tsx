@@ -86,7 +86,7 @@ export default function BookmarkButton({ slug, title }: BookmarkButtonProps) {
         transition: 'all 0.15s ease',
       }}
     >
-      {saved ? <BookmarkCheck size={16} /> : <Bookmark size={16} />}
+      {saved ? <BookmarkCheck size={16} aria-hidden="true" /> : <Bookmark size={16} aria-hidden="true" />}
       {saved ? 'Saved' : 'Save'}
     </button>
   );

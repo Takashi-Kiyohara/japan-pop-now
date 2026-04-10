@@ -123,10 +123,10 @@ export default function Footer() {
           className="pt-6 flex flex-col sm:flex-row justify-between items-center gap-4"
           style={{ borderTop: '1px solid rgba(255,255,255,0.1)' }}
         >
-          <p style={{ color: 'rgba(255,255,255,0.35)', fontSize: '0.8rem' }}>
+          <p style={{ color: 'rgba(255,255,255,0.6)', fontSize: '0.8rem' }}>
             &copy; {currentYear} Japan Pop Now. All rights reserved.
           </p>
-          <p style={{ color: 'rgba(255,255,255,0.25)', fontSize: '0.75rem' }}>
+          <p style={{ color: 'rgba(255,255,255,0.5)', fontSize: '0.75rem' }}>
             Some links are affiliate links. We may earn a commission at no extra cost to you.
           </p>
         </div>

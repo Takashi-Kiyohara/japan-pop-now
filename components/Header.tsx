@@ -141,7 +141,7 @@ export default function Header() {
               }}
               aria-label="Open search"
             >
-              <SearchIcon size={20} strokeWidth={2} />
+              <SearchIcon size={20} strokeWidth={2} aria-hidden="true" />
             </button>
 
             <ThemeToggle />
