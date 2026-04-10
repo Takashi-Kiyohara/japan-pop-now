@@ -72,6 +72,8 @@ Once you have coins and a target, the mechanics take about fifteen seconds per t
 
 One critical rule: **these machines do not give change.** If a capsule costs 300 yen, you need exactly three 100-yen coins. No bills, no 50-yen coins, no credit cards on most machines. Convenience store cashiers will usually not break a bill just for change, but buying a small item (a drink, a rice ball) makes the transaction natural.
 
+![Rows of gachapon capsule toy machines in a Japan shopping arcade](/images/articles/gachapon-guide-japan/body4.jpg)
+
 ## Price Guide: What to Expect in 2026
 
 Gachapon prices have crept upward as figure quality has improved. Here is the current market:
@@ -134,6 +136,8 @@ Not all gachapon are created equal. Four brands consistently produce quality wor
 ### Hot Series in Early 2026
 
 Anime gachapon cycles fast, but the series currently taking up the most shelf space in Tokyo shops as of April 2026 are Jujutsu Kaisen (new movie tie-ins), One Piece (Gear 5 Luffy figures sell out fastest), SPY x FAMILY (Anya in every possible pose), Chiikawa (Japan's current mascot obsession — expect actual queues at Chiikawa machines), and Demon Slayer (the Hashira collection is still rolling). Beyond anime, look for the miniature food replica lines and the animal figurine series — those are the ones that tend to translate well as gifts for non-anime friends.
+
+![Close-up of colorful anime gachapon capsules at a Japanese toy machine](/images/articles/gachapon-guide-japan/body5.jpg)
 
 ## 5 Common Mistakes First-Timers Make
 
