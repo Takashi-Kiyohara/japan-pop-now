@@ -98,6 +98,9 @@ The actual process: Sign up (free), add funds via PayPal or credit card, find it
 
 Insurance varies. Buyee includes 5,000 yen of shipping insurance. ZenMarket includes 2,000 yen. If you’re buying collectibles worth 50,000+ yen, pay for extra insurance (usually 1,000 yen per 10,000 yen of value). Items do get damaged. I once received a sealed figure with a crushed corner. The proxy service’s basic insurance didn’t cover it fully, but additional insurance would have.
 
+
+![Packing tape being applied to a cardboard shipping box stacked with protective wrap](/images/articles/ship-anime-figures-merch-home-japan/body3.jpg)
+
 ## Option 5: Just Check Extra Luggage
 Sometimes the simplest solution is boring logistics. If you’re flying from Tokyo back home, checking an extra suitcase might be cheaper than shipping.
 
@@ -161,6 +164,9 @@ This is where care saves money. A carelessly packed figure arrives as plastic sh
 
 ![Shipping packages from Japan post office for anime merch](https://images.unsplash.com/photo-1586953208448-b95a79798f07?w=800&h=500&fit=crop&q=80)Japan Post remains the most popular option for shipping anime goods overseas
 Photo: Magic Mary / Unsplash
+
+![Boxed collectible anime figure ready for international shipping](/images/articles/ship-anime-figures-merch-home-japan/body4.jpg)
+
 ## Tax-Free Shopping in Japan: How It Works for Tourists
 If you’re a tourist (non-resident), you can get tax-free shopping at many retailers. This saves 10% on your purchases if you’re buying above a certain threshold.
 

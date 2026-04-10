@@ -58,6 +58,8 @@ Here is the exact order I give friends landing at either airport:
 
 **Why the order matters:** if you grab the IC card first, you will be on the train before your SIM is active, which means no Google Maps. Always get SIM and cash before you move.
 
+![Shinkansen bullet train pulling into a Tokyo platform — the first full Japan Rail experience most anime fans have after landing](/images/articles/first-timers-japan-playbook-anime-fans-2026/body1.jpg)
+
 ## What to Book Before You Fly
 
 Booking a few specific things from home is the difference between an easy week and a frustrating one. Japanese websites in April 2026 still default to Japanese-only reservation flows for most domestic services, and the English portals we trust are run by booking partners like Klook and GetYourGuide.
@@ -109,6 +111,8 @@ The biggest lie told about Japan online is that it is suddenly a cashless countr
 
 **My rule of thumb:** carry 10,000 yen in cash at all times, mostly in 1,000-yen notes and 100-yen coins. Refill at a konbini ATM before you run out.
 
+![Japanese yen banknotes and coins fanned out on a konbini counter — cash is still king at small shrines and old-school shops](/images/articles/first-timers-japan-playbook-anime-fans-2026/body2.jpg)
+
 ## The Anime Fan's Pre-Trip Checklist
 
 I keep this as a single list because it is exactly what I paste to every friend before they fly:
@@ -153,6 +157,8 @@ Part of this is practical. Public trust is high, so shops run on low-friction sy
 Part of it is aesthetic. Japanese pop culture — anime, manga, J-pop, gaming — grew up inside that context. The slice-of-life genre exists because ordinary life here actually has a lot of quiet moments worth showing on screen. When you visit a real *seichi junrei* spot, you are walking through the same kind of quiet street the animators drew from memory.
 
 That is why I think the first Japan trip hits anime fans harder than any other kind of tourism. The background art of your favorite show is real, the vending machines are real, the train announcements are real, and you already know what they sound like. You do not feel like a tourist. You feel like someone who finally got to walk onto a set.
+
+![Quiet Tokyo residential alley at dusk with soft streetlamps — the slice-of-life aesthetic anime fans recognize instantly](/images/articles/first-timers-japan-playbook-anime-fans-2026/body3.jpg)
 
 ## Practical Info Quick Reference
 

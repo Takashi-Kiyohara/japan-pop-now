@@ -129,6 +129,9 @@ My recommendation: **don’t rely on free WiFi as your primary connection**. Use
 
 **Step 3: How long is your trip?** Under 7 days: a 1-3GB eSIM plan is usually enough. 7-14 days: go for 5-10GB or a daily unlimited plan. Over 14 days: unlimited daily plans or 20GB+ bulk plans save money.
 
+
+![Smartphone held up with SIM card tray extended ready for an eSIM activation](/images/articles/japan-esim-pocket-wifi-sim-card/body5.jpg)
+
 ## Top eSIM Providers for Japan (2026)
 
 | Provider | Network | 7-day plan | Best for |

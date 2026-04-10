@@ -134,6 +134,9 @@ Best next step if you are budget-sensitive
 
 Compare districts before you shop: [Tokyo Anime District Guide](/tokyo-anime-district-guide/) helps you decide whether Akihabara, Ikebukuro, or Nakano Broadway matches your fandom and budget better.
 
+
+![Anime figure shop interior with shelves of boxed collectibles on display](/images/articles/anime-merch-shopping-guide-japan/body3.jpg)
+
 ## Timing Your Shopping
 **New release days:** Most anime merchandise releases on Saturdays. If you’re targeting a specific figure or limited item, check the release date and plan to visit on that day. Popular items sell out by afternoon.
 
@@ -176,6 +179,9 @@ Amazon Japan ships to 65+ countries. Switch to English in the top menu.
 **Kyoto:** Limited anime shopping compared to Tokyo and Osaka, but Animate has a Kyoto location. The Teramachi shopping arcade has a few anime-adjacent shops. Kyoto is better for traditional Japanese goods than anime merch.
 
 **Nagoya:** Osu shopping district has a growing anime retail scene, including Mandarake, Animate, and several independent shops. Less tourist traffic means better stock availability for popular items.
+
+
+![Rows of character merchandise on a Tokyo specialty store shelf](/images/articles/anime-merch-shopping-guide-japan/body4.jpg)
 
 ## FAQ
 ### Are anime goods cheaper in Japan than buying online?

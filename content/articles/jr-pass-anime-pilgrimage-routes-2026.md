@@ -118,6 +118,9 @@ One note: I’ve done this route twice now (once in 2024, once in early 2026). T
 A Japan Rail station platform — understanding the network is key to planning pilgrimage routes
 Photo: Levi Meir Clancy / Unsplash
 
+
+![Shinkansen bullet train pulling into a platform — JR Pass holders boarding](/images/articles/jr-pass-anime-pilgrimage-routes-2026/body3.jpg)
+
 ## Anime Pilgrimage Route 4: Tokyo → Chichibu → Kawagoe (Anohana + Aqours)
 Anohana’s pilgrimage site is Chichibu (Saitama Prefecture), about 60 kilometers north of Tokyo. Aqours, the Love Live Sunshine group, has activities and locations in Numazu (about 150 kilometers southwest), but there’s also Kawagoe (30 kilometers west of Tokyo) which offers period architecture similar to Edo-era settings that appeal to anime fans generally.
 
@@ -149,6 +152,9 @@ Tokyo internal transit: 1,500 yen.
 **JR Pass vs Individual Tickets:** A 7-day pass costs 50,000 yen. You’d spend 7,940 yen on individual tickets. The JR Pass loses by 42,060 yen. Skip it entirely on this route. This is a regional Kanto trip that doesn’t justify the pass.
 
 This route doesn’t work for a JR Pass because the distances are short (you’re staying within Tokyo’s metro orbit) and the private Chichibu Railway doesn’t honor the pass. If you’re only hitting Anohana sites in Chichibu, just buy tickets. If you were adding Numazu (Aqours), that would be a different story, pushing the route toward a 14-day pass consideration, but even then you’d need to calculate carefully.
+
+
+![JR platform lines queued up waiting for the next train](/images/articles/jr-pass-anime-pilgrimage-routes-2026/body4.jpg)
 
 ## How to Buy a JR Pass in 2026
 There are two pathways to getting a JR Pass: exchange voucher (purchased before arrival) and direct purchase at Japanese JR offices.

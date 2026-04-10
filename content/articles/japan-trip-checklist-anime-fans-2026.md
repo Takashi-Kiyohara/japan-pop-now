@@ -125,6 +125,9 @@ Download and set up these apps before you travel. They work even without interne
 - **Twitter/X:** Follow anime shops, collab cafe announcements, and event organizers. Most breaking news about limited merch restocks or event changes hits Twitter first, sometimes hours before official channels.
 - **Manga Up or Comixology:** If you’re reading manga on transit, load up digital versions before you go. The manga reading experience in Japan feels different knowing you’re literally in the country where it’s published.
 
+
+![Tokyo Tower rising above the city — a classic first-trip landmark for anime fans](/images/articles/japan-trip-checklist-anime-fans-2026/body3.jpg)
+
 ## 2 Weeks Before: Collab Cafe & Event Prep
 With two weeks to go, you’re in the homestretch. Now you’re confirming details and making backup plans.
 
@@ -155,6 +158,9 @@ None of these are easy to access for casual visitors, which is why the Ghibli Mu
 
 ![Tokyo skyline at dusk preparing for an anime fan trip to Japan](https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=800&h=500&fit=crop&q=80)Getting your bookings locked in early means less stress and more time at the anime spots
 Photo: Getty Images / Unsplash
+
+![Open suitcase with travel essentials laid out ready for a Japan trip](/images/articles/japan-trip-checklist-anime-fans-2026/body4.jpg)
+
 ## 1 Week Before: Packing for Anime Fans
 Packing for an anime trip is different than regular travel. You’re going to buy merch. Plan accordingly.
 
@@ -178,6 +184,9 @@ If you’re flying from the US, you can order yen through:
 
 ### Wear Comfortable Shoes
 Anime shopping in Tokyo means miles of walking—Akihabara’s electric town district is dense and has narrow streets. Break in your shoes before departure. Bring an extra pair for swollen ankles on day 6 or 7. Japan has convenience stores everywhere, so you can buy replacement insoles or ankle support if you get sore.
+
+
+![Shibuya crosswalk from above showing the Tokyo rush that newcomers all remember](/images/articles/japan-trip-checklist-anime-fans-2026/body5.jpg)
 
 ## Day 1 in Japan: First Things to Do
 You’ve arrived. Here’s the immediate action list.

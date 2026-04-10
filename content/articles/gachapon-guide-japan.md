@@ -47,6 +47,8 @@ What started in the 1960s as cheap plastic toys for kids has turned into a serio
 
 The detail that trips up every first-time visitor: Japanese gachapon almost always sell in themed sets of four to six designs. Each capsule inside a given machine is random, so on a six-design set you have a one-in-six chance of getting the specific figure you want. Every machine has a printed lineup card on the front showing all possible results. Learn to read that card before you insert coins and you will already be ahead of 90 per cent of tourists.
 
+![Rows of capsule toy machines filled with colorful plastic capsules at a Tokyo gachapon store](/images/articles/gachapon-guide-japan/body1.jpg)
+
 ## Preparation: Before You Turn a Single Crank
 
 Three things to do before you start hunting:
@@ -115,6 +117,8 @@ Gachapon machines are everywhere, but a few locations are worth making a specifi
 
 You do not need to visit a specialty shop to find gachapon. Machines appear in everyday locations across Japan: train station concourses (especially JR stations), shopping mall entrances, convenience store fronts (FamilyMart and Lawson most consistently), airport departure lounges in Narita and Haneda, and the basement floors of department stores. If you are walking around Tokyo and paying attention, you will pass a machine roughly every ten minutes.
 
+![Close-up of gachapon capsules opened to reveal miniature anime figures in a collector's display](/images/articles/gachapon-guide-japan/body2.jpg)
+
 ## Best Series and Brands to Look For in 2026
 
 Not all gachapon are created equal. Four brands consistently produce quality worth your coins.
@@ -154,6 +158,8 @@ With thousands of machines to choose from, these five categories consistently de
 3. **Cup no Fuchiko rim hangers (300 yen).** Figures designed to perch on the edge of a cup or glass. Kitan Club started this trend and it is still going with new character collaborations. Works as both a desk toy and a conversation piece at dinner.
 4. **Animal figurines (400 yen).** Detailed sleeping cats, sitting dogs, wildlife. These transcend anime fandom. The Takara Tomy Arts sleeping animal series and Ikimon Nature Techni Color line are the two to look for specifically.
 5. **Miniature electronics and appliances (500 yen).** Tiny working fans, miniature vending machines, small arcade cabinets. Takara Tomy Arts makes most of these. They are conversation starters and the only gachapon category that tends to make people laugh out loud when they open the capsule.
+
+![A hand holding a freshly opened gachapon capsule with a tiny anime character figurine inside](/images/articles/gachapon-guide-japan/body3.jpg)
 
 **Budget guide.** 2,000 yen in 100-yen coins is the right amount for a satisfying first session. That gets you four to six capsules across different machines — enough variety to feel you explored, not so much that you drown in duplicates.
 

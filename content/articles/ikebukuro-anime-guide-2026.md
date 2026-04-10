@@ -81,6 +81,9 @@ Even if BL and otome aren’t your thing, Otome Road is culturally significant. 
 
 **Pokemon Center Mega Tokyo:** One of the largest Pokemon Center stores in Japan, located in Sunshine City. Extensive selection of Pokemon merchandise, including store-exclusive items and seasonal goods. well worth a visit for Pokemon fans.
 
+
+![Ikebukuro Sunshine City street view with neon signs and anime billboards](/images/articles/ikebukuro-anime-guide-2026/body3.jpg)
+
 ## Food & Dining Options
 **Ramen Street (Ikebukuro East):** A cluster of ramen shops near the East Exit, including several famous chains. Not anime-themed, but ramen is an essential part of any Tokyo otaku day trip.
 

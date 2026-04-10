@@ -258,6 +258,9 @@ These are things you won’t find on the official cafe websites, from someone wh
 
 **The last time slot of the day is underrated.** Everyone wants the first or middle slots. The final slot (often 19:00 or 20:00) is frequently the easiest to book and the most relaxed — the cafe is winding down, staff are less rushed, and you’ll often get a few extra minutes.
 
+
+![Themed collab cafe interior set up for a seasonal anime promotion](/images/articles/tokyo-anime-collab-cafes-spring-2026/body5.jpg)
+
 ## Where to Find Collab Cafes: Tokyo Neighborhood Guide
 Tokyo’s collab cafes cluster in three neighborhoods. Here’s where to focus based on what you’re interested in:
 

@@ -109,6 +109,9 @@ Take a tour only if: you have 3 hours or less, you want context about otaku cult
 A guided walking tour group in Tokyo — local guides add context that self-guided tours miss
 Photo: Lala Azizli / Unsplash
 
+
+![Tourists walking through a Tokyo alley with lantern-lit shops on an anime tour](/images/articles/best-anime-tours-tokyo-2026/body3.jpg)
+
 ## Best Anime Pilgrimage Tours
 Pilgrimage tours are different. You’re not shopping—you’re visiting real-world locations used in anime production. This is where tours actually earn their value, because these locations are scattered across Tokyo and sometimes require local knowledge to find.
 
@@ -181,6 +184,9 @@ This works if you’re anime-curious rather than anime-focused, or if you’re b
 
 **Book on:** [Klook](https://www.klook.com), [Viator](https://www.viator.com), or [GetYourGuide](https://www.getyourguide.com)
 
+
+![Busy Tokyo street at golden hour with neon signs starting to glow](/images/articles/best-anime-tours-tokyo-2026/body4.jpg)
+
 ## Best Otaku Culture + Food Tours
 These are newer offerings, and honestly, they’re where the real value sits right now. Anime tourism is increasingly paired with food experiences, which makes sense because Tokyo’s food culture is inseparable from pop culture neighborhoods.
 
@@ -227,6 +233,9 @@ The Meiji Shrine visit wasn’t anime-related, but it broke up the commercial fo
 **Cons:** Harajuku is inherently packed, so “tour” is relative—you’re still navigating crowds. Vintage shops have limited inventory, so you might not find what you’re looking for. One stop (the lunch restaurant) was mediocre—seemed chosen more for logistics than quality.
 
 **Book on:** [Klook](https://www.klook.com) or [Viator](https://www.viator.com)
+
+
+![Shibuya Scramble Crossing packed with pedestrians — a staple stop on every Tokyo anime tour](/images/articles/best-anime-tours-tokyo-2026/body5.jpg)
 
 ## Best Cosplay & Manga Workshop Experiences
 Workshops are the one category where “tour” is almost a misnomer—you’re taking a class. These experiences tend to attract committed enthusiasts rather than casual tourists, which changes the energy entirely.
