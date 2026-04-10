@@ -1,6 +1,6 @@
 ---
 title: "PokéPark Kanto Complete Guide 2026: Tickets, Areas & Tips"
-description: "Complete PokéPark Kanto Complete Guide 2026: Tickets, Areas & Tips: guide with practical tips, 2026 details, and what you need to know."
+description: "PokéPark Kanto 2026 guide: tickets, opening dates, area-by-area attractions, food and merch, photo spots, and how to plan your Tokyo Pokemon trip."
 date: "2026-04-05"
 category: "area-guides"
 tags: []

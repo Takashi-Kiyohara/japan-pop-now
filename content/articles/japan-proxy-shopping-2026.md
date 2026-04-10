@@ -1,6 +1,6 @@
 ---
 title: "Japan Proxy Shopping 2026: Buy Anime Figures & Merch Online"
-description: "Complete Japan Proxy Shopping 2026: Buy Anime Figures & Merch Online: guide with practical tips, 2026 details, and what you need to know."
+description: "Japan proxy shopping 2026: Buyee, Tenso, ZenMarket compared, fees, customs paperwork, shipping methods, and a step-by-step Mercari purchase from overseas."
 date: "2026-04-03"
 category: "travel-tips"
 tags: []

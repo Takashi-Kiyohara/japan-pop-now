@@ -1,6 +1,6 @@
 ---
 title: "Japan Travel Insurance 2026: Best Plans Compared (from $45)"
-description: "Complete Japan Travel Insurance 2026: Best Plans Compared (from $45): guide with practical tips, 2026 details, and what you need to know."
+description: "Japan travel insurance 2026: 5 plans compared from $45, what's covered for medical and lost gear, claim speed, and which plan fits an anime fan trip best."
 date: "2026-04-03"
 category: "travel-tips"
 tags: []

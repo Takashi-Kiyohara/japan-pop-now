@@ -1,6 +1,6 @@
 ---
 title: "SPY×FAMILY Tokyo Fan Day: Events, Shops & Cafes (2026)"
-description: "Complete SPY×FAMILY Tokyo Fan Day: Events, Shops & Cafes (2026): guide with practical tips, 2026 details, and what you need to know."
+description: "SPY×FAMILY Tokyo Fan Day 2026: events, themed shops, collab cafes, exclusive merch drops, and the best one-day route for SPY×FAMILY fans in the city."
 date: "2026-04-03"
 category: "collab-cafes"
 tags: []
