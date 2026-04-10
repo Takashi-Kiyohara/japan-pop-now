@@ -1,5 +1,5 @@
 ---
-title: "Slam Dunk Kamakura Pilgrimage 2026: The Famous Crossing & Beyond"
+title: "Slam Dunk Kamakura Pilgrimage 2026: Famous Crossing"
 description: "Slam Dunk Kamakura pilgrimage: verified school and street locations, local temple history, train access, sports shops, and iconic photo opportunities."
 date: "2026-04-05"
 category: "anime-pilgrimage"

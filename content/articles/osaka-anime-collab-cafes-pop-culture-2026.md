@@ -1,5 +1,5 @@
 ---
-title: "Osaka Anime & Collab Cafes 2026: Den Den Town, Namba & Beyond"
+title: "Osaka Anime & Collab Cafes 2026: Den Den & Namba"
 description: "Osaka anime collaboration cafes 2026: current exhibits, themed menus, location directory, reservation systems, and seasonal rotation schedule."
 date: "2026-04-05"
 category: "collab-cafes"

@@ -1,6 +1,6 @@
 ---
 title: "Jujutsu Kaisen Shibuya Locations: Complete 2026 Guide"
-description: "Jujutsu Kaisen Shibuya locations 2026: every Shibuya Arc spot you can visit, station-by-station route, photo angles, and nearby anime cafes for half-day fans."
+description: "Jujutsu Kaisen Shibuya 2026: every Shibuya Arc spot, station-by-station route, photo angles, and nearby anime cafes for a half-day visit."
 date: "2026-04-03"
 category: "anime-pilgrimage"
 tags: []

@@ -1,5 +1,5 @@
 ---
-title: "Cosplay Experience Tokyo 2026: Rental Studios, Photo Spots & Events"
+title: "Cosplay Tokyo 2026: Rental Studios, Spots & Events"
 description: "Cosplay experiences in Tokyo 2026: rental studios, convention schedules, photography locations, contest rules, beginner events, and community groups."
 date: "2026-04-05"
 category: "travel-tips"

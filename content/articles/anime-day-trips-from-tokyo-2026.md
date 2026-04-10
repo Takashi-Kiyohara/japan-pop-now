@@ -1,6 +1,6 @@
 ---
-title: "7 Anime Day Trips from Tokyo: Pilgrimage Guide with JR Pass Tips"
-description: "6 anime day trips under 2 hours from Tokyo: Kamakura (Slam Dunk), Hakone (Evangelion), Chichibu (Anohana), with exact costs, JR Pass coverage, and itineraries."
+title: "7 Anime Day Trips from Tokyo 2026: JR Pass Routes"
+description: "6 anime day trips under 2 hours from Tokyo: Kamakura, Hakone, Chichibu — exact costs, JR Pass coverage, and itineraries for each route."
 date: "2026-04-04"
 category: "area-guides"
 tags: []

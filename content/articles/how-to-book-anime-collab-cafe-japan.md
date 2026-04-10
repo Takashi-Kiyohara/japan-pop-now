@@ -1,5 +1,5 @@
 ---
-title: "How to Book an Anime Collab Cafe in Japan — The Complete Guide"
+title: "How to Book an Anime Collab Cafe in Japan (2026)"
 description: "Real-time guide to booking anime collaboration cafes in Japan: Lawson Ticket system, reservation methods, current locations, themed menus, and rotations."
 date: "2026-03-24"
 category: "travel-tips"

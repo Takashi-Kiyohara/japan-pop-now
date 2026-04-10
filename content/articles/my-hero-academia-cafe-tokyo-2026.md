@@ -1,6 +1,6 @@
 ---
-title: "My Hero Academia Cafe Tokyo 2026: Ikebukuro Guide for Anime Travelers"
-description: "My Hero Academia Cafe Ikebukuro 2026: opening dates, reservation steps, themed menu, exclusive merch, why Ikebukuro is the right base, and what to book first."
+title: "My Hero Academia Cafe Tokyo 2026: Ikebukuro Guide"
+description: "My Hero Academia Cafe Ikebukuro 2026: opening dates, reservation steps, themed menu, exclusive merch, and why Ikebukuro is the right base."
 date: "2026-04-06"
 category: "area-guides"
 tags: []

@@ -15,6 +15,7 @@
     "ping": "tsx scripts/ping-search-engines.ts",
     "deploy-hook": "tsx scripts/deploy.ts",
     "check-env": "tsx scripts/check-env.ts",
+    "check-meta": "tsx scripts/check-meta-duplicates.ts",
     "images": "tsx scripts/generate-image-manifest.ts",
     "debt-report": "tsx scripts/debt-report.ts"
   },

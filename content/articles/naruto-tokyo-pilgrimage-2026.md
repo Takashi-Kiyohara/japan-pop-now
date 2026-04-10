@@ -1,5 +1,5 @@
 ---
-title: "Naruto Tokyo Pilgrimage: A Complete Guide to Shinobi Locations"
+title: "Naruto Tokyo Pilgrimage 2026: Shinobi Locations Guide"
 description: "Naruto Tokyo pilgrimage: verified filming locations across the city, train access, local shops, photo spots, and how real places inspired the series."
 date: "2026-04-08"
 category: "anime-pilgrimage"

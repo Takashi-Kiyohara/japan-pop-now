@@ -1,6 +1,6 @@
 ---
 title: "Gaming Tokyo 2026: Pokemon Center, Nintendo Store & 8 More"
-description: "Gaming tourism in Tokyo: Pokemon Center locations, Nintendo Store flagship, game arcades, figure shops, merchandise exclusives, and recommended visiting routes."
+description: "Gaming tourism in Tokyo 2026: Pokemon Center, Nintendo Store flagship, game arcades, figure shops, exclusives, and recommended routes."
 date: "2026-04-03"
 category: "area-guides"
 tags: []

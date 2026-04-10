@@ -1,6 +1,6 @@
 ---
 title: "Animate Cafe Guide Japan 2026: Lottery, Gratte & Locations"
-description: "Japan's Animate Cafe network: lottery booking system explained, DECOTTO stand locations, Gratte merchandise, current collab exhibits across Tokyo, Osaka, Kyoto."
+description: "Japan's Animate Cafe network: lottery booking, DECOTTO stands, Gratte merch, and current collab exhibits across Tokyo, Osaka, and Kyoto."
 date: "2026-03-28"
 category: "collab-cafes"
 tags: []

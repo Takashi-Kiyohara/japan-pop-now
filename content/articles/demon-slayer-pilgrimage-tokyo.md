@@ -1,6 +1,6 @@
 ---
 title: "Demon Slayer Pilgrimage Tokyo 2026: Every Real Location"
-description: "Demon Slayer Tokyo pilgrimage: verified real-world locations, shrine fees, opening hours, where to buy merch on the route, and a half-day combined itinerary."
+description: "Demon Slayer Tokyo pilgrimage: verified real-world locations, shrine fees, opening hours, where to buy merch, and a half-day itinerary."
 date: "2026-03-28"
 category: "anime-pilgrimage"
 tags: []

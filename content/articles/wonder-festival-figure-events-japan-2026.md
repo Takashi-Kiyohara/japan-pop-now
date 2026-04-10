@@ -1,5 +1,5 @@
 ---
-title: "Wonder Festival & Figure Events Japan 2026: Tickets, Tips & Shipping"
+title: "Wonder Festival & Figure Events Japan 2026: Tickets"
 description: "Wonder Festival 2026: figure exhibition schedule, ticket pricing, venue details, what to bring, security procedures, and collector buying strategy."
 date: "2026-04-05"
 category: "travel-tips"

@@ -1,6 +1,6 @@
 ---
-title: "FamilyMart Anime Collab Stores: Japan’s Newest Trend (2026)"
-description: "FamilyMart anime collab stores in Japan: exclusive merchandise, limited editions, location finder, character exclusivity, and 2026 campaign rotation schedule."
+title: "FamilyMart Anime Collab Stores Japan 2026"
+description: "FamilyMart anime collab stores Japan 2026: exclusive merch, limited editions, location finder, and the current campaign rotation schedule."
 date: "2026-04-03"
 category: "collab-cafes"
 tags: []

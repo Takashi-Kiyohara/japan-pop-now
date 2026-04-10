@@ -1,5 +1,5 @@
 ---
-title: "Detective Conan Pilgrimage & Events 2026: 30th Anniversary Guide"
+title: "Detective Conan Pilgrimage 2026: 30th Anniversary"
 description: "Detective Conan 30th Anniversary 2026: pilgrimage locations, special events, merchandise releases, museum exhibits, and themed collaboration announcements."
 date: "2026-04-04"
 category: "anime-pilgrimage"

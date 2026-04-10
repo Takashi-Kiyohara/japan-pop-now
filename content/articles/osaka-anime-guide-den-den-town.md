@@ -1,6 +1,6 @@
 ---
 title: "Osaka Anime Guide 2026: Den Den Town, Collab Cafes & Beyond"
-description: "Osaka Den Den Town anime guide: floor-by-floor shop map, rare figure hotspots, English-friendly stores, Namba walking links, and the best nearby collab cafes."
+description: "Osaka Den Den Town 2026 anime guide: floor-by-floor shop map, figure hotspots, English-friendly stores, and the best nearby collab cafes."
 date: "2026-03-29"
 category: "area-guides"
 tags: []

@@ -1,6 +1,6 @@
 ---
 title: "Best Anime Hotels Tokyo 2026: Manga Rooms from ¥3,000/Night"
-description: "Tokyo anime hotels from ¥3,000/night: manga-themed rooms, on-site merch shops, booking platforms, amenities, and the closest anime attractions to each hotel."
+description: "Tokyo anime hotels from ¥3,000/night: manga-themed rooms, on-site merch shops, amenities, and the closest anime attractions to each hotel."
 date: "2026-04-03"
 category: "area-guides"
 tags: []

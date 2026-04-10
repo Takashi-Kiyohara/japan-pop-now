@@ -1,6 +1,6 @@
 ---
 title: "Tokyo Anime Neighborhoods Guide 2026: 6 Districts Compared"
-description: "Tokyo anime neighborhoods compared: Akihabara, Ikebukuro, Nakano, Harajuku, Shimokitazawa, Shibuya — what each is for and a half-day route across all six."
+description: "Tokyo anime neighborhoods compared: Akihabara, Ikebukuro, Nakano, Harajuku, Shimokitazawa, Shibuya — and a half-day route across all six."
 date: "2026-03-28"
 category: "area-guides"
 tags: []
