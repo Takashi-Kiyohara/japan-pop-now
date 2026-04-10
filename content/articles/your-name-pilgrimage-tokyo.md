@@ -150,7 +150,7 @@ A local guide takes you to every filming location from Your Name, explains the s
 - [Japan IC Card & Transit Guide](https://japan-pop-now.com/japan-ic-card-transit-guide/) — Navigate between pilgrimage spots easily
 - [Anime Collab Cafe Calendar](https://japan-pop-now.com/collab-cafe-calendar/) — Check for Your Name or Shinkai collabs during your visit
 
-**Follow [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)** for daily Tokyo pop culture updates.
+**Follow [@pop_now_jp on Instagram](https://www.instagram.com/pop_now_jp/)** for daily Tokyo pop culture updates.
 
 *Japan Pop Now is a Tokyo-based English-language media covering Japanese pop culture for international visitors.*
 

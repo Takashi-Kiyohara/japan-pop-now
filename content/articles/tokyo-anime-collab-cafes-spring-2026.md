@@ -289,7 +289,7 @@ New anime collab cafes are announced constantly in Tokyo — sometimes with as l
 
 Disclosure: this section may include partner links. Confirm inventory, meeting points, and refund terms on the destination site.
 
-For the fastest updates, follow **[@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)**. We post new collab cafe announcements in English as soon as they’re confirmed — often before other English-language media picks them up.
+For the fastest updates, follow **[@pop_now_jp on Instagram](https://www.instagram.com/pop_now_jp/)**. We post new collab cafe announcements in English as soon as they’re confirmed — often before other English-language media picks them up.
 
 *Related guides:*
 
@@ -308,7 +308,7 @@ For the fastest updates, follow **[@japan_pop_now on Instagram](https://www.inst
 - [Lawson Ticket & Loppi Machine Guide — How to Book Anime Cafes and Events](/lawson-ticket-loppi-guide/)
 - [Anime Collab Cafe Calendar — Every Current Collaboration](/collab-cafe-calendar/)
 - [Live Collab Cafe Calendar](/collab-cafe-calendar/)
-- [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)
+- [@pop_now_jp on Instagram](https://www.instagram.com/pop_now_jp/)
 Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)

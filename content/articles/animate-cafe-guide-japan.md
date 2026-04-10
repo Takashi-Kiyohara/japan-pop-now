@@ -203,7 +203,7 @@ Ikebukuro Main. Largest space, best kitchen, gets every collaboration, and it’
 - [Jujutsu Kaisen PLAZA Chair:Black Pop-Up Guide](/tokyo-anime-collab-cafes-spring-2026/)
 - [One Piece Cafe GENE at PARCO](/one-piece-cafe-gene-parco-2026/)
 - [Anime Collab Cafe Calendar](/tokyo-anime-collab-cafes-spring-2026/)
-- [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)
+- [@pop_now_jp on Instagram](https://www.instagram.com/pop_now_jp/)
 
 ### More Collab Cafe & Event Guides
 

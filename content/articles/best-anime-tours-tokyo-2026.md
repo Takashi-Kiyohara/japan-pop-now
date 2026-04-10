@@ -342,7 +342,7 @@ Direct operators sometimes request bank transfer (especially for private tours).
 - [How to Book Collab Cafes](/how-to-book-anime-collab-cafe-japan/)
 - [Anime Merch Shopping Guide](/anime-merch-shopping-guide-japan/)
 
-**Follow [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)** for daily Tokyo pop culture updates.
+**Follow [@pop_now_jp on Instagram](https://www.instagram.com/pop_now_jp/)** for daily Tokyo pop culture updates.
 
 *Have you taken an anime tour in Tokyo? We want to hear about it—email us with your experience, and we’ll feature it in our next update.*
 Planning a trip to Tokyo?

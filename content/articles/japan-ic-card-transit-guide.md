@@ -224,7 +224,7 @@ An IC card handles local trains and convenience stores, but for Shinkansen trave
 - [How to Book an Anime Collab Cafe in Japan](https://japan-pop-now.com/how-to-book-anime-collab-cafe-japan/)
 - [Osaka Anime Guide: Den Den Town, Collab Cafes & Beyond](https://japan-pop-now.com/osaka-anime-guide-den-den-town/)
 
-**Follow [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)** for daily Tokyo pop culture updates.
+**Follow [@pop_now_jp on Instagram](https://www.instagram.com/pop_now_jp/)** for daily Tokyo pop culture updates.
 Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)

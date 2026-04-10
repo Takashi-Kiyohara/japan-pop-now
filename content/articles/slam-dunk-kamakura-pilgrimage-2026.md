@@ -220,7 +220,7 @@ Kamakura makes a perfect anime day trip from Tokyo. See our [Complete Guide to A
 - [One Piece Kumamoto Statue Tour: All Locations & Access](/one-piece-kumamoto-statue-tour/)
 - [Japan Rail Pass 2026: Is It Worth It?](/japan-rail-pass-2026-guide/)
 
-**Follow [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)** for daily Tokyo pop culture updates.
+**Follow [@pop_now_jp on Instagram](https://www.instagram.com/pop_now_jp/)** for daily Tokyo pop culture updates.
 Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)

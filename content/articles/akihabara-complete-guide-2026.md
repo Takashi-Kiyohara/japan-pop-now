@@ -402,7 +402,7 @@ Many anime locations are just a short train ride away. Explore [Jujutsu Kaisen l
 - [The Complete Gachapon Guide for Tourists in Japan](/gachapon-guide-japan/)
 - [Game Centers & Arcades in Japan â The Complete Guide](/game-centers-arcades-japan/)
 - [Japan IC Card & Transit Guide for Anime Fans](/japan-ic-card-transit-guide/)
-- [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)
+- [@pop_now_jp on Instagram](https://www.instagram.com/pop_now_jp/)
 
 undefined
 

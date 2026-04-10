@@ -47,8 +47,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    site: "@japanpopnow",
-    creator: "@japanpopnow",
+    site: "@pop_now_jp",
+    creator: "@pop_now_jp",
   },
   robots: {
     index: true,
@@ -122,10 +122,8 @@ export default function RootLayout({
               url: "https://japan-pop-now.com",
               logo: "https://japan-pop-now.com/logo.png",
               sameAs: [
-                "https://twitter.com/japanpopnow",
-                "https://instagram.com/japanpopnow",
-                "https://youtube.com/@japanpopnow",
-                "https://tiktok.com/@japanpopnow",
+                "https://www.instagram.com/pop_now_jp/",
+                "https://www.tiktok.com/@pop_now_jp",
               ],
             }),
           }}

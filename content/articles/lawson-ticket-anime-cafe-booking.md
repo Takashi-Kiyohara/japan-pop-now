@@ -187,7 +187,7 @@ Ask the Lawson staff. They can reboot the machine or process your ticket at the 
 - [Gachapon Guide: Where to Find & How to Use](/gachapon-guide-japan/)
 - [Anime Merch Shopping Guide: Where to Buy & How to Save](/anime-merch-shopping-guide/)
 - [Japan IC Card Guide: Suica, PASMO & ICOCA](/japan-ic-card-transit-guide/)
-- [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)
+- [@pop_now_jp on Instagram](https://www.instagram.com/pop_now_jp/)
 Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)

@@ -275,7 +275,7 @@ Don’t overthink it. Tokyo has good hotels across every price range. Pick one, 
 - [Japan eSIM vs Pocket WiFi vs SIM Card](/japan-esim-pocket-wifi-sim-card/)
 - [Japan Rail Pass 2026 Guide](/japan-rail-pass-2026-guide/)
 
-**Share on Instagram:** “Stayed in Tokyo’s best anime hotels so you don’t have to. From ¥3k hostels to ¥28k official anime collabs—here’s where to sleep if you’re visiting for anime tourism. #TokyoHotels #AnimeTravel #Japan” — Tag **[@japan.pop.now](https://instagram.com/japan.pop.now)**
+**Share on Instagram:** “Stayed in Tokyo’s best anime hotels so you don’t have to. From ¥3k hostels to ¥28k official anime collabs—here’s where to sleep if you’re visiting for anime tourism. #TokyoHotels #AnimeTravel #Japan” — Tag **[@pop_now_jp](https://www.instagram.com/pop_now_jp/)**
 Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)

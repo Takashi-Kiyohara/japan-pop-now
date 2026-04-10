@@ -181,7 +181,7 @@ Yes — if you’re already in Japan, walk into any Lawson or Ministop and use t
 - [Japan Rail Pass 2026: Worth It?](/japan-rail-pass-2026-guide/)
 - [Animate Cafe Guide Japan](/animate-cafe-guide-japan/)
 
-**Follow [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)** for daily Tokyo pop culture updates.
+**Follow [@pop_now_jp on Instagram](https://www.instagram.com/pop_now_jp/)** for daily Tokyo pop culture updates.
 Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)

@@ -236,7 +236,7 @@ Once you’ve conquered the One Piece locations, explore these related Tokyo sho
 - [Japan IC Card Transit Guide](/japan-ic-card-transit-guide/) – Master Tokyo’s train system with practical payment tips
 - [Anime Pilgrimage Spots Tokyo](/anime-pilgrimage-spots-tokyo/) – *seichi junrei* locations beyond merchandise shopping
 
-**Follow [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)** for daily Tokyo pop culture updates.
+**Follow [@pop_now_jp on Instagram](https://www.instagram.com/pop_now_jp/)** for daily Tokyo pop culture updates.
 Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)

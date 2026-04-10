@@ -153,7 +153,7 @@ A garage kit is an unassembled, unpainted resin casting that you build and paint
 - [Anime Merch Shopping Guide Japan](/anime-merch-shopping-guide-japan/)
 - [Japan eSIM vs Pocket WiFi: Best Pick for 2026](/japan-esim-pocket-wifi-sim-card/)
 
-**Follow [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)** for daily Tokyo pop culture updates.
+**Follow [@pop_now_jp on Instagram](https://www.instagram.com/pop_now_jp/)** for daily Tokyo pop culture updates.
 Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)

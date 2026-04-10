@@ -199,7 +199,7 @@ Visiting anime filming locations is more fun with a local guide who knows the ex
 - [Japan Trip Checklist for Anime Fans 2026](https://japan-pop-now.com/japan-trip-checklist-anime-fans-2026/)
 - [One Piece Kumamoto Statue Tour — All 10 Straw Hat Statues](https://japan-pop-now.com/one-piece-kumamoto-statue-tour/)
 
-**Follow [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)** for daily Tokyo pop culture updates.
+**Follow [@pop_now_jp on Instagram](https://www.instagram.com/pop_now_jp/)** for daily Tokyo pop culture updates.
 
 ### New In-Depth Pilgrimage Guides
 

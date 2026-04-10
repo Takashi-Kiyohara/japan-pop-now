@@ -274,7 +274,7 @@ Takuhaibin is one of Japan’s best-kept travel secrets. It’s cheap (¥2,000-3
 - [Japan Travel Insurance 2026](/japan-travel-insurance-2026/)
 - [Japan eSIM vs Pocket WiFi vs SIM Card](/japan-esim-pocket-wifi-sim-card/)
 
-**Have a luggage forwarding story from Japan?** Share your experience on Instagram — tag **[@japan.pop.now](https://instagram.com/japan.pop.now)** or use **#JapanPopNow**
+**Have a luggage forwarding story from Japan?** Share your experience on Instagram — tag **[@pop_now_jp](https://www.instagram.com/pop_now_jp/)** or use **#JapanPopNow**
 Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)

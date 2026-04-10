@@ -254,7 +254,7 @@ New merchandise launches align with anime seasons (January, April, July, October
 - [Game Centers Guide: Crane Games, Rhythm & Retro Arcades](https://japan-pop-now.com/game-centers-arcades-japan/)
 - [Tokyo Anime District Guide: Which Neighborhood Matches Your Fandom](https://japan-pop-now.com/tokyo-anime-district-guide/)
 
-**Follow [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)** for daily Tokyo pop culture updates.
+**Follow [@pop_now_jp on Instagram](https://www.instagram.com/pop_now_jp/)** for daily Tokyo pop culture updates.
 
 ### More Shopping & Travel Guides
 

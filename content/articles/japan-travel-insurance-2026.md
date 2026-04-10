@@ -329,7 +329,7 @@ But get something. A ¥30,000 ER visit or a ¥500,000 evacuation will ruin your 
 - [Best Anime Hotels Tokyo 2026](/anime-hotels-tokyo-2026/)
 - [Tokyo Anime District Guide](/tokyo-anime-district-guide/)
 
-**Share on Instagram:** “Travel insurance for Japan from $45. Why you need it, what actually costs money, and which plan is best for your trip. (Spoiler: it’s not optional.) #JapanTravel #TravelTips #TravelInsurance” — Tag **[@japan.pop.now](https://instagram.com/japan.pop.now)**
+**Share on Instagram:** “Travel insurance for Japan from $45. Why you need it, what actually costs money, and which plan is best for your trip. (Spoiler: it’s not optional.) #JapanTravel #TravelTips #TravelInsurance” — Tag **[@pop_now_jp](https://www.instagram.com/pop_now_jp/)**
 Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)

@@ -421,7 +421,7 @@ Buy the JR Pass if you’re doing a real Japan road trip. Skip it if you’re mo
 - [One Piece Kumamoto Statue Tour](/one-piece-kumamoto-statue-tour/)
 - [Osaka Anime Guide: Den Den Town & Beyond](/osaka-anime-guide-den-den-town/)
 
-**Share on Instagram:** Your JR Pass experience? Tag **[@japan.pop.now](https://instagram.com/japan.pop.now)** or use **#JapanPopNow**
+**Share on Instagram:** Your JR Pass experience? Tag **[@pop_now_jp](https://www.instagram.com/pop_now_jp/)** or use **#JapanPopNow**
 Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)

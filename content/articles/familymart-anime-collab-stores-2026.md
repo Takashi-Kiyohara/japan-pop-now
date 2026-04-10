@@ -123,7 +123,7 @@ Lawson runs smaller collabs (2–3 weeks, focus on food items, less store redesi
 - [Lawson Ticket & Loppi Guide](/lawson-ticket-loppi-guide/)
 - [Collab Cafe Calendar](/collab-cafe-calendar/)
 
-Follow [@japan_pop_now](https://www.instagram.com/japan_pop_now/) for weekly updates.
+Follow [@pop_now_jp](https://www.instagram.com/pop_now_jp/) for weekly updates.
 Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)

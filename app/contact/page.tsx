@@ -115,10 +115,8 @@ export default function ContactPage() {
               </p>
               <div style={{ display: 'flex', gap: '16px', flexWrap: 'wrap' }}>
                 {[
-                  { label: 'X (Twitter)', href: 'https://twitter.com/japanpopnow' },
-                  { label: 'Instagram', href: 'https://instagram.com/japanpopnow' },
-                  { label: 'YouTube', href: 'https://youtube.com/@japanpopnow' },
-                  { label: 'TikTok', href: 'https://tiktok.com/@japanpopnow' },
+                  { label: 'Instagram', href: 'https://www.instagram.com/pop_now_jp/' },
+                  { label: 'TikTok', href: 'https://www.tiktok.com/@pop_now_jp' },
                 ].map((s) => (
                   <a
                     key={s.label}

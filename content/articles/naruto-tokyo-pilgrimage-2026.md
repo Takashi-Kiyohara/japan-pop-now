@@ -293,7 +293,7 @@ Continue your pilgrimage journey with our complete anime location guides:
 
 ![Follow the Pilgrimage — Naruto Tokyo Pilgrimage](/images/articles/naruto-tokyo-pilgrimage-2026/7.jpg)
 
-Tag us in your Naruto pilgrimage photos on Instagram: @japanpopnow
+Tag us in your Naruto pilgrimage photos on Instagram: @pop_now_jp
 
 Share your findings and favorite discoveries from these Tokyo locations. We feature pilgrimage photos monthly, connecting our community of seichi junrei adventurers worldwide.
 

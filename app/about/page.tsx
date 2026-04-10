@@ -19,8 +19,8 @@ const TEAM = [
     bio: 'Kyoto-born, Tokyo-based. Raised inside the old-culture rhythms of Kyoto — kendo in the morning, calligraphy in the afternoon — in a family whose ancestors include a well-known samurai lineage and a classical poet, with the family grave still kept at Koyasan (Mount Koya), the Shingon-Buddhist mountain monastery founded by Kukai in 816 and a UNESCO World Heritage site. After a stint at a US strategy consulting firm, he is now completing a graduate degree in International Relations in the United Kingdom, which is where most of the Japan Pop Now research, writing, and on-the-ground coordination happens between Tokyo field trips. He personally visits every cafe and location featured on the site.',
     expertise: ['Anime Collab Cafes', 'Tokyo Pop Culture Districts', 'Content Strategy', 'SEO'],
     socials: {
-      twitter: 'https://twitter.com/japanpopnow',
-      instagram: 'https://instagram.com/japanpopnow',
+      instagram: 'https://www.instagram.com/pop_now_jp/',
+      tiktok: 'https://www.tiktok.com/@pop_now_jp',
     },
   },
 ];

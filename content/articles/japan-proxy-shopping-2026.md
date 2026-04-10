@@ -326,7 +326,7 @@ Avoid bootlegs by checking MyFigureCollection. Consolidate shipments to save on 
 - [Japan Luggage Forwarding 2026](/japan-luggage-forwarding-2026/)
 - [Japan Travel Insurance 2026](/japan-travel-insurance-2026/)
 
-**Share on Instagram:** “Buying anime figures from Japan without speaking Japanese? That’s what proxy shopping is for. Walkthrough guide: how to use ZenMarket, costs, and how to spot fakes. #AnimeCollecting #MercariJapan #ProxyShopping” — Tag **[@japan.pop.now](https://instagram.com/japan.pop.now)**
+**Share on Instagram:** “Buying anime figures from Japan without speaking Japanese? That’s what proxy shopping is for. Walkthrough guide: how to use ZenMarket, costs, and how to spot fakes. #AnimeCollecting #MercariJapan #ProxyShopping” — Tag **[@pop_now_jp](https://www.instagram.com/pop_now_jp/)**
 Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)

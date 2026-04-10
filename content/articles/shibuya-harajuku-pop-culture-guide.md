@@ -196,7 +196,7 @@ Akihabara has the widest selection and the “anime district” atmosphere. [Ike
 - [Nakano Broadway Guide: 100+ Vintage Anime & Manga Shops](/nakano-broadway-guide/)
 - [Anime Merch Shopping Guide: Where to Buy & How to Save](/anime-merch-shopping-guide/)
 - [Game Centers Guide: Crane Games, Rhythm & Retro Arcades](/game-centers-arcades-japan/)
-- [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)
+- [@pop_now_jp on Instagram](https://www.instagram.com/pop_now_jp/)
 Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)

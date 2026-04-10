@@ -235,7 +235,7 @@ If you’re combining Tokyo and Osaka on your anime trip, a Japan Rail Pass cove
 - [How to Book an Anime Collab Cafe in Japan](https://japan-pop-now.com/how-to-book-anime-collab-cafe-japan/)
 - [Tokyo Anime Districts Guide: Akihabara, Ikebukuro, Nakano & More](https://japan-pop-now.com/tokyo-anime-district-guide/)
 
-**Follow [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)** for daily Tokyo pop culture updates.
+**Follow [@pop_now_jp on Instagram](https://www.instagram.com/pop_now_jp/)** for daily Tokyo pop culture updates.
 
 **Osaka Collab Cafes**
 

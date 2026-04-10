@@ -226,7 +226,7 @@ Beyond collab cafes, Tokyo has anime districts, pilgrimage spots, and exclusive 
 - [Collab Cafe Calendar — What’s Open Now](/collab-cafe-calendar/)
 - [FamilyMart Anime Collab Stores 2026](/familymart-anime-collab-stores-2026/)
 
-**Follow [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)** for daily Tokyo pop culture updates.
+**Follow [@pop_now_jp on Instagram](https://www.instagram.com/pop_now_jp/)** for daily Tokyo pop culture updates.
 
 *Japan Pop Now is a Tokyo-based English-language media covering Japanese pop culture for international visitors. We specialize in information that’s usually only available in Japanese — collab cafes, anime events, limited-edition merchandise, and the spots that guidebooks don’t cover.*
 

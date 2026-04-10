@@ -221,7 +221,7 @@ If you found this useful, check out these related articles:
 - [eSIM vs Pocket WiFi Guide](/japan-esim-pocket-wifi-sim-card-guide/)
 - [Japan IC Card Transit Guide](/japan-ic-card-transit-guide/)
 
-**Follow [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)** for daily Tokyo pop culture updates.
+**Follow [@pop_now_jp on Instagram](https://www.instagram.com/pop_now_jp/)** for daily Tokyo pop culture updates.
 Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)

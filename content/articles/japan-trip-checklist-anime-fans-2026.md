@@ -266,7 +266,7 @@ DAY 2 ONWARD:
 
 One last thing: I always tell people this before their first trip. The planning phase is when anime fans either set themselves up for success or set themselves up for regret. Showing up without a JR Pass costs you money and time. Skipping collab cafe lottery entries means missing out on themed menus and exclusive merch. Not booking accommodation in the right neighborhood means you’re spending 45 minutes on transit to reach Akihabara when you could walk there in 15 minutes. But the good news is that most of this stuff takes less than an hour of actual work spread across three months. Do the work now, and your trip in May, June, or whenever you’re headed over will be immeasurably better.
 
-**Follow [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)** for daily Tokyo pop culture updates.
+**Follow [@pop_now_jp on Instagram](https://www.instagram.com/pop_now_jp/)** for daily Tokyo pop culture updates.
 Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)

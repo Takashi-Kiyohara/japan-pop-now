@@ -201,7 +201,7 @@ If collab cafes are only one part of your trip, use the hub below to pick the be
 - [Akihabara Complete Guide 2026](/akihabara-complete-guide/)
 - [Ikebukuro Anime Guide 2026](/ikebukuro-anime-guide/)
 
-**Follow [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)** for daily Tokyo pop culture updates.
+**Follow [@pop_now_jp on Instagram](https://www.instagram.com/pop_now_jp/)** for daily Tokyo pop culture updates.
 Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)

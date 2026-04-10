@@ -124,7 +124,7 @@ For [anime-themed stays](https://japan-pop-now.com/how-to-book-anime-collab-cafe
 - [Akihabara Complete Guide 2026](/akihabara-complete-guide-2026/)
 - [Japan IC Card Transit Guide](/japan-ic-card-transit-guide/)
 
-Follow [@japan_pop_now](https://www.instagram.com/japan_pop_now/) for event updates and insider tips.
+Follow [@pop_now_jp](https://www.instagram.com/pop_now_jp/) for event updates and insider tips.
 Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)

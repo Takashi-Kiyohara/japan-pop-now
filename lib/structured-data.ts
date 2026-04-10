@@ -35,10 +35,8 @@ export function getOrganizationSchema() {
     url: SITE_URL,
     logo: { '@type': 'ImageObject', url: LOGO_URL },
     sameAs: [
-      'https://twitter.com/japanpopnow',
-      'https://instagram.com/japanpopnow',
-      'https://youtube.com/@japanpopnow',
-      'https://tiktok.com/@japanpopnow',
+      'https://www.instagram.com/pop_now_jp/',
+      'https://www.tiktok.com/@pop_now_jp',
     ],
   }
 }
@@ -201,9 +199,8 @@ export function getAuthorSchema(
     name,
     url: url || `${SITE_URL}/about`,
     sameAs: [
-      'https://twitter.com/japanpopnow',
-      'https://www.instagram.com/japan_pop_now/',
-      'https://youtube.com/@japanpopnow',
+      'https://www.instagram.com/pop_now_jp/',
+      'https://www.tiktok.com/@pop_now_jp',
     ],
   }
 

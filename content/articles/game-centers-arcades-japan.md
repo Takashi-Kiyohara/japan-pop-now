@@ -206,7 +206,7 @@ A local guide shows you the best game center floors, teaches crane game tricks, 
 - [Anime Merch Shopping Guide: Where to Buy & How to Save](/anime-merch-shopping-guide/)
 - [Tokyo Anime District Guide: Which Neighborhood Matches Your Fandom](/tokyo-anime-district-guide/)
 - [Nakano Broadway Guide: 100+ Vintage Anime & Manga Shops](/nakano-broadway-guide/)
-- [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)
+- [@pop_now_jp on Instagram](https://www.instagram.com/pop_now_jp/)
 
 ### More Practical Guides
 

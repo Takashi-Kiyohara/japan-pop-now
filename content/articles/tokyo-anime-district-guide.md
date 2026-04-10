@@ -212,7 +212,7 @@ A guided anime district tour hits Akihabara, Ikebukuro, and Nakano in a single d
 - [10 Must-Visit Anime Pilgrimage Spots in Tokyo](/anime-pilgrimage-spots-tokyo/)
 - [Japan IC Card Transit Guide](/japan-ic-card-transit-guide/)
 
-**Follow [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)** for Tokyo anime district updates, new store openings, and pop culture travel tips.
+**Follow [@pop_now_jp on Instagram](https://www.instagram.com/pop_now_jp/)** for Tokyo anime district updates, new store openings, and pop culture travel tips.
 
 ### Explore Specific Tokyo Neighborhoods
 

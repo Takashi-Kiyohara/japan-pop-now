@@ -84,8 +84,8 @@ export async function generateMetadata({
       title: article.title,
       description: article.description,
       images: article.featuredImage ? [article.featuredImage] : undefined,
-      site: '@japanpopnow',
-      creator: '@japanpopnow',
+      site: '@pop_now_jp',
+      creator: '@pop_now_jp',
     },
   };
 }
