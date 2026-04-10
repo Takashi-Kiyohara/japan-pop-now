@@ -6,6 +6,7 @@ import GoogleAnalytics from "@/components/GoogleAnalytics";
 import ScrollProgress from "@/components/ScrollProgress";
 import CookieConsent from "@/components/CookieConsent";
 import BackToTop from "@/components/BackToTop";
+import Script from "next/script";
 import "./globals.css";
 
 const playfairDisplay = Playfair_Display({
@@ -148,14 +149,7 @@ export default function RootLayout({
           }}
         />
 
-        {/* Google AdSense — loaded dynamically via env var */}
-        {process.env.NEXT_PUBLIC_ADSENSE_ID && (
-          <script
-            async
-            src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${process.env.NEXT_PUBLIC_ADSENSE_ID}`}
-            crossOrigin="anonymous"
-          />
-        )}
+        {/* AdSense loaded via next/script in body for better performance */}
       </head>
       <body className="min-h-screen flex flex-col bg-[#fafaf9]">
         <a href="#main-content" className="sr-only focus:not-sr-only focus:absolute focus:top-4 focus:left-4 focus:z-50 focus:bg-white focus:px-4 focus:py-2 focus:text-sm focus:font-semibold focus:rounded focus:shadow-lg">
@@ -163,6 +157,14 @@ export default function RootLayout({
         </a>
         <GoogleAnalytics />
         <ScrollProgress />
+        {/* Google AdSense — deferred load via next/script */}
+        {process.env.NEXT_PUBLIC_ADSENSE_ID && (
+          <Script
+            src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${process.env.NEXT_PUBLIC_ADSENSE_ID}`}
+            strategy="lazyOnload"
+            crossOrigin="anonymous"
+          />
+        )}
         <Header />
         <main id="main-content" className="flex-1">{children}</main>
         <Footer />
