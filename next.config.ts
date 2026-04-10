@@ -63,13 +63,13 @@ const nextConfig: NextConfig = {
         { key: 'Cross-Origin-Opener-Policy', value: 'same-origin-allow-popups' },
       ],
     },
-    // Cache static assets aggressively
-    {
+    // Cache static assets aggressively (production only — Next dev breaks with this header)
+    ...(process.env.NODE_ENV === 'production' ? [{
       source: '/_next/static/:path*',
       headers: [
         { key: 'Cache-Control', value: 'public, max-age=31536000, immutable' },
       ],
-    },
+    }] : []),
     // Cache images
     {
       source: '/images/:path*',
