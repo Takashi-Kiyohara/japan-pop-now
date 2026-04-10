@@ -1,5 +1,5 @@
 ---
-title: "The Complete Guide to Japanese Game Centers & Arcades (2026) — Crane Games, Rhythm Games & More"
+title: "Japanese Game Centers & Arcades Guide 2026: Crane & Rhythm"
 description: "Japanese game centers explained: crane games strategy, rhythm games, what to bring, required coins, beginner guide, and best locations in major cities."
 date: "2026-03-28"
 category: "travel-tips"

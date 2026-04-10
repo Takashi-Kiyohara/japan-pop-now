@@ -1,5 +1,5 @@
 ---
-title: "Chainsaw Man Tokyo Pilgrimage Guide 2026: Every Reze Arc Location in Jinbocho"
+title: "Chainsaw Man Tokyo Pilgrimage 2026: Reze Arc in Jinbocho"
 description: "Chainsaw Man Tokyo pilgrimage: verified Jinbocho Reze Arc locations, street-level details, train access, local shops, and manga source context."
 date: "2026-04-02"
 category: "anime-pilgrimage"

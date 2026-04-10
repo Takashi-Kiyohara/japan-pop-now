@@ -1,5 +1,5 @@
 ---
-title: "AnimeJapan 2026 Guide for International Visitors: Tickets, Access, Family Anime Festa & What to Do Nearby"
+title: "AnimeJapan 2026: Tickets, Access & International Visitor Guide"
 description: "AnimeJapan 2026 guide: event dates, Family Anime Festa details, venue access, ticket prices, nearby hotels, family discounts, and international visitor tips."
 date: "2026-04-06"
 category: "collab-cafes"

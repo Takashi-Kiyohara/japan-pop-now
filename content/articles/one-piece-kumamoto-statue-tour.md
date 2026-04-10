@@ -1,5 +1,5 @@
 ---
-title: "One Piece Kumamoto Statue Tour 2026 — All 10 Straw Hat Statues, Locations, and Itinerary"
+title: "One Piece Kumamoto Statue Tour 2026: All 10 Straw Hats"
 description: "One Piece Kumamoto pilgrimage: statue viewing spots, access details, nearby attractions, open hours, and integrating Kyushu anime tourism."
 date: "2026-03-28"
 category: "anime-pilgrimage"

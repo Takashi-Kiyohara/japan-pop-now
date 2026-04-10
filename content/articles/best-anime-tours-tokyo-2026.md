@@ -1,5 +1,5 @@
 ---
-title: "Best Anime Tours in Tokyo 2026: Klook vs Viator vs Local Guides Compared"
+title: "Best Anime Tours Tokyo 2026: Klook vs Viator vs Locals"
 description: "Tokyo anime tours 2026: Klook vs Viator comparison, pricing, group sizes, language support, inclusions, and whether guided tours beat solo pilgrimage value."
 date: "2026-04-02"
 category: "travel-tips"

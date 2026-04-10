@@ -1,5 +1,5 @@
 ---
-title: "Anime Merch Shopping Japan 2026: 15 Best Shops & Price Guide [Budget Tips]"
+title: "Anime Merch Shopping Japan 2026: 15 Best Shops + Prices"
 description: "15 best anime merch shops in Japan 2026: Mandarake, Animate, Surugaya, Don Quijote, Akihabara hotspots, Nakano Broadway, plus price ranges and budget tips."
 date: "2026-03-24"
 category: "travel-tips"

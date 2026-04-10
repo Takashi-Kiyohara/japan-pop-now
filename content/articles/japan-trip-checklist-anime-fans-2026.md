@@ -1,5 +1,5 @@
 ---
-title: "Japan Trip Checklist for Anime Fans: Everything to Book Before You Go (2026)"
+title: "Japan Trip Checklist for Anime Fans 2026: Pre-Trip Booking"
 description: "Anime fan trip checklist: visa requirements, eSIM setup, essential apps, JR Pass timing, luggage costs, currency exchange, packing tips, and itinerary tools."
 date: "2026-04-02"
 category: "travel-tips"

@@ -1,5 +1,5 @@
 ---
-title: "Lawson Ticket & Loppi Machine Guide — How to Book Anime Cafes and Events in Japan (2026)"
+title: "Lawson Ticket & Loppi Guide 2026: Book Anime Cafes Japan"
 description: "Lawson anime cafe bookings explained: Loppi terminal process, ticket types, price tiers, rotation schedule, and how to reserve from overseas."
 date: "2026-03-28"
 category: "travel-tips"

@@ -1,5 +1,5 @@
 ---
-title: "Kyoto Anime Guide 2026: Pilgrimages, Studios, and Otaku Culture in the Ancient Capital"
+title: "Kyoto Anime Guide 2026: Pilgrimages, Studios & Otaku Culture"
 description: "Kyoto anime pilgrimage guide: verified locations from major series, temple settings, cherry blossom timing, day-trip options from Tokyo, and transit maps."
 date: "2026-04-02"
 category: "area-guides"

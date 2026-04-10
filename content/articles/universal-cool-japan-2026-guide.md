@@ -1,5 +1,5 @@
 ---
-title: "Universal Cool Japan 2026 Guide: Best Franchises, Dates & Is It Worth Adding to Your Osaka Trip?"
+title: "Universal Cool Japan 2026 Guide: Franchises, Dates & Worth?"
 description: "Universal Cool Japan 2026: lineup, event dates, ride and walkthrough details, ticket strategies, and whether the anime collabs are worth your Osaka trip slot."
 date: "2026-04-06"
 category: "collab-cafes"

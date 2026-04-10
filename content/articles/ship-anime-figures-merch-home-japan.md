@@ -1,5 +1,5 @@
 ---
-title: "How to Ship Anime Figures & Merch Home from Japan: Complete Guide (2026)"
+title: "Ship Anime Figures & Merch Home from Japan: 2026 Guide"
 description: "Ship anime figures and merchandise home from Japan: international forwarding services, customs forms, carrier options, shipping costs, and delivery times."
 date: "2026-04-02"
 category: "travel-tips"

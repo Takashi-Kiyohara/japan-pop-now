@@ -1,5 +1,5 @@
 ---
-title: "Nakano Broadway Guide 2026 — Tokyo’s Best-Kept Anime Shopping Secret"
+title: "Nakano Broadway Guide 2026: Tokyo's Anime Shopping Secret"
 description: "Covers all floors, Mandarake locations, Daily Chico soft serve, opening hours, and a practical comparison with Akihabara. Everybody..."
 date: "2026-03-28"
 category: "area-guides"
