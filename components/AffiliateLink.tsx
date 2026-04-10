@@ -61,8 +61,8 @@ export default function AffiliateLink({
 
   const handleClick = () => {
     // GA4 event tracking for affiliate clicks
-    if (typeof window !== 'undefined' && typeof (window as any).gtag === 'function') {
-      (window as any).gtag('event', 'affiliate_click', {
+    if (typeof window !== 'undefined' && typeof window.gtag === 'function') {
+      window.gtag('event', 'affiliate_click', {
         affiliate_program: program,
         affiliate_url: affiliateUrl,
       });

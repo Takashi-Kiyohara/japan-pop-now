@@ -17,14 +17,17 @@ export default function ThemeToggle() {
   const [theme, setTheme] = useState<'light' | 'dark'>('light');
   const [mounted, setMounted] = useState(false);
 
-  // Hydration safety
+  // Hydration safety: read localStorage / system preference on mount.
+  // localStorage is only available client-side, so this initialisation must
+  // happen in an effect rather than via lazy useState.
   useEffect(() => {
+    /* eslint-disable react-hooks/set-state-in-effect */
     setMounted(true);
-    // Get theme from localStorage or system preference
     const storedTheme = localStorage.getItem('theme') as 'light' | 'dark' | null;
     const systemTheme = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
     const initialTheme = storedTheme || systemTheme;
     setTheme(initialTheme);
+    /* eslint-enable react-hooks/set-state-in-effect */
     applyTheme(initialTheme);
   }, []);
 

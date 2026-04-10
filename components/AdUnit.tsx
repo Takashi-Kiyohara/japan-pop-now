@@ -59,6 +59,8 @@ export default function AdUnit({
   // Lazy load: only render ad when near viewport
   useEffect(() => {
     if (!lazy || !adRef.current) {
+      // Eager-render fallback when lazy is off or ref is not yet attached.
+      // eslint-disable-next-line react-hooks/set-state-in-effect
       setIsVisible(true);
       return;
     }
@@ -81,9 +83,11 @@ export default function AdUnit({
   useEffect(() => {
     if (!isVisible || adLoaded) return;
     try {
-      const adsbygoogle = (window as any).adsbygoogle;
-      if (adsbygoogle) {
-        adsbygoogle.push({});
+      if (window.adsbygoogle) {
+        window.adsbygoogle.push({});
+        // Marking the ad as loaded after the imperative push is the whole point
+        // of this effect; the rule's autofix would create a render loop.
+        // eslint-disable-next-line react-hooks/set-state-in-effect
         setAdLoaded(true);
       }
     } catch {

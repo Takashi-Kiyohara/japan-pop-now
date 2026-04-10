@@ -38,8 +38,10 @@ export default function BookmarkButton({ slug, title }: BookmarkButtonProps) {
   const [saved, setSaved] = useState(false);
 
   useEffect(() => {
-    const bookmarks = getBookmarks();
-    setSaved(bookmarks.some((b) => b.slug === slug));
+    // Mount-time read of localStorage to hydrate bookmark state. Not derivable
+    // from props or render — must be a setState in effect.
+    // eslint-disable-next-line react-hooks/set-state-in-effect
+    setSaved(getBookmarks().some((b) => b.slug === slug));
   }, [slug]);
 
   const toggle = () => {
@@ -59,8 +61,8 @@ export default function BookmarkButton({ slug, title }: BookmarkButtonProps) {
     }
 
     // GA4 tracking
-    if (typeof window !== 'undefined' && typeof (window as any).gtag === 'function') {
-      (window as any).gtag('event', isSaved ? 'bookmark_remove' : 'bookmark_add', {
+    if (typeof window !== 'undefined' && typeof window.gtag === 'function') {
+      window.gtag('event', isSaved ? 'bookmark_remove' : 'bookmark_add', {
         article_slug: slug,
       });
     }

@@ -71,8 +71,8 @@ export default function ShareButtons({ url, title }: ShareButtonsProps) {
           aria-label={`Share on ${link.label}`}
           title={`Share on ${link.label}`}
           onClick={() => {
-            if (typeof window !== 'undefined' && typeof (window as any).gtag === 'function') {
-              (window as any).gtag('event', 'share', {
+            if (typeof window !== 'undefined' && typeof window.gtag === 'function') {
+              window.gtag('event', 'share', {
                 method: link.label,
                 content_type: 'article',
                 item_id: url,
