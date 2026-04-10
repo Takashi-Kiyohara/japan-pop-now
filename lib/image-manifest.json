@@ -1,0 +1,358 @@
+{
+  "/images/about/hero.jpg": {
+    "width": 1920,
+    "height": 1270
+  },
+  "/images/articles/akihabara-complete-guide-2026/featured.jpg": {
+    "width": 1920,
+    "height": 1275
+  },
+  "/images/articles/animate-cafe-guide-japan/featured.jpg": {
+    "width": 1920,
+    "height": 1280
+  },
+  "/images/articles/anime-day-trips-from-tokyo-2026/featured.jpg": {
+    "width": 2064,
+    "height": 1300
+  },
+  "/images/articles/anime-hotels-tokyo-2026/featured.jpg": {
+    "width": 1920,
+    "height": 1280
+  },
+  "/images/articles/anime-merch-shopping-guide-japan/body3.jpg": {
+    "width": 1600,
+    "height": 1041
+  },
+  "/images/articles/anime-merch-shopping-guide-japan/body4.jpg": {
+    "width": 1600,
+    "height": 2400
+  },
+  "/images/articles/anime-merch-shopping-guide-japan/featured.jpg": {
+    "width": 1920,
+    "height": 1440
+  },
+  "/images/articles/anime-pilgrimage-spots-tokyo/featured.jpg": {
+    "width": 1200,
+    "height": 525
+  },
+  "/images/articles/animejapan-2026-guide-international-visitors/featured.jpg": {
+    "width": 1920,
+    "height": 1440
+  },
+  "/images/articles/animejapan-2026-guide/featured.jpg": {
+    "width": 1200,
+    "height": 525
+  },
+  "/images/articles/animejapan-comiket-2026-guide/featured.jpg": {
+    "width": 1920,
+    "height": 1440
+  },
+  "/images/articles/best-anime-tours-tokyo-2026/body3.jpg": {
+    "width": 1600,
+    "height": 2400
+  },
+  "/images/articles/best-anime-tours-tokyo-2026/body4.jpg": {
+    "width": 1600,
+    "height": 1067
+  },
+  "/images/articles/best-anime-tours-tokyo-2026/body5.jpg": {
+    "width": 1600,
+    "height": 1041
+  },
+  "/images/articles/best-anime-tours-tokyo-2026/featured.jpg": {
+    "width": 1920,
+    "height": 1280
+  },
+  "/images/articles/book-japan-anime-events-overseas-2026/featured.jpg": {
+    "width": 1920,
+    "height": 1283
+  },
+  "/images/articles/chainsaw-man-pilgrimage-tokyo/featured.jpg": {
+    "width": 1920,
+    "height": 1440
+  },
+  "/images/articles/cosplay-experience-tokyo-2026/featured.jpg": {
+    "width": 1920,
+    "height": 1280
+  },
+  "/images/articles/demon-slayer-pilgrimage-tokyo/featured.jpg": {
+    "width": 1920,
+    "height": 1280
+  },
+  "/images/articles/den-den-town/featured.jpg": {
+    "width": 2064,
+    "height": 1300
+  },
+  "/images/articles/detective-conan-cafe-2026-japan-guide/featured.jpg": {
+    "width": 1920,
+    "height": 1280
+  },
+  "/images/articles/detective-conan-pilgrimage-events-2026/featured.jpg": {
+    "width": 1920,
+    "height": 1080
+  },
+  "/images/articles/familymart-anime-collab-stores-2026/featured.jpg": {
+    "width": 1280,
+    "height": 960
+  },
+  "/images/articles/first-timers-japan-playbook-anime-fans-2026/body1.jpg": {
+    "width": 1600,
+    "height": 1233
+  },
+  "/images/articles/first-timers-japan-playbook-anime-fans-2026/body2.jpg": {
+    "width": 1600,
+    "height": 1068
+  },
+  "/images/articles/first-timers-japan-playbook-anime-fans-2026/body3.jpg": {
+    "width": 1600,
+    "height": 1067
+  },
+  "/images/articles/first-timers-japan-playbook-anime-fans-2026/featured.jpg": {
+    "width": 1920,
+    "height": 1246
+  },
+  "/images/articles/gachapon-guide-japan/body1.jpg": {
+    "width": 1600,
+    "height": 1071
+  },
+  "/images/articles/gachapon-guide-japan/body2.jpg": {
+    "width": 1600,
+    "height": 1200
+  },
+  "/images/articles/gachapon-guide-japan/body3.jpg": {
+    "width": 1600,
+    "height": 1067
+  },
+  "/images/articles/gachapon-guide-japan/body4.jpg": {
+    "width": 1600,
+    "height": 1200
+  },
+  "/images/articles/gachapon-guide-japan/body5.jpg": {
+    "width": 1600,
+    "height": 2133
+  },
+  "/images/articles/gachapon-guide-japan/featured.jpg": {
+    "width": 1280,
+    "height": 720
+  },
+  "/images/articles/game-centers-arcades-japan/featured.jpg": {
+    "width": 1920,
+    "height": 1272
+  },
+  "/images/articles/gaming-tokyo-2026/featured.jpg": {
+    "width": 1920,
+    "height": 1440
+  },
+  "/images/articles/ghibli-park-complete-guide-2026/featured.jpg": {
+    "width": 1920,
+    "height": 1440
+  },
+  "/images/articles/how-to-book-anime-collab-cafe-japan/featured.jpg": {
+    "width": 1920,
+    "height": 1280
+  },
+  "/images/articles/ikebukuro-anime-guide-2026/body3.jpg": {
+    "width": 1600,
+    "height": 1067
+  },
+  "/images/articles/ikebukuro-anime-guide-2026/featured.jpg": {
+    "width": 1920,
+    "height": 1440
+  },
+  "/images/articles/japan-esim-pocket-wifi-sim-card/body5.jpg": {
+    "width": 1600,
+    "height": 1067
+  },
+  "/images/articles/japan-esim-pocket-wifi-sim-card/featured.jpg": {
+    "width": 1920,
+    "height": 1280
+  },
+  "/images/articles/japan-ic-card-transit-guide/featured.jpg": {
+    "width": 1920,
+    "height": 1280
+  },
+  "/images/articles/japan-luggage-forwarding-2026/featured.jpg": {
+    "width": 1476,
+    "height": 916
+  },
+  "/images/articles/japan-proxy-shopping-2026/featured.jpg": {
+    "width": 1920,
+    "height": 1440
+  },
+  "/images/articles/japan-rail-pass-2026-guide/featured.jpg": {
+    "width": 1200,
+    "height": 800
+  },
+  "/images/articles/japan-rail-pass-guide-anime-fans/featured.jpg": {
+    "width": 1200,
+    "height": 800
+  },
+  "/images/articles/japan-travel-insurance-2026/featured.jpg": {
+    "width": 1920,
+    "height": 1280
+  },
+  "/images/articles/japan-trip-checklist-anime-fans-2026/body3.jpg": {
+    "width": 1600,
+    "height": 1067
+  },
+  "/images/articles/japan-trip-checklist-anime-fans-2026/body4.jpg": {
+    "width": 1600,
+    "height": 1148
+  },
+  "/images/articles/japan-trip-checklist-anime-fans-2026/body5.jpg": {
+    "width": 1600,
+    "height": 1038
+  },
+  "/images/articles/japan-trip-checklist-anime-fans-2026/featured.jpg": {
+    "width": 1920,
+    "height": 1280
+  },
+  "/images/articles/jr-pass-anime-pilgrimage-routes-2026/body3.jpg": {
+    "width": 1600,
+    "height": 2400
+  },
+  "/images/articles/jr-pass-anime-pilgrimage-routes-2026/body4.jpg": {
+    "width": 1600,
+    "height": 1734
+  },
+  "/images/articles/jr-pass-anime-pilgrimage-routes-2026/featured.jpg": {
+    "width": 1280,
+    "height": 720
+  },
+  "/images/articles/jujutsu-kaisen-cafes-japan-2026-guide/featured.jpg": {
+    "width": 1920,
+    "height": 1080
+  },
+  "/images/articles/jujutsu-kaisen-cafes-japan-2026/featured.jpg": {
+    "width": 1400,
+    "height": 700
+  },
+  "/images/articles/jujutsu-kaisen-shibuya-locations-2026/featured.jpg": {
+    "width": 1200,
+    "height": 525
+  },
+  "/images/articles/kyoto-anime-guide-2026/featured.jpg": {
+    "width": 1920,
+    "height": 1280
+  },
+  "/images/articles/lawson-ticket-anime-cafe-booking/featured.jpg": {
+    "width": 1920,
+    "height": 1080
+  },
+  "/images/articles/my-hero-academia-cafe-tokyo-2026/featured.jpg": {
+    "width": 1920,
+    "height": 1280
+  },
+  "/images/articles/nakano-broadway-guide/featured.jpg": {
+    "width": 1920,
+    "height": 1274
+  },
+  "/images/articles/naruto-tokyo-pilgrimage-2026/featured.jpg": {
+    "width": 1920,
+    "height": 1280
+  },
+  "/images/articles/one-piece-kumamoto-statue-tour/featured.jpg": {
+    "width": 1920,
+    "height": 1280
+  },
+  "/images/articles/one-piece-tokyo-guide-2026/featured.jpg": {
+    "width": 1920,
+    "height": 1446
+  },
+  "/images/articles/osaka-anime-collab-cafes-pop-culture-2026/featured.jpg": {
+    "width": 1920,
+    "height": 1384
+  },
+  "/images/articles/osaka-anime-guide-den-den-town/featured.jpg": {
+    "width": 2064,
+    "height": 1300
+  },
+  "/images/articles/pokepark-kanto-tokyo-2026/featured.jpg": {
+    "width": 1920,
+    "height": 1440
+  },
+  "/images/articles/pokepark/featured.jpg": {
+    "width": 270,
+    "height": 180
+  },
+  "/images/articles/shibuya-harajuku-pop-culture-guide/featured.jpg": {
+    "width": 1920,
+    "height": 1275
+  },
+  "/images/articles/ship-anime-figures-merch-home-japan/body3.jpg": {
+    "width": 1600,
+    "height": 1067
+  },
+  "/images/articles/ship-anime-figures-merch-home-japan/body4.jpg": {
+    "width": 1600,
+    "height": 1067
+  },
+  "/images/articles/ship-anime-figures-merch-home-japan/featured.jpg": {
+    "width": 1920,
+    "height": 1446
+  },
+  "/images/articles/slam-dunk-kamakura-pilgrimage-2026/featured.jpg": {
+    "width": 1920,
+    "height": 1280
+  },
+  "/images/articles/slam-dunk/featured.jpg": {
+    "width": 720,
+    "height": 480
+  },
+  "/images/articles/spy-family-tokyo-fan-day-2026/featured.jpg": {
+    "width": 1920,
+    "height": 1280
+  },
+  "/images/articles/tokyo-anime-collab-cafes-spring-2026/body5.jpg": {
+    "width": 1600,
+    "height": 1071
+  },
+  "/images/articles/tokyo-anime-collab-cafes-spring-2026/featured.jpg": {
+    "width": 1920,
+    "height": 1440
+  },
+  "/images/articles/tokyo-anime-collab-cafes-summer-2026/featured.jpg": {
+    "width": 1920,
+    "height": 1437
+  },
+  "/images/articles/tokyo-anime-district-guide/featured.jpg": {
+    "width": 1920,
+    "height": 1280
+  },
+  "/images/articles/universal-cool-japan-2026-guide/featured.jpg": {
+    "width": 1920,
+    "height": 1440
+  },
+  "/images/articles/weathering-with-you-locations-tokyo/featured.jpg": {
+    "width": 1920,
+    "height": 1274
+  },
+  "/images/articles/wonder-festival-figure-events-japan-2026/featured.jpg": {
+    "width": 1920,
+    "height": 1080
+  },
+  "/images/articles/your-name-pilgrimage-tokyo/body4.jpg": {
+    "width": 1600,
+    "height": 1060
+  },
+  "/images/articles/your-name-pilgrimage-tokyo/featured.jpg": {
+    "width": 1920,
+    "height": 1440
+  },
+  "/images/articles/your-name/featured.jpg": {
+    "width": 2047,
+    "height": 2517
+  },
+  "/images/features/connectivity-deep-dive.jpg": {
+    "width": 1600,
+    "height": 1067
+  },
+  "/images/features/first-timers-field-notes.jpg": {
+    "width": 1600,
+    "height": 1068
+  },
+  "/images/features/quiet-pockets.jpg": {
+    "width": 1600,
+    "height": 1067
+  }
+}

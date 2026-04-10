@@ -4,6 +4,7 @@ import { Ticket, Train, Hotel, Smartphone } from 'lucide-react';
 import AdUnit from './AdUnit';
 import AffiliateCTA from './AffiliateCTA';
 import InlineNewsletter from './InlineNewsletter';
+import { mdxComponents } from './mdx-components';
 import { insertInternalLinks } from '@/lib/internal-links';
 import { getAllArticles } from '@/lib/articles';
 import { env } from '@/lib/env';
@@ -36,7 +37,7 @@ export default function ArticleBody({ content, category, slug, relatedSuggestion
   if (sections.length <= 3) {
     return (
       <div className="prose prose-lg" style={{ maxWidth: 'none' }}>
-        <MDXRemote source={content} />
+        <MDXRemote source={content} components={mdxComponents} />
       </div>
     );
   }
@@ -58,7 +59,7 @@ export default function ArticleBody({ content, category, slug, relatedSuggestion
       {sections.map((section, i) => (
         <div key={i}>
           <div className="prose prose-lg" style={{ maxWidth: 'none' }}>
-            <MDXRemote source={section} />
+            <MDXRemote source={section} components={mdxComponents} />
           </div>
 
           {/* Inline Newsletter — after 2nd H2 (~40% scroll point) */}

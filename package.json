@@ -14,7 +14,8 @@
     "freshness": "tsx scripts/freshness-check.ts",
     "ping": "tsx scripts/ping-search-engines.ts",
     "deploy-hook": "tsx scripts/deploy.ts",
-    "check-env": "tsx scripts/check-env.ts"
+    "check-env": "tsx scripts/check-env.ts",
+    "images": "tsx scripts/generate-image-manifest.ts"
   },
   "dependencies": {
     "@vercel/analytics": "^2.0.1",
@@ -35,6 +36,7 @@
     "@types/react-dom": "^19",
     "eslint": "^9",
     "eslint-config-next": "16.2.2",
+    "image-size": "^2.0.2",
     "tailwindcss": "^4",
     "tsx": "^4.7.0",
     "typescript": "^5"
