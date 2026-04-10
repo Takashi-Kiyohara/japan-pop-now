@@ -1,0 +1,53 @@
+{
+  "generatedAt": "2026-04-10T12:23:18.984Z",
+  "counts": {
+    "eslintDisables": 6,
+    "explicitAny": 0,
+    "todos": 0,
+    "noindexPages": 10,
+    "emptyDataFiles": 1,
+    "articlesMissingFeaturedImage": 0
+  },
+  "totals": {
+    "sourceFiles": 92,
+    "articles": 55
+  },
+  "details": {
+    "eslintDisables": [
+      {
+        "file": "components/AdUnit.tsx",
+        "line": 63,
+        "rule": "react-hooks/set-state-in-effect"
+      },
+      {
+        "file": "components/AdUnit.tsx",
+        "line": 90,
+        "rule": "react-hooks/set-state-in-effect"
+      },
+      {
+        "file": "components/BookmarkButton.tsx",
+        "line": 43,
+        "rule": "react-hooks/set-state-in-effect"
+      },
+      {
+        "file": "components/MDXImage.tsx",
+        "line": 55,
+        "rule": "@next/next/no-img-element"
+      },
+      {
+        "file": "components/Search.tsx",
+        "line": 115,
+        "rule": "react-hooks/set-state-in-effect"
+      },
+      {
+        "file": "components/ThemeToggle.tsx",
+        "line": 24,
+        "rule": "react-hooks/set-state-in-effect"
+      }
+    ],
+    "emptyDataFiles": [
+      "content/cafes/cafes.json"
+    ],
+    "articlesMissingFeaturedImage": []
+  }
+}

@@ -15,7 +15,8 @@
     "ping": "tsx scripts/ping-search-engines.ts",
     "deploy-hook": "tsx scripts/deploy.ts",
     "check-env": "tsx scripts/check-env.ts",
-    "images": "tsx scripts/generate-image-manifest.ts"
+    "images": "tsx scripts/generate-image-manifest.ts",
+    "debt-report": "tsx scripts/debt-report.ts"
   },
   "dependencies": {
     "@vercel/analytics": "^2.0.1",
