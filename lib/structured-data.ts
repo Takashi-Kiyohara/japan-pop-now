@@ -10,6 +10,7 @@ export interface ArticleSchemaOptions {
   readingTime?: string; // ISO 8601 duration (e.g., "PT5M")
   about?: string[];
   mentions?: string[];
+  isPartOf?: { name: string; url: string }; // Feature series hub
 }
 
 export function getWebsiteSchema() {
@@ -80,6 +81,14 @@ export function getArticleSchema(article: Article, url: string, options?: Articl
       '@type': 'Thing',
       name: entity,
     }))
+  }
+
+  if (options?.isPartOf) {
+    schema.isPartOf = {
+      '@type': 'CreativeWorkSeries',
+      name: options.isPartOf.name,
+      url: options.isPartOf.url,
+    }
   }
 
   return schema

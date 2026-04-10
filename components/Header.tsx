@@ -12,6 +12,7 @@ const NAV_LINKS = [
   { href: '/category/anime-pilgrimage', label: 'Pilgrimage' },
   { href: '/category/area-guides', label: 'Area Guides' },
   { href: '/category/travel-tips', label: 'Travel Tips' },
+  { href: '/features', label: 'Features' },
 ];
 
 export default function Header() {
