@@ -1,11 +1,9 @@
 import { MetadataRoute } from 'next';
-import { getAllArticleSlugs, getAllArticles, CATEGORIES } from '@/lib/articles';
-import { getAllUniqueTags } from '@/lib/auto-tags';
-import { getSiteUrl, articleUrl as getArticleUrl, tagUrl, guideUrl } from '@/lib/url';
+import { getAllArticles, CATEGORIES } from '@/lib/articles';
+import { getSiteUrl, articleUrl as getArticleUrl, guideUrl } from '@/lib/url';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = getSiteUrl();
-  const slugs = getAllArticleSlugs();
   const articles = getAllArticles();
 
   // Static pages
@@ -85,14 +83,10 @@ export default function sitemap(): MetadataRoute.Sitemap {
     lastModified: new Date(),
   }));
 
-  // Tag archive pages
-  const tags = getAllUniqueTags(articles);
-  const tagPages: MetadataRoute.Sitemap = tags.map((tag) => ({
-    url: tagUrl(tag),
-    changeFrequency: 'weekly' as const,
-    priority: 0.5,
-    lastModified: new Date(),
-  }));
+  // Tag archive pages are intentionally excluded from sitemap.
+  // All tag pages are noindex,follow (see app/tags/[tag]/page.tsx).
+  // Removed 2026-04-10 to resolve the "detected — not indexed" GSC issue caused
+  // by ~97 thin tag pages. See tag_page_noindex_spec_20260410.md.
 
-  return [...staticPages, ...articlePages, ...categoryPages, ...guidePages, ...tagPages];
+  return [...staticPages, ...articlePages, ...categoryPages, ...guidePages];
 }

@@ -20,20 +20,26 @@ export async function generateMetadata({ params }: TagPageProps): Promise<Metada
   const { tag } = await params;
   const label = tag.replace(/-/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase());
 
-  // Get article count for this tag to determine indexing
-  const allArticles = getAllArticles();
-  const articleCount = allArticles.filter((a) =>
-    a.tags.map((t) => t.toLowerCase()).includes(tag.toLowerCase())
-  ).length;
-
-  // Noindex tags with 1 or fewer articles
-  const shouldIndex = articleCount > 1;
-
+  // All tag archive pages are noindex,follow.
+  // Rationale (2026-04-10): 97 tag pages with avg 1.7 articles/tag were diluting
+  // the site's crawl budget and topical signal (43 "detected - not indexed" in GSC).
+  // Keep them crawlable so internal links still flow to articles, but drop them from
+  // the index. Canonical is intentionally omitted — self-canonical on a noindex page
+  // is harmless but redundant, and any cross-canonical would conflict with noindex.
+  // See: tag_page_noindex_spec_20260410.md
   return {
     title: `${label} Articles — Japan Pop Now`,
     description: `All articles tagged "${label}" on Japan Pop Now — anime, pop culture, and travel guides for Japan.`,
-    alternates: { canonical: `https://japan-pop-now.com/tags/${tag}` },
-    robots: { index: shouldIndex, follow: true },
+    robots: {
+      index: false,
+      follow: true,
+      nocache: false,
+      googleBot: {
+        index: false,
+        follow: true,
+        noimageindex: false,
+      },
+    },
   };
 }
 
