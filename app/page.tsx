@@ -2,6 +2,7 @@ import { getAllArticles, CATEGORIES } from '@/lib/articles';
 import ArticleCard from '@/components/ArticleCard';
 import FeaturedCarousel from '@/components/FeaturedCarousel';
 import CategoryStrip from '@/components/CategoryStrip';
+import FeaturesStrip from '@/components/FeaturesStrip';
 import AdUnit from '@/components/AdUnit';
 import AffiliateCTA from '@/components/AffiliateCTA';
 import Link from 'next/link';
@@ -192,6 +193,9 @@ export default function Home() {
           </div>
         </div>
       </section>
+
+      {/* ── Features (5th axis — editorial columns) ───────── */}
+      <FeaturesStrip />
 
       {/* ── Per-Category Sections ──────────────────────────── */}
       {CATEGORIES.map((category, i) => {

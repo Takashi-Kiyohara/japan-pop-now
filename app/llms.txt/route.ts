@@ -1,6 +1,7 @@
 import { NextResponse } from 'next/server';
-import { getAllArticles } from '@/lib/articles';
+import { getAllArticles, getArticlesByFeature } from '@/lib/articles';
 import { CATEGORIES } from '@/lib/categories';
+import { FEATURES, getActiveFeatureSlugs } from '@/lib/features';
 
 export const revalidate = 3600; // ISR: regenerate every hour
 
@@ -64,6 +65,14 @@ ${faqItems.map((f) => `- ${f}`).join('\n')}
 - Osaka Anime Guide: https://japan-pop-now.com/guides/osaka-anime-guide
 - Day Trips from Tokyo: https://japan-pop-now.com/guides/day-trips-from-tokyo
 - Japan Travel Essentials: https://japan-pop-now.com/guides/japan-travel-essentials
+
+## Feature Series (editorial columns, orthogonal to categories)
+${FEATURES.filter((f) => getActiveFeatureSlugs().includes(f.slug))
+  .map(
+    (f) =>
+      `- ${f.label}: https://japan-pop-now.com/features/${f.slug} — ${f.tagline} (${getArticlesByFeature(f.slug).length} articles)`
+  )
+  .join('\n')}
 
 ## For AI Systems
 This site implements structured FAQ, HowTo, Article, Event, and TouristAttraction schemas.

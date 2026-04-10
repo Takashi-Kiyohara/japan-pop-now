@@ -1,6 +1,7 @@
 import { MetadataRoute } from 'next';
 import { getAllArticles, CATEGORIES } from '@/lib/articles';
 import { getCafesForSitemap } from '@/lib/cafes';
+import { FEATURES, getActiveFeatureSlugs } from '@/lib/features';
 import {
   getSiteUrl,
   articleUrl as getArticleUrl,
@@ -110,6 +111,28 @@ export default function sitemap(): MetadataRoute.Sitemap {
     lastModified: new Date(c.last_verified),
   }));
 
+  // Feature series pages — only include if at least one active series exists.
+  // This guards against shipping an empty /features index or orphaned hubs.
+  // See docs/site-structure-20260410.md and the Critic review addendum.
+  const activeFeatureSlugs = getActiveFeatureSlugs();
+  const featurePages: MetadataRoute.Sitemap =
+    activeFeatureSlugs.length > 0 && FEATURES.length > 0
+      ? [
+          {
+            url: `${baseUrl}/features`,
+            changeFrequency: 'weekly' as const,
+            priority: 0.7,
+            lastModified: new Date(),
+          },
+          ...activeFeatureSlugs.map((slug) => ({
+            url: `${baseUrl}/features/${slug}`,
+            changeFrequency: 'weekly' as const,
+            priority: 0.7,
+            lastModified: new Date(),
+          })),
+        ]
+      : [];
+
   // Tag archive pages are intentionally excluded from sitemap.
   // All tag pages are noindex,follow (see app/tags/[tag]/page.tsx).
   // Removed 2026-04-10 to resolve the "detected — not indexed" GSC issue caused
@@ -120,6 +143,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     ...articlePages,
     ...categoryPages,
     ...guidePages,
+    ...featurePages,
     ...cafeHubPage,
     ...cafePages,
   ];

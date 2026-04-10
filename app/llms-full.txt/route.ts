@@ -1,6 +1,7 @@
 import { NextResponse } from 'next/server';
-import { getAllArticles } from '@/lib/articles';
+import { getAllArticles, getArticlesByFeature } from '@/lib/articles';
 import { CATEGORIES } from '@/lib/categories';
+import { FEATURES, getActiveFeatureSlugs } from '@/lib/features';
 
 export const revalidate = 3600; // ISR: regenerate every hour
 
@@ -71,6 +72,21 @@ ${categoryBlocks}
 - Osaka Anime Guide: https://japan-pop-now.com/guides/osaka-anime-guide
 - Day Trips from Tokyo: https://japan-pop-now.com/guides/day-trips-from-tokyo
 - Japan Travel Essentials: https://japan-pop-now.com/guides/japan-travel-essentials
+
+## Feature Series (editorial columns, orthogonal to categories)
+Long-running editorial series that collect multi-article investigations across categories.
+Articles can optionally belong to one feature series alongside their required category.
+
+${FEATURES.filter((f) => getActiveFeatureSlugs().includes(f.slug))
+  .map((f) => {
+    const seriesArticles = getArticlesByFeature(f.slug);
+    const lines = seriesArticles.map(
+      (a, i) =>
+        `${i + 1}. ${a.title}\n   URL: https://japan-pop-now.com/articles/${a.slug}`
+    );
+    return `### ${f.label} (${seriesArticles.length} articles)\n${f.description}\nSeries URL: https://japan-pop-now.com/features/${f.slug}\n${lines.join('\n')}`;
+  })
+  .join('\n\n')}
 
 ## Key Topics & Concepts
 ${topics.map((t) => `- ${t}`).join('\n')}

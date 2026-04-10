@@ -15,6 +15,7 @@ export type Article = {
   date: string
   lastUpdated?: string
   category: string
+  feature?: string // optional feature-series slug (orthogonal to category)
   tags: string[]
   featuredImage: string
   featuredImageAlt: string
@@ -55,6 +56,7 @@ export function getArticleBySlug(slug: string): Article | null {
     date: data.date || '',
     lastUpdated: data.lastUpdated || '',
     category,
+    feature: data.feature || undefined,
     tags,
     featuredImage: data.featuredImage || '',
     featuredImageAlt: data.featuredImageAlt || title || '',
@@ -101,6 +103,12 @@ export function getArticlesByCategory(category: string): ArticleMeta[] {
 export function getArticlesByTag(tag: string): ArticleMeta[] {
   return getAllArticles().filter((a) =>
     a.tags.map((t) => t.toLowerCase()).includes(tag.toLowerCase())
+  )
+}
+
+export function getArticlesByFeature(featureSlug: string): ArticleMeta[] {
+  return getAllArticles().filter(
+    (a) => a.feature && a.feature.toLowerCase() === featureSlug.toLowerCase()
   )
 }
 
