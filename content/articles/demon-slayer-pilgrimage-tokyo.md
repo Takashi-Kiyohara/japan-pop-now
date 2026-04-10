@@ -1,6 +1,6 @@
 ---
 title: "Demon Slayer Pilgrimage Tokyo — Every Real Location from Kimetsu no Yaiba You Can Visit (2026)"
-description: "Demon Slayer Tokyo pilgrimage: verified real locations, shrine entrance fees, operating hours, merch availability, and nearby anime attractions combined itin..."
+description: "Demon Slayer Tokyo pilgrimage: verified real-world locations, shrine fees, opening hours, where to buy merch on the route, and a half-day combined itinerary."
 date: "2026-03-28"
 category: "anime-pilgrimage"
 tags: []

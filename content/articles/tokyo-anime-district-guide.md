@@ -1,6 +1,6 @@
 ---
 title: "Tokyo Anime Neighborhoods Guide 2026 — 6 Pop Culture Districts Compared"
-description: "The complete guide to every anime and pop culture neighborhood in Tokyo — where to go, what to buy, and how to plan your route across..."
+description: "Tokyo anime neighborhoods compared: Akihabara, Ikebukuro, Nakano, Harajuku, Shimokitazawa, Shibuya — what each is for and a half-day route across all six."
 date: "2026-03-28"
 category: "area-guides"
 tags: []

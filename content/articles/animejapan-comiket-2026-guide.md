@@ -1,6 +1,6 @@
 ---
 title: "AnimeJapan & Comiket 2026: Foreigner’s Survival Guide"
-description: "AnimeJapan vs. Comiket: Complete Guide to Tokyo’s Biggest Anime Events 2026 I’ve attended both AnimeJapan and Comiket more times than I can count. The first..."
+description: "AnimeJapan vs Comiket 2026: dates, ticket prices, English support, what each event is best for, family vs hardcore fan picks, and how to plan around both."
 date: "2026-04-03"
 category: "collab-cafes"
 tags: []

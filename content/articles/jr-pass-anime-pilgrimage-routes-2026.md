@@ -1,6 +1,6 @@
 ---
 title: "JR Pass for Anime Pilgrimages: Is It Worth It? Routes, Calculator & 2026 Prices"
-description: "Japan Rail Pass 2026: regional options, prices, exchange offices, airport locations, multi-city itinerary planning, and value vs spot tickets."
+description: "JR Pass anime pilgrimage routes 2026: 5 multi-stop itineraries (Slam Dunk, Anohana, Evangelion, Love Live!, Lucky Star) with exact fares and break-even math."
 date: "2026-04-02"
 category: "anime-pilgrimage"
 tags: []

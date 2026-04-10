@@ -1,6 +1,6 @@
 ---
 title: "One Piece Tokyo Guide 2026: Where to Find Every Straw Hat Experience"
-description: "Finding your way through Tokyo’s massive anime merchandise landscape in 2026 One Piece Tokyo Guide 2026: Where to Find Every Straw..."
+description: "One Piece Tokyo guide 2026: Mugiwara Store, themed cafes, exclusive figure shops, Straw Hat statue stops, and how to plan a One Piece-only day in the city."
 date: "2026-04-02"
 category: "area-guides"
 tags: []

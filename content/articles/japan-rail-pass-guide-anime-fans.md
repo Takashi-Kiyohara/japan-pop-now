@@ -1,6 +1,6 @@
 ---
 title: "Japan Rail Pass Guide for Anime Fans: Is It Worth It? (2026)"
-description: "Japan Rail Pass 2026: regional options, prices, exchange offices, airport locations, multi-city itinerary planning, and value vs spot tickets."
+description: "Is the JR Pass worth it for an anime fan trip? Pilgrimage cost math, route examples, transfer breakdowns, and when spot tickets beat the 7/14/21-day pass."
 date: "2026-04-01"
 category: "travel-tips"
 tags: []
