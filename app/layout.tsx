@@ -7,6 +7,8 @@ import ScrollProgress from "@/components/ScrollProgress";
 import CookieConsent from "@/components/CookieConsent";
 import BackToTop from "@/components/BackToTop";
 import Script from "next/script";
+import { SpeedInsights } from "@vercel/speed-insights/next";
+import { Analytics } from "@vercel/analytics/react";
 import "./globals.css";
 
 const playfairDisplay = Playfair_Display({
@@ -170,6 +172,8 @@ export default function RootLayout({
         <Footer />
         <BackToTop />
         <CookieConsent />
+        <SpeedInsights />
+        <Analytics />
       </body>
     </html>
   );
