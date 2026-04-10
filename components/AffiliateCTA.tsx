@@ -51,14 +51,13 @@ export default function AffiliateCTA({
 
   const productSchema = {
     '@context': 'https://schema.org',
-    '@type': 'Product',
+    '@type': 'Service',
     name: title,
     description: description,
-    offers: {
-      '@type': 'Offer',
-      url: affiliateUrl,
-      priceCurrency: 'JPY',
-      availability: 'https://schema.org/InStock',
+    url: affiliateUrl,
+    provider: {
+      '@type': 'Organization',
+      name: program,
     },
   };
 
