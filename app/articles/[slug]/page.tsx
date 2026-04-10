@@ -37,7 +37,8 @@ interface ArticlePageProps {
   params: Promise<{ slug: string }>;
 }
 
-export const revalidate = 3600;
+// 24h revalidate — articles are static, pushed on-demand via /api/revalidate
+export const revalidate = 86400;
 
 export async function generateStaticParams() {
   const slugs = getAllArticleSlugs();

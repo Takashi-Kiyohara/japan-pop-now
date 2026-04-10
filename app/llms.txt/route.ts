@@ -3,7 +3,7 @@ import { getAllArticles, getArticlesByFeature } from '@/lib/articles';
 import { CATEGORIES } from '@/lib/categories';
 import { FEATURES, getActiveFeatureSlugs } from '@/lib/features';
 
-export const revalidate = 3600; // ISR: regenerate every hour
+export const revalidate = 86400; // ISR: regenerate daily (push on-demand)
 
 export async function GET() {
   const articles = getAllArticles();

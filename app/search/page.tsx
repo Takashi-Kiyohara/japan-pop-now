@@ -87,8 +87,8 @@ function SearchContent() {
               border: '1px solid #e7e5e4',
               fontSize: '1rem',
               background: '#fff',
-              outline: 'none',
             }}
+            className="focus:outline-none focus-visible:outline-2 focus-visible:outline-orange-500 focus-visible:outline-offset-2"
           />
         </div>
         <button
