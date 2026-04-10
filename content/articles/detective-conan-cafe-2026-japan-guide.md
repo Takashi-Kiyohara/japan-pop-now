@@ -1,6 +1,6 @@
 ---
 title: "Detective Conan Cafe 2026 Japan: Tokyo & Osaka Locations"
-description: "Planning to visit Detective Conan Cafe 2026 in Japan? This practical guide covers the dates, best Tokyo and Osaka locations, what makes each city different,..."
+description: "Detective Conan Cafe 2026 in Japan: Tokyo and Osaka locations, opening dates, themed menu, reservation method, and trip-route differences between cities."
 date: "2026-04-06"
 category: "collab-cafes"
 tags: []

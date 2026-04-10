@@ -1,6 +1,6 @@
 ---
 title: "Jujutsu Kaisen Cafes Japan 2026: Tokyo vs Osaka Compared"
-description: "Looking for the best Jujutsu Kaisen cafe in Japan in 2026? This practical guide compares Tokyo, Osaka, and other cities, with dates, reservation rules, and..."
+description: "Jujutsu Kaisen cafes in Japan 2026 compared: Tokyo vs Osaka vs other cities — dates, reservation rules, exclusive menus, and which city to base your trip in."
 date: "2026-04-06"
 category: "collab-cafes"
 tags: []

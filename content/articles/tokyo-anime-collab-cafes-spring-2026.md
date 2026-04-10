@@ -1,6 +1,6 @@
 ---
 title: "Tokyo Anime Collab Cafes Spring 2026: 12 Open Now (Map)"
-description: "Tokyo anime collaboration cafes spring/summer 2026: real-time guide to current exhibits, reservation methods, menu pricing, and themed location directory."
+description: "Tokyo anime collab cafes spring 2026: 12 currently open, reservation methods, themed menu prices, location map, and which shows are worth booking first."
 date: "2026-03-25"
 category: "collab-cafes"
 tags: []

@@ -1,6 +1,6 @@
 ---
 title: "Weathering With You Locations Tokyo 2026: Real Spots Guide"
-description: "All locations verified as publicly accessible unless noted. Includes walking routes optimized for a half-day or full-day visit...."
+description: "Weathering With You (Tenki no Ko) locations in Tokyo: every real spot you can visit, plus half-day and full-day walking routes with public-access notes."
 date: "2026-03-28"
 category: "anime-pilgrimage"
 tags: []

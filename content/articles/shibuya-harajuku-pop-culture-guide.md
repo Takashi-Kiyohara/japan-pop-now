@@ -1,6 +1,6 @@
 ---
 title: "Shibuya & Harajuku Pop Culture Guide 2026: Walking Route"
-description: "Covers Shibuya PARCO’s 6F Cyberspace, Harajuku’s Takeshita Street, Cat Street, Kawaii Monster Land, Kiddy Land, and a walking route..."
+description: "Shibuya & Harajuku 2026: PARCO Cyberspace, Takeshita Street, Cat Street, Kiddy Land — gaming flagships, kawaii shopping, and a half-day walking route."
 date: "2026-03-28"
 category: "area-guides"
 tags: []
