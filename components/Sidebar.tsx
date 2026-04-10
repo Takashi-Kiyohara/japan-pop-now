@@ -147,10 +147,10 @@ export default function Sidebar({
                     color: isActive ? '#ea580c' : '#78716c',
                   }}
                 >
-                  {ICON_MAP[category.lucideIcon] ? (() => {
+                  {(() => {
                     const Icon = ICON_MAP[category.lucideIcon];
-                    return <Icon size={15} />;
-                  })() : <span>{category.icon}</span>}
+                    return Icon ? <Icon size={15} /> : null;
+                  })()}
                   <span>{category.label}</span>
                 </Link>
               </li>

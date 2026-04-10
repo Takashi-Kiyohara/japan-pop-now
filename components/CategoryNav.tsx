@@ -39,7 +39,7 @@ export default function CategoryNav({ articleCounts }: CategoryNavProps) {
                   : 'bg-gray-100 text-[#1a1f36] hover:bg-gray-200'
               }`}
             >
-              {IconComponent ? <IconComponent size={16} /> : <span className="text-lg">{category.icon}</span>}
+              {IconComponent && <IconComponent size={16} />}
               <span className="font-medium text-sm">{category.label}</span>
               {count > 0 && (
                 <span className="text-xs opacity-75">({count})</span>

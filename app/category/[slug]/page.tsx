@@ -1,5 +1,6 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
+import { Ticket, MapPin, Hotel, Smartphone } from 'lucide-react';
 import { CATEGORIES, getArticlesByCategory } from '@/lib/articles';
 import ArticleCard from '@/components/ArticleCard';
 import Breadcrumb from '@/components/Breadcrumb';
@@ -24,7 +25,7 @@ function getCategoryAffiliateCTA(category: { slug: string; label: string }) {
     case 'collab-cafes':
       return (
         <AffiliateCTA
-          icon="🎫"
+          icon={<Ticket size={24} strokeWidth={1.8} />}
           title="Book Anime Cafes with Klook"
           description="Reserve your spot at anime collaboration cafes across Japan with English support and free cancellation on most bookings."
           buttonText="Browse Cafe Experiences"
@@ -36,7 +37,7 @@ function getCategoryAffiliateCTA(category: { slug: string; label: string }) {
     case 'anime-pilgrimage':
       return (
         <AffiliateCTA
-          icon="⛩️"
+          icon={<MapPin size={24} strokeWidth={1.8} />}
           title="Get Your JR Pass"
           description="Visit pilgrimage sites across Japan efficiently with Japan Rail Pass. 7, 14, and 21-day options for all holy lands."
           buttonText="Compare JR Pass"
@@ -48,7 +49,7 @@ function getCategoryAffiliateCTA(category: { slug: string; label: string }) {
     case 'area-guides':
       return (
         <AffiliateCTA
-          icon="🏨"
+          icon={<Hotel size={24} strokeWidth={1.8} />}
           title="Find Hotels in Anime Districts"
           description="Stay in the heart of Tokyo's anime neighborhoods — Akihabara, Ikebukuro, Shibuya. Free cancellation on most bookings."
           buttonText="Search Hotels"
@@ -60,7 +61,7 @@ function getCategoryAffiliateCTA(category: { slug: string; label: string }) {
     case 'travel-tips':
       return (
         <AffiliateCTA
-          icon="📱"
+          icon={<Smartphone size={24} strokeWidth={1.8} />}
           title="Get eSIM & Travel Essentials"
           description="Instant eSIM activation, no physical SIM needed. Plus JR Pass, luggage forwarding, IC cards, and budgeting guides."
           buttonText="Shop Travel Essentials"

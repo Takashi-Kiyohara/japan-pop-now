@@ -123,7 +123,7 @@ export default async function OGImage({ params }: { params: Promise<{ slug: stri
                 justifyContent: 'center',
               }}
             >
-              {category.icon} {category.label}
+              {category.label}
             </div>
           )}
 

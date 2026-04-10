@@ -54,7 +54,6 @@ If you can only pick one: Kamakura for the most efficient trip (closest, cheapes
 
 ![How Do You Get to Each Location? — 7 Anime Day Trips from Tokyo](/images/articles/anime-day-trips-from-tokyo-2026/2.jpg)
 
-
 | Destination | Route | Time | One-Way Cost |
 | --- | --- | --- | --- |
 | **Kamakura** | JR Yokosuka Line from Tokyo Stn | 55 min | ¥950 |
@@ -194,9 +193,6 @@ Kamakura (beach + train ride) and Hakone (pirate ship + ropeway) are the most fa
 - [Japan eSIM vs Pocket WiFi: Best Pick for 2026](/japan-esim-pocket-wifi-sim-card/)
 
 **Follow [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)** for daily Tokyo pop culture updates.
-
-☕
-
 Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
@@ -208,5 +204,3 @@ Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and 
 
 Follow for weekly collab cafe updates & Japan pop culture content.
 
-### Explore by Area
-[🗼 Tokyo](/tag/tokyo/)[🏪 Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[👥 Shibuya](/shibuya-anime-spots-guide/)[🎮 Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[🌆 Osaka](/osaka-anime-guide-2025/)🏯 Kyoto (Coming Soon)

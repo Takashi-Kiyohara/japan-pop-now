@@ -64,7 +64,7 @@ Click into the event listing. You’ll see a calendar with availability indicato
 | **◯ (circle)** | Available — slots open |
 | --- | --- |
 | **△ (triangle)** | Nearly full — a few slots remain. Move fast. |
-| **✕ (X)** | Sold out — no slots left for this date/time |
+| **X** | Sold out — no slots left for this date/time |
 | **— (dash)** | Not yet on sale or not applicable |
 
 Select your preferred date and time slot. Collab cafe time slots are typically 80-90 minutes.
@@ -188,9 +188,6 @@ Ask the Lawson staff. They can reboot the machine or process your ticket at the 
 - [Anime Merch Shopping Guide: Where to Buy & How to Save](/anime-merch-shopping-guide/)
 - [Japan IC Card Guide: Suica, PASMO & ICOCA](/japan-ic-card-transit-guide/)
 - [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)
-
-☕
-
 Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
@@ -202,5 +199,3 @@ Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and 
 
 Follow for weekly collab cafe updates & Japan pop culture content.
 
-### Explore by Area
-[🗼 Tokyo](/tag/tokyo/)[🏪 Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[👥 Shibuya](/shibuya-anime-spots-guide/)[🎮 Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[🌆 Osaka](/osaka-anime-guide-2025/)🏯 Kyoto (Coming Soon)

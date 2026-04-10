@@ -43,7 +43,7 @@ function validateEnv(): ValidatedEnv {
   const missing = required.filter((key) => !process.env[key]);
   if (missing.length > 0) {
     console.warn(
-      `⚠️  Missing required environment variables: ${missing.join(', ')}\n` +
+      `[WARN] Missing required environment variables: ${missing.join(', ')}\n` +
       `    These will cause issues in production. Check your .env.local file.`
     );
   }

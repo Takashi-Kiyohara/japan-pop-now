@@ -2,6 +2,7 @@ import { Metadata } from 'next';
 import Link from 'next/link';
 import Image from 'next/image';
 import { notFound } from 'next/navigation';
+import { Ticket, Utensils, Hotel, Train, TrainFront, Smartphone, Umbrella, Drama } from 'lucide-react';
 import { getAllArticles } from '@/lib/articles';
 import { CATEGORIES } from '@/lib/categories';
 import ArticleCard from '@/components/ArticleCard';
@@ -132,7 +133,7 @@ function getHubPlanYourTripCTAs(hub: HubTopic) {
     case 'tokyo-anime-cafes':
       return [
         {
-          icon: '🎫',
+          icon: <Ticket size={24} strokeWidth={1.8} />,
           title: 'Book Tokyo Cafes',
           description: 'Reserve your spot at Tokyo\'s hottest anime collaboration cafes with free cancellation and English support.',
           buttonText: 'Browse Experiences',
@@ -141,7 +142,7 @@ function getHubPlanYourTripCTAs(hub: HubTopic) {
           category: 'collab-cafes',
         },
         {
-          icon: '🍽️',
+          icon: <Utensils size={24} strokeWidth={1.8} />,
           title: 'Anime Restaurant Dining',
           description: 'Special menus and themed dining experiences at collaboration restaurants across Tokyo.',
           buttonText: 'Find Restaurants',
@@ -150,7 +151,7 @@ function getHubPlanYourTripCTAs(hub: HubTopic) {
           category: 'collab-cafes',
         },
         {
-          icon: '🏨',
+          icon: <Hotel size={24} strokeWidth={1.8} />,
           title: 'Stay in Anime Districts',
           description: 'Hotels and capsule stays in Ikebukuro, Shibuya, Akihabara. Walk to cafes from your accommodation.',
           buttonText: 'Search Hotels',
@@ -162,7 +163,7 @@ function getHubPlanYourTripCTAs(hub: HubTopic) {
     case 'anime-pilgrimage-tokyo':
       return [
         {
-          icon: '🚅',
+          icon: <Train size={24} strokeWidth={1.8} />,
           title: 'JR Pass for Pilgrims',
           description: 'Visit multiple pilgrimage sites efficiently with Japan Rail Pass. Covers trains to all major holy lands from Tokyo.',
           buttonText: 'Get JR Pass',
@@ -171,7 +172,7 @@ function getHubPlanYourTripCTAs(hub: HubTopic) {
           category: 'anime-pilgrimage',
         },
         {
-          icon: '🏨',
+          icon: <Hotel size={24} strokeWidth={1.8} />,
           title: 'Stay Near Pilgrimage Sites',
           description: 'Hotels near Your Name (Komaichi), Weathering With You (Shinjuku), and other pilgrimage locations.',
           buttonText: 'Find Accommodation',
@@ -180,7 +181,7 @@ function getHubPlanYourTripCTAs(hub: HubTopic) {
           category: 'anime-pilgrimage',
         },
         {
-          icon: '📱',
+          icon: <Smartphone size={24} strokeWidth={1.8} />,
           title: 'Stay Connected',
           description: 'eSIM and mobile data plans so you can navigate pilgrimage routes offline and share updates.',
           buttonText: 'Get eSIM',
@@ -192,7 +193,7 @@ function getHubPlanYourTripCTAs(hub: HubTopic) {
     case 'osaka-anime-guide':
       return [
         {
-          icon: '🎫',
+          icon: <Ticket size={24} strokeWidth={1.8} />,
           title: 'Osaka Anime Experiences',
           description: 'Book anime cafes, Den Den Town tours, and Universal Studios Japan anime attractions.',
           buttonText: 'Browse Osaka',
@@ -201,7 +202,7 @@ function getHubPlanYourTripCTAs(hub: HubTopic) {
           category: 'collab-cafes',
         },
         {
-          icon: '🏨',
+          icon: <Hotel size={24} strokeWidth={1.8} />,
           title: 'Stay in Dotonbori & Beyond',
           description: 'Hotels in anime-friendly districts — Dotonbori, Namba, Shinsaibashi. Walking distance to shops and cafes.',
           buttonText: 'Search Hotels',
@@ -210,7 +211,7 @@ function getHubPlanYourTripCTAs(hub: HubTopic) {
           category: 'area-guides',
         },
         {
-          icon: '🚄',
+          icon: <TrainFront size={24} strokeWidth={1.8} />,
           title: 'Kansai Rail Pass',
           description: 'Day trips from Osaka to Kyoto, Kobe, and Nara. Perfect for expanding your anime pilgrimage.',
           buttonText: 'Get Kansai Pass',
@@ -222,7 +223,7 @@ function getHubPlanYourTripCTAs(hub: HubTopic) {
     case 'day-trips-from-tokyo':
       return [
         {
-          icon: '🚅',
+          icon: <Train size={24} strokeWidth={1.8} />,
           title: 'JR Pass (7-Day)',
           description: 'Visit Kamakura, Chichibu, Odaiba, and more all in one week. Perfect for day trip collectors.',
           buttonText: 'Get JR Pass',
@@ -231,7 +232,7 @@ function getHubPlanYourTripCTAs(hub: HubTopic) {
           category: 'anime-pilgrimage',
         },
         {
-          icon: '🏖️',
+          icon: <Umbrella size={24} strokeWidth={1.8} />,
           title: 'Kamakura Day Trip',
           description: 'Book skip-the-line access to temples and visit the Slam Dunk crossing with guided tours.',
           buttonText: 'Book Tour',
@@ -240,7 +241,7 @@ function getHubPlanYourTripCTAs(hub: HubTopic) {
           category: 'anime-pilgrimage',
         },
         {
-          icon: '🎭',
+          icon: <Drama size={24} strokeWidth={1.8} />,
           title: 'Local Guides & Maps',
           description: 'GetYourGuide offers detailed pilgrimage guides and themed day trip itineraries.',
           buttonText: 'Browse Guides',
@@ -252,7 +253,7 @@ function getHubPlanYourTripCTAs(hub: HubTopic) {
     case 'japan-travel-essentials':
       return [
         {
-          icon: '📱',
+          icon: <Smartphone size={24} strokeWidth={1.8} />,
           title: 'eSIM & Mobile Data',
           description: 'Instant eSIM activation. No physical SIM cards needed. From ¥1,000 for 7 days.',
           buttonText: 'Compare Plans',
@@ -261,7 +262,7 @@ function getHubPlanYourTripCTAs(hub: HubTopic) {
           category: 'travel-tips',
         },
         {
-          icon: '🚅',
+          icon: <Train size={24} strokeWidth={1.8} />,
           title: 'JR Pass (All Durations)',
           description: '7, 14, or 21-day passes. Compare prices and find the best option for your trip length.',
           buttonText: 'Get JR Pass',
@@ -270,7 +271,7 @@ function getHubPlanYourTripCTAs(hub: HubTopic) {
           category: 'travel-tips',
         },
         {
-          icon: '🏨',
+          icon: <Hotel size={24} strokeWidth={1.8} />,
           title: 'Hotels & Ryokans',
           description: 'Budget capsule hotels to luxury ryokans. Free cancellation on most bookings.',
           buttonText: 'Search Hotels',

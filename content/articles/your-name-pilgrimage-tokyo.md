@@ -162,9 +162,6 @@ A local guide takes you to every filming location from Your Name, explains the s
 - [Chainsaw Man Tokyo Pilgrimage Guide](/weathering-with-you-locations-tokyo/)
 - [One Piece Tokyo Guide 2026](/one-piece-kumamoto-statue-tour/)
 - [Kyoto Anime Guide 2026](/osaka-anime-guide-den-den-town/)
-
-☕
-
 Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
@@ -176,5 +173,3 @@ Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and 
 
 Follow for weekly collab cafe updates & Japan pop culture content.
 
-### Explore by Area
-[🗼 Tokyo](/tag/tokyo/)[🏪 Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[👥 Shibuya](/shibuya-anime-spots-guide/)[🎮 Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[🌆 Osaka](/osaka-anime-guide-2025/)🏯 Kyoto (Coming Soon)

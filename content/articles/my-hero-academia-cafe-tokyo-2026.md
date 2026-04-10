@@ -140,9 +140,6 @@ After this guide, the most helpful next reads are **[Tokyo Anime Collab Cafes Sp
 
 1. Essential Japan, “My Hero Academia ‘Diner’ Themed Pop Up Cafe at DECOT Animate Cafe Ikebukuro 2026” — https://essential-japan.com/events/my-hero-academia-diner-themed-pop-up-cafe-at-decot-animate-cafe-ikebukuro-2026/
 2. The Japan Times, “Perfect Japan posts spark Gen Z social media backlash” — https://www.japantimes.co.jp/news/2026/03/26/japan/society/gen-z-perfect-japan-social-media-posts/
-
-☕
-
 Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
@@ -154,5 +151,3 @@ Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and 
 
 Follow for weekly collab cafe updates & Japan pop culture content.
 
-### Explore by Area
-[🗼 Tokyo](/tag/tokyo/)[🏪 Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[👥 Shibuya](/shibuya-anime-spots-guide/)[🎮 Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[🌆 Osaka](/osaka-anime-guide-2025/)🏯 Kyoto (Coming Soon)

@@ -134,7 +134,6 @@ Most travelers will have a better experience if they do **AnimeJapan and Akihaba
 
 ![Where to go next on Japan Pop Now — AnimeJapan 2026 Guide for International Visitors](/images/articles/animejapan-2026-guide-international-visitors/4.jpg)
 
-
 - **Tokyo Anime Collab Cafes Spring 2026** for seasonal cafe planning
 - **Find by Anime in Japan 2026** if you want to build your itinerary around a specific series
 - **Anime Merch Shopping Guide in Japan** if your next question is where to eat, reserve, or shop after the event
@@ -143,9 +142,6 @@ Most travelers will have a better experience if they do **AnimeJapan and Akihaba
 
 1. GO TOKYO, “AnimeJapan2026” — https://www.gotokyo.org/en/spot/ev267/index.html
 2. AnimeJapan official website — https://anime-japan.jp/en/
-
-☕
-
 Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
@@ -157,5 +153,3 @@ Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and 
 
 Follow for weekly collab cafe updates & Japan pop culture content.
 
-### Explore by Area
-[🗼 Tokyo](/tag/tokyo/)[🏪 Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[👥 Shibuya](/shibuya-anime-spots-guide/)[🎮 Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[🌆 Osaka](/osaka-anime-guide-2025/)🏯 Kyoto (Coming Soon)

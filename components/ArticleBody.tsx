@@ -1,5 +1,6 @@
 import { MDXRemote } from 'next-mdx-remote/rsc';
 import Link from 'next/link';
+import { Ticket, Train, Hotel, Smartphone } from 'lucide-react';
 import AdUnit from './AdUnit';
 import AffiliateCTA from './AffiliateCTA';
 import InlineNewsletter from './InlineNewsletter';
@@ -127,7 +128,7 @@ function getAffiliateCTAForCategory(category: string) {
   switch (category) {
     case 'collab-cafes':
       return {
-        icon: '🎫',
+        icon: <Ticket size={24} strokeWidth={1.8} />,
         title: 'Skip the Booking Hassle',
         description: 'Book anime collab cafe experiences and skip-the-line tickets through Klook — English support, free cancellation on most bookings.',
         buttonText: 'Browse Anime Experiences',
@@ -137,7 +138,7 @@ function getAffiliateCTAForCategory(category: string) {
       };
     case 'anime-pilgrimage':
       return {
-        icon: '🚅',
+        icon: <Train size={24} strokeWidth={1.8} />,
         title: 'Get There by Rail',
         description: 'The Japan Rail Pass covers most pilgrimage routes. Compare 7, 14, and 21-day options — prices recently dropped.',
         buttonText: 'Compare JR Pass Prices',
@@ -147,7 +148,7 @@ function getAffiliateCTAForCategory(category: string) {
       };
     case 'area-guides':
       return {
-        icon: '🏨',
+        icon: <Hotel size={24} strokeWidth={1.8} />,
         title: 'Stay Near the Action',
         description: 'Find hotels in the best anime districts — from ¥3,000/night capsule hotels to themed rooms. Free cancellation on most bookings.',
         buttonText: 'Search Hotels',
@@ -157,7 +158,7 @@ function getAffiliateCTAForCategory(category: string) {
       };
     case 'travel-tips':
       return {
-        icon: '📱',
+        icon: <Smartphone size={24} strokeWidth={1.8} />,
         title: 'Stay Connected in Japan',
         description: 'Get an eSIM before you land — instant activation, no physical SIM swap needed. Data plans from ¥1,000 for 7 days.',
         buttonText: 'Compare eSIM Plans',

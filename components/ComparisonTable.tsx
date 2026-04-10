@@ -80,7 +80,7 @@ export default function ComparisonTable({
                         verticalAlign: 'middle',
                       }}
                     >
-                      ★ Pick
+                      Top Pick
                     </span>
                   )}
                 </th>

@@ -11,40 +11,44 @@
  * :::
  */
 
+import { MapPin, Lightbulb, AlertTriangle, Map } from 'lucide-react';
+import type { LucideIcon } from 'lucide-react';
+
 interface InfoBoxProps {
   children: React.ReactNode;
   type?: 'info' | 'tip' | 'warning' | 'map';
 }
 
-const STYLE_MAP = {
+const STYLE_MAP: Record<'info' | 'tip' | 'warning' | 'map', { border: string; bg: string; Icon: LucideIcon; label: string }> = {
   info: {
     border: '#f97316',
     bg: '#fff7ed',
-    icon: '📍',
+    Icon: MapPin,
     label: 'Visitor Info',
   },
   tip: {
     border: '#22c55e',
     bg: '#f0fdf4',
-    icon: '💡',
+    Icon: Lightbulb,
     label: 'Pro Tip',
   },
   warning: {
     border: '#ef4444',
     bg: '#fef2f2',
-    icon: '⚠️',
+    Icon: AlertTriangle,
     label: 'Important',
   },
   map: {
     border: '#3b82f6',
     bg: '#eff6ff',
-    icon: '🗺️',
+    Icon: Map,
     label: 'Getting There',
   },
 };
 
 export default function InfoBox({ children, type = 'info' }: InfoBoxProps) {
   const s = STYLE_MAP[type];
+  const IconComponent = s.Icon;
 
   return (
     <div
@@ -71,7 +75,7 @@ export default function InfoBox({ children, type = 'info' }: InfoBoxProps) {
           gap: '6px',
         }}
       >
-        <span aria-hidden="true">{s.icon}</span>
+        <IconComponent size={14} aria-hidden="true" />
         {s.label}
       </div>
       <div style={{ color: '#44403c' }}>{children}</div>
