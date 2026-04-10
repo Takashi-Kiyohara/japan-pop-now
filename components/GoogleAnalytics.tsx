@@ -2,6 +2,7 @@
 
 import Script from 'next/script';
 import { useEffect, useState } from 'react';
+import { env } from '@/lib/env';
 
 function getCookieValue(name: string): string | null {
   const match = document.cookie.match(new RegExp('(^| )' + name + '=([^;]+)'));
@@ -9,7 +10,7 @@ function getCookieValue(name: string): string | null {
 }
 
 export default function GoogleAnalytics() {
-  const measurementId = process.env.NEXT_PUBLIC_GA_ID;
+  const measurementId = env.NEXT_PUBLIC_GA_ID;
   const [consentGiven, setConsentGiven] = useState(false);
 
   useEffect(() => {

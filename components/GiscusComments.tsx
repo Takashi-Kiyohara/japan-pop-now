@@ -1,6 +1,7 @@
 'use client';
 
 import { useEffect, useRef } from 'react';
+import { env } from '@/lib/env';
 
 interface GiscusCommentsProps {
   slug: string;
@@ -10,8 +11,8 @@ export default function GiscusComments({ slug }: GiscusCommentsProps) {
   const ref = useRef<HTMLDivElement>(null);
   const loaded = useRef(false);
 
-  const repoId = process.env.NEXT_PUBLIC_GISCUS_REPO_ID;
-  const categoryId = process.env.NEXT_PUBLIC_GISCUS_CATEGORY_ID;
+  const repoId = env.NEXT_PUBLIC_GISCUS_REPO_ID;
+  const categoryId = env.NEXT_PUBLIC_GISCUS_CATEGORY_ID;
 
   useEffect(() => {
     // Don't load if Giscus is not configured

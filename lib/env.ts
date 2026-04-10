@@ -19,8 +19,12 @@ export interface ValidatedEnv {
   NEXT_PUBLIC_AWIN_AFFILIATE_ID: string;
 
   // Analytics
-  NEXT_PUBLIC_GA4_ID: string;
+  NEXT_PUBLIC_GA_ID: string;
   NEXT_PUBLIC_GOOGLE_SEARCH_CONSOLE: string;
+
+  // Comments (Giscus)
+  NEXT_PUBLIC_GISCUS_REPO_ID: string;
+  NEXT_PUBLIC_GISCUS_CATEGORY_ID: string;
 }
 
 /**
@@ -49,8 +53,10 @@ function validateEnv(): ValidatedEnv {
     NEXT_PUBLIC_AGODA_AFFILIATE_ID: process.env.NEXT_PUBLIC_AGODA_AFFILIATE_ID || '',
     NEXT_PUBLIC_JRPASS_AFFILIATE_ID: process.env.NEXT_PUBLIC_JRPASS_AFFILIATE_ID || '',
     NEXT_PUBLIC_AWIN_AFFILIATE_ID: process.env.NEXT_PUBLIC_AWIN_AFFILIATE_ID || '',
-    NEXT_PUBLIC_GA4_ID: process.env.NEXT_PUBLIC_GA4_ID || '',
+    NEXT_PUBLIC_GA_ID: process.env.NEXT_PUBLIC_GA_ID || '',
     NEXT_PUBLIC_GOOGLE_SEARCH_CONSOLE: process.env.NEXT_PUBLIC_GOOGLE_SEARCH_CONSOLE || '',
+    NEXT_PUBLIC_GISCUS_REPO_ID: process.env.NEXT_PUBLIC_GISCUS_REPO_ID || '',
+    NEXT_PUBLIC_GISCUS_CATEGORY_ID: process.env.NEXT_PUBLIC_GISCUS_CATEGORY_ID || '',
   };
 
   return env;

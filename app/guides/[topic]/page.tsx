@@ -248,7 +248,7 @@ function getHubPlanYourTripCTAs(hub: HubTopic) {
           title: 'Local Guides & Maps',
           description: 'GetYourGuide offers detailed pilgrimage guides and themed day trip itineraries.',
           buttonText: 'Browse Guides',
-          href: `https://www.getyourguide.com/s/?q=Tokyo%20day%20trip&partner_id=${process.env.NEXT_PUBLIC_GETYOURGUIDE_AFF_ID || ''}`,
+          href: `https://www.getyourguide.com/s/?q=Tokyo%20day%20trip&partner_id=${env.NEXT_PUBLIC_GETYOURGUIDE_AFFILIATE_ID}`,
           program: 'getyourguide' as const,
           category: 'anime-pilgrimage',
         },
