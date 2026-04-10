@@ -43,14 +43,19 @@ export default function AboutPage() {
         {/* Hero */}
         <section
           style={{
-            background: 'linear-gradient(135deg, #14213d 0%, #1a2a4a 100%)',
-            padding: '80px 0 60px',
+            position: 'relative',
+            backgroundImage:
+              'linear-gradient(135deg, rgba(20,33,61,0.82) 0%, rgba(26,42,74,0.72) 50%, rgba(20,33,61,0.88) 100%), url(/images/about/hero.jpg)',
+            backgroundSize: 'cover',
+            backgroundPosition: 'center',
+            backgroundRepeat: 'no-repeat',
+            padding: '100px 0 80px',
           }}
         >
-          <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
+          <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 text-center" style={{ position: 'relative', zIndex: 1 }}>
             <p
               className="text-sm font-bold tracking-widest uppercase mb-4"
-              style={{ color: '#fb923c' }}
+              style={{ color: '#fb923c', textShadow: '0 2px 8px rgba(0,0,0,0.4)' }}
             >
               About Us
             </p>
@@ -61,11 +66,19 @@ export default function AboutPage() {
                 fontSize: 'clamp(2rem, 5vw, 3rem)',
                 fontWeight: 700,
                 lineHeight: 1.2,
+                textShadow: '0 2px 12px rgba(0,0,0,0.5)',
               }}
             >
               The Team Behind Japan Pop Now
             </h1>
-            <p style={{ color: 'rgba(255,255,255,0.7)', fontSize: '1.1rem', lineHeight: 1.7 }}>
+            <p
+              style={{
+                color: 'rgba(255,255,255,0.92)',
+                fontSize: '1.1rem',
+                lineHeight: 1.7,
+                textShadow: '0 1px 6px rgba(0,0,0,0.4)',
+              }}
+            >
               We&apos;re on a mission to be the most trusted English-language guide to Japan&apos;s anime and pop culture scene — written by people who actually live here.
             </p>
           </div>
