@@ -50,7 +50,7 @@ export function getArticleSchema(article: Article, url: string, options?: Articl
     description: article.description,
     image: article.featuredImage || LOGO_URL,
     datePublished: article.date,
-    dateModified: article.date,
+    dateModified: article.lastUpdated || article.date,
     author: getAuthorSchema(),
     publisher: {
       '@type': 'Organization',

@@ -54,7 +54,8 @@ export function getArticleBySlug(slug: string): Article | null {
     title,
     description: data.description || '',
     date: data.date || '',
-    lastUpdated: data.lastUpdated || '',
+    // Accept either `lastUpdated` or the legacy `updated` field name
+    lastUpdated: data.lastUpdated || data.updated || '',
     category,
     feature: data.feature || undefined,
     tags,
