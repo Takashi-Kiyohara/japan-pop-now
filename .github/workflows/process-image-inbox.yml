@@ -29,34 +29,128 @@ jobs:
             libgif-dev \
             librsvg2-dev \
             ffmpeg
-      - name: Extract keyframes from video inbox
+      - name: Extract keyframes from video inbox (v4.3)
         id: video_extract
         run: |
           INBOX="public/images/inbox"
           VIDEO_COUNT=0
           FRAME_COUNT=0
           shopt -s nullglob
+
+          # v4.3 filename contract (video):
+          #   IMG_<ts>__library__video[__f<N>|__fauto][__moe].mp4
+          #   IMG_<ts>__existing__<slug>__<position>__video[__f<N>|__fauto][__moe].mp4
+          #
+          # Parser: strip extension, strip trailing __video / __f<N> / __fauto / __moe.
+          # Remaining base is used as the library/body filename stem. Frames are
+          # emitted as "<stem>__library_<NN>.jpg" (library) or
+          # "<stem>_<NN>.jpg" (other) into the same inbox for the pipeline.
+
           for video in "$INBOX"/*.{mp4,mov,MP4,MOV,avi,AVI,m4v,M4V}; do
             [ -f "$video" ] || continue
             VIDEO_COUNT=$((VIDEO_COUNT + 1))
-            # Parse base name (strip extension)
+
             base=$(basename "$video")
-            name="${base%.*}"
-            # Extract 1 keyframe every 3 seconds, max 10 frames
-            ffmpeg -i "$video" \
-              -vf "select='not(mod(n\,90))',setpts=N/FRAME_RATE/TB" \
-              -frames:v 10 \
+            name_noext="${base%.*}"
+
+            # ---- parse hints ----------------------------------------------------
+            FRAMES_HINT=""   # "" = default 10, "auto" = duration-based, N = explicit
+            MOE_FILTER=0
+
+            tmp="$name_noext"
+            # trailing __moe
+            if [[ "$tmp" == *"__moe" ]]; then
+              MOE_FILTER=1
+              tmp="${tmp%__moe}"
+            fi
+            # trailing __f<N> or __fauto
+            if [[ "$tmp" =~ __fauto$ ]]; then
+              FRAMES_HINT="auto"
+              tmp="${tmp%__fauto}"
+            elif [[ "$tmp" =~ __f([0-9]+)$ ]]; then
+              FRAMES_HINT="${BASH_REMATCH[1]}"
+              tmp="${tmp%__f*}"
+            fi
+            # trailing __video (required marker for video inputs)
+            if [[ "$tmp" == *"__video" ]]; then
+              tmp="${tmp%__video}"
+            fi
+
+            stem="$tmp"
+
+            # ---- decide frame count --------------------------------------------
+            FRAMES=10
+            if [[ "$FRAMES_HINT" == "auto" ]]; then
+              # ffprobe duration in seconds (float) → 1 frame per 6s, clamp [3, 20]
+              dur=$(ffprobe -v error -show_entries format=duration -of default=noprint_wrappers=1:nokey=1 "$video" 2>/dev/null || echo "30")
+              FRAMES=$(awk -v d="$dur" 'BEGIN{n=int(d/6); if(n<3)n=3; if(n>20)n=20; print n}')
+            elif [[ -n "$FRAMES_HINT" ]]; then
+              FRAMES="$FRAMES_HINT"
+            fi
+
+            # ---- extraction target naming --------------------------------------
+            # library path: stem already contains __library (or __existing__...__<position>)
+            target_prefix="$INBOX/${stem}"
+            if [[ "$stem" == *"__library" ]]; then
+              # library: <stem>_<NN>.jpg (pipeline treats each as independent library entry)
+              out_pattern="${target_prefix}_%02d.jpg"
+            else
+              # featured/body: use the stem directly, pipeline treats it as one asset
+              # (we only keep the highest-quality frame for these)
+              out_pattern="${target_prefix}_%02d.jpg"
+            fi
+
+            echo "▶ $base → frames=$FRAMES hint=${FRAMES_HINT:-default} moe=$MOE_FILTER stem=$stem"
+
+            # ---- ffmpeg: scene detection primary, uniform fallback --------------
+            # Primary: scene change > 0.3
+            ffmpeg -hide_banner -loglevel error -i "$video" \
+              -vf "select='gt(scene\,0.3)',setpts=N/FRAME_RATE/TB" \
+              -frames:v "$FRAMES" \
               -q:v 2 \
               -vsync vfr \
-              "$INBOX/${name}__library_%02d.jpg" \
-              -loglevel error || true
-            # Count extracted frames
-            extracted=$(ls "$INBOX/${name}__library_"*.jpg 2>/dev/null | wc -l)
+              "$out_pattern" || true
+
+            extracted=$(ls "${target_prefix}_"*.jpg 2>/dev/null | wc -l)
+
+            # Fallback: if scene detection yielded < FRAMES/2, use uniform sampling
+            min_required=$((FRAMES / 2))
+            if [ "$extracted" -lt "$min_required" ]; then
+              echo "  ↺ scene detect yielded $extracted frames (<$min_required), falling back to uniform"
+              rm -f "${target_prefix}_"*.jpg
+              # Uniform: sample every (total_frames / FRAMES) frames
+              total_frames=$(ffprobe -v error -select_streams v:0 -count_packets -show_entries stream=nb_read_packets -of csv=p=0 "$video" 2>/dev/null || echo "300")
+              step=$((total_frames / FRAMES))
+              [ "$step" -lt 1 ] && step=1
+              ffmpeg -hide_banner -loglevel error -i "$video" \
+                -vf "select='not(mod(n\,${step}))',setpts=N/FRAME_RATE/TB" \
+                -frames:v "$FRAMES" \
+                -q:v 2 \
+                -vsync vfr \
+                "$out_pattern" || true
+              extracted=$(ls "${target_prefix}_"*.jpg 2>/dev/null | wc -l)
+            fi
+
             FRAME_COUNT=$((FRAME_COUNT + extracted))
-            echo "  ✅ $base → ${extracted} frames"
+
+            # ---- Moe filter sidecar --------------------------------------------
+            # Write a .moe marker sidecar per frame if requested. The downstream
+            # node pipeline picks this up and runs face-identify to keep only
+            # frames where Moe is detected (score < 0.5 euclidean).
+            if [ "$MOE_FILTER" -eq 1 ]; then
+              for f in "${target_prefix}_"*.jpg; do
+                [ -f "$f" ] || continue
+                echo "moe" > "${f}.filter"
+              done
+              echo "  ✅ $base → $extracted frames (Moe filter enabled)"
+            else
+              echo "  ✅ $base → $extracted frames"
+            fi
+
             # Remove original video after extraction
             rm "$video"
           done
+
           echo "videos=${VIDEO_COUNT}" >> "$GITHUB_OUTPUT"
           echo "frames=${FRAME_COUNT}" >> "$GITHUB_OUTPUT"
           if [ "$VIDEO_COUNT" -gt 0 ]; then
@@ -66,6 +160,11 @@ jobs:
           fi
       - name: Install npm dependencies
         run: npm ci
+      - name: Download face-api models (cached)
+        run: |
+          if [ ! -d "data/face-models" ] || [ -z "$(ls -A data/face-models 2>/dev/null)" ]; then
+            echo "data/face-models missing — skipping face-aware crop will fallback to attention"
+          fi
       - name: Process image inbox
         id: process
         run: npx tsx image-pipeline/v4/scripts__process-image-inbox_v4_2.ts
@@ -74,16 +173,18 @@ jobs:
         uses: peter-evans/create-pull-request@v5
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: '[image] auto-process inbox v4.2 (${{ github.run_id }})'
-          title: '[image] inbox auto-process v4.2 (${{ github.run_id }})'
+          commit-message: '[image] auto-process inbox v4.3 (${{ github.run_id }})'
+          title: '[image] inbox auto-process v4.3 (${{ github.run_id }})'
           body: |
-            ## 自動画像処理 v4.2
+            ## 自動画像処理 v4.3
             ${{ steps.process.outputs.summary }}
 
             - Face-aware crop (Featured: hero/list/og 3 variants)
             - Semantic placement (OCR + H2 matching)
             - Portrait → 16:9 auto-crop for body images
-            ${{ steps.video_extract.outputs.videos > 0 && format('- 🎬 動画 {0}本 → {1}フレーム抽出 (ffmpeg keyframe)', steps.video_extract.outputs.videos, steps.video_extract.outputs.frames) || '' }}
+            - 🎬 Video support: ffmpeg scene detection + uniform fallback
+            - 🎯 Moe face filter (opt-in via `__moe` suffix)
+            ${{ steps.video_extract.outputs.videos > 0 && format('- 📹 動画 {0}本 → {1}フレーム抽出', steps.video_extract.outputs.videos, steps.video_extract.outputs.frames) || '' }}
 
             レビューしてマージで公開されます。
           branch: auto/image-inbox-${{ github.run_id }}

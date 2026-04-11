@@ -1,0 +1,57 @@
+name: GDrive video poll (Option B)
+# Polls a shared Google Drive folder every 15 min for new video files,
+# downloads them, and pushes them to public/images/inbox/ so the main
+# process-image-inbox workflow picks them up and extracts keyframes.
+#
+# Setup:
+# 1. Create a GCP service account, enable Drive API, download JSON key
+# 2. Share the GDrive folder with the service account email
+# 3. Set GitHub secrets:
+#      - GDRIVE_SA_JSON   (contents of the service account JSON)
+#      - GDRIVE_FOLDER_ID (target folder id from the URL)
+#      - GDRIVE_PROCESSED_FOLDER_ID (optional: move processed files here)
+on:
+  schedule:
+    - cron: '*/15 * * * *'   # every 15 minutes
+  workflow_dispatch:
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install dependencies
+        run: |
+          pip install --upgrade pip
+          pip install google-api-python-client google-auth
+      - name: Write service account key
+        env:
+          GDRIVE_SA_JSON: ${{ secrets.GDRIVE_SA_JSON }}
+        run: |
+          mkdir -p .secrets
+          echo "$GDRIVE_SA_JSON" > .secrets/gdrive-sa.json
+      - name: Poll Google Drive
+        id: poll
+        env:
+          GDRIVE_FOLDER_ID: ${{ secrets.GDRIVE_FOLDER_ID }}
+          GDRIVE_PROCESSED_FOLDER_ID: ${{ secrets.GDRIVE_PROCESSED_FOLDER_ID }}
+          GDRIVE_SA_KEY_PATH: .secrets/gdrive-sa.json
+          GDRIVE_INBOX_PATH: public/images/inbox
+        run: python scripts/gdrive_video_poll.py
+      - name: Cleanup secret
+        if: always()
+        run: rm -rf .secrets
+      - name: Commit new videos
+        if: steps.poll.outputs.downloaded == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add public/images/inbox/
+          git commit -m "[gdrive-poll] ingest ${{ steps.poll.outputs.count }} video(s)"
+          git push origin main

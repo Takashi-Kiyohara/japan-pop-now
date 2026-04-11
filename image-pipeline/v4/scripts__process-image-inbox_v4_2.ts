@@ -41,6 +41,7 @@ import {
   FEATURED_VARIANTS,
   type VariantResult,
 } from './scripts__face-aware-crop';
+import { filterFramesByPerson } from './scripts__face-identify';
 
 // ============================================================
 // Constants
@@ -765,6 +766,51 @@ async function listInboxImages(): Promise<string[]> {
   }
 }
 
+/**
+ * Pre-process any `.filter` sidecar markers dropped by the video-extraction
+ * step. Each sidecar names a target person (e.g. "moe"). We group all frames
+ * sharing a sidecar-person and run filterFramesByPerson against the face DB
+ * built by scripts__build-face-db.ts. Frames where the person is not
+ * detected (euclidean ≥ 0.5) are deleted; matching frames continue into the
+ * normal inbox pipeline.
+ *
+ * No-op if there are no .filter sidecars in the inbox.
+ */
+async function applyFaceFilters(): Promise<void> {
+  let files: string[];
+  try {
+    files = await fs.readdir(INBOX_DIR);
+  } catch {
+    return;
+  }
+
+  const groups: Record<string, string[]> = {};
+  for (const f of files) {
+    if (!f.endsWith('.filter')) continue;
+    const framePath = path.join(INBOX_DIR, f.replace(/\.filter$/, ''));
+    try {
+      const person = (await fs.readFile(path.join(INBOX_DIR, f), 'utf-8'))
+        .trim()
+        .toLowerCase();
+      if (!person) continue;
+      (groups[person] ??= []).push(framePath);
+    } catch {
+      // ignore unreadable sidecar
+    }
+  }
+
+  for (const [person, frames] of Object.entries(groups)) {
+    console.log(`[face-filter] ${person}: checking ${frames.length} frame(s)`);
+    try {
+      await filterFramesByPerson(frames, person);
+    } catch (err) {
+      console.warn(
+        `[face-filter] ${person} failed: ${(err as Error).message}`
+      );
+    }
+  }
+}
+
 function captionToAlt(caption: string, slug: string | null): string {
   const cleaned = caption
     .replace(/#[a-z]+/gi, '')
@@ -777,6 +823,7 @@ function captionToAlt(caption: string, slug: string | null): string {
 
 async function main() {
   const library = await loadLibrary();
+  await applyFaceFilters();
   const inbox = await listInboxImages();
 
   if (inbox.length === 0) {
