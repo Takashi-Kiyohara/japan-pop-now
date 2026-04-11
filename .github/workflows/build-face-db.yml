@@ -1,0 +1,41 @@
+name: Build face descriptor DB
+# Run manually from Actions tab after adding reference photos to data/face-db/<person>/
+on:
+  workflow_dispatch:
+    inputs:
+      person:
+        description: 'Person name (e.g. moe) or "all"'
+        required: true
+        default: 'moe'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+      - name: Install system deps (canvas)
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y libcairo2-dev libpango1.0-dev libjpeg-dev libgif-dev librsvg2-dev
+      - name: Install npm deps
+        run: npm ci
+      - name: Build face DB
+        run: |
+          PERSON="${{ github.event.inputs.person }}"
+          if [ "$PERSON" = "all" ]; then
+            npx tsx image-pipeline/v4/scripts__build-face-db.ts
+          else
+            npx tsx image-pipeline/v4/scripts__build-face-db.ts "$PERSON"
+          fi
+      - name: Commit generated DB
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/face-db/*.json
+          git diff --staged --quiet || git commit -m "[face-db] build descriptor DB for ${{ github.event.inputs.person }}"
+          git push origin main
