@@ -19,7 +19,7 @@ jobs:
         with:
           node-version: '20'
           cache: 'npm'
-      - name: Install canvas system dependencies
+      - name: Install system dependencies (canvas + ffmpeg)
         run: |
           sudo apt-get update
           sudo apt-get install -y \
@@ -27,7 +27,43 @@ jobs:
             libpango1.0-dev \
             libjpeg-dev \
             libgif-dev \
-            librsvg2-dev
+            librsvg2-dev \
+            ffmpeg
+      - name: Extract keyframes from video inbox
+        id: video_extract
+        run: |
+          INBOX="public/images/inbox"
+          VIDEO_COUNT=0
+          FRAME_COUNT=0
+          shopt -s nullglob
+          for video in "$INBOX"/*.{mp4,mov,MP4,MOV,avi,AVI,m4v,M4V}; do
+            [ -f "$video" ] || continue
+            VIDEO_COUNT=$((VIDEO_COUNT + 1))
+            # Parse base name (strip extension)
+            base=$(basename "$video")
+            name="${base%.*}"
+            # Extract 1 keyframe every 3 seconds, max 10 frames
+            ffmpeg -i "$video" \
+              -vf "select='not(mod(n\,90))',setpts=N/FRAME_RATE/TB" \
+              -frames:v 10 \
+              -q:v 2 \
+              -vsync vfr \
+              "$INBOX/${name}__library_%02d.jpg" \
+              -loglevel error || true
+            # Count extracted frames
+            extracted=$(ls "$INBOX/${name}__library_"*.jpg 2>/dev/null | wc -l)
+            FRAME_COUNT=$((FRAME_COUNT + extracted))
+            echo "  ✅ $base → ${extracted} frames"
+            # Remove original video after extraction
+            rm "$video"
+          done
+          echo "videos=${VIDEO_COUNT}" >> "$GITHUB_OUTPUT"
+          echo "frames=${FRAME_COUNT}" >> "$GITHUB_OUTPUT"
+          if [ "$VIDEO_COUNT" -gt 0 ]; then
+            echo "Video extract: ${VIDEO_COUNT} video(s) → ${FRAME_COUNT} frames"
+          else
+            echo "No videos found in inbox."
+          fi
       - name: Install npm dependencies
         run: npm ci
       - name: Process image inbox
@@ -47,6 +83,7 @@ jobs:
             - Face-aware crop (Featured: hero/list/og 3 variants)
             - Semantic placement (OCR + H2 matching)
             - Portrait → 16:9 auto-crop for body images
+            ${{ steps.video_extract.outputs.videos > 0 && format('- 🎬 動画 {0}本 → {1}フレーム抽出 (ffmpeg keyframe)', steps.video_extract.outputs.videos, steps.video_extract.outputs.frames) || '' }}
 
             レビューしてマージで公開されます。
           branch: auto/image-inbox-${{ github.run_id }}

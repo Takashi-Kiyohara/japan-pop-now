@@ -733,6 +733,9 @@ async function listInboxImages(): Promise<string[]> {
   try {
     const files = await fs.readdir(INBOX_DIR);
     return files
+      // Video files (.mp4/.mov etc.) are pre-extracted to jpg by the
+      // GitHub Actions "Extract keyframes from video inbox" step before
+      // this script runs. Non-image files are intentionally skipped here.
       .filter((f) => /\.(jpe?g|png|webp)$/i.test(f))
       .map((f) => path.join(INBOX_DIR, f));
   } catch {
