@@ -124,29 +124,43 @@ export async function filterFramesByPerson(
   }
 
   const scores: Record<string, number> = {};
-  const keep: string[] = [];
+  const matched: string[] = [];
+  const unmatched: string[] = [];
 
   for (const frame of frames) {
     try {
       const res = await identifyInImage(frame, db, threshold);
       scores[path.basename(frame)] = res.bestScore;
       if (res.matched) {
-        keep.push(frame);
+        matched.push(frame);
       } else {
-        await fs.unlink(frame).catch(() => undefined);
+        unmatched.push(frame);
       }
       await fs.unlink(`${frame}.filter`).catch(() => undefined);
     } catch (err) {
       console.warn(`[face-identify] error on ${frame}: ${(err as Error).message}`);
-      // On error, be conservative: keep the frame.
-      keep.push(frame);
+      matched.push(frame); // conservative: keep on error
     }
   }
 
+  // Auto-detect mode: if nobody matched, the person isn't in this video —
+  // keep ALL frames so non-person videos are not wiped out.
+  if (matched.length === 0) {
+    console.log(
+      `[face-identify] ${personName}: 0 matches → person not in video, keeping all ${frames.length} frames`
+    );
+    return { kept: frames, scores };
+  }
+
+  // Person detected → delete non-matching frames, keep only person frames.
+  for (const f of unmatched) {
+    await fs.unlink(f).catch(() => undefined);
+  }
+
   console.log(
-    `[face-identify] ${personName}: kept ${keep.length}/${frames.length} frames`
+    `[face-identify] ${personName}: kept ${matched.length}/${frames.length} frames (person detected)`
   );
-  return { kept, scores };
+  return { kept: matched, scores };
 }
 
 // CLI: node ... scripts__face-identify.ts <person> <img1> [img2...]
