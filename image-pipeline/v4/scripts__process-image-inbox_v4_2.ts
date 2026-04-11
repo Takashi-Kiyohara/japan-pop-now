@@ -64,11 +64,14 @@ type PositionHint =
   | 'replace-worst'
   | `after-h2-${number}`;
 
+type SizeHint = 'auto' | 'wide' | 'tall';
+
 interface ParsedFilename {
   timestamp: string;
   mode: Mode;
   slug: string | null;
   positionHint: PositionHint;
+  sizeHint: SizeHint;
   captionEncoded: string;
   ext: string;
 }
@@ -138,6 +141,22 @@ interface LibraryIndex {
 // Parsing
 // ============================================================
 
+/**
+ * Parse a position hint that may contain a `--[size]` suffix.
+ * Examples:
+ *   body-top              → { pos: 'body-top', size: 'auto' }
+ *   body-top--wide        → { pos: 'body-top', size: 'wide' }
+ *   body-top--tall        → { pos: 'body-top', size: 'tall' }
+ *   after-h2-3--wide      → { pos: 'after-h2-3', size: 'wide' }
+ */
+function splitPositionAndSize(raw: string): { pos: PositionHint; size: SizeHint } {
+  const m = raw.match(/^(.+?)--(wide|tall)$/);
+  if (m) {
+    return { pos: m[1] as PositionHint, size: m[2] as SizeHint };
+  }
+  return { pos: raw as PositionHint, size: 'auto' };
+}
+
 function parseFilenameV4(filename: string): ParsedFilename | null {
   const libMatch = filename.match(
     /^IMG_(\d{8}_\d{6})__library(?:__([A-Za-z0-9_-]+))?\.(jpe?g|png|webp)$/i
@@ -148,20 +167,23 @@ function parseFilenameV4(filename: string): ParsedFilename | null {
       mode: 'library',
       slug: null,
       positionHint: 'auto',
+      sizeHint: 'auto',
       captionEncoded: libMatch[2] || '',
       ext: libMatch[3],
     };
   }
 
   const existMatch = filename.match(
-    /^IMG_(\d{8}_\d{6})__existing__([a-z0-9-]+)__([a-z0-9-]+)(?:__([A-Za-z0-9_-]+))?\.(jpe?g|png|webp)$/i
+    /^IMG_(\d{8}_\d{6})__existing__([a-z0-9-]+)__([a-z0-9-]+(?:--(?:wide|tall))?)(?:__([A-Za-z0-9_-]+))?\.(jpe?g|png|webp)$/i
   );
   if (existMatch) {
+    const { pos, size } = splitPositionAndSize(existMatch[3]);
     return {
       timestamp: existMatch[1],
       mode: 'existing',
       slug: existMatch[2],
-      positionHint: existMatch[3] as PositionHint,
+      positionHint: pos,
+      sizeHint: size,
       captionEncoded: existMatch[4] || '',
       ext: existMatch[5],
     };
