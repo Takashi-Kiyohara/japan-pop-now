@@ -35,9 +35,9 @@ const ArticleCard = React.memo(function ArticleCard({
         <article className="flex gap-4 h-full p-3.5 rounded-xl border border-[#e7e5e4] bg-white transition-shadow duration-200 hover:shadow-lg">
           {/* Thumbnail */}
           <div className="flex-shrink-0 rounded-lg overflow-hidden relative" style={{ width: '90px', height: '90px', background: '#e7e5e4' }}>
-            {article.featuredImage && (
+            {(article.imageList || article.featuredImage) && (
               <Image
-                src={article.featuredImage}
+                src={article.imageList || article.featuredImage!}
                 alt={article.featuredImageAlt || article.title}
                 fill
                 className="object-cover transition-transform duration-400 group-hover:scale-105"
@@ -81,9 +81,9 @@ const ArticleCard = React.memo(function ArticleCard({
           className="relative w-full overflow-hidden"
           style={{ height: imgH, background: '#e7e5e4' }}
         >
-          {article.featuredImage ? (
+          {(article.imageList || article.featuredImage) ? (
             <Image
-              src={article.featuredImage}
+              src={article.imageList || article.featuredImage!}
               alt={article.featuredImageAlt || article.title}
               fill
               className="object-cover transition-transform duration-500 group-hover:scale-105"

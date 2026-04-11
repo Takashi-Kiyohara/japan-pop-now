@@ -82,15 +82,15 @@ export async function generateMetadata({
       section: article.category,
       tags: article.tags,
       url: url,
-      images: article.featuredImage
-        ? [{ url: article.featuredImage, width: 1200, height: 630, alt: article.featuredImageAlt }]
+      images: (article.imageOg || article.featuredImage)
+        ? [{ url: article.imageOg || article.featuredImage, width: 1200, height: 630, alt: article.featuredImageAlt }]
         : undefined,
     },
     twitter: {
       card: 'summary_large_image',
       title: article.title,
       description: article.description,
-      images: article.featuredImage ? [article.featuredImage] : undefined,
+      images: (article.imageOg || article.featuredImage) ? [article.imageOg || article.featuredImage] : undefined,
       site: '@pop_now_jp',
       creator: '@pop_now_jp',
     },

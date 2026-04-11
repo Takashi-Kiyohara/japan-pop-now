@@ -31,6 +31,9 @@ export type Article = {
   startDate?: string
   endDate?: string
   location?: { name: string; address: string }
+  // v4.2 image pipeline fields
+  imageList?: string  // optimised card/list thumbnail (16:9 or 4:3 crop)
+  imageOg?: string    // OG-optimised 1200×630 variant
 }
 
 export type ArticleMeta = Omit<Article, 'content'>
@@ -77,6 +80,8 @@ export function getArticleBySlug(slug: string): Article | null {
     startDate: data.startDate,
     endDate: data.endDate,
     location: data.location,
+    imageList: data.imageList || undefined,
+    imageOg: data.imageOg || undefined,
   }
 }
 
