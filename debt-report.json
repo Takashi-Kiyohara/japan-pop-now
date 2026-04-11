@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-04-10T12:23:18.984Z",
+  "generatedAt": "2026-04-10T12:53:18.741Z",
   "counts": {
     "eslintDisables": 6,
     "explicitAny": 0,
@@ -9,7 +9,7 @@
     "articlesMissingFeaturedImage": 0
   },
   "totals": {
-    "sourceFiles": 92,
+    "sourceFiles": 93,
     "articles": 55
   },
   "details": {
