@@ -34,13 +34,13 @@ import {
   disposeWorker,
   type ImageType,
   type OCRResult,
-} from './semantic-placement';
+} from './scripts__semantic-placement';
 import {
   generateFeaturedVariants,
   smartResizeBodyImage,
   FEATURED_VARIANTS,
   type VariantResult,
-} from './face-aware-crop';
+} from './scripts__face-aware-crop';
 
 // ============================================================
 // Constants
