@@ -1,49 +1,30 @@
 {
-  "schema_version": "1.0",
-  "description": "Anime & pop-culture event calendar data for /calendar page. Update manually or via scrapers.",
+  "schema_version": "2.0",
+  "description": "Anime & pop-culture event calendar. Update ~2x/month. Fields: id, ip, title, venue, city, startDate, endDate, thumbnail, officialUrl, tags.",
   "events": [
     {
       "id": "chiikawa-bakery-ikebukuro-2026",
       "ip": "Chiikawa",
-      "type": "cafe",
       "title": "Chiikawa Bakery Ikebukuro",
       "venue": "Chiikawa Bakery Ikebukuro",
       "city": "Tokyo",
-      "prefecture": "Tokyo",
       "startDate": "2026-04-05",
       "endDate": "2026-05-31",
       "thumbnail": "/images/events/chiikawa-bakery-2026.jpg",
-      "article": "/articles/chiikawa-bakery-ikebukuro-2026",
-      "description": "Limited-time Chiikawa bakery pop-up at Ikebukuro — original pastries, themed drinks, and exclusive merch.",
-      "reservation": "walk-in",
-      "affiliate": {
-        "tablecheck": null,
-        "klook": null
-      },
-      "coordinates": { "lat": 35.7295, "lng": 139.7109 },
-      "tags": ["chiikawa", "pop-up", "bakery", "ikebukuro", "cafe"],
-      "source": "collabo-cafe.com",
-      "lastVerified": "2026-04-11"
+      "officialUrl": "https://chiikawa-data.jp/",
+      "tags": ["chiikawa", "cafe", "tokyo"]
     },
     {
       "id": "krispy-kreme-mario-2026",
       "ip": "Super Mario",
-      "type": "cafe",
-      "title": "Krispy Kreme × Super Mario Collaboration",
-      "venue": "Krispy Kreme (nationwide)",
-      "city": "Tokyo",
-      "prefecture": "Tokyo",
+      "title": "Krispy Kreme × Super Mario",
+      "venue": "Nationwide (Krispy Kreme)",
+      "city": "Nationwide",
       "startDate": "2026-04-08",
       "endDate": "2026-05-06",
       "thumbnail": "/images/events/krispy-kreme-mario-2026.jpg",
-      "article": "/articles/krispy-kreme-super-mario-2026",
-      "description": "Nationwide Krispy Kreme × Super Mario collaboration featuring limited doughnuts and merchandise.",
-      "reservation": "walk-in",
-      "affiliate": {},
-      "coordinates": { "lat": 35.6812, "lng": 139.7671 },
-      "tags": ["super-mario", "nintendo", "krispy-kreme", "doughnut", "nationwide"],
-      "source": "collabo-cafe.com",
-      "lastVerified": "2026-04-11"
+      "officialUrl": "https://krispykreme.jp/",
+      "tags": ["mario", "nintendo", "food", "nationwide"]
     }
   ]
 }
