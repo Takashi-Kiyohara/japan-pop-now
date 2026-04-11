@@ -1,0 +1,155 @@
+name: Article PDCA Pipeline (skeleton)
+
+# PDCA = Plan / Do / Check / Act — a 3-loop article generation pipeline.
+# This workflow is a SKELETON. It does not execute yet — the actual Claude
+# API calls are stubbed until secrets.ANTHROPIC_API_KEY is added.
+#
+# Trigger modes:
+#   - manual (workflow_dispatch) with topic/category inputs
+#   - scheduled: Mon/Thu 09:00 JST (00:00 UTC) — disabled by default
+#
+# Once enabled, each run:
+#   1. Plan   → topic analysis, keyword, outline
+#   2. Do     → draft article (1800-2500 words) + images + affiliates
+#   3. Check  → audit + critic scoring (≥7/10 required)
+#   4. Act    → revise if needed, create PR
+#
+# Gates that block PR creation:
+#   - Critic score < 7
+#   - Word count < 1500
+#   - Internal links < 5
+#   - Image density < 1/500 words
+#   - alt text coverage < 100%
+#
+# Cost per run: ~$0.10-0.43 depending on Haiku vs Sonnet mix.
+
+on:
+  workflow_dispatch:
+    inputs:
+      topic:
+        description: 'Article topic (e.g. "Osaka collab cafes April 2026")'
+        required: true
+      category:
+        description: 'Category slug'
+        required: true
+        default: 'collab-cafes'
+        type: choice
+        options:
+          - collab-cafes
+          - anime-pilgrimage
+          - area-guides
+          - travel-tips
+      model_tier:
+        description: 'Model tier'
+        required: true
+        default: 'haiku'
+        type: choice
+        options:
+          - haiku
+          - sonnet
+  # Scheduled runs are commented out until the pipeline is production-ready.
+  # schedule:
+  #   - cron: '0 0 * * 1,4'  # Mon/Thu 09:00 JST
+
+concurrency:
+  group: article-pdca-${{ github.ref }}
+  cancel-in-progress: false
+
+jobs:
+  pdca:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+    env:
+      TOPIC: ${{ inputs.topic }}
+      CATEGORY: ${{ inputs.category }}
+      MODEL_TIER: ${{ inputs.model_tier }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      # ───────────────── PLAN ─────────────────
+      - name: 1. Plan — topic analysis & outline
+        id: plan
+        run: |
+          echo "::group::Plan stage"
+          echo "Topic: $TOPIC"
+          echo "Category: $CATEGORY"
+          echo "Model: $MODEL_TIER"
+          # TODO: invoke Claude API to generate:
+          #   - competitor gap analysis
+          #   - target keyword + long-tail
+          #   - outline (H1/H2/H3)
+          #   - internal link candidates
+          # Writes to: .pdca/plan.json
+          mkdir -p .pdca
+          echo '{"status":"stub","topic":"'"$TOPIC"'"}' > .pdca/plan.json
+          echo "::endgroup::"
+
+      # ───────────────── DO ───────────────────
+      - name: 2. Do — research + draft + images + affiliates
+        id: do
+        run: |
+          echo "::group::Do stage"
+          # TODO: Claude research (WebFetch x5-10 primary sources)
+          # TODO: Draft 1800-2500 words
+          # TODO: Image selection from data/image-library.json
+          # TODO: Affiliate injection per category map
+          # Writes to: .pdca/draft.md
+          echo "# $TOPIC" > .pdca/draft.md
+          echo "Stub draft — pipeline not yet live." >> .pdca/draft.md
+          echo "::endgroup::"
+
+      # ───────────────── CHECK ────────────────
+      - name: 3. Check — audit + critic
+        id: check
+        run: |
+          echo "::group::Check stage"
+          # TODO: run jpn-article-audit equivalent
+          # TODO: critic scoring (AI-ness, CTR, SEO)
+          # Gate: score >= 7 required
+          echo '{"score":0,"status":"stub"}' > .pdca/critic.json
+          SCORE=$(jq .score .pdca/critic.json)
+          echo "score=$SCORE" >> "$GITHUB_OUTPUT"
+          echo "::endgroup::"
+
+      # ───────────────── ACT ──────────────────
+      - name: 4. Act — revise if score < 7
+        if: steps.check.outputs.score != '' && steps.check.outputs.score < '7'
+        run: |
+          echo "Critic score below 7 — would revise here."
+          # TODO: Claude revise call using critic feedback
+
+      - name: Abort if still failing gates
+        run: |
+          echo "::warning::PDCA skeleton run complete — PR creation disabled until pipeline is live."
+          exit 0
+
+      # ───────────────── PR (disabled until live) ─────
+      # - name: Create PR
+      #   if: steps.check.outputs.score >= '7'
+      #   uses: peter-evans/create-pull-request@v5
+      #   with:
+      #     token: ${{ secrets.GITHUB_TOKEN }}
+      #     commit-message: '[article] ${{ inputs.topic }}'
+      #     title: '[article] ${{ inputs.topic }}'
+      #     body: |
+      #       ## PDCA Pipeline Output
+      #       - Topic: ${{ inputs.topic }}
+      #       - Category: ${{ inputs.category }}
+      #       - Critic score: ${{ steps.check.outputs.score }}/10
+      #     branch: auto/article-${{ github.run_id }}
+      #     delete-branch: true
+      #     labels: |
+      #       automated
+      #       article
