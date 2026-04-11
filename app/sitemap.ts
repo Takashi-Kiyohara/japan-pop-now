@@ -47,6 +47,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.3,
       lastModified: new Date(),
     },
+    {
+      url: `${baseUrl}/calendar`,
+      changeFrequency: 'daily',
+      priority: 0.8,
+      lastModified: new Date(),
+    },
   ];
   // Note: /guides, /features, /category/*, /features/*, /guides/* are excluded
   // from sitemap as of 2026-04-10 (AdSense low-value content fix). Hub pages

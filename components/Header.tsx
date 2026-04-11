@@ -8,6 +8,7 @@ import Search from './Search';
 import ThemeToggle from './ThemeToggle';
 
 const NAV_LINKS = [
+  { href: '/calendar', label: 'Calendar' },
   { href: '/category/collab-cafes', label: 'Collab Cafes' },
   { href: '/category/anime-pilgrimage', label: 'Pilgrimage' },
   { href: '/category/area-guides', label: 'Area Guides' },
