@@ -12,6 +12,9 @@ const eslintConfig = defineConfig([
     "out/**",
     "build/**",
     "next-env.d.ts",
+    // Exclude image-pipeline and face-models
+    "image-pipeline/**",
+    "data/face-models/**",
   ]),
 ]);
 
