@@ -1,0 +1,83 @@
+name: Process Image Inbox v4.2
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'public/images/inbox/**'
+  workflow_dispatch:
+
+jobs:
+  process:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install canvas system dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y \
+            libcairo2-dev \
+            libpango1.0-dev \
+            libjpeg-dev \
+            libgif-dev \
+            librsvg2-dev
+
+      - name: Install npm dependencies
+        run: |
+          npm ci
+          npm install --save-dev \
+            sharp \
+            gray-matter \
+            tesseract.js \
+            @vladmandic/face-api \
+            canvas
+
+      - name: Check face-api models
+        run: |
+          mkdir -p data/face-models
+          if [ ! -f data/face-models/ssd_mobilenetv1_model-weights_manifest.json ]; then
+            echo "Downloading face-api models..."
+            curl -L -o data/face-models/ssd_mobilenetv1_model-weights_manifest.json \
+              https://github.com/vladmandic/face-api/raw/master/model/ssd_mobilenetv1_model-weights_manifest.json
+            curl -L -o data/face-models/ssd_mobilenetv1_model.bin \
+              https://github.com/vladmandic/face-api/raw/master/model/ssd_mobilenetv1_model.bin
+          fi
+
+      - name: Process image inbox
+        id: process
+        run: npx tsx image-pipeline/v4/scripts__process-image-inbox_v4_2.ts
+
+      - name: Create PR
+        if: steps.process.outputs.changes == 'true'
+        uses: peter-evans/create-pull-request@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: '[image] auto-process inbox v4.2 (${{ github.run_id }})'
+          title: '[image] inbox auto-process v4.2 (${{ github.run_id }})'
+          body: |
+            ## 自動画像処理 v4.2
+
+            ${{ steps.process.outputs.summary }}
+
+            - Face-aware crop (Featured: hero/list/og 3variants)
+            - Semantic placement (OCR + H2 matching)
+            - Portrait→16:9 auto-crop for body images
+
+            レビューしてマージで公開されます。
+          branch: auto/image-inbox-${{ github.run_id }}
+          delete-branch: true
+          labels: |
+            automated
+            images
