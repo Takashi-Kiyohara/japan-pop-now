@@ -24,6 +24,20 @@ jobs:
           sudo apt-get install -y libcairo2-dev libpango1.0-dev libjpeg-dev libgif-dev librsvg2-dev
       - name: Install npm deps
         run: npm ci
+      - name: Download face-api models
+        run: |
+          mkdir -p data/face-models
+          BASE="https://github.com/vladmandic/face-api/raw/master/model"
+          for f in \
+            ssd_mobilenetv1_model-weights_manifest.json \
+            ssd_mobilenetv1_model-shard1 \
+            face_landmark_68_model-weights_manifest.json \
+            face_landmark_68_model-shard1 \
+            face_recognition_model-weights_manifest.json \
+            face_recognition_model-shard1 \
+            face_recognition_model-shard2; do
+            curl -sL "$BASE/$f" -o "data/face-models/$f"
+          done
       - name: Build face DB
         run: |
           PERSON="${{ github.event.inputs.person }}"
