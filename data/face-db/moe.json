@@ -1,6 +1,6 @@
 {
   "name": "moe",
-  "builtAt": "2026-04-11T18:00:04.414Z",
+  "builtAt": "2026-04-12T05:45:23.383Z",
   "modelVersion": "face-api.js ssd_mobilenetv1 + recognition v1",
   "descriptors": [
     {
