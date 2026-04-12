@@ -70,7 +70,7 @@ ${faqItems.map((f) => `- ${f}`).join('\n')}
 ${FEATURES.filter((f) => getActiveFeatureSlugs().includes(f.slug))
   .map(
     (f) =>
-      `- ${f.title}: https://japan-pop-now.com/features/${f.slug}  E${f.tagline} (${getArticlesByFeature(f.slug).length} articles)`
+      `- ${f.title}: https://japan-pop-now.com/features/${f.slug}  E${f.description} (${getArticlesByFeature(f.slug).length} articles)`
   )
   .join('\n')}
 
