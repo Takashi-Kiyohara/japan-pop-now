@@ -30,7 +30,7 @@ export async function GET() {
   const categoryBlocks = CATEGORIES.map((cat) => {
     const catArticles = grouped.get(cat.slug) || [];
     const lines = catArticles.map((a, i) => {
-      const desc = a.description ? ` — ${a.description}` : '';
+      const desc = a.description ? `  E${a.description}` : '';
       return `${i + 1}. ${a.title}${desc}\n   URL: https://japan-pop-now.com/articles/${a.slug}`;
     });
     return `### ${cat.label} (${catArticles.length} articles)\n${lines.join('\n')}`;
@@ -53,12 +53,12 @@ export async function GET() {
     'Merchandise shopping and shipping',
   ];
 
-  const content = `# Japan Pop Now — Complete Content Index
+  const content = `# Japan Pop Now  EComplete Content Index
 > Your ultimate guide to Japan's anime and pop culture scene for international visitors.
 
 ## About
 Japan Pop Now is an English-language media site covering anime collab cafes, pilgrimage spots, area guides, and travel tips for visitors to Japan.
-- Author: Takapon — Kyoto-born, Tokyo-based, UK-based graduate student in International Relations
+- Author: Takapon  EKyoto-born, Tokyo-based, UK-based graduate student in International Relations
 - Total articles: ${articles.length}
 - Last generated: ${now}
 
@@ -84,7 +84,7 @@ ${FEATURES.filter((f) => getActiveFeatureSlugs().includes(f.slug))
       (a, i) =>
         `${i + 1}. ${a.title}\n   URL: https://japan-pop-now.com/articles/${a.slug}`
     );
-    return `### ${f.label} (${seriesArticles.length} articles)\n${f.description}\nSeries URL: https://japan-pop-now.com/features/${f.slug}\n${lines.join('\n')}`;
+    return `### ${f.title} (${seriesArticles.length} articles)\n${f.description}\nSeries URL: https://japan-pop-now.com/features/${f.slug}\n${lines.join('\n')}`;
   })
   .join('\n\n')}
 
