@@ -18,6 +18,7 @@ export type Article = {
   tags: string[]
   featuredImage: string
   featuredImageAlt: string
+  imageList?: string
   imageCredit?: string
   author: string
   content: string
