@@ -1,3 +1,5 @@
+'use client';
+
 import Link from 'next/link';
 import { Coffee, MapPin, Map, Compass } from 'lucide-react';
 import { ArticleMeta } from '@/lib/articles';

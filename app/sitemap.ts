@@ -91,14 +91,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
     lastModified: new Date(),
   }));
 
-  // Tag archive pages
-  const tags = getAllUniqueTags(articles);
-  const tagPages: MetadataRoute.Sitemap = tags.map((tag) => ({
-    url: tagUrl(tag),
-    changeFrequency: 'weekly' as const,
-    priority: 0.5,
-    lastModified: new Date(),
-  }));
+  // Tag archive pages — EXCLUDED (noindex'd — low-quality thin pages)
+  // const tags = getAllUniqueTags(articles);
+  // const tagPages: MetadataRoute.Sitemap = tags.map((tag) => ({...}));
 
-  return [...staticPages, ...articlePages, ...categoryPages, ...guidePages, ...tagPages];
+  return [...staticPages, ...articlePages, ...categoryPages, ...guidePages];
 }

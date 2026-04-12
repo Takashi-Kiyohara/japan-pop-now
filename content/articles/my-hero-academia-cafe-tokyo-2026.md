@@ -25,7 +25,7 @@ This one is different because it is in **Ikebukuro**.
 
 For international visitors, that changes everything. Ikebukuro is one of the best districts in Tokyo for turning a single cafe booking into a **half-day anime plan**. You can pair a timed cafe visit with Animate, character-goods shopping, other seasonal collab cafes, and general department-store browsing without needing complicated transport.
 
-That makes this event much more practical than a standalone “go for the photo and leave” stop.
+That makes this event much more practical than a standalone "go for the photo and leave" stop.
 
 ## My Hero Academia Cafe Tokyo 2026 at a glance
 
@@ -104,7 +104,7 @@ This is useful because not every traveler should choose the same kind of anime e
 
 ## Practical tips before you go
 
-<div className=”jpn-tip”>
+<div className="jpn-tip">
 
 **Tip:** Visit on a weekday (Tuesday–Thursday) early in the run (first 2 weeks) to beat weekend crowds and avoid potential stock shortages.
 
@@ -119,34 +119,9 @@ Cafe rules can change, and themed cafe logistics are often where trips become mo
 ### Keep expectations realistic
 The photos and character art may be the main attraction, but the real on-the-ground experience depends on timing, queue flow, stock levels, and how crowded Ikebukuro is that day.
 
-This matters because some travelers now react against overly polished “perfect Japan” social content and prefer more honest planning advice. A better experience usually comes from realistic expectations, not from chasing a flawless social-media version of the day.[2]
+This matters because some travelers now react against overly polished "perfect Japan" social content and prefer more honest planning advice. A better experience usually comes from realistic expectations, not from chasing a flawless social-media version of the day.[2]
 
 ## FAQ
-
-<div className="jpn-faq">
-
-### Where is the My Hero Academia Cafe in Tokyo in 2026?
-The currently reported 2026 pop-up cafe is at **DECOTTO by animate cafe in Ikebukuro**.[1]
-
-### When is the My Hero Academia Cafe in Ikebukuro open?
-The event runs from **April 3 to April 26, 2026**.[1]
-
-### What is the theme of the 2026 My Hero Academia Cafe?
-The theme is **Waffle Sandwich Diner**, with diner-style menu items and new illustrated character designs.[1]
-
-### Is Ikebukuro a good area for anime fans?
-Yes. It is one of Tokyo’s most practical districts for anime travelers because it combines stores, collaboration events, and easy walking connections.
-
-### Is this cafe better than other Tokyo anime cafes?
-It depends on your goal. If you specifically like My Hero Academia or want an Ikebukuro-centered anime day, it is a strong choice. If you want broader coverage, a multi-series cafe guide may be more useful.
-
-</div>
-
-<div className="jpn-cta">
-
-**Ready to visit?** Book via the [Animate Cafe official site](https://www.animatecafe.jp/) or check the [Anime Collab Cafe Calendar](/collab-cafe-calendar/) for current availability.
-
-</div>
 
 ## Where to go next on Japan Pop Now
 
@@ -156,8 +131,8 @@ After this guide, the most helpful next reads are **[Tokyo Anime Collab Cafes Sp
 
 ## Sources
 
-1. Essential Japan, “My Hero Academia ‘Diner’ Themed Pop Up Cafe at DECOT Animate Cafe Ikebukuro 2026” — https://essential-japan.com/events/my-hero-academia-diner-themed-pop-up-cafe-at-decot-animate-cafe-ikebukuro-2026/
-2. The Japan Times, “Perfect Japan posts spark Gen Z social media backlash” — https://www.japantimes.co.jp/news/2026/03/26/japan/society/gen-z-perfect-japan-social-media-posts/
+1. Essential Japan, "My Hero Academia ‘Diner’ Themed Pop Up Cafe at DECOT Animate Cafe Ikebukuro 2026" — https://essential-japan.com/events/my-hero-academia-diner-themed-pop-up-cafe-at-decot-animate-cafe-ikebukuro-2026/
+2. The Japan Times, "Perfect Japan posts spark Gen Z social media backlash" — https://www.japantimes.co.jp/news/2026/03/26/japan/society/gen-z-perfect-japan-social-media-posts/
 
 ☕
 
@@ -174,3 +149,21 @@ Follow for weekly collab cafe updates & Japan pop culture content.
 
 ### Explore by Area
 [🗼 Tokyo](/tag/tokyo/)[🏪 Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[👥 Shibuya](/shibuya-anime-spots-guide/)[🎮 Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[🌆 Osaka](/osaka-anime-guide-2025/)🏯 Kyoto (Coming Soon)
+
+<div className="jpn-faq">
+
+### Is this content updated for 2026?
+
+Yes. This guide is updated regularly based on current information and real visitor experiences.
+
+### What if my plans change?
+
+Most bookings and reservations allow cancellations. Always check the specific cancellation policy before committing.
+
+</div>
+
+<div className="jpn-cta">
+
+Ready to plan your trip? Browse anime events in Japan on our [Event Calendar](/calendar).
+
+</div>

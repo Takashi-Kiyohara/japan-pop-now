@@ -93,7 +93,7 @@ This is the most common scenario. Here’s exactly what to do:
 ### Before Booking Day
 
 1. **Open the booking URL in advance.** The URL is shared in the cafe’s announcement tweet. Open it on your computer (not your phone — you’ll be faster on a full keyboard).
-2. **Use Google Chrome and auto-translate the page.** Right-click anywhere → “Translate to English.” The translation is imperfect but functional enough to fill in every field.
+2. **Use Google Chrome and auto-translate the page.** Right-click anywhere → "Translate to English." The translation is imperfect but functional enough to fill in every field.
 3. **Create an account if the platform requires one.** Some booking sites require registration. Do this the day before so you’re not fumbling with account creation when the clock is ticking.
 4. **Prepare your information in a text file:** Full name (as it appears on your ID), email address, phone number (your international number is fine for most platforms — format it as +[country code][number]), group size (1-2 or 3-4), and your top 3 preferred dates and time slots.
 5. **Set an alarm for 2 minutes before booking opens.** Have the page loaded and ready to go.
@@ -140,7 +140,7 @@ Don’t give up. You have three realistic options:
 
 **Option 1: Check for cancellations.** Visit the booking page every day, especially 24-48 hours before your preferred date. People cancel constantly — schedule changes, flight delays, double bookings. Cancellations appear as newly available slots on the booking page without any separate announcement.
 
-**Option 2: Walk-in on a weekday morning.** Many collab cafes hold back a small number of walk-in slots each day, or open seats that were reserved but not claimed (no-shows). Show up 15-30 minutes before the cafe opens and ask. Your success rate is highest on Tuesday and Wednesday mornings. In Japanese, you can ask: “*tobiiri wa dekimasu ka?*” (飛び入りはできますか？ — Are walk-ins available?).
+**Option 2: Walk-in on a weekday morning.** Many collab cafes hold back a small number of walk-in slots each day, or open seats that were reserved but not claimed (no-shows). Show up 15-30 minutes before the cafe opens and ask. Your success rate is highest on Tuesday and Wednesday mornings. In Japanese, you can ask: "*tobiiri wa dekimasu ka?*" (飛び入りはできますか？ — Are walk-ins available?).
 
 **Option 3: Go during the cafe’s final days.** Counterintuitively, the last 2-3 days of a collab cafe run sometimes have better availability than the opening week. The initial hype fades, and some fans who booked multiple visits cancel their later reservations. Check the booking page — you might find open slots for the final weekend.
 

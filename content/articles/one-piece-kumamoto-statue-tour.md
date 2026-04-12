@@ -44,7 +44,7 @@ The statue is 174 centimeters tall (Luffy’s canonical height) and made of bron
 
 | **Location** | Kumamoto Prefectural Government Office, 6-18-1 Suizenji, Chuo-ku, Kumamoto |
 | --- | --- |
-| **Access** | Kumamoto City Tram — “Kencho-mae” (県庁前) stop, then 1 min walk |
+| **Access** | Kumamoto City Tram — "Kencho-mae" (県庁前) stop, then 1 min walk |
 | **Hours** | 24/7 outdoor access (the statue is in the open promenade) |
 | **Cost** | Free |
 
@@ -53,7 +53,7 @@ Chopper stands at the main entrance of Kumamoto City Zoological and Botanical Ga
 
 If you have time, the zoo itself is a pleasant stop — well-maintained with a botanical garden section that’s particularly nice in spring. But even if you just want the photo, the statue is accessible without entering the zoo.
 
-| **Access** | Kumamoto City Tram to “Doubutsuen-iriguchi” (動植物園入口) stop, then 5 min walk |
+| **Access** | Kumamoto City Tram to "Doubutsuen-iriguchi" (動植物園入口) stop, then 5 min walk |
 | --- | --- |
 | **Cost** | Statue: Free (outside the gate). Zoo admission: ¥500 (adults) if you want to enter. |
 
@@ -94,7 +94,7 @@ Rent from **Kumamoto Station** — several major rental companies (Toyota, Nippo
 ### Option 2: Public Transport + Walking
 You can visit 5-6 statues by public transport without too much difficulty: Luffy, Chopper (both in Kumamoto city by tram), Usopp (Aso Station), Franky (Takamori Station), and Zoro (Higo-Ozu Station). The remaining statues require bus connections with infrequent schedules — possible but requires careful timetable planning.
 
-Budget 3-4 days to visit all ten by public transport. The blog “Higo Journal” has documented the full route by public transport — it’s doable but requires patience.
+Budget 3-4 days to visit all ten by public transport. The blog "Higo Journal" has documented the full route by public transport — it’s doable but requires patience.
 
 ### Option 3: Guided Tour
 Private guides and tour services offer One Piece statue tour packages. This is the stress-free option — someone drives you to all ten, handles the navigation, and often includes stops at Kumamoto Castle and local restaurants. Prices vary, but expect ¥15,000–30,000 per person for a full-day tour.
@@ -145,7 +145,7 @@ The connection between the castle’s reconstruction and the One Piece statues i
 
 | **Admission** | ¥800 |
 | --- | --- |
-| **Access** | Kumamoto City Tram — “Kumamotojo-mae” stop, then 10 min walk |
+| **Access** | Kumamoto City Tram — "Kumamotojo-mae" stop, then 10 min walk |
 | **Hours** | 9:00–17:00 (last entry 16:30) |
 | **Best time** | Late March – early April for cherry blossoms |
 
@@ -219,5 +219,30 @@ Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and 
 
 Follow for weekly collab cafe updates & Japan pop culture content.
 
+<div className="jpn-tip">
+
+**Tip:** Plan your itinerary in advance and use Google Maps offline mode for areas with poor cell coverage.
+
+</div>
+
+
+<div className="jpn-faq">
+
+### FAQ?
+### Is this guide updated for 2026?
+Yes. We update this content weekly based on real visits and current information.
+
+### What's the best time of year to visit?
+Spring (March–May) and autumn (September–November) offer the best weather and lowest crowds compared to summer and winter peak seasons.
+
+</div>
+
+
 ### Explore by Area
 [🗼 Tokyo](/tag/tokyo/)[🏪 Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[👥 Shibuya](/shibuya-anime-spots-guide/)[🎮 Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[🌆 Osaka](/osaka-anime-guide-2025/)🏯 Kyoto (Coming Soon)
+
+<div className="jpn-cta">
+
+Ready to plan your trip? Browse anime events in Japan on our [Event Calendar](/calendar).
+
+</div>

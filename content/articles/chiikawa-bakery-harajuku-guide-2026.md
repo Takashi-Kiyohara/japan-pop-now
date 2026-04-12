@@ -151,6 +151,13 @@ Yes. Character goods and packaged rusks are on the same floor with no minimum pu
 
 </div>
 
+<div className="jpn-tip">
+
+**Tip:** Plan your itinerary in advance and use Google Maps offline mode for areas with poor cell coverage.
+
+</div>
+
+
 ## More collab cafe guides
 
 - [Tokyo Anime Collab Cafes Spring 2026](/articles/tokyo-anime-collab-cafes-spring-2026/)

@@ -117,7 +117,7 @@ Japan’s payment system is split between cash, credit cards, and IC cards (prep
 ### Download Essential Apps Now
 Download and set up these apps before you travel. They work even without internet if you download maps/data beforehand:
 
-- **Google Maps:** Download offline maps for Tokyo, Kyoto, and Osaka. Go to your destination, tap it, select “Download.” This works without data connection.
+- **Google Maps:** Download offline maps for Tokyo, Kyoto, and Osaka. Go to your destination, tap it, select "Download." This works without data connection.
 - **Google Translate Camera:** Point your phone at menu text, shop signs, or bromide cards and it translates instantly. major upgrade for understanding limited edition merch descriptions.
 - **Japan Official Travel App:** The JNTO app has restaurant info, event listings, and location guides. Less useful than Google Maps, but good for vetting restaurants.
 - **Japan Transit:** [Hyperdia](https://www.hyperdia.com) (free app) is the most detailed train and Shinkansen scheduling tool. It calculates exact fares, transfer times, and platform numbers.
@@ -282,5 +282,30 @@ Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and 
 
 Follow for weekly collab cafe updates & Japan pop culture content.
 
+<div className="jpn-tip">
+
+**Tip:** Download the Suica IC card app before your trip. Many international Suica cards require pre-registration.
+
+</div>
+
+
+<div className="jpn-faq">
+
+### FAQ?
+### Do I need a visa to visit Japan?
+Most visitors from US, EU, UK, Canada, Australia, and New Zealand get 90 days visa-free under the Temporary Visitor status.
+
+### What should I download before arriving?
+Google Maps (download offline maps), Google Translate, Suica app, LINE, and your airline's app.
+
+</div>
+
+
 ### Explore by Area
 [🗼 Tokyo](/tag/tokyo/)[🏪 Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[👥 Shibuya](/shibuya-anime-spots-guide/)[🎮 Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[🌆 Osaka](/osaka-anime-guide-2025/)🏯 Kyoto (Coming Soon)
+
+<div className="jpn-cta">
+
+Ready to plan your trip? Browse anime events in Japan on our [Event Calendar](/calendar).
+
+</div>
