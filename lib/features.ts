@@ -10,6 +10,8 @@ export interface Feature {
   /** Tags used to match articles to this feature */
   tags: string[];
   active: boolean;
+  /** Optional cover image path for OG image */
+  cover?: string;
 }
 
 export const FEATURES: Feature[] = [

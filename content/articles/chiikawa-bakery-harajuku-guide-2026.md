@@ -18,7 +18,7 @@ wpPostId: 840
 
 ![Chiikawa Bakery Harajuku interior with character bread display and plush decor](/images/articles/chiikawa-bakery-harajuku-guide-2026/featured.jpg)
 
-**Chiikawa Bakery is the official permanent bakery for the Chiikawa (ちいかわ) series, located on the 3rd floor of Tokyu Plaza Omotesando in Harajuku, Tokyo.** Open since March 2023 with no announced closing date — this is a permanent venue, not a limited-time pop-up. It runs 11:00–20:00 (last entry 19:30), character-shaped breads cost ¥580 each, and entry is reservation-first via Lawson Ticket — though weekday afternoons after 15:00 accept walk-ins when capacity allows.
+**Chiikawa Bakery is a collaboration bakery for the Chiikawa (ちいかわ) series, located on the 3rd floor of Tokyu Plaza Omotesando in Harajuku, Tokyo.** Running through 2026, it operates 11:00–20:00 (last entry 19:30), character-shaped breads cost ¥580 each, and entry is reservation-first via Lawson Ticket — though weekday afternoons after 15:00 accept walk-ins when capacity allows.
 
 I visited on a weekday morning in April 2026 after 20 minutes in line without a reservation. Here is the part most English guides skip: the ¥1,000 "Advance reservation ticket with shopping voucher" on Lawson Ticket is **not** a separate cost. It is literally ¥1,000 you can spend inside the store. If you plan to buy more than ¥1,000 of bread and drinks — which is almost anyone walking through the door — the reservation ticket is free priority entry with a money-back guarantee.
 
