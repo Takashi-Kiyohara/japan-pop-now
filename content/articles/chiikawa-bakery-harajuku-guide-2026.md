@@ -78,9 +78,6 @@ The menu is long and the prices look small, but it adds up fast. Here is how to 
 
 **Drinks: keep it simple.** Iced Coffee (¥590) or Iced Café Latte (¥690) are the steady choices. The Sakura Soda (¥690) runs through spring and is worth trying if you visit in April or May.
 
-![Two Chiikawa Bakery drinks — iced tea and iced café latte — held up at the counter](/images/articles/chiikawa-bakery-harajuku-guide-2026/03.jpg)
-*Iced tea (left) and iced café latte (right) in Chiikawa Bakery logo cups. Photo: Japan Pop Now*
-
 **Realistic first-visit spend: ¥2,000–¥2,800 per person.** One character bread, one drink, one souvenir rusk or financier. If you hold the Lawson Ticket voucher, you recover ¥1,000 of that.
 
 ## Rules international visitors miss
@@ -160,6 +157,9 @@ Yes. Character goods and packaged rusks are on the same floor with no minimum pu
 
 </div>
 
+
+![Two Chiikawa Bakery drinks — iced tea and iced café latte — held up at the counter with Moe in the background](/images/articles/chiikawa-bakery-harajuku-guide-2026/03.jpg)
+*One last look: iced tea and café latte in Chiikawa Bakery cups. If you made it this far in the article, you already know the reservation trick. Photo: Japan Pop Now*
 
 ## More collab cafe guides
 
