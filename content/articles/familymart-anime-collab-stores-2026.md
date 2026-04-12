@@ -1,13 +1,13 @@
 ---
-title: "FamilyMart Anime Collab Stores Japan 2026"
-description: "FamilyMart anime collab stores Japan 2026: exclusive merch, limited editions, location finder, and the current campaign rotation schedule."
+title: "FamilyMart Anime Collab Stores: Japan’s Newest Trend (2026)"
+description: "Last updated: April 2026 FamilyMart Anime Collab Stores: Japan’s Newest Trend (2026) FamilyMart just cracked the code on making convenience stores into tourist..."
 date: "2026-04-03"
 category: "collab-cafes"
 tags: []
 featuredImage: "/images/articles/familymart-anime-collab-stores-2026/featured.jpg"
 featuredImageAlt: "FamilyMart convenience store at night near Sunshine City Ikebukuro"
 author: "Japan Pop Now"
-excerpt: "FamilyMart anime collab stores in Japan: exclusive merchandise, limited editions, location finder, character exclusivity, and 2026 campaign rotation schedule."
+excerpt: "Last updated: April 2026 FamilyMart Anime Collab Stores: Japan’s Newest Trend (2026) FamilyMart just cracked the code on making convenience stores into tourist..."
 relatedSlugs: []
 wpPostId: 608
 ---
@@ -123,7 +123,10 @@ Lawson runs smaller collabs (2–3 weeks, focus on food items, less store redesi
 - [Lawson Ticket & Loppi Guide](/lawson-ticket-loppi-guide/)
 - [Collab Cafe Calendar](/collab-cafe-calendar/)
 
-Follow [@pop_now_jp](https://www.instagram.com/pop_now_jp/) for weekly updates.
+Follow [@japan_pop_now](https://www.instagram.com/japan_pop_now/) for weekly updates.
+
+☕
+
 Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
@@ -135,3 +138,5 @@ Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and 
 
 Follow for weekly collab cafe updates & Japan pop culture content.
 
+### Explore by Area
+[🗼 Tokyo](/tag/tokyo/)[🏪 Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[👥 Shibuya](/shibuya-anime-spots-guide/)[🎮 Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[🌆 Osaka](/osaka-anime-guide-2025/)🏯 Kyoto (Coming Soon)

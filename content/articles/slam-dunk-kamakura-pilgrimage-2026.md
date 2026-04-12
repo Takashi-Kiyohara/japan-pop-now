@@ -1,13 +1,13 @@
 ---
-title: "Slam Dunk Kamakura Pilgrimage 2026: Famous Crossing"
-description: "Slam Dunk Kamakura pilgrimage: verified school and street locations, local temple history, train access, sports shops, and iconic photo opportunities."
+title: "Slam Dunk Kamakura Pilgrimage 2026: The Famous Crossing & Beyond"
+description: "Last updated: April 2026. The Kamakurakokomae No.1 Railroad Crossing â Slam Dunk’s most iconic real-world location, with the Shonan coast stretching behind..."
 date: "2026-04-05"
 category: "anime-pilgrimage"
 tags: []
 featuredImage: "/images/articles/slam-dunk-kamakura-pilgrimage-2026/featured.jpg"
 featuredImageAlt: "Kamakura Koko-mae station railroad crossing from Slam Dunk"
 author: "Japan Pop Now"
-excerpt: "Slam Dunk Kamakura pilgrimage: verified school and street locations, local temple history, train access, sports shops, and iconic photo opportunities."
+excerpt: "Last updated: April 2026. The Kamakurakokomae No.1 Railroad Crossing â Slam Dunk’s most iconic real-world location, with the Shonan coast stretching behind..."
 relatedSlugs: []
 wpPostId: 751
 ---
@@ -220,7 +220,10 @@ Kamakura makes a perfect anime day trip from Tokyo. See our [Complete Guide to A
 - [One Piece Kumamoto Statue Tour: All Locations & Access](/one-piece-kumamoto-statue-tour/)
 - [Japan Rail Pass 2026: Is It Worth It?](/japan-rail-pass-2026-guide/)
 
-**Follow [@pop_now_jp on Instagram](https://www.instagram.com/pop_now_jp/)** for daily Tokyo pop culture updates.
+**Follow [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)** for daily Tokyo pop culture updates.
+
+☕
+
 Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
@@ -235,3 +238,5 @@ Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and 
 
 Follow for weekly collab cafe updates & Japan pop culture content.
 
+### Explore by Area
+[🗼 Tokyo](/tag/tokyo/)[🏪 Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[👥 Shibuya](/shibuya-anime-spots-guide/)[🎮 Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[🌆 Osaka](/osaka-anime-guide-2025/)🏯 Kyoto (Coming Soon)

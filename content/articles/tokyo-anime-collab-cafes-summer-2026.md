@@ -1,13 +1,13 @@
 ---
-title: "Tokyo Anime Collab Cafes Summer 2026: Open Now"
-description: "Tokyo anime collab cafes summer 2026: live exhibit list, reservation methods, themed menu prices, location map, and the must-book shows of the season."
+title: "Tokyo Anime Collab Cafes Summer 2026: What’s Open & How to Book"
+description: "Last updated: April 2026. Tokyo’s collab cafe scene rotates constantly â there are usually 15-20 anime-themed cafes running at any given time across the..."
 date: "2026-04-05"
 category: "collab-cafes"
 tags: []
 featuredImage: "/images/articles/tokyo-anime-collab-cafes-summer-2026/featured.jpg"
 featuredImageAlt: "Rainbow Bridge and Tokyo Harbor summer cityscape"
 author: "Japan Pop Now"
-excerpt: "Tokyo anime collaboration cafes spring/summer 2026: real-time guide to current exhibits, reservation methods, menu pricing, and themed location directory."
+excerpt: "Last updated: April 2026. Tokyo’s collab cafe scene rotates constantly â there are usually 15-20 anime-themed cafes running at any given time across the..."
 relatedSlugs: []
 wpPostId: 752
 ---
@@ -201,7 +201,10 @@ If collab cafes are only one part of your trip, use the hub below to pick the be
 - [Akihabara Complete Guide 2026](/akihabara-complete-guide/)
 - [Ikebukuro Anime Guide 2026](/ikebukuro-anime-guide/)
 
-**Follow [@pop_now_jp on Instagram](https://www.instagram.com/pop_now_jp/)** for daily Tokyo pop culture updates.
+**Follow [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)** for daily Tokyo pop culture updates.
+
+☕
+
 Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
@@ -216,3 +219,5 @@ Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and 
 
 Follow for weekly collab cafe updates & Japan pop culture content.
 
+### Explore by Area
+[🗼 Tokyo](/tag/tokyo/)[🏪 Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[👥 Shibuya](/shibuya-anime-spots-guide/)[🎮 Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[🌆 Osaka](/osaka-anime-guide-2025/)🏯 Kyoto (Coming Soon)

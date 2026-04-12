@@ -26,8 +26,6 @@ It is also one of the clearest ways to connect anime travel with the broader shi
 
 ## Universal Cool Japan 2026 at a glance
 
-<div class="jpn-info-box">
-
 | **Item** | **Details** |
 | --- | --- |
 | Event | Universal Cool Japan 2026 |
@@ -37,7 +35,6 @@ It is also one of the clearest ways to connect anime travel with the broader shi
 | Experience types | 4-D ride, story ride, immersive theater, mystery restaurant, dining experience |
 | Strongest use case | Osaka or Kansai-based anime trip planning |
 
-</div>
 ## Which franchises are included?
 
 ![Which franchises are included? — Universal Cool Japan 2026 Guide](/images/articles/universal-cool-japan-2026-guide/2.jpg)

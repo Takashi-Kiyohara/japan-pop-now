@@ -28,8 +28,6 @@ Third, it has value beyond hardcore fans. The official announcement also highlig
 
 ## AnimeJapan 2026 at a glance
 
-<div class="jpn-info-box">
-
 | **Item** | **Details** |
 | --- | --- |
 | Event | AnimeJapan 2026 |
@@ -40,7 +38,6 @@ Third, it has value beyond hardcore fans. The official announcement also highlig
 | Family option | Family Anime Festa 2026 will be held alongside the main event |
 | Best for | Anime fans, first-time Tokyo visitors, families, collectors, spring trip planners |
 
-</div>
 ## Where is AnimeJapan 2026 held?
 AnimeJapan 2026 will take place at **Tokyo Big Sight**, Tokyo’s best-known convention venue. According to the official tourism listing, the event area covers **East 4-8 halls**, **South 1-4 halls**, and the **rooftop exhibition area**.[1]
 

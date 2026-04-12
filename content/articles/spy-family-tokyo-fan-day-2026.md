@@ -1,13 +1,13 @@
 ---
 title: "SPY×FAMILY Tokyo Fan Day: Events, Shops & Cafes (2026)"
-description: "SPY×FAMILY Tokyo Fan Day 2026: events, themed shops, collab cafes, exclusive merch drops, and the best one-day route for SPY×FAMILY fans in the city."
+description: "Last updated: April 2026 SPY×FAMILY Tokyo Fan Day: Events, Shops & Cafes SPY×FAMILY is everywhere in Tokyo right now. The anime has crossed over from obsessed..."
 date: "2026-04-03"
 category: "collab-cafes"
 tags: []
 featuredImage: "/images/articles/spy-family-tokyo-fan-day-2026/featured.jpg"
 featuredImageAlt: "Tokyo Skytree tower for SPY x FAMILY events and shops nearby"
 author: "Japan Pop Now"
-excerpt: "Complete SPY×FAMILY Tokyo Fan Day: Events, Shops & Cafes (2026): guide with practical tips, 2026 details, and what you need to know."
+excerpt: "Last updated: April 2026 SPY×FAMILY Tokyo Fan Day: Events, Shops & Cafes SPY×FAMILY is everywhere in Tokyo right now. The anime has crossed over from obsessed..."
 relatedSlugs: []
 wpPostId: 607
 ---
@@ -150,7 +150,10 @@ The items themselves are cheap (¥150–¥600 for the qualifying purchase) but t
 - [Ikebukuro Anime Guide 2026](/ikebukuro-anime-guide-2026/)
 - [Anime Merch Shopping Guide Japan](/anime-merch-shopping-guide/)
 
-Follow [@pop_now_jp](https://www.instagram.com/pop_now_jp/) for weekly updates on SPY×FAMILY events and Tokyo anime news.
+Follow [@japan_pop_now](https://www.instagram.com/japan_pop_now/) for weekly updates on SPY×FAMILY events and Tokyo anime news.
+
+☕
+
 Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
@@ -162,3 +165,5 @@ Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and 
 
 Follow for weekly collab cafe updates & Japan pop culture content.
 
+### Explore by Area
+[🗼 Tokyo](/tag/tokyo/)[🏪 Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[👥 Shibuya](/shibuya-anime-spots-guide/)[🎮 Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[🌆 Osaka](/osaka-anime-guide-2025/)🏯 Kyoto (Coming Soon)

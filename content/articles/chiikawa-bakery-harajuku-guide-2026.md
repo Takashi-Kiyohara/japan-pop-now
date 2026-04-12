@@ -119,7 +119,7 @@ That emotional layer is why the bakery functions as a quiet pilgrimage, not just
 
 ## Frequently Asked Questions
 
-<div class="jpn-faq">
+<div className="jpn-faq">
 
 ### Do I need a reservation?
 
@@ -158,4 +158,4 @@ Yes. Character goods and packaged rusks are on the same floor with no minimum pu
 - [Lawson Ticket Anime Cafe Booking Guide](/articles/lawson-ticket-anime-cafe-booking/)
 - [Animate Cafe Guide Japan](/articles/animate-cafe-guide-japan/)
 
-<div class="jpn-cta"><p><strong>Follow <a href="https://www.instagram.com/japan_pop_now/" rel="nofollow" target="_blank">@japan_pop_now on Instagram</a></strong> for real-time Tokyo pop culture updates — new collab cafes every week.</p></div>
+<div className="jpn-cta"><p><strong>Follow <a href="https://www.instagram.com/japan_pop_now/" rel="nofollow" target="_blank">@japan_pop_now on Instagram</a></strong> for real-time Tokyo pop culture updates — new collab cafes every week.</p></div>

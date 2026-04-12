@@ -1,13 +1,13 @@
 ---
-title: "Ship Anime Figures & Merch Home from Japan: 2026 Guide"
-description: "Ship anime figures and merchandise home from Japan: international forwarding services, customs forms, carrier options, shipping costs, and delivery times."
+title: "How to Ship Anime Figures & Merch Home from Japan: Complete Guide (2026)"
+description: "Last updated: April 2026. Disclosure: This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you...."
 date: "2026-04-02"
 category: "travel-tips"
 tags: []
 featuredImage: "/images/articles/ship-anime-figures-merch-home-japan/featured.jpg"
 featuredImageAlt: "Yamato Transport Kuroneko delivery truck for shipping anime merch from Japan"
 author: "Japan Pop Now"
-excerpt: "Ship anime figures and merchandise home from Japan: international forwarding services, customs forms, carrier options, shipping costs, and delivery times."
+excerpt: "Last updated: April 2026. Disclosure: This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you...."
 relatedSlugs: []
 wpPostId: 540
 ---
@@ -98,9 +98,6 @@ The actual process: Sign up (free), add funds via PayPal or credit card, find it
 
 Insurance varies. Buyee includes 5,000 yen of shipping insurance. ZenMarket includes 2,000 yen. If you’re buying collectibles worth 50,000+ yen, pay for extra insurance (usually 1,000 yen per 10,000 yen of value). Items do get damaged. I once received a sealed figure with a crushed corner. The proxy service’s basic insurance didn’t cover it fully, but additional insurance would have.
 
-
-![Packing tape being applied to a cardboard shipping box stacked with protective wrap](/images/articles/ship-anime-figures-merch-home-japan/body3.jpg)
-
 ## Option 5: Just Check Extra Luggage
 Sometimes the simplest solution is boring logistics. If you’re flying from Tokyo back home, checking an extra suitcase might be cheaper than shipping.
 
@@ -164,9 +161,6 @@ This is where care saves money. A carelessly packed figure arrives as plastic sh
 
 ![Shipping packages from Japan post office for anime merch](https://images.unsplash.com/photo-1586953208448-b95a79798f07?w=800&h=500&fit=crop&q=80)Japan Post remains the most popular option for shipping anime goods overseas
 Photo: Magic Mary / Unsplash
-
-![Boxed collectible anime figure ready for international shipping](/images/articles/ship-anime-figures-merch-home-japan/body4.jpg)
-
 ## Tax-Free Shopping in Japan: How It Works for Tourists
 If you’re a tourist (non-resident), you can get tax-free shopping at many retailers. This saves 10% on your purchases if you’re buying above a certain threshold.
 
@@ -213,7 +207,10 @@ One more thing: take photos of your collection before you pack it. Just in case 
 - [eSIM vs Pocket WiFi Guide](/japan-esim-pocket-wifi-sim-card-guide/)
 - [Japan Rail Pass Guide](/japan-rail-pass-guide-anime-fans/)
 
-**Follow [@pop_now_jp on Instagram](https://www.instagram.com/pop_now_jp/)** for daily Tokyo pop culture updates.
+**Follow [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)** for daily Tokyo pop culture updates.
+
+☕
+
 Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
@@ -225,3 +222,5 @@ Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and 
 
 Follow for weekly collab cafe updates & Japan pop culture content.
 
+### Explore by Area
+[🗼 Tokyo](/tag/tokyo/)[🏪 Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[👥 Shibuya](/shibuya-anime-spots-guide/)[🎮 Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[🌆 Osaka](/osaka-anime-guide-2025/)🏯 Kyoto (Coming Soon)
