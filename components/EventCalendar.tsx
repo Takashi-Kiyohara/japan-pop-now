@@ -97,14 +97,7 @@ function EventCard({ event }: { event: CollabEvent }) {
         transition: 'box-shadow 0.2s ease, border-color 0.2s ease',
         cursor: 'pointer',
       }}
-      onMouseEnter={(e) => {
-        (e.currentTarget as HTMLDivElement).style.boxShadow = '0 4px 16px rgba(0,0,0,0.08)';
-        (e.currentTarget as HTMLDivElement).style.borderColor = '#fb923c';
-      }}
-      onMouseLeave={(e) => {
-        (e.currentTarget as HTMLDivElement).style.boxShadow = 'none';
-        (e.currentTarget as HTMLDivElement).style.borderColor = '#e7e5e4';
-      }}
+      className="event-card-hover"
     >
       {/* Thumbnail */}
       <div style={{ flexShrink: 0, width: 96, height: 72, borderRadius: '8px', overflow: 'hidden', background: '#f5f5f4' }}>

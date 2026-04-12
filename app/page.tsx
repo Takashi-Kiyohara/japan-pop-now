@@ -144,8 +144,7 @@ export default function Home() {
               gap: '6px',
               transition: 'opacity 0.2s',
             }}
-            onMouseEnter={(e) => (e.currentTarget.style.opacity = '0.85')}
-            onMouseLeave={(e) => (e.currentTarget.style.opacity = '1')}
+            className="homepage-browse-link"
           >
             Browse Events →
           </Link>
