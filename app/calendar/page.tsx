@@ -1,69 +1,297 @@
-import { Metadata } from 'next';
-import Breadcrumb from '@/components/Breadcrumb';
+/**
+ * app/calendar/page.tsx — Collab Cafe Calendar
+ * Server component. Revalidates every hour.
+ */
+
+import type { Metadata } from 'next';
 import EventCalendar from '@/components/EventCalendar';
-import { getAllEvents, getEventStatus, getCalendarItemListSchema } from '@/lib/events';
+import { getAllEvents, getUpcomingAndOngoing, getCalendarItemListSchema } from '@/lib/events';
 
 export const revalidate = 3600;
 
 export const metadata: Metadata = {
-  title: 'Anime Collab Cafe Calendar — Japan Pop Now',
+  title: 'Anime Collab Cafe Calendar Japan 2026 | Japan Pop Now',
   description:
-    "What's happening in Japan's anime collab cafe scene right now? Browse ongoing and upcoming collaboration cafes and pop-culture events — updated twice a month.",
-  alternates: { canonical: 'https://www.japan-pop-now.com/calendar' },
+    'Real-time tracker of anime collaboration cafes open in Japan right now — collab cafes, pop-ups, and permanent venues. Updated weekly. English-language guide.',
   openGraph: {
-    title: 'Anime Collab Cafe Calendar — Japan Pop Now',
-    description: "Ongoing and upcoming anime collab cafes and events in Japan.",
-    type: 'website',
+    title: 'Anime Collab Cafe Calendar Japan 2026',
+    description:
+      'The only English-language tracker of anime collab cafes in Japan. See what\'s open now, opening soon, and recently ended.',
     url: 'https://www.japan-pop-now.com/calendar',
-    images: [{ url: 'https://www.japan-pop-now.com/og-image.png', width: 1200, height: 630 }],
+    type: 'website',
   },
-  twitter: { card: 'summary_large_image', title: 'Anime Collab Cafe Calendar — Japan Pop Now', site: '@pop_now_jp' },
+  alternates: {
+    canonical: 'https://www.japan-pop-now.com/calendar',
+  },
 };
 
+const SITE_URL = 'https://www.japan-pop-now.com';
+
 export default function CalendarPage() {
-  const allEvents = getAllEvents();
-  const today = new Date();
+  const { ongoing, openingSoon, permanent, recentlyEnded } = getUpcomingAndOngoing(14);
 
-  const active = allEvents
-    .filter((e) => getEventStatus(e, today) !== 'ended')
-    .sort((a, b) => a.startDate.localeCompare(b.startDate));
+  // JSON-LD: all visible events for AI Overview eligibility
+  const visibleEvents = [...ongoing, ...openingSoon, ...permanent];
+  const schema = getCalendarItemListSchema(visibleEvents, SITE_URL);
 
-  const itemListSchema = getCalendarItemListSchema(active);
-
-  const breadcrumbs = [
-    { label: 'Home', href: '/' },
-    { label: 'Calendar', href: '/calendar' },
-  ];
+  const totalOpen = ongoing.length + permanent.length;
 
   return (
     <>
+      {/* JSON-LD */}
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(itemListSchema) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
       />
-      <main style={{ maxWidth: '1200px', margin: '0 auto', padding: '24px 16px 64px' }}>
-        <Breadcrumb items={breadcrumbs} />
 
-        <div style={{ marginBottom: '32px' }}>
-          <h1 style={{ fontSize: 'clamp(22px, 4vw, 32px)', fontWeight: 800, margin: '0 0 8px', color: '#1c1917' }}>
-            Anime Collab Cafe Calendar 🗓
+      <main className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-10">
+        {/* Page header */}
+        <div style={{ marginBottom: '2rem' }}>
+          <div
+            style={{
+              display: 'inline-flex',
+              alignItems: 'center',
+              gap: '8px',
+              fontSize: '0.75rem',
+              fontWeight: 700,
+              letterSpacing: '0.08em',
+              color: '#ea580c',
+              textTransform: 'uppercase',
+              marginBottom: '0.5rem',
+            }}
+          >
+            <span
+              style={{
+                display: 'inline-block',
+                width: 8,
+                height: 8,
+                borderRadius: '50%',
+                background: '#22c55e',
+                animation: 'pulse 2s infinite',
+              }}
+            />
+            Live Tracker
+          </div>
+
+          <h1
+            style={{
+              fontFamily: 'var(--font-display, "Playfair Display", Georgia, serif)',
+              fontSize: 'clamp(1.6rem, 4vw, 2.4rem)',
+              fontWeight: 800,
+              color: '#14213d',
+              lineHeight: 1.15,
+              marginBottom: '0.75rem',
+            }}
+          >
+            Anime Collab Cafe Calendar 2026
           </h1>
-          <p style={{ margin: 0, fontSize: '14px', color: '#78716c', lineHeight: 1.6 }}>
-            Ongoing &amp; upcoming collaboration cafes and anime events in Japan.
-            Updated twice a month. Click any card for the official site in English.
+
+          <p
+            style={{
+              fontSize: '1rem',
+              color: '#57534e',
+              maxWidth: '60ch',
+              lineHeight: 1.6,
+              marginBottom: '1rem',
+            }}
+          >
+            Every anime collaboration cafe, pop-up, and themed venue open in Japan right now.
+            The only English-language real-time tracker — updated weekly.
           </p>
+
+          {/* Summary stats */}
+          <div style={{ display: 'flex', gap: '12px', flexWrap: 'wrap' }}>
+            <StatPill value={totalOpen} label="Open now" color="#22c55e" />
+            <StatPill value={openingSoon.length} label="Opening soon" color="#eab308" />
+            <StatPill value={permanent.length} label="Permanent venues" color="#0ea5e9" />
+          </div>
         </div>
 
-        <EventCalendar
-          events={active}
-          emptyMessage="No events right now — check back soon!"
-          referenceDate={today}
-        />
+        {/* Update notice */}
+        <div
+          style={{
+            background: '#fff7ed',
+            border: '1px solid #fed7aa',
+            borderRadius: '8px',
+            padding: '10px 14px',
+            marginBottom: '2rem',
+            fontSize: '0.82rem',
+            color: '#9a3412',
+          }}
+        >
+          <strong>How to use this page:</strong> Bookmark before your trip and check the week you arrive.
+          Dates and availability change fast — always verify via the official site before booking.
+          Reservation links open in a new tab.
+        </div>
 
-        <p style={{ marginTop: '40px', fontSize: '12px', color: '#a8a29e', textAlign: 'center' }}>
-          Links open via Google Translate (ja → en). Updated manually ~twice a month.
-        </p>
+        {/* Two-column layout on desktop */}
+        <div className="calendar-grid" style={{ display: 'grid', gridTemplateColumns: 'minmax(0,1fr) 300px', gap: '2rem', alignItems: 'start' }}>
+          {/* Main calendar */}
+          <div>
+            <EventCalendar
+              ongoing={ongoing}
+              openingSoon={openingSoon}
+              permanent={permanent}
+              recentlyEnded={recentlyEnded}
+            />
+          </div>
+
+          {/* Sidebar */}
+          <aside className="calendar-sidebar" style={{ position: 'sticky', top: '80px' }}>
+            <SidebarGuides />
+          </aside>
+        </div>
       </main>
+
+      <style>{`
+        @media (max-width: 768px) {
+          .calendar-grid { grid-template-columns: 1fr !important; }
+          .calendar-sidebar { display: none !important; }
+        }
+        @keyframes pulse {
+          0%, 100% { opacity: 1; }
+          50% { opacity: 0.4; }
+        }
+      `}</style>
     </>
+  );
+}
+
+// ─── Helper: Stat Pill ──────────────────────────────────────────────────────────
+function StatPill({ value, label, color }: { value: number; label: string; color: string }) {
+  return (
+    <div
+      style={{
+        display: 'inline-flex',
+        alignItems: 'center',
+        gap: '6px',
+        background: '#fff',
+        border: '1px solid #e7e5e4',
+        borderRadius: '8px',
+        padding: '6px 12px',
+        fontSize: '0.82rem',
+      }}
+    >
+      <span style={{ fontWeight: 800, color, fontSize: '1rem' }}>{value}</span>
+      <span style={{ color: '#78716c' }}>{label}</span>
+    </div>
+  );
+}
+
+// ─── Sidebar: Related Guides ────────────────────────────────────────────────────
+function SidebarGuides() {
+  const links = [
+    {
+      href: '/articles/how-to-book-anime-collab-cafe-japan',
+      title: 'How to Book Anime Collab Cafes',
+      desc: 'Step-by-step reservation guide',
+    },
+    {
+      href: '/articles/lawson-ticket-anime-cafe-booking',
+      title: 'Lawson Ticket Booking Guide',
+      desc: 'Book from outside Japan',
+    },
+    {
+      href: '/articles/tokyo-anime-collab-cafes-spring-2026',
+      title: 'Tokyo Spring 2026 Cafes',
+      desc: 'Full city breakdown',
+    },
+    {
+      href: '/articles/chiikawa-bakery-harajuku-guide-2026',
+      title: 'Chiikawa Bakery Guide',
+      desc: 'Reservation tips + real visit notes',
+    },
+    {
+      href: '/articles/animate-cafe-guide-japan',
+      title: 'Animate Cafe Guide',
+      desc: 'Japan\'s largest collab cafe chain',
+    },
+  ];
+
+  return (
+    <div
+      style={{
+        background: '#fff',
+        border: '1px solid #e7e5e4',
+        borderRadius: '12px',
+        padding: '16px',
+      }}
+    >
+      <p
+        style={{
+          fontSize: '0.7rem',
+          fontWeight: 700,
+          letterSpacing: '0.08em',
+          textTransform: 'uppercase',
+          color: '#78716c',
+          marginBottom: '12px',
+        }}
+      >
+        Planning Guides
+      </p>
+      <div style={{ display: 'flex', flexDirection: 'column', gap: '10px' }}>
+        {links.map((l) => (
+          <a
+            key={l.href}
+            href={l.href}
+            style={{
+              textDecoration: 'none',
+              display: 'block',
+              padding: '8px 10px',
+              borderRadius: '8px',
+              background: '#fafaf9',
+              border: '1px solid #f5f5f4',
+              transition: 'border-color 0.15s ease',
+            }}
+            onMouseEnter={(e) => {
+              (e.currentTarget as HTMLAnchorElement).style.borderColor = '#fb923c';
+            }}
+            onMouseLeave={(e) => {
+              (e.currentTarget as HTMLAnchorElement).style.borderColor = '#f5f5f4';
+            }}
+          >
+            <p style={{ margin: '0 0 2px', fontSize: '0.82rem', fontWeight: 600, color: '#14213d' }}>
+              {l.title}
+            </p>
+            <p style={{ margin: 0, fontSize: '0.72rem', color: '#78716c' }}>{l.desc}</p>
+          </a>
+        ))}
+      </div>
+
+      {/* Newsletter CTA */}
+      <div
+        style={{
+          marginTop: '16px',
+          background: '#14213d',
+          borderRadius: '8px',
+          padding: '12px',
+          textAlign: 'center',
+        }}
+      >
+        <p style={{ margin: '0 0 4px', fontSize: '0.82rem', fontWeight: 700, color: '#fff' }}>
+          New cafes every week
+        </p>
+        <p style={{ margin: '0 0 8px', fontSize: '0.72rem', color: '#94a3b8' }}>
+          Follow us for real-time updates
+        </p>
+        <a
+          href="https://www.instagram.com/japan_pop_now/"
+          target="_blank"
+          rel="nofollow noopener noreferrer"
+          style={{
+            display: 'block',
+            background: '#f97316',
+            color: '#fff',
+            fontWeight: 700,
+            fontSize: '0.78rem',
+            padding: '7px',
+            borderRadius: '6px',
+            textDecoration: 'none',
+          }}
+        >
+          @japan_pop_now →
+        </a>
+      </div>
+    </div>
   );
 }

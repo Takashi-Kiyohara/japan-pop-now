@@ -1,18 +1,9 @@
 import Link from 'next/link';
-import { Coffee, MapPin, Map, Compass } from 'lucide-react';
-import type { LucideIcon } from 'lucide-react';
 import { ArticleMeta } from '@/lib/articles';
 import { CATEGORIES } from '@/lib/categories';
 import ArticleCard from './ArticleCard';
 import AdUnit from './AdUnit';
 import ReadNext from './ReadNext';
-
-const ICON_MAP: Record<string, LucideIcon> = {
-  Coffee,
-  MapPin,
-  Map,
-  Compass,
-};
 
 interface ArticleFooterProps {
   author: string;
@@ -109,11 +100,7 @@ export default function ArticleFooter({
                   color: '#14213d',
                 }}
               >
-                {(() => {
-                  const Icon = ICON_MAP[categoryData.lucideIcon];
-                  return Icon ? <Icon size={20} className="inline mr-2 align-middle" strokeWidth={1.8} /> : null;
-                })()}
-                More in {categoryData.label}
+                {categoryData.icon} More in {categoryData.label}
               </h2>
             </div>
             <Link
@@ -135,17 +122,7 @@ export default function ArticleFooter({
         </section>
       )}
 
-      {/* ── Explore Other Topics ── */}
-      {crossCategoryArticles.length > 0 && (
-        <section className="mb-12">
-          <SectionTitle title="Explore Other Topics" />
-          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
-            {crossCategoryArticles.map((a) => (
-              <ArticleCard key={a.slug} article={a} size="sm" />
-            ))}
-          </div>
-        </section>
-      )}
+      {/* ── Explore Other Topics (removed — duplicates footer Categories nav) ── */}
 
       {/* ── Ad — bottom ── */}
       <div className="mb-10">
@@ -166,27 +143,23 @@ export default function ArticleFooter({
             color: '#fff',
           }}
         >
-          Continue Exploring
+          Browse All Categories
         </p>
         <div className="flex flex-wrap justify-center gap-3">
-          {CATEGORIES.map((cat) => {
-            const Icon = ICON_MAP[cat.lucideIcon];
-            return (
-              <Link
-                key={cat.slug}
-                href={`/category/${cat.slug}`}
-                className="inline-flex items-center gap-2 px-4 py-2 rounded-full text-sm font-semibold transition-all"
-                style={{
-                  background: cat.slug === category ? '#f97316' : 'rgba(255,255,255,0.1)',
-                  color: '#fff',
-                  border: cat.slug === category ? 'none' : '1px solid rgba(255,255,255,0.2)',
-                }}
-              >
-                {Icon && <Icon size={14} strokeWidth={1.8} />}
-                {cat.label}
-              </Link>
-            );
-          })}
+          {CATEGORIES.map((cat) => (
+            <Link
+              key={cat.slug}
+              href={`/category/${cat.slug}`}
+              className="px-4 py-2 rounded-full text-sm font-semibold transition-all"
+              style={{
+                background: cat.slug === category ? '#f97316' : 'rgba(255,255,255,0.1)',
+                color: '#fff',
+                border: cat.slug === category ? 'none' : '1px solid rgba(255,255,255,0.2)',
+              }}
+            >
+              {cat.icon} {cat.label}
+            </Link>
+          ))}
         </div>
       </section>
     </footer>

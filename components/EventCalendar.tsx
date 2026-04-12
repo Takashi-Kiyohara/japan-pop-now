@@ -1,85 +1,211 @@
 /**
- * EventCalendar — card grid for collab cafes & anime events
- *
- * Pure server component. 2col SP / 3col tablet / 4col desktop.
- * Cards: thumbnail + status badge + IP tag + title + venue + date + GT link.
+ * EventCalendar.tsx — Server component (zero client JS)
+ * Renders the collab cafe calendar grouped by status.
  */
 
 import Image from 'next/image';
+import Link from 'next/link';
 import {
-  type CalendarEvent,
-  type EventStatus,
+  CollabEvent,
   getEventStatus,
   formatEventDateRange,
-  getTranslatedUrl,
+  getEventLink,
+  isPermanent,
 } from '@/lib/events';
 
-interface EventCalendarProps {
-  events: CalendarEvent[];
-  emptyMessage?: string;
-  referenceDate?: Date;
+// ─── Status Badge ──────────────────────────────────────────────────────────────
+function StatusBadge({ status }: { status: ReturnType<typeof getEventStatus> | 'permanent' }) {
+  const map = {
+    open:          { label: 'NOW OPEN', bg: '#dcfce7', color: '#166534', dot: '#22c55e' },
+    'opening-soon':{ label: 'OPENING SOON', bg: '#fef9c3', color: '#854d0e', dot: '#eab308' },
+    permanent:     { label: 'PERMANENT', bg: '#e0f2fe', color: '#075985', dot: '#0ea5e9' },
+    ended:         { label: 'ENDED', bg: '#f5f5f4', color: '#78716c', dot: '#a8a29e' },
+  } as const;
+
+  const s = map[status] ?? map.ended;
+  return (
+    <span
+      style={{
+        display: 'inline-flex',
+        alignItems: 'center',
+        gap: '4px',
+        fontSize: '0.65rem',
+        fontWeight: 700,
+        letterSpacing: '0.06em',
+        background: s.bg,
+        color: s.color,
+        borderRadius: '9999px',
+        padding: '2px 8px',
+        whiteSpace: 'nowrap',
+      }}
+    >
+      <span
+        style={{
+          width: 6,
+          height: 6,
+          borderRadius: '50%',
+          background: s.dot,
+          flexShrink: 0,
+        }}
+      />
+      {s.label}
+    </span>
+  );
 }
 
-const STATUS_CONFIG: Record<EventStatus, { label: string; bg: string }> = {
-  ongoing:  { label: 'NOW OPEN',    bg: '#e63946' },
-  upcoming: { label: 'COMING SOON', bg: '#f97316' },
-  ended:    { label: 'ENDED',       bg: '#a8a29e' },
-};
-
-function EventCard({ event, status }: { event: CalendarEvent; status: EventStatus }) {
-  const { label, bg } = STATUS_CONFIG[status];
-  const dateRange = formatEventDateRange(event);
-  const detailUrl = getTranslatedUrl(event.officialUrl);
-
+// ─── Type Badge ────────────────────────────────────────────────────────────────
+function TypeBadge({ type }: { type: CollabEvent['type'] }) {
+  const labels: Record<CollabEvent['type'], string> = {
+    'collab-cafe': 'Collab Cafe',
+    'permanent-cafe': 'Permanent Cafe',
+    'pop-up': 'Pop-Up',
+    'event': 'Event',
+    'collab-food': 'Collab Food',
+    'exhibition': 'Exhibition',
+  };
   return (
-    <a
-      href={detailUrl}
-      target="_blank"
-      rel="noopener noreferrer"
-      className="event-card"
+    <span
+      style={{
+        fontSize: '0.65rem',
+        fontWeight: 600,
+        color: '#ea580c',
+        background: '#fff7ed',
+        borderRadius: '9999px',
+        padding: '2px 8px',
+      }}
+    >
+      {labels[type] ?? type}
+    </span>
+  );
+}
+
+// ─── Event Card ────────────────────────────────────────────────────────────────
+function EventCard({ event }: { event: CollabEvent }) {
+  const today = new Date();
+  const status = isPermanent(event) ? 'permanent' : getEventStatus(event, today);
+  const link = getEventLink(event);
+
+  const CardContent = () => (
+    <div
+      style={{
+        display: 'flex',
+        gap: '12px',
+        padding: '14px 16px',
+        background: '#fff',
+        border: '1px solid #e7e5e4',
+        borderRadius: '12px',
+        transition: 'box-shadow 0.2s ease, border-color 0.2s ease',
+        cursor: 'pointer',
+      }}
+      onMouseEnter={(e) => {
+        (e.currentTarget as HTMLDivElement).style.boxShadow = '0 4px 16px rgba(0,0,0,0.08)';
+        (e.currentTarget as HTMLDivElement).style.borderColor = '#fb923c';
+      }}
+      onMouseLeave={(e) => {
+        (e.currentTarget as HTMLDivElement).style.boxShadow = 'none';
+        (e.currentTarget as HTMLDivElement).style.borderColor = '#e7e5e4';
+      }}
     >
       {/* Thumbnail */}
-      <div className="event-card-thumb">
+      <div style={{ flexShrink: 0, width: 96, height: 72, borderRadius: '8px', overflow: 'hidden', background: '#f5f5f4' }}>
         <Image
           src={event.thumbnail}
           alt={event.title}
-          fill
-          sizes="(max-width: 640px) 50vw, (max-width: 1024px) 33vw, 25vw"
-          style={{ objectFit: 'cover' }}
+          width={96}
+          height={72}
+          style={{ objectFit: 'cover', width: '100%', height: '100%' }}
+          unoptimized={event.thumbnail.startsWith('https://images.unsplash.com')}
         />
-        <span className="event-badge" style={{ background: bg }}>{label}</span>
       </div>
 
-      {/* Body */}
-      <div className="event-card-body">
-        <span className="event-ip">{event.ip}</span>
-        <p className="event-title">{event.title}</p>
-        <p className="event-meta">📍 {event.venue}{event.city !== 'Nationwide' ? `, ${event.city}` : ''}</p>
-        <p className="event-meta">🗓 {dateRange}</p>
-        <span className="event-cta">Official Site (EN) →</span>
+      {/* Info */}
+      <div style={{ flex: 1, minWidth: 0 }}>
+        <div style={{ display: 'flex', flexWrap: 'wrap', gap: '4px', marginBottom: '6px', alignItems: 'center' }}>
+          <StatusBadge status={status} />
+          <TypeBadge type={event.type} />
+        </div>
+
+        <p style={{ margin: '0 0 2px', fontSize: '0.9rem', fontWeight: 700, color: '#14213d', lineHeight: 1.3 }}>
+          {event.title}
+        </p>
+
+        <p style={{ margin: '0 0 4px', fontSize: '0.78rem', color: '#78716c' }}>
+          {event.venue} · {event.city}
+        </p>
+
+        <p style={{ margin: '0 0 6px', fontSize: '0.78rem', fontWeight: 600, color: '#ea580c' }}>
+          {formatEventDateRange(event)}
+        </p>
+
+        <p style={{ margin: 0, fontSize: '0.78rem', color: '#44403c', lineHeight: 1.5,
+          display: '-webkit-box', WebkitLineClamp: 2, WebkitBoxOrient: 'vertical', overflow: 'hidden' }}>
+          {event.description}
+        </p>
       </div>
+    </div>
+  );
+
+  if (link.isInternal) {
+    return (
+      <Link href={link.href} style={{ textDecoration: 'none', display: 'block' }}>
+        <CardContent />
+      </Link>
+    );
+  }
+  return (
+    <a href={link.href} target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none', display: 'block' }}>
+      <CardContent />
     </a>
   );
 }
 
-export default function EventCalendar({
-  events,
-  emptyMessage = 'No events found.',
-  referenceDate = new Date(),
-}: EventCalendarProps) {
-  if (events.length === 0) {
-    return (
-      <div className="event-empty">{emptyMessage}</div>
-    );
-  }
-
-  const sorted = [...events].sort((a, b) => a.startDate.localeCompare(b.startDate));
-
+// ─── Section ───────────────────────────────────────────────────────────────────
+function Section({ title, events, accent }: { title: string; events: CollabEvent[]; accent: string }) {
+  if (events.length === 0) return null;
   return (
-    <div className="event-grid">
-      {sorted.map((ev) => (
-        <EventCard key={ev.id} event={ev} status={getEventStatus(ev, referenceDate)} />
-      ))}
+    <section style={{ marginBottom: '2.5rem' }}>
+      <h2
+        style={{
+          fontSize: '1.1rem',
+          fontWeight: 800,
+          color: '#14213d',
+          borderLeft: `4px solid ${accent}`,
+          paddingLeft: '12px',
+          marginBottom: '1rem',
+          lineHeight: 1.3,
+        }}
+      >
+        {title}
+        <span style={{ marginLeft: '8px', fontSize: '0.8rem', fontWeight: 500, color: '#78716c' }}>
+          ({events.length})
+        </span>
+      </h2>
+      <div style={{ display: 'flex', flexDirection: 'column', gap: '10px' }}>
+        {events.map((e) => (
+          <EventCard key={e.id} event={e} />
+        ))}
+      </div>
+    </section>
+  );
+}
+
+// ─── Main Export ───────────────────────────────────────────────────────────────
+interface EventCalendarProps {
+  ongoing: CollabEvent[];
+  openingSoon: CollabEvent[];
+  permanent: CollabEvent[];
+  recentlyEnded: CollabEvent[];
+}
+
+export default function EventCalendar({ ongoing, openingSoon, permanent, recentlyEnded }: EventCalendarProps) {
+  return (
+    <div>
+      <Section title="🔴 Open Now" events={ongoing} accent="#22c55e" />
+      <Section title="🟠 Opening Soon (next 14 days)" events={openingSoon} accent="#eab308" />
+      <Section title="🔵 Permanent Venues" events={permanent} accent="#0ea5e9" />
+      {recentlyEnded.length > 0 && (
+        <Section title="⚫ Recently Ended" events={recentlyEnded} accent="#a8a29e" />
+      )}
     </div>
   );
 }

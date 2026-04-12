@@ -95,17 +95,25 @@ export default function Sidebar({
   latestArticles,
   currentCategory,
 }: SidebarProps) {
-  return (
-    <aside className="space-y-5" style={{ position: 'sticky', top: '1rem' }}>
-      {/* ── Ad Slot Top ── */}
-      <AdUnit slot="8888888801" format="rectangle" lazy />
+  // Popular tags derived from articles (top 12 by frequency)
+  const tagFreq: Record<string, number> = {};
+  popularArticles.forEach((a) => a.tags.forEach((t) => { tagFreq[t] = (tagFreq[t] || 0) + 1; }));
+  const popularTags = Object.entries(tagFreq)
+    .sort((a, b) => b[1] - a[1])
+    .slice(0, 12)
+    .map(([tag]) => tag);
 
-      {/* ── Table of Contents ── */}
+  return (
+    <aside className="space-y-5" style={{ position: 'sticky', top: '80px', maxHeight: 'calc(100vh - 100px)', overflowY: 'auto', paddingRight: '2px' }}>
+      {/* ── Table of Contents (FIRST — stays visible longest) ── */}
       {headings.length > 0 && (
         <SidebarSection>
           <TableOfContents headings={headings} />
         </SidebarSection>
       )}
+
+      {/* ── Ad Slot Top ── */}
+      <AdUnit slot="8888888801" format="rectangle" lazy />
 
       {/* ── Popular in Category ── */}
       {popularArticles.length > 0 && (
@@ -132,32 +140,43 @@ export default function Sidebar({
         </SidebarSection>
       )}
 
-      {/* ── Categories ── */}
-      <SidebarSection title="Categories">
-        <ul className="space-y-1">
-          {CATEGORIES.map((category) => {
-            const isActive = currentCategory === category.slug;
-            return (
-              <li key={category.slug}>
-                <Link
-                  href={`/category/${category.slug}`}
-                  className="flex items-center gap-2 px-3 py-2 rounded-lg transition-all text-sm font-medium"
-                  style={{
-                    background: isActive ? '#fff7ed' : 'transparent',
-                    color: isActive ? '#ea580c' : '#78716c',
-                  }}
-                >
-                  {(() => {
-                    const Icon = ICON_MAP[category.lucideIcon];
-                    return Icon ? <Icon size={15} aria-hidden="true" /> : null;
-                  })()}
-                  <span>{category.label}</span>
-                </Link>
-              </li>
-            );
-          })}
-        </ul>
-      </SidebarSection>
+      {/* ── Popular Tags ── */}
+      {popularTags.length > 0 && (
+        <SidebarSection title="Popular Topics">
+          <div style={{ display: 'flex', flexWrap: 'wrap', gap: '6px' }}>
+            {popularTags.map((tag) => (
+              <Link
+                key={tag}
+                href={`/tags/${tag}`}
+                style={{
+                  display: 'inline-block',
+                  fontSize: '0.72rem',
+                  fontWeight: 600,
+                  color: '#44403c',
+                  background: '#f5f5f4',
+                  border: '1px solid #e7e5e4',
+                  borderRadius: '9999px',
+                  padding: '3px 10px',
+                  textDecoration: 'none',
+                  transition: 'all 0.15s ease',
+                }}
+                onMouseEnter={(e) => {
+                  (e.currentTarget as HTMLAnchorElement).style.background = '#fff7ed';
+                  (e.currentTarget as HTMLAnchorElement).style.color = '#ea580c';
+                  (e.currentTarget as HTMLAnchorElement).style.borderColor = '#fb923c';
+                }}
+                onMouseLeave={(e) => {
+                  (e.currentTarget as HTMLAnchorElement).style.background = '#f5f5f4';
+                  (e.currentTarget as HTMLAnchorElement).style.color = '#44403c';
+                  (e.currentTarget as HTMLAnchorElement).style.borderColor = '#e7e5e4';
+                }}
+              >
+                #{tag}
+              </Link>
+            ))}
+          </div>
+        </SidebarSection>
+      )}
 
       {/* ── Ad Slot Bottom ── */}
       <AdUnit slot="8888888802" format="rectangle" lazy />

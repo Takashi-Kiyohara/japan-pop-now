@@ -1,13 +1,13 @@
 ---
-title: "Nakano Broadway Guide 2026: Tokyo's Anime Shopping Secret"
-description: "Nakano Broadway 2026 anime shopping: floor-by-floor Mandarake map, Daily Chico soft serve, opening hours, and how it compares to Akihabara."
+title: "Nakano Broadway Guide 2026 — Tokyo’s Best-Kept Anime Shopping Secret"
+description: "Last updated: March 2026. Covers all floors, Mandarake locations, Daily Chico soft serve, opening hours, and a practical comparison with Akihabara. Everybody..."
 date: "2026-03-28"
 category: "area-guides"
 tags: []
 featuredImage: "/images/articles/nakano-broadway-guide/featured.jpg"
 featuredImageAlt: "Retro arcade game center inside Nakano Broadway with anime posters"
 author: "Japan Pop Now"
-excerpt: "Covers all floors, Mandarake locations, Daily Chico soft serve, opening hours, and a practical comparison with Akihabara. Everybody..."
+excerpt: "Last updated: March 2026. Covers all floors, Mandarake locations, Daily Chico soft serve, opening hours, and a practical comparison with Akihabara. Everybody..."
 relatedSlugs: []
 wpPostId: 204
 ---
@@ -77,7 +77,7 @@ Mandarake gets all the attention, but the independent shops are what make Nakano
 
 There are also multiple shops selling **trading cards** — Pokémon, Yu-Gi-Oh!, One Piece Card Game — with rare singles that card shops in Akihabara price higher. Prices here tend to be fair, though the most sought-after cards (vintage holographic Pokémon, tournament-legal Yu-Gi-Oh!) can still run into the tens of thousands of yen.
 
-![Colorful soft serve ice cream tower with multiple flavors stacked high — famous treat at Nakano Broadway](https://japan-pop-now.com/wp-content/uploads/2026/04/conan-namco-campaign-2026.jpg)
+![Colorful soft serve ice cream tower with multiple flavors stacked high — famous treat at Nakano Broadway](https://images.unsplash.com/photo-1511512578047-dfb367046420?w=1200&auto=format&fit=crop)
 
 ## Daily Chico: The Eight-Flavor Soft Serve Tower
 You will see people walking through Nakano Broadway holding enormous stacks of soft serve ice cream. This comes from **Daily Chico**, the legendary ice cream stand in the basement.
@@ -167,7 +167,10 @@ Akihabara first, if it’s your first time in Tokyo. It gives you the full anime
 - [Ikebukuro Anime Guide: Animate, Otome Road & Walking Route](/ikebukuro-anime-guide-2026/)
 - [Shibuya & Harajuku Pop Culture Guide](/shibuya-harajuku-pop-culture-guide/)
 - [Anime Merch Shopping Guide: Where to Buy & How to Save](/anime-merch-shopping-guide/)
-- [@pop_now_jp on Instagram](https://www.instagram.com/pop_now_jp/)
+- [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)
+
+☕
+
 Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
@@ -179,3 +182,5 @@ Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and 
 
 Follow for weekly collab cafe updates & Japan pop culture content.
 
+### Explore by Area
+[🗼 Tokyo](/tag/tokyo/)[🏪 Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[👥 Shibuya](/shibuya-anime-spots-guide/)[🎮 Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[🌆 Osaka](/osaka-anime-guide-2025/)🏯 Kyoto (Coming Soon)

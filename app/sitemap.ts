@@ -1,12 +1,11 @@
 import { MetadataRoute } from 'next';
-import { getAllArticles } from '@/lib/articles';
-import {
-  getSiteUrl,
-  articleUrl as getArticleUrl,
-} from '@/lib/url';
+import { getAllArticleSlugs, getAllArticles, CATEGORIES } from '@/lib/articles';
+import { getAllUniqueTags } from '@/lib/auto-tags';
+import { getSiteUrl, articleUrl as getArticleUrl, tagUrl, guideUrl } from '@/lib/url';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = getSiteUrl();
+  const slugs = getAllArticleSlugs();
   const articles = getAllArticles();
 
   // Static pages
@@ -42,6 +41,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
       lastModified: new Date(),
     },
     {
+      url: `${baseUrl}/guides`,
+      changeFrequency: 'weekly',
+      priority: 0.7,
+      lastModified: new Date(),
+    },
+    {
       url: `${baseUrl}/search`,
       changeFrequency: 'monthly',
       priority: 0.3,
@@ -50,13 +55,10 @@ export default function sitemap(): MetadataRoute.Sitemap {
     {
       url: `${baseUrl}/calendar`,
       changeFrequency: 'daily',
-      priority: 0.8,
+      priority: 0.9,
       lastModified: new Date(),
     },
   ];
-  // Note: /guides, /features, /category/*, /features/*, /guides/* are excluded
-  // from sitemap as of 2026-04-10 (AdSense low-value content fix). Hub pages
-  // are noindex,follow until unique editorial content is added to each.
 
   // Article pages with lastModified dates
   const articlePages: MetadataRoute.Sitemap = articles.map((article) => ({
@@ -66,34 +68,37 @@ export default function sitemap(): MetadataRoute.Sitemap {
     lastModified: new Date(article.date),
   }));
 
-  // Category pages and guide hub pages are NOT included in sitemap.
-  // All hub pages are noindex,follow (see app/category/[slug]/page.tsx,
-  // app/guides/[topic]/page.tsx, app/features/[slug]/page.tsx).
-  // Removed 2026-04-10 to resolve AdSense "low-value content" policy violation.
-  const categoryPages: MetadataRoute.Sitemap = [];
-  const guidePages: MetadataRoute.Sitemap = [];
+  // Category pages
+  const categoryPages: MetadataRoute.Sitemap = CATEGORIES.map((category) => ({
+    url: `${baseUrl}/category/${category.slug}`,
+    changeFrequency: 'weekly' as const,
+    priority: 0.7,
+    lastModified: new Date(),
+  }));
 
-  // Cafe hub + individual cafe pages — excluded from sitemap until cafes.json
-  // is populated. Hub is noindex,follow as of 2026-04-10 (AdSense fix).
-  const cafeHubPage: MetadataRoute.Sitemap = [];
-  const cafePages: MetadataRoute.Sitemap = [];
-
-  // Feature series hub pages are NOT in sitemap either (noindex,follow).
-  // See app/features/[slug]/page.tsx and app/features/page.tsx.
-  const featurePages: MetadataRoute.Sitemap = [];
-
-  // Tag archive pages are intentionally excluded from sitemap.
-  // All tag pages are noindex,follow (see app/tags/[tag]/page.tsx).
-  // Removed 2026-04-10 to resolve the "detected — not indexed" GSC issue caused
-  // by ~97 thin tag pages. See tag_page_noindex_spec_20260410.md.
-
-  return [
-    ...staticPages,
-    ...articlePages,
-    ...categoryPages,
-    ...guidePages,
-    ...featurePages,
-    ...cafeHubPage,
-    ...cafePages,
+  // Guide hub pages
+  const hubTopics = [
+    'tokyo-anime-cafes',
+    'anime-pilgrimage-tokyo',
+    'osaka-anime-guide',
+    'day-trips-from-tokyo',
+    'japan-travel-essentials',
   ];
+  const guidePages: MetadataRoute.Sitemap = hubTopics.map((topic) => ({
+    url: guideUrl(topic),
+    changeFrequency: 'weekly' as const,
+    priority: 0.8,
+    lastModified: new Date(),
+  }));
+
+  // Tag archive pages
+  const tags = getAllUniqueTags(articles);
+  const tagPages: MetadataRoute.Sitemap = tags.map((tag) => ({
+    url: tagUrl(tag),
+    changeFrequency: 'weekly' as const,
+    priority: 0.5,
+    lastModified: new Date(),
+  }));
+
+  return [...staticPages, ...articlePages, ...categoryPages, ...guidePages, ...tagPages];
 }

@@ -1,6 +1,6 @@
 ---
 title: "10 Anime Pilgrimage Spots in Tokyo You Can Visit Today"
-description: "Visit real anime locations in Tokyo: Your Name stairs, Shibuya (JJK), Sensoji (Demon Slayer), Akihabara (Steins;Gate), Kamakura (Slam Dunk)."
+description: "Visit real anime locations in Tokyo: Your Name stairs, Shibuya Crossing (JJK), Sensoji (Demon Slayer), Akihabara (Steins;Gate), Kamakura (Slam Dunk), and more."
 date: "2026-03-25"
 category: "anime-pilgrimage"
 tags: []
@@ -41,7 +41,7 @@ Here are 10 locations you can visit today. No tickets, no reservations, no plann
 
 ## 1. Suga Shrine Stairs — Your Name (Kimi no Na wa)
 
-![Jujutsu Kaisen collaboration cafe in Tokyo — themed sweets and character-inspired menu — where fans recreate Your Name](https://japan-pop-now.com/wp-content/uploads/2026/04/jjk-sweets-paradise-cafe-2026.jpg)
+![Jujutsu Kaisen collaboration cafe in Tokyo — themed sweets and character-inspired menu — where fans recreate Your Name](https://images.unsplash.com/photo-1563729784474-d77dbb933a9e?w=1200&auto=format&fit=crop)
 Tokyo residential stairway — the kind of everyday scenery that Makoto Shinkai captures in his films
 Photo: Unsplash
 
@@ -199,12 +199,15 @@ Visiting anime filming locations is more fun with a local guide who knows the ex
 - [Japan Trip Checklist for Anime Fans 2026](https://japan-pop-now.com/japan-trip-checklist-anime-fans-2026/)
 - [One Piece Kumamoto Statue Tour — All 10 Straw Hat Statues](https://japan-pop-now.com/one-piece-kumamoto-statue-tour/)
 
-**Follow [@pop_now_jp on Instagram](https://www.instagram.com/pop_now_jp/)** for daily Tokyo pop culture updates.
+**Follow [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)** for daily Tokyo pop culture updates.
 
 ### New In-Depth Pilgrimage Guides
 
 - [Jujutsu Kaisen Shibuya Pilgrimage Guide 2026](/demon-slayer-pilgrimage-tokyo/) — Complete walking route with 10+ real JJK locations in Shibuya
 - [SPY x FAMILY Fan Day in Tokyo 2026](/your-name-pilgrimage-tokyo/) — European-aesthetic locations, merch shops, and collab cafes
+
+☕
+
 Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
@@ -216,3 +219,5 @@ Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and 
 
 Follow for weekly collab cafe updates & Japan pop culture content.
 
+### Explore by Area
+[🗼 Tokyo](/tag/tokyo/)[🏪 Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[👥 Shibuya](/shibuya-anime-spots-guide/)[🎮 Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[🌆 Osaka](/osaka-anime-guide-2025/)🏯 Kyoto (Coming Soon)

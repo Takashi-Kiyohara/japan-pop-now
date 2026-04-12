@@ -1,9 +1,8 @@
 ---
-title: "Your Name Pilgrimage Tokyo: Real-Life Locations + Route"
-description: "Every Your Name (Kimi no Na wa) location in Tokyo: Suga Shrine, Shinjuku overpass, Shinanomachi Station, plus a half-day walking route."
+title: "Your Name Pilgrimage Tokyo: Every Real-Life Location (With Walking Route)"
+description: "Visit every Your Name (Kimi no Na wa) location in Tokyo. Suga Shrine stairs, Shinjuku overpass, Shinanomachi Station — with a half-day walking route and photo..."
 date: "2026-03-25"
 category: "anime-pilgrimage"
-feature: "quiet-pockets"
 tags: []
 featuredImage: "/images/articles/your-name-pilgrimage-tokyo/featured.jpg"
 featuredImageAlt: "Yunika Vision building in Shinjuku featured in Your Name anime"
@@ -38,7 +37,7 @@ This is *seichi junrei* (聖地巡礼) — “holy land pilgrimage.” The pract
 
 ## Location 1: Suga Shrine Stairs — The Final Scene
 
-![Anime collaboration cafe in Tokyo — themed dining experiences near popular pilgrimage locations — where fans recreate Your Name](https://japan-pop-now.com/wp-content/uploads/2026/04/trigun-chugai-grace-cafe-2026.jpg)
+![Anime collaboration cafe in Tokyo — themed dining experiences near popular pilgrimage locations — where fans recreate Your Name](https://images.unsplash.com/photo-1592861956120-e524fc739696?w=1200&auto=format&fit=crop)
 Tokyo residential stairway — the kind of everyday scenery that Makoto Shinkai captures in his films
 Photo: Unsplash
 
@@ -90,9 +89,6 @@ Yotsuya Station appears directly in several scenes, and the residential streets 
 
 | **Access** | JR Yotsuya Station (四ツ谷駅) — same station as Location 1. Start here and walk to Suga Shrine. |
 | --- | --- |
-
-
-![Tokyo shrine steps at dusk — a quiet pilgrimage stop for Your Name fans](/images/articles/your-name-pilgrimage-tokyo/body4.jpg)
 
 ## Suggested Walking Route: Half-Day “Your Name” Pilgrimage
 You can visit all the main Tokyo locations in a single half-day walk. Here’s the most efficient route:
@@ -154,7 +150,7 @@ A local guide takes you to every filming location from Your Name, explains the s
 - [Japan IC Card & Transit Guide](https://japan-pop-now.com/japan-ic-card-transit-guide/) — Navigate between pilgrimage spots easily
 - [Anime Collab Cafe Calendar](https://japan-pop-now.com/collab-cafe-calendar/) — Check for Your Name or Shinkai collabs during your visit
 
-**Follow [@pop_now_jp on Instagram](https://www.instagram.com/pop_now_jp/)** for daily Tokyo pop culture updates.
+**Follow [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)** for daily Tokyo pop culture updates.
 
 *Japan Pop Now is a Tokyo-based English-language media covering Japanese pop culture for international visitors.*
 
@@ -166,6 +162,9 @@ A local guide takes you to every filming location from Your Name, explains the s
 - [Chainsaw Man Tokyo Pilgrimage Guide](/weathering-with-you-locations-tokyo/)
 - [One Piece Tokyo Guide 2026](/one-piece-kumamoto-statue-tour/)
 - [Kyoto Anime Guide 2026](/osaka-anime-guide-den-den-town/)
+
+☕
+
 Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
@@ -177,3 +176,5 @@ Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and 
 
 Follow for weekly collab cafe updates & Japan pop culture content.
 
+### Explore by Area
+[🗼 Tokyo](/tag/tokyo/)[🏪 Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[👥 Shibuya](/shibuya-anime-spots-guide/)[🎮 Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[🌆 Osaka](/osaka-anime-guide-2025/)🏯 Kyoto (Coming Soon)

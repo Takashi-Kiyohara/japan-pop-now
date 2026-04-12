@@ -1,6 +1,6 @@
 ---
-title: "Detective Conan Cafe 2026 Japan: Tokyo & Osaka Locations"
-description: "Detective Conan Cafe 2026 in Japan: Tokyo and Osaka locations, opening dates, themed menu, reservation method, and trip-route differences between cities."
+title: "Detective Conan Cafe 2026 in Japan: Best Tokyo and Osaka Locations, Dates, Menu & Travel Tips"
+description: "Planning to visit Detective Conan Cafe 2026 in Japan? This practical guide covers the dates, best Tokyo and Osaka locations, what makes each city different,..."
 date: "2026-04-06"
 category: "collab-cafes"
 tags: []
@@ -37,6 +37,7 @@ Second, it connects naturally to other Conan experiences. In 2026, Conan demand 
 | Other cities | Kanagawa, Nagoya, Osaka, Miyagi, Hokkaido |
 | Theme | Port Town Retro |
 | Best for | Conan fans, movie tie-in travelers, merch hunters, multi-city anime trips |
+
 
 ## Which cities host Detective Conan Cafe 2026?
 According to event reporting, the cafe will be held at multiple **BOX cafe and space** locations in **Shibuya**, **Ikebukuro**, **Tokyo Solamachi**, plus sites in **Kanagawa, Nagoya, Osaka, Miyagi, and Hokkaido**.[1]
@@ -131,6 +132,12 @@ If you are traveling because Conan is one of your top series, the cafe becomes m
 
 ![Practical tips before you go — Detective Conan Cafe 2026 in Japan](/images/articles/detective-conan-cafe-2026-japan-guide/4.jpg)
 
+<div className="jpn-tip">
+
+**Tip:** Check the opening dates for your chosen city. Ikebukuro and Osaka run until **August 2, 2026**, giving you more flexibility than the shorter spring windows at other locations.
+
+</div>
+
 ### Check city and date details before fixing your route
 Because cities do not all open and close at the same time, your best branch depends on travel dates, not just preference.
 
@@ -140,7 +147,16 @@ International visitors often default to the most famous Tokyo location. In pract
 ### Expect the event to be photo-friendly but not friction-free
 A themed cafe can look effortless on social media, but real visits may involve time slots, limited menu windows, sold-out merchandise, and crowd pressure. Planning with realistic expectations usually leads to a better experience.
 
+<div className="jpn-cta">
+
+**Plan your visit:** Check the current schedule on [BOX cafe and space](https://boxcafespace.com/) and book early. Reservation details vary by location, so confirm your chosen branch before booking.
+
+</div>
+
 ## FAQ
+
+<div className="jpn-faq">
+
 ### When does Detective Conan Cafe 2026 start?
 Detective Conan Cafe 2026 begins on **April 10, 2026**.[1]
 
@@ -156,6 +172,8 @@ Based on the currently reported schedule, **Ikebukuro and Osaka** run until **Au
 ### Is Osaka a good choice for Conan fans?
 Yes. If you are already visiting Kansai, the Osaka branch can be more efficient than forcing the event into an already busy Tokyo itinerary.
 
+</div>
+
 ## Where to go next on Japan Pop Now
 If Detective Conan Cafe is part of your trip planning, these guides make the best next step:
 
@@ -165,6 +183,9 @@ If Detective Conan Cafe is part of your trip planning, these guides make the bes
 
 ## Sources
 1. Essential Japan, “Detective Conan ‘Retro Port Town’ Cafe 2026” — https://essential-japan.com/events/detective-conan-retro-port-town-cafe-2026/ 2. TTG Asia, “Hoshino report highlights shift in Japan travel towards regional and longer stays” — https://www.ttgasia.com/2026/04/01/hoshino-report-highlights-shift-in-japan-travel-towards-regional-and-longer-stays/
+
+☕
+
 Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
@@ -176,3 +197,5 @@ Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and 
 
 Follow for weekly collab cafe updates & Japan pop culture content.
 
+### Explore by Area
+[🗼 Tokyo](/tag/tokyo/)[🏪 Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[👥 Shibuya](/shibuya-anime-spots-guide/)[🎮 Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[🌆 Osaka](/osaka-anime-guide-2025/)🏯 Kyoto (Coming Soon)

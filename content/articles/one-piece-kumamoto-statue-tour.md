@@ -1,13 +1,13 @@
 ---
-title: "One Piece Kumamoto Statue Tour 2026: All 10 Straw Hats"
-description: "One Piece Kumamoto pilgrimage: statue viewing spots, access details, nearby attractions, open hours, and integrating Kyushu anime tourism."
+title: "One Piece Kumamoto Statue Tour 2026 — All 10 Straw Hat Statues, Locations, and Itinerary"
+description: "Last updated: March 2026. Covers all 10 Straw Hat crew statues, maps, transportation, Kumamoto Castle, and a recommended 2-day itinerary for visiting every..."
 date: "2026-03-28"
 category: "anime-pilgrimage"
 tags: []
 featuredImage: "/images/articles/one-piece-kumamoto-statue-tour/featured.jpg"
 featuredImageAlt: "Kumamoto Castle in Japan near One Piece character statues"
 author: "Japan Pop Now"
-excerpt: "One Piece Kumamoto pilgrimage: statue viewing spots, access details, nearby attractions, open hours, and integrating Kyushu anime tourism."
+excerpt: "Last updated: March 2026. Covers all 10 Straw Hat crew statues, maps, transportation, Kumamoto Castle, and a recommended 2-day itinerary for visiting every..."
 relatedSlugs: []
 wpPostId: 207
 ---
@@ -136,7 +136,7 @@ Private guides and tour services offer One Piece statue tour packages. This is t
 
 **If you have a Japan Rail Pass:** The Kyushu Shinkansen from Hakata (Fukuoka) to Kumamoto is covered. This makes a side trip from Fukuoka incredibly easy — you can even do a day trip.
 
-![One Piece Cafe GENE at PARCO — themed restaurant celebrating the anime, a perfect stop after touring Kumamoto statues](https://japan-pop-now.com/wp-content/uploads/2026/04/one-piece-cafe-gene-parco-2026.jpg)
+![One Piece Cafe GENE at PARCO — themed restaurant celebrating the anime, a perfect stop after touring Kumamoto statues](https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=1200&auto=format&fit=crop)
 
 ## Kumamoto Castle — Don’t Skip It
 While you’re in Kumamoto for the statues, Kumamoto Castle is essential. The castle was severely damaged in the 2016 earthquake — the same event that inspired the One Piece statue project — and has been undergoing reconstruction since. The main keep reopened in 2021 with all six floors accessible, and a special viewing passage lets you observe the ongoing restoration work up close.
@@ -204,7 +204,10 @@ Kumamoto has run special campaigns with stamp rallies and collectible cards at v
 - [Demon Slayer Pilgrimage Tokyo: 7 Real Locations + Map](/demon-slayer-pilgrimage-tokyo/)
 - [Weathering With You Locations Tokyo: 6 Film Spots + Route](/weathering-with-you-locations-tokyo/)
 - [Osaka Anime Guide: Den Den Town, Collab Cafes & Beyond](/osaka-anime-guide-den-den-town/)
-- [@pop_now_jp on Instagram](https://www.instagram.com/pop_now_jp/)
+- [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)
+
+☕
+
 Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
@@ -216,3 +219,5 @@ Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and 
 
 Follow for weekly collab cafe updates & Japan pop culture content.
 
+### Explore by Area
+[🗼 Tokyo](/tag/tokyo/)[🏪 Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[👥 Shibuya](/shibuya-anime-spots-guide/)[🎮 Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[🌆 Osaka](/osaka-anime-guide-2025/)🏯 Kyoto (Coming Soon)

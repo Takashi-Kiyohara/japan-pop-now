@@ -1,6 +1,6 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useState, useEffect, useRef } from 'react';
 import Link from 'next/link';
 
 interface Heading {
@@ -13,77 +13,107 @@ interface TableOfContentsProps {
   headings: Heading[];
 }
 
-const MAX_VISIBLE = 6;
-
 export default function TableOfContents({ headings }: TableOfContentsProps) {
   const [activeId, setActiveId] = useState<string>('');
   const [expanded, setExpanded] = useState(false);
+  const navRef = useRef<HTMLElement>(null);
 
-  // Only show h2 headings (level 2) for cleaner TOC
+  // Filter to H2 and H3 only
+  const tocHeadings = headings.filter((h) => h.level === 2 || h.level === 3);
   const h2Headings = headings.filter((h) => h.level === 2);
 
+  // Track active heading with IntersectionObserver
   useEffect(() => {
     const observer = new IntersectionObserver(
       (entries) => {
-        entries.forEach((entry) => {
-          if (entry.isIntersecting) {
-            setActiveId(entry.target.id);
-          }
-        });
+        const visible = entries.filter((e) => e.isIntersecting);
+        if (visible.length > 0) {
+          setActiveId(visible[0].target.id);
+        }
       },
-      { rootMargin: '0px 0px -66% 0px' }
+      { rootMargin: '-20px 0px -60% 0px', threshold: 0 }
     );
 
-    h2Headings.forEach((heading) => {
-      const element = document.getElementById(heading.id);
-      if (element) observer.observe(element);
+    tocHeadings.forEach((h) => {
+      const el = document.getElementById(h.id);
+      if (el) observer.observe(el);
     });
 
     return () => observer.disconnect();
-  }, [h2Headings]);
+  }, [tocHeadings]);
 
-  if (h2Headings.length === 0) return null;
+  // Auto-expand if active heading is beyond the fold
+  useEffect(() => {
+    if (!expanded) {
+      const activeIndex = tocHeadings.findIndex((h) => h.id === activeId);
+      if (activeIndex >= 6) setExpanded(true);
+    }
+  }, [activeId, expanded, tocHeadings]);
 
-  const visibleHeadings = expanded ? h2Headings : h2Headings.slice(0, MAX_VISIBLE);
-  const hasMore = h2Headings.length > MAX_VISIBLE;
+  if (tocHeadings.length === 0) return null;
+
+  const INITIAL_SHOW = 8; // Show more initially for better usability
+  const visibleHeadings = expanded ? tocHeadings : tocHeadings.slice(0, INITIAL_SHOW);
+  const hasMore = tocHeadings.length > INITIAL_SHOW;
 
   return (
-    <nav>
+    <nav ref={navRef} aria-label="On This Page">
       <h3
-        className="mb-3"
         style={{
           fontFamily: 'var(--font-display), "Playfair Display", Georgia, serif',
-          fontSize: '0.95rem',
+          fontSize: '0.9rem',
           fontWeight: 700,
           color: '#14213d',
+          marginBottom: '0.75rem',
+          textTransform: 'uppercase',
+          letterSpacing: '0.05em',
         }}
       >
         On This Page
       </h3>
 
-      <ul
-        style={{
-          maxHeight: expanded ? 'none' : '240px',
-          overflow: 'hidden',
-          transition: 'max-height 0.3s ease',
-        }}
-      >
-        {visibleHeadings.map((heading) => (
-          <li key={heading.id}>
-            <Link
-              href={`#${heading.id}`}
-              className="block py-1.5 text-sm transition-colors leading-snug"
+      <ul style={{ margin: 0, padding: 0, listStyle: 'none' }}>
+        {visibleHeadings.map((heading) => {
+          const isH3 = heading.level === 3;
+          const isActive = activeId === heading.id;
+
+          return (
+            <li
+              key={heading.id}
               style={{
-                color: activeId === heading.id ? '#f97316' : '#78716c',
-                fontWeight: activeId === heading.id ? 600 : 400,
-                borderLeft: activeId === heading.id ? '2px solid #f97316' : '2px solid transparent',
-                paddingLeft: '10px',
+                paddingLeft: isH3 ? '16px' : '0',
+                borderLeft: isH3 ? '1px solid #e7e5e4' : 'none',
+                marginLeft: isH3 ? '8px' : '0',
               }}
             >
-              {heading.text}
-            </Link>
-          </li>
-        ))}
+              <Link
+                href={`#${heading.id}`}
+                style={{
+                  display: 'block',
+                  padding: isH3 ? '3px 8px 3px 10px' : '5px 0 5px 10px',
+                  fontSize: isH3 ? '0.78rem' : '0.82rem',
+                  fontWeight: isActive ? 700 : isH3 ? 400 : 500,
+                  color: isActive ? '#f97316' : isH3 ? '#78716c' : '#44403c',
+                  borderLeft: !isH3
+                    ? `2px solid ${isActive ? '#f97316' : 'transparent'}`
+                    : 'none',
+                  lineHeight: 1.4,
+                  transition: 'color 0.15s ease, border-color 0.15s ease',
+                  textDecoration: 'none',
+                }}
+                onMouseEnter={(e) => {
+                  if (!isActive) (e.currentTarget as HTMLAnchorElement).style.color = '#ea580c';
+                }}
+                onMouseLeave={(e) => {
+                  if (!isActive)
+                    (e.currentTarget as HTMLAnchorElement).style.color = isH3 ? '#78716c' : '#44403c';
+                }}
+              >
+                {heading.text}
+              </Link>
+            </li>
+          );
+        })}
       </ul>
 
       {hasMore && (
@@ -91,16 +121,19 @@ export default function TableOfContents({ headings }: TableOfContentsProps) {
           onClick={() => setExpanded(!expanded)}
           style={{
             marginTop: '8px',
-            fontSize: '0.8rem',
+            fontSize: '0.78rem',
             fontWeight: 600,
             color: '#f97316',
             background: 'none',
             border: 'none',
             cursor: 'pointer',
-            padding: 0,
+            padding: '4px 0',
+            display: 'flex',
+            alignItems: 'center',
+            gap: '4px',
           }}
         >
-          {expanded ? '− Show less' : `+ ${h2Headings.length - MAX_VISIBLE} more sections`}
+          {expanded ? '− Less' : `+ ${tocHeadings.length - INITIAL_SHOW} more`}
         </button>
       )}
     </nav>

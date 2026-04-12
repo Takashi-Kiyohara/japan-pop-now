@@ -8,12 +8,11 @@ import Search from './Search';
 import ThemeToggle from './ThemeToggle';
 
 const NAV_LINKS = [
-  { href: '/calendar', label: 'Calendar' },
+  { href: '/calendar', label: '📅 Calendar', highlight: true },
   { href: '/category/collab-cafes', label: 'Collab Cafes' },
   { href: '/category/anime-pilgrimage', label: 'Pilgrimage' },
   { href: '/category/area-guides', label: 'Area Guides' },
   { href: '/category/travel-tips', label: 'Travel Tips' },
-  { href: '/features', label: 'Features' },
 ];
 
 export default function Header() {
@@ -104,8 +103,8 @@ export default function Header() {
                   fontWeight: 600,
                   padding: '6px 14px',
                   borderRadius: '9999px',
-                  color: isActive(link.href) ? '#ea580c' : '#44403c',
-                  background: isActive(link.href) ? '#fff7ed' : 'transparent',
+                  color: isActive(link.href) ? '#ea580c' : (link as { highlight?: boolean }).highlight ? '#0369a1' : '#44403c',
+                  background: isActive(link.href) ? '#fff7ed' : (link as { highlight?: boolean }).highlight ? '#e0f2fe' : 'transparent',
                   transition: 'all 0.15s ease',
                   letterSpacing: '0.01em',
                 }}
@@ -117,7 +116,8 @@ export default function Header() {
                 }}
                 onMouseLeave={(e) => {
                   if (!isActive(link.href)) {
-                    (e.currentTarget as HTMLElement).style.background = 'transparent';
+                    const hl = (link as { highlight?: boolean }).highlight;
+                    (e.currentTarget as HTMLElement).style.background = hl ? '#e0f2fe' : 'transparent';
                     (e.currentTarget as HTMLElement).style.color = '#44403c';
                   }
                 }}
@@ -142,7 +142,7 @@ export default function Header() {
               }}
               aria-label="Open search"
             >
-              <SearchIcon size={20} strokeWidth={2} aria-hidden="true" />
+              <SearchIcon size={20} strokeWidth={2} />
             </button>
 
             <ThemeToggle />
@@ -174,23 +174,27 @@ export default function Header() {
             className="md:hidden py-4"
             style={{ borderTop: '1px solid #e7e5e4' }}
           >
-            {NAV_LINKS.map((link) => (
-              <Link
-                key={link.href}
-                href={link.href}
-                onClick={() => setMobileOpen(false)}
-                style={{
-                  display: 'block',
-                  padding: '10px 8px',
-                  fontSize: '0.9rem',
-                  fontWeight: 600,
-                  color: isActive(link.href) ? '#ea580c' : '#44403c',
-                  borderBottom: '1px solid #f5f5f4',
-                }}
-              >
-                {link.label}
-              </Link>
-            ))}
+            {NAV_LINKS.map((link) => {
+              const hl = (link as { highlight?: boolean }).highlight;
+              return (
+                <Link
+                  key={link.href}
+                  href={link.href}
+                  onClick={() => setMobileOpen(false)}
+                  style={{
+                    display: 'block',
+                    padding: '10px 8px',
+                    fontSize: '0.9rem',
+                    fontWeight: 600,
+                    color: isActive(link.href) ? '#ea580c' : hl ? '#0369a1' : '#44403c',
+                    borderBottom: '1px solid #f5f5f4',
+                    background: hl && !isActive(link.href) ? '#f0f9ff' : 'transparent',
+                  }}
+                >
+                  {link.label}
+                </Link>
+              );
+            })}
           </nav>
         )}
       </div>

@@ -59,24 +59,10 @@ export function insertInternalLinks(
       }
     }
 
-    // Strategy 2: Slug-based matching - extract meaningful words from slug
-    const slugWords = article.slug
-      .split('-')
-      .filter((word) => word.length > 2);
-
-    for (const slugWord of slugWords) {
-      const slugWordRegex = new RegExp(`\\b${escapeRegex(slugWord)}\\b`, 'gi');
-      while ((match = slugWordRegex.exec(content)) !== null) {
-        // Check if it's not already linked and slug word is relevant
-        if (!isAlreadyLinked(content, match.index, match[0].length)) {
-          matches.push({
-            text: match[0],
-            slug: article.slug,
-            position: match.index,
-          });
-        }
-      }
-    }
+    // Strategy 2: DISABLED — single slug-word matching was too aggressive.
+    // Words like "one", "tokyo", "guide" appear in dozens of slugs and cause
+    // false matches (e.g. "one" → One Piece article in unrelated sentences).
+    // Use Strategy 3 (keyword aliases) for targeted keyword linking instead.
 
     // Strategy 3: Keyword aliases
     const aliases = KEYWORD_ALIASES[article.slug] || [];

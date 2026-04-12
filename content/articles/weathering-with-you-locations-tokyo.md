@@ -1,13 +1,13 @@
 ---
-title: "Weathering With You Locations Tokyo 2026: Real Spots Guide"
-description: "Weathering With You (Tenki no Ko) locations in Tokyo: every real spot you can visit, plus half-day and full-day walking routes with public-access notes."
+title: "Weathering With You Locations Tokyo — Every Real Spot from Tenki no Ko You Can Visit (2026)"
+description: "Last updated: March 2026. All locations verified as publicly accessible unless noted. Includes walking routes optimized for a half-day or full-day visit...."
 date: "2026-03-28"
 category: "anime-pilgrimage"
 tags: []
 featuredImage: "/images/articles/weathering-with-you-locations-tokyo/featured.jpg"
 featuredImageAlt: "Tokyo city night skyline reminiscent of Weathering With You anime"
 author: "Japan Pop Now"
-excerpt: "All locations verified as publicly accessible unless noted. Includes walking routes optimized for a half-day or full-day visit...."
+excerpt: "Last updated: March 2026. All locations verified as publicly accessible unless noted. Includes walking routes optimized for a half-day or full-day visit...."
 relatedSlugs: []
 wpPostId: 203
 ---
@@ -115,7 +115,7 @@ The park where Suga, Hina, and Hodaka spend time together. Shiba Park — one of
 
 **Takeshiba Pier** (竹芝桟橋) is where Hodaka first arrives in Tokyo by ferry at the beginning of the film. The marine passenger terminal is a public space with ocean views. The ferry route from the Izu Islands that Hodaka takes is still operated by Tokai Kisen (large passenger ships depart nightly, jet ferries run during daytime), so you can actually arrive in Tokyo the same way Hodaka did. The pier’s observation deck also offers great ocean views.
 
-![Detective Conan collaboration cafe key visual — anime-themed experiences throughout Tokyo](https://japan-pop-now.com/wp-content/uploads/2026/04/conan-cafe-2026-key-visual.jpg)
+![Detective Conan collaboration cafe key visual — anime-themed experiences throughout Tokyo](https://images.unsplash.com/photo-1617196034183-421b4040ed20?w=1200&auto=format&fit=crop)
 
 ## Walking Routes
 ### Route A: Full-Day thorough (6-8 hours)
@@ -176,7 +176,7 @@ A walking tour covering both Your Name and Weathering With You locations in one 
 - [Demon Slayer Pilgrimage Tokyo: 7 Real Locations + Map](/demon-slayer-pilgrimage-tokyo/)
 - [One Piece Kumamoto Statue Tour: All 10 Straw Hat Locations](/one-piece-kumamoto-statue-tour/)
 - [Shibuya & Harajuku Pop Culture Guide](/shibuya-harajuku-pop-culture-guide/)
-- [@pop_now_jp on Instagram](https://www.instagram.com/pop_now_jp/)
+- [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)
 
 ### More Anime Location Guides
 
@@ -186,6 +186,9 @@ A walking tour covering both Your Name and Weathering With You locations in one 
 - [Jujutsu Kaisen Shibuya Locations 2026](/jujutsu-kaisen-shibuya-locations-2026/)
 - [SPY×FAMILY Tokyo Fan Day 2026](/spy-family-tokyo-fan-day-2026/)
 - [Shibuya & Harajuku Pop Culture Guide](/shibuya-harajuku-pop-culture-guide/)
+
+☕
+
 Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
@@ -197,3 +200,5 @@ Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and 
 
 Follow for weekly collab cafe updates & Japan pop culture content.
 
+### Explore by Area
+[🗼 Tokyo](/tag/tokyo/)[🏪 Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[👥 Shibuya](/shibuya-anime-spots-guide/)[🎮 Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[🌆 Osaka](/osaka-anime-guide-2025/)🏯 Kyoto (Coming Soon)
