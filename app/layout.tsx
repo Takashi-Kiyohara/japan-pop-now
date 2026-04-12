@@ -6,9 +6,6 @@ import GoogleAnalytics from "@/components/GoogleAnalytics";
 import ScrollProgress from "@/components/ScrollProgress";
 import CookieConsent from "@/components/CookieConsent";
 import BackToTop from "@/components/BackToTop";
-import Script from "next/script";
-import { SpeedInsights } from "@vercel/speed-insights/next";
-import { Analytics } from "@vercel/analytics/react";
 import "./globals.css";
 
 const playfairDisplay = Playfair_Display({
@@ -50,8 +47,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    site: "@pop_now_jp",
-    creator: "@pop_now_jp",
+    site: "@japanpopnow",
+    creator: "@japanpopnow",
   },
   robots: {
     index: true,
@@ -84,14 +81,10 @@ export default function RootLayout({
         <link rel="alternate" hrefLang="en" href="https://japan-pop-now.com" />
         <link rel="alternate" hrefLang="x-default" href="https://japan-pop-now.com" />
 
-        {/* DNS prefetch & preconnect for third-party origins.
-            Fonts are loaded via next/font/google (Playfair_Display + DM_Sans)
-            so the gstatic preconnect is the LCP-critical one — keep both
-            googleapis.com and gstatic.com on `preconnect` rather than the
-            cheaper `dns-prefetch` to shave the TLS round trip on first paint. */}
+        {/* DNS prefetch & preconnect for third-party origins */}
         <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
         <link rel="dns-prefetch" href="https://pagead2.googlesyndication.com" />
-        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="dns-prefetch" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
         <link rel="preconnect" href="https://www.google-analytics.com" crossOrigin="anonymous" />
 
@@ -129,8 +122,10 @@ export default function RootLayout({
               url: "https://japan-pop-now.com",
               logo: "https://japan-pop-now.com/logo.png",
               sameAs: [
-                "https://www.instagram.com/pop_now_jp/",
-                "https://www.tiktok.com/@pop_now_jp",
+                "https://twitter.com/japanpopnow",
+                "https://instagram.com/japanpopnow",
+                "https://youtube.com/@japanpopnow",
+                "https://tiktok.com/@japanpopnow",
               ],
             }),
           }}
@@ -155,7 +150,14 @@ export default function RootLayout({
           }}
         />
 
-        {/* AdSense loaded via next/script in body for better performance */}
+        {/* Google AdSense — loaded dynamically via env var */}
+        {process.env.NEXT_PUBLIC_ADSENSE_ID && (
+          <script
+            async
+            src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${process.env.NEXT_PUBLIC_ADSENSE_ID}`}
+            crossOrigin="anonymous"
+          />
+        )}
       </head>
       <body className="min-h-screen flex flex-col bg-[#fafaf9]">
         <a href="#main-content" className="sr-only focus:not-sr-only focus:absolute focus:top-4 focus:left-4 focus:z-50 focus:bg-white focus:px-4 focus:py-2 focus:text-sm focus:font-semibold focus:rounded focus:shadow-lg">
@@ -163,21 +165,11 @@ export default function RootLayout({
         </a>
         <GoogleAnalytics />
         <ScrollProgress />
-        {/* Google AdSense — deferred load via next/script */}
-        {process.env.NEXT_PUBLIC_ADSENSE_ID && (
-          <Script
-            src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${process.env.NEXT_PUBLIC_ADSENSE_ID}`}
-            strategy="lazyOnload"
-            crossOrigin="anonymous"
-          />
-        )}
         <Header />
         <main id="main-content" className="flex-1">{children}</main>
         <Footer />
         <BackToTop />
         <CookieConsent />
-        <SpeedInsights />
-        <Analytics />
       </body>
     </html>
   );

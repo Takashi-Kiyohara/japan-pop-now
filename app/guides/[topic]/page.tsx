@@ -1,13 +1,14 @@
 import { Metadata } from 'next';
 import Link from 'next/link';
+import Image from 'next/image';
 import { notFound } from 'next/navigation';
-import { Ticket, Utensils, Hotel, Train, TrainFront, Smartphone, Umbrella, Drama } from 'lucide-react';
 import { getAllArticles } from '@/lib/articles';
+import { CATEGORIES } from '@/lib/categories';
 import ArticleCard from '@/components/ArticleCard';
 import Breadcrumb from '@/components/Breadcrumb';
 import AdUnit from '@/components/AdUnit';
 import AffiliateCTA from '@/components/AffiliateCTA';
-import { env } from '@/lib/env';
+import { getBlurPlaceholder } from '@/lib/image-utils';
 
 // ── Hub Topic Definitions ────────────────────────────────────
 // Each hub page aggregates articles by tags/categories into a themed landing
@@ -101,11 +102,6 @@ export async function generateMetadata({ params }: HubPageProps): Promise<Metada
     title: hub.title,
     description: hub.description,
     alternates: { canonical: url },
-    // Hub page: noindex while unique editorial content is being built out.
-    robots: {
-      index: false,
-      follow: true,
-    },
     openGraph: {
       title: hub.title,
       description: hub.description,
@@ -129,14 +125,14 @@ function getHubArticles(hub: HubTopic) {
 
 // ── Helper: get contextual CTAs for hub page ─────────────────
 function getHubPlanYourTripCTAs(hub: HubTopic) {
-  const baseClookId = env.NEXT_PUBLIC_KLOOK_AFFILIATE_ID;
-  const baseBookingId = env.NEXT_PUBLIC_BOOKING_AFFILIATE_ID;
+  const baseClookId = process.env.NEXT_PUBLIC_KLOOK_AFF_ID || '';
+  const baseBookingId = process.env.NEXT_PUBLIC_BOOKING_AFF_ID || '';
 
   switch (hub.slug) {
     case 'tokyo-anime-cafes':
       return [
         {
-          icon: <Ticket size={24} strokeWidth={1.8} />,
+          icon: '🎫',
           title: 'Book Tokyo Cafes',
           description: 'Reserve your spot at Tokyo\'s hottest anime collaboration cafes with free cancellation and English support.',
           buttonText: 'Browse Experiences',
@@ -145,7 +141,7 @@ function getHubPlanYourTripCTAs(hub: HubTopic) {
           category: 'collab-cafes',
         },
         {
-          icon: <Utensils size={24} strokeWidth={1.8} />,
+          icon: '🍽️',
           title: 'Anime Restaurant Dining',
           description: 'Special menus and themed dining experiences at collaboration restaurants across Tokyo.',
           buttonText: 'Find Restaurants',
@@ -154,7 +150,7 @@ function getHubPlanYourTripCTAs(hub: HubTopic) {
           category: 'collab-cafes',
         },
         {
-          icon: <Hotel size={24} strokeWidth={1.8} />,
+          icon: '🏨',
           title: 'Stay in Anime Districts',
           description: 'Hotels and capsule stays in Ikebukuro, Shibuya, Akihabara. Walk to cafes from your accommodation.',
           buttonText: 'Search Hotels',
@@ -166,7 +162,7 @@ function getHubPlanYourTripCTAs(hub: HubTopic) {
     case 'anime-pilgrimage-tokyo':
       return [
         {
-          icon: <Train size={24} strokeWidth={1.8} />,
+          icon: '🚅',
           title: 'JR Pass for Pilgrims',
           description: 'Visit multiple pilgrimage sites efficiently with Japan Rail Pass. Covers trains to all major holy lands from Tokyo.',
           buttonText: 'Get JR Pass',
@@ -175,7 +171,7 @@ function getHubPlanYourTripCTAs(hub: HubTopic) {
           category: 'anime-pilgrimage',
         },
         {
-          icon: <Hotel size={24} strokeWidth={1.8} />,
+          icon: '🏨',
           title: 'Stay Near Pilgrimage Sites',
           description: 'Hotels near Your Name (Komaichi), Weathering With You (Shinjuku), and other pilgrimage locations.',
           buttonText: 'Find Accommodation',
@@ -184,7 +180,7 @@ function getHubPlanYourTripCTAs(hub: HubTopic) {
           category: 'anime-pilgrimage',
         },
         {
-          icon: <Smartphone size={24} strokeWidth={1.8} />,
+          icon: '📱',
           title: 'Stay Connected',
           description: 'eSIM and mobile data plans so you can navigate pilgrimage routes offline and share updates.',
           buttonText: 'Get eSIM',
@@ -196,7 +192,7 @@ function getHubPlanYourTripCTAs(hub: HubTopic) {
     case 'osaka-anime-guide':
       return [
         {
-          icon: <Ticket size={24} strokeWidth={1.8} />,
+          icon: '🎫',
           title: 'Osaka Anime Experiences',
           description: 'Book anime cafes, Den Den Town tours, and Universal Studios Japan anime attractions.',
           buttonText: 'Browse Osaka',
@@ -205,7 +201,7 @@ function getHubPlanYourTripCTAs(hub: HubTopic) {
           category: 'collab-cafes',
         },
         {
-          icon: <Hotel size={24} strokeWidth={1.8} />,
+          icon: '🏨',
           title: 'Stay in Dotonbori & Beyond',
           description: 'Hotels in anime-friendly districts — Dotonbori, Namba, Shinsaibashi. Walking distance to shops and cafes.',
           buttonText: 'Search Hotels',
@@ -214,7 +210,7 @@ function getHubPlanYourTripCTAs(hub: HubTopic) {
           category: 'area-guides',
         },
         {
-          icon: <TrainFront size={24} strokeWidth={1.8} />,
+          icon: '🚄',
           title: 'Kansai Rail Pass',
           description: 'Day trips from Osaka to Kyoto, Kobe, and Nara. Perfect for expanding your anime pilgrimage.',
           buttonText: 'Get Kansai Pass',
@@ -226,7 +222,7 @@ function getHubPlanYourTripCTAs(hub: HubTopic) {
     case 'day-trips-from-tokyo':
       return [
         {
-          icon: <Train size={24} strokeWidth={1.8} />,
+          icon: '🚅',
           title: 'JR Pass (7-Day)',
           description: 'Visit Kamakura, Chichibu, Odaiba, and more all in one week. Perfect for day trip collectors.',
           buttonText: 'Get JR Pass',
@@ -235,7 +231,7 @@ function getHubPlanYourTripCTAs(hub: HubTopic) {
           category: 'anime-pilgrimage',
         },
         {
-          icon: <Umbrella size={24} strokeWidth={1.8} />,
+          icon: '🏖️',
           title: 'Kamakura Day Trip',
           description: 'Book skip-the-line access to temples and visit the Slam Dunk crossing with guided tours.',
           buttonText: 'Book Tour',
@@ -244,11 +240,11 @@ function getHubPlanYourTripCTAs(hub: HubTopic) {
           category: 'anime-pilgrimage',
         },
         {
-          icon: <Drama size={24} strokeWidth={1.8} />,
+          icon: '🎭',
           title: 'Local Guides & Maps',
           description: 'GetYourGuide offers detailed pilgrimage guides and themed day trip itineraries.',
           buttonText: 'Browse Guides',
-          href: `https://www.getyourguide.com/s/?q=Tokyo%20day%20trip&partner_id=${env.NEXT_PUBLIC_GETYOURGUIDE_AFFILIATE_ID}`,
+          href: `https://www.getyourguide.com/s/?q=Tokyo%20day%20trip&partner_id=${process.env.NEXT_PUBLIC_GETYOURGUIDE_AFF_ID || ''}`,
           program: 'getyourguide' as const,
           category: 'anime-pilgrimage',
         },
@@ -256,7 +252,7 @@ function getHubPlanYourTripCTAs(hub: HubTopic) {
     case 'japan-travel-essentials':
       return [
         {
-          icon: <Smartphone size={24} strokeWidth={1.8} />,
+          icon: '📱',
           title: 'eSIM & Mobile Data',
           description: 'Instant eSIM activation. No physical SIM cards needed. From ¥1,000 for 7 days.',
           buttonText: 'Compare Plans',
@@ -265,7 +261,7 @@ function getHubPlanYourTripCTAs(hub: HubTopic) {
           category: 'travel-tips',
         },
         {
-          icon: <Train size={24} strokeWidth={1.8} />,
+          icon: '🚅',
           title: 'JR Pass (All Durations)',
           description: '7, 14, or 21-day passes. Compare prices and find the best option for your trip length.',
           buttonText: 'Get JR Pass',
@@ -274,7 +270,7 @@ function getHubPlanYourTripCTAs(hub: HubTopic) {
           category: 'travel-tips',
         },
         {
-          icon: <Hotel size={24} strokeWidth={1.8} />,
+          icon: '🏨',
           title: 'Hotels & Ryokans',
           description: 'Budget capsule hotels to luxury ryokans. Free cancellation on most bookings.',
           buttonText: 'Search Hotels',
