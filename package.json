@@ -13,39 +13,28 @@
     "auto-link": "tsx scripts/auto-link.ts",
     "freshness": "tsx scripts/freshness-check.ts",
     "ping": "tsx scripts/ping-search-engines.ts",
-    "deploy-hook": "tsx scripts/deploy.ts",
-    "check-env": "tsx scripts/check-env.ts",
-    "check-meta": "tsx scripts/check-meta-duplicates.ts",
-    "images": "tsx scripts/generate-image-manifest.ts",
-    "debt-report": "tsx scripts/debt-report.ts"
+    "deploy-hook": "tsx scripts/deploy.ts"
   },
   "dependencies": {
-    "@vercel/analytics": "^2.0.1",
-    "@vercel/speed-insights": "^2.0.0",
     "date-fns": "^4.1.0",
     "flexsearch": "^0.8.212",
+    "gray-matter": "^4.0.3",
     "lucide-react": "^1.7.0",
-    "next": "16.2.3",
+    "next": "16.2.2",
     "next-mdx-remote": "^6.0.0",
     "react": "19.2.4",
-    "react-dom": "19.2.4"
+    "react-dom": "19.2.4",
+    "remark-gfm": "^4.0.1"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",
     "@types/node": "^20.19.39",
     "@types/react": "^19",
     "@types/react-dom": "^19",
-    "@vladmandic/face-api": "^1.7.15",
-    "canvas": "^3.2.3",
     "eslint": "^9",
     "eslint-config-next": "16.2.2",
-    "gray-matter": "^4.0.3",
-    "image-size": "^2.0.2",
-    "sharp": "^0.34.5",
     "tailwindcss": "^4",
-    "tesseract.js": "^7.0.0",
     "tsx": "^4.7.0",
-    "typescript": "^5",
-    "@tensorflow/tfjs-node": "~4.22.0"
+    "typescript": "^5"
   }
 }

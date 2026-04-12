@@ -1,4 +1,5 @@
 import { MDXRemote } from 'next-mdx-remote/rsc';
+import remarkGfm from 'remark-gfm';
 import Link from 'next/link';
 import AdUnit from './AdUnit';
 import AffiliateCTA from './AffiliateCTA';
@@ -34,7 +35,7 @@ export default function ArticleBody({ content, category, slug, relatedSuggestion
   if (sections.length <= 3) {
     return (
       <div className="prose prose-lg" style={{ maxWidth: 'none' }}>
-        <MDXRemote source={content} />
+        <MDXRemote source={content} options={{ mdxOptions: { remarkPlugins: [remarkGfm] } }} />
       </div>
     );
   }
@@ -56,7 +57,7 @@ export default function ArticleBody({ content, category, slug, relatedSuggestion
       {sections.map((section, i) => (
         <div key={i}>
           <div className="prose prose-lg" style={{ maxWidth: 'none' }}>
-            <MDXRemote source={section} />
+            <MDXRemote source={section} options={{ mdxOptions: { remarkPlugins: [remarkGfm] } }} />
           </div>
 
           {/* Inline Newsletter — after 2nd H2 (~40% scroll point) */}

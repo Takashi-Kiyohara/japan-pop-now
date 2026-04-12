@@ -18,7 +18,7 @@ wpPostId: 840
 
 ![Chiikawa Bakery Harajuku interior with character bread display and plush decor](/images/articles/chiikawa-bakery-harajuku-guide-2026/featured.jpg)
 
-**Chiikawa Bakery is the official permanent bakery for the Chiikawa (ちいかわ) series, located on the 3rd floor of Tokyu Plaza Omotesando in Harajuku, Tokyo.** It runs 11:00–20:00 (last entry 19:30), character-shaped breads cost ¥580 each, and entry is reservation-first via Lawson Ticket — though weekday afternoons after 15:00 accept walk-ins when capacity allows.
+**Chiikawa Bakery is the official permanent bakery for the Chiikawa (ちいかわ) series, located on the 3rd floor of Tokyu Plaza Omotesando in Harajuku, Tokyo.** Open since March 2023 with no announced closing date — this is a permanent venue, not a limited-time pop-up. It runs 11:00–20:00 (last entry 19:30), character-shaped breads cost ¥580 each, and entry is reservation-first via Lawson Ticket — though weekday afternoons after 15:00 accept walk-ins when capacity allows.
 
 I visited on a weekday morning in April 2026 after 20 minutes in line without a reservation. Here is the part most English guides skip: the ¥1,000 "Advance reservation ticket with shopping voucher" on Lawson Ticket is **not** a separate cost. It is literally ¥1,000 you can spend inside the store. If you plan to buy more than ¥1,000 of bread and drinks — which is almost anyone walking through the door — the reservation ticket is free priority entry with a money-back guarantee.
 
@@ -62,10 +62,13 @@ For more detail on Lawson Ticket and how to book from outside Japan, see our [La
 
 ## What to order
 
-![Character-shaped breads — Chiikawa, Hachiware, Usagi — displayed in the bakery case](/images/articles/chiikawa-bakery-harajuku-guide-2026/03.jpg)
-*Chiikawa (custard), Hachiware (chocolate), Usagi (caramel) — ¥580 each. Photo: Japan Pop Now*
+![Chiikawa Bakery menu board showing all items and prices with Chiikawa plush on top](/images/articles/chiikawa-bakery-harajuku-guide-2026/04.jpg)
+*The full menu board with prices. Most character breads are ¥580, drinks ¥590–¥690. Photo: Japan Pop Now*
 
 The menu is long and the prices look small, but it adds up fast. Here is how to triage a first visit.
+
+![Character bread display inside a brick-oven-style showcase with Chiikawa, Hachiware, and Usagi figure decorations](/images/articles/chiikawa-bakery-harajuku-guide-2026/05.jpg)
+*Character-shaped breads inside the bakery's brick-oven display — Chiikawa (custard), Hachiware (chocolate), Usagi (caramel) at ¥580 each. Photo: Japan Pop Now*
 
 **Start with one character bread.** Chiikawa (custard cream), Hachiware (chocolate cream), or Usagi (caramel cream) at ¥580 each. The custard Chiikawa is the most popular and the safest pick for sharing.
 
@@ -75,10 +78,10 @@ The menu is long and the prices look small, but it adds up fast. Here is how to 
 
 **Drinks: keep it simple.** Iced Coffee (¥590) or Iced Café Latte (¥690) are the steady choices. The Sakura Soda (¥690) runs through spring and is worth trying if you visit in April or May.
 
-**Realistic first-visit spend: ¥2,000–¥2,800 per person.** One character bread, one drink, one souvenir rusk or financier. If you hold the Lawson Ticket voucher, you recover ¥1,000 of that.
+![Two Chiikawa Bakery drinks — iced tea and iced café latte — held up at the counter](/images/articles/chiikawa-bakery-harajuku-guide-2026/03.jpg)
+*Iced tea (left) and iced café latte (right) in Chiikawa Bakery logo cups. Photo: Japan Pop Now*
 
-![Chiikawa Bakery drinks in character cup sleeves](/images/articles/chiikawa-bakery-harajuku-guide-2026/02.jpg)
-*Character cup sleeves — a photo moment that sells the visit. Photo: Japan Pop Now*
+**Realistic first-visit spend: ¥2,000–¥2,800 per person.** One character bread, one drink, one souvenir rusk or financier. If you hold the Lawson Ticket voucher, you recover ¥1,000 of that.
 
 ## Rules international visitors miss
 
@@ -92,8 +95,8 @@ Three things the staff enforce strictly, because most visitors misread the signa
 
 ## What's nearby (anime-friendly spots within 10 minutes)
 
-![Chiikawa Bakery interior merchandise corner with goods display](/images/articles/chiikawa-bakery-harajuku-guide-2026/01.jpg)
-*The merchandise corner is compact but well-edited. Photo: Japan Pop Now*
+![Chiikawa Bakery merchandise area with packaged rusks, coffee beans, and accessories on display shelves](/images/articles/chiikawa-bakery-harajuku-guide-2026/06.jpg)
+*The merchandise area — packaged rusks, coffee beans, and character goods. A quieter option for collectors. Photo: Japan Pop Now*
 
 Chiikawa Bakery is on the Jingumae crossing, which puts you within walking distance of some of the best pop culture stops in Tokyo.
 
@@ -105,8 +108,8 @@ Chiikawa Bakery is on the Jingumae crossing, which puts you within walking dista
 
 **Design Festa Gallery (10 min walk)** — Artist-run gallery in Ura-Harajuku, always rotating. Not anime-specific but a favourite among creative fans.
 
-![Chiikawa Bakery coffee bean bags and merchandise on side wall display](/images/articles/chiikawa-bakery-harajuku-guide-2026/05.jpg)
-*The coffee bean bags — a lower-key merch option for collectors. Photo: Japan Pop Now*
+![Chiikawa Bakery iced café latte in logo cup on an outdoor bench](/images/articles/chiikawa-bakery-harajuku-guide-2026/02.jpg)
+*A takeaway café latte from Chiikawa Bakery — the nearby Tokyu Plaza terrace is a good spot to enjoy it. Photo: Japan Pop Now*
 
 ## Why Japanese fans treat this as a pilgrimage
 
@@ -114,8 +117,8 @@ Chiikawa (ちいかわ) started as a Twitter manga by artist Nagano in 2020 and 
 
 That emotional layer is why the bakery functions as a quiet pilgrimage, not just a souvenir stop. Local fans come here on birthdays, on difficult workdays, and on slow Saturdays when they want to feel something gentle. Notice how long people spend looking at a bread before picking it up. The bakery sells a ten-minute feeling, not just a pastry.
 
-![Chiikawa Bakery interior showing character displays and atmosphere](/images/articles/chiikawa-bakery-harajuku-guide-2026/04.jpg)
-*The atmosphere inside. Photo: Japan Pop Now*
+![Giant Usagi and Hachiware plush characters sitting in woven baskets hanging from the ceiling of Chiikawa Bakery](/images/articles/chiikawa-bakery-harajuku-guide-2026/01.jpg)
+*Usagi and Hachiware in ceiling baskets — the kind of detail that turns a bakery into a pilgrimage site. Photo: Japan Pop Now*
 
 ## Frequently Asked Questions
 

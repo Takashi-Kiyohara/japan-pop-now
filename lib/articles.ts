@@ -98,6 +98,12 @@ export function getArticlesByCategory(category: string): ArticleMeta[] {
   )
 }
 
+export function getArticlesByFeature(featureSlug: string): ArticleMeta[] {
+  return getAllArticles().filter((a) =>
+    a.tags.map((t) => t.toLowerCase()).includes(featureSlug.toLowerCase())
+  )
+}
+
 export function getArticlesByTag(tag: string): ArticleMeta[] {
   return getAllArticles().filter((a) =>
     a.tags.map((t) => t.toLowerCase()).includes(tag.toLowerCase())
