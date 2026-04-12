@@ -1,13 +1,13 @@
 ---
 title: "Japan Rail Pass 2026: Worth ¥50,000? Calculator Inside"
-description: "Last updated: April 2026 Affiliate Disclosure: Some links in this article are affiliate links. We earn a small commission at no extra cost to you — it helps..."
+description: "Is the ¥50,000 JR Pass worth it in 2026? Calculator & honest breakdown for different trip types included."
 date: "2026-04-03"
 category: "travel-tips"
 tags: []
 featuredImage: "/images/articles/japan-rail-pass-2026-guide/featured.jpg"
 featuredImageAlt: "Shinkansen bullet train speeding through Japanese countryside"
 author: "Japan Pop Now"
-excerpt: "Last updated: April 2026 Affiliate Disclosure: Some links in this article are affiliate links. We earn a small commission at no extra cost to you — it helps..."
+excerpt: "Is the ¥50,000 JR Pass worth it in 2026? Calculator & honest breakdown for different trip types included."
 relatedSlugs: []
 wpPostId: 613
 ---

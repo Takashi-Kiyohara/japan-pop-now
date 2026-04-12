@@ -1,13 +1,13 @@
 ---
-title: "Nakano Broadway Guide 2026 — Tokyo’s Best-Kept Anime Shopping Secret"
-description: "Last updated: March 2026. Covers all floors, Mandarake locations, Daily Chico soft serve, opening hours, and a practical comparison with Akihabara. Everybody..."
+title: "Nakano Broadway: Anime Hub"
+description: "Shop Nakano Broadway: 300+ anime stores, rare manga, vintage figures, Mandarake locations, Daily Chico soft serve & Tokyo shopping guide."
 date: "2026-03-28"
 category: "area-guides"
 tags: []
 featuredImage: "/images/articles/nakano-broadway-guide/featured.jpg"
 featuredImageAlt: "Retro arcade game center inside Nakano Broadway with anime posters"
 author: "Japan Pop Now"
-excerpt: "Last updated: March 2026. Covers all floors, Mandarake locations, Daily Chico soft serve, opening hours, and a practical comparison with Akihabara. Everybody..."
+excerpt: "Shop Nakano Broadway: 300+ anime stores, rare manga, vintage figures, Mandarake locations, Daily Chico soft serve & Tokyo shopping guide."
 relatedSlugs: []
 wpPostId: 204
 ---

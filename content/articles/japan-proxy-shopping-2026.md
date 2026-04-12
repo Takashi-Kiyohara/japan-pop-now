@@ -1,13 +1,13 @@
 ---
 title: "Japan Proxy Shopping 2026: Buy Anime Figures & Merch Online"
-description: "Last updated: April 2026 Affiliate Disclosure: Some links in this article are affiliate links. We earn a small commission at no extra cost to you — it helps..."
+description: "Buy anime figures from Mercari Japan & Yahoo Auctions using proxy services. Costs, services & shipping explained."
 date: "2026-04-03"
 category: "travel-tips"
 tags: []
 featuredImage: "/images/articles/japan-proxy-shopping-2026/featured.jpg"
 featuredImageAlt: "Anime figures and collectibles display at Akihabara shop for proxy shopping"
 author: "Japan Pop Now"
-excerpt: "Last updated: April 2026 Affiliate Disclosure: Some links in this article are affiliate links. We earn a small commission at no extra cost to you — it helps..."
+excerpt: "Buy anime figures from Mercari Japan & Yahoo Auctions using proxy services. Costs, services & shipping explained."
 relatedSlugs: []
 wpPostId: 610
 ---

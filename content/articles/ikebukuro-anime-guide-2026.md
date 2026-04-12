@@ -1,5 +1,5 @@
 ---
-title: "Ikebukuro Anime Guide (2026): Animate, Otome Road, Gashapon & Collab Cafes — The Complete Walking Tour"
+title: "Ikebukuro Anime Guide 2026"
 description: "Complete guide to Ikebukuro for anime fans. 9-floor Animate flagship, Otome Road, 4 collab cafe locations, Sunshine City events, and why locals prefer it over..."
 date: "2026-03-25"
 category: "area-guides"

@@ -1,5 +1,5 @@
 ---
-title: "My Hero Academia Cafe Tokyo 2026: Ikebukuro Guide for Anime Travelers"
+title: "My Hero Cafes Tokyo 2026"
 description: "Planning to visit the My Hero Academia Cafe in Ikebukuro in 2026? This practical guide explains the dates, why Ikebukuro is the best base, and how to turn the..."
 date: "2026-04-06"
 category: "area-guides"

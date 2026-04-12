@@ -1,5 +1,5 @@
 ---
-title: "Your Name Pilgrimage Tokyo: Every Real-Life Location (With Walking Route)"
+title: "Your Name Tokyo Pilgrimage"
 description: "Visit every Your Name (Kimi no Na wa) location in Tokyo. Suga Shrine stairs, Shinjuku overpass, Shinanomachi Station — with a half-day walking route and photo..."
 date: "2026-03-25"
 category: "anime-pilgrimage"

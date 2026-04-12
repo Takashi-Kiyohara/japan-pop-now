@@ -1,5 +1,5 @@
 ---
-title: "Naruto Tokyo Pilgrimage: A Complete Guide to Shinobi Locations"
+title: "Naruto Tokyo Pilgrimage 2026"
 description: "Discover real-world Naruto pilgrimage spots across Tokyo, from Jump Shop to anime exhibition halls. Visit where ninjas train, eat ramen, and experience seichi junrei."
 date: "2026-04-08"
 category: "anime-pilgrimage"

@@ -1,5 +1,5 @@
 ---
-title: "Anime Merch Shopping Japan 2026: 15 Best Shops & Price Guide [Budget Tips]"
+title: "Best Anime Merch Shops Japan"
 description: "JJK PLAZA Chair:Black merch pop-up at Loft stores across Japan. All 5 venues, dates, prices, what sells out first, and tips for international visitors."
 date: "2026-03-24"
 category: "travel-tips"

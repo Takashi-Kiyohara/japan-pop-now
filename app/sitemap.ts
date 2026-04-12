@@ -65,7 +65,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     url: getArticleUrl(article.slug),
     changeFrequency: 'weekly' as const,
     priority: 0.9,
-    lastModified: new Date(article.date),
+    lastModified: new Date(article.lastUpdated || article.date),
   }));
 
   // Category pages

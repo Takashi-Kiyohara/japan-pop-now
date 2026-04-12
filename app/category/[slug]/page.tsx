@@ -97,7 +97,7 @@ export async function generateMetadata({
     alternates: {
       canonical: categoryUrl,
     },
-    robots: { index: false, follow: true },
+    robots: { index: true, follow: true },
     openGraph: {
       title: `${category.label} — Japan Pop Now`,
       description: category.description || `Explore all articles about ${category.label.toLowerCase()} on Japan Pop Now.`,

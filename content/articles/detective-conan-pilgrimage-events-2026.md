@@ -1,13 +1,13 @@
 ---
-title: "Detective Conan Pilgrimage & Events 2026: 30th Anniversary Guide"
-description: "Last updated: April 2026. Disclosure: This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you...."
+title: "Detective Conan Pilgrimage"
+description: "Attend Detective Conan 30th anniversary events: nationwide exhibitions, 6 cafes, Sunshine City & USJ collaboration."
 date: "2026-04-04"
 category: "anime-pilgrimage"
 tags: []
 featuredImage: "/images/articles/detective-conan-pilgrimage-events-2026/featured.jpg"
 featuredImageAlt: "Entrance to Gosho Aoyama Manga Factory museum for Detective Conan fans"
 author: "Japan Pop Now"
-excerpt: "Last updated: April 2026. Disclosure: This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you...."
+excerpt: "Attend Detective Conan 30th anniversary events: nationwide exhibitions, 6 cafes, Sunshine City & USJ collaboration."
 relatedSlugs: []
 wpPostId: 753
 ---

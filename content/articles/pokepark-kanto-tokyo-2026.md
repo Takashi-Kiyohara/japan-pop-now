@@ -1,13 +1,13 @@
 ---
 title: "PokéPark Kanto Complete Guide 2026: Tickets, Areas & Tips"
-description: "Last updated: April 2026. Disclosure: This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you...."
+description: "Visit PokéPark Kanto in Tokyo: 3 zones, ¥4,700–14,000+ tickets, Pokémon Forest & advance booking guide."
 date: "2026-04-05"
 category: "area-guides"
 tags: []
 featuredImage: "/images/articles/pokepark-kanto-tokyo-2026/featured.jpg"
 featuredImageAlt: "PokePark Kanto attraction in Tokyo"
 author: "Japan Pop Now"
-excerpt: "Last updated: April 2026. Disclosure: This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you...."
+excerpt: "Visit PokéPark Kanto in Tokyo: 3 zones, ¥4,700–14,000+ tickets, Pokémon Forest & advance booking guide."
 relatedSlugs: []
 wpPostId: 780
 ---

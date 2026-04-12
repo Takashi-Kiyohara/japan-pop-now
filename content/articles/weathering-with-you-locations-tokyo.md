@@ -1,13 +1,13 @@
 ---
-title: "Weathering With You Locations Tokyo — Every Real Spot from Tenki no Ko You Can Visit (2026)"
-description: "Last updated: March 2026. All locations verified as publicly accessible unless noted. Includes walking routes optimized for a half-day or full-day visit...."
+title: "Weathering With You Tokyo 2026"
+description: "Visit Weathering With You Tokyo filming locations: Koenji Weather Shrine, convenience stores, rooftops, walking routes & verified accessible."
 date: "2026-03-28"
 category: "anime-pilgrimage"
 tags: []
 featuredImage: "/images/articles/weathering-with-you-locations-tokyo/featured.jpg"
 featuredImageAlt: "Tokyo city night skyline reminiscent of Weathering With You anime"
 author: "Japan Pop Now"
-excerpt: "Last updated: March 2026. All locations verified as publicly accessible unless noted. Includes walking routes optimized for a half-day or full-day visit...."
+excerpt: "Visit Weathering With You Tokyo filming locations: Koenji Weather Shrine, convenience stores, rooftops, walking routes & verified accessible."
 relatedSlugs: []
 wpPostId: 203
 ---

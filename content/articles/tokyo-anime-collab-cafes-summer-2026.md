@@ -1,13 +1,13 @@
 ---
-title: "Tokyo Anime Collab Cafes Summer 2026: What’s Open & How to Book"
-description: "Last updated: April 2026. Tokyo’s collab cafe scene rotates constantly — there are usually 15-20 anime-themed cafes running at any given time across the..."
+title: "Tokyo Collab Cafes Summer"
+description: "Book Tokyo summer anime collab cafes 2026: Haikyuu Animate, Maid-sama, June-August rotations, multi-cafe routes & reservation systems."
 date: "2026-04-05"
 category: "collab-cafes"
 tags: []
 featuredImage: "/images/articles/tokyo-anime-collab-cafes-summer-2026/featured.jpg"
 featuredImageAlt: "Rainbow Bridge and Tokyo Harbor summer cityscape"
 author: "Japan Pop Now"
-excerpt: "Last updated: April 2026. Tokyo’s collab cafe scene rotates constantly — there are usually 15-20 anime-themed cafes running at any given time across the..."
+excerpt: "Book Tokyo summer anime collab cafes 2026: Haikyuu Animate, Maid-sama, June-August rotations, multi-cafe routes & reservation systems."
 relatedSlugs: []
 wpPostId: 752
 ---

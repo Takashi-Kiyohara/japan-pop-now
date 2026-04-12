@@ -1,13 +1,13 @@
 ---
 title: "Ghibli Park Complete Guide 2026: Tickets, Access & Tips"
-description: "Last updated: April 2026. Disclosure: This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you...."
+description: "Visit Ghibli Park near Nagoya with 5 themed areas based on Studio Ghibli films. Tickets, access & planning guide."
 date: "2026-04-04"
 category: "area-guides"
 tags: []
 featuredImage: "/images/articles/ghibli-park-complete-guide-2026/featured.jpg"
 featuredImageAlt: "Mononoke Village walking path at Ghibli Park in Aichi Prefecture"
 author: "Japan Pop Now"
-excerpt: "Last updated: April 2026. Disclosure: This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you...."
+excerpt: "Visit Ghibli Park near Nagoya with 5 themed areas based on Studio Ghibli films. Tickets, access & planning guide."
 relatedSlugs: []
 wpPostId: 750
 ---

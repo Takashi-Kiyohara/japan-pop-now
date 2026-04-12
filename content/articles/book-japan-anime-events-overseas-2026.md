@@ -1,13 +1,13 @@
 ---
-title: "How to Book Japan [anime events](/articles/animejapan-2026-guide-international-visitors/) from Overseas (2026 Guide)"
-description: "Last updated: April 2026. Disclosure: This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you...."
+title: "Book Anime Events from Overseas 2026"
+description: "Book anime collab cafes & events from overseas using proxy services. Complete guide to Lawson, BOX & payments."
 date: "2026-04-04"
 category: "travel-tips"
 tags: []
 featuredImage: "/images/articles/book-japan-anime-events-overseas-2026/featured.jpg"
 featuredImageAlt: "Arrival gate at Narita Airport Terminal 2 for international visitors"
 author: "Japan Pop Now"
-excerpt: "Last updated: April 2026. Disclosure: This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you...."
+excerpt: "Book anime collab cafes & events from overseas using proxy services. Complete guide to Lawson, BOX & payments."
 relatedSlugs: []
 wpPostId: 749
 ---

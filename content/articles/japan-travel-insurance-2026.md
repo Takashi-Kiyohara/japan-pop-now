@@ -1,6 +1,6 @@
 ---
 title: "Japan Travel Insurance 2026: Best Plans Compared (from $45)"
-description: "Last updated: April 2026 Affiliate Disclosure: Some links in this article are affiliate links. We earn a small commission at no extra cost to you — it helps..."
+description: "Compare Japan travel insurance plans from $45. Medical evacuation & emergency coverage explained for anime fans."
 date: "2026-04-03"
 category: "travel-tips"
 tags: []
@@ -8,7 +8,7 @@ featuredImage: "/images/articles/japan-travel-insurance-2026/featured.jpg"
 featuredImageAlt: "Tokyo Station historic red-brick building illuminated at night"
 imageCredit: "Photo: © JNTO"
 author: "Japan Pop Now"
-excerpt: "Last updated: April 2026 Affiliate Disclosure: Some links in this article are affiliate links. We earn a small commission at no extra cost to you — it helps..."
+excerpt: "Compare Japan travel insurance plans from $45. Medical evacuation & emergency coverage explained for anime fans."
 relatedSlugs: []
 wpPostId: 611
 ---

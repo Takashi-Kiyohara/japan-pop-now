@@ -1,13 +1,13 @@
 ---
-title: "7 Anime Day Trips from Tokyo: Pilgrimage Guide with JR Pass Tips"
-description: "Last updated: April 2026. Disclosure: This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you...."
+title: "Anime Day Trips Tokyo 2026"
+description: "Explore 7 anime day trips under 2 hours from Tokyo, from Slam Dunk's Kamakura to Evangelion's Hakone. JR Pass savings guide."
 date: "2026-04-04"
 category: "area-guides"
 tags: []
 featuredImage: "/images/articles/anime-day-trips-from-tokyo-2026/featured.jpg"
 featuredImageAlt: "Great Buddha statue in Kamakura a popular anime day trip from Tokyo"
 author: "Japan Pop Now"
-excerpt: "Last updated: April 2026. Disclosure: This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you...."
+excerpt: "Explore 7 anime day trips under 2 hours from Tokyo, from Slam Dunk's Kamakura to Evangelion's Hakone. JR Pass savings guide."
 relatedSlugs: []
 wpPostId: 754
 ---

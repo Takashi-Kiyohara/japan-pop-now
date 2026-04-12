@@ -1,13 +1,13 @@
 ---
-title: "Chainsaw Man Tokyo Pilgrimage Guide 2026: Every Reze Arc Location in Jinbocho"
-description: "Last updated: April 2026. The quiet backstreets of Jinbocho — the real-world setting behind Chainsaw Man’s Reze Arc. Photo by Unsplash. The Chainsaw Man..."
+title: "Chainsaw Man Tokyo 2026"
+description: "Visit Chainsaw Man Reze Arc filming locations in Tokyo’s Jinbocho district: phone booth, stairs, buildings & walking map guide 2026."
 date: "2026-04-02"
 category: "anime-pilgrimage"
 tags: []
 featuredImage: "/images/articles/chainsaw-man-pilgrimage-tokyo/featured.jpg"
 featuredImageAlt: "Secondhand bookstores in Jinbocho district Tokyo featured in Chainsaw Man"
 author: "Japan Pop Now"
-excerpt: "Last updated: April 2026. The quiet backstreets of Jinbocho — the real-world setting behind Chainsaw Man’s Reze Arc. Photo by Unsplash. The Chainsaw Man..."
+excerpt: "Visit Chainsaw Man Reze Arc filming locations in Tokyo’s Jinbocho district: phone booth, stairs, buildings & walking map guide 2026."
 relatedSlugs: []
 wpPostId: 510
 ---

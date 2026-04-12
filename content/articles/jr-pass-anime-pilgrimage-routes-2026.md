@@ -1,13 +1,13 @@
 ---
-title: "JR Pass for Anime Pilgrimages: Is It Worth It? Routes, Calculator & 2026 Prices"
-description: "Last updated: April 2026. Disclosure: This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you...."
+title: "JR Pass for Pilgrimages 2026"
+description: "Calculate JR Pass value for anime pilgrimages. 4 routes: Tokyo→Kyoto→Osaka. 2026 prices & cost comparison."
 date: "2026-04-02"
 category: "anime-pilgrimage"
 tags: []
 featuredImage: "/images/articles/jr-pass-anime-pilgrimage-routes-2026/featured.jpg"
 featuredImageAlt: "Enoden train at Kamakura seaside crossing on anime pilgrimage route"
 author: "Japan Pop Now"
-excerpt: "Last updated: April 2026. Disclosure: This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you...."
+excerpt: "Calculate JR Pass value for anime pilgrimages. 4 routes: Tokyo→Kyoto→Osaka. 2026 prices & cost comparison."
 relatedSlugs: []
 wpPostId: 538
 ---

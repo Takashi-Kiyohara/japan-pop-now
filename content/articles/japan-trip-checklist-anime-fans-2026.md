@@ -1,6 +1,6 @@
 ---
-title: "Japan Trip Checklist for Anime Fans: Everything to Book Before You Go (2026)"
-description: "Last updated: April 2026. Disclosure: This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you...."
+title: "Japan Anime Trip Checklist"
+description: "Book your anime trip 3 months ahead: JR Pass, collab cafes, hotels & pilgrimage plans. Complete pre-trip checklist."
 date: "2026-04-02"
 category: "travel-tips"
 tags: []
@@ -8,7 +8,7 @@ featuredImage: "/images/articles/japan-trip-checklist-anime-fans-2026/featured.j
 featuredImageAlt: "Haneda Airport terminal at dusk with Mt. Fuji in the background"
 imageCredit: "Photo: © JNTO"
 author: "Japan Pop Now"
-excerpt: "Last updated: April 2026. Disclosure: This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you...."
+excerpt: "Book your anime trip 3 months ahead: JR Pass, collab cafes, hotels & pilgrimage plans. Complete pre-trip checklist."
 relatedSlugs: []
 wpPostId: 541
 ---

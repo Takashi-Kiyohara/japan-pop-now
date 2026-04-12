@@ -1,13 +1,13 @@
 ---
-title: "Animate Cafe Guide Japan — Lottery Booking, Gratte, DECOTTO & All Locations (2026)"
-description: "Last updated: March 2026. Covers all current Animate Cafe locations, the lottery booking system, Gratte stands, and DECOTTO donut shop. Animate Cafe is Japan’s..."
+title: "Animate Cafes: Booking Guide 2026"
+description: "Book Animate Cafe with Japan’s lottery system: locations, themed menus, exclusive merch, and walk-in alternatives at Gratte & DECOTTO."
 date: "2026-03-28"
 category: "collab-cafes"
 tags: []
 featuredImage: "/images/articles/animate-cafe-guide-japan/featured.jpg"
 featuredImageAlt: "Animate store and Lashinbang in [Ikebukuro](/articles/ikebukuro-anime-guide-2026/) for anime cafe lottery booking"
 author: "Japan Pop Now"
-excerpt: "Last updated: March 2026. Covers all current Animate Cafe locations, the lottery booking system, Gratte stands, and DECOTTO donut shop. Animate Cafe is Japan’s..."
+excerpt: "Book Animate Cafe with Japan’s lottery system: locations, themed menus, exclusive merch, and walk-in alternatives at Gratte & DECOTTO."
 relatedSlugs: []
 wpPostId: 199
 ---

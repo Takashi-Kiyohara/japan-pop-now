@@ -1,13 +1,13 @@
 ---
-title: "Gachapon Guide Japan 2026: Where to Find, How to Use & 7 Best Machines"
-description: "Last updated: March 2026. Those colorful capsule toy machines lined up outside convenience stores and crammed into dedicated multi-floor buildings? That is..."
+title: "Gachapon Guide Japan 2026"
+description: "Master gachapon capsule toy machines in Japan: best locations, pricing ¥200-500, current series, where to find Chiikawa & One Piece 2026."
 date: "2026-03-28"
 category: "travel-tips"
 tags: []
 featuredImage: "/images/articles/gachapon-guide-japan/featured.jpg"
 featuredImageAlt: "Bandai Gashapon store with capsule toy machines in Japan"
 author: "Japan Pop Now"
-excerpt: "Last updated: March 2026. Those colorful capsule toy machines lined up outside convenience stores and crammed into dedicated multi-floor buildings? That is..."
+excerpt: "Master gachapon capsule toy machines in Japan: best locations, pricing ¥200-500, current series, where to find Chiikawa & One Piece 2026."
 relatedSlugs: []
 wpPostId: 268
 ---

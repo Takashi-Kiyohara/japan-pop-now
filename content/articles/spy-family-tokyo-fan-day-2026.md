@@ -1,13 +1,13 @@
 ---
 title: "SPY×FAMILY Tokyo Fan Day: Events, Shops & Cafes (2026)"
-description: "Last updated: April 2026 SPY×FAMILY Tokyo Fan Day: Events, Shops & Cafes SPY×FAMILY is everywhere in Tokyo right now. The anime has crossed over from obsessed..."
+description: "Experience SPY×FAMILY Tokyo 2026: WAKUWAKU PARK events, pop-up shops, collab cafes, merch hotspots & one-day fan itinerary guide."
 date: "2026-04-03"
 category: "collab-cafes"
 tags: []
 featuredImage: "/images/articles/spy-family-tokyo-fan-day-2026/featured.jpg"
 featuredImageAlt: "Tokyo Skytree tower for SPY x FAMILY events and shops nearby"
 author: "Japan Pop Now"
-excerpt: "Last updated: April 2026 SPY×FAMILY Tokyo Fan Day: Events, Shops & Cafes SPY×FAMILY is everywhere in Tokyo right now. The anime has crossed over from obsessed..."
+excerpt: "Experience SPY×FAMILY Tokyo 2026: WAKUWAKU PARK events, pop-up shops, collab cafes, merch hotspots & one-day fan itinerary guide."
 relatedSlugs: []
 wpPostId: 607
 ---

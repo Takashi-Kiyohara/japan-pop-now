@@ -1,13 +1,13 @@
 ---
 title: "Japan Luggage Forwarding 2026: Ship Bags for ¥2,000"
-description: "Last updated: April 2026 Affiliate Disclosure: Some links in this article are affiliate links. We earn a small commission at no extra cost to you — it helps..."
+description: "Ship luggage between Japanese cities for ¥2,000–3,000 with takuhaibin. Save time, hands-free travel guide."
 date: "2026-04-03"
 category: "travel-tips"
 tags: []
 featuredImage: "/images/articles/japan-luggage-forwarding-2026/featured.jpg"
 featuredImageAlt: "Yamato Transport Kuroneko delivery boxes in various sizes for luggage forwarding"
 author: "Japan Pop Now"
-excerpt: "Last updated: April 2026 Affiliate Disclosure: Some links in this article are affiliate links. We earn a small commission at no extra cost to you — it helps..."
+excerpt: "Ship luggage between Japanese cities for ¥2,000–3,000 with takuhaibin. Save time, hands-free travel guide."
 relatedSlugs: []
 wpPostId: 612
 ---

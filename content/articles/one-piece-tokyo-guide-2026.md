@@ -1,13 +1,13 @@
 ---
-title: "One Piece Tokyo Guide 2026: Where to Find Every Straw Hat Experience"
-description: "Last updated: April 2026. Finding your way through Tokyo’s massive anime merchandise landscape in 2026 One Piece Tokyo Guide 2026: Where to Find Every Straw..."
+title: "One Piece Tokyo Guide 2026"
+description: "Find One Piece in Tokyo 2026: Base Shop, Mugiwara stores, Cafe GENE, merchandise locations, trading cards & Straw Hat pilgrimage guide."
 date: "2026-04-02"
 category: "area-guides"
 tags: []
 featuredImage: "/images/articles/one-piece-tokyo-guide-2026/featured.jpg"
 featuredImageAlt: "Tokyo Tower red illumination night skyline for One Piece themed attractions"
 author: "Japan Pop Now"
-excerpt: "Last updated: April 2026. Finding your way through Tokyo’s massive anime merchandise landscape in 2026 One Piece Tokyo Guide 2026: Where to Find Every Straw..."
+excerpt: "Find One Piece in Tokyo 2026: Base Shop, Mugiwara stores, Cafe GENE, merchandise locations, trading cards & Straw Hat pilgrimage guide."
 relatedSlugs: []
 wpPostId: 512
 ---
