@@ -59,9 +59,7 @@ export default function NewsletterSignup({
           {leadMagnet}
         </p>
         <form onSubmit={handleSubmit} className="space-y-2">
-          <label htmlFor="newsletter-email-compact" className="sr-only">Email address</label>
           <input
-            id="newsletter-email-compact"
             type="email"
             placeholder="your@email.com"
             value={email}
@@ -113,9 +111,7 @@ export default function NewsletterSignup({
         </p>
 
         <form onSubmit={handleSubmit} className="flex flex-col sm:flex-row gap-3 max-w-md mx-auto">
-          <label htmlFor="newsletter-email-full" className="sr-only">Email address</label>
           <input
-            id="newsletter-email-full"
             type="email"
             placeholder="your@email.com"
             value={email}

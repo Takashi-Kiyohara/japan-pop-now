@@ -5,7 +5,7 @@
 
 import type { Metadata } from 'next';
 import EventCalendar from '@/components/EventCalendar';
-import { getAllEvents, getUpcomingAndOngoing, getCalendarItemListSchema } from '@/lib/events';
+import { getUpcomingAndOngoing, getCalendarItemListSchema } from '@/lib/events';
 
 export const revalidate = 3600;
 

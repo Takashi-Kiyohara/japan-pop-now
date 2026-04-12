@@ -10,7 +10,6 @@ export interface ArticleSchemaOptions {
   readingTime?: string; // ISO 8601 duration (e.g., "PT5M")
   about?: string[];
   mentions?: string[];
-  isPartOf?: { name: string; url: string }; // Feature series hub
 }
 
 export function getWebsiteSchema() {
@@ -36,21 +35,24 @@ export function getOrganizationSchema() {
     url: SITE_URL,
     logo: { '@type': 'ImageObject', url: LOGO_URL },
     sameAs: [
-      'https://www.instagram.com/pop_now_jp/',
-      'https://www.tiktok.com/@pop_now_jp',
+      'https://twitter.com/japanpopnow',
+      'https://instagram.com/japanpopnow',
+      'https://youtube.com/@japanpopnow',
+      'https://tiktok.com/@japanpopnow',
     ],
   }
 }
 
 export function getArticleSchema(article: Article, url: string, options?: ArticleSchemaOptions) {
-  const schema: Record<string, unknown> = {
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  const schema: any = {
     '@context': 'https://schema.org',
     '@type': 'NewsArticle',
     headline: article.title,
     description: article.description,
     image: article.featuredImage || LOGO_URL,
     datePublished: article.date,
-    dateModified: article.lastUpdated || article.date,
+    dateModified: article.date,
     author: getAuthorSchema(),
     publisher: {
       '@type': 'Organization',
@@ -81,14 +83,6 @@ export function getArticleSchema(article: Article, url: string, options?: Articl
       '@type': 'Thing',
       name: entity,
     }))
-  }
-
-  if (options?.isPartOf) {
-    schema.isPartOf = {
-      '@type': 'CreativeWorkSeries',
-      name: options.isPartOf.name,
-      url: options.isPartOf.url,
-    }
   }
 
   return schema
@@ -202,14 +196,16 @@ export function getAuthorSchema(
   url?: string,
   image?: string
 ) {
-  const schema: Record<string, unknown> = {
+  // eslint-disable-next-line @typescript-eslint/no-explicit-any
+  const schema: any = {
     '@context': 'https://schema.org',
     '@type': 'Person',
     name,
     url: url || `${SITE_URL}/about`,
     sameAs: [
-      'https://www.instagram.com/pop_now_jp/',
-      'https://www.tiktok.com/@pop_now_jp',
+      'https://twitter.com/japanpopnow',
+      'https://www.instagram.com/japan_pop_now/',
+      'https://youtube.com/@japanpopnow',
     ],
   }
 

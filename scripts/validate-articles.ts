@@ -97,11 +97,11 @@ function validateFrontmatter(data: Record<string, unknown>, file: string): Valid
   // Category validation
   if (!data.category) {
     errors.push({ file, type: 'error', message: 'Missing category field' })
-  } else if (typeof data.category !== 'string' || !VALID_CATEGORIES.includes(data.category)) {
+  } else if (!VALID_CATEGORIES.includes(data.category)) {
     errors.push({
       file,
       type: 'error',
-      message: `Invalid category: ${String(data.category)}. Must be one of: ${VALID_CATEGORIES.join(', ')}`,
+      message: `Invalid category: ${data.category}. Must be one of: ${VALID_CATEGORIES.join(', ')}`,
     })
   }
 
@@ -182,7 +182,7 @@ function validateArticles() {
   files.forEach((file) => {
     const filePath = path.join(ARTICLES_DIR, file)
     const raw = fs.readFileSync(filePath, 'utf-8')
-    const { data } = matter(raw)
+    const { data, content } = matter(raw)
 
     const frontmatterErrors = validateFrontmatter(data, file)
     const contentErrors = validateContent(raw, file)

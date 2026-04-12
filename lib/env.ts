@@ -31,16 +31,6 @@ export interface ValidatedEnv {
  */
 function validateEnv(): ValidatedEnv {
   const required = ['NEXT_PUBLIC_ADSENSE_ID'];
-  const optional = [
-    'NEXT_PUBLIC_KLOOK_AFF_ID',
-    'NEXT_PUBLIC_BOOKING_AFF_ID',
-    'NEXT_PUBLIC_AMAZON_AFF_TAG',
-    'NEXT_PUBLIC_GETYOURGUIDE_AFF_ID',
-    'NEXT_PUBLIC_AGODA_AFF_ID',
-    'NEXT_PUBLIC_AWIN_AFF_ID',
-    'NEXT_PUBLIC_GA_ID',
-    'NEXT_PUBLIC_GOOGLE_SEARCH_CONSOLE',
-  ];
 
   // Check required vars
   const missing = required.filter((key) => !process.env[key]);

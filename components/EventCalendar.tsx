@@ -79,13 +79,9 @@ function TypeBadge({ type }: { type: CollabEvent['type'] }) {
   );
 }
 
-// ─── Event Card ────────────────────────────────────────────────────────────────
-function EventCard({ event }: { event: CollabEvent }) {
-  const today = new Date();
-  const status = isPermanent(event) ? 'permanent' : getEventStatus(event, today);
-  const link = getEventLink(event);
-
-  const CardContent = () => (
+// ─── Card Content (extracted to avoid creating components during render) ───────
+function CardContentInner({ event, status }: { event: CollabEvent; status: ReturnType<typeof getEventStatus> | 'permanent' }) {
+  return (
     <div
       style={{
         display: 'flex',
@@ -137,17 +133,24 @@ function EventCard({ event }: { event: CollabEvent }) {
       </div>
     </div>
   );
+}
+
+// ─── Event Card ────────────────────────────────────────────────────────────────
+function EventCard({ event }: { event: CollabEvent }) {
+  const today = new Date();
+  const status = isPermanent(event) ? 'permanent' : getEventStatus(event, today);
+  const link = getEventLink(event);
 
   if (link.isInternal) {
     return (
       <Link href={link.href} style={{ textDecoration: 'none', display: 'block' }}>
-        <CardContent />
+        <CardContentInner event={event} status={status} />
       </Link>
     );
   }
   return (
     <a href={link.href} target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none', display: 'block' }}>
-      <CardContent />
+      <CardContentInner event={event} status={status} />
     </a>
   );
 }

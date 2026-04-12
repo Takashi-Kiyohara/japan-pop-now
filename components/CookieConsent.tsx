@@ -25,6 +25,7 @@ export default function CookieConsent() {
     document.cookie = 'jpn_cookie_consent=false; max-age=31536000; path=/; SameSite=Lax; Secure';
     // Disable GA if user declines
     if (typeof window !== 'undefined') {
+      // eslint-disable-next-line @typescript-eslint/no-explicit-any
       (window as any)['ga-disable-' + process.env.NEXT_PUBLIC_GA_ID] = true;
     }
     setVisible(false);

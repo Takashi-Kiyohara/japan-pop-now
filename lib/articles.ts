@@ -15,7 +15,6 @@ export type Article = {
   date: string
   lastUpdated?: string
   category: string
-  feature?: string // optional feature-series slug (orthogonal to category)
   tags: string[]
   featuredImage: string
   featuredImageAlt: string
@@ -24,16 +23,6 @@ export type Article = {
   content: string
   excerpt: string
   relatedSlugs?: string[]
-  // Schema.org type override — defaults to NewsArticle if absent.
-  // 'Event' triggers getEventSchema, 'TouristAttraction' triggers
-  // getTouristAttractionSchema in app/articles/[slug]/page.tsx.
-  schemaType?: 'Article' | 'Event' | 'TouristAttraction'
-  startDate?: string
-  endDate?: string
-  location?: { name: string; address: string }
-  // v4.2 image pipeline fields
-  imageList?: string  // optimised card/list thumbnail (16:9 or 4:3 crop)
-  imageOg?: string    // OG-optimised 1200×630 variant
 }
 
 export type ArticleMeta = Omit<Article, 'content'>
@@ -64,10 +53,8 @@ export function getArticleBySlug(slug: string): Article | null {
     title,
     description: data.description || '',
     date: data.date || '',
-    // Accept either `lastUpdated` or the legacy `updated` field name
-    lastUpdated: data.lastUpdated || data.updated || '',
+    lastUpdated: data.lastUpdated || '',
     category,
-    feature: data.feature || undefined,
     tags,
     featuredImage: data.featuredImage || '',
     featuredImageAlt: data.featuredImageAlt || title || '',
@@ -76,12 +63,6 @@ export function getArticleBySlug(slug: string): Article | null {
     content,
     excerpt: data.excerpt || content.slice(0, 160).replace(/\n/g, ' '),
     relatedSlugs: data.relatedSlugs || [],
-    schemaType: data.schemaType,
-    startDate: data.startDate,
-    endDate: data.endDate,
-    location: data.location,
-    imageList: data.imageList || undefined,
-    imageOg: data.imageOg || undefined,
   }
 }
 
@@ -96,8 +77,7 @@ export function getAllArticles(): ArticleMeta[] {
     .map((slug) => {
       const a = getArticleBySlug(slug)
       if (!a) return null
-      const { content: _content, ...meta } = a
-      void _content
+      const { content: _, ...meta } = a // eslint-disable-line @typescript-eslint/no-unused-vars
       // Ensure tags are always populated (auto-tags if empty)
       if (!meta.tags || meta.tags.length === 0) {
         meta.tags = generateAutoTags(meta.slug, meta.title, meta.category)
@@ -124,12 +104,6 @@ export function getArticlesByTag(tag: string): ArticleMeta[] {
   )
 }
 
-export function getArticlesByFeature(featureSlug: string): ArticleMeta[] {
-  return getAllArticles().filter(
-    (a) => a.feature && a.feature.toLowerCase() === featureSlug.toLowerCase()
-  )
-}
-
 export function getRelatedArticles(slug: string, limit = 3): ArticleMeta[] {
   const article = getArticleBySlug(slug)
   if (!article) return []
@@ -140,8 +114,7 @@ export function getRelatedArticles(slug: string, limit = 3): ArticleMeta[] {
       .map((s) => {
         const a = getArticleBySlug(s)
         if (!a) return null
-        const { content: _content, ...meta } = a
-        void _content
+        const { content: _, ...meta } = a // eslint-disable-line @typescript-eslint/no-unused-vars
         return meta
       })
       .filter(Boolean)

@@ -12,9 +12,9 @@ const eslintConfig = defineConfig([
     "out/**",
     "build/**",
     "next-env.d.ts",
-    // Exclude image-pipeline and face-models
+    // Standalone scripts (not part of Next.js build):
     "image-pipeline/**",
-    "data/face-models/**",
+    "scripts/**",
   ]),
 ]);
 

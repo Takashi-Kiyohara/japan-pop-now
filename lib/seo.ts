@@ -47,7 +47,7 @@ export function generateArticleMetadata(article: ArticleMeta, slug: string) {
       card: 'summary_large_image' as const,
       title: article.title,
       description: article.description,
-      creator: '@pop_now_jp',
+      creator: '@japanpopnow',
       image: article.featuredImage || DEFAULT_OG_IMAGE,
     },
   };
@@ -180,10 +180,7 @@ export function generateLocalBusinessSchema() {
     name: SITE_NAME,
     description: DEFAULT_DESCRIPTION,
     url: SITE_URL,
-    sameAs: [
-      'https://www.instagram.com/pop_now_jp/',
-      'https://www.tiktok.com/@pop_now_jp',
-    ],
+    sameAs: ['https://twitter.com/japanpopnow'],
     image: DEFAULT_OG_IMAGE,
   };
 }

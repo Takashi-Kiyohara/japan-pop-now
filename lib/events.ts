@@ -64,6 +64,7 @@ export function isPermanent(event: CollabEvent): boolean {
 }
 
 // ─── Filtering ─────────────────────────────────────────────────────────────────
+// eslint-disable-next-line @typescript-eslint/no-unused-vars
 export function getUpcomingAndOngoing(days = 14, today: Date = new Date()): {
   ongoing: CollabEvent[];
   openingSoon: CollabEvent[];
@@ -80,7 +81,6 @@ export function getUpcomingAndOngoing(days = 14, today: Date = new Date()): {
   const recentlyEnded: CollabEvent[] = [];
 
   for (const e of all) {
-    const start = new Date(e.startDate);
     const end = new Date(e.endDate);
 
     if (isPermanent(e)) {

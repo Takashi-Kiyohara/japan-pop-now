@@ -103,7 +103,7 @@ export default function Home() {
           fontWeight: 500,
           zIndex: 10,
         }}>
-          Updated daily · 15+ active collab cafes · Week's events →
+          Updated daily · 15+ active collab cafes · Week&apos;s events →
         </div>
       </div>
 
@@ -115,7 +115,7 @@ export default function Home() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col sm:flex-row items-center justify-between gap-4">
           <div>
             <p style={{ margin: 0, fontSize: '0.9rem', color: '#666', marginBottom: '6px' }}>
-              This week's live anime events
+              This week&apos;s live anime events
             </p>
             <h3 style={{
               margin: 0,
@@ -124,7 +124,7 @@ export default function Home() {
               color: '#14213d',
               fontFamily: 'var(--font-display), Georgia, serif',
             }}>
-              See 15+ collab cafes opening now
+              See 15+ collab cafes open now
             </h3>
           </div>
           <Link

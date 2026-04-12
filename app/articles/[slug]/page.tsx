@@ -1,6 +1,5 @@
 import { Metadata } from 'next';
 import Image from 'next/image';
-import Link from 'next/link';
 import ArticleBody from '@/components/ArticleBody';
 import {
   getArticleBySlug,
@@ -9,14 +8,7 @@ import {
   getAllArticles,
 } from '@/lib/articles';
 import { CATEGORIES } from '@/lib/categories';
-import { getFeatureBySlug } from '@/lib/features';
-import {
-  getArticleSchemaWithSpeakable,
-  getBreadcrumbSchema,
-  getHowToSchema,
-  getEventSchema,
-  getTouristAttractionSchema,
-} from '@/lib/structured-data';
+import { getArticleSchemaWithSpeakable, getBreadcrumbSchema, getHowToSchema } from '@/lib/structured-data';
 import { articleUrl as getArticleUrl, absoluteUrl } from '@/lib/url';
 import { extractQAFromHeadings, generateFAQSchema } from '@/lib/faq-schema';
 import { getContentMetrics } from '@/lib/content-analysis';
@@ -42,8 +34,7 @@ interface ArticlePageProps {
   params: Promise<{ slug: string }>;
 }
 
-// 24h revalidate — articles are static, pushed on-demand via /api/revalidate
-export const revalidate = 86400;
+export const revalidate = 3600;
 
 export async function generateStaticParams() {
   const slugs = getAllArticleSlugs();
@@ -82,17 +73,17 @@ export async function generateMetadata({
       section: article.category,
       tags: article.tags,
       url: url,
-      images: (article.imageOg || article.featuredImage)
-        ? [{ url: article.imageOg || article.featuredImage, width: 1200, height: 630, alt: article.featuredImageAlt }]
+      images: article.featuredImage
+        ? [{ url: article.featuredImage, width: 1200, height: 630, alt: article.featuredImageAlt }]
         : undefined,
     },
     twitter: {
       card: 'summary_large_image',
       title: article.title,
       description: article.description,
-      images: (article.imageOg || article.featuredImage) ? [article.imageOg || article.featuredImage] : undefined,
-      site: '@pop_now_jp',
-      creator: '@pop_now_jp',
+      images: article.featuredImage ? [article.featuredImage] : undefined,
+      site: '@japanpopnow',
+      creator: '@japanpopnow',
     },
   };
 }
@@ -108,7 +99,6 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
   const relatedArticles = getRelatedArticles(slug, 3);
   const allArticles = getAllArticles();
   const category = CATEGORIES.find((c) => c.slug === article.category);
-  const feature = article.feature ? getFeatureBySlug(article.feature) : undefined;
   const url = getArticleUrl(slug);
   const headings = extractHeadings(article.content);
   const metrics = getContentMetrics(article.content);
@@ -122,7 +112,6 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
       label: category?.label || 'Articles',
       href: category ? `/category/${category.slug}` : '/',
     },
-    ...(feature ? [{ label: feature.label, href: `/features/${feature.slug}` }] : []),
     ...(hubSlug ? [{ label: 'Guide', href: `/guides/${hubSlug}` }] : []),
     { label: article.title, href: `/articles/${slug}` },
   ];
@@ -145,11 +134,6 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     .filter((a) => a.category === article.category && a.slug !== slug)
     .slice(0, 4);
 
-  // Cross-category picks (different category from current)
-  const crossCategoryArticles = allArticles
-    .filter((a) => a.category !== article.category && a.slug !== slug)
-    .slice(0, 4);
-
   return (
     <>
       <ScrollProgress />
@@ -163,7 +147,6 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
             getArticleSchemaWithSpeakable(article, url, {
               wordCount: metrics.wordCount,
               readingTime: metrics.readingTimeISO,
-              ...(feature ? { isPartOf: { name: feature.label, url: absoluteUrl(`/features/${feature.slug}`) } } : {}),
             })
           ),
         }}
@@ -198,44 +181,6 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                 h2Headings.map((h) => ({ name: h.text })),
                 url,
                 article.featuredImage,
-              )
-            ),
-          }}
-        />
-      )}
-      {/* Optional secondary schemas — fired when frontmatter sets schemaType.
-          Both Event and TouristAttraction sit alongside the NewsArticle schema
-          (Google supports multiple ld+json blocks per page) so AI Overview /
-          Rich Results have richer entity context. */}
-      {article.schemaType === 'Event' && article.startDate && article.endDate && article.location && (
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{
-            __html: JSON.stringify(
-              getEventSchema(
-                article.title,
-                article.description,
-                article.startDate,
-                article.endDate,
-                article.location,
-                url,
-                article.featuredImage || undefined,
-              )
-            ),
-          }}
-        />
-      )}
-      {article.schemaType === 'TouristAttraction' && article.location && (
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{
-            __html: JSON.stringify(
-              getTouristAttractionSchema(
-                article.title,
-                article.description,
-                article.location.address,
-                url,
-                article.featuredImage || undefined,
               )
             ),
           }}
@@ -287,24 +232,9 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
             <div className="lg:col-span-2">
               {/* Article Header */}
               <header className="mb-8">
-                <div className="flex flex-wrap items-center gap-2 mb-3">
-                  {category && (
-                    <span className="category-pill inline-block">{category.label}</span>
-                  )}
-                  {feature && (
-                    <Link
-                      href={`/features/${feature.slug}`}
-                      className="inline-block text-xs font-semibold px-3 py-1 rounded-full transition-opacity hover:opacity-80"
-                      style={{
-                        background: feature.color + '18',
-                        color: feature.color,
-                        border: `1px solid ${feature.color}40`,
-                      }}
-                    >
-                      {feature.label}
-                    </Link>
-                  )}
-                </div>
+                {category && (
+                  <span className="category-pill mb-3 inline-block">{category.label}</span>
+                )}
 
                 <h1
                   className="mb-4"
@@ -394,7 +324,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                 author={article.author}
                 relatedArticles={relatedArticles}
                 categoryArticles={categoryArticles}
-                crossCategoryArticles={crossCategoryArticles}
+                crossCategoryArticles={[]}
                 category={article.category}
               />
 

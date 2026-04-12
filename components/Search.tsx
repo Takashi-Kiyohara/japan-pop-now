@@ -13,11 +13,6 @@ interface SearchResult {
 
 const QUERY_MAX_LENGTH = 200;
 
-// Module-scope cache for the slug → article lookup map. Avoids stuffing it on
-// globalThis (which previously required `any` casts) and keeps the data shared
-// between the index initialiser and the search handler.
-let articlesMapCache: Map<string, SearchResult> | null = null;
-
 /**
  * Sanitize search query: strip HTML tags and trim whitespace
  */
@@ -67,8 +62,9 @@ export default function Search() {
 
         indexRef.current = index;
 
-        // Store articles map for result lookup
-        articlesMapCache = articlesMap;
+        // Store articles map globally for result lookup
+        // eslint-disable-next-line @typescript-eslint/no-explicit-any
+        (globalThis as any).__articlesMap = articlesMap;
       } catch (error) {
         console.error('Failed to initialize search index:', error);
       }
@@ -94,10 +90,12 @@ export default function Search() {
         limit: 10,
       }) as string[];
 
-      // Get articles from cached map
-      if (articlesMapCache) {
+      // Get articles from stored map
+      // eslint-disable-next-line @typescript-eslint/no-explicit-any
+      const articlesMap = (globalThis as any).__articlesMap as Map<string, SearchResult>;
+      if (articlesMap) {
         const matched = searchResults
-          .map((slug) => articlesMapCache!.get(slug))
+          .map((slug) => articlesMap.get(slug))
           .filter(Boolean) as SearchResult[];
 
         setResults(matched);
@@ -108,12 +106,9 @@ export default function Search() {
     }
   }, []);
 
-  // Trigger search when debounced query changes. handleSearch internally calls
-  // setResults / setSelectedIndex — that is the intended pattern for an
-  // external-input-driven derivation, so we suppress the strict-mode warning.
+  // Trigger search when debounced query changes
   useEffect(() => {
-    // eslint-disable-next-line react-hooks/set-state-in-effect
-    handleSearch(debouncedQuery);
+    handleSearch(debouncedQuery); // eslint-disable-line react-hooks/set-state-in-effect -- triggers search results update on debounced input
   }, [debouncedQuery, handleSearch]);
 
   // Keyboard shortcuts

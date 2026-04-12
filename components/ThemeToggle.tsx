@@ -3,38 +3,37 @@
 import { useEffect, useState } from 'react';
 import { Sun, Moon } from 'lucide-react';
 
-function applyTheme(newTheme: 'light' | 'dark') {
-  const html = document.documentElement;
-  if (newTheme === 'dark') {
-    html.setAttribute('data-theme', 'dark');
-  } else {
-    html.removeAttribute('data-theme');
-  }
-  localStorage.setItem('theme', newTheme);
-}
-
 export default function ThemeToggle() {
   const [theme, setTheme] = useState<'light' | 'dark'>('light');
   const [mounted, setMounted] = useState(false);
 
-  // Hydration safety: read localStorage / system preference on mount.
-  // localStorage is only available client-side, so this initialisation must
-  // happen in an effect rather than via lazy useState.
+  // Hydration safety
   useEffect(() => {
-    /* eslint-disable react-hooks/set-state-in-effect */
-    setMounted(true);
+    setMounted(true); // eslint-disable-line react-hooks/set-state-in-effect -- hydration gate
+    // Get theme from localStorage or system preference
     const storedTheme = localStorage.getItem('theme') as 'light' | 'dark' | null;
     const systemTheme = window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
     const initialTheme = storedTheme || systemTheme;
     setTheme(initialTheme);
-    /* eslint-enable react-hooks/set-state-in-effect */
-    applyTheme(initialTheme);
+    const html = document.documentElement;
+    if (initialTheme === 'dark') {
+      html.setAttribute('data-theme', 'dark');
+    } else {
+      html.removeAttribute('data-theme');
+    }
+    localStorage.setItem('theme', initialTheme);
   }, []);
 
   const toggleTheme = () => {
     const newTheme = theme === 'light' ? 'dark' : 'light';
     setTheme(newTheme);
-    applyTheme(newTheme);
+    const html = document.documentElement;
+    if (newTheme === 'dark') {
+      html.setAttribute('data-theme', 'dark');
+    } else {
+      html.removeAttribute('data-theme');
+    }
+    localStorage.setItem('theme', newTheme);
   };
 
   if (!mounted) return null;
@@ -56,9 +55,9 @@ export default function ThemeToggle() {
       title={`Switch to ${theme === 'light' ? 'dark' : 'light'} mode`}
     >
       {theme === 'light' ? (
-        <Moon size={20} strokeWidth={2} aria-hidden="true" />
+        <Moon size={20} strokeWidth={2} />
       ) : (
-        <Sun size={20} strokeWidth={2} aria-hidden="true" />
+        <Sun size={20} strokeWidth={2} />
       )}
     </button>
   );
