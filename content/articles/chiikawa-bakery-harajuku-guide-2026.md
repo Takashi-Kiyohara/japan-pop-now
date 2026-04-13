@@ -16,7 +16,7 @@ wpPostId: 840
 
 *Last updated: April 2026.*
 
-![Moe from Japan Pop Now smiling inside Chiikawa Bakery Harajuku with the bakery logo behind her](/images/articles/chiikawa-bakery-harajuku-guide-2026/moe-featured.jpg)
+![Chiikawa Bakery Harajuku interior with character bread display and plush decor](/images/articles/chiikawa-bakery-harajuku-guide-2026/featured.jpg)
 
 **Chiikawa Bakery is a collaboration bakery for the Chiikawa (縺｡縺・°繧・ series, located on the 3rd floor of Tokyu Plaza Omotesando in Harajuku, Tokyo.** Running through 2026, it operates 11:00窶・0:00 (last entry 19:30), character-shaped breads cost ﾂ･580 each, and entry is reservation-first via Lawson Ticket 窶・though weekday afternoons after 15:00 accept walk-ins when capacity allows.
 
