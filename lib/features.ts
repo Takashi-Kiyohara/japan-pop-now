@@ -1,68 +1,78 @@
-// Feature Series — editorial columns orthogonal to categories.
-// An article may belong to 0 or 1 Feature Series via optional `feature:` frontmatter.
-// Registry is a flat TS file, mirroring the categories.ts pattern.
-// See docs/site-structure-20260410.md for design rationale.
+/**
+ * lib/features.ts — Editorial feature series definitions
+ * Each "feature" is a curated content series grouping articles by theme.
+ */
 
-export type FeatureSeries = {
-  slug: string
-  label: string
-  tagline: string
-  description: string
-  cover: string // used both as hub hero image and OG image
-  color: string
-  primaryCategory: string // which of the 4 categories this series lives closest to
-  status: 'active' | 'upcoming' // upcoming = teased in UI but hub noindex if articles === 0
+export interface Feature {
+  slug: string;
+  title: string;
+  description: string;
+  /** Tags used to match articles to this feature */
+  tags: string[];
+  active: boolean;
+  /** Optional cover image path for OG image */
+  cover?: string;
+  /** Display label (defaults to title) */
+  label: string;
+  /** Short tagline (defaults to description) */
+  tagline: string;
+  /** CSS color for UI accent */
+  color: string;
+  /** Primary category this feature maps to */
+  primaryCategory: string;
 }
 
-export const FEATURES: FeatureSeries[] = [
+export const FEATURES: Feature[] = [
   {
-    slug: 'first-timers-field-notes',
-    label: "First-Timers' Field Notes",
-    tagline: 'Playbook-style hub articles for brand-new visitors.',
-    description:
-      "Your first trip to Japan is a compressed learning curve. This series turns the first-week chaos — airport transfers, IC cards, cash rules, collab cafe booking, unspoken train etiquette — into reusable playbooks you can read once and follow forever. Every article is a field-tested checklist, not a listicle.",
-    cover: '/images/features/first-timers-field-notes.jpg',
-    color: '#f97316',
-    primaryCategory: 'travel-tips',
-    status: 'active',
+    slug: 'collab-cafe-guide',
+    title: 'Collab Cafe Guide Series',
+    label: 'Collab Cafe Guide Series',
+    description: 'Complete guides to anime collaboration cafes across Japan — booking, menus, and real visit notes.',
+    tagline: 'Booking, menus, and real visit notes for anime cafes across Japan.',
+    tags: ['collab-cafe', 'anime-cafe'],
+    active: true,
+    color: '#e91e8c',
+    primaryCategory: 'collab-cafes',
   },
   {
-    slug: 'connectivity-deep-dive',
-    label: 'Connectivity Deep Dive',
-    tagline: 'eSIMs, pocket wifi, roaming — tested end-to-end.',
-    description:
-      "Staying online in Japan used to mean renting a pocket wifi brick at the airport. Now it's an eSIM scan, a QR code, and a 90-second activation. This series tests every connectivity option — eSIM, pocket wifi, international roaming, cafe wifi, Shinkansen wifi — against real-world anime tourism routes, so you know which one actually works for your itinerary.",
-    cover: '/images/features/connectivity-deep-dive.jpg',
-    color: '#3b82f6',
-    primaryCategory: 'travel-tips',
-    status: 'active',
+    slug: 'pilgrimage-routes',
+    title: 'Anime Pilgrimage Routes',
+    label: 'Anime Pilgrimage Routes',
+    description: 'Visit the real-life locations from your favorite anime — exact spots, photo angles, and access info.',
+    tagline: 'Exact spots, photo angles, and access info for anime holy lands.',
+    tags: ['pilgrimage', 'holy-land', 'seichi-junrei'],
+    active: true,
+    color: '#2563eb',
+    primaryCategory: 'anime-pilgrimages',
   },
   {
-    slug: 'quiet-pockets',
-    label: 'Quiet Pockets of Japan',
-    tagline: 'Counterweight to the neon: where anime fans go to decompress.',
-    description:
-      "Shibuya Crossing and Akihabara's main drag are legendary for a reason, but every returning traveller will tell you the trip gets better the moment you find a quiet pocket — a back-lane shrine in Kamakura, a 6am Kyoto alley before the tour buses, a Nakano side street at 2am. This series collects the slice-of-life locations that feel like walking onto a Makoto Shinkai background plate.",
-    cover: '/images/features/quiet-pockets.jpg',
-    color: '#22c55e',
-    primaryCategory: 'anime-pilgrimage',
-    status: 'active',
+    slug: 'tokyo-district-guides',
+    title: 'Tokyo District Guides',
+    label: 'Tokyo District Guides',
+    description: 'Neighborhood-by-neighborhood coverage of Tokyo anime and pop culture hotspots.',
+    tagline: 'Neighborhood-by-neighborhood Tokyo pop culture hotspots.',
+    tags: ['tokyo', 'area-guide', 'district'],
+    active: true,
+    color: '#16a34a',
+    primaryCategory: 'tokyo-guides',
   },
-  // Tokyo After Dark — deferred to phase 2 until we have ≥1 seed article.
-  // See docs/site-structure-20260410.md §2.5 and Critic addendum.
-]
+  {
+    slug: 'travel-essentials',
+    title: 'Japan Travel Essentials',
+    label: 'Japan Travel Essentials',
+    description: 'Practical guides for international visitors — rail passes, eSIM, IC cards, and money tips.',
+    tagline: 'Rail passes, eSIM, IC cards, and money tips for visitors.',
+    tags: ['travel-tips', 'essential', 'budget'],
+    active: true,
+    color: '#d97706',
+    primaryCategory: 'travel-essentials',
+  },
+];
 
-/**
- * Look up a feature series by slug. Returns undefined if not found or inactive.
- */
-export function getFeatureBySlug(slug: string): FeatureSeries | undefined {
-  return FEATURES.find((f) => f.slug === slug)
+export function getFeatureBySlug(slug: string): Feature | undefined {
+  return FEATURES.find((f) => f.slug === slug);
 }
 
-/**
- * All active feature slugs, for generateStaticParams.
- * Filters out 'upcoming' series to avoid empty-hub SEO risk.
- */
 export function getActiveFeatureSlugs(): string[] {
-  return FEATURES.filter((f) => f.status === 'active').map((f) => f.slug)
+  return FEATURES.filter((f) => f.active).map((f) => f.slug);
 }

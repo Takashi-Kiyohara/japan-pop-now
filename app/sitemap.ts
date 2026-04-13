@@ -1,11 +1,9 @@
 import { MetadataRoute } from 'next';
-import { getAllArticleSlugs, getAllArticles, CATEGORIES } from '@/lib/articles';
-import { getAllUniqueTags } from '@/lib/auto-tags';
-import { getSiteUrl, articleUrl as getArticleUrl, tagUrl, guideUrl } from '@/lib/url';
+import { getAllArticles, CATEGORIES } from '@/lib/articles';
+import { getSiteUrl, articleUrl as getArticleUrl, guideUrl } from '@/lib/url';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = getSiteUrl();
-  const slugs = getAllArticleSlugs();
   const articles = getAllArticles();
 
   // Static pages
@@ -65,7 +63,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     url: getArticleUrl(article.slug),
     changeFrequency: 'weekly' as const,
     priority: 0.9,
-    lastModified: new Date(article.date),
+    lastModified: new Date(article.lastUpdated || article.date),
   }));
 
   // Category pages
@@ -91,14 +89,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
     lastModified: new Date(),
   }));
 
-  // Tag archive pages
-  const tags = getAllUniqueTags(articles);
-  const tagPages: MetadataRoute.Sitemap = tags.map((tag) => ({
-    url: tagUrl(tag),
-    changeFrequency: 'weekly' as const,
-    priority: 0.5,
-    lastModified: new Date(),
-  }));
+  // Tag archive pages — EXCLUDED (noindex'd — low-quality thin pages)
+  // const tags = getAllUniqueTags(articles);
+  // const tagPages: MetadataRoute.Sitemap = tags.map((tag) => ({...}));
 
-  return [...staticPages, ...articlePages, ...categoryPages, ...guidePages, ...tagPages];
+  return [...staticPages, ...articlePages, ...categoryPages, ...guidePages];
 }

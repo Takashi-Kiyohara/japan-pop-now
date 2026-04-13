@@ -558,3 +558,8 @@ button { cursor: pointer; transition: all 0.2s ease; }
   img { max-width: 100% !important; page-break-inside: avoid; }
   h2, h3 { page-break-after: avoid; }
 }
+
+/* ── Hover states for Server Components (CSS-only, no JS event handlers) ── */
+.homepage-browse-link:hover { opacity: 0.85 !important; }
+.calendar-guide-link:hover { border-color: #fb923c !important; }
+.event-card-hover:hover { box-shadow: 0 4px 16px rgba(0,0,0,0.08); border-color: #fb923c !important; }

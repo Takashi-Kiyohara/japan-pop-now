@@ -53,15 +53,14 @@ export default function AdUnit({
   lazy = true,
 }: AdUnitProps) {
   const adRef = useRef<HTMLDivElement>(null);
+  const adLoadedRef = useRef(false);
   const [isVisible, setIsVisible] = useState(!lazy);
   const [adLoaded, setAdLoaded] = useState(false);
 
   // Lazy load: only render ad when near viewport
   useEffect(() => {
     if (!lazy || !adRef.current) {
-      // Eager-render fallback when lazy is off or ref is not yet attached.
-      // eslint-disable-next-line react-hooks/set-state-in-effect
-      setIsVisible(true);
+      setIsVisible(true); // eslint-disable-line react-hooks/set-state-in-effect -- intentional: triggers ad push
       return;
     }
 
@@ -81,19 +80,17 @@ export default function AdUnit({
 
   // Push ad when visible
   useEffect(() => {
-    if (!isVisible || adLoaded) return;
+    if (!isVisible || adLoadedRef.current) return;
     try {
       if (window.adsbygoogle) {
         window.adsbygoogle.push({});
-        // Marking the ad as loaded after the imperative push is the whole point
-        // of this effect; the rule's autofix would create a render loop.
-        // eslint-disable-next-line react-hooks/set-state-in-effect
-        setAdLoaded(true);
+        adLoadedRef.current = true;
+        setAdLoaded(true); // eslint-disable-line react-hooks/set-state-in-effect -- intentional: triggers re-render for opacity
       }
     } catch {
       // AdSense not loaded or blocked
     }
-  }, [isVisible, adLoaded]);
+  }, [isVisible]);
 
   const dims = formatDimensions[format];
   const publisherId = process.env.NEXT_PUBLIC_ADSENSE_ID || '';

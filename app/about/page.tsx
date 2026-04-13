@@ -14,13 +14,13 @@ export const metadata: Metadata = {
 
 const TEAM = [
   {
-    name: 'Takapon',
+    name: 'Takashi Kiyohara',
     role: 'Founder & Editor-in-Chief',
-    bio: 'Kyoto-born, Tokyo-based. Raised inside the old-culture rhythms of Kyoto — kendo in the morning, calligraphy in the afternoon — in a family whose ancestors include a well-known samurai lineage and a classical poet, with the family grave still kept at Koyasan (Mount Koya), the Shingon-Buddhist mountain monastery founded by Kukai in 816 and a UNESCO World Heritage site. After a stint at a US strategy consulting firm, he is now completing a graduate degree in International Relations in the United Kingdom, which is where most of the Japan Pop Now research, writing, and on-the-ground coordination happens between Tokyo field trips. He personally visits every cafe and location featured on the site.',
+    bio: 'Born and raised in Japan, Takashi bridges the gap between Japanese pop culture and international fans. With a background in strategy consulting and a deep love for anime, he created Japan Pop Now to be the resource he wished existed when introducing friends to Japan\'s otaku culture. He personally visits every cafe and location featured on the site.',
     expertise: ['Anime Collab Cafes', 'Tokyo Pop Culture Districts', 'Content Strategy', 'SEO'],
     socials: {
-      instagram: 'https://www.instagram.com/pop_now_jp/',
-      tiktok: 'https://www.tiktok.com/@pop_now_jp',
+      twitter: 'https://twitter.com/japanpopnow',
+      instagram: 'https://instagram.com/japanpopnow',
     },
   },
 ];
@@ -35,7 +35,7 @@ export default function AboutPage() {
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
-          __html: JSON.stringify(getAuthorSchema('Takapon')),
+          __html: JSON.stringify(getAuthorSchema('Takashi Kiyohara')),
         }}
       />
 
@@ -43,19 +43,14 @@ export default function AboutPage() {
         {/* Hero */}
         <section
           style={{
-            position: 'relative',
-            backgroundImage:
-              'linear-gradient(135deg, rgba(20,33,61,0.82) 0%, rgba(26,42,74,0.72) 50%, rgba(20,33,61,0.88) 100%), url(/images/about/hero.jpg)',
-            backgroundSize: 'cover',
-            backgroundPosition: 'center',
-            backgroundRepeat: 'no-repeat',
-            padding: '100px 0 80px',
+            background: 'linear-gradient(135deg, #14213d 0%, #1a2a4a 100%)',
+            padding: '80px 0 60px',
           }}
         >
-          <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 text-center" style={{ position: 'relative', zIndex: 1 }}>
+          <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
             <p
               className="text-sm font-bold tracking-widest uppercase mb-4"
-              style={{ color: '#fb923c', textShadow: '0 2px 8px rgba(0,0,0,0.4)' }}
+              style={{ color: '#fb923c' }}
             >
               About Us
             </p>
@@ -66,19 +61,11 @@ export default function AboutPage() {
                 fontSize: 'clamp(2rem, 5vw, 3rem)',
                 fontWeight: 700,
                 lineHeight: 1.2,
-                textShadow: '0 2px 12px rgba(0,0,0,0.5)',
               }}
             >
               The Team Behind Japan Pop Now
             </h1>
-            <p
-              style={{
-                color: 'rgba(255,255,255,0.92)',
-                fontSize: '1.1rem',
-                lineHeight: 1.7,
-                textShadow: '0 1px 6px rgba(0,0,0,0.4)',
-              }}
-            >
+            <p style={{ color: 'rgba(255,255,255,0.7)', fontSize: '1.1rem', lineHeight: 1.7 }}>
               We&apos;re on a mission to be the most trusted English-language guide to Japan&apos;s anime and pop culture scene — written by people who actually live here.
             </p>
           </div>
@@ -243,7 +230,7 @@ export default function AboutPage() {
               Have a tip, correction, or partnership inquiry? We&apos;d love to hear from you.
             </p>
             <a
-              href="mailto:snsganbaro@gmail.com"
+              href="mailto:takashi03157@gmail.com"
               className="inline-block px-8 py-3 rounded-lg font-semibold text-sm hover:opacity-90 transition-opacity"
               style={{ background: '#f97316', color: '#fff' }}
             >

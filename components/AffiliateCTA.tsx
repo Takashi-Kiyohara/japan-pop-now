@@ -1,30 +1,12 @@
 'use client';
 
-import type { ReactNode } from 'react';
-
-type AffiliateProgram =
-  | 'klook'
-  | 'booking'
-  | 'amazon'
-  | 'getyourguide'
-  | 'agoda'
-  | 'jrpass'
-  | 'awin'
-  | 'other';
-
 interface AffiliateCTAProps {
   title: string;
   description: string;
   buttonText: string;
   href: string;
-  program: AffiliateProgram;
-  /**
-   * Optional icon. Accepts any ReactNode — typically a Lucide icon component
-   * (e.g. <Coffee size={28} strokeWidth={1.8} />). Emoji string icons are
-   * supported for legacy callers but new code should use Lucide for visual
-   * consistency and to honour the site's no-emoji style rule.
-   */
-  icon?: ReactNode;
+  program: string;
+  icon?: string;
   category?: string;
 }
 
@@ -48,7 +30,7 @@ export default function AffiliateCTA({
   buttonText,
   href,
   program,
-  icon,
+  icon = '🎫',
   category = 'general',
 }: AffiliateCTAProps) {
   // Validate href is not empty
@@ -61,27 +43,25 @@ export default function AffiliateCTA({
 
   const productSchema = {
     '@context': 'https://schema.org',
-    '@type': 'Service',
+    '@type': 'Product',
     name: title,
     description: description,
-    url: affiliateUrl,
-    provider: {
-      '@type': 'Organization',
-      name: program,
+    offers: {
+      '@type': 'Offer',
+      url: affiliateUrl,
+      priceCurrency: 'JPY',
+      availability: 'https://schema.org/InStock',
     },
   };
 
   const handleClick = () => {
-    if (typeof window === 'undefined') return;
-    const gtag = (window as unknown as {
-      gtag?: (event: string, action: string, payload: Record<string, string>) => void;
-    }).gtag;
-    if (typeof gtag !== 'function') return;
-    gtag('event', 'affiliate_cta_click', {
-      affiliate_program: program,
-      cta_title: title,
-      affiliate_url: affiliateUrl,
-    });
+    if (typeof window !== 'undefined' && typeof window.gtag === 'function') {
+      window.gtag('event', 'affiliate_cta_click', {
+        affiliate_program: program,
+        cta_title: title,
+        affiliate_url: affiliateUrl,
+      });
+    }
   };
 
   return (
@@ -98,21 +78,7 @@ export default function AffiliateCTA({
       >
         <div className="p-6">
           <div className="flex items-start gap-4">
-            {icon ? (
-              <span
-                className="flex-shrink-0 flex items-center justify-center"
-                style={{
-                  width: '44px',
-                  height: '44px',
-                  borderRadius: '10px',
-                  background: '#fff7ed',
-                  color: '#f97316',
-                }}
-                aria-hidden
-              >
-                {icon}
-              </span>
-            ) : null}
+            <span className="text-3xl flex-shrink-0">{icon}</span>
             <div className="flex-1 min-w-0">
               <h4
                 className="font-bold mb-1"

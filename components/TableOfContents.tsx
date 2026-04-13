@@ -20,7 +20,6 @@ export default function TableOfContents({ headings }: TableOfContentsProps) {
 
   // Filter to H2 and H3 only
   const tocHeadings = headings.filter((h) => h.level === 2 || h.level === 3);
-  const h2Headings = headings.filter((h) => h.level === 2);
 
   // Track active heading with IntersectionObserver
   useEffect(() => {
@@ -46,7 +45,7 @@ export default function TableOfContents({ headings }: TableOfContentsProps) {
   useEffect(() => {
     if (!expanded) {
       const activeIndex = tocHeadings.findIndex((h) => h.id === activeId);
-      if (activeIndex >= 6) setExpanded(true);
+      if (activeIndex >= 6) setExpanded(true); // eslint-disable-line react-hooks/set-state-in-effect -- intentional: reveal hidden headings
     }
   }, [activeId, expanded, tocHeadings]);
 

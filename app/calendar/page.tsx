@@ -5,7 +5,7 @@
 
 import type { Metadata } from 'next';
 import EventCalendar from '@/components/EventCalendar';
-import { getAllEvents, getUpcomingAndOngoing, getCalendarItemListSchema } from '@/lib/events';
+import { getUpcomingAndOngoing, getCalendarItemListSchema } from '@/lib/events';
 
 export const revalidate = 3600;
 
@@ -152,6 +152,7 @@ export default function CalendarPage() {
           0%, 100% { opacity: 1; }
           50% { opacity: 0.4; }
         }
+        .calendar-guide-link:hover { border-color: #fb923c !important; }
       `}</style>
     </>
   );
@@ -243,12 +244,7 @@ function SidebarGuides() {
               border: '1px solid #f5f5f4',
               transition: 'border-color 0.15s ease',
             }}
-            onMouseEnter={(e) => {
-              (e.currentTarget as HTMLAnchorElement).style.borderColor = '#fb923c';
-            }}
-            onMouseLeave={(e) => {
-              (e.currentTarget as HTMLAnchorElement).style.borderColor = '#f5f5f4';
-            }}
+            className="calendar-guide-link"
           >
             <p style={{ margin: '0 0 2px', fontSize: '0.82rem', fontWeight: 600, color: '#14213d' }}>
               {l.title}

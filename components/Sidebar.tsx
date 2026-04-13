@@ -1,14 +1,11 @@
+'use client';
+
 import Link from 'next/link';
-import { Coffee, MapPin, Map, Compass } from 'lucide-react';
 import { ArticleMeta } from '@/lib/articles';
 import { CATEGORIES } from '@/lib/categories';
 import TableOfContents from './TableOfContents';
 import NewsletterSignup from './NewsletterSignup';
 import AdUnit from './AdUnit';
-
-const ICON_MAP: Record<string, React.ComponentType<{ size?: number }>> = {
-  Coffee, MapPin, Map, Compass,
-};
 
 interface Heading {
   id: string;

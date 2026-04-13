@@ -1,5 +1,5 @@
 ---
-title: "Detective Conan Cafe 2026 in Japan: Best Tokyo and Osaka Locations, Dates, Menu & Travel Tips"
+title: "Detective Conan Cafes 2026"
 description: "Planning to visit Detective Conan Cafe 2026 in Japan? This practical guide covers the dates, best Tokyo and Osaka locations, what makes each city different,..."
 date: "2026-04-06"
 category: "collab-cafes"
@@ -56,7 +56,7 @@ If your trip includes Tokyo, the most practical comparison is between **Shibuya*
 | Ikebukuro | Anime-focused travelers | Best if you want to pair the cafe with Animate, themed stores, and collab cafe hopping |
 | Tokyo Solamachi | Travelers mixing anime with sightseeing | Useful if your trip already includes Tokyo Skytree or east Tokyo plans |
 
-None of these is universally the “best” branch. The right choice depends on whether your trip is more **anime-district focused**, **general Tokyo sightseeing**, or **short-stay efficient**.
+None of these is universally the "best" branch. The right choice depends on whether your trip is more **anime-district focused**, **general Tokyo sightseeing**, or **short-stay efficient**.
 
 ## Is Osaka a better pick than Tokyo?
 Sometimes, yes.
@@ -82,7 +82,7 @@ This makes **Ikebukuro and Osaka especially attractive** for travelers arriving 
 ## What is the 2026 theme?
 The 2026 concept is **Retro Port Town**, with new illustrations showing characters in classic clothing inspired by a historic seaside setting.[1]
 
-That matters because it changes not only the visuals but also the overall appeal of the menu and merchandise. This is not just a standard reprint cafe. It is positioned as a seasonal concept with a distinct atmosphere, which is exactly the kind of event that tends to perform well with both dedicated fans and casual travelers looking for something memorable.
+That matters because it changes not only the visuals but also the overall appeal of the menu and [merchandise](/articles/anime-merch-shopping-guide-japan/). This is not just a standard reprint cafe. It is positioned as a seasonal concept with a distinct atmosphere, which is exactly the kind of event that tends to perform well with both dedicated fans and casual travelers looking for something memorable.
 
 ## What can you expect from the menu and goods?
 
@@ -92,7 +92,7 @@ The event coverage notes that the menu changes between the **first and second ha
 
 For many travelers, this makes timing more important than usual. If you care about seasonal menu differences or specific collaboration items, you should avoid assuming that every visit window offers exactly the same food lineup.
 
-The article also highlights exclusive benefits and merchandise, including:
+The article also highlights exclusive benefits and [merchandise](/articles/anime-merch-shopping-guide-japan/), including:
 
 - food and drink order gifts
 - acrylic stands
@@ -145,11 +145,11 @@ Because cities do not all open and close at the same time, your best branch depe
 International visitors often default to the most famous Tokyo location. In practice, Ikebukuro, Osaka, or even a non-Tokyo branch may be more convenient depending on your route.
 
 ### Expect the event to be photo-friendly but not friction-free
-A themed cafe can look effortless on social media, but real visits may involve time slots, limited menu windows, sold-out merchandise, and crowd pressure. Planning with realistic expectations usually leads to a better experience.
+A themed cafe can look effortless on social media, but real visits may involve time slots, limited menu windows, sold-out [merchandise](/articles/anime-merch-shopping-guide-japan/), and crowd pressure. Planning with realistic expectations usually leads to a better experience.
 
 <div className="jpn-cta">
 
-**Plan your visit:** Check the current schedule on [BOX cafe and space](https://boxcafespace.com/) and book early. Reservation details vary by location, so confirm your chosen branch before booking.
+**Plan your visit:** Check the current schedule on [BOX cafe and space](https://boxcafespace.com/) and book early. Reservation details vary by location, so confirm your chosen branch before [booking](/articles/how-to-book-anime-collab-cafe-japan/).
 
 </div>
 
@@ -178,11 +178,11 @@ Yes. If you are already visiting Kansai, the Osaka branch can be more efficient 
 If Detective Conan Cafe is part of your trip planning, these guides make the best next step:
 
 - **Find by Anime in Japan 2026** if you want to keep planning by franchise
-- **Tokyo Anime Collab Cafes Spring 2026** if you are still comparing seasonal cafe options
+- **Tokyo [anime collab cafes](/articles/tokyo-anime-collab-cafes-spring-2026/) Spring 2026** if you are still comparing seasonal cafe options
 - **Universal Cool Japan 2026 Guide** if you are also building a Kansai anime trip
 
 ## Sources
-1. Essential Japan, “Detective Conan ‘Retro Port Town’ Cafe 2026” — https://essential-japan.com/events/detective-conan-retro-port-town-cafe-2026/ 2. TTG Asia, “Hoshino report highlights shift in Japan travel towards regional and longer stays” — https://www.ttgasia.com/2026/04/01/hoshino-report-highlights-shift-in-japan-travel-towards-regional-and-longer-stays/
+1. Essential Japan, "Detective Conan ‘Retro Port Town’ Cafe 2026" — https://essential-japan.com/events/detective-conan-retro-port-town-cafe-2026/ 2. TTG Asia, "Hoshino report highlights shift in Japan travel towards regional and longer stays" — https://www.ttgasia.com/2026/04/01/hoshino-report-highlights-shift-in-japan-travel-towards-regional-and-longer-stays/
 
 ☕
 

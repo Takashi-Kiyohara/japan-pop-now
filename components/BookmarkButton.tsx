@@ -38,10 +38,8 @@ export default function BookmarkButton({ slug, title }: BookmarkButtonProps) {
   const [saved, setSaved] = useState(false);
 
   useEffect(() => {
-    // Mount-time read of localStorage to hydrate bookmark state. Not derivable
-    // from props or render — must be a setState in effect.
-    // eslint-disable-next-line react-hooks/set-state-in-effect
-    setSaved(getBookmarks().some((b) => b.slug === slug));
+    const bookmarks = getBookmarks();
+    setSaved(bookmarks.some((b) => b.slug === slug)); // eslint-disable-line react-hooks/set-state-in-effect -- sync with localStorage on mount
   }, [slug]);
 
   const toggle = () => {
@@ -88,7 +86,7 @@ export default function BookmarkButton({ slug, title }: BookmarkButtonProps) {
         transition: 'all 0.15s ease',
       }}
     >
-      {saved ? <BookmarkCheck size={16} aria-hidden="true" /> : <Bookmark size={16} aria-hidden="true" />}
+      {saved ? <BookmarkCheck size={16} /> : <Bookmark size={16} />}
       {saved ? 'Saved' : 'Save'}
     </button>
   );

@@ -1,5 +1,5 @@
 ---
-title: "Tokyo Anime Collab Cafes Spring 2026: 12 Open Now [With Map & Booking Tips]"
+title: "Tokyo Collab Cafes Spring 2026"
 description: "Updated weekly. Every anime collaboration cafe in Tokyo for Spring 2026: JJK PLAZA, One Piece Cafe GENE, My Dress-Up Darling, and more. Dates, locations,..."
 date: "2026-03-25"
 category: "collab-cafes"
@@ -76,13 +76,13 @@ How to use this list fast
 
 If you only have one slot, prioritize **reservation difficulty first**, **location second**, and **merchandise appeal third**. Reservation-heavy venues like BOX cafe&space and PARCO cafes can sell out fast, while Gratte stands and merch pop-ups are better same-week options.
 
-### 1. Jujutsu Kaisen PLAZA — “Chair:Black” (Multiple Venues, March–June)
+### 1. Jujutsu Kaisen PLAZA — "Chair:Black" (Multiple Venues, March–June)
 
 ![One Piece Cafe GENE at Shibuya PARCO — one of Tokyo](https://images.unsplash.com/photo-1555396273-367ea4eb4db5?w=1200&auto=format&fit=crop)
 Tokyo Skytree and the Solamachi shopping complex — a hub for anime pop-ups and character goods
 Image: Collabo Cafe
 
-Jujutsu Kaisen’s newest “Chair:Black” visual series has launched across five venues in Japan. This is a merchandise pop-up rather than a full cafe — no food, no reservation needed. The new artwork features Itadori Yuji, Fushiguro Megumi, Okkotsu Yuta, Choso, and Zen’in Naoya in a dark, monochrome seated pose inspired by the Culling Game arc. Products include acrylic stands (¥880), clear files (¥440), tapestries (¥2,200), and badges (¥440).
+Jujutsu Kaisen’s newest "Chair:Black" visual series has launched across five venues in Japan. This is a merchandise pop-up rather than a full cafe — no food, no reservation needed. The new artwork features Itadori Yuji, Fushiguro Megumi, Okkotsu Yuta, Choso, and Zen’in Naoya in a dark, monochrome seated pose inspired by the Culling Game arc. Products include acrylic stands (¥880), clear files (¥440), tapestries (¥2,200), and badges (¥440).
 
 | **Tokyo venue** | Tokyo Solamachi Loft (inside Tokyo Skytree Town), March 28 – April 26, 2026 |
 | --- | --- |
@@ -115,7 +115,7 @@ The world’s best-selling manga gets a full collab cafe that takes an unusually
 | **Budget** | Main dishes ¥1,500–2,500 / Drinks ¥800–1,200 / Desserts ¥1,200–1,800. Expect ¥2,500–4,500 per person. |
 | **Official info** | [cafe.parco.jp](https://cafe.parco.jp/) |
 
- **Local tip:** The dessert items photograph the best and get the most engagement on social media. If you’re going with a group, order different dishes to see the full range of “scene recreations.” The collectible bonus items (random character coasters) are given per menu item ordered — drinks are the cheapest way to collect more.
+ **Local tip:** The dessert items photograph the best and get the most engagement on social media. If you’re going with a group, order different dishes to see the full range of "scene recreations." The collectible bonus items (random character coasters) are given per menu item ordered — drinks are the cheapest way to collect more.
 
  **Important:** Period 2 is now running (April 1 – May 18) with a completely new menu. This is a great time to visit — the new menu launched April 1 with fresh scene-recreation dishes and new collectible items.
 
@@ -194,7 +194,7 @@ My Hero Academia has one of the largest English-speaking fanbases of any anime, 
 A character drink collaboration at Gratte stands inside Animate stores. No reservation required. Available at Animate Ikebukuro, Akihabara ANNEX, Shibuya, and other locations nationwide.
 
 ### 10. Detective Conan Cafe 2026 — BOX cafe&space (April 10–)
-Tied to the new movie “The One-Eyed Remnant” (隻眼の残像), the annual Conan cafe returns to three Tokyo locations: Shibuya (GEMS), Ikebukuro (Grandscape), and Tokyo Solamachi. Conan cafes are among the most elaborately decorated in Tokyo, with themed interiors that change with each movie. These will require advance reservation via the BOX cafe&space website.
+Tied to the new movie "The One-Eyed Remnant" (隻眼の残像), the annual Conan cafe returns to three Tokyo locations: Shibuya (GEMS), Ikebukuro (Grandscape), and Tokyo Solamachi. Conan cafes are among the most elaborately decorated in Tokyo, with themed interiors that change with each movie. These will require advance reservation via the BOX cafe&space website.
 
 ### 11. Black Jack Collab Cafe — Tokyo, Osaka, Nagoya (April 10 – May 25)
 An interactive concept where the dishes change based on your choices — mirroring Black Jack’s medical decision-making themes. A creative departure from the standard collab cafe format.
@@ -257,11 +257,11 @@ These are things you won’t find on the official cafe websites, from someone wh
 
 **Tuesday and Wednesday are the best days to go.** Japanese fans flood collab cafes on weekends. Monday is a popular day off for food service workers, so some cafes are closed or have reduced hours. Tuesday-Wednesday lunchtime consistently offers the shortest waits, the best walk-in chances, and the most relaxed atmosphere.
 
-**The bonus item system is random — but you can trade.** Each menu order comes with a random character collectible. If you get a character you don’t want, it’s common and accepted to ask other guests if they want to trade. Some cafes even have a designated trading area. In Japanese, you can say “*koukan dekimasu ka?*” (交換できますか？ — Can we trade?).
+**The bonus item system is random — but you can trade.** Each menu order comes with a random character collectible. If you get a character you don’t want, it’s common and accepted to ask other guests if they want to trade. Some cafes even have a designated trading area. In Japanese, you can say "*koukan dekimasu ka?*" (交換できますか？ — Can we trade?).
 
 **Order the cheapest drink if you just want the bonus items.** A ¥800 drink earns the same bonus as a ¥2,500 main dish. If you’re here to collect rather than eat, this is the strategic play.
 
-**Check for “after-cafe” online merch sales.** Some cafes sell leftover exclusive merchandise online after the physical cafe closes. Follow the cafe’s X account for announcements — you might be able to buy items you missed even after leaving Japan.
+**Check for "after-cafe" online merch sales.** Some cafes sell leftover exclusive merchandise online after the physical cafe closes. Follow the cafe’s X account for announcements — you might be able to buy items you missed even after leaving Japan.
 
 **The last time slot of the day is underrated.** Everyone wants the first or middle slots. The final slot (often 19:00 or 20:00) is frequently the easiest to book and the most relaxed — the cafe is winding down, staff are less rushed, and you’ll often get a few extra minutes.
 
@@ -291,6 +291,18 @@ For Gratte stands (no-reservation option): ¥700–900 per drink, with a collect
 Planning a full Tokyo itinerary? GetYourGuide and Klook both offer discounted bundles for anime fans, covering tours, transport passes, and attraction tickets.
 
 [Explore Tokyo Anime Activities](https://www.getyourguide.com/tokyo-l193/?q=anime&partner_id=R70ISH9)
+
+
+<div className="jpn-faq">
+
+### FAQ?
+### Is this guide updated for 2026?
+Yes. We update this content weekly based on real visits and current information.
+
+### What's the best time of year to visit?
+Spring (March–May) and autumn (September–November) offer the best weather and lowest crowds compared to summer and winter peak seasons.
+
+</div>
 <div className="jpn-cta">
 
 **Ready to visit?** Check the [Anime Collab Cafe Calendar](/collab-cafe-calendar/) for real-time opening dates, or follow [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/) for weekly collab cafe updates.

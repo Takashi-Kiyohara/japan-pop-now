@@ -13,29 +13,10 @@ interface ArticleFooterProps {
   category: string;
 }
 
-function SectionTitle({ title }: { title: string }) {
-  return (
-    <div className="flex items-center gap-4 mb-6">
-      <div style={{ width: '4px', height: '24px', background: '#f97316', borderRadius: '2px' }} />
-      <h2
-        style={{
-          fontFamily: 'var(--font-display), "Playfair Display", Georgia, serif',
-          fontSize: '1.3rem',
-          fontWeight: 700,
-          color: '#14213d',
-        }}
-      >
-        {title}
-      </h2>
-    </div>
-  );
-}
-
 export default function ArticleFooter({
   author,
   relatedArticles,
   categoryArticles,
-  crossCategoryArticles,
   category,
 }: ArticleFooterProps) {
   const categoryData = CATEGORIES.find((c) => c.slug === category);

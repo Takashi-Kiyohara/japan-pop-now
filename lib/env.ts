@@ -3,28 +3,26 @@
  * Validates NEXT_PUBLIC_* vars at build/runtime
  * Returns typed object with defaults for missing optional vars
  * Throws error for required vars that are missing
+ *
+ * NOTE: Variable names MUST match .env.example and usage in components
+ *       (ArticleBody.tsx, AffiliateCTA.tsx, etc.)
  */
 
 export interface ValidatedEnv {
   // Required
   NEXT_PUBLIC_ADSENSE_ID: string;
 
-  // Optional with defaults
-  NEXT_PUBLIC_KLOOK_AFFILIATE_ID: string;
-  NEXT_PUBLIC_BOOKING_AFFILIATE_ID: string;
-  NEXT_PUBLIC_AMAZON_ASSOCIATE_ID: string;
-  NEXT_PUBLIC_GETYOURGUIDE_AFFILIATE_ID: string;
-  NEXT_PUBLIC_AGODA_AFFILIATE_ID: string;
-  NEXT_PUBLIC_JRPASS_AFFILIATE_ID: string;
-  NEXT_PUBLIC_AWIN_AFFILIATE_ID: string;
+  // Affiliate — names match .env.example (AFF_ID style)
+  NEXT_PUBLIC_KLOOK_AFF_ID: string;
+  NEXT_PUBLIC_BOOKING_AFF_ID: string;
+  NEXT_PUBLIC_AMAZON_AFF_TAG: string;
+  NEXT_PUBLIC_GETYOURGUIDE_AFF_ID: string;
+  NEXT_PUBLIC_AGODA_AFF_ID: string;
+  NEXT_PUBLIC_AWIN_AFF_ID: string;
 
   // Analytics
   NEXT_PUBLIC_GA_ID: string;
   NEXT_PUBLIC_GOOGLE_SEARCH_CONSOLE: string;
-
-  // Comments (Giscus)
-  NEXT_PUBLIC_GISCUS_REPO_ID: string;
-  NEXT_PUBLIC_GISCUS_CATEGORY_ID: string;
 }
 
 /**
@@ -38,7 +36,7 @@ function validateEnv(): ValidatedEnv {
   const missing = required.filter((key) => !process.env[key]);
   if (missing.length > 0) {
     console.warn(
-      `[WARN] Missing required environment variables: ${missing.join(', ')}\n` +
+      `Warning: Missing required environment variables: ${missing.join(', ')}\n` +
       `    These will cause issues in production. Check your .env.local file.`
     );
   }
@@ -46,17 +44,14 @@ function validateEnv(): ValidatedEnv {
   // Build validated object with defaults for optional
   const env: ValidatedEnv = {
     NEXT_PUBLIC_ADSENSE_ID: process.env.NEXT_PUBLIC_ADSENSE_ID || '',
-    NEXT_PUBLIC_KLOOK_AFFILIATE_ID: process.env.NEXT_PUBLIC_KLOOK_AFFILIATE_ID || '',
-    NEXT_PUBLIC_BOOKING_AFFILIATE_ID: process.env.NEXT_PUBLIC_BOOKING_AFFILIATE_ID || '',
-    NEXT_PUBLIC_AMAZON_ASSOCIATE_ID: process.env.NEXT_PUBLIC_AMAZON_ASSOCIATE_ID || '',
-    NEXT_PUBLIC_GETYOURGUIDE_AFFILIATE_ID: process.env.NEXT_PUBLIC_GETYOURGUIDE_AFFILIATE_ID || '',
-    NEXT_PUBLIC_AGODA_AFFILIATE_ID: process.env.NEXT_PUBLIC_AGODA_AFFILIATE_ID || '',
-    NEXT_PUBLIC_JRPASS_AFFILIATE_ID: process.env.NEXT_PUBLIC_JRPASS_AFFILIATE_ID || '',
-    NEXT_PUBLIC_AWIN_AFFILIATE_ID: process.env.NEXT_PUBLIC_AWIN_AFFILIATE_ID || '',
+    NEXT_PUBLIC_KLOOK_AFF_ID: process.env.NEXT_PUBLIC_KLOOK_AFF_ID || '',
+    NEXT_PUBLIC_BOOKING_AFF_ID: process.env.NEXT_PUBLIC_BOOKING_AFF_ID || '',
+    NEXT_PUBLIC_AMAZON_AFF_TAG: process.env.NEXT_PUBLIC_AMAZON_AFF_TAG || '',
+    NEXT_PUBLIC_GETYOURGUIDE_AFF_ID: process.env.NEXT_PUBLIC_GETYOURGUIDE_AFF_ID || '',
+    NEXT_PUBLIC_AGODA_AFF_ID: process.env.NEXT_PUBLIC_AGODA_AFF_ID || '',
+    NEXT_PUBLIC_AWIN_AFF_ID: process.env.NEXT_PUBLIC_AWIN_AFF_ID || '',
     NEXT_PUBLIC_GA_ID: process.env.NEXT_PUBLIC_GA_ID || '',
     NEXT_PUBLIC_GOOGLE_SEARCH_CONSOLE: process.env.NEXT_PUBLIC_GOOGLE_SEARCH_CONSOLE || '',
-    NEXT_PUBLIC_GISCUS_REPO_ID: process.env.NEXT_PUBLIC_GISCUS_REPO_ID || '',
-    NEXT_PUBLIC_GISCUS_CATEGORY_ID: process.env.NEXT_PUBLIC_GISCUS_CATEGORY_ID || '',
   };
 
   return env;

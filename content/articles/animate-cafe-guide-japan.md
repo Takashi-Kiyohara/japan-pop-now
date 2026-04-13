@@ -1,13 +1,13 @@
 ---
-title: "Animate Cafe Guide Japan — Lottery Booking, Gratte, DECOTTO & All Locations (2026)"
-description: "Last updated: March 2026. Covers all current Animate Cafe locations, the lottery booking system, Gratte stands, and DECOTTO donut shop. Animate Cafe is Japan’s..."
+title: "Animate Cafes: Booking Guide 2026"
+description: "Book Animate Cafe with Japan’s lottery system: locations, themed menus, exclusive merch, and walk-in alternatives at Gratte & DECOTTO."
 date: "2026-03-28"
 category: "collab-cafes"
 tags: []
 featuredImage: "/images/articles/animate-cafe-guide-japan/featured.jpg"
-featuredImageAlt: "Animate store and Lashinbang in Ikebukuro for anime cafe lottery booking"
+featuredImageAlt: "Animate store and Lashinbang in [Ikebukuro](/articles/ikebukuro-anime-guide-2026/) for anime cafe lottery booking"
 author: "Japan Pop Now"
-excerpt: "Last updated: March 2026. Covers all current Animate Cafe locations, the lottery booking system, Gratte stands, and DECOTTO donut shop. Animate Cafe is Japan’s..."
+excerpt: "Book Animate Cafe with Japan’s lottery system: locations, themed menus, exclusive merch, and walk-in alternatives at Gratte & DECOTTO."
 relatedSlugs: []
 wpPostId: 199
 ---
@@ -48,18 +48,18 @@ Check the [Animate Cafe official site](https://cafe.animate.co.jp/) or their X (
 - The results announcement date
 - The collaboration run dates
 
-Follow the [Tokyo Anime Collab Cafe Guide](https://japan-pop-now.com/tokyo-anime-collab-cafes-spring-2026/) — we track all current and upcoming Animate Cafe collaborations with dates translated into English.
+Follow our [Tokyo Anime Collab Cafe Guide](/articles/tokyo-anime-collab-cafes-spring-2026/) — we track all current and upcoming Animate Cafe collaborations with dates translated into English. See also our guide on [how to book anime collab cafes in Japan](/articles/how-to-book-anime-collab-cafe-japan/).
 
 ### 3. Enter the Lottery
 During the entry window, log into your Club Animate account and browse to the collaboration lottery page. Select:
 
-- **Location** (Ikebukuro, Akihabara, etc.)
+- **Location** (Ikebukuro, [Akihabara](/articles/akihabara-complete-guide-2026/), etc.)
 - **Date** and **time slot** (sessions are typically 80-90 minutes)
 - **Number of guests** (usually 1-4 per entry)
 
 You can enter for multiple dates and time slots to increase your chances. There’s no penalty for entering multiple lotteries for the same collaboration — do it.
 
-**Double-Chance Entry:** Some lotteries offer a paid “double-chance” option — a one-time fee that boosts your odds of winning. If the collaboration is a franchise you really care about, this is worth considering. The cost varies but is typically ¥500-1,000 on top of any minimum order.
+**Double-Chance Entry:** Some lotteries offer a paid "double-chance" option — a one-time fee that boosts your odds of winning. If the collaboration is a franchise you really care about, this is worth considering. The cost varies but is typically ¥500-1,000 on top of any minimum order.
 
 ### 4. Wait for Results
 Results are announced 3-7 days after the entry period closes. Winners receive a confirmation email. **Check your spam folder** — the email comes from an animate.co.jp address that some email providers flag.
@@ -107,7 +107,7 @@ Every food or drink order earns you one random bonus item. These are usually cha
 The character you receive is random. If you want a specific character, order multiple items for more chances. Trading with other guests at the cafe is common and socially accepted — just ask politely. Many Japanese fans bring duplicate coasters specifically to trade.
 
 ### Exclusive Merchandise
-Each collaboration has a merchandise line available only at the cafe. Acrylic stands, keychains, clear files, tote bags — standard anime merchandise but with exclusive artwork. Buy what you want during your visit. Popular character items sell out within the first few days of a collaboration, and they do not restock.
+Each collaboration has a merchandise line available only at the cafe. Acrylic stands, keychains, clear files, tote bags — standard anime [merchandise](/articles/anime-merch-shopping-guide-japan/) but with exclusive artwork. Buy what you want during your visit. Popular character items sell out within the first few days of a collaboration, and they do not restock.
 
 ![Colorful themed drinks and desserts at a Japanese anime collaboration cafe with character latte art](https://images.unsplash.com/photo-1565299507177-b0ac66763828?w=1200&auto=format&fit=crop)
 
@@ -115,7 +115,7 @@ Each collaboration has a merchandise line available only at the cafe. Acrylic st
 Lost the lottery? Don’t want to deal with the booking process? Animate has two walk-in options that require zero reservations.
 
 ### Cafe Gratte (グラッテ) — Graphic Lattes
-“Gratte” is short for “Graphic Latte.” These are small drink counters inside Animate stores that serve character-themed lattes with illustrations printed directly onto the cream topping, plus iced cookies with character designs. The collaboration themes rotate every 2 weeks — faster than the main cafe.
+"Gratte" is short for "Graphic Latte." These are small drink counters inside Animate stores that serve character-themed lattes with illustrations printed directly onto the cream topping, plus iced cookies with character designs. The collaboration themes rotate every 2 weeks — faster than the main cafe.
 
 | **How it works** | Walk up, order, wait 3-5 minutes, receive your drink. No reservation needed. |
 | --- | --- |
@@ -203,7 +203,7 @@ Check the lottery schedule 3-4 weeks before your trip. Most lottery entry period
 
 **What’s the best Animate Cafe location?**
 
-Ikebukuro Main. Largest space, best kitchen, gets every collaboration, and it’s surrounded by the rest of Ikebukuro’s anime district — Animate flagship store, Otome Road, and Sunshine City are all within walking distance. See our [Ikebukuro Anime Guide](https://japan-pop-now.com/ikebukuro-anime-guide-2026/) for the full picture.
+Ikebukuro Main. Largest space, best kitchen, gets every collaboration, and it’s surrounded by the rest of Ikebukuro’s anime district — Animate flagship store, Otome Road, and Sunshine City are all within walking distance. See our [Ikebukuro Anime Guide](/articles/ikebukuro-anime-guide-2026/) for the full picture.
 
 </div>
 
@@ -215,17 +215,17 @@ Ikebukuro Main. Largest space, best kitchen, gets every collaboration, and it’
 
 ## More Collab Cafe Guides
 
-- [How to Book an Anime Collab Cafe in Japan — Complete Guide](/how-to-book-anime-collab-cafe-japan/)
-- [Tokyo Anime Collab Cafes — Spring 2026 (Updated Weekly)](/tokyo-anime-collab-cafes-spring-2026/)
-- [Jujutsu Kaisen PLAZA Chair:Black Pop-Up Guide](/tokyo-anime-collab-cafes-spring-2026/)
-- [One Piece Cafe GENE at PARCO](/one-piece-cafe-gene-parco-2026/)
-- [Anime Collab Cafe Calendar](/tokyo-anime-collab-cafes-spring-2026/)
+- [How to Book an Anime Collab Cafe in Japan — Complete Guide](/articles/how-to-book-anime-collab-cafe-japan/)
+- [Tokyo Anime Collab Cafes — Spring 2026 (Updated Weekly)](/articles/tokyo-anime-collab-cafes-spring-2026/)
+- [Anime Pilgrimage Spots in Tokyo](/articles/anime-pilgrimage-spots-tokyo/)
+- [Best Anime Tours Tokyo 2026](/articles/best-anime-tours-tokyo-2026/)
+- [Anime Hotels Tokyo 2026](/articles/anime-hotels-tokyo-2026/)
 - [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)
 
 ### More Collab Cafe & Event Guides
 
-- [How to Book Anime Collab Cafes in Japan](/how-to-book-anime-collab-cafe-japan/)
-- [Tokyo Anime Collab Cafes Spring 2026](/tokyo-anime-collab-cafes-spring-2026/)
+- [How to Book Anime Collab Cafes in Japan](/articles/how-to-book-anime-collab-cafe-japan/)
+- [Tokyo Anime Collab Cafes Spring 2026](/articles/tokyo-anime-collab-cafes-spring-2026/)
 - [One Piece Cafe GENE at PARCO 2026](/one-piece-cafe-gene-parco-2026/)
 - [Lawson Ticket & Loppi Guide](/lawson-ticket-loppi-guide/)
 - [FamilyMart Anime Collab Stores 2026](/familymart-anime-collab-stores-2026/)

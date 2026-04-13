@@ -1,7 +1,6 @@
 'use client';
 
 import { useState, useEffect } from 'react';
-import { env } from '@/lib/env';
 
 export default function CookieConsent() {
   const [visible, setVisible] = useState(false);
@@ -24,10 +23,10 @@ export default function CookieConsent() {
 
   const decline = () => {
     document.cookie = 'jpn_cookie_consent=false; max-age=31536000; path=/; SameSite=Lax; Secure';
-    // Disable GA if user declines (sets the GA opt-out flag on window).
-    if (typeof window !== 'undefined' && env.NEXT_PUBLIC_GA_ID) {
-      const key = `ga-disable-${env.NEXT_PUBLIC_GA_ID}`;
-      (window as unknown as Record<string, boolean>)[key] = true;
+    // Disable GA if user declines
+    if (typeof window !== 'undefined') {
+      // eslint-disable-next-line @typescript-eslint/no-explicit-any
+      (window as any)['ga-disable-' + process.env.NEXT_PUBLIC_GA_ID] = true;
     }
     setVisible(false);
   };

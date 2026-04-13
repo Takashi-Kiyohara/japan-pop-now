@@ -79,13 +79,9 @@ function TypeBadge({ type }: { type: CollabEvent['type'] }) {
   );
 }
 
-// ─── Event Card ────────────────────────────────────────────────────────────────
-function EventCard({ event }: { event: CollabEvent }) {
-  const today = new Date();
-  const status = isPermanent(event) ? 'permanent' : getEventStatus(event, today);
-  const link = getEventLink(event);
-
-  const CardContent = () => (
+// ─── Card Content (extracted to avoid creating components during render) ───────
+function CardContentInner({ event, status }: { event: CollabEvent; status: ReturnType<typeof getEventStatus> | 'permanent' }) {
+  return (
     <div
       style={{
         display: 'flex',
@@ -97,14 +93,7 @@ function EventCard({ event }: { event: CollabEvent }) {
         transition: 'box-shadow 0.2s ease, border-color 0.2s ease',
         cursor: 'pointer',
       }}
-      onMouseEnter={(e) => {
-        (e.currentTarget as HTMLDivElement).style.boxShadow = '0 4px 16px rgba(0,0,0,0.08)';
-        (e.currentTarget as HTMLDivElement).style.borderColor = '#fb923c';
-      }}
-      onMouseLeave={(e) => {
-        (e.currentTarget as HTMLDivElement).style.boxShadow = 'none';
-        (e.currentTarget as HTMLDivElement).style.borderColor = '#e7e5e4';
-      }}
+      className="event-card-hover"
     >
       {/* Thumbnail */}
       <div style={{ flexShrink: 0, width: 96, height: 72, borderRadius: '8px', overflow: 'hidden', background: '#f5f5f4' }}>
@@ -144,17 +133,24 @@ function EventCard({ event }: { event: CollabEvent }) {
       </div>
     </div>
   );
+}
+
+// ─── Event Card ────────────────────────────────────────────────────────────────
+function EventCard({ event }: { event: CollabEvent }) {
+  const today = new Date();
+  const status = isPermanent(event) ? 'permanent' : getEventStatus(event, today);
+  const link = getEventLink(event);
 
   if (link.isInternal) {
     return (
       <Link href={link.href} style={{ textDecoration: 'none', display: 'block' }}>
-        <CardContent />
+        <CardContentInner event={event} status={status} />
       </Link>
     );
   }
   return (
     <a href={link.href} target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none', display: 'block' }}>
-      <CardContent />
+      <CardContentInner event={event} status={status} />
     </a>
   );
 }

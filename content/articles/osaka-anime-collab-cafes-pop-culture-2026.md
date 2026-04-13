@@ -1,13 +1,13 @@
 ---
-title: "Osaka Anime & Collab Cafes 2026: Den Den Town, Namba & Beyond"
-description: "Last updated: April 2026. Disclosure: This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you...."
+title: "Osaka Anime Collab Cafes"
+description: "Discover Osaka anime collab cafes & Den Den Town shopping. 8–12 cafes, USJ events & Tokyo comparison guide."
 date: "2026-04-05"
 category: "collab-cafes"
 tags: []
 featuredImage: "/images/articles/osaka-anime-collab-cafes-pop-culture-2026/featured.jpg"
 featuredImageAlt: "Dotonbori neon signs in Osaka for anime and pop culture district"
 author: "Japan Pop Now"
-excerpt: "Last updated: April 2026. Disclosure: This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you...."
+excerpt: "Discover Osaka anime collab cafes & Den Den Town shopping. 8–12 cafes, USJ events & Tokyo comparison guide."
 relatedSlugs: []
 wpPostId: 755
 ---

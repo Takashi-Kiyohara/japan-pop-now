@@ -2,12 +2,9 @@ import { getAllArticles, CATEGORIES } from '@/lib/articles';
 import ArticleCard from '@/components/ArticleCard';
 import FeaturedCarousel from '@/components/FeaturedCarousel';
 import CategoryStrip from '@/components/CategoryStrip';
-import FeaturesStrip from '@/components/FeaturesStrip';
 import AdUnit from '@/components/AdUnit';
 import AffiliateCTA from '@/components/AffiliateCTA';
 import Link from 'next/link';
-import { Coffee, Train, Hotel } from 'lucide-react';
-import { env } from '@/lib/env';
 
 export const revalidate = 3600;
 
@@ -86,14 +83,76 @@ export default function Home() {
         Japan Pop Now — Your Guide to Anime Collab Cafes, Pilgrimage Spots &amp; Pop Culture in Japan
       </h1>
 
-      {/* ── Hero Carousel ──────────────────────────────────── */}
-      <FeaturedCarousel articles={carouselArticles} />
+      {/* ── Hero Carousel + Stat Pill ──────────────────────────────────── */}
+      <div style={{ position: 'relative' }}>
+        <FeaturedCarousel articles={carouselArticles} />
+
+        {/* Stat Pill Overlay */}
+        <div style={{
+          position: 'absolute',
+          bottom: '20px',
+          left: '50%',
+          transform: 'translateX(-50%)',
+          background: 'rgba(20, 33, 61, 0.92)',
+          backdropFilter: 'blur(8px)',
+          padding: '8px 16px',
+          borderRadius: '20px',
+          border: '1px solid rgba(255, 255, 255, 0.1)',
+          fontSize: '0.85rem',
+          color: '#fff',
+          fontWeight: 500,
+          zIndex: 10,
+        }}>
+          Updated daily · 15+ active collab cafes · Week&apos;s events →
+        </div>
+      </div>
 
       {/* ── Brand stripe ───────────────────────────────────── */}
       <div style={{ height: '3px', background: 'linear-gradient(90deg, #f97316, #e63946, #14213d)' }} />
 
+      {/* ── Hero CTA Section ───────────────────────────────────── */}
+      <section style={{ background: '#fff', borderBottom: '1px solid #e7e5e4', paddingTop: '16px', paddingBottom: '12px' }}>
+        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col sm:flex-row items-center justify-between gap-4">
+          <div>
+            <p style={{ margin: 0, fontSize: '0.9rem', color: '#666', marginBottom: '6px' }}>
+              This week&apos;s live anime events
+            </p>
+            <h3 style={{
+              margin: 0,
+              fontSize: '1.1rem',
+              fontWeight: 600,
+              color: '#14213d',
+              fontFamily: 'var(--font-display), Georgia, serif',
+            }}>
+              See 15+ collab cafes open now
+            </h3>
+          </div>
+          <Link
+            href="/calendar"
+            style={{
+              padding: '10px 20px',
+              background: '#f97316',
+              color: '#fff',
+              borderRadius: '6px',
+              fontWeight: 600,
+              fontSize: '0.95rem',
+              textDecoration: 'none',
+              whiteSpace: 'nowrap',
+              flexShrink: 0,
+              display: 'flex',
+              alignItems: 'center',
+              gap: '6px',
+              transition: 'opacity 0.2s',
+            }}
+            className="homepage-browse-link"
+          >
+            Browse Events →
+          </Link>
+        </div>
+      </section>
+
       {/* ── Category Strip ─────────────────────────────────── */}
-      <section style={{ background: '#fff', borderBottom: '1px solid #e7e5e4' }}>
+      <section style={{ background: '#fafaf9', borderBottom: '1px solid #e7e5e4' }}>
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-5">
           <CategoryStrip articleCounts={articleCounts} />
         </div>
@@ -145,58 +204,41 @@ export default function Home() {
         </div>
       </section>
 
-      {/* ── Plan Your Trip (Affiliate Section — friend-guide voice) ─── */}
+      {/* ── Popular Experiences (Affiliate Section) ────────── */}
       <section style={{ background: '#f5f5f4' }}>
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
-          <SectionHeader title="Plan Your Trip" />
-          <p
-            style={{
-              maxWidth: '640px',
-              marginTop: '-1rem',
-              marginBottom: '1.75rem',
-              fontSize: '0.95rem',
-              color: '#57534e',
-              lineHeight: 1.6,
-            }}
-          >
-            The three things we think every anime-fan traveller should lock in
-            first. We only link to services we have used ourselves, and we flag
-            the affiliate relationship openly on every card.
-          </p>
+          <SectionHeader title="Popular Experiences" />
           <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
             <AffiliateCTA
-              icon={<Coffee size={26} strokeWidth={1.8} />}
-              title="Reserve a collab cafe before you fly"
-              description="Most Tokyo collab cafes fill up two to three weeks ahead, and the booking flow is entirely in Japanese. Klook runs the handful of English-language reservation portals we actually trust — free cancellation and plain-English confirmation emails."
-              buttonText="Browse Tokyo cafes"
-              href={`https://www.klook.com/en-US/experiences?aff_id=${env.NEXT_PUBLIC_KLOOK_AFFILIATE_ID}`}
+              icon="🎫"
+              title="Book Tokyo Anime Cafes"
+              description="Reserve spots at Tokyo's hottest anime collaboration cafes with Klook. Free cancellation, English support, and skip-the-line access."
+              buttonText="Browse Tokyo Cafes"
+              href={'https://www.klook.com/en-US/experiences?aff_id=' + (process.env.NEXT_PUBLIC_KLOOK_AFF_ID || '')}
               program="klook"
               category="collab-cafes"
             />
             <AffiliateCTA
-              icon={<Train size={26} strokeWidth={1.8} />}
-              title="Get a JR Pass if your trip needs one"
-              description="A JR Pass pays for itself the moment you leave Tokyo twice. We break down the exact breakeven math in our JR Pass guide, but if you already know you want Kamakura plus Hakone plus Kyoto, this is the 7-day buy."
-              buttonText="Check JR Pass prices"
-              href={`https://www.klook.com/en-US/activity/japan-rail-pass?aff_id=${env.NEXT_PUBLIC_KLOOK_AFFILIATE_ID}`}
+              icon="🚅"
+              title="Japan Rail Pass"
+              description="Explore pilgrimage sites across Japan. JR Pass covers trains to most holy lands. 7, 14, and 21-day options available."
+              buttonText="Get JR Pass"
+              href={'https://www.klook.com/en-US/activity/japan-rail-pass?aff_id=' + (process.env.NEXT_PUBLIC_KLOOK_AFF_ID || '')}
               program="klook"
               category="travel-tips"
             />
             <AffiliateCTA
-              icon={<Hotel size={26} strokeWidth={1.8} />}
-              title="Stay inside an anime district, not outside it"
-              description="A 15-minute walk from Akihabara or Ikebukuro is the difference between a normal Tokyo trip and one where you can drop your shopping bags and head back out. Booking.com has the best English filter for anime-friendly neighbourhoods from around 3,000 yen a night."
-              buttonText="Find a neighbourhood stay"
-              href={`https://www.booking.com/index.html?aid=${env.NEXT_PUBLIC_BOOKING_AFFILIATE_ID}`}
+              icon="🏨"
+              title="Stay in the Best Districts"
+              description="Find hotels and capsule stays in Akihabara, Ikebukuro, Shibuya, and other anime hotspots. From ¥3,000/night upward."
+              buttonText="Search Hotels"
+              href={'https://www.booking.com/index.html?aid=' + (process.env.NEXT_PUBLIC_BOOKING_AFF_ID || '')}
               program="booking"
               category="area-guides"
             />
           </div>
         </div>
       </section>
-
-      {/* ── Features (5th axis — editorial columns) ───────── */}
-      <FeaturesStrip />
 
       {/* ── Per-Category Sections ──────────────────────────── */}
       {CATEGORIES.map((category, i) => {
@@ -212,7 +254,7 @@ export default function Home() {
           >
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
               <SectionHeader
-                title={category.label}
+                title={`${category.icon} ${category.label}`}
                 viewAllHref={`/category/${category.slug}`}
               />
               <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5">

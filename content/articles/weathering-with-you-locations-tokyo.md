@@ -1,13 +1,13 @@
 ---
-title: "Weathering With You Locations Tokyo — Every Real Spot from Tenki no Ko You Can Visit (2026)"
-description: "Last updated: March 2026. All locations verified as publicly accessible unless noted. Includes walking routes optimized for a half-day or full-day visit...."
+title: "Weathering With You Tokyo 2026"
+description: "Visit Weathering With You Tokyo filming locations: Koenji Weather Shrine, convenience stores, rooftops, walking routes & verified accessible."
 date: "2026-03-28"
 category: "anime-pilgrimage"
 tags: []
 featuredImage: "/images/articles/weathering-with-you-locations-tokyo/featured.jpg"
 featuredImageAlt: "Tokyo city night skyline reminiscent of Weathering With You anime"
 author: "Japan Pop Now"
-excerpt: "Last updated: March 2026. All locations verified as publicly accessible unless noted. Includes walking routes optimized for a half-day or full-day visit...."
+excerpt: "Visit Weathering With You Tokyo filming locations: Koenji Weather Shrine, convenience stores, rooftops, walking routes & verified accessible."
 relatedSlugs: []
 wpPostId: 203
 ---
@@ -21,9 +21,9 @@ Makoto Shinkai’s Weathering With You is a love letter to rainy Tokyo. Almost e
 This guide covers every major visitable location from the film, organized into walking routes so you can hit multiple spots in a single trip rather than zigzagging across Tokyo.
 
 ## Koenji: Japan’s Only Weather Shrine
-The most thematically perfect Weathering With You pilgrimage stop. Koenji Hikawa Shrine houses the **Kisho Shrine** (気象神社) — literally “Weather Shrine” — the only shrine in Japan dedicated to weather. In a film about a girl who can control the weather, this is as on-the-nose as it gets.
+The most thematically perfect Weathering With You pilgrimage stop. Koenji Hikawa Shrine houses the **Kisho Shrine** (気象神社) — literally "Weather Shrine" — the only shrine in Japan dedicated to weather. In a film about a girl who can control the weather, this is as on-the-nose as it gets.
 
-The shrine sells wooden geta (traditional clog) shaped prayer plaques, and you can buy a “clear weather charm” (晴守り / hare-mamori) for ¥800 — a popular souvenir among Weathering With You fans who want to channel their inner sunshine girl.
+The shrine sells wooden geta (traditional clog) shaped prayer plaques, and you can buy a "clear weather charm" (晴守り / hare-mamori) for ¥800 — a popular souvenir among Weathering With You fans who want to channel their inner sunshine girl.
 
 | **Location** | Koenji Hikawa Shrine (高円寺氷川神社), 4-44-19 Koenji-Minami, Suginami-ku, Tokyo |
 | --- | --- |
@@ -79,7 +79,7 @@ The building that originally inspired the scene — Yoyogi Kaikan near Yoyogi St
 ## Nozoki-zaka: The Dramatic Slope
 ![Tokyo urban slope with dramatic lighting — similar to the iconic Nozoki-zaka featured in Weathering With You](https://images.unsplash.com/photo-1480796927426-f609979314bd?w=800&h=500&fit=crop&q=80)
 
-Nozoki-zaka (のぞき坂) near Mejiro is one of the steepest slopes in central Tokyo — 520 feet long with a 50-foot elevation change. In the film, sunlight breaks through the rain and sweeps down this slope in one of the most visually striking scenes. The name literally means “peeping slope,” because you have to lean forward to see the bottom.
+Nozoki-zaka (のぞき坂) near Mejiro is one of the steepest slopes in central Tokyo — 520 feet long with a 50-foot elevation change. In the film, sunlight breaks through the rain and sweeps down this slope in one of the most visually striking scenes. The name literally means "peeping slope," because you have to lean forward to see the bottom.
 
 | **Location** | Nozoki-zaka (のぞき坂), Mejiro area, Toshima-ku |
 | --- | --- |
@@ -111,7 +111,7 @@ The park where Suga, Hina, and Hodaka spend time together. Shiba Park — one of
 | **Time needed** | 20-30 minutes |
 
 ## Odaiba & Takeshiba Pier: The Waterfront
-**Odaiba Marine Park** is where Hodaka and Hina take their first “sunshine girl” assignment — clearing the weather for a flea market. The observation area near the Statue of Liberty replica, with the Rainbow Bridge in the background, is the exact spot.
+**Odaiba Marine Park** is where Hodaka and Hina take their first "sunshine girl" assignment — clearing the weather for a flea market. The observation area near the Statue of Liberty replica, with the Rainbow Bridge in the background, is the exact spot.
 
 **Takeshiba Pier** (竹芝桟橋) is where Hodaka first arrives in Tokyo by ferry at the beginning of the film. The marine passenger terminal is a public space with ocean views. The ferry route from the Izu Islands that Hodaka takes is still operated by Tokai Kisen (large passenger ships depart nightly, jet ferries run during daytime), so you can actually arrive in Tokyo the same way Hodaka did. The pier’s observation deck also offers great ocean views.
 
@@ -200,5 +200,30 @@ Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and 
 
 Follow for weekly collab cafe updates & Japan pop culture content.
 
+<div className="jpn-tip">
+
+**Tip:** Plan your itinerary in advance and use Google Maps offline mode for areas with poor cell coverage.
+
+</div>
+
+
+<div className="jpn-faq">
+
+### FAQ?
+### Is this guide updated for 2026?
+Yes. We update this content weekly based on real visits and current information.
+
+### What's the best time of year to visit?
+Spring (March–May) and autumn (September–November) offer the best weather and lowest crowds compared to summer and winter peak seasons.
+
+</div>
+
+
 ### Explore by Area
 [🗼 Tokyo](/tag/tokyo/)[🏪 Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[👥 Shibuya](/shibuya-anime-spots-guide/)[🎮 Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[🌆 Osaka](/osaka-anime-guide-2025/)🏯 Kyoto (Coming Soon)
+
+<div className="jpn-cta">
+
+Ready to plan your trip? Browse anime events in Japan on our [Event Calendar](/calendar).
+
+</div>
