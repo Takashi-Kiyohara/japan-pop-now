@@ -194,14 +194,14 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
         </div>
 
         {/* Featured Image — full-width hero */}
-        {article.featuredImage && (
+        {(article.heroImage || article.featuredImage) && (
           <div
             className="relative w-full overflow-hidden"
             style={{ height: 'clamp(280px, 45vh, 480px)' }}
           >
             <Image
-              src={article.featuredImage}
-              alt={article.featuredImageAlt}
+              src={article.heroImage || article.featuredImage}
+              alt={article.heroImageAlt || article.featuredImageAlt}
               fill
               className="object-cover"
               priority

@@ -18,6 +18,8 @@ export type Article = {
   tags: string[]
   featuredImage: string
   featuredImageAlt: string
+  heroImage?: string
+  heroImageAlt?: string
   imageList?: string
   imageCredit?: string
   author: string
@@ -59,6 +61,8 @@ export function getArticleBySlug(slug: string): Article | null {
     tags,
     featuredImage: data.featuredImage || '',
     featuredImageAlt: data.featuredImageAlt || title || '',
+    heroImage: data.heroImage || '',
+    heroImageAlt: data.heroImageAlt || '',
     imageCredit: data.imageCredit || '',
     author: data.author || 'Japan Pop Now',
     content,

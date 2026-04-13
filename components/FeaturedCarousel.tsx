@@ -48,10 +48,10 @@ export default function FeaturedCarousel({ articles }: FeaturedCarouselProps) {
             style={{ opacity: i === current ? 1 : 0, pointerEvents: i === current ? 'auto' : 'none' }}
           >
             {/* Background Image */}
-            {article.featuredImage ? (
+            {(article.heroImage || article.featuredImage) ? (
               <Image
-                src={article.featuredImage}
-                alt={article.featuredImageAlt || article.title}
+                src={article.heroImage || article.featuredImage}
+                alt={article.heroImageAlt || article.featuredImageAlt || article.title}
                 fill
                 priority={i === 0}
                 className="object-cover"
