@@ -7,8 +7,6 @@ category: "collab-cafes"
 tags: []
 featuredImage: "/images/articles/chiikawa-bakery-harajuku-guide-2026/moe-featured.jpg"
 featuredImageAlt: "Moe from Japan Pop Now smiling inside Chiikawa Bakery Harajuku with the bakery logo behind her"
-heroImage: "/images/articles/chiikawa-bakery-harajuku-guide-2026/featured.jpg"
-heroImageAlt: "Inside Chiikawa Bakery Harajuku counter with character-shaped breads and Chiikawa figure"
 imageCredit: "Photo: Japan Pop Now"
 author: "Japan Pop Now"
 excerpt: "After a morning inside Chiikawa Bakery at Tokyu Plaza Omotesando, here is a no-hype walkthrough: how reservation actually works, which breads are worth the ¥580, and the rules international visitors keep missing."
