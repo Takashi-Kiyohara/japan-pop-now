@@ -8,7 +8,7 @@ tags: ["one-piece", "shibuya", "2026-spring", "limited-time"]
 featuredImage: "/images/articles/one-piece-cafe-gene-shibuya-guide-2026/moe-featured.jpg"
 featuredImageAlt: "Moe from Japan Pop Now holding two signature One Piece character drinks at One Piece Cafe GENE in Shibuya PARCO"
 heroImage: "/images/articles/one-piece-cafe-gene-shibuya-guide-2026/moe-hero.jpg"
-heroImageAlt: "Moe from Japan Pop Now holding a Luffy cardboard standee inside One Piece Cafe GENE at Shibuya PARCO 6F with Monkey D. Luffy character posters in the background"
+heroImageAlt: "Full table spread at One Piece Cafe GENE Shibuya showing skull bowl ramen, crepe bowl, two character drinks, and Straw Hat Crew placemat with Moe from Japan Pop Now"
 imageCredit: "Photo: Japan Pop Now"
 author: "Japan Pop Now"
 excerpt: "One Piece Cafe GENE at Shibuya PARCO 6F runs through May 18, 2026. After a full afternoon testing the Phase 2 menu — skull bowl ramen, birthday cards, and ¥1,100 character drinks — here is what to order, how to book, and the 3 things international visitors keep getting wrong."
@@ -17,7 +17,7 @@ relatedSlugs: ["tokyo-anime-collab-cafes-spring-2026", "how-to-book-anime-collab
 
 *Last updated: April 2026.*
 
-![Moe from Japan Pop Now holding a Luffy cardboard standee inside One Piece Cafe GENE at Shibuya PARCO 6F](/images/articles/one-piece-cafe-gene-shibuya-guide-2026/moe-hero.jpg)
+![Full table spread at One Piece Cafe GENE Shibuya showing skull bowl ramen, crepe bowl, two character drinks, and placemat with Moe from Japan Pop Now](/images/articles/one-piece-cafe-gene-shibuya-guide-2026/moe-hero.jpg)
 
 **One Piece Cafe GENE is a limited-time collaboration cafe at THE GUEST cafe&diner inside Shibuya PARCO 6F, running through May 18, 2026.** The cafe serves character-themed dishes priced between ¥1,320 and ¥2,090, reservation costs ¥550 via Lawson Ticket (includes a novelty GENE Band), and it shares the same floor as Nintendo TOKYO, Pokemon Center Shibuya, and JUMP SHOP — making it the single best one-stop anime floor in Tokyo right now.
 
