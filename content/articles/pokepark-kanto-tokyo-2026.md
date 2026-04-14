@@ -41,7 +41,7 @@ This guide covers all three ticket tiers, how international visitors can book, w
 
 <div className="jpn-info-box">
 
-## TL;DR: Plan Your PokéPark Day
+**TL;DR: Plan Your PokéPark Day**
 
 - **Best ticket?** Elite Trainers Pass (¥14,000+) for unlimited forest access + priority lanes
 - **Book where?** Official English site: ticket-en.pokepark-kanto.co.jp — no Japanese needed

@@ -33,7 +33,7 @@ Need to ship your haul home? Read our [guide to shipping anime merch from Japan]
 
 <div className="jpn-info-box">
 
-## TL;DR: Anime Merch Shopping in Japan
+**TL;DR: Anime Merch Shopping in Japan**
 
 - **Prices:** 30-50% cheaper than international retail, plus 10% tax-free discount for tourists over ¥5,000
 - **Best districts:** Akihabara (250+ shops), Ikebukuro (Animate flagship), Nakano Broadway (secondhand)

@@ -36,7 +36,7 @@ Here's the honest breakdown of where to sleep if you want your hotel to be part 
 
 <div className="jpn-info-box">
 
-## TL;DR: Which Anime Hotel?
+**TL;DR: Which Anime Hotel?**
 
 - **Budget (¥3,000–5,000)?** Astro Station — shared dorms, social, backpacker-friendly
 - **Sweet spot (¥8,000–12,000)?** Hotel Tavinos — private room + onsen + breakfast

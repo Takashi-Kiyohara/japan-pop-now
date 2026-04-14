@@ -38,7 +38,7 @@ I've organized these six destinations by travel time from central Tokyo, with ex
 
 <div className="jpn-info-box">
 
-## TL;DR: Pick Your Day Trip
+**TL;DR: Pick Your Day Trip**
 
 - **Closest & cheapest?** Kamakura (55 min, ¥3,800) — Slam Dunk iconic shot
 - **Most well-rounded?** Hakone (85 min, ¥7,000–8,000) — hot springs + Evangelion merch + scenery

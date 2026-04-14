@@ -30,7 +30,7 @@ wpPostId: 104
 
 <div className="jpn-info-box">
 
-## TL;DR
+**TL;DR**
 
 **Ikebukuro Essentials:** Start at Animate Main Store (1.5–2 hrs) → Walk to Sunshine City for Gashapon Department Store (45 min) → Lunch at food court or Collab Cafe → Browse Otome Road (1 hr) → Game center session if time permits. Total: 4–6 hours.
 

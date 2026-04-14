@@ -21,7 +21,7 @@ wpPostId: 610
 
 <div className="jpn-info-box">
 
-## TL;DR: Proxy Shopping for Anime Figures
+**TL;DR: Proxy Shopping for Anime Figures**
 
 - **What it is:** A proxy service buys items from Japanese sites and ships them to you
 - **Best for:** Mercari Japan, Yahoo Auctions, rare vintage items not available elsewhere

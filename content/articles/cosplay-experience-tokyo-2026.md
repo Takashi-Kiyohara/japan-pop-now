@@ -40,7 +40,7 @@ Cosplay rental is one of those Tokyo experiences that sounds intimidating but is
 
 <div className="jpn-info-box">
 
-## TL;DR: Quick Cosplay Rental Guide
+**TL;DR: Quick Cosplay Rental Guide**
 
 - **Best overall?** Studio Crown (Akihabara) — English-friendly, ¥3,000–12,000, popular costumes in stock
 - **Professional photos?** Cosset (Ikebukuro) — portfolio-quality output, guided experience

@@ -37,7 +37,7 @@ I've spent more than I should admit on these machines. This guide covers the rea
 
 <div className="jpn-info-box">
 
-## TL;DR: Gachapon in 2026
+**TL;DR: Gachapon in 2026**
 
 - **What:** Coin-operated capsule toy machines with 4–6 designs per set
 - **Cost:** ¥200–¥500 per capsule (100-yen coins)

@@ -35,7 +35,7 @@ This guide covers how to get there, what's on each floor, which shops matter, an
 
 <div className="jpn-info-box">
 
-## TL;DR
+**TL;DR**
 
 **Nakano Broadway Essentials:** Enter via Nakano Sun Mall (225m covered arcade) → Explore B1F (Daily Chico soft serve), 1F (new releases), 2F–3F (Mandarake specialty shops & figures), 4F (rare/niche items). Total: 2–4 hours.
 

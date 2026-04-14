@@ -28,7 +28,7 @@ wpPostId: 540
 
 <div className="jpn-info-box">
 
-## TL;DR: Shipping Anime Merch from Japan
+**TL;DR: Shipping Anime Merch from Japan**
 
 - **Cheapest:** Japan Post SAL (¥2,500–¥3,200/kg, 2–4 weeks) — best for most hauls
 - **Fastest:** EMS (¥6,700–¥8,000/kg, 5–10 days) — use for urgent items only

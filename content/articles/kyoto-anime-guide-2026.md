@@ -32,7 +32,7 @@ Kyoto Animations (KyoAni), one of the most respected studios in the industry, ca
 
 <div className="jpn-info-box">
 
-## TL;DR: Kyoto Anime Pilgrimage
+**TL;DR: Kyoto Anime Pilgrimage**
 
 **1-Day Route:** Fushimi Inari Taisha (early morning, 2 hrs) → Kyoto shopping/lunch → K-On locations (Philosopher's Path, 2 hrs) → Dinner in Gion.
 

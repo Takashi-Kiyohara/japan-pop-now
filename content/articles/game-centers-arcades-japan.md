@@ -19,7 +19,7 @@ wpPostId: 270
 
 <div className="jpn-info-box">
 
-## TL;DR: Japanese Game Centers in 2026
+**TL;DR: Japanese Game Centers in 2026**
 
 - **What:** Multi-floor entertainment buildings with crane games, rhythm games, fighting games, purikura
 - **Best location:** Silk Hat Akihabara (9 floors, reopened Nov 2025 after GiGO rebranding)

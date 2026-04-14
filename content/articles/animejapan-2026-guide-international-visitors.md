@@ -62,7 +62,7 @@ Both lines have frequent service and are fully integrated with the Suica/PASMO I
 
 <div className="jpn-info-box">
 
-## TL;DR: AnimeJapan Planning
+**TL;DR: AnimeJapan Planning**
 
 - **When?** March 28-29, 2026
 - **Where?** Tokyo Big Sight (East 4-8, South 1-4, rooftop)

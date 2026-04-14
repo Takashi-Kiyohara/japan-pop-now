@@ -35,7 +35,7 @@ The mistake most visitors make is going to Akihabara and thinking they've seen "
 
 <div className="jpn-info-box">
 
-## TL;DR: Tokyo Anime Districts
+**TL;DR: Tokyo Anime Districts**
 
 **Must-Visit 3:** Akihabara (broadest selection) → Ikebukuro (collab cafes) → Nakano (vintage).
 
