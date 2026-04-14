@@ -202,6 +202,22 @@ Yes — if you're already in Japan, walk into any Lawson or Ministop and use the
 
 </div>
 
+<div className="jpn-faq">
+
+**What is a proxy booking service?**
+
+A proxy service is a Japan-based intermediary who purchases tickets, event goods, or merchandise on your behalf and ships them to you. They charge a service fee (typically 300–800 yen per item) plus actual shipping costs.
+
+**Which proxy services are most reliable for anime events?**
+
+Buyee, Zenmarket, and FromJapan are well-established services with English interfaces. For rare event goods, White Rabbit Express offers concierge-style assistance.
+
+**How far in advance should I book through a proxy?**
+
+Book as soon as the ticket sale opens — popular events like AnimeJapan, Comiket, and idol concerts sell out within minutes. Set up your proxy account and verify payment details before the sale date.
+
+</div>
+
 <div className="jpn-cta">
 
 <p><strong>Follow <a href="https://www.instagram.com/japan_pop_now/" rel="nofollow" target="_blank">@japan_pop_now on Instagram</a></strong> for daily Tokyo pop culture updates.</p>

@@ -233,6 +233,22 @@ A: The movie team used real Jinbocho locations as reference for the Reze Arc ani
 - [10 Anime Pilgrimage Spots Every Fan Should Visit in Tokyo](/articles/anime-pilgrimage-spots-tokyo/)
 - [One Piece Kumamoto Statue Tour](/articles/one-piece-kumamoto-statue-tour/)
 
+<div className="jpn-faq">
+
+**Which Chainsaw Man locations are real and visitable?**
+
+The Nerima ward streets, Nakameguro canal-side paths, and certain Shibuya back alleys all appeared in the series. Nerima Station and surrounding residential streets are the most visited pilgrimage points.
+
+**Is there a Chainsaw Man collab cafe in Tokyo?**
+
+Collab cafes open periodically — check our [Tokyo Anime Collab Cafes](/articles/tokyo-anime-collab-cafes-spring-2026/) page for current listings, or follow [@japan_pop_now](https://www.instagram.com/japan_pop_now/) for opening announcements.
+
+**Do I need to watch Chainsaw Man before the pilgrimage?**
+
+Helpful but not required. Knowing the locations' story context makes the experience more meaningful — many fans rewatch key episodes the night before visiting.
+
+</div>
+
 <div className="jpn-cta">
 
 <p><strong>Follow <a href="https://www.instagram.com/japan_pop_now/" rel="nofollow" target="_blank">@japan_pop_now on Instagram</a></strong> for daily Tokyo pop culture updates.</p>

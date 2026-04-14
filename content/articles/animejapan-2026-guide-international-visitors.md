@@ -197,6 +197,22 @@ Planning a trip to Tokyo? [Check our complete guide to anime collaboration cafes
 
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.
 
+<div className="jpn-faq">
+
+**Do I need to book AnimeJapan tickets in advance?**
+
+Yes — tickets sell out quickly, often within days of release on the official site. International visitors should use a proxy ticketing service or Japan-based friend if they cannot access the Japanese ticket portal.
+
+**What language is AnimeJapan in?**
+
+Primarily Japanese, but stage events often have subtitle screens. The exhibition floor has bilingual signage in most major booths, and staff at international booths typically speak English.
+
+**Can I bring merch purchases home from AnimeJapan?**
+
+Yes — most booths accept cash (yen) and some accept international credit cards. Keep receipts for customs. Japan Post has a convenient service desk inside Tokyo Big Sight for shipping larger purchases.
+
+</div>
+
 <div className="jpn-cta">
 
 <p><strong><a href="https://www.instagram.com/japan_pop_now/" rel="nofollow" target="_blank">Follow @japan_pop_now on Instagram</a></strong> for daily Tokyo pop culture updates.</p>

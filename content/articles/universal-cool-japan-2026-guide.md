@@ -162,6 +162,22 @@ They serve different purposes. Universal Cool Japan is better if you want a larg
 - **Anime Merch Shopping Guide in Japan** if your next priority is merch and anime retail strategy
 - **Tokyo Anime Collab Cafes Spring 2026** if you want smaller-scale seasonal experiences after Osaka
 
+<div className="jpn-faq">
+
+**How long does Universal Cool Japan run in 2026?**
+
+Universal Cool Japan typically runs from late January through June, though exact dates vary by attraction. Some experiences (like the Dragon Ball event) have limited-run periods within the main campaign. Check the official USJ website for current schedules.
+
+**Do I need separate tickets for Universal Cool Japan events?**
+
+Some experiences require an Express Pass or separate event ticket on top of standard park admission. The attack-themed haunted houses and certain XR rides often have separate passes. Budget ¥3,000–¥8,000 extra for add-on experiences.
+
+**Which Universal Cool Japan attractions are must-do for anime fans?**
+
+The Dragon Ball VR experience and Evangelion XR ride consistently rank as fan favorites. Lines are shortest on weekday mornings — arrive at opening to get the best chance of booking same-day passes.
+
+</div>
+
 <div className="jpn-cta">
 
 <p><strong>Follow <a href="https://www.instagram.com/japan_pop_now/" rel="nofollow" target="_blank">@japan_pop_now on Instagram</a></strong> for daily Tokyo pop culture updates.</p>

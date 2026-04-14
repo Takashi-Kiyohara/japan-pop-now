@@ -253,6 +253,22 @@ Disclosure: this section may include partner links. Check coverage area, pickup 
 
 </div>
 
+<div className="jpn-faq">
+
+**Where is the best place to buy anime merch in Japan?**
+
+Akihabara (Tokyo) is the most concentrated spot, but Nakano Broadway has better secondhand prices, and Den Den Town in Osaka has less competition for rare items. For new releases, Animate stores nationwide carry official stock.
+
+**Is anime merchandise cheaper in Japan than overseas?**
+
+Usually yes — official merch is sold at Japanese retail prices, which beat import/markup prices. Secondhand stores like Mandarake offer additional discounts of 30–60% on older items.
+
+**Can I ship anime merch home from Japan?**
+
+Yes — Japan Post's SAL and Surface options are affordable for heavy goods. For expensive figures, use EMS with insurance. Most major stores also offer proxy/forwarding service recommendations.
+
+</div>
+
 <div className="jpn-cta">
 
 <p><strong>Follow <a href="https://www.instagram.com/japan_pop_now/" rel="nofollow" target="_blank">@japan_pop_now on Instagram</a></strong> for daily Tokyo pop culture updates.</p>

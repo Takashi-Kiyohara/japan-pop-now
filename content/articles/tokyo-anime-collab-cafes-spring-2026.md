@@ -363,6 +363,22 @@ Spring (March–May) and autumn (September–November) offer the best weather an
 
 ---
 
+<div className="jpn-faq">
+
+**How do I book an anime collab cafe in Tokyo?**
+
+Most cafes require advance reservations via the official website or TABLECHECK/Hot Pepper. International visitors can book directly if they have a Japanese phone number, or use a service like Klook for select venues.
+
+**How often do new collab cafes open in Tokyo?**
+
+New collaborations open every 2–4 weeks in major venues like animate cafes, Nyan Nyan Cafe, and Tower Records Cafe. The spring (March–May) season is particularly active.
+
+**What is included in a collab cafe reservation?**
+
+Most cafes require a 1-drink minimum order (¥800–¥1,200) plus a table charge (¥500–¥800). Food and specialty drinks featuring characters are extra. Exclusive merchandise is often sold only to dine-in guests.
+
+</div>
+
 <div className="jpn-cta">
 
 <p><strong>Follow <a href="https://www.instagram.com/japan_pop_now/" rel="nofollow" target="_blank">@japan_pop_now on Instagram</a></strong> for daily Tokyo pop culture updates.</p>

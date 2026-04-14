@@ -213,6 +213,22 @@ Weekday afternoons are the quietest. Evenings and weekends are busiest, especial
 
 </div>
 
+<div className="jpn-faq">
+
+**Are Japanese game centers still popular in 2026?**
+
+Yes — Japan's arcades have evolved beyond fighting games to include prize machines (UFO catchers), rhythm games (Taiko no Tatsujin, maimai), and photo booths (purikura). They remain a core part of pop culture tourism.
+
+**How much money should I budget for a game center visit?**
+
+¥1,000–¥3,000 covers a solid 1–2 hour visit. Bring ¥100 coins — most machines cost 100–200 yen per play. Some prize machines require multiple attempts (budget ¥500–¥1,500 for a single prize).
+
+**What is the best game center in Akihabara?**
+
+GiGO (formerly SEGA) Akihabara has multiple floors covering crane games, rhythm games, and fighting game tournaments. Super Potato's adjacent floors also have classic arcade cabinets from the 80s–90s.
+
+</div>
+
 <div className="jpn-cta">
 
 <p><strong>Follow <a href="https://www.instagram.com/japan_pop_now/" rel="nofollow" target="_blank">@japan_pop_now on Instagram</a></strong> for daily Tokyo pop culture updates.</p>

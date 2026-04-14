@@ -263,6 +263,22 @@ Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and 
 
 Follow for weekly collab cafe updates & Japan pop culture content.
 
+<div className="jpn-faq">
+
+**Is the Japan Rail Pass worth it for an anime pilgrimage trip?**
+
+It depends on your itinerary. If you're visiting Tokyo only, the JR Pass rarely pays off — a Suica card is cheaper. If your trip includes Kyoto (Kyoani tours), Osaka (Den Den Town), or Hiroshima (Fullmetal Alchemist locations), the 7-day pass (¥50,000) can break even with just 2–3 Shinkansen rides.
+
+**When should I buy the Japan Rail Pass?**
+
+Buy before leaving your home country — overseas prices are discounted compared to purchasing in Japan. Activate the pass on your first day of use, not on arrival.
+
+**Does the JR Pass cover Tokyo's metro lines?**
+
+No — the JR Pass only covers JR lines. Tokyo's subway (Toei, Tokyo Metro) requires separate IC card payment. The JR Yamanote Loop Line (which serves Akihabara, Shibuya, Harajuku, Ikebukuro) IS covered.
+
+</div>
+
 <div className="jpn-cta">
 
 <p><strong>Follow <a href="https://www.instagram.com/japan_pop_now/" rel="nofollow" target="_blank">@japan_pop_now on Instagram</a></strong> for daily Tokyo pop culture updates.</p>

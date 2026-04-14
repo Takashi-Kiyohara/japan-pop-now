@@ -289,6 +289,22 @@ Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and 
 
 Follow for weekly collab cafe updates & Japan pop culture content.
 
+<div className="jpn-faq">
+
+**Which is cheaper in Japan — eSIM, pocket WiFi, or SIM card?**
+
+eSIMs are typically the best value for solo travelers: 3GB for 7 days runs around ¥1,000–¥1,500. Pocket WiFi is better if you're sharing data with multiple people. Physical SIM cards (tourist SIMs) are mid-range, around ¥2,000–¥4,000 for 30 days unlimited data.
+
+**Can I use my phone's eSIM for Japan?**
+
+Most iPhones from XS onwards and many Android flagships support eSIM. Check your device specs and ensure your carrier allows international eSIM use (unlocked or dual-SIM required).
+
+**Where can I buy a tourist SIM card in Japan?**
+
+Available at Narita and Haneda airport arrival halls, major electronics stores (Yodobashi, BIC Camera), and convenience stores (7-Eleven, Lawson). Pre-purchasing an eSIM before departure is faster.
+
+</div>
+
 <div className="jpn-cta">
 
 <p><strong>Follow <a href="https://www.instagram.com/japan_pop_now/" rel="nofollow" target="_blank">@japan_pop_now on Instagram</a></strong> for daily Tokyo pop culture updates.</p>

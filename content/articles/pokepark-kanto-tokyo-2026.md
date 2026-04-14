@@ -244,6 +244,22 @@ Planning a trip to Tokyo? [Check our complete guide to anime collaboration cafes
 
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.
 
+<div className="jpn-faq">
+
+**How do I buy PokéPark Kanto tickets?**
+
+Tickets are sold via the official Pokémon website and major convenience store ticket kiosks (Lawson, 7-Eleven). Advance booking is strongly recommended — walk-in availability is limited on weekends and holidays.
+
+**Is PokéPark Kanto worth it for adults?**
+
+Yes — the park is designed for all ages, with detailed world-building, photo opportunities, and merchandise exclusive to the venue. Adult fans report 3–4 hour visits without running out of things to see.
+
+**What should I bring to PokéPark Kanto?**
+
+Comfortable shoes (lots of walking), cash for merchandise (some booths are cash-only), and a portable charger for photos. Pokémon GO integration with the park enhances the experience if you play.
+
+</div>
+
 <div className="jpn-cta">
 
 <p><strong><a href="https://www.instagram.com/japan_pop_now/" rel="nofollow" target="_blank">Follow @japan_pop_now on Instagram</a></strong> for daily Tokyo pop culture updates.</p>

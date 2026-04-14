@@ -330,6 +330,22 @@ Continue your pilgrimage journey with our complete anime location guides:
 
 ![Follow the Pilgrimage — Naruto Tokyo Pilgrimage](/images/articles/naruto-tokyo-pilgrimage-2026/7.jpg)
 
+<div className="jpn-faq">
+
+**Are there any Naruto-themed stores permanently open in Tokyo?**
+
+The Jump Shop in Tokyo Skytree (Solamachi) and Shonen Jump+ merchandise sections in Animate stores carry Naruto goods year-round. Seasonal pop-up stores appear near major release anniversaries.
+
+**Which Tokyo location is most associated with Naruto?**
+
+The Ikebukuro Jump Shop is a consistent destination, stocking Naruto figures, clothing, and exclusives. The Shinjuku area also has Naruto-inspired restaurant pop-ups that appear periodically.
+
+**Is there a Naruto collab cafe in Tokyo in 2026?**
+
+Collab cafes open on rotating schedules. Check our [Tokyo Anime Collab Cafes](/articles/tokyo-anime-collab-cafes-spring-2026/) tracker for current listings.
+
+</div>
+
 <div className="jpn-cta">
 
 <p><strong>Follow <a href="https://www.instagram.com/japan_pop_now/" rel="nofollow" target="_blank">@japan_pop_now on Instagram</a></strong> for daily Tokyo pop culture updates.</p>

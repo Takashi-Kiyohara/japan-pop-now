@@ -332,6 +332,22 @@ Avoid bootlegs by checking MyFigureCollection. Consolidate shipments to save on 
 
 </div>
 
+<div className="jpn-faq">
+
+**What is proxy shopping and how does it work?**
+
+A proxy shopping service buys items from Japanese websites or physical stores on your behalf, then ships them internationally. You pay the item price plus a service fee and shipping. Most services support payment via PayPal or credit card.
+
+**What is the cheapest proxy service for anime figures?**
+
+Buyee has competitive fees and direct integration with Yahoo! Auctions Japan and Mercari JP. Zenmarket is popular for auctions. For new releases from official stores, FromJapan offers good flat-rate options.
+
+**Are there items I cannot import from Japan?**
+
+Check your country's import regulations for replica items and certain merchandise. Most licensed anime goods have no restrictions. Customs duties may apply above a certain value threshold depending on your country.
+
+</div>
+
 <div className="jpn-cta">
 
 <p><strong>Follow <a href="https://www.instagram.com/japan_pop_now/" rel="nofollow" target="_blank">@japan_pop_now on Instagram</a></strong> for daily Tokyo pop culture updates.</p>

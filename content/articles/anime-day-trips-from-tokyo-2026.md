@@ -237,6 +237,22 @@ Planning a trip to Tokyo? [Check our complete guide to anime collaboration cafes
 
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.
 
+<div className="jpn-faq">
+
+**Which anime day trip from Tokyo is easiest?**
+
+Kamakura is the easiest — under 60 minutes by train from Shinjuku, no reservation needed, and Slam Dunk's Kamakura Koko-mae Station is walkable from the train. Ōarai (Girls und Panzer) and Washimiya (Lucky Star) require more time but are still doable as day trips.
+
+**Do I need a JR Pass for anime day trips from Tokyo?**
+
+For most Tokyo-area day trips, a Suica/Pasmo IC card works fine and is often cheaper than JR Pass. The JR Pass is better value if you're also doing Kyoto, Osaka, or Hiroshima.
+
+**Can I do a pilgrimage day trip without speaking Japanese?**
+
+Yes — Google Maps works well for all these destinations, most train announcements have English, and tourist maps are available at major stations.
+
+</div>
+
 <div className="jpn-cta">
 
 <p><strong><a href="https://www.instagram.com/japan_pop_now/" rel="nofollow" target="_blank">Follow @japan_pop_now on Instagram</a></strong> for daily Tokyo pop culture updates.</p>

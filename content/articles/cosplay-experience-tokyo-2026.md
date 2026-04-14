@@ -196,6 +196,22 @@ Planning a trip to Tokyo? [Check our complete guide to anime collaboration cafes
 
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.
 
+<div className="jpn-faq">
+
+**Can tourists rent cosplay costumes in Tokyo without booking ahead?**
+
+Some Akihabara studios take walk-ins, but popular character costumes book up quickly on weekends. Booking 1–2 weeks in advance via the studio's website or DM is strongly recommended.
+
+**How much does a cosplay studio session cost in Tokyo?**
+
+Basic costume rental with a 30-minute shoot starts around ¥3,000–¥6,000. Full packages with hair, makeup, and digital photos run ¥8,000–¥20,000 depending on costume complexity.
+
+**Can I wear cosplay outside in Akihabara?**
+
+Yes — the area is cosplay-friendly. Many studios allow outdoor shooting in designated Akihabara zones. Avoid wearing full costume on public transport or in non-designated areas.
+
+</div>
+
 <div className="jpn-cta">
 
 <p><strong><a href="https://www.instagram.com/japan_pop_now/" rel="nofollow" target="_blank">Follow @japan_pop_now on Instagram</a></strong> for daily Tokyo pop culture updates.</p>
