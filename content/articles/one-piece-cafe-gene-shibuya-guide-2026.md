@@ -17,7 +17,7 @@ relatedSlugs: ["tokyo-anime-collab-cafes-spring-2026", "how-to-book-anime-collab
 
 *Last updated: April 2026.*
 
-![Full table spread at One Piece Cafe GENE Shibuya showing skull bowl ramen, crepe bowl, two character drinks, and placemat with Moe from Japan Pop Now](/images/articles/one-piece-cafe-gene-shibuya-guide-2026/moe-hero.jpg)
+![Moe from Japan Pop Now with full table spread at One Piece Cafe GENE Shibuya — skull bowl ramen, crepe bowl, two character drinks, Luffy standee, and Straw Hat Crew placemat](/images/articles/one-piece-cafe-gene-shibuya-guide-2026/moe-table-spread.jpg)
 
 **One Piece Cafe GENE is a limited-time collaboration cafe at THE GUEST cafe&diner inside Shibuya PARCO 6F, running through May 18, 2026.** The cafe serves character-themed dishes priced between ¥1,320 and ¥2,090, reservation costs ¥550 via Lawson Ticket (includes a novelty GENE Band), and it shares the same floor as Nintendo TOKYO, Pokemon Center Shibuya, and JUMP SHOP — making it the single best one-stop anime floor in Tokyo right now.
 
