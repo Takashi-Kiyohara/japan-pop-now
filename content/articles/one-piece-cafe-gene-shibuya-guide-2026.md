@@ -8,7 +8,7 @@ tags: ["one-piece", "shibuya", "2026-spring", "limited-time"]
 featuredImage: "/images/articles/one-piece-cafe-gene-shibuya-guide-2026/moe-featured.jpg"
 featuredImageAlt: "Moe from Japan Pop Now holding two signature One Piece character drinks at One Piece Cafe GENE in Shibuya PARCO"
 heroImage: "/images/articles/one-piece-cafe-gene-shibuya-guide-2026/moe-hero.jpg"
-heroImageAlt: "Full table spread at One Piece Cafe GENE Shibuya with skull bowl ramen, character drinks, and Straw Hat Crew placemat"
+heroImageAlt: "Moe from Japan Pop Now holding a Luffy cardboard standee inside One Piece Cafe GENE at Shibuya PARCO 6F with Monkey D. Luffy character posters in the background"
 imageCredit: "Photo: Japan Pop Now"
 author: "Japan Pop Now"
 excerpt: "One Piece Cafe GENE at Shibuya PARCO 6F runs through May 18, 2026. After a full afternoon testing the Phase 2 menu — skull bowl ramen, birthday cards, and ¥1,100 character drinks — here is what to order, how to book, and the 3 things international visitors keep getting wrong."
@@ -17,11 +17,24 @@ relatedSlugs: ["tokyo-anime-collab-cafes-spring-2026", "how-to-book-anime-collab
 
 *Last updated: April 2026.*
 
-![Full table spread at One Piece Cafe GENE showing skull bowl ramen, Thousand Sunny drink, character placemat, and Moe from Japan Pop Now](/images/articles/one-piece-cafe-gene-shibuya-guide-2026/moe-hero.jpg)
+![Moe from Japan Pop Now holding a Luffy cardboard standee inside One Piece Cafe GENE at Shibuya PARCO 6F](/images/articles/one-piece-cafe-gene-shibuya-guide-2026/moe-hero.jpg)
 
 **One Piece Cafe GENE is a limited-time collaboration cafe at THE GUEST cafe&diner inside Shibuya PARCO 6F, running through May 18, 2026.** The cafe serves character-themed dishes priced between ¥1,320 and ¥2,090, reservation costs ¥550 via Lawson Ticket (includes a novelty GENE Band), and it shares the same floor as Nintendo TOKYO, Pokemon Center Shibuya, and JUMP SHOP — making it the single best one-stop anime floor in Tokyo right now.
 
 I visited on a weekday afternoon in April 2026 and spent ¥5,060 across 2 food items and 2 drinks. The skull bowl ramen arrived in a bowl shaped like Trafalgar Law's Jolly Roger — lid included — and the birthday card campaign gave me 3 free collectible cards just for ordering. Here is the part most English sites miss: walk-ins work fine after 14:00 on weekdays, the food order limit is 3 items per person, and the ¥550 reservation ticket gets you a random charm that resells for ¥800-1,200 on Mercari.
+
+<div className="jpn-info-box">
+
+**The 30-second answer**
+
+- **Where:** Shibuya PARCO 6F (6-min walk from JR Shibuya Hachiko Exit)
+- **When:** Phase 2 runs April 1 - May 18, 2026, 10:00-21:00
+- **Book?** Lawson Ticket ¥550 — optional. Walk-in works weekdays after 14:00.
+- **Spend:** ¥3,000-5,000 per person for the full food + drink + coaster experience
+- **One thing to order:** Straw Hat Salt Ramen in the skull bowl (¥1,980)
+- **Free with every visit:** Original placemat + one coaster per drink
+
+</div>
 
 ## One Piece Cafe GENE at a glance
 
@@ -67,6 +80,14 @@ If you are combining this with our [Shibuya-Harajuku pop culture walking route](
 
 **The catch for international visitors:** Lawson Ticket requires a Japanese phone number to register. If you do not have one, ask your hotel concierge to book on your behalf, or use a temporary Japanese SIM. Walk-ins are a solid backup plan — see below.
 
+**Your 3 booking options compared:**
+
+| Option | Cost | Guaranteed seat? | Novelty GENE Band | Best for |
+| --- | --- | --- | --- | --- |
+| Lawson Ticket (direct) | ¥550 | Yes | Yes (1 random) | Weekend visitors, card collectors |
+| Hotel concierge booking | ¥550 + tip | Yes | Yes (1 random) | No Japanese phone, first-timers |
+| Walk-in | ¥0 | No (wait 0-40 min) | No | Flexible weekday schedules |
+
 **Walk-in option:** Seats open up after the lunch rush. On weekdays, arriving between 14:00 and 16:00 gives you the best chance of walking in with no wait. Staff at the entrance will tell you the estimated wait time. Weekends are tighter, so arrive before 14:00 or after 18:00 (but food last order is 20:00, so plan accordingly).
 
 For a full breakdown of Lawson Ticket for overseas visitors, see our [Lawson Ticket booking guide](/articles/lawson-ticket-anime-cafe-booking).
@@ -74,6 +95,17 @@ For a full breakdown of Lawson Ticket for overseas visitors, see our [Lawson Tic
 ## What should I order? (Phase 2 menu)
 
 Phase 2 runs April 1 through May 18, 2026 with a completely refreshed menu. The ordering rule is strict: maximum 3 food/dessert items and 5 drinks per person. Here is what stood out.
+
+<div className="jpn-tip">
+
+**Quick ranking from my visit**
+
+- **Most photogenic:** Straw Hat Salt Ramen (the skull bowl lid lift is the money shot)
+- **Best value:** Nakama Wrap Sandwich Plate at ¥1,320 — cheapest food, generous portion
+- **Fan-service pick:** Law & Corazon Memory Sweets Plate (¥2,090) — only order if you love Law
+- **Skip if pressed for time:** Shabondy Bread Gratin — tasty but takes 15 min to arrive
+
+</div>
 
 ![Skull bowl ramen being served at One Piece Cafe GENE — staff lifting the Trafalgar Law Jolly Roger lid to reveal salt ramen inside](/images/articles/one-piece-cafe-gene-shibuya-guide-2026/skull-bowl-ramen.jpg)
 *The skull bowl moment — staff lift the lid tableside and steam rolls out. The bowl is Trafalgar Law's Jolly Roger. Photo: Japan Pop Now*
@@ -132,6 +164,31 @@ Every visitor receives two freebies regardless of what you order:
 **Original coaster** - one random coaster per drink order, featuring iconic anime scenes.
 
 **GENE Band with charm (reservation only)** - If you booked via Lawson Ticket, you receive a random wristband with a character charm attached. There are multiple designs in rotation, and dedicated collectors visit multiple times to complete the set.
+
+<div className="jpn-info-box">
+
+**What you actually take home** (for a typical ¥3,000 visit with 1 food + 1 drink + reservation)
+
+- 1 placemat (Phase 2 exclusive design)
+- 1 coaster (random from ~6 designs)
+- 1 GENE Band charm (reservation only, ~8 designs)
+- 1-2 birthday cards (campaign running through April)
+
+That is 4-5 collectibles for roughly ¥3,630 including the reservation — better merch-to-yen ratio than most pop-up cafes in Tokyo right now.
+
+</div>
+
+## The perfect Shibuya PARCO 6F plan (1-2 hours)
+
+The 6th floor is the highest-density anime merchandise floor in Tokyo. If you are visiting the cafe, do not leave without walking the rest of the floor. Here is a tested route:
+
+1. **0:00-0:10** - Arrive at PARCO 6F. Check cafe wait time at the entrance podium.
+2. **0:10-0:30** - While waiting, hit JUMP SHOP (next door) for One Piece exclusive goods and the collaboration items.
+3. **0:30-0:45** - Quick lap through Pokemon Center Shibuya (the Mega Mewtwo statue is worth the detour).
+4. **0:45-1:45** - Cafe visit. Order food + drink, collect your placemat + coaster + card.
+5. **1:45-2:00** - End at Nintendo TOKYO to test the demo units and grab exclusive Zelda or Mario merch.
+
+If you are short on time, JUMP SHOP plus the cafe alone is a solid 90-minute loop.
 
 ## Why do Japanese fans love this cafe?
 

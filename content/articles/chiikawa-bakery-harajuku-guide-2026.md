@@ -75,6 +75,17 @@ Best for morning and lunchtime visits. Pick a 30-minute entry window, pay ¥1,00
 
 Free and genuinely reliable after 15:00 on weekdays or 18:00 on weekends. If there is a queue, staff hand out Airwait QR codes — you scan, get a digital number, and explore Harajuku while you wait instead of standing in line. On weekdays you can typically get in within 10–30 minutes. Weekends after 18:00 run tighter because the shop closes at 20:00, so check [@chiikawabakery on X](https://x.com/chiikawabakery) for same-day capacity updates.
 
+**Reservation vs walk-in at a glance:**
+
+| | Lawson Ticket reservation | Walk-in |
+| --- | --- | --- |
+| Cost | ¥1,000 (returned as voucher) | Free |
+| Best time | Mornings, lunchtime, weekends | Weekday after 15:00 / weekend after 18:00 |
+| Wait time | 0 min (priority entry) | 0-30 min (Airwait QR) |
+| Guaranteed entry | Yes | No, capacity permitting |
+| Net spend if you shop ¥1,000+ | Same as walk-in | Same |
+| Best for | Peak hours, group visits | Flexible schedules, solo travelers |
+
 > **Watch the time:** If you arrive more than 15 minutes late to your reservation slot, it is cancelled and you rejoin the walk-in queue. Build in buffer time — the Omotesando area has more than enough to fill 30 minutes.
 
 For more detail on Lawson Ticket and how to book from outside Japan, see our [Lawson Ticket booking guide](/articles/lawson-ticket-anime-cafe-booking).
@@ -100,6 +111,19 @@ The menu is long and the prices look small, but it adds up fast. Here is how to 
 **Full visit spend: ¥2,000–¥2,800 per person.** One character bread, one drink, one souvenir rusk or financier. If you hold the Lawson Ticket voucher, you recover ¥1,000 of that.
 
 **Quick snack plan: about ¥1,200.** One character bread (¥580) + one iced coffee (¥590). Walk in after 15:00 on a weekday, skip the Lawson Ticket, and enjoy the atmosphere without budget pressure. You still get a coaster, a character bread, and the full bakery experience.
+
+<div className="jpn-info-box">
+
+**What you actually take home** (from a typical ¥2,000 visit)
+
+- 1 character-shaped bread (¥580) — eat it, photograph it, or split it with a travel partner
+- 1 random character coaster (12 designs) — comes free with any drink order
+- 1 packaged souvenir rusk or financier (optional, ¥320-¥990)
+- The bag itself, which is branded and surprisingly durable
+
+Add the Ro Ramen Bread set (¥2,300) if you want a take-home ceramic bowl. The bowl alone would cost more at Laforet B1F.
+
+</div>
 
 ![Moe from Japan Pop Now holding a matcha cupcake next to a large Chiikawa character figure at the Ro Ramen bread counter inside the bakery](/images/articles/chiikawa-bakery-harajuku-guide-2026/moe-body.jpg)
 *Picking up a matcha cupcake at the Ro Ramen counter — the character figures make every corner a photo spot. Photo: Japan Pop Now*
