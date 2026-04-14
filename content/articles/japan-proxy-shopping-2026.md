@@ -1,30 +1,45 @@
 ---
 title: "Japan Proxy Shopping 2026: Buy Anime Figures & Merch Online"
-description: "Buy anime figures from Mercari Japan & Yahoo Auctions using proxy services. Costs, services & shipping explained."
+description: "Buy anime figures and merch from Japan without visiting. Complete guide to proxy services: Buyee, ZenMarket, OneMall. Costs, how-to, and how to avoid counterfeits in 2026."
+heroImage: "/images/articles/japan-proxy-shopping-2026/featured.jpg"
+heroImageAlt: "Anime figures and collectibles display at Akihabara shop for proxy shopping"
 date: "2026-04-03"
+lastUpdated: "2026-04-14"
 category: "travel-tips"
-tags: []
+tags: ["proxy shopping", "mercari", "yahoo auctions", "anime merch", "online shopping", "international"]
 featuredImage: "/images/articles/japan-proxy-shopping-2026/featured.jpg"
 featuredImageAlt: "Anime figures and collectibles display at Akihabara shop for proxy shopping"
 author: "Japan Pop Now"
-excerpt: "Buy anime figures from Mercari Japan & Yahoo Auctions using proxy services. Costs, services & shipping explained."
-relatedSlugs: []
+excerpt: "Buy anime figures from Mercari Japan and Yahoo Auctions using proxy services. Complete comparison of Buyee, ZenMarket, OneMall with costs and how-to guide."
+relatedSlugs: ["/articles/anime-merch-shopping-guide-japan/", "/articles/ship-anime-figures-merch-home-japan/", "/articles/gachapon-guide-japan/"]
 wpPostId: 610
 ---
 
 **Last updated: April 2026**
 
 **Affiliate Disclosure:** Some links in this article are affiliate links. We earn a small commission at no extra cost to you — it helps keep Japan Pop Now running.
-Japan Proxy Shopping 2026: Buy Anime Figures & Merch Online
-Mercari Japan has the anime figure you’ve been hunting for three months. It’s on Yahoo Auctions. You’re in Portland. Problem: these sites don’t ship internationally, and they don’t speak English. Solution: a proxy service. Instead of giving up, you use a middleman to buy it for you.
 
-I’ve used five proxy services over two years to buy anime figures, vintage manga, rare gacha items, and random anime merchandise. Some are great. Some charge you hidden fees. Here’s the breakdown based on actual spending, not theory.
+<div className="jpn-info-box">
 
-**Quick Tip:** Proxy services are completely legal. Japanese e-commerce sites allow them. You’re not breaking rules—you’re using a standard international buying method.
+## TL;DR: Proxy Shopping for Anime Figures
+
+- **What it is:** A proxy service buys items from Japanese sites and ships them to you
+- **Best for:** Mercari Japan, Yahoo Auctions, rare vintage items not available elsewhere
+- **Popular services:** Buyee (auctions), ZenMarket (Mercari), OneMall (budget hauls)
+- **Typical costs:** ¥300–400 service fee + shipping (¥2,500–¥4,500 to USA)
+- **Total for one figure:** ¥4,500–¥6,000 (~$32–42)
+- **Avoid:** Counterfeit figures — check MyFigureCollection before buying
+- **Timeline:** 7–10 days for purchase + 7–14 days shipping = 2–3 weeks total
+
+</div>
+
+Mercari Japan has the anime figure you've been hunting for three months. It's on Yahoo Auctions. You're in Portland. Problem: these sites don't ship internationally, and they don't speak English. Solution: a proxy service. Instead of giving up, you use a middleman to buy it for you.
+
+I've used five proxy services over two years to buy anime figures, vintage manga, rare gacha items, and random anime merchandise. Some are great. Some charge you hidden fees. Here's the breakdown based on actual spending, not theory.
+
+**Quick Tip:** Proxy services are completely legal. Japanese e-commerce sites allow them. You're not breaking rules—you're using a standard international buying method.
 
 ## What Is a Proxy Service? (30-Second Primer)
-
-![What Is a Proxy Service? (30-Second Primer) — Japan Proxy Shopping 2026](/images/articles/japan-proxy-shopping-2026/1.jpg)
 
 A proxy service gives you a Japanese address. You use that address to buy on Japanese sites (Mercari, Yahoo Auctions, Amazon Japan). The service buys it, stores it at their warehouse, and ships it to your real address. You pay: item price + proxy fee (usually ¥300/item or flat rate) + shipping to your country.
 
@@ -40,8 +55,6 @@ A proxy service gives you a Japanese address. You use that address to buy on Jap
 
 ## 1. Buyee — Most Popular, Best for Auctions
 
-![Buyee — Most Popular, Best for Auctions — Japan Proxy Shopping 2026](/images/articles/japan-proxy-shopping-2026/2.jpg)
-
 **Proxy fee:** ¥300/item + 8% commission on winning bids
 
 **Best for:** Yahoo Auctions (especially), Amazon Japan
@@ -50,12 +63,12 @@ A proxy service gives you a Japanese address. You use that address to buy on Jap
 
 **Shipping:** EMS (¥2,000–5,000 to US), DHL (¥3,000–7,000), Surface Mail (¥800–1,500, slow)
 
-Buyee is the biggest proxy service in Japan. If you’re buying from Yahoo Auctions (which has rare anime figures, vintage toys, and weird anime merchandise you can’t find elsewhere), Buyee is the default choice. The service has been around since 2012, the website works, the staff actually responds to support emails.
+Buyee is the biggest proxy service in Japan. If you're buying from Yahoo Auctions (which has rare anime figures, vintage toys, and weird anime merchandise you can't find elsewhere), Buyee is the default choice. The service has been around since 2012, the website works, the staff actually responds to support emails.
 
 **Pros:**
 
 - Massive partner store network (160+ sites, including Yahoo Auctions, Rakuten, Amazon Japan)
-- Auction bidding works well—they handle it for you, you don’t do anything
+- Auction bidding works well—they handle it for you, you don't do anything
 - Consolidation is free (combine 10 items into one shipment)
 - Multiple shipping options including cheap surface mail
 - iOS and Android apps are functional
@@ -71,11 +84,12 @@ Buyee is the biggest proxy service in Japan. If you’re buying from Yahoo Aucti
 
 **Cost example (real purchase):** Bought a vintage Sailor Moon figure on Yahoo Auctions. Item cost: ¥2,500. Buyee auction commission: ¥200. Proxy fee: ¥300. Shipping to Portland (EMS): ¥3,100. Total: ¥6,100 (~$43).
 
-**Verdict:** Use this if you’re specifically hunting Yahoo Auctions items or need consolidation. The auction bidding feature is useful—they handle the whole process and you don’t have to understand Japanese auction rules.
+**Verdict:** Use this if you're specifically hunting Yahoo Auctions items or need consolidation. The auction bidding feature is useful—they handle the whole process and you don't have to understand Japanese auction rules.
 
 [Visit Buyee](https://buyee.jp/redirect)
 
 ## 2. ZenMarket — Best UI, Best for Mercari
+
 **Proxy fee:** ¥300/item
 
 **Best for:** Mercari, Yahoo Auctions, Rakuten
@@ -84,7 +98,7 @@ Buyee is the biggest proxy service in Japan. If you’re buying from Yahoo Aucti
 
 **Shipping:** EMS, DHL, Ship Mates (a cheaper JPN→US option)
 
-ZenMarket has the cleanest website of any proxy service. The interface actually looks like it was designed after 2010. You can search products directly in the ZenMarket interface, or paste a product link and they find it. Mercari is their specialty—if you’re hunting figures on Mercari Japan, ZenMarket is the easiest path.
+ZenMarket has the cleanest website of any proxy service. The interface actually looks like it was designed after 2010. You can search products directly in the ZenMarket interface, or paste a product link and they find it. Mercari is their specialty—if you're hunting figures on Mercari Japan, ZenMarket is the easiest path.
 
 **Pros:**
 
@@ -101,7 +115,7 @@ ZenMarket has the cleanest website of any proxy service. The interface actually 
 - ¥300 fee per item is standard but higher than OneMall
 - No auction bidding feature (unlike Buyee)
 - Warehouse storage limit is also 30 days
-- Shipping costs can be higher than Buyee’s surface mail option
+- Shipping costs can be higher than Buyee's surface mail option
 
 **Cost example (real purchase):** Bought three Jujutsu Kaisen figures from Mercari sellers. Item costs: ¥800, ¥1,200, ¥950. Proxy fees: ¥300 × 3 = ¥900. Consolidated shipping to Portland (EMS): ¥2,800. Total: ¥5,650 (~$40).
 
@@ -111,8 +125,6 @@ ZenMarket has the cleanest website of any proxy service. The interface actually 
 
 ## 3. OneMall — Best Fees, Newest Option
 
-![OneMall — Best Fees, Newest Option — Japan Proxy Shopping 2026](/images/articles/japan-proxy-shopping-2026/3.jpg)
-
 **Proxy fee:** ¥200–300/item (negotiable)
 
 **Best for:** Budget-conscious buyers, Mercari & Yahoo
@@ -121,13 +133,13 @@ ZenMarket has the cleanest website of any proxy service. The interface actually 
 
 **Shipping:** EMS, DHL, flat-rate boxes
 
-OneMall is the newest major proxy service (launched 2023). The killer feature: they offer free consolidation up to 6 items, which saves you money immediately if you’re buying multiple figures. The fee structure is also more flexible—they sometimes negotiate on per-item fees if you’re buying multiple items.
+OneMall is the newest major proxy service (launched 2023). The killer feature: they offer free consolidation up to 6 items, which saves you money immediately if you're buying multiple figures. The fee structure is also more flexible—they sometimes negotiate on per-item fees if you're buying multiple items.
 
 **Pros:**
 
 - Lower per-item fees (¥200–300, negotiable)
-- Free consolidation up to 6 items (huge if you’re doing a haul)
-- Flat-rate box option (pay one price, doesn’t matter what’s inside)
+- Free consolidation up to 6 items (huge if you're doing a haul)
+- Flat-rate box option (pay one price, doesn't matter what's inside)
 - Customer service is responsive and friendly
 - Warehouse photos are clear
 - No auction fees (unlike Buyee)
@@ -135,17 +147,18 @@ OneMall is the newest major proxy service (launched 2023). The killer feature: t
 **Cons:**
 
 - Smaller partner network than Buyee or ZenMarket
-- Doesn’t have Yahoo Auctions integration (you have to copy-paste links)
+- Doesn't have Yahoo Auctions integration (you have to copy-paste links)
 - Storage limit is 20 days (shorter than competitors)
 - Newer service = less user reviews online
 
 **Cost example (real purchase):** Bought six anime figures from various Mercari sellers. Item costs: ¥500–2,000 range. Proxy fees: ¥1,500 total (negotiated down from standard ¥1,800). Consolidated shipping (flat-rate box): ¥2,500. Total: ¥6,500–8,000 (~$46–56).
 
-**Verdict:** Best if you’re buying multiple items at once. The free consolidation and lower fees add up fast. If you’re only buying one figure, Buyee or ZenMarket is fine. If you’re doing a haul (5+ items), OneMall saves money.
+**Verdict:** Best if you're buying multiple items at once. The free consolidation and lower fees add up fast. If you're only buying one figure, Buyee or ZenMarket is fine. If you're doing a haul (5+ items), OneMall saves money.
 
 [Visit OneMall](https://onemall.jp/)
 
 ## 4. FROM JAPAN — Best for Rare/Vintage Items
+
 **Proxy fee:** ¥400/item
 
 **Best for:** Rare or high-value items, Yahoo Auctions, vintage toys
@@ -154,7 +167,7 @@ OneMall is the newest major proxy service (launched 2023). The killer feature: t
 
 **Shipping:** EMS, DHL, SAL (ship anywhere, including remote areas)
 
-FROM JAPAN charges more (¥400/item vs. ¥300), but they specialize in handling rare, fragile, or high-value items. If you’re buying a vintage 1980s anime figure or something worth ¥10,000+, the extra ¥100 per item is worth it for the care. Their support is excellent at handling complicated purchases.
+FROM JAPAN charges more (¥400/item vs. ¥300), but they specialize in handling rare, fragile, or high-value items. If you're buying a vintage 1980s anime figure or something worth ¥10,000+, the extra ¥100 per item is worth it for the care. Their support is excellent at handling complicated purchases.
 
 **Pros:**
 
@@ -170,17 +183,15 @@ FROM JAPAN charges more (¥400/item vs. ¥300), but they specialize in handling 
 - Higher per-item fee (¥400 vs. ¥300)
 - Slower processing (careful inspection takes time)
 - Smaller partner network
-- Less useful if you’re buying cheap/common items
+- Less useful if you're buying cheap/common items
 
 **Cost example (real purchase):** Bought a vintage 1990 Sailor Moon figure for ¥12,000. Proxy fee: ¥400. Detailed inspection & photos: included. Shipping (EMS): ¥4,200. Total: ¥16,600 (~$116). Worth it because the figure arrived in perfect condition.
 
-**Verdict:** Only use if you’re buying rare, vintage, or expensive items (¥5,000+). For regular figures and merch, it’s overpriced. But if you’re hunting a specific rare figure, they’re worth the extra fee.
+**Verdict:** Only use if you're buying rare, vintage, or expensive items (¥5,000+). For regular figures and merch, it's overpriced. But if you're hunting a specific rare figure, they're worth the extra fee.
 
 [Visit FROM JAPAN](https://www.fromjapan.co.jp/)
 
 ## 5. Neokyo — Best for European Buyers
-
-![Neokyo — Best for European Buyers — Japan Proxy Shopping 2026](/images/articles/japan-proxy-shopping-2026/4.jpg)
 
 **Proxy fee:** ¥250/item
 
@@ -190,7 +201,7 @@ FROM JAPAN charges more (¥400/item vs. ¥300), but they specialize in handling 
 
 **Shipping:** Various options optimized for EU
 
-If you’re in Europe, Neokyo has the best shipping rates. The company is Europe-based and has optimized shipping routes that beat US-based proxies on cost. Fee structure is also competitive (¥250/item).
+If you're in Europe, Neokyo has the best shipping rates. The company is Europe-based and has optimized shipping routes that beat US-based proxies on cost. Fee structure is also competitive (¥250/item).
 
 **Pros:**
 
@@ -201,15 +212,16 @@ If you’re in Europe, Neokyo has the best shipping rates. The company is Europe
 
 **Cons:**
 
-- Not ideal if you’re in the US or Australia (Buyee/ZenMarket are better)
+- Not ideal if you're in the US or Australia (Buyee/ZenMarket are better)
 - Less of an established track record compared to Buyee
 - Website is functional but not as polished
 
-**Verdict:** Only use this if you’re in Europe. If you’re in the US, stick with Buyee, ZenMarket, or OneMall.
+**Verdict:** Only use this if you're in Europe. If you're in the US, stick with Buyee, ZenMarket, or OneMall.
 
 [Visit Neokyo](https://neokyo.com/)
 
 ## Step-by-Step: How to Buy from Mercari Japan Using ZenMarket
+
 **Why ZenMarket?** Cleanest UI, best for Mercari. This walkthrough works for most proxy services with slight variations.
 
 ### Step 1: Create a ZenMarket Account
@@ -221,10 +233,10 @@ Open Mercari.com (this is the international version, but you want mercari.jp for
 **Pro tip:** Look for sellers with 4.5+ stars and recent sales (items listed in the last week). Avoid sellers with no reviews or negative comments about slow shipping.
 
 ### Step 3: Submit the Link to ZenMarket
-Paste the Mercari link into ZenMarket’s search bar. They find the item and show you: item price, current availability, estimated shipping cost. The site shows you the total cost (item + proxy fee + estimated shipping) before you commit.
+Paste the Mercari link into ZenMarket's search bar. They find the item and show you: item price, current availability, estimated shipping cost. The site shows you the total cost (item + proxy fee + estimated shipping) before you commit.
 
 ### Step 4: Pay ZenMarket
-Choose your payment method (credit card, PayPal, bank transfer). For one item, it’s usually ¥2,000–3,500 depending on item price + shipping. Pay via credit card if possible (faster processing).
+Choose your payment method (credit card, PayPal, bank transfer). For one item, it's usually ¥2,000–3,500 depending on item price + shipping. Pay via credit card if possible (faster processing).
 
 ### Step 5: ZenMarket Buys It
 This happens within 24 hours usually. You get an email confirmation with a photo of the item in their warehouse. Check the photo—make sure it matches the listing.
@@ -245,19 +257,18 @@ Shipping (EMS to US): ¥2,800
 **Total: ¥4,600 (~$32)**
 
 ## What NOT to Buy (and Why)
-**Counterfeit figures:** The biggest risk. MyFigureCollection (MFC) is your friend—search every figure there. It shows the official manufacturer and release date. If a Mercari listing is selling a ¥8,000 figure for ¥1,500, it’s probably fake. Proxy services won’t protect you if you buy counterfeits. That’s on you.
+
+**Counterfeit figures:** The biggest risk. MyFigureCollection (MFC) is your friend—search every figure there. It shows the official manufacturer and release date. If a Mercari listing is selling a ¥8,000 figure for ¥1,500, it's probably fake. Proxy services won't protect you if you buy counterfeits. That's on you.
 
 **Oversized items:** Shipping a big poster or life-size cardboard cutout to the US costs ¥5,000+. The item itself might be ¥1,000. Bad deal. Stick to figures, small merch, manga.
 
 **Fragile items without insurance:** Glass figures, delicate statues—pay for insurance (usually ¥300–500 extra). If it breaks in shipping, insurance covers replacement.
 
-**Food and beverages:** Some proxy services allow this, some don’t. Shipping food internationally is expensive and sometimes risky. Skip it.
+**Food and beverages:** Some proxy services allow this, some don't. Shipping food internationally is expensive and sometimes risky. Skip it.
 
 ## How to Spot a Bootleg Figure (Before You Buy)
 
-![How to Spot a Bootleg Figure (Before You Buy) — Japan Proxy Shopping 2026](/images/articles/japan-proxy-shopping-2026/5.jpg)
-
-This is critical. Proxy services won’t refund you for counterfeits.
+This is critical. Proxy services won't refund you for counterfeits.
 
 **Check on MyFigureCollection:** Search the figure. See the official release. Compare photos to the Mercari listing. Official figures have clear packaging, professional paint lines, no paint drips. Bootlegs have fuzzy photos, inconsistent paint, cheap-looking boxes.
 
@@ -276,13 +287,11 @@ Expect to pay:
 - **Same weights to Europe:** 10–20% cheaper with Neokyo, 10–20% more expensive with US-based proxies
 - **Surface mail (cheapest, slow):** ¥800–1,500 for up to 2kg, takes 3–6 months
 
-If you’re buying multiple items, consolidation saves money. Three shipments of one item each (¥2,800 × 3 = ¥8,400) vs. one shipment of all three (~¥4,200). Consolidation is free, always do it.
+If you're buying multiple items, consolidation saves money. Three shipments of one item each (¥2,800 × 3 = ¥8,400) vs. one shipment of all three (~¥4,200). Consolidation is free, always do it.
 
 ## Free Alternatives to Proxy Services
 
-![Free Alternatives to Proxy Services — Japan Proxy Shopping 2026](/images/articles/japan-proxy-shopping-2026/6.jpg)
-
-**Amazon Japan:** Ships internationally to US, EU, Canada without needing a proxy. Selection is more limited than Mercari but prices are legit and shipping is included. Good for newer releases, official merchandise. No proxy fee, but Amazon’s prices are higher than Mercari.
+**Amazon Japan:** Ships internationally to US, EU, Canada without needing a proxy. Selection is more limited than Mercari but prices are legit and shipping is included. Good for newer releases, official merchandise. No proxy fee, but Amazon's prices are higher than Mercari.
 
 **eBay Japan:** Some Japanese sellers ship internationally. Selection varies. Prices are sometimes better than proxies, sometimes worse. Check shipping cost before bidding.
 
@@ -290,56 +299,32 @@ If you’re buying multiple items, consolidation saves money. Three shipments of
 
 **Reddit communities:** r/AnimeFigures has people buying/selling figures. Some international sellers operate there. Community-vetted, trustworthy, but smaller selection.
 
-## Related Guides
-
-- [Anime Merchandise Shopping Guide: Where to Buy & What’s Worth It](https://japan-pop-now.com/anime-merch-shopping-guide/)
-- [Gachapon Guide 2026: Capsule Toy Hunting in Tokyo](https://japan-pop-now.com/gachapon-guide-japan/)
-- [Akihabara Complete Guide 2026: Anime Shops, Gaming & Arcades](https://japan-pop-now.com/akihabara-complete-guide-2026/)
-
 ## Common Questions
 
-![Common Questions — Japan Proxy Shopping 2026](/images/articles/japan-proxy-shopping-2026/7.jpg)
+**Is using a proxy service legal?** Yes, completely legal. Japanese e-commerce sites allow it. Customs won't hassle you. It's a normal service.
 
-**Is using a proxy service legal?** Yes, completely legal. Japanese e-commerce sites allow it. Customs won’t hassle you. It’s a normal service.
+**Will customs tax me on imports?** Depends on your country. US has a ~$800 threshold before you pay import duty. Under that, you're fine. Over that, you pay 10–15% duty. Most proxy purchases are under the threshold. Check your country's import rules.
 
-**Will customs tax me on imports?** Depends on your country. US has a ~$800 threshold before you pay import duty. Under that, you’re fine. Over that, you pay 10–15% duty. Most proxy purchases are under the threshold. Check your country’s import rules.
-
-**What if the item is damaged when it arrives?** Pay for insurance (usually ¥300–500). If it’s damaged, contact the proxy service with photos. They’ll refund or replace it. Without insurance, they’re not liable.
+**What if the item is damaged when it arrives?** Pay for insurance (usually ¥300–500). If it's damaged, contact the proxy service with photos. They'll refund or replace it. Without insurance, they're not liable.
 
 **How long does the whole process take?** 7–10 days for the proxy to buy + photograph + receive your shipping choice. Then 7–14 days for shipping to arrive (EMS). Total: 2–3 weeks from purchase to your door.
 
-**Can I return items if I don’t like them?** Not through the proxy. You bought it as-is. This is why photos are critical and why you should read the Mercari listing carefully before committing.
+**Can I return items if I don't like them?** Not through the proxy. You bought it as-is. This is why photos are critical and why you should read the Mercari listing carefully before committing.
 
 ## Bottom Line
-If you want to buy anime figures from Japan without speaking Japanese or living in Japan, a proxy service is your move. Buyee for auctions. ZenMarket for Mercari. OneMall if you’re buying multiple items. FROM JAPAN if you’re hunting rare vintage figures.
+If you want to buy anime figures from Japan without speaking Japanese or living in Japan, a proxy service is your move. Buyee for auctions. ZenMarket for Mercari. OneMall if you're buying multiple items. FROM JAPAN if you're hunting rare vintage figures.
 
-Total cost for a typical ¥1,500 figure: ~¥4,500–5,000 (~$32–35) by the time it arrives at your door. That’s reasonable for anime merch you can’t get anywhere else.
+Total cost for a typical ¥1,500 figure: ~¥4,500–5,000 (~$32–35) by the time it arrives at your door. That's reasonable for anime merch you can't get anywhere else.
 
-Avoid bootlegs by checking MyFigureCollection. Consolidate shipments to save on shipping. Pay for insurance on fragile items. And honestly, once you’ve done it once, you’ll use it forever. Proxy shopping is how most international anime collectors build their collections.
+Avoid bootlegs by checking MyFigureCollection. Consolidate shipments to save on shipping. Pay for insurance on fragile items. And honestly, once you've done it once, you'll use it forever. Proxy shopping is how most international anime collectors build their collections.
 
-### Shopping & Merch Guides
+## More Shopping & Merch Guides
 
-- [Anime Merch Shopping Guide Japan](/anime-merch-shopping-guide/)
-- [Nakano Broadway Guide](/nakano-broadway-guide/)
-- [Akihabara Complete Guide 2026](/akihabara-complete-guide-2026/)
-- [Gachapon Guide Japan](/gachapon-guide-japan/)
-- [Japan Luggage Forwarding 2026](/japan-luggage-forwarding-2026/)
-- [Japan Travel Insurance 2026](/japan-travel-insurance-2026/)
-
-**Share on Instagram:** "Buying anime figures from Japan without speaking Japanese? That’s what proxy shopping is for. Walkthrough guide: how to use ZenMarket, costs, and how to spot fakes. #AnimeCollecting #MercariJapan #ProxyShopping" — Tag **[@japan.pop.now](https://instagram.com/japan.pop.now)**
-
-☕
-
-Planning a trip to Tokyo?
-
-[Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
-
-## Never Miss a Cafe Opening or Anime Event
-Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.
-
-[Follow on Instagram](https://www.instagram.com/pop_now_jp/)
-
-Follow for weekly collab cafe updates & Japan pop culture content.
+- [Anime Merch Shopping Guide Japan](/articles/anime-merch-shopping-guide-japan/)
+- [Ship Anime Merch from Japan](/articles/ship-anime-figures-merch-home-japan/)
+- [Nakano Broadway Guide](/articles/nakano-broadway-guide/)
+- [Akihabara Complete Guide 2026](/articles/akihabara-complete-guide-2026/)
+- [Gachapon Guide Japan](/articles/gachapon-guide-japan/)
 
 <div className="jpn-tip">
 
@@ -347,24 +332,8 @@ Follow for weekly collab cafe updates & Japan pop culture content.
 
 </div>
 
-
-<div className="jpn-faq">
-
-### FAQ?
-### Is this guide updated for 2026?
-Yes. We update this content weekly based on real visits and current information.
-
-### What's the best time of year to visit?
-Spring (March–May) and autumn (September–November) offer the best weather and lowest crowds compared to summer and winter peak seasons.
-
-</div>
-
-
-### Explore by Area
-[🗼 Tokyo](/tag/tokyo/)[🏪 Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[👥 Shibuya](/shibuya-anime-spots-guide/)[🎮 Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[🌆 Osaka](/osaka-anime-guide-2025/)🏯 Kyoto (Coming Soon)
-
 <div className="jpn-cta">
 
-Ready to plan your trip? Browse anime events in Japan on our [Event Calendar](/calendar).
+<p><strong>Follow <a href="https://www.instagram.com/japan_pop_now/" rel="nofollow" target="_blank">@japan_pop_now on Instagram</a></strong> for daily Tokyo pop culture updates.</p>
 
 </div>
