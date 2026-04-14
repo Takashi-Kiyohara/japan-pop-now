@@ -80,6 +80,14 @@ If you are combining this with our [Shibuya-Harajuku pop culture walking route](
 
 **The catch for international visitors:** Lawson Ticket requires a Japanese phone number to register. If you do not have one, ask your hotel concierge to book on your behalf, or use a temporary Japanese SIM. Walk-ins are a solid backup plan — see below.
 
+<div className="jpn-cta">
+
+**Cannot book Lawson Ticket from overseas?** Reservation-included tours and anime cafe experiences through Klook are the smoothest workaround — they handle the Japanese-side booking for you. [Check One Piece Cafe availability and Tokyo anime experiences on Klook](https://affiliate.klook.com/redirect?aid=117469&aff_adid=1251547&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US/search/?query=one+piece+tokyo&aid=1117469).
+
+</div>
+
+**My honest confession about Option A vs B.** My first visit I tried walking in at 12:30 on a Saturday — 80-minute wait, no skull bowl bookings left for the day. Second visit I grabbed a Lawson Ticket for a Tuesday 14:00 slot — walked straight past the queue, got every menu item I wanted. The ¥550 is not really a cost; it is an insurance premium against a wasted afternoon in Shibuya. If your trip is longer than 5 days, a weekday walk-in still works. If you only have one Shibuya afternoon, book.
+
 **Your 3 booking options compared:**
 
 | Option | Cost | Guaranteed seat? | Novelty GENE Band | Best for |
@@ -94,7 +102,7 @@ For a full breakdown of Lawson Ticket for overseas visitors, see our [Lawson Tic
 
 ## What should I order? (Phase 2 menu)
 
-Phase 2 runs April 1 through May 18, 2026 with a completely refreshed menu. The ordering rule is strict: maximum 3 food/dessert items and 5 drinks per person. Here is what stood out.
+Phase 2 runs April 1 through May 18, 2026 with a completely refreshed menu. The ordering rule is strict: maximum 3 food/dessert items and 5 drinks per person. **Based on my April 2026 visit, the skull-bowl Straw Hat Salt Ramen runs low late in the evening on busy days** — if that bowl is non-negotiable, aim for an afternoon slot rather than an after-dinner one. Here is what stood out.
 
 <div className="jpn-tip">
 
@@ -176,14 +184,16 @@ Every visitor receives two freebies regardless of what you order:
 
 That is 4-5 collectibles for roughly ¥3,630 including the reservation — better merch-to-yen ratio than most pop-up cafes in Tokyo right now.
 
+**Resale note (not the main reason to visit, but worth knowing):** Previous-phase GENE Band charms are actively listed on Mercari at ¥800-¥1,200, and prior-phase placemats regularly trade above their original effective cost. Once Phase 2 ends on May 18, 2026, the current designs leave circulation. Translation: the ¥550 reservation ticket has real collectible upside, not just sunk cost. (Prices vary — check Mercari before banking on resale value.)
+
 </div>
 
 ## The perfect Shibuya PARCO 6F plan (1-2 hours)
 
 The 6th floor is the highest-density anime merchandise floor in Tokyo. If you are visiting the cafe, do not leave without walking the rest of the floor. Here is a tested route:
 
-1. **0:00-0:10** - Arrive at PARCO 6F. Check cafe wait time at the entrance podium.
-2. **0:10-0:30** - While waiting, hit JUMP SHOP (next door) for One Piece exclusive goods and the collaboration items.
+1. **0:00-0:10** - Arrive at PARCO 6F. Check wait time at the cafe entrance podium — if busy, staff hand out a QR code or paper slip so you can leave and come back when your turn is near. Do not just stand in line.
+2. **0:10-0:30** - Hit JUMP SHOP next door for One Piece collaboration goods while your wait ticks down. JUMP SHOP typically carries phase-linked acrylic stands and pin badges that the cafe itself does not sell.
 3. **0:30-0:45** - Quick lap through Pokemon Center Shibuya (the Mega Mewtwo statue is worth the detour).
 4. **0:45-1:45** - Cafe visit. Order food + drink, collect your placemat + coaster + card.
 5. **1:45-2:00** - End at Nintendo TOKYO to test the demo units and grab exclusive Zelda or Mario merch.
@@ -206,6 +216,22 @@ The location inside Shibuya PARCO's anime-dedicated 6th floor amplifies the atmo
 **2. Not checking the phase dates.** Phase 1 and Phase 2 have completely different menus. If you saw a specific dish online, confirm it matches the current phase before visiting. Phase 2 ends May 18.
 
 **3. Ordering only food.** The drinks and their coasters are half the experience. Budget for at least 1 food + 1 drink (about ¥3,080 total) to get the full placemat-plus-coaster-plus-food spread.
+
+## Before you go: the pre-visit checklist
+
+<div className="jpn-tip">
+
+**Save this before you leave the hotel (April 2026, Phase 2):**
+
+- [ ] Phone charged above 60% — Lawson Ticket is digital-only, and staff scan the QR at the door
+- [ ] Screenshot of your reservation saved (backup if the app fails)
+- [ ] Cash or IC card loaded with at least ¥3,500 per person
+- [ ] Passport or ID — rare but sometimes requested to match the reservation name
+- [ ] Empty tote bag — the placemat is too large for a standard pocket
+- [ ] Stomach at 40-50% — the skull bowl ramen is generous and you want room for dessert
+- [ ] Search [#ONEPIECE\_CAFE\_GENE on X](https://twitter.com/search?q=%23ONEPIECE_CAFE_GENE&f=live) for same-day wait reports and sold-out updates
+
+</div>
 
 ## Frequently Asked Questions
 
