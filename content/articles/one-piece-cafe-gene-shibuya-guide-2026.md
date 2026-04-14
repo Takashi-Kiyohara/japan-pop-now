@@ -15,7 +15,7 @@ excerpt: "One Piece Cafe GENE at Shibuya PARCO 6F runs through May 18, 2026. Aft
 relatedSlugs: ["tokyo-anime-collab-cafes-spring-2026", "how-to-book-anime-collab-cafe-japan", "shibuya-harajuku-pop-culture-guide", "lawson-ticket-anime-cafe-booking"]
 ---
 
-*Last updated: April 2026.*
+*Last updated: April 14, 2026 — verified during live visit and against official PARCO Cafe listing.*
 
 ![Moe from Japan Pop Now with full table spread at One Piece Cafe GENE Shibuya — skull bowl ramen, crepe bowl, two character drinks, Luffy standee, and Straw Hat Crew placemat](/images/articles/one-piece-cafe-gene-shibuya-guide-2026/moe-table-spread.jpg)
 
@@ -80,7 +80,7 @@ If you are combining this with our [Shibuya-Harajuku pop culture walking route](
 
 **The catch for international visitors:** Lawson Ticket requires a Japanese phone number to register. If you do not have one, ask your hotel concierge to book on your behalf, or use a temporary Japanese SIM. Walk-ins are a solid backup plan — see below.
 
-<div className="jpn-cta">
+<div className="jpn-tip">
 
 **Cannot book Lawson Ticket from overseas?** Reservation-included tours and anime cafe experiences through Klook are the smoothest workaround — they handle the Japanese-side booking for you. [Check One Piece Cafe availability and Tokyo anime experiences on Klook](https://affiliate.klook.com/redirect?aid=117469&aff_adid=1251547&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US/search/?query=one+piece+tokyo&aid=1117469).
 
@@ -133,6 +133,12 @@ The lightest and cheapest food option. Good if you want to save room for dessert
 ![Dessert menu board at One Piece Cafe GENE showing Jinbe Cake, Parfait, Crepe Bowl, and Law and Corazon Memory Sweets Plate with prices](/images/articles/one-piece-cafe-gene-shibuya-guide-2026/dessert-menu.jpg)
 *The dessert menu. The Crepe Bowl (¥1,760) comes in a skull-shaped dish you'll want to photograph from above. Photo: Japan Pop Now*
 
+**Jimbei's Settlement Cup Cake (ジンベエ ケジメの盃 落とし前ケーキ) - ¥1,870**
+A ceremonial sake-cup presentation with cake — the Jimbei theme hits hard for Whole Cake Island fans.
+
+**Franky's Wave Fruit Parfait - ¥1,760**
+A layered fruit parfait that looks better in person than on the menu board.
+
 **Law & Corazon Memory Sweets Plate - ¥2,090**
 The most expensive item on the menu. A multi-piece dessert board with a red spherical cake (Corazon's heart), a skull-topped cupcake, and a chocolate truffle. This is the one to order if you are a Law or Corazon fan — the presentation is built for photos.
 
@@ -147,18 +153,18 @@ Served in the same skull bowl as the ramen but filled with crepe, cream, and fru
 Drinks range from ¥990 to ¥1,100. Each one is themed after a Straw Hat crew member with matching colors and a character coaster.
 
 **Thousand Sunny Drink (サウザンド・サニー号ドリンク) - ¥1,100**
-The premium drink. Blue-to-yellow gradient (ocean and sunshine) with a skull Jolly Roger silicone cup topper you keep. The topper alone makes this worth the ¥110 premium over the regular character drinks.
+The premium drink. An orange banana lassi with a skull Jolly Roger silicone cup topper you keep. The topper alone makes this worth the ¥110 premium over the regular character drinks.
 
 **Regular character drinks - ¥990 each:**
-Luffy (red), Nami (yellow), Usopp (orange), Chopper (pink). All are fruity soda-based with jelly bits. The Nami (mango-citrus) and Chopper (strawberry) taste the best. Skip Usopp unless you specifically like lychee.
+Luffy (Pink Grapefruit Soda), Sanji (Blue Butterfly Pea Tea), Nami (Orange Juice), Usopp (Berry Pineapple Soda), Chopper (Pink Lemonade). The Nami and Chopper are the most approachable flavors for first-timers. The Sanji is visually striking — the butterfly pea tea shifts color when you stir it.
 
 Order 2 drinks minimum for the table spread photo. The placemat, coasters, and 2 drinks together make the best flat-lay shot for Instagram.
 
 ## What about the birthday card campaign?
 
-During April 2026, every food, dessert, or drink order earns you one random birthday card featuring Usopp (April 1), Jinbe, or Brook. The cards are exclusive to this campaign period and not available for separate purchase.
+Based on my April 2026 visit, ordering food or drinks earned random birthday cards featuring One Piece characters with April birthdays. The cards were exclusive to the campaign period and not available for separate purchase. Campaign details may change — check the [official PARCO Cafe page](https://cafe.parco.jp/event/onepiece_cafe_gene_shibuya?area=029438) for current promotions before your visit.
 
-I ordered 2 food items and 2 drinks — 4 orders total — and received 3 different character cards. They are sturdy, postcard-sized, and feature original illustrations not used anywhere else. If you are visiting specifically for the cards, ordering 3 items gives you the best card-to-yen ratio.
+I ordered 2 food items and 2 drinks — 4 orders total — and received 3 different character cards. They are sturdy, postcard-sized, and feature original illustrations not used anywhere else. If the campaign is still running when you visit, ordering 3 items gives you the best card-to-yen ratio.
 
 ![Moe from Japan Pop Now holding a Luffy cardboard standee at One Piece Cafe GENE with skull bowl ramen, character drinks, and birthday cards spread across the table](/images/articles/one-piece-cafe-gene-shibuya-guide-2026/moe-luffy-standee.jpg)
 *The full spread: ramen, skull bowl, Thousand Sunny drink, birthday cards, and a Luffy standee for the photo op. Photo: Japan Pop Now*
@@ -172,6 +178,8 @@ Every visitor receives two freebies regardless of what you order:
 **Original coaster** - one random coaster per drink order, featuring iconic anime scenes.
 
 **GENE Band with charm (reservation only)** - If you booked via Lawson Ticket, you receive a random wristband with a character charm attached. There are multiple designs in rotation, and dedicated collectors visit multiple times to complete the set.
+
+**Paid merchandise at the cafe counter (optional):** Trading foil can badges (¥660, 10 designs), trading mini-character acrylic stands (¥770, 10 designs), trading acrylic name badges (¥605, 10 designs), and swing acrylic stands (¥1,980, 10 designs). These are separate from the free novelties and available while stock lasts.
 
 <div className="jpn-info-box">
 

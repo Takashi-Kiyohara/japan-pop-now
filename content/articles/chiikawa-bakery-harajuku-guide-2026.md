@@ -4,7 +4,7 @@ description: "Walk into Chiikawa Bakery Harajuku without a reservation — after
 date: "2026-04-12"
 lastUpdated: "2026-04-14"
 category: "collab-cafes"
-tags: []
+tags: ["chiikawa", "harajuku", "2026-spring", "bakery"]
 featuredImage: "/images/articles/chiikawa-bakery-harajuku-guide-2026/moe-featured.jpg"
 featuredImageAlt: "Moe from Japan Pop Now smiling inside Chiikawa Bakery Harajuku with the bakery logo behind her"
 imageCredit: "Photo: Japan Pop Now"
@@ -22,7 +22,7 @@ wpPostId: 840
 
 <div className="jpn-info-box">
 
-**TL;DR — The quick version:** Chiikawa Bakery, Tokyu Plaza Omotesando 3F, open 11:00–20:00. Afternoons after 15:00 (weekdays) and 18:00 (weekends) accept walk-ins — no reservation needed. Character breads are ¥580 each. A casual visit runs about ¥1,200 (one bread + one coffee). For morning slots, grab a ¥1,000 Lawson Ticket (it doubles as a shopping voucher). Check [@chiikawabakery on X](https://x.com/chiikawabakery) for same-day capacity.
+**TL;DR — The quick version:** Chiikawa Bakery, Tokyu Plaza Omotesando "Omokado" 3F (4-30-3 Jingumae), open 11:00–20:00. Afternoons after 15:00 (weekdays) and 18:00 (weekends) accept walk-ins — no reservation needed. Character breads are ¥580 each. A casual visit runs about ¥1,200 (one bread + one coffee). For morning slots, grab a ¥1,000 Lawson Ticket (it doubles as a shopping voucher). Check [@chiikawabakery on X](https://x.com/chiikawabakery) for same-day capacity.
 
 </div>
 
@@ -33,9 +33,9 @@ I visited on a weekday morning in April 2026 and the ¥1,000 "Advance reservatio
 | Item | Details |
 | --- | --- |
 | Location | Tokyu Plaza Omotesando Omokado, 3F |
-| Address | 1-2-3 Jingumae, Shibuya-ku, Tokyo |
+| Address | 4-30-3 Jingumae, Shibuya-ku, Tokyo |
 | Hours | 11:00–20:00 (last entry 19:30) |
-| Nearest station | Meiji-Jingumae (Chiyoda/Fukutoshin Line), Exit 5 — 1 min walk |
+| Nearest station | Meiji-Jingumae (Chiyoda/Fukutoshin Line), Exit 5 — 5 min walk |
 | Also accessible from | Harajuku Station (JR Yamanote) 4 min; Omotesando Station (Metro) 7 min |
 | Reservation | Lawson Ticket — ¥1,000 ticket = ¥1,000 shopping voucher inside |
 | Walk-in hours | Weekdays after 15:00 / weekends after 18:00 (capacity permitting) |
@@ -51,10 +51,10 @@ I visited on a weekday morning in April 2026 and the ¥1,000 "Advance reservatio
 
 ## How to get there
 
-Getting to Chiikawa Bakery from the nearest station takes about one minute. Here is the step-by-step from the most convenient exit.
+Getting to Chiikawa Bakery from Meiji-Jingumae Station takes about five minutes on foot. Here is the step-by-step from the most convenient exit.
 
 1. **Take Tokyo Metro to Meiji-Jingumae Station** (Chiyoda Line or Fukutoshin Line). If coming from JR, use Harajuku Station instead (4-minute walk).
-2. **Exit from Exit 5.** You will surface right at the Jingumae-Omotesando crossing.
+2. **Exit from Exit 5.** Walk toward the Jingumae-Omotesando crossing (about 5 minutes).
 3. **Look for Tokyu Plaza Omotesando** — the building with the mirrored escalator entrance on the corner.
 4. **Take the elevator or escalator to the 3rd floor.** The bakery entrance is immediately visible with its brown brick logo wall.
 
@@ -149,7 +149,7 @@ Chiikawa Bakery is on the Jingumae crossing, which puts you within walking dista
 
 **Kiddy Land Harajuku (3 min walk)** — Five floors of character goods including a dedicated Chiikawa corner on the 4th floor. Combine the bakery with Kiddy Land and you have covered the main Chiikawa spots in one trip.
 
-**Animate Harajuku (8 min walk)** — Japan's largest anime goods chain, with rotating [collab cafe events](/articles/tokyo-anime-collab-cafes-spring-2026/). Check their schedule before your visit — you may catch an active event.
+**Animate Harajuku (8 min walk)** — Japan's largest anime goods chain, with rotating [collab cafe events](/articles/tokyo-anime-collab-cafes-spring-2026). Check their schedule before your visit — you may catch an active event.
 
 **Design Festa Gallery (10 min walk)** — Artist-run gallery in Ura-Harajuku, always rotating. Not anime-specific but a favourite among creative fans.
 
@@ -187,7 +187,7 @@ Yes. **Chiikawa Bakery accepts cash, credit card, and electronic money** includi
 
 ### How do I get to Chiikawa Bakery from Harajuku Station?
 
-**About 4 minutes on foot** from JR Harajuku Station, or 1 minute from Tokyo Metro Meiji-Jingumae Station Exit 5. The bakery is inside Tokyu Plaza Omotesando on the 3rd floor, directly on the Jingumae-Omotesando crossing. Take the elevator or escalator up and look for the brown brick logo wall.
+**About 4 minutes on foot** from JR Harajuku Station, or 5 minutes from Tokyo Metro Meiji-Jingumae Station Exit 5. The bakery is inside Tokyu Plaza Omotesando on the 3rd floor, directly on the Jingumae-Omotesando crossing. Take the elevator or escalator up and look for the brown brick logo wall.
 
 ### Is there a time limit inside?
 
@@ -199,7 +199,7 @@ Two locations. The bakery at Tokyu Plaza 3F sells packaged rusks, financiers, an
 
 ### What if bread is sold out?
 
-Drinks, coasters, and the atmosphere are still worth the visit. Every drink order gets a random character coaster (12 designs), so a late-afternoon coffee run is not a wasted trip. The dedicated goods shop at [Laforet Harajuku B1F](#) stocks items the bakery doesn't carry — it is a five-minute walk and completes the experience.
+Drinks, coasters, and the atmosphere are still worth the visit. Every drink order gets a random character coaster (12 designs), so a late-afternoon coffee run is not a wasted trip. The dedicated goods shop at Laforet Harajuku B1F stocks items the bakery doesn't carry — it is a five-minute walk and completes the experience.
 
 </div>
 
@@ -215,10 +215,10 @@ Drinks, coasters, and the atmosphere are still worth the visit. Every drink orde
 
 ## More collab cafe guides
 
-- [Tokyo Anime Collab Cafes Spring 2026](/articles/tokyo-anime-collab-cafes-spring-2026/)
-- [How to Book an Anime Collab Cafe in Japan](/articles/how-to-book-anime-collab-cafe-japan/)
-- [Lawson Ticket Anime Cafe Booking Guide](/articles/lawson-ticket-anime-cafe-booking/)
-- [Animate Cafe Guide Japan](/articles/animate-cafe-guide-japan/)
-- [Shibuya & Harajuku Pop Culture Guide](/articles/shibuya-harajuku-pop-culture-guide/)
+- [Tokyo Anime Collab Cafes Spring 2026](/articles/tokyo-anime-collab-cafes-spring-2026)
+- [How to Book an Anime Collab Cafe in Japan](/articles/how-to-book-anime-collab-cafe-japan)
+- [Lawson Ticket Anime Cafe Booking Guide](/articles/lawson-ticket-anime-cafe-booking)
+- [Animate Cafe Guide Japan](/articles/animate-cafe-guide-japan)
+- [Shibuya & Harajuku Pop Culture Guide](/articles/shibuya-harajuku-pop-culture-guide)
 
 <div className="jpn-cta"><p><strong>Follow <a href="https://www.instagram.com/japan_pop_now/" rel="nofollow" target="_blank">@japan_pop_now on Instagram</a></strong> for real-time Tokyo pop culture updates — new collab cafes every week.</p></div>
