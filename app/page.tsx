@@ -4,7 +4,9 @@ import FeaturedCarousel from '@/components/FeaturedCarousel';
 import CategoryStrip from '@/components/CategoryStrip';
 import AdUnit from '@/components/AdUnit';
 import AffiliateCTA from '@/components/AffiliateCTA';
+import SpotlightSection from '@/components/SpotlightSection';
 import Link from 'next/link';
+import spotlightData from '@/content/spotlight.json';
 
 export const revalidate = 3600;
 
@@ -157,6 +159,9 @@ export default function Home() {
           <CategoryStrip articleCounts={articleCounts} />
         </div>
       </section>
+
+      {/* ── Spotlight (monthly featured spot — date-gated) ── */}
+      <SpotlightSection items={spotlightData} />
 
       {/* ── Editor's Picks (asymmetric grid) ───────────────── */}
       {featuredArticles.length > 0 && (

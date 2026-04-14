@@ -1,0 +1,15 @@
+[
+  {
+    "id": "luvlab-harajuku-2026-04",
+    "title": "LuvLab Harajuku",
+    "tagline": "Make Your Own Italian Charms, Bracelets & Keychains",
+    "description": "A walk-in DIY accessory workshop 2 min from Harajuku Station. Custom keyboard keychains from 1,300 yen, snake bracelets from 2,480 yen, Italian charm watches from 7,900 yen. No reservation needed.",
+    "articleSlug": "luvlab-harajuku-diy-accessory-experience",
+    "image": "/images/articles/luvlab-harajuku/hero.webp",
+    "imageAlt": "LuvLab Harajuku store interior with neon sign and crafting displays",
+    "badge": "New Open",
+    "startDate": "2026-04-15",
+    "endDate": "2026-05-15",
+    "active": true
+  }
+]
