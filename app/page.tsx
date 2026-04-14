@@ -112,46 +112,78 @@ export default function Home() {
       {/* ── Brand stripe ───────────────────────────────────── */}
       <div style={{ height: '3px', background: 'linear-gradient(90deg, #f97316, #e63946, #14213d)' }} />
 
-      {/* ── Hero CTA Section ───────────────────────────────────── */}
-      <section style={{ background: '#fff', borderBottom: '1px solid #e7e5e4', paddingTop: '16px', paddingBottom: '12px' }}>
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col sm:flex-row items-center justify-between gap-4">
-          <div>
-            <p style={{ margin: 0, fontSize: '0.9rem', color: '#666', marginBottom: '6px' }}>
-              This week&apos;s live anime events
-            </p>
-            <h3 style={{
-              margin: 0,
-              fontSize: '1.1rem',
-              fontWeight: 600,
-              color: '#14213d',
-              fontFamily: 'var(--font-display), Georgia, serif',
-            }}>
-              See 15+ collab cafes open now
-            </h3>
+      {/* ── Browse Events Banner ───────────────────────────────────── */}
+      <Link href="/calendar" style={{ textDecoration: 'none', display: 'block' }}>
+        <section
+          style={{
+            background: 'linear-gradient(135deg, #14213d 0%, #1e3a5f 100%)',
+            borderBottom: '2px solid #f97316',
+            padding: '20px 0',
+            cursor: 'pointer',
+            transition: 'opacity 0.2s',
+          }}
+          className="hover:opacity-95"
+        >
+          <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 flex flex-col sm:flex-row items-center justify-between gap-4">
+            <div className="flex items-center gap-4">
+              <div style={{
+                width: '48px',
+                height: '48px',
+                borderRadius: '12px',
+                background: 'rgba(249, 115, 22, 0.15)',
+                border: '1px solid rgba(249, 115, 22, 0.3)',
+                display: 'flex',
+                alignItems: 'center',
+                justifyContent: 'center',
+                fontSize: '1.4rem',
+                flexShrink: 0,
+              }}>
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="#f97316" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round">
+                  <rect x="3" y="4" width="18" height="18" rx="2" ry="2" />
+                  <line x1="16" y1="2" x2="16" y2="6" />
+                  <line x1="8" y1="2" x2="8" y2="6" />
+                  <line x1="3" y1="10" x2="21" y2="10" />
+                </svg>
+              </div>
+              <div>
+                <p style={{ margin: 0, fontSize: '0.8rem', color: 'rgba(255,255,255,0.6)', fontWeight: 600, letterSpacing: '0.08em', textTransform: 'uppercase', marginBottom: '2px' }}>
+                  This Week in Tokyo
+                </p>
+                <p style={{
+                  margin: 0,
+                  fontSize: '1.15rem',
+                  fontWeight: 700,
+                  color: '#fff',
+                  fontFamily: 'var(--font-display), Georgia, serif',
+                }}>
+                  15+ Anime Collab Cafes Open Now
+                </p>
+              </div>
+            </div>
+            <div
+              style={{
+                padding: '12px 24px',
+                background: '#f97316',
+                color: '#fff',
+                borderRadius: '8px',
+                fontWeight: 700,
+                fontSize: '0.95rem',
+                whiteSpace: 'nowrap',
+                flexShrink: 0,
+                display: 'flex',
+                alignItems: 'center',
+                gap: '8px',
+                boxShadow: '0 2px 8px rgba(249, 115, 22, 0.3)',
+              }}
+            >
+              Browse Events
+              <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5">
+                <path d="M5 12h14M12 5l7 7-7 7" />
+              </svg>
+            </div>
           </div>
-          <Link
-            href="/calendar"
-            style={{
-              padding: '10px 20px',
-              background: '#f97316',
-              color: '#fff',
-              borderRadius: '6px',
-              fontWeight: 600,
-              fontSize: '0.95rem',
-              textDecoration: 'none',
-              whiteSpace: 'nowrap',
-              flexShrink: 0,
-              display: 'flex',
-              alignItems: 'center',
-              gap: '6px',
-              transition: 'opacity 0.2s',
-            }}
-            className="homepage-browse-link"
-          >
-            Browse Events →
-          </Link>
-        </div>
-      </section>
+        </section>
+      </Link>
 
       {/* ── Category Strip ─────────────────────────────────── */}
       <section style={{ background: '#fafaf9', borderBottom: '1px solid #e7e5e4' }}>
@@ -159,9 +191,6 @@ export default function Home() {
           <CategoryStrip articleCounts={articleCounts} />
         </div>
       </section>
-
-      {/* ── Spotlight (monthly featured spot — date-gated) ── */}
-      <SpotlightSection items={spotlightData} />
 
       {/* ── Editor's Picks (asymmetric grid) ───────────────── */}
       {featuredArticles.length > 0 && (
@@ -181,6 +210,9 @@ export default function Home() {
           </div>
         </section>
       )}
+
+      {/* ── Spotlight (monthly featured — between Editor's Picks and Latest) ── */}
+      <SpotlightSection items={spotlightData} />
 
       {/* ── Ad Unit (Leaderboard — above fold) ────────────────────────────────────────── */}
       <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-4">

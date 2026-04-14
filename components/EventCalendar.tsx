@@ -79,9 +79,13 @@ function TypeBadge({ type }: { type: CollabEvent['type'] }) {
   );
 }
 
-// ─── Card Content (extracted to avoid creating components during render) ───────
-function CardContentInner({ event, status }: { event: CollabEvent; status: ReturnType<typeof getEventStatus> | 'permanent' }) {
-  return (
+// ─── Event Card ────────────────────────────────────────────────────────────────
+function EventCard({ event }: { event: CollabEvent }) {
+  const today = new Date();
+  const status = isPermanent(event) ? 'permanent' : getEventStatus(event, today);
+  const link = getEventLink(event);
+
+  const CardContent = () => (
     <div
       style={{
         display: 'flex',
@@ -96,15 +100,35 @@ function CardContentInner({ event, status }: { event: CollabEvent; status: Retur
       className="event-card-hover"
     >
       {/* Thumbnail */}
-      <div style={{ flexShrink: 0, width: 96, height: 72, borderRadius: '8px', overflow: 'hidden', background: '#f5f5f4' }}>
-        <Image
-          src={event.thumbnail}
-          alt={event.title}
-          width={96}
-          height={72}
-          style={{ objectFit: 'cover', width: '100%', height: '100%' }}
-          unoptimized={event.thumbnail.startsWith('https://images.unsplash.com')}
-        />
+      <div style={{ flexShrink: 0, width: 96, height: 72, borderRadius: '8px', overflow: 'hidden', background: '#f5f5f4', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+        {event.thumbnail?.startsWith('/') ? (
+          <Image
+            src={event.thumbnail}
+            alt={event.title}
+            width={96}
+            height={72}
+            style={{ objectFit: 'cover', width: '100%', height: '100%' }}
+          />
+        ) : event.thumbnail ? (
+          /* eslint-disable-next-line @next/next/no-img-element */
+          <img
+            src={event.thumbnail}
+            alt={event.title}
+            width={96}
+            height={72}
+            style={{ objectFit: 'cover', width: '100%', height: '100%' }}
+            loading="lazy"
+          />
+        ) : (
+          <div style={{ width: '100%', height: '100%', background: 'linear-gradient(135deg, #f97316 0%, #e63946 100%)', display: 'flex', alignItems: 'center', justifyContent: 'center' }}>
+            <svg width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="#fff" strokeWidth="1.5" opacity={0.7}>
+              <rect x="3" y="4" width="18" height="18" rx="2" ry="2" />
+              <line x1="16" y1="2" x2="16" y2="6" />
+              <line x1="8" y1="2" x2="8" y2="6" />
+              <line x1="3" y1="10" x2="21" y2="10" />
+            </svg>
+          </div>
+        )}
       </div>
 
       {/* Info */}
@@ -133,24 +157,17 @@ function CardContentInner({ event, status }: { event: CollabEvent; status: Retur
       </div>
     </div>
   );
-}
-
-// ─── Event Card ────────────────────────────────────────────────────────────────
-function EventCard({ event }: { event: CollabEvent }) {
-  const today = new Date();
-  const status = isPermanent(event) ? 'permanent' : getEventStatus(event, today);
-  const link = getEventLink(event);
 
   if (link.isInternal) {
     return (
       <Link href={link.href} style={{ textDecoration: 'none', display: 'block' }}>
-        <CardContentInner event={event} status={status} />
+        <CardContent />
       </Link>
     );
   }
   return (
     <a href={link.href} target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none', display: 'block' }}>
-      <CardContentInner event={event} status={status} />
+      <CardContent />
     </a>
   );
 }
