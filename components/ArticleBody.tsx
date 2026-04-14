@@ -1,4 +1,5 @@
 import { MDXRemote } from 'next-mdx-remote/rsc';
+import remarkGfm from 'remark-gfm';
 import Link from 'next/link';
 import AdUnit from './AdUnit';
 import AffiliateCTA from './AffiliateCTA';
@@ -6,6 +7,9 @@ import InlineNewsletter from './InlineNewsletter';
 import { insertInternalLinks } from '@/lib/internal-links';
 import { getAllArticles } from '@/lib/articles';
 import { mdxComponents } from './mdx-components';
+
+/** MDX compiler options — remark-gfm enables GFM tables, strikethrough, autolinks */
+const mdxOptions = { mdxOptions: { remarkPlugins: [remarkGfm] } };
 
 interface ArticleBodyProps {
   content: string;
@@ -35,7 +39,7 @@ export default function ArticleBody({ content, category, slug, relatedSuggestion
   if (sections.length <= 3) {
     return (
       <div className="prose prose-lg" style={{ maxWidth: 'none' }}>
-        <MDXRemote source={content} components={mdxComponents} />
+        <MDXRemote source={content} components={mdxComponents} options={mdxOptions} />
       </div>
     );
   }
@@ -57,7 +61,7 @@ export default function ArticleBody({ content, category, slug, relatedSuggestion
       {sections.map((section, i) => (
         <div key={i}>
           <div className="prose prose-lg" style={{ maxWidth: 'none' }}>
-            <MDXRemote source={section} components={mdxComponents} />
+            <MDXRemote source={section} components={mdxComponents} options={mdxOptions} />
           </div>
 
           {/* Inline Newsletter — after 2nd H2 (~40% scroll point) */}
