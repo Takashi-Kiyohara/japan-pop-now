@@ -319,6 +319,26 @@ Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and 
 
 Follow for weekly collab cafe updates & Japan pop culture content.
 
+<div className="jpn-faq">
+
+### What's the minimum time needed for an anime trip to Tokyo?
+
+3 days minimum covers major areas. 5-7 days lets you explore without rushing and add side trips to Kamakura or other locations.
+
+### Do I need a JR Pass for Tokyo?
+
+No. An IC card (Suica/PASMO) is sufficient. JR Pass is only worth it if visiting multiple cities.
+
+### Should I book hotels or Airbnb for anime tourism?
+
+Anime-themed hotels are unique experiences. Airbnbs in Asakusa/Ikebukuro offer better value for budget travelers.
+
+### What's the best season for anime tourism in Tokyo?
+
+Spring (March-May) and Fall (September-November) have perfect weather. Summer is hot, winter is cold but less crowded.
+
+</div>
+
 <div className="jpn-cta">
 
 <p><strong>Follow <a href="https://www.instagram.com/japan_pop_now/" rel="nofollow" target="_blank">@japan_pop_now on Instagram</a></strong> for daily Tokyo pop culture updates.</p>

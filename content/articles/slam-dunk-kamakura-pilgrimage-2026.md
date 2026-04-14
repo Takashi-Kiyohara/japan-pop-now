@@ -210,6 +210,26 @@ Kamakura makes a perfect anime day trip from Tokyo. See our [/articles/anime-day
 
 **Follow [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)** for daily Tokyo pop culture updates.
 
+<div className="jpn-faq">
+
+### Is all of Slam Dunk set in Kamakura?
+
+No, but the most iconic locations are. Shonan High School is in Kamakura. Other locations span coastal Kanagawa.
+
+### How long is the Slam Dunk pilgrimage in Kamakura?
+
+2-3 hours for main locations. 4-5 hours if visiting every referenced location across greater Kamakura area.
+
+### Can I do a Slam Dunk pilgrimage as a day trip from Tokyo?
+
+Yes. 50-minute train ride from Tokyo. Leave early, return same evening. Or stay overnight in Kamakura for a slower pace.
+
+### Are there Slam Dunk cafes or shops in Kamakura?
+
+Limited dedicated shops. Anime collaborations rotate seasonally. Check official sites a few weeks before visiting.
+
+</div>
+
 <div className="jpn-cta">
 
 <p><strong>Follow <a href="https://www.instagram.com/japan_pop_now/" rel="nofollow" target="_blank">@japan_pop_now on Instagram</a></strong> for daily Tokyo pop culture updates.</p>

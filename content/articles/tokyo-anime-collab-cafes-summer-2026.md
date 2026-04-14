@@ -1,5 +1,5 @@
 ---
-title: "Tokyo Anime Collab Cafes Summer 2026: Haikyuu, Maid-sama & Booking Guide"
+title: "Tokyo Anime Collab Cafes Summer 2026 & Routes"
 description: "Book Tokyo summer anime collab cafes 2026: Haikyuu, Maid-sama June-Aug rotations, multi-cafe routes, reservation systems & costs."
 date: "2026-04-05"
 lastUpdated: "2026-04-14"

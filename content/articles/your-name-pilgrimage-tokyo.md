@@ -155,6 +155,26 @@ A local guide takes you to every filming location from Your Name, explains the s
 
 [Find Your Name Tours on GetYourGuide](https://www.getyourguide.com/tokyo-l193/?q=your+name+anime&partner_id=R7OISH9&utm_medium=online_publisher)
 
+<div className="jpn-faq">
+
+### Is the Your Name staircase accessible to the public?
+
+Yes. Suga Shrine is open to the public year-round. Stairs are always accessible. No admission fee.
+
+### What's the best time of day to visit Your Name locations?
+
+Late afternoon (3-5 PM) for golden hour light that matches the film. Early morning (6:30-7:30 AM) for fewer crowds.
+
+### How long does the Your Name pilgrimage take?
+
+2-3 hours for main 5-7 locations. Full pilgrimage with all locations takes 4-5 hours across Tokyo.
+
+### Are there guided Your Name pilgrimage tours?
+
+Yes. Multiple tour companies offer 3-4 hour guided experiences (¥5,000-10,000). Guides explain film production details.
+
+</div>
+
 <div className="jpn-cta">
 
 <p><strong>Follow <a href="https://www.instagram.com/japan_pop_now/" rel="nofollow" target="_blank">@japan_pop_now on Instagram</a></strong> for daily Tokyo pop culture updates.</p>

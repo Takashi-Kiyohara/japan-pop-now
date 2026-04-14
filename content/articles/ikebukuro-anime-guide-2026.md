@@ -189,6 +189,26 @@ Ikebukuro station has dozens of hotels within 5 minutes walk. Staying here puts 
 - [Tokyo Collab Cafes Spring 2026: Currently Open](/articles/tokyo-anime-collab-cafes-spring-2026/)
 - [Anime Merch Shopping Guide: Where to Buy & How to Save](/articles/anime-merch-shopping-guide/)
 
+<div className="jpn-faq">
+
+### Is Ikebukuro safe for solo female travelers?
+
+Yes. Ikebukuro is very safe. It's a popular shopping district for women with good lighting and police presence.
+
+### How much time should I spend in Ikebukuro?
+
+Anime shops take 2-3 hours. Otome Road and Animate need 1-2 hours each. A full day covers everything.
+
+### What's the best way to get to Ikebukuro?
+
+Ikebukuro Station is a major JR hub. Take JR Yamanote Line from most central Tokyo locations. About 20 minutes from Shinjuku.
+
+### Are there anime hotels near Ikebukuro?
+
+Yes. Sunshine City Prince Hotel (IKEPRI25) collaboration is nearby. Also manga-themed Airbnbs in the area.
+
+</div>
+
 <div className="jpn-cta">
 
 <p><strong>Follow <a href="https://www.instagram.com/japan_pop_now/" rel="nofollow" target="_blank">@japan_pop_now on Instagram</a></strong> for daily Tokyo pop culture updates.</p>

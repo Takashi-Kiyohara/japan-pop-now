@@ -175,5 +175,25 @@ Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and 
 
 Follow for weekly collab cafe updates & Japan pop culture content.
 
+<div className="jpn-faq">
+
+### Which FamilyMart locations have anime collabs right now?
+
+Anime collaborations rotate monthly by series. Check the official FamilyMart Japan app or website for current participating stores and timelines.
+
+### Can I order FamilyMart anime collab items online?
+
+Limited availability online. Most items are in-store only. Some goods become available through FamilyMart e-commerce after the collaboration ends.
+
+### Are FamilyMart anime collab items limited edition?
+
+Yes. Each collaboration typically runs 2-4 weeks with limited quantities. Popular series like Demon Slayer or Jujutsu Kaisen sell out fast.
+
+### How much do FamilyMart anime collaboration items typically cost?
+
+Most items are ¥200–2,000. Limited edition figures or special collaborations can reach ¥5,000–10,000.
+
+</div>
+
 ### Explore by Area
 [🗼 Tokyo](/tag/tokyo/)[🏪 Akihabara](/articles/akihabara-shopping-guide-anime-fans/)[👥 Shibuya](/articles/shibuya-anime-spots-guide/)[🎮 Ikebukuro](/articles/ikebukuro-otaku-guide-top-anime-spots/)[🌆 Osaka](/articles/osaka-anime-guide/)🏯 Kyoto (Coming Soon)

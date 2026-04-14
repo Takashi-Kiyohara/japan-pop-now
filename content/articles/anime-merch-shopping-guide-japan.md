@@ -1,6 +1,6 @@
 ---
 title: "Best Anime Merch Shops Japan"
-description: "Anime merch shopping in Japan offers prices 30-50% cheaper than international retail with exclusive items. Complete guide to Akihabara, Ikebukuro, Nakano Broadway stores, budgets, and practical shopping tips for tourists in 2026."
+description: "Anime merch shopping 30-50% cheaper than retail. Guide to Akihabara, Ikebukuro, Nakano Broadway stores, budgets, shipping, and practical tips 2026."
 heroImage: "/images/articles/anime-merch-shopping-guide-japan/featured.jpg"
 heroImageAlt: "Mandarake store in Nakano Broadway packed with anime manga figures and collectibles"
 date: "2026-03-24"

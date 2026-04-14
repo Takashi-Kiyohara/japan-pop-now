@@ -208,6 +208,26 @@ Visiting anime filming locations is more fun with a local guide who knows the ex
 
 [Find Anime Pilgrimage Tours on Klook](https://affiliate.klook.com/redirect?aid=117469&aff_adid=1251547&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US/search/?query=anime+pilgrimage+tokyo&aid=1117469)
 
+<div className="jpn-faq">
+
+### Do I need a guided tour for anime pilgrimages?
+
+No. All locations listed here are public, free, and accessible on your own. Guided tours are optional and great if you want to learn about camera angles and scene composition.
+
+### Is anime pilgrimage safe for solo travelers?
+
+Yes. All the neighborhoods covered (Shibuya, Asakusa, Yotsuya, Akihabara, Ikebukuro, Kamakura) are safe for solo travelers. Avoid very late hours as with any city.
+
+### How much time do I need to visit all 10 spots?
+
+Each spot takes 30 minutes to 2 hours. You could fit 2-3 in a day. A full pilgrimage visiting all 10 would take 3-4 days split across different neighborhoods.
+
+### Can I get a map with all pilgrimage spots?
+
+Yes. Google Maps has fan-created lists of Tokyo anime pilgrimage spots. Search "Tokyo seichi junrei" or use our individual location guides linked in Related Guides.
+
+</div>
+
 <div className="jpn-cta">
 
 <p><strong>Follow <a href="https://www.instagram.com/japan_pop_now/" rel="nofollow" target="_blank">@japan_pop_now on Instagram</a></strong> for daily Tokyo pop culture updates.</p>

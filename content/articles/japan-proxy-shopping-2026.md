@@ -1,6 +1,6 @@
 ---
 title: "Japan Proxy Shopping 2026: Buy Anime Figures & Merch Online"
-description: "Buy anime figures and merch from Japan without visiting. Complete guide to proxy services: Buyee, ZenMarket, OneMall. Costs, how-to, and how to avoid counterfeits in 2026."
+description: "Buy anime figures from Japan without visiting. Guide to proxy services: Buyee, ZenMarket, OneMall. Costs and how-to 2026."
 heroImage: "/images/articles/japan-proxy-shopping-2026/featured.jpg"
 heroImageAlt: "Anime figures and collectibles display at Akihabara shop for proxy shopping"
 date: "2026-04-03"

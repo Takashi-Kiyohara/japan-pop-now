@@ -193,6 +193,26 @@ The building has elevators, but the corridors are narrow and some shops are very
 
 Akihabara first, if it's your first time in Tokyo. It gives you the full anime district experience and a sense of what things cost. Then visit Nakano Broadway knowing what you're looking for — and what a fair price looks like.
 
+<div className="jpn-faq">
+
+### Is Nakano Broadway worth visiting if I don't collect anime?
+
+Yes. It's a cultural landmark and historic shopping district. Even non-fans enjoy the vintage shops and architecture.
+
+### How much time do I need for Nakano Broadway?
+
+2-3 hours for casual browsing. 4-5 hours if you're serious about collecting or visiting every floor of Mandarake.
+
+### Are prices at Nakano Broadway cheaper than Akihabara?
+
+Sometimes, especially for vintage and used items. New releases are similar prices. Nakano is better for rare finds.
+
+### Is Nakano Broadway crowded?
+
+Yes on weekends. Weekday afternoons (2-5 PM) are much quieter. Avoid Saturday/Sunday if you prefer less crowded experiences.
+
+</div>
+
 <div className="jpn-cta">
 
 <p><strong>Follow <a href="https://www.instagram.com/japan_pop_now/" rel="nofollow" target="_blank">@japan_pop_now on Instagram</a></strong> for daily Tokyo pop culture updates.</p>

@@ -170,6 +170,26 @@ Ghibli Park is in Nagakute, a suburban area east of Nagoya. There aren't luxury 
 
 If you're visiting for two days, staying near Fujigaoka makes the logistics significantly easier. For a single day visit as part of a broader trip, staying at Nagoya Station gives you better shinkansen access for your next destination.
 
+<div className="jpn-faq">
+
+### Do I need tickets to enter Ghibli Park?
+
+Yes. Tickets are required and must be booked in advance online. Walk-ins are not allowed. Book 1-4 weeks ahead depending on season.
+
+### Is Ghibli Park the same as the Studio Ghibli Museum?
+
+No. Ghibli Park is newer (opened 2022) and larger with outdoor areas. The museum in Tokyo is focused on film exhibits.
+
+### Can I take photos inside Ghibli Park?
+
+Yes, photography is allowed in most outdoor areas and some indoor spaces. Check signage at each building.
+
+### How much time do I need at Ghibli Park?
+
+Plan 3-5 hours for a full visit. You can spend less time if focusing on specific buildings.
+
+</div>
+
 <div className="jpn-tip">
 
 **Tip:** Ghibli Park runs on a closed reservation system even off-season. Book tickets on release dates — they sell out within hours.

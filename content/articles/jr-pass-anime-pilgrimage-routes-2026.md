@@ -142,6 +142,26 @@ Buy directly at JR offices (full yen prices, about ¥2,000–3,000 more than vou
 
 </div>
 
+<div className="jpn-faq">
+
+### Is a JR Pass worth it for anime pilgrimage routes?
+
+Yes, if visiting 3+ cities. Tokyo-Kyoto-Kobe saves ¥10,000+. For single-city tours, skip it.
+
+### Which anime locations are easiest to reach by train?
+
+Your Name (Tokyo), Demon Slayer (Asakusa), Jujutsu Kaisen (Shibuya), Slam Dunk (Kamakura), One Piece (Kumamoto).
+
+### Do shinkansen reservations cost extra?
+
+No. JR Pass includes all shinkansen. Reserved or unreserved seating is free.
+
+### Can I split a JR Pass trip over multiple weeks?
+
+No. JR Passes are continuous. For flexibility, consider regional passes instead.
+
+</div>
+
 <div className="jpn-cta">
 
 <p><strong>Follow <a href="https://www.instagram.com/japan_pop_now/" rel="nofollow" target="_blank">@japan_pop_now on Instagram</a></strong> for daily Tokyo pop culture updates.</p>

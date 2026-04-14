@@ -470,6 +470,26 @@ Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and 
 
 Follow for weekly collab cafe updates & Japan pop culture content.
 
+<div className="jpn-faq">
+
+### Is a JR Pass worth buying if I'm only in Tokyo?
+
+No. JR Pass is best for multi-city trips. Tokyo-Kyoto-Osaka routes save money. For Tokyo-only: Buy individual IC cards instead.
+
+### How far in advance should I buy a JR Pass?
+
+Exchange orders close 1 month before travel. Buy as soon as dates are confirmed, especially for peak season.
+
+### Can I use my JR Pass on the Tokyo metro (Ginza Line, etc)?
+
+No. JR Pass covers JR lines only (Yamanote, Chuo, etc). Metro lines need separate IC cards.
+
+### Do I need a reservation for all JR trains?
+
+No. All local trains are unreserved. Only shinkansen and express trains require reservations (included with JR Pass).
+
+</div>
+
 <div className="jpn-cta">
 
 <p><strong>Follow <a href="https://www.instagram.com/japan_pop_now/" rel="nofollow" target="_blank">@japan_pop_now on Instagram</a></strong> for daily Tokyo pop culture updates.</p>

@@ -1,6 +1,6 @@
 ---
 title: "Akihabara: The Complete Pop Culture Guide for 2026"
-description: "Expert guide to Akihabara's best anime shops, retro game stores, arcades, and hidden side streets. Silk Hat arcade, Super Potato, Mandarake, maid cafes, collab drinks—updated April 2026."
+description: "Complete guide to Akihabara's best anime shops, arcades, game stores, and hidden streets. Mandarake, Super Potato, maid cafes—updated 2026."
 date: "2026-03-25"
 lastUpdated: "2026-04-14"
 category: "area-guides"

@@ -366,6 +366,26 @@ But get something. A ¥30,000 ER visit or a ¥500,000 evacuation will ruin your 
 
 </div>
 
+<div className="jpn-faq">
+
+### Is travel insurance necessary for Japan?
+
+Not required, but recommended. Healthcare is affordable, but insurance covers unexpected events like cancellations and emergency evacuation.
+
+### What should travel insurance cover for Japan?
+
+Medical expenses, trip cancellation, lost luggage, and evacuation. Check policy limits—Japan medical can be expensive for major surgery.
+
+### How much does travel insurance for Japan cost?
+
+Usually ¥2,000-5,000 ($15-35 USD) for 2 weeks. Price increases with age and coverage limits.
+
+### Can I buy insurance after arriving in Japan?
+
+Some policies allow it, but coverage may be limited. Buy before departure for full coverage and better rates.
+
+</div>
+
 <div className="jpn-cta">
 
 <p><strong>Follow <a href="https://www.instagram.com/japan_pop_now/" rel="nofollow" target="_blank">@japan_pop_now on Instagram</a></strong> for daily Tokyo pop culture updates.</p>

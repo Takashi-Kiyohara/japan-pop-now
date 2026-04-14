@@ -186,6 +186,26 @@ If you've only got one day for Osaka anime tourism, here's a route that covers t
 
 **20:00** — Round1 Stadium Sennichimae for late-night gaming. Open 24 hours, so stay as long as you want.
 
+<div className="jpn-faq">
+
+### Is Den-den Town the same as Akihabara?
+
+Similar vibe but different scale. Den-den is smaller, more compact, and focuses on specific genres. Better for deep dives than broad shopping.
+
+### How much time do I need for Den-den Town?
+
+2-3 hours for casual browsing. 4-5 hours if visiting specialty shops. It's more manageable than Akihabara.
+
+### Are prices cheaper in Osaka than Tokyo?
+
+Slightly, on average 10-15% less. But inventory differs—some items are unique to each city. Both cities are worth visiting.
+
+### Is Osaka worth visiting for anime fans if I'm already in Tokyo?
+
+Yes. Den-den Town has different merchandise, Dotonbori is a different vibe, and Osaka food culture is distinct.
+
+</div>
+
 <div className="jpn-cta">
 
 <p><strong>Follow <a href="https://www.instagram.com/japan_pop_now/" rel="nofollow" target="_blank">@japan_pop_now on Instagram</a></strong> for daily Tokyo pop culture updates.</p>

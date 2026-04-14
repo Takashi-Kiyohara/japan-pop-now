@@ -2,7 +2,7 @@
 title: "AnimeJapan 2026 Guide for International Visitors: Access & Planning"
 description: "Plan your AnimeJapan 2026 visit: dates (March 28-29), Tokyo Big Sight access, Family Anime Festa details, and nearby anime spots in Odaiba 2026."
 date: "2026-04-06"
-category: "events"
+category: "anime-pilgrimage"
 tags: ["animejapan", "events", "tokyo", "convention"]
 featuredImage: "/images/articles/animejapan-2026-guide-international-visitors/featured.jpg"
 heroImage: "/images/articles/animejapan-2026-guide-international-visitors/featured.jpg"

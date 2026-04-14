@@ -1,6 +1,6 @@
 ---
-title: "How to Book Anime Collaboration Cafes in Japan: Complete 2026 Booking Guide"
-description: "Complete guide to booking anime collaboration cafes in Tokyo. Learn Lawson Ticket, lottery systems, walk-in tips, and platform-by-platform instructions for Animate, BOX cafe, and THE GUEST."
+title: "Book Anime Collab Cafes Japan: Lawson & Lottery Guide"
+description: "Complete guide to booking anime collab cafes in Tokyo. Lawson Ticket, lottery systems, walk-in tips, platforms for Animate and BOX."
 date: "2026-03-24"
 lastUpdated: "2026-04-14"
 category: "travel-tips"

@@ -272,6 +272,26 @@ Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and 
 
 Follow for weekly collab cafe updates & Japan pop culture content.
 
+<div className="jpn-faq">
+
+### Do I need an IC card in Japan?
+
+No, but it makes travel much easier. You can use cash, but IC cards work on trains, subways, and many shops.
+
+### How much does a Suica or PASMO card cost?
+
+¥2,000 in Tokyo (¥1,500 is stored value, ¥500 is the card itself). Other regions have similar local versions.
+
+### Can I use a Suica card in cities other than Tokyo?
+
+Yes. Suica works in most major Japanese cities on trains and subways. Check compatibility when traveling.
+
+### What happens to my IC card money if I leave Japan?
+
+You can use remaining balance as long as the card is valid. You can refund unused balance at most stations for a small fee.
+
+</div>
+
 <div className="jpn-cta">
 
 <p><strong>Follow <a href="https://www.instagram.com/japan_pop_now/" rel="nofollow" target="_blank">@japan_pop_now on Instagram</a></strong> for daily Tokyo pop culture updates.</p>

@@ -204,6 +204,26 @@ A walking tour covering both Your Name and Weathering With You locations in one 
 
 [Find Shinkai Film Tours on GetYourGuide](https://www.getyourguide.com/tokyo-l193/?q=anime+film+locations&partner_id=R7OISH9&utm_medium=online_publisher)
 
+<div className="jpn-faq">
+
+### Is Weathering with You entirely set in Tokyo?
+
+No. Parts are in Izu Peninsula and Tokyo Bay area. Most iconic locations are in Tokyo proper.
+
+### How many Weathering with You locations can I visit in one day?
+
+4-6 locations in one day if using trains. Full pilgrimage takes 2-3 days if including detailed exploration.
+
+### Is the Weathering with You pilgrimage better in rainy weather?
+
+Thematically yes, but practically no. Rain makes outdoor photography difficult. Sunny/overcast is best for matching film scenes.
+
+### Can I walk between all Weathering with You locations?
+
+Some can be walked (Shibuya area), but you'll need trains for Izu and Tokyo Bay locations. Get an IC card.
+
+</div>
+
 <div className="jpn-cta">
 
 <p><strong>Follow <a href="https://www.instagram.com/japan_pop_now/" rel="nofollow" target="_blank">@japan_pop_now on Instagram</a></strong> for daily Tokyo pop culture updates.</p>

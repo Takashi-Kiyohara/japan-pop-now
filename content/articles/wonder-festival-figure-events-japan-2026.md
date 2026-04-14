@@ -118,6 +118,26 @@ For international visitors arriving before the event, walk into any Lawson and u
 
 </div>
 
+<div className="jpn-faq">
+
+### What is Wonder Festival exactly?
+
+A massive biannual figure and hobby marketplace where independent creators sell garage kits, paintings, and collectibles.
+
+### When is Wonder Festival in 2026?
+
+Usually held mid-January and mid-August at Tokyo Big Sight. Check official WonFes site for exact dates.
+
+### Do I need tickets for Wonder Festival?
+
+Yes. ¥1,500-2,000 entry. Arrive early—crowds peak 11 AM-1 PM. Bring cash and a rolling bag.
+
+### Is Wonder Festival better than Comiket for figure collectors?
+
+Different focus. Comiket has doujinshi and variety. WonFes specializes in figures and garage kits. Visit both if you can.
+
+</div>
+
 <div className="jpn-cta">
 
 <p><strong>Follow <a href="https://www.instagram.com/japan_pop_now/" rel="nofollow" target="_blank">@japan_pop_now on Instagram</a></strong> for daily Tokyo pop culture updates.</p>

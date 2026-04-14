@@ -163,6 +163,26 @@ The items themselves are cheap (¥150–¥600 for the qualifying purchase) but t
 
 </div>
 
+<div className="jpn-faq">
+
+### Where are the Spy x Family collaboration cafes?
+
+Locations rotate. Check official Spy x Family and Tokyo anime cafe pages monthly. Seasonal collaborations run 4-8 weeks.
+
+### Do I need reservations for Spy x Family cafes?
+
+Yes. Most reservations are lottery-based or Lawson Ticket bookings. Book 2-4 weeks ahead during peak seasons.
+
+### Is there a Spy x Family-themed hotel or experience in Tokyo?
+
+No permanent hotel, but limited-time collaborations happen seasonally. Check official announcements and booking platforms.
+
+### How long does a typical Spy x Family cafe experience take?
+
+1-2 hours including seating, food, and photos. Budget extra time if there's merch shopping involved.
+
+</div>
+
 <div className="jpn-cta">
 
 <p><strong>Follow <a href="https://www.instagram.com/japan_pop_now/" rel="nofollow" target="_blank">@japan_pop_now on Instagram</a></strong> for daily Tokyo pop culture updates.</p>

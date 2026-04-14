@@ -161,6 +161,26 @@ For anime-themed stays, some capsule hotels in Akihabara have character themes.
 
 </div>
 
+<div className="jpn-faq">
+
+### Which event should I prioritize if I only have one day?
+
+AnimeJapan is better for first-timers and casual fans. It's smaller, has official announcements, and is easier to navigate. Comiket is for serious collectors willing to wake up early and deal with massive crowds.
+
+### Do I need to buy tickets in advance?
+
+Both events sell tickets at the gate, but AnimeJapan sometimes sells out online. Comiket tickets are cheap enough that gates are less crowded. Book online if possible for guaranteed entry.
+
+### Can I attend both AnimeJapan and Comiket on the same trip?
+
+Yes, but they're 5 months apart. AnimeJapan is late March, Comiket is late August. Plan them as separate trips or visit Tokyo twice.
+
+### What should I bring to Comiket?
+
+Comfortable shoes, a rolling bag or large backpack, a power bank, and cash (many doujinshi booths are cash-only). Dress in layers—the venue gets hot.
+
+</div>
+
 <div className="jpn-cta">
 
 <p><strong>Follow <a href="https://www.instagram.com/japan_pop_now/" rel="nofollow" target="_blank">@japan_pop_now on Instagram</a></strong> for daily Tokyo pop culture updates.</p>

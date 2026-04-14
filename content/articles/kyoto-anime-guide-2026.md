@@ -213,6 +213,26 @@ The real locations are generally more crowded and less pristine than their anime
 
 Instagram and location-tagging apps are your best resources. Many anime fans post detailed location guides with coordinates and comparison photos. Japanese Reddit communities also have detailed threads for individual series.
 
+<div className="jpn-faq">
+
+### What anime locations are in Kyoto?
+
+Kyoto features in many anime as the setting (Takayama, Arashiyama). Major locations include temples, streets, and shrines.
+
+### Is Kyoto a good base for anime pilgrimage vs Tokyo?
+
+Both are good. Kyoto is slower-paced and historical. Tokyo has more modern gaming/shopping. Combine both if possible.
+
+### How many days should I spend in Kyoto for anime pilgrimage?
+
+2-3 days covers main locations. Add an extra day if visiting nearby areas like Arashiyama or Fushimi Inari.
+
+### Are anime cafes and shops common in Kyoto?
+
+Yes, but fewer than Tokyo. Kyoto focuses on historical aesthetics. Many anime cafes do seasonal collaborations.
+
+</div>
+
 <div className="jpn-cta">
 
 <p><strong>Follow <a href="https://www.instagram.com/japan_pop_now/" rel="nofollow" target="_blank">@japan_pop_now on Instagram</a></strong> for daily Tokyo pop culture updates.</p>

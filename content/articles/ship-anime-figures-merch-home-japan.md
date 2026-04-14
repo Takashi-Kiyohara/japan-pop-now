@@ -1,6 +1,6 @@
 ---
 title: "Ship Anime Merch from Japan"
-description: "Ship anime figures and merch from Japan home safely. Complete guide to Japan Post, Kuroneko Yamato, costs, customs, packing, and shipping options for international delivery in 2026."
+description: "Ship anime merch from Japan home: Japan Post, Kuroneko, costs, customs, packing guide 2026."
 heroImage: "/images/articles/ship-anime-figures-merch-home-japan/featured.jpg"
 heroImageAlt: "Yamato Transport Kuroneko delivery truck for shipping anime merch from Japan"
 date: "2026-04-02"
@@ -224,6 +224,26 @@ One more thing: take photos of your collection before you pack it. Just in case 
 <div className="jpn-tip">
 
 **Tip:** Use EMS for figures over ¥100,000 in value. International shipping insurance is typically only available for registered/insured methods.
+
+</div>
+
+<div className="jpn-faq">
+
+### What's the cheapest way to ship anime merch internationally?
+
+Japan Post's Economy Air Mail (EMS) is usually cheapest for medium packages. For heavy items, surface mail is cheapest but takes 2-3 months.
+
+### How much does it cost to ship a large box of anime figures?
+
+¥5,000-15,000 ($35-100) depending on weight and destination. Insure high-value items (cost: 0.6% of declared value).
+
+### Can I ship directly from stores like Mandarake or Akihabara shops?
+
+Yes. Most stores offer international shipping for ¥1,000-3,000 handling plus postage. Ask at checkout.
+
+### What customs issues should I expect when shipping merch internationally?
+
+None for personal items under most countries' limits. Declare actual value on shipping forms. No taxes or duties for personal use collectibles in most countries.
 
 </div>
 

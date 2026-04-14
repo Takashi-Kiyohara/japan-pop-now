@@ -218,6 +218,26 @@ Akihabara has the widest selection and the "anime district" atmosphere. [Ikebuku
 - [Anime Merch Shopping Guide: Where to Buy & How to Save](/articles/anime-merch-shopping-guide/)
 - [Game Centers Guide: Crane Games, Rhythm & Retro Arcades](/articles/game-centers-arcades-japan/)
 
+<div className="jpn-faq">
+
+### Is Shibuya Crossing really that busy?
+
+Yes. Crossing can have 2,500+ people per light cycle. Visit early morning (7-9 AM) or late evening (8-10 PM) for fewer crowds.
+
+### How long does it take to explore Shibuya and Harajuku?
+
+Shibuya: 2-3 hours. Harajuku: 3-4 hours. Takeshita Street alone needs 1-2 hours depending on crowd tolerance.
+
+### Are Shibuya and Harajuku connected?
+
+Yes, they're adjacent neighborhoods. JR Yamanote Line connects them (1 stop, 5 minutes). Walking takes about 15 minutes.
+
+### What should I budget for shopping in Shibuya and Harajuku?
+
+Casual browsing: ¥3,000-5,000. Moderate shopping: ¥10,000-20,000. No limit if buying designer or high-end items.
+
+</div>
+
 <div className="jpn-cta">
 
 <p><strong>Follow <a href="https://www.instagram.com/japan_pop_now/" rel="nofollow" target="_blank">@japan_pop_now on Instagram</a></strong> for daily Tokyo pop culture updates.</p>

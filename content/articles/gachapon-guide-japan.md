@@ -1,6 +1,6 @@
 ---
 title: "Gachapon Guide Japan 2026"
-description: "Master gachapon capsule toy machines in Japan: best locations, pricing 200-500 yen, current series, how to use, and where to find Chiikawa and One Piece in 2026."
+description: "Gachapon guide: best locations, pricing 200-500¥, current series, how to use, Chiikawa and One Piece locations 2026."
 heroImage: "/images/articles/gachapon-guide-japan/featured.jpg"
 heroImageAlt: "Bandai Gashapon store with capsule toy machines in Japan"
 date: "2026-03-28"
@@ -256,6 +256,26 @@ Yes. **Amazon Japan** carries many sets. ¥1,500–¥3,000 per box, ships intern
 - [Anime Merch Shopping Guide Japan](/articles/anime-merch-shopping-guide-japan/)
 - [Nakano Broadway Guide](/articles/nakano-broadway-guide/)
 - [Game Centers & Arcades Japan](/articles/game-centers-arcades-japan/)
+
+<div className="jpn-faq">
+
+### Where's the best place to find gachapon machines in Tokyo?
+
+Akihabara has the densest concentration (500+ machines). Other major areas: Shinjuku, Shibuya, Ikebukuro, Nakano. All have dedicated arcade floors.
+
+### What's the most expensive gachapon?
+
+Standard machines: ¥100-500. Premium/limited editions: ¥500-2,000. Ultra-rare collectible sets: ¥3,000-5,000.
+
+### Can I choose which item I want in a gachapon machine?
+
+No. Gachapon is completely random unless the machine has multiple button options showing different variants. That's the whole appeal—the gamble.
+
+### Are gachapon items from major brands like Bandai actually collectible?
+
+Yes. Bandai Gashapon figures hold value especially if rare or limited. Keep packaging if you plan to resell.
+
+</div>
 
 <div className="jpn-cta">
 

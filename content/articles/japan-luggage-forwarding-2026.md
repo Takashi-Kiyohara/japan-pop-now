@@ -323,6 +323,26 @@ Takuhaibin is one of Japan's best-kept travel secrets. It's cheap (¥2,000-3,000
 
 </div>
 
+<div className="jpn-faq">
+
+### Is luggage forwarding cheaper than carrying luggage?
+
+Yes. A large suitcase costs ¥2,500-3,500 to forward vs. hassle of carrying it. For multi-week trips, forwarding saves stress and money.
+
+### How long does luggage forwarding take in Japan?
+
+Usually 1-2 days within Japan. Airport to hotel takes 1-3 days depending on distance. Check with your forwarding service.
+
+### Can I forward luggage internationally?
+
+Yes, but most travelers use domestic forwarding within Japan and ship internationally separately or at the end of their trip.
+
+### What happens if my luggage gets lost during forwarding?
+
+Services like Kuroneko and Sagawa have insurance. Declare high-value items and get insurance receipts.
+
+</div>
+
 <div className="jpn-cta">
 
 <p><strong>Follow <a href="https://www.instagram.com/japan_pop_now/" rel="nofollow" target="_blank">@japan_pop_now on Instagram</a></strong> for daily Tokyo pop culture updates.</p>

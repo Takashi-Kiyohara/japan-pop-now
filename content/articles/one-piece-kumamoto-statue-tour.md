@@ -237,6 +237,26 @@ Kumamoto has run special campaigns with stamp rallies and collectible cards at v
 
 **Follow [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)** for daily Tokyo pop culture updates.
 
+<div className="jpn-faq">
+
+### Where are the One Piece statues located in Kumamoto?
+
+Statues are scattered across Kumamoto city, mostly in parks and tourist areas. The main cluster is near Kumamoto Castle.
+
+### How long does the One Piece statue tour take?
+
+1-2 hours for all 10 statues if you know where they are. 3-4 hours with breaks and photos. A guided tour adds context.
+
+### Can I visit Kumamoto as a day trip from Tokyo?
+
+Yes, but it's 7+ hours by shinkansen. Better as an overnight trip. Fly if you have limited time.
+
+### Are there One Piece cafes in Kumamoto?
+
+Yes, seasonal collaborations happen. Check official announcements a few weeks before your visit for current options.
+
+</div>
+
 <div className="jpn-cta">
 
 <p><strong>Follow <a href="https://www.instagram.com/japan_pop_now/" rel="nofollow" target="_blank">@japan_pop_now on Instagram</a></strong> for daily Tokyo pop culture updates.</p>

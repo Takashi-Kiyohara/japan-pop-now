@@ -97,6 +97,26 @@ Pilgrimage tours are different. You're visiting real-world locations used in ani
 
 </div>
 
+<div className="jpn-faq">
+
+### Are guided anime tours worth the cost?
+
+Yes, especially for pilgrimage tours. Tours teach you about production details and camera angles you'd miss alone. Shopping tours are optional—you can self-guide Akihabara.
+
+### Do I need to speak Japanese for anime tours?
+
+No. Most major tour companies offer English guides. Smaller local tours may be Japanese-only—confirm when booking.
+
+### Can I do an anime pilgrimage tour solo?
+
+Yes. Most tours welcome solo travelers. Many anime fans do tours alone and make friends with other group members.
+
+### What's the best season for anime tours in Tokyo?
+
+Spring (March-May) and Fall (September-November) have the best weather. Avoid Golden Week and summer vacation when crowds peak and tours get crowded.
+
+</div>
+
 <div className="jpn-cta">
 
 <p><strong>Follow <a href="https://www.instagram.com/japan_pop_now/" rel="nofollow" target="_blank">@japan_pop_now on Instagram</a></strong> for daily Tokyo pop culture updates.</p>

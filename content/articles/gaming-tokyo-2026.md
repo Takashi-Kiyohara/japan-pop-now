@@ -137,6 +137,26 @@ Book online weeks in advance. Lottery system = you might not get in. If you do: 
 
 </div>
 
+<div className="jpn-faq">
+
+### Is gaming culture the same throughout Tokyo?
+
+No. Akihabara focuses on arcade games and retro. Shinjuku has modern gaming bars. Shibuya has VR and experimental games. Each area has its own vibe.
+
+### Do I need to speak Japanese to enjoy gaming arcades?
+
+No. Games are self-explanatory and most staff understand basic English. Bring coins or get change at the entrance.
+
+### Are gaming bars in Tokyo only for men?
+
+No. Most gaming bars welcome everyone. Many are very social and women-friendly, especially those with casual games.
+
+### How much does it cost to play at a Tokyo arcade?
+
+Most games cost ¥100–¥500 per play. Budget ¥3,000–¥5,000 for a few hours of casual play.
+
+</div>
+
 <div className="jpn-cta">
 
 <p><strong>Follow <a href="https://www.instagram.com/japan_pop_now/" rel="nofollow" target="_blank">@japan_pop_now on Instagram</a></strong> for daily Tokyo pop culture updates.</p>
