@@ -44,9 +44,6 @@ LuvLab offers 5 core experiences, each with a different price point and time com
 
 ## How Much Does It Cost?
 
-![Italian charm detailed pricing menu](/images/articles/luvlab-harajuku/menu-italian-detail.webp)
-*Full Italian Charm menu — all prices are before tax.*
-
 Here is the complete pricing breakdown. All prices listed are before tax (add 10%).
 
 <div className="jpn-info-box">
