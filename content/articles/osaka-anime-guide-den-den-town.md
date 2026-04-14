@@ -32,9 +32,11 @@ This guide covers everything you need for a full day (or two) of anime shopping,
 | **Main Station** | Nipponbashi (Sakaisuji/Kintetsu) or Namba (Midosuji/Nankai) |
 | **Budget** | ¥2,000–¥10,000+ depending on shopping |
 
+Before diving in, here's the fast version of the day.
+
 <div className="jpn-info-box">
 
-## TL;DR: Osaka Den Den Town
+**TL;DR: Osaka Den Den Town**
 
 **Route:** Shinsaibashi PARCO (morning, 1 hr) → Den Den Town strip (2–3 hrs: Animate, Mandarake Grand Chaos, Super Potato) → Lunch at Kuromon Market → Gashapon Department Store Namba (45 min) → Collab Cafe or Round1 Stadium (evening).
 
