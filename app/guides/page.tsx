@@ -4,14 +4,9 @@ import { getAllArticles } from '@/lib/articles';
 import Breadcrumb from '@/components/Breadcrumb';
 
 export const metadata: Metadata = {
-  title: 'Guides — Japan Pop Now',
-  description: 'Comprehensive travel guides for anime fans visiting Japan — collab cafes, pilgrimage routes, area guides, and practical travel tips.',
+  title: 'Anime Travel Guides Japan 2026 — Pilgrimage, Cafes & Area Hubs | Japan Pop Now',
+  description: 'Plan your anime trip to Japan with hub guides for Tokyo, Osaka, day trips, collab cafes, and travel essentials. Updated monthly from inside Japan.',
   alternates: { canonical: 'https://www.japan-pop-now.com/guides' },
-  // Hub index: noindex while hub editorial content is thin.
-  robots: {
-    index: false,
-    follow: true,
-  },
 };
 
 const HUBS = [
@@ -69,9 +64,24 @@ export default function GuidesIndex() {
         >
           Travel Guides
         </h1>
-        <p style={{ fontSize: '1.05rem', color: '#44403c', maxWidth: '640px', lineHeight: 1.7 }}>
-          Our in-depth guide hubs bring together everything you need for each aspect of an anime fan&apos;s trip to Japan.
+        <p style={{ fontSize: '1.05rem', color: '#44403c', maxWidth: '700px', lineHeight: 1.7, marginBottom: '1.25rem' }}>
+          Our in-depth guide hubs bring together everything you need for each leg of an anime fan&apos;s trip to Japan — by city, by interest, and by experience level.
         </p>
+
+        <div style={{ maxWidth: '720px', color: '#44403c', fontSize: '0.97rem', lineHeight: 1.75 }}>
+          <p style={{ marginBottom: '0.9rem' }}>
+            <strong>Planning your anime pilgrimage across Japan.</strong> Japan is the only country where the anime you love is woven into the streets, train stations, shrines, and convenience stores you walk past. Tokyo alone hosts dozens of collab cafes, themed pop-ups, and limited-run merchandise events at any given week, while Osaka, Kyoto, and quiet day-trip towns like Kamakura and Chichibu turn into open-air settings from your favorite series.
+          </p>
+          <p style={{ marginBottom: '0.9rem' }}>
+            Each hub on this page bundles our most-read guides on one slice of that trip: <strong>Tokyo Anime Collab Cafes</strong> for live event tracking, <strong>Anime Pilgrimage Spots in Tokyo</strong> for filming-location walking routes, <strong>Osaka Anime &amp; Pop Culture</strong> for Den Den Town and USJ tie-ins, <strong>Anime Day Trips from Tokyo</strong> for Slam Dunk and Anohana sites within two hours of the city, and <strong>Japan Travel Essentials</strong> for the JR Pass, eSIM, IC card, and reservation logistics you have to nail before your flight.
+          </p>
+          <p style={{ marginBottom: '0.9rem' }}>
+            They&apos;re built for first-time visitors who want a clear plan without the trial-and-error, and for repeat travelers chasing a specific franchise, season, or seasonal event. Pilgrimage purists, collab-cafe collectors, casual fans on a family trip — each persona has a recommended starting hub below.
+          </p>
+          <p style={{ marginBottom: 0, fontSize: '0.92rem', color: '#57534e' }}>
+            Updated monthly by Takapon, who lives in Tokyo and re-walks every featured route in person before publishing. If a cafe closes or a route changes, the guide changes with it.
+          </p>
+        </div>
       </div>
 
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pb-16">
