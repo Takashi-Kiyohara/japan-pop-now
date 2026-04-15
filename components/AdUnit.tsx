@@ -115,7 +115,6 @@ export default function AdUnit({
         margin: '0 auto',
         overflow: 'hidden',
         contain: 'layout',
-        contain: 'layout', // Prevents CLS
       }}
     >
       {!isVisible && <AdSkeleton width={dims.width} minHeight={dims.minHeight} />}
