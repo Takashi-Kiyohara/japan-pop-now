@@ -8,7 +8,7 @@ export const metadata: Metadata = {
   description:
     'Curated article series covering collab cafes, pilgrimage routes, Tokyo districts, and travel essentials for Japan pop culture fans.',
   alternates: {
-    canonical: 'https://japan-pop-now.com/features',
+    canonical: 'https://www.japan-pop-now.com/features',
   },
 };
 
@@ -27,14 +27,14 @@ export default function FeaturesPage() {
     '@type': 'CollectionPage',
     name: 'Feature Series | Japan Pop Now',
     description: metadata.description,
-    url: 'https://japan-pop-now.com/features',
+    url: 'https://www.japan-pop-now.com/features',
     mainEntity: {
       '@type': 'ItemList',
       itemListElement: featuresWithCounts.map(
         (f: Feature & { articleCount: number }, i: number) => ({
           '@type': 'ListItem',
           position: i + 1,
-          url: `https://japan-pop-now.com/features/${f.slug}`,
+          url: `https://www.japan-pop-now.com/features/${f.slug}`,
           name: f.title,
         })
       ),

@@ -6,7 +6,7 @@ export const metadata: Metadata = {
   description:
     'Japan Pop Now is independently run and ad-supported. If our guides saved you time planning your Japan trip, you can chip in to help keep the site free and ad-light.',
   alternates: {
-    canonical: 'https://japan-pop-now.com/support',
+    canonical: 'https://www.japan-pop-now.com/support',
   },
 };
 

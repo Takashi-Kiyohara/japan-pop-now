@@ -1,9 +1,9 @@
-import { getAllArticles } from '@/lib/articles';
+﻿import { getAllArticles } from '@/lib/articles';
 import { NextResponse } from 'next/server';
 
 export async function GET() {
   const articles = getAllArticles();
-  const siteUrl = 'https://japan-pop-now.com';
+  const siteUrl = 'https://www.japan-pop-now.com';
 
   const xml = `<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom">

@@ -7,7 +7,7 @@ import Breadcrumb from '@/components/Breadcrumb';
 export const metadata: Metadata = {
   title: 'All Tags — Japan Pop Now',
   description: 'Browse all content tags on Japan Pop Now — anime series, locations, travel topics, and more.',
-  alternates: { canonical: 'https://japan-pop-now.com/tags' },
+  alternates: { canonical: 'https://www.japan-pop-now.com/tags' },
   // Tags index: noindex,follow (2026-04-10, AdSense low-value fix).
   // Individual /tags/[tag] pages are already noindex.
   robots: {

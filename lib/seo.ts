@@ -1,6 +1,6 @@
 import { ArticleMeta } from './articles';
 
-export const SITE_URL = 'https://japan-pop-now.com';
+export const SITE_URL = 'https://www.japan-pop-now.com';
 export const SITE_NAME = 'Japan Pop Now';
 export const DEFAULT_DESCRIPTION =
   "Your ultimate guide to Japan's anime and pop culture scene — collab cafes, pilgrimage spots, area guides, and travel tips for international visitors.";

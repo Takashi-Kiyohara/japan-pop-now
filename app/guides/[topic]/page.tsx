@@ -94,7 +94,7 @@ export async function generateMetadata({ params }: HubPageProps): Promise<Metada
   const hub = HUB_TOPICS.find((t) => t.slug === topic);
   if (!hub) return { title: 'Guide Not Found' };
 
-  const url = `https://japan-pop-now.com/guides/${hub.slug}`;
+  const url = `https://www.japan-pop-now.com/guides/${hub.slug}`;
   return {
     title: hub.title,
     description: hub.description,
@@ -317,14 +317,14 @@ export default async function HubPage({ params }: HubPageProps) {
             '@type': 'CollectionPage',
             name: hub.title,
             description: hub.description,
-            url: `https://japan-pop-now.com/guides/${hub.slug}`,
+            url: `https://www.japan-pop-now.com/guides/${hub.slug}`,
             mainEntity: {
               '@type': 'ItemList',
               numberOfItems: articles.length,
               itemListElement: articles.map((a, i) => ({
                 '@type': 'ListItem',
                 position: i + 1,
-                url: `https://japan-pop-now.com/articles/${a.slug}`,
+                url: `https://www.japan-pop-now.com/articles/${a.slug}`,
                 name: a.title,
               })),
             },

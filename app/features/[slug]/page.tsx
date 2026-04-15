@@ -31,8 +31,8 @@ export async function generateMetadata({
   const ogImage = feature.cover
     ? feature.cover.startsWith('http')
       ? feature.cover
-      : `https://japan-pop-now.com${feature.cover}`
-    : 'https://japan-pop-now.com/og-default.jpg';
+      : `https://www.japan-pop-now.com${feature.cover}`
+    : 'https://www.japan-pop-now.com/og-default.jpg';
 
   return {
     title: `${feature.title} | Japan Pop Now`,

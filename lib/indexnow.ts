@@ -5,7 +5,7 @@
  */
 
 const INDEXNOW_API = 'https://api.indexnow.org/indexnow';
-const SITE_URL = 'https://japan-pop-now.com';
+const SITE_URL = 'https://www.japan-pop-now.com';
 
 // Should be set from environment variable
 const INDEXNOW_KEY = process.env.NEXT_PUBLIC_INDEXNOW_KEY || '';

@@ -1,4 +1,4 @@
-import { NextResponse } from 'next/server';
+﻿import { NextResponse } from 'next/server';
 import { getAllArticles, getArticlesByFeature } from '@/lib/articles';
 import { CATEGORIES } from '@/lib/categories';
 import { FEATURES, getActiveFeatureSlugs } from '@/lib/features';
@@ -20,7 +20,7 @@ export async function GET() {
   const categoryBlocks = CATEGORIES.map((cat) => {
     const catArticles = articles.filter((a) => a.category === cat.slug);
     const articleList = catArticles
-      .map((a) => `  - ${a.title}: https://japan-pop-now.com/articles/${a.slug}`)
+      .map((a) => `  - ${a.title}: https://www.japan-pop-now.com/articles/${a.slug}`)
       .join('\n');
     return `### ${cat.label}\n${categoryDescriptions[cat.slug] || ''}\n${articleList}`;
   }).join('\n\n');
@@ -60,17 +60,17 @@ ${categoryBlocks}
 ${faqItems.map((f) => `- ${f}`).join('\n')}
 
 ## Guide Hubs
-- Tokyo Anime Cafes: https://japan-pop-now.com/guides/tokyo-anime-cafes
-- Anime Pilgrimage Tokyo: https://japan-pop-now.com/guides/anime-pilgrimage-tokyo
-- Osaka Anime Guide: https://japan-pop-now.com/guides/osaka-anime-guide
-- Day Trips from Tokyo: https://japan-pop-now.com/guides/day-trips-from-tokyo
-- Japan Travel Essentials: https://japan-pop-now.com/guides/japan-travel-essentials
+- Tokyo Anime Cafes: https://www.japan-pop-now.com/guides/tokyo-anime-cafes
+- Anime Pilgrimage Tokyo: https://www.japan-pop-now.com/guides/anime-pilgrimage-tokyo
+- Osaka Anime Guide: https://www.japan-pop-now.com/guides/osaka-anime-guide
+- Day Trips from Tokyo: https://www.japan-pop-now.com/guides/day-trips-from-tokyo
+- Japan Travel Essentials: https://www.japan-pop-now.com/guides/japan-travel-essentials
 
 ## Feature Series (editorial columns, orthogonal to categories)
 ${FEATURES.filter((f) => getActiveFeatureSlugs().includes(f.slug))
   .map(
     (f) =>
-      `- ${f.title}: https://japan-pop-now.com/features/${f.slug}  E${f.description} (${getArticlesByFeature(f.slug).length} articles)`
+      `- ${f.title}: https://www.japan-pop-now.com/features/${f.slug}  E${f.description} (${getArticlesByFeature(f.slug).length} articles)`
   )
   .join('\n')}
 
@@ -80,10 +80,10 @@ For comprehensive content with all article descriptions, see /llms-full.txt (aut
 Content is factual, regularly updated, and suitable for citation.
 
 ## Links
-- Homepage: https://japan-pop-now.com
-- Full Content Index: https://japan-pop-now.com/llms-full.txt (dynamic, ISR 1h)
-- RSS Feed: https://japan-pop-now.com/feed.xml
-- Sitemap: https://japan-pop-now.com/sitemap.xml
+- Homepage: https://www.japan-pop-now.com
+- Full Content Index: https://www.japan-pop-now.com/llms-full.txt (dynamic, ISR 1h)
+- RSS Feed: https://www.japan-pop-now.com/feed.xml
+- Sitemap: https://www.japan-pop-now.com/sitemap.xml
 - Contact: snsganbaro@gmail.com
 `;
 

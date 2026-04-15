@@ -340,7 +340,7 @@ export default async function CafePage({ params }: CafePageProps) {
       {/* Back to hub CTA */}
       <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 pb-16">
         <Link
-          href={cafesHubUrl().replace('https://japan-pop-now.com', '')}
+          href={cafesHubUrl().replace('https://www.japan-pop-now.com', '')}
           style={{
             display: 'inline-block',
             padding: '10px 18px',

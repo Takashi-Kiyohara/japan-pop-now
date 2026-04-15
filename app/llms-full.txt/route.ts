@@ -1,4 +1,4 @@
-import { NextResponse } from 'next/server';
+﻿import { NextResponse } from 'next/server';
 import { getAllArticles, getArticlesByFeature } from '@/lib/articles';
 import { CATEGORIES } from '@/lib/categories';
 import { FEATURES, getActiveFeatureSlugs } from '@/lib/features';
@@ -31,7 +31,7 @@ export async function GET() {
     const catArticles = grouped.get(cat.slug) || [];
     const lines = catArticles.map((a, i) => {
       const desc = a.description ? `  E${a.description}` : '';
-      return `${i + 1}. ${a.title}${desc}\n   URL: https://japan-pop-now.com/articles/${a.slug}`;
+      return `${i + 1}. ${a.title}${desc}\n   URL: https://www.japan-pop-now.com/articles/${a.slug}`;
     });
     return `### ${cat.label} (${catArticles.length} articles)\n${lines.join('\n')}`;
   }).join('\n\n');
@@ -67,11 +67,11 @@ Japan Pop Now is an English-language media site covering anime collab cafes, pil
 ${categoryBlocks}
 
 ## Guide Hubs
-- Tokyo Anime Cafes: https://japan-pop-now.com/guides/tokyo-anime-cafes
-- Anime Pilgrimage Tokyo: https://japan-pop-now.com/guides/anime-pilgrimage-tokyo
-- Osaka Anime Guide: https://japan-pop-now.com/guides/osaka-anime-guide
-- Day Trips from Tokyo: https://japan-pop-now.com/guides/day-trips-from-tokyo
-- Japan Travel Essentials: https://japan-pop-now.com/guides/japan-travel-essentials
+- Tokyo Anime Cafes: https://www.japan-pop-now.com/guides/tokyo-anime-cafes
+- Anime Pilgrimage Tokyo: https://www.japan-pop-now.com/guides/anime-pilgrimage-tokyo
+- Osaka Anime Guide: https://www.japan-pop-now.com/guides/osaka-anime-guide
+- Day Trips from Tokyo: https://www.japan-pop-now.com/guides/day-trips-from-tokyo
+- Japan Travel Essentials: https://www.japan-pop-now.com/guides/japan-travel-essentials
 
 ## Feature Series (editorial columns, orthogonal to categories)
 Long-running editorial series that collect multi-article investigations across categories.
@@ -82,9 +82,9 @@ ${FEATURES.filter((f) => getActiveFeatureSlugs().includes(f.slug))
     const seriesArticles = getArticlesByFeature(f.slug);
     const lines = seriesArticles.map(
       (a, i) =>
-        `${i + 1}. ${a.title}\n   URL: https://japan-pop-now.com/articles/${a.slug}`
+        `${i + 1}. ${a.title}\n   URL: https://www.japan-pop-now.com/articles/${a.slug}`
     );
-    return `### ${f.title} (${seriesArticles.length} articles)\n${f.description}\nSeries URL: https://japan-pop-now.com/features/${f.slug}\n${lines.join('\n')}`;
+    return `### ${f.title} (${seriesArticles.length} articles)\n${f.description}\nSeries URL: https://www.japan-pop-now.com/features/${f.slug}\n${lines.join('\n')}`;
   })
   .join('\n\n')}
 
@@ -95,9 +95,9 @@ ${topics.map((t) => `- ${t}`).join('\n')}
 ${allTags.map((t) => t.replace(/-/g, ' ')).join(', ')}
 
 ## Links
-- Homepage: https://japan-pop-now.com
-- RSS Feed: https://japan-pop-now.com/feed.xml
-- Sitemap: https://japan-pop-now.com/sitemap.xml
+- Homepage: https://www.japan-pop-now.com
+- RSS Feed: https://www.japan-pop-now.com/feed.xml
+- Sitemap: https://www.japan-pop-now.com/sitemap.xml
 
 ## Audience
 International visitors aged 20-40 interested in anime, manga, and Japanese pop culture. Seeking practical guides, real-world location information, and cultural insights.

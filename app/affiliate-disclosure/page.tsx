@@ -1,10 +1,10 @@
-import { Metadata } from 'next';
+﻿import { Metadata } from 'next';
 
 export const metadata: Metadata = {
   title: 'Affiliate Disclosure',
   description: 'Affiliate disclosure for Japan Pop Now — how we earn commissions through affiliate partnerships.',
   alternates: {
-    canonical: 'https://japan-pop-now.com/affiliate-disclosure',
+    canonical: 'https://www.japan-pop-now.com/affiliate-disclosure',
   },
 };
 

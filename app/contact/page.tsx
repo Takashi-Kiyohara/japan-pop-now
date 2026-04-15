@@ -5,7 +5,7 @@ export const metadata: Metadata = {
   description:
     'Get in touch with the Japan Pop Now team — tips, corrections, partnership inquiries, and more.',
   alternates: {
-    canonical: 'https://japan-pop-now.com/contact',
+    canonical: 'https://www.japan-pop-now.com/contact',
   },
 };
 

@@ -1,7 +1,8 @@
----
+﻿---
 title: "The First-Timer's Japan Playbook for Anime Fans (2026)"
 description: "Plan your first Japan trip: hour-by-hour arrival, IC card, eSIM, cash rules, collab cafe booking, and etiquette for first-time anime fans."
 date: "2026-04-10"
+lastUpdated: "2026-04-10"
 updated: "2026-04-10"
 category: "travel-tips"
 feature: "first-timers-field-notes"

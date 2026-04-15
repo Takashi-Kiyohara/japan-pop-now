@@ -4,7 +4,7 @@ export const metadata: Metadata = {
   title: 'Privacy Policy',
   description: 'Privacy Policy for Japan Pop Now — how we collect, use, and protect your data.',
   alternates: {
-    canonical: 'https://japan-pop-now.com/privacy',
+    canonical: 'https://www.japan-pop-now.com/privacy',
   },
 };
 

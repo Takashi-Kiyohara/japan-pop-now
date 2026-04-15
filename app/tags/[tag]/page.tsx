@@ -23,7 +23,7 @@ export async function generateMetadata({ params }: TagPageProps): Promise<Metada
   return {
     title: `${label} Articles — Japan Pop Now`,
     description: `All articles tagged "${label}" on Japan Pop Now — anime, pop culture, and travel guides for Japan.`,
-    alternates: { canonical: `https://japan-pop-now.com/tags/${tag}` },
+    alternates: { canonical: `https://www.japan-pop-now.com/tags/${tag}` },
     robots: { index: false, follow: true },
   };
 }

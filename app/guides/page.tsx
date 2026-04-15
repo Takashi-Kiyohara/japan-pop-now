@@ -6,7 +6,7 @@ import Breadcrumb from '@/components/Breadcrumb';
 export const metadata: Metadata = {
   title: 'Guides — Japan Pop Now',
   description: 'Comprehensive travel guides for anime fans visiting Japan — collab cafes, pilgrimage routes, area guides, and practical travel tips.',
-  alternates: { canonical: 'https://japan-pop-now.com/guides' },
+  alternates: { canonical: 'https://www.japan-pop-now.com/guides' },
   // Hub index: noindex while hub editorial content is thin.
   robots: {
     index: false,

@@ -86,7 +86,7 @@ export async function generateMetadata({
     };
   }
 
-  const categoryUrl = `https://japan-pop-now.com/category/${slug}`;
+  const categoryUrl = `https://www.japan-pop-now.com/category/${slug}`;
 
   const articles = getArticlesByCategory(slug);
   const firstWithImage = articles.find((a) => a.featuredImage);
@@ -105,7 +105,7 @@ export async function generateMetadata({
       url: categoryUrl,
       images: firstWithImage
         ? [{ url: firstWithImage.featuredImage, width: 1200, height: 630, alt: `${category.label} articles` }]
-        : [{ url: 'https://japan-pop-now.com/og-image.png', width: 1200, height: 630 }],
+        : [{ url: 'https://www.japan-pop-now.com/og-image.png', width: 1200, height: 630 }],
     },
     twitter: {
       card: 'summary_large_image',
@@ -141,14 +141,14 @@ export default async function CategoryPage({ params }: CategoryPageProps) {
             '@type': 'CollectionPage',
             name: category.label,
             description: category.description || `Explore all articles about ${category.label.toLowerCase()} on Japan Pop Now.`,
-            url: `https://japan-pop-now.com/category/${slug}`,
+            url: `https://www.japan-pop-now.com/category/${slug}`,
             mainEntity: {
               '@type': 'ItemList',
               numberOfItems: articles.length,
               itemListElement: articles.map((a, i) => ({
                 '@type': 'ListItem',
                 position: i + 1,
-                url: `https://japan-pop-now.com/articles/${a.slug}`,
+                url: `https://www.japan-pop-now.com/articles/${a.slug}`,
                 name: a.title,
               })),
             },

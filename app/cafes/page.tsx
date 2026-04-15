@@ -195,7 +195,7 @@ function CafeCard({ cafe, dimmed = false }: { cafe: Cafe; dimmed?: boolean }) {
         : '#a8a29e';
   return (
     <Link
-      href={cafeUrl(cafe.slug).replace('https://japan-pop-now.com', '')}
+      href={cafeUrl(cafe.slug).replace('https://www.japan-pop-now.com', '')}
       style={{
         display: 'block',
         background: '#fff',
