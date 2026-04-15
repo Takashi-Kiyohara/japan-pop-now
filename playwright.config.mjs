@@ -1,4 +1,6 @@
-export default {
+import { devices } from '@playwright/test';
+
+const config = {
   testDir: './tests',
   fullyParallel: true,
   forbidOnly: !!process.env.CI,
@@ -22,4 +24,4 @@ export default {
   },
 };
 
-import { devices } from '@playwright/test';
+export default config;

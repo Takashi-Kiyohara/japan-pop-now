@@ -19,39 +19,40 @@ export default function FeedbackForm({
   articleTitle = 'this article',
   tallyFormId = 'wN1K8y', // Placeholder Tally form ID
 }: FeedbackFormProps) {
-  const [helpful, setHelpful] = useState<HelpfulStatus>('pending')
-  const [showExtended, setShowExtended] = useState(false)
-  const [submitted, setSubmitted] = useState(false)
-  const [mounted, setMounted] = useState(false)
+  const [state, setState] = useState<{
+    helpful: HelpfulStatus
+    showExtended: boolean
+    submitted: boolean
+    mounted: boolean
+  }>({ helpful: 'pending', showExtended: false, submitted: false, mounted: false })
 
   const storageKey = `${STORAGE_KEY_PREFIX}${articleSlug}`
 
   // Hydrate from localStorage on mount
   useEffect(() => {
-    setMounted(true)
     const stored = localStorage.getItem(storageKey)
     if (stored) {
-      setHelpful(stored as HelpfulStatus)
-      setSubmitted(true)
+      setState({ helpful: stored as HelpfulStatus, showExtended: false, submitted: true, mounted: true })
+    } else {
+      setState(prev => ({ ...prev, mounted: true }))
     }
-  }, [articleSlug, storageKey])
+  }, [storageKey])
+
+  const { helpful, showExtended, submitted, mounted } = state
 
   const handleHelpful = (value: boolean) => {
     const status = value ? 'yes' : 'no'
-    setHelpful(status)
     localStorage.setItem(storageKey, status)
 
-    // If they said "no", show extended feedback option
     if (!value) {
-      setShowExtended(true)
+      setState(prev => ({ ...prev, helpful: status, showExtended: true }))
     } else {
-      setSubmitted(true)
+      setState(prev => ({ ...prev, helpful: status, submitted: true }))
     }
   }
 
   const handleExtendedSubmit = () => {
-    setSubmitted(true)
-    setShowExtended(false)
+    setState(prev => ({ ...prev, submitted: true, showExtended: false }))
   }
 
   if (!mounted) {
@@ -131,8 +132,7 @@ export default function FeedbackForm({
             </button>
             <button
               onClick={() => {
-                setShowExtended(false)
-                setHelpful('pending')
+                setState(prev => ({ ...prev, showExtended: false, helpful: 'pending' }))
               }}
               className="px-4 py-2 rounded-md bg-gray-200 dark:bg-gray-700 hover:bg-gray-300 dark:hover:bg-gray-600 text-gray-700 dark:text-gray-300 font-medium text-sm transition-colors"
             >

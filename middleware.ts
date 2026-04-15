@@ -5,7 +5,8 @@ export function middleware(request: NextRequest) {
   const response = NextResponse.next()
 
   // Geo-personalization: Set geo cookie from Vercel geo header
-  const country = request.geo?.country || request.headers.get('x-vercel-ip-country') || 'US'
+  // Next.js 16+ removed request.geo — use x-vercel-ip-country header directly
+  const country = request.headers.get('x-vercel-ip-country') || 'US'
   response.cookies.set('jpn-geo', country, {
     path: '/',
     maxAge: 86400 * 7, // 7 days

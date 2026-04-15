@@ -35,22 +35,22 @@ export default function GeoCta({
   className = '',
   showCurrencyNote = true,
 }: GeoCtaProps) {
-  const [region, setRegion] = useState<Region | null>(null)
-  const [mounted, setMounted] = useState(false)
+  const [state, setState] = useState<{ region: Region | null; mounted: boolean }>({
+    region: null,
+    mounted: false,
+  })
 
   useEffect(() => {
-    setMounted(true)
     const geoCountry = getCookie('jpn-geo') || geoConfig.fallback_country
     const detectedRegion = getRegionFromCountry(geoCountry)
-    setRegion(detectedRegion)
+    setState({ region: detectedRegion, mounted: true })
   }, [])
 
-  if (!mounted || !region) {
+  if (!state.mounted || !state.region) {
     return null
   }
 
-  const regionConfig = geoConfig.regions[region]
-  const ctaConfig = geoConfig.cta_positions[type]
+  const regionConfig = geoConfig.regions[state.region]
 
   let url = ''
   let partner = ''
