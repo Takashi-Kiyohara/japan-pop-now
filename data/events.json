@@ -1,6 +1,6 @@
 {
   "version": "2.2",
-  "lastUpdated": "2026-04-12",
+  "lastUpdated": "2026-04-15",
   "events": [
     {
       "id": "chiikawa-bakery-harajuku-2026",
@@ -16,9 +16,18 @@
       "articleSlug": "chiikawa-bakery-harajuku-guide-2026",
       "description": "Permanent character bakery by Nagano. Character-shaped breads (¥580 each), drinks, and exclusive merch. Reservation via Lawson Ticket — ¥1,000 ticket doubles as a shopping voucher.",
       "reservation": "Lawson Ticket (¥1,000 = ¥1,000 shopping voucher)",
-      "tags": ["chiikawa", "bakery", "permanent", "harajuku", "reservation"],
+      "tags": [
+        "chiikawa",
+        "bakery",
+        "permanent",
+        "harajuku",
+        "reservation"
+      ],
       "source": "https://chiikawabakery.jp/en/information/",
-      "lastVerified": "2026-04-12"
+      "lastVerified": "2026-04-12",
+      "genre": "mixed",
+      "badge": "hot",
+      "officialUrl": "https://chiikawabakery.jp/en/information/"
     },
     {
       "id": "detective-conan-cafe-2026",
@@ -34,9 +43,16 @@
       "articleSlug": "detective-conan-cafe-2026-japan-guide",
       "description": "8-city nationwide event. Tokyo runs Shibuya and Solamachi until June 28; Ikebukuro and Osaka until August 2. Port Town Retro theme.",
       "reservation": "Required for most locations",
-      "tags": ["detective-conan", "box-cafe", "multi-city", "summer-2026"],
+      "tags": [
+        "detective-conan",
+        "box-cafe",
+        "multi-city",
+        "summer-2026"
+      ],
       "source": "https://www.box-cafe.jp/",
-      "lastVerified": "2026-04-12"
+      "lastVerified": "2026-04-12",
+      "genre": "shonen",
+      "officialUrl": "https://www.box-cafe.jp/"
     },
     {
       "id": "jujutsu-kaisen-sweets-paradise-2026",
@@ -52,9 +68,17 @@
       "articleSlug": "jujutsu-kaisen-cafes-japan-2026-guide",
       "description": "All-you-can-eat collaboration celebrating JJK's 5th anniversary. Character desserts, themed drinks, limited merchandise at checkout.",
       "reservation": "Walk-in or online seat reservation",
-      "tags": ["jjk", "sweets-paradise", "spring-2026", "buffet"],
+      "tags": [
+        "jjk",
+        "sweets-paradise",
+        "spring-2026",
+        "buffet"
+      ],
       "source": "https://www.sweetsparadise.jp/",
-      "lastVerified": "2026-04-10"
+      "lastVerified": "2026-04-10",
+      "genre": "shonen",
+      "badge": "hot",
+      "officialUrl": "https://www.sweetsparadise.jp/"
     },
     {
       "id": "hololive-cafe-2026-tokyo",
@@ -69,9 +93,15 @@
       "thumbnail": "https://images.unsplash.com/photo-1617196033879-f1ae4b6de2b3?w=300&auto=format&fit=crop",
       "description": "VTuber collaboration cafe rotating through Hololive generation themes. Character drinks (¥880), coasters as random bonuses, voice message boards.",
       "reservation": "Advance ticket via Loppi/Lawson recommended",
-      "tags": ["hololive", "vtuber", "akihabara", "spring-2026"],
+      "tags": [
+        "hololive",
+        "vtuber",
+        "akihabara",
+        "spring-2026"
+      ],
       "source": "https://collabo-cafe.com/",
-      "lastVerified": "2026-04-10"
+      "lastVerified": "2026-04-10",
+      "genre": "vtuber"
     },
     {
       "id": "rilakkuma-cafe-2026-osaka",
@@ -86,9 +116,16 @@
       "thumbnail": "https://images.unsplash.com/photo-1507048331197-7d4ac70811cf?w=300&auto=format&fit=crop",
       "description": "Seasonal camping theme at the Rilakkuma permanent cafe in Osaka. Exclusive spring/summer menu with outdoor character settings.",
       "reservation": "Online booking required",
-      "tags": ["rilakkuma", "sanrio", "osaka", "summer-2026", "permanent"],
+      "tags": [
+        "rilakkuma",
+        "sanrio",
+        "osaka",
+        "summer-2026",
+        "permanent"
+      ],
       "source": "https://collabo-cafe.com/",
-      "lastVerified": "2026-04-10"
+      "lastVerified": "2026-04-10",
+      "genre": "mixed"
     },
     {
       "id": "blue-lock-cafe-2026-tokyo",
@@ -103,9 +140,16 @@
       "thumbnail": "https://images.unsplash.com/photo-1580927752452-89d86da3fa0a?w=300&auto=format&fit=crop",
       "description": "Timed with the Season 2 finale. Character plates, team drink sets, and a photo spot with oversized soccer ball prop.",
       "reservation": "Animate Cafe advance ticket system",
-      "tags": ["blue-lock", "anime-cafe", "akihabara", "spring-2026"],
+      "tags": [
+        "blue-lock",
+        "anime-cafe",
+        "akihabara",
+        "spring-2026"
+      ],
       "source": "https://cafe.animate.co.jp/",
-      "lastVerified": "2026-04-10"
+      "lastVerified": "2026-04-10",
+      "genre": "shonen",
+      "officialUrl": "https://cafe.animate.co.jp/"
     },
     {
       "id": "gintama-chugai-grace-cafe-2026",
@@ -120,9 +164,15 @@
       "thumbnail": "https://images.unsplash.com/photo-1592861956120-e524fc739696?w=300&auto=format&fit=crop",
       "description": "Gintoki, Shinpachi, and Kagura themed collaboration. Special Edo-era inspired food and sake-style drinks (non-alcoholic versions available).",
       "reservation": "Walk-in priority, advance tickets for weekends",
-      "tags": ["gintama", "shibuya", "spring-2026", "chugai-grace"],
+      "tags": [
+        "gintama",
+        "shibuya",
+        "spring-2026",
+        "chugai-grace"
+      ],
       "source": "https://collabo-cafe.com/",
-      "lastVerified": "2026-04-10"
+      "lastVerified": "2026-04-10",
+      "genre": "shonen"
     },
     {
       "id": "yugioh-cafe-2026-akihabara",
@@ -137,9 +187,15 @@
       "thumbnail": "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=300&auto=format&fit=crop",
       "description": "30th anniversary celebration. Duel Monster card-themed menu, exclusive anniversary merch, and a display of original card artwork.",
       "reservation": "Recommended via official site",
-      "tags": ["yugioh", "akihabara", "anniversary", "summer-2026"],
+      "tags": [
+        "yugioh",
+        "akihabara",
+        "anniversary",
+        "summer-2026"
+      ],
       "source": "https://collabo-cafe.com/",
-      "lastVerified": "2026-04-10"
+      "lastVerified": "2026-04-10",
+      "genre": "shonen"
     },
     {
       "id": "larc-en-ciel-cafe-2026",
@@ -154,9 +210,17 @@
       "thumbnail": "https://images.unsplash.com/photo-1468164016375-4547ec8e0f54?w=300&auto=format&fit=crop",
       "description": "The iconic J-rock band's 35th anniversary themed cafe. Memorabilia display, themed cocktails (non-alc versions available), limited merch.",
       "reservation": "Walk-in during off-peak hours",
-      "tags": ["larc-en-ciel", "j-rock", "music", "shibuya", "summer-2026"],
+      "tags": [
+        "larc-en-ciel",
+        "j-rock",
+        "music",
+        "shibuya",
+        "summer-2026"
+      ],
       "source": "https://collabo-cafe.com/",
-      "lastVerified": "2026-04-10"
+      "lastVerified": "2026-04-10",
+      "genre": "mixed",
+      "badge": "niche"
     },
     {
       "id": "my-hero-academia-cafe-2026",
@@ -172,9 +236,17 @@
       "articleSlug": "my-hero-academia-cafe-tokyo-2026",
       "description": "Final season celebration cafe. Hero agency-themed food sets, character voice message boards, plus hero cards as random bonuses with food orders.",
       "reservation": "Animate Cafe advance ticket (Loppi/Lawson)",
-      "tags": ["my-hero-academia", "mha", "ikebukuro", "spring-2026"],
+      "tags": [
+        "my-hero-academia",
+        "mha",
+        "ikebukuro",
+        "spring-2026"
+      ],
       "source": "https://cafe.animate.co.jp/",
-      "lastVerified": "2026-04-10"
+      "lastVerified": "2026-04-10",
+      "genre": "shonen",
+      "badge": "hot",
+      "officialUrl": "https://cafe.animate.co.jp/"
     },
     {
       "id": "spy-x-family-animate-fair-2026",
@@ -190,9 +262,17 @@
       "articleSlug": "tokyo-anime-collab-cafes-spring-2026",
       "description": "Nationwide merchandise fair at all Animate branches. Exclusive goods, character tapestries, and MISSION-themed packaging. No food service.",
       "reservation": "Walk-in",
-      "tags": ["spy-x-family", "animate", "spring-2026", "merchandise"],
+      "tags": [
+        "spy-x-family",
+        "animate",
+        "spring-2026",
+        "merchandise"
+      ],
       "source": "https://cafe.animate.co.jp/",
-      "lastVerified": "2026-04-10"
+      "lastVerified": "2026-04-10",
+      "genre": "shonen",
+      "badge": "hot",
+      "officialUrl": "https://cafe.animate.co.jp/"
     },
     {
       "id": "one-piece-cafe-gene-2026",
@@ -208,9 +288,17 @@
       "articleSlug": "one-piece-tokyo-guide-2026",
       "description": "Permanent One Piece themed cafe-bar at Shibuya PARCO. Rotating seasonal menus tied to story arcs. Reservation via official site on weekends.",
       "reservation": "Recommended for weekends; walk-in weekdays",
-      "tags": ["one-piece", "shibuya", "permanent", "parco"],
+      "tags": [
+        "one-piece",
+        "shibuya",
+        "permanent",
+        "parco"
+      ],
       "source": "https://onepiececafe-gene.com/",
-      "lastVerified": "2026-04-10"
+      "lastVerified": "2026-04-10",
+      "genre": "shonen",
+      "badge": "hot",
+      "officialUrl": "https://onepiececafe-gene.com/"
     },
     {
       "id": "natsume-yuujinchou-popup-2026",
@@ -225,9 +313,17 @@
       "thumbnail": "https://images.unsplash.com/photo-1611532736597-de2d4265fba3?w=300&auto=format&fit=crop",
       "description": "Merchandise-only pop-up. New illustrations, limited edition clear files, acrylic stands, and Nyanko-sensei plushies.",
       "reservation": "Walk-in",
-      "tags": ["natsume-yuujinchou", "pop-up", "shibuya", "merchandise", "spring-2026"],
+      "tags": [
+        "natsume-yuujinchou",
+        "pop-up",
+        "shibuya",
+        "merchandise",
+        "spring-2026"
+      ],
       "source": "https://collabo-cafe.com/",
-      "lastVerified": "2026-04-12"
+      "lastVerified": "2026-04-12",
+      "genre": "shojo",
+      "badge": "niche"
     },
     {
       "id": "anime-japan-2026-big-sight",
@@ -243,9 +339,17 @@
       "articleSlug": "animejapan-2026-guide-international-visitors",
       "description": "The world's largest anime event. 400+ booths, stage events, and exclusive merchandise from every major studio.",
       "reservation": "Day ticket via Lawson Ticket or e+",
-      "tags": ["animejapan", "convention", "big-sight", "spring-2026"],
+      "tags": [
+        "animejapan",
+        "convention",
+        "big-sight",
+        "spring-2026"
+      ],
       "source": "https://www.anime-japan.jp/",
-      "lastVerified": "2026-03-28"
+      "lastVerified": "2026-03-28",
+      "genre": "mixed",
+      "badge": "hot",
+      "officialUrl": "https://www.anime-japan.jp/"
     },
     {
       "id": "krispy-kreme-mario-2026",
@@ -260,9 +364,18 @@
       "thumbnail": "https://images.unsplash.com/photo-1565299507177-b0ac66763828?w=300&auto=format&fit=crop",
       "description": "Mario-themed donuts for a limited spring run. Character-decorated rings available in stores and via online pre-order.",
       "reservation": "Walk-in",
-      "tags": ["mario", "nintendo", "donuts", "krispy-kreme", "spring-2026"],
+      "tags": [
+        "mario",
+        "nintendo",
+        "donuts",
+        "krispy-kreme",
+        "spring-2026"
+      ],
       "source": "https://krispykreme.jp/",
-      "lastVerified": "2026-04-01"
+      "lastVerified": "2026-04-01",
+      "genre": "gaming",
+      "badge": "limited",
+      "officialUrl": "https://krispykreme.jp/"
     },
     {
       "id": "trigun-stargaze-chugai-grace-2026",
@@ -277,9 +390,16 @@
       "thumbnail": "https://images.unsplash.com/photo-1511920170033-f8396924c348?w=300&auto=format&fit=crop",
       "description": "Collaboration cafe at Chugai Grace Cafe featuring TRIGUN STARGAZE themed foods including recreated dishes like omelette rice. Limited merchandise with original artwork.",
       "reservation": "Online reservation required",
-      "tags": ["trigun", "stargaze", "spring-2026", "chugai-grace"],
+      "tags": [
+        "trigun",
+        "stargaze",
+        "spring-2026",
+        "chugai-grace"
+      ],
       "source": "https://collabo-cafe.com/events/collabo/trigun-stargaze-chugai-grace-cafe-shibuya-osaka-2026/",
-      "lastVerified": "2026-04-12"
+      "lastVerified": "2026-04-12",
+      "genre": "seinen",
+      "badge": "niche"
     },
     {
       "id": "idolish7-vol3-animate-cafe-2026",
@@ -294,9 +414,17 @@
       "thumbnail": "https://images.unsplash.com/photo-1518895949257-7621c3c786d7?w=300&auto=format&fit=crop",
       "description": "Phase 3 collaboration 'Re:vale Chaya' themed as a Japanese tea house. Features character-themed Gratte drinks and icing cookies with deformed character illustrations. Random coaster giveaway with each order.",
       "reservation": "Animate Cafe reservation system",
-      "tags": ["idolish7", "animate-cafe", "spring-2026", "multiple-cities"],
+      "tags": [
+        "idolish7",
+        "animate-cafe",
+        "spring-2026",
+        "multiple-cities"
+      ],
       "source": "https://cafe.animate.co.jp/",
-      "lastVerified": "2026-04-12"
+      "lastVerified": "2026-04-12",
+      "genre": "shojo",
+      "badge": "niche",
+      "officialUrl": "https://cafe.animate.co.jp/"
     },
     {
       "id": "yugioh-zexal-anniversary-honpo-2026",
@@ -311,9 +439,17 @@
       "thumbnail": "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=300&auto=format&fit=crop",
       "description": "15th anniversary celebration for Yu-Gi-Oh! ZEXAL. Character-themed menu items, trading card-inspired designs, and anniversary merchandise featuring duel monster imagery.",
       "reservation": "Online booking recommended",
-      "tags": ["yugioh", "zexal", "anniversary", "spring-2026", "honpo-blanc"],
+      "tags": [
+        "yugioh",
+        "zexal",
+        "anniversary",
+        "spring-2026",
+        "honpo-blanc"
+      ],
       "source": "https://collabo-cafe.com/",
-      "lastVerified": "2026-04-12"
+      "lastVerified": "2026-04-12",
+      "genre": "shonen",
+      "badge": "niche"
     },
     {
       "id": "yugioh-duelists-backs-gigo-2026",
@@ -328,9 +464,15 @@
       "thumbnail": "https://images.unsplash.com/photo-1511512578047-dfb367046420?w=300&auto=format&fit=crop",
       "description": "Limited-time Yu-Gi-Oh! themed collaboration at GiGO Cafe with duel-inspired menu offerings and character merchandise. Additional merchandise available at other GiGO locations.",
       "reservation": "Walk-in or advance reservation",
-      "tags": ["yugioh", "gigo-cafe", "spring-2026", "ikebukuro"],
+      "tags": [
+        "yugioh",
+        "gigo-cafe",
+        "spring-2026",
+        "ikebukuro"
+      ],
       "source": "https://collabo-cafe.com/",
-      "lastVerified": "2026-04-12"
+      "lastVerified": "2026-04-12",
+      "genre": "shonen"
     },
     {
       "id": "mha-decotto-animate-ikebukuro-2026",
@@ -346,9 +488,18 @@
       "articleSlug": "my-hero-academia-cafe-tokyo-2026",
       "description": "Waffle Sandwich Diner theme. Sweet and savory waffles inspired by U.A. High School Class 1-A students in diner attire. Random coaster giveaway (13 designs) with each food/drink purchase.",
       "reservation": "Animate Cafe advance booking",
-      "tags": ["my-hero-academia", "mha", "animate-cafe", "spring-2026", "waffles"],
+      "tags": [
+        "my-hero-academia",
+        "mha",
+        "animate-cafe",
+        "spring-2026",
+        "waffles"
+      ],
       "source": "https://essential-japan.com/events/my-hero-academia-diner-themed-pop-up-cafe-at-decot-animate-cafe-ikebukuro-2026/",
-      "lastVerified": "2026-04-12"
+      "lastVerified": "2026-04-12",
+      "genre": "shonen",
+      "badge": "hot",
+      "officialUrl": "https://essential-japan.com/events/my-hero-academia-diner-themed-pop-up-cafe-at-decot-animate-cafe-ikebukuro-2026/"
     },
     {
       "id": "arina-tanemura-30th-anniversary-animate-2026",
@@ -363,9 +514,18 @@
       "thumbnail": "https://images.unsplash.com/photo-1568605117036-5fe5e7bab0b7?w=300&auto=format&fit=crop",
       "description": "30th anniversary celebration of manga artist Arina Tanemura. Collaborative cafe featuring characters from multiple Tanemura series including Phantom Thief Jeanne, Kaichou wa Maid-sama, and more.",
       "reservation": "Animate Cafe reservation system",
-      "tags": ["arina-tanemura", "animate-cafe", "anniversary", "spring-2026", "manga"],
+      "tags": [
+        "arina-tanemura",
+        "animate-cafe",
+        "anniversary",
+        "spring-2026",
+        "manga"
+      ],
       "source": "https://animemaps.com/event/%E7%A8%AE%E6%9D%91%E6%9C%89%E8%8F%9C-30%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E5%B1%95-%E3%81%8D%E3%82%89%E3%82%81%E3%81%8F%E5%B0%91%E5%A5%B3%E3%81%9F%E3%81%A1%E3%81%AE%E5%A4%A2%E7%89%A9%E8%AA%9E-2026/",
-      "lastVerified": "2026-04-12"
+      "lastVerified": "2026-04-12",
+      "genre": "shojo",
+      "badge": "niche",
+      "officialUrl": "https://animemaps.com/event/%E7%A8%AE%E6%9D%91%E6%9C%89%E8%8F%9C-30%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E5%B1%95-%E3%81%8D%E3%82%89%E3%82%81%E3%81%8F%E5%B0%91%E5%A5%B3%E3%81%9F%E3%81%A1%E3%81%AE%E5%A4%A2%E7%89%A9%E8%AA%9E-2026/"
     },
     {
       "id": "sanrio-final-cafe-roppongi-2026",
@@ -380,9 +540,17 @@
       "thumbnail": "https://images.unsplash.com/photo-1557804506-669714d2e9d8?w=300&auto=format&fit=crop",
       "description": "Collaboration cafe for Sanrio Exhibition FINAL ver. at The Sun & The Moon in Mori Tower. Character-themed menu with Hello Kitty, Pompompurin, and other beloved Sanrio characters. Exclusive merchandise available.",
       "reservation": "Online booking recommended",
-      "tags": ["sanrio", "hello-kitty", "roppongi", "summer-2026", "exhibition"],
+      "tags": [
+        "sanrio",
+        "hello-kitty",
+        "roppongi",
+        "summer-2026",
+        "exhibition"
+      ],
       "source": "https://macg.roppongihills.com/en/exhibitions/sanrio-final-ex/",
-      "lastVerified": "2026-04-12"
+      "lastVerified": "2026-04-12",
+      "genre": "mixed",
+      "officialUrl": "https://macg.roppongihills.com/en/exhibitions/sanrio-final-ex/"
     },
     {
       "id": "demon-slayer-full-series-ufotable-2026",
@@ -398,9 +566,17 @@
       "articleSlug": "demon-slayer-cafe-tokyo-2026",
       "description": "'Forged Bonds' theme celebrating the full TV anime series rebroadcast. Menu inspired by the Unwavering Resolve Arc with character-themed dishes and exclusive ufotable merch.",
       "reservation": "Advance reservation recommended",
-      "tags": ["demon-slayer", "ufotable", "spring-2026", "anime"],
+      "tags": [
+        "demon-slayer",
+        "ufotable",
+        "spring-2026",
+        "anime"
+      ],
       "source": "https://www.ufotable.com/en/",
-      "lastVerified": "2026-04-12"
+      "lastVerified": "2026-04-12",
+      "genre": "shonen",
+      "badge": "hot",
+      "officialUrl": "https://www.ufotable.com/en/"
     },
     {
       "id": "kaichou-wa-maidssama-my-charaful-2026",
@@ -415,9 +591,17 @@
       "thumbnail": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=300&auto=format&fit=crop",
       "description": "Limited-time collaboration celebrating Arina Tanemura's manga series. Character-themed menu, merchandise, and seasonal menu updates throughout the long run.",
       "reservation": "Online booking recommended",
-      "tags": ["kaichou-wa-maid-sama", "shoujo", "spring-2026", "summer-2026"],
+      "tags": [
+        "kaichou-wa-maid-sama",
+        "shoujo",
+        "spring-2026",
+        "summer-2026"
+      ],
       "source": "https://www.instagram.com/p/DVcV9Y5kiMa/",
-      "lastVerified": "2026-04-12"
+      "lastVerified": "2026-04-12",
+      "genre": "shojo",
+      "badge": "niche",
+      "officialUrl": "https://www.instagram.com/p/DVcV9Y5kiMa/"
     },
     {
       "id": "oshi-no-ko-vol2-natslive-2026",
@@ -432,9 +616,16 @@
       "thumbnail": "https://images.unsplash.com/photo-1559827260-dc66d52bef19?w=300&auto=format&fit=crop",
       "description": "Vol.2 collaboration at NATSLIVE Cafe Omotesando featuring the idol drama anime. B-Komachi themed menu items, limited merchandise, and exclusive cafe goods.",
       "reservation": "Advance reservation recommended",
-      "tags": ["oshi-no-ko", "anime", "spring-2026", "omotesando"],
+      "tags": [
+        "oshi-no-ko",
+        "anime",
+        "spring-2026",
+        "omotesando"
+      ],
       "source": "https://wanderlog.com/place/details/6365600/natslive-cafe-omotesando",
-      "lastVerified": "2026-04-12"
+      "lastVerified": "2026-04-12",
+      "genre": "seinen",
+      "officialUrl": "https://wanderlog.com/place/details/6365600/natslive-cafe-omotesando"
     }
   ]
 }

@@ -4,15 +4,15 @@
  */
 
 import type { Metadata } from 'next';
-import EventCalendar from '@/components/EventCalendar';
-import { getUpcomingAndOngoing, getCalendarItemListSchema } from '@/lib/events';
+import CalendarBrowser from '@/components/CalendarBrowser';
+import { getUpcomingAndOngoing, getVisibleEvents, getCalendarItemListSchema } from '@/lib/events';
 
 export const revalidate = 3600;
 
 export const metadata: Metadata = {
-  title: 'Anime Collab Cafe Calendar Japan 2026 | Japan Pop Now',
+  title: 'Anime Events & Collab Cafe Calendar Japan 2026 | Japan Pop Now',
   description:
-    'Real-time tracker of anime collaboration cafes open in Japan right now — collab cafes, pop-ups, and permanent venues. Updated weekly. English-language guide.',
+    'Browse every anime collab cafe, pop-up and themed event open across Japan in 2026. Filter by franchise, genre and city — direct links to official booking pages.',
   openGraph: {
     title: 'Anime Collab Cafe Calendar Japan 2026',
     description:
@@ -28,11 +28,9 @@ export const metadata: Metadata = {
 const SITE_URL = 'https://www.japan-pop-now.com';
 
 export default function CalendarPage() {
-  const { ongoing, openingSoon, permanent, recentlyEnded } = getUpcomingAndOngoing(14);
-
-  // JSON-LD: all visible events for AI Overview eligibility
-  const visibleEvents = [...ongoing, ...openingSoon, ...permanent];
-  const schema = getCalendarItemListSchema(visibleEvents, SITE_URL);
+  const { ongoing, openingSoon, permanent } = getUpcomingAndOngoing(14);
+  const allVisible = getVisibleEvents();
+  const schema = getCalendarItemListSchema(allVisible, SITE_URL);
 
   const totalOpen = ongoing.length + permanent.length;
 
@@ -128,12 +126,7 @@ export default function CalendarPage() {
         <div className="calendar-grid" style={{ display: 'grid', gridTemplateColumns: 'minmax(0,1fr) 300px', gap: '2rem', alignItems: 'start' }}>
           {/* Main calendar */}
           <div>
-            <EventCalendar
-              ongoing={ongoing}
-              openingSoon={openingSoon}
-              permanent={permanent}
-              recentlyEnded={recentlyEnded}
-            />
+            <CalendarBrowser events={allVisible} />
           </div>
 
           {/* Sidebar */}

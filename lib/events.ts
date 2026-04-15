@@ -15,6 +15,9 @@ export type EventType =
   | 'collab-food'
   | 'exhibition';
 
+export type EventGenre = 'shonen' | 'shojo' | 'seinen' | 'gaming' | 'vtuber' | 'mixed';
+export type EventBadge = 'hot' | 'new' | 'ending-soon' | 'niche' | 'limited';
+
 export interface CollabEvent {
   id: string;
   ip: string;
@@ -32,6 +35,9 @@ export interface CollabEvent {
   tags: string[];
   source: string;
   lastVerified: string;   // ISO YYYY-MM-DD
+  genre?: EventGenre;
+  badge?: EventBadge;
+  officialUrl?: string;   // English/official event page (preferred over `source` for outbound)
 }
 
 // ─── Module-level cache ────────────────────────────────────────────────────────
@@ -129,6 +135,15 @@ export function getEventLink(event: CollabEvent): { href: string; isInternal: bo
     return { href: `/articles/${event.articleSlug}`, isInternal: true };
   }
   return { href: event.source, isInternal: false };
+}
+
+// ─── Visible/sorted list for client browser ────────────────────────────────────
+export function getVisibleEvents(today: Date = new Date()): CollabEvent[] {
+  const DAY = 86_400_000;
+  const cutoff = today.getTime() - 10 * DAY;
+  return getAllEvents()
+    .filter((e) => isPermanent(e) || new Date(e.endDate).getTime() >= cutoff)
+    .sort((a, b) => a.startDate.localeCompare(b.startDate));
 }
 
 // ─── JSON-LD ───────────────────────────────────────────────────────────────────
