@@ -6,6 +6,7 @@ import AffiliateCTA from './AffiliateCTA';
 import InlineNewsletter from './InlineNewsletter';
 import { insertInternalLinks } from '@/lib/internal-links';
 import { getAllArticles } from '@/lib/articles';
+import { getAffiliateProductForCategory } from '@/lib/affiliate-map';
 import { mdxComponents } from './mdx-components';
 
 /** MDX compiler options — remark-gfm enables GFM tables, strikethrough, autolinks */
@@ -32,8 +33,11 @@ export default function ArticleBody({ content, category, slug, relatedSuggestion
   // Split on h2 headings to insert between sections
   const sections = processedContent.split(/(?=^## )/m);
 
-  // Determine affiliate CTA based on category
-  const affiliateCTA = getAffiliateCTAForCategory(category);
+  // Determine affiliate CTA based on category (centralized in lib/affiliate-map)
+  const affiliateProduct = getAffiliateProductForCategory(category);
+  const affiliateCTA = affiliateProduct
+    ? { ...affiliateProduct, category }
+    : null;
 
   // If article is short (< 3 sections), render without inline ads
   if (sections.length <= 3) {
@@ -58,6 +62,19 @@ export default function ArticleBody({ content, category, slug, relatedSuggestion
 
   return (
     <>
+      {affiliateCTA && (
+        <p
+          className="not-prose"
+          style={{
+            fontSize: '0.78rem',
+            color: '#6b7280',
+            fontStyle: 'italic',
+            marginBottom: '1rem',
+          }}
+        >
+          This guide includes affiliate links. We earn a small commission at no extra cost to you.
+        </p>
+      )}
       {sections.map((section, i) => (
         <div key={i}>
           <div className="prose prose-lg" style={{ maxWidth: 'none' }}>
@@ -124,53 +141,11 @@ export default function ArticleBody({ content, category, slug, relatedSuggestion
           )}
         </div>
       ))}
+      {affiliateCTA && (
+        <div className="not-prose">
+          <AffiliateCTA {...affiliateCTA} variant="end" />
+        </div>
+      )}
     </>
   );
-}
-
-function getAffiliateCTAForCategory(category: string) {
-  switch (category) {
-    case 'collab-cafes':
-      return {
-        icon: '🎫',
-        title: 'Skip the Booking Hassle',
-        description: 'Book anime collab cafe experiences and skip-the-line tickets through Klook — English support, free cancellation on most bookings.',
-        buttonText: 'Browse Anime Experiences',
-        href: 'https://www.klook.com/en-US/search/?query=anime+collab+cafe+experience+tokyo&aff_id=' + (process.env.NEXT_PUBLIC_KLOOK_AFF_ID || ''),
-        program: 'klook' as const,
-        category: 'collab-cafes',
-      };
-    case 'anime-pilgrimage':
-      return {
-        icon: '🚅',
-        title: 'Get There by Rail',
-        description: 'The Japan Rail Pass covers most pilgrimage routes. Compare 7, 14, and 21-day options — prices recently dropped.',
-        buttonText: 'Compare JR Pass Prices',
-        href: 'https://www.klook.com/en-US/activity/1523-japan-rail-pass-jr-pass?aff_id=' + (process.env.NEXT_PUBLIC_KLOOK_AFF_ID || ''),
-        program: 'klook' as const,
-        category: 'anime-pilgrimage',
-      };
-    case 'area-guides':
-      return {
-        icon: '🏨',
-        title: 'Stay Near the Action',
-        description: 'Find hotels in the best anime districts — from ¥3,000/night capsule hotels to themed rooms. Free cancellation on most bookings.',
-        buttonText: 'Search Hotels',
-        href: 'https://www.booking.com/searchresults.html?ss=Ikebukuro%2C+Tokyo&aid=' + (process.env.NEXT_PUBLIC_BOOKING_AFF_ID || ''),
-        program: 'booking' as const,
-        category: 'area-guides',
-      };
-    case 'travel-tips':
-      return {
-        icon: '📱',
-        title: 'Stay Connected in Japan',
-        description: 'Get an eSIM before you land — instant activation, no physical SIM swap needed. Data plans from ¥1,000 for 7 days.',
-        buttonText: 'Compare eSIM Plans',
-        href: 'https://www.klook.com/en-US/activity/109393-japan-esim-high-speed-internet-qr-code-voucher?aff_id=' + (process.env.NEXT_PUBLIC_KLOOK_AFF_ID || ''),
-        program: 'klook' as const,
-        category: 'travel-tips',
-      };
-    default:
-      return null;
-  }
 }
