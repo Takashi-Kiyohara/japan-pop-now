@@ -110,5 +110,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
     };
   });
 
-  return [...staticPages, ...articlePages, ...categoryPages, ...guidePages, ...tagPages];
+  const all = [...staticPages, ...articlePages, ...categoryPages, ...guidePages, ...tagPages];
+  return all.filter((u) => !u.url.includes('/tags/'));
 }

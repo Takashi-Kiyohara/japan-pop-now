@@ -1,4 +1,4 @@
-import { getAllArticles, CATEGORIES } from '@/lib/articles';
+﻿import { getAllArticles, CATEGORIES } from '@/lib/articles';
 import ArticleCard from '@/components/ArticleCard';
 import FeaturedCarousel from '@/components/FeaturedCarousel';
 import CategoryStrip from '@/components/CategoryStrip';
@@ -13,9 +13,11 @@ export const revalidate = 3600;
 function SectionHeader({
   title,
   viewAllHref,
+  linkText,
 }: {
   title: string;
   viewAllHref?: string;
+  linkText?: string;
 }) {
   return (
     <div className="flex items-center justify-between mb-8">
@@ -39,7 +41,7 @@ function SectionHeader({
           className="text-sm font-semibold hover:opacity-70 transition-opacity flex items-center gap-1"
           style={{ color: '#f97316' }}
         >
-          View all
+          {linkText || "View all"}
           <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="2.5">
             <path d="M5 12h14M12 5l7 7-7 7" />
           </svg>
