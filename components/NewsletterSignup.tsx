@@ -61,6 +61,7 @@ export default function NewsletterSignup({
         <form onSubmit={handleSubmit} className="space-y-2">
           <input
             type="email"
+            aria-label="Email address"
             placeholder="your@email.com"
             value={email}
             onChange={(e) => setEmail(e.target.value)}
@@ -113,6 +114,7 @@ export default function NewsletterSignup({
         <form onSubmit={handleSubmit} className="flex flex-col sm:flex-row gap-3 max-w-md mx-auto">
           <input
             type="email"
+            aria-label="Email address"
             placeholder="your@email.com"
             value={email}
             onChange={(e) => setEmail(e.target.value)}
