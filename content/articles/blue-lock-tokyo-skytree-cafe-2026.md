@@ -4,21 +4,19 @@ slug: "blue-lock-tokyo-skytree-cafe-2026"
 date: "2026-04-22"
 lastUpdated: "2026-04-22"
 author: "Takapon"
-category: "collab-cafe"
+category: "collab-cafes"
 tags: ["blue-lock", "tokyo-skytree", "collab-cafe", "anime-exhibition", "2026-spring", "akihabara", "shibuya"]
 featuredImage: "/images/articles/blue-lock-tokyo-skytree-cafe-2026/featured.jpg"
 featuredImageAlt: "Official BLUE LOCK EPISODE SKY key visual showing characters against the Tokyo Skytree backdrop"
 imageCredit: "Key visual: TOKYO SKYTREE / Kodansha"
-featuredImageAlt: "Tokyo Skytree street view — venue for the Blue Lock EPISODE SKY collaboration event"
-imageCredit: "Photo: Unsplash"
 relatedSlugs: ["tokyo-anime-collab-cafes-spring-2026", "how-to-book-anime-collab-cafe-japan", "akihabara-complete-guide-2026", "anime-day-trips-from-tokyo-2026"]
 excerpt: "Three Blue Lock events are running simultaneously in Tokyo right now — a Skytree observation deck takeover, an Akihabara collab cafe, and the EGOIST Exhibition finale in Shibuya. Here's how to hit all three in one day without wasting time or money."
-description: "Visit 3 Blue Lock events in Tokyo: Skytree collab (Apr 9-Jul 6), Akihabara cafe (Apr 15-May 24), and Shibuya exhibition (Apr 24-May 10). Tickets, menus, and route guide."
+description: "Visit 3 Blue Lock events in Tokyo: Skytree collab (Apr 9-Jul 6), Akihabara cafe (Apr 15-May 24), and Shibuya exhibition (Apr 24-May 10). Tickets, menus, and ..."
 ---
 
-<p><em>Last lastUpdated: April 2026.</em></p>
+<p><em>Last updated: April 2026.</em></p>
 
-<div class="jpn-tip"><strong>Disclosure:</strong> This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you.</div>
+<div className="jpn-tip"><strong>Disclosure:</strong> This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you.</div>
 
 ![Official BLUE LOCK EPISODE SKY promotional key visual for the Tokyo Skytree collaboration event](/images/articles/blue-lock-tokyo-skytree-cafe-2026/featured.jpg)
 *BLUE LOCK EPISODE SKY official key visual — Image: TOKYO SKYTREE / Kodansha*
@@ -54,7 +52,7 @@ Tokyo doesn't usually get three events from the same franchise running at once. 
 
 Here's the full price breakdown across all three venues.
 
-<div class="jpn-info-box">
+<div className="jpn-info-box">
 
 | Event | Advance | Day-of | Notes |
 |-------|---------|--------|-------|
@@ -66,7 +64,7 @@ Here's the full price breakdown across all three venues.
 
 **The money math:** Skytree ticket (**3,300 yen**) + Exhibition advance (**1,800 yen**) + Cafe Honpo food and drink (**1,550 yen** minimum) + Skytree Cafe items (**1,100-1,650 yen**) + transit (**~600 yen**) = roughly **8,350 to 10,000 yen** before merch. Budget an extra **3,000 to 5,000 yen** if you want goods — Skytree merch ranges from **440 to 12,100 yen**.
 
-<div class="jpn-tip">
+<div className="jpn-tip">
 <strong>Pro tip:</strong> Buy Skytree tickets through Klook for English-language booking and instant confirmation. The official Seven Ticket system is Japanese-only and requires a Japanese convenience store pickup. Klook lets you skip that entirely.
 </div>
 
@@ -131,7 +129,7 @@ The **acrylic art plate ticket** at **4,300 yen** bundles your entry with an exc
 
 The Honey Lemon cafe line features characters in bee-antenna costumes. Exclusive to this collaboration. Acrylic stands, clear files, and can badges available at the venue.
 
-<div class="jpn-warning">
+<div className="jpn-warning">
 <strong>Heads up:</strong> Skytree merch sells out fast on weekends. If you want specific items, go on a weekday or arrive when the shop opens. The Floor 345 shop follows Skytree operating hours.
 </div>
 
@@ -205,7 +203,7 @@ Blue Lock isn't just another sports anime — it inverted the entire genre formu
 
 ## More Collab Cafe & Event Guides
 
-<div class="jpn-tip">
+<div className="jpn-tip">
 <strong>Planning more anime stops in Tokyo?</strong> Many of these venues are within easy train reach of each other. Check our area guides for full itineraries.
 </div>
 
@@ -215,6 +213,6 @@ Blue Lock isn't just another sports anime — it inverted the entire genre formu
 - [Anime Day Trips from Tokyo 2026](/anime-day-trips-from-tokyo-2026/) — full-day itineraries combining multiple events
 - [Japan IC Card Transit Guide](/japan-ic-card-transit-guide/) — how to use Suica/PASMO to get between all 3 venues
 
-<div class="jpn-cta"><p><strong>Book your <a href="https://www.klook.com/en-US/activity/41352-tokyo-skytree/" rel="nofollow" target="_blank">Tokyo Skytree tickets on Klook</a></strong> — skip the Japanese-only booking system and get instant English confirmation for the Blue Lock EPISODE SKY event.</p></div>
+<div className="jpn-cta"><p><strong>Book your <a href="https://www.klook.com/en-US/activity/41352-tokyo-skytree/" rel="nofollow" target="_blank">Tokyo Skytree tickets on Klook</a></strong> — skip the Japanese-only booking system and get instant English confirmation for the Blue Lock EPISODE SKY event.</p></div>
 
-<div class="jpn-cta"><p><strong>Follow <a href="https://www.threads.net/@japan_pop_now" rel="nofollow" target="_blank">@japan_pop_now on Threads</a></strong> for daily Tokyo pop culture updates and event alerts.</p></div>
+<div className="jpn-cta"><p><strong>Follow <a href="https://www.threads.net/@japan_pop_now" rel="nofollow" target="_blank">@japan_pop_now on Threads</a></strong> for daily Tokyo pop culture updates and event alerts.</p></div>
