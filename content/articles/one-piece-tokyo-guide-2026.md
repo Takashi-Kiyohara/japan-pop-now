@@ -259,7 +259,6 @@ Once you've conquered the One Piece locations, explore these related Tokyo shopp
 
 ## Never Miss a Cafe Opening or Anime Event
 
-![Never Miss a Cafe Opening or Anime Event — One Piece Tokyo Guide 2026](/images/articles/one-piece-tokyo-guide-2026/8.jpg)
 
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.
 

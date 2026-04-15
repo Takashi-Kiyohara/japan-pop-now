@@ -257,7 +257,6 @@ Planning a trip to Tokyo?
 
 ## Never Miss a Cafe Opening or Anime Event
 
-![Never Miss a Cafe Opening or Anime Event — Tokyo Anime Collab Cafes Summer 2026](/images/articles/tokyo-anime-collab-cafes-summer-2026/6.jpg)
 
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.
 

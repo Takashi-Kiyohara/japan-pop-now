@@ -242,7 +242,6 @@ Limited dedicated shops. Anime collaborations rotate seasonally. Check official 
 
 ## Never Miss a Cafe Opening or Anime Event
 
-![Never Miss a Cafe Opening or Anime Event — Slam Dunk Kamakura Pilgrimage 2026](/images/articles/slam-dunk-kamakura-pilgrimage-2026/7.jpg)
 
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.
 

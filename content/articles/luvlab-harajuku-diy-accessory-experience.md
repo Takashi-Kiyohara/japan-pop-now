@@ -6,11 +6,11 @@ category: "area-guides"
 tags: ["harajuku", "diy-experience", "shopping", "accessories", "2026-spring"]
 date: "2026-04-15"
 updated: "2026-04-15"
-featured: "/images/articles/luvlab-harajuku/hero.webp"
-featuredImage: "/images/articles/luvlab-harajuku/hero.webp"
-featuredImageAlt: "LuvLab Harajuku store interior with neon sign and crafting stations"
-heroImage: "/images/articles/luvlab-harajuku/hero.webp"
-heroImageAlt: "LuvLab Harajuku store interior with neon sign and crafting stations"
+featured: "/images/articles/luvlab-harajuku/interior-wide.webp"
+featuredImage: "/images/articles/luvlab-harajuku/interior-wide.webp"
+featuredImageAlt: "LuvLab Harajuku store wide interior with LUVLAB neon sign, disco ball, and product display wall"
+heroImage: "/images/articles/luvlab-harajuku/interior-wide.webp"
+heroImageAlt: "LuvLab Harajuku store wide interior with LUVLAB neon sign, disco ball, and product display wall"
 imageCredit: "Photos by Japan Pop Now"
 author: "Takapon"
 excerpt: "LuvLab Harajuku opened April 10, 2026 — a walk-in DIY accessory workshop 2 minutes from JR Harajuku Station where you can make Italian charm watches, snake bracelets, custom keyboard keychains, and lip chains starting from just 300 yen."
@@ -20,8 +20,8 @@ spotlightExpiry: "2026-05-15"
 
 <p><em>Last updated: April 2026.</em></p>
 
-![LuvLab Harajuku store interior with neon sign and crafting displays](/images/articles/luvlab-harajuku/hero.webp)
-*LuvLab Harajuku — a minimalist white-and-black space with a neon sign and walls lined with hundreds of charm options.*
+![Colorful mechanical keycaps organized in display trays at LuvLab Harajuku](/images/articles/luvlab-harajuku/keycap-wall.webp)
+*Hundreds of keycap designs to choose from — Hello Kitty, emoji faces, food motifs, anime characters, and more.*
 
 **LuvLab Harajuku opened on April 10, 2026, just a 2-minute walk from JR Harajuku Station's Takeshita Exit.** With 5 different craft experiences starting from 300 yen and no reservation required, it fills a gap that most Harajuku shopping guides miss: a place where you actually *make* the souvenir instead of buying one off the shelf. I stopped by on opening week, spent about 40 minutes building a custom keyboard keychain, and walked out with something I can't find anywhere else.
 
@@ -40,6 +40,9 @@ LuvLab offers 5 core experiences, each with a different price point and time com
 *A finished Italian charm watch showing the range of charm options available at LuvLab.*
 
 **Snake Bracelets** are a Harajuku-exclusive item you can't get at the Shibuya or Yokohama locations. These Pandora-style bracelets use a snake chain base with clip-on charms — skulls, hearts, crystals, flowers. The base set comes with 3 parts, and you add extras at 300-800 yen each.
+
+![Snake bracelet showing detailed charm arrangement](/images/articles/luvlab-harajuku/product-snake-bracelet.webp)
+*A close-up of a finished snake bracelet displaying the variety of charms and the quality of construction.*
 
 **Custom Keyboard Keychains** are the entry-level craft and the most Instagram-friendly. Pick 3-4 colorful mechanical keycaps from a wall of 100+ designs (Hello Kitty, emoji faces, food motifs, anime characters), snap them onto a keychain bar, and add dangling charm accessories.
 
@@ -132,9 +135,6 @@ Snake bracelets are the Harajuku-exclusive item and the one that draws the most 
 
 ![Snake bracelets held up with Harajuku Takeshita Street in the background](/images/articles/luvlab-harajuku/bracelet-harajuku.webp)
 *Fresh out of LuvLab — bracelets against the Takeshita Street backdrop, about 30 seconds from the store.*
-
-![Snake bracelet showing detailed charm arrangement](/images/articles/luvlab-harajuku/product-snake-bracelet.webp)
-*A close-up of a finished snake bracelet displaying the variety of charms and the quality of construction.*
 
 ## Why Japanese Trend-Setters Love This
 

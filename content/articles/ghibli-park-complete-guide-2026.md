@@ -253,7 +253,6 @@ Yes. The surrounding Expo 2005 park has open lawn areas where you can eat packed
 
 ## Never Miss a Cafe Opening or Anime Event
 
-![Never Miss a Cafe Opening or Anime Event — Ghibli Park Complete Guide 2026](/images/articles/ghibli-park-complete-guide-2026/7.jpg)
 
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.
 

@@ -211,8 +211,24 @@ h1, h2, h3 {
   border-radius: 0.75rem !important;
   overflow: hidden;
 }
-.prose > table:first-of-type thead,
-.jpn-info-box table thead { display: none !important; }
+/* Hide header row ONLY for the at-a-glance first table (key-value, 2 cols).
+   jpn-info-box tables now SHOW headers with warm-orange accent. */
+.prose > table:first-of-type thead { display: none !important; }
+
+/* Info-box table headers: warm orange accent matching the box border.
+   Darkened to #c2410c/#9a3412 for WCAG AA (4.67:1+ with white text). */
+.jpn-info-box table thead tr {
+  background: linear-gradient(135deg, #c2410c 0%, #9a3412 100%) !important;
+}
+.jpn-info-box table th {
+  color: #fff !important;
+  font-size: 0.75rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  text-transform: uppercase;
+  padding: 0.5rem 1rem !important;
+  border-bottom: none !important;
+}
 
 .prose > table:first-of-type td,
 .jpn-info-box table td {

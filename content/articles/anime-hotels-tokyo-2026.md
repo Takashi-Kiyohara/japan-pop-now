@@ -296,7 +296,6 @@ The manga cafe option isn't comfortable, but it's very Tokyo and very cheap. Som
 
 ## Related Guides
 
-![Related Guides — Best Anime Hotels Tokyo 2026](/images/articles/anime-hotels-tokyo-2026/7.jpg "Links to related Tokyo anime tourism guides")
 
 - [Akihabara Complete Guide 2026: Anime, Gaming & Merch](/articles/akihabara-complete-guide-2026/)
 - [Ikebukuro Anime Tourism: Manga Stores, Galleries & Cafes](/articles/ikebukuro-anime-guide-2026/)

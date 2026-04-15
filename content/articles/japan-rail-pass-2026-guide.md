@@ -429,7 +429,6 @@ Go to the ticket counter before you travel. Show your pass. Say which train you 
 
 ## Related Guides
 
-![Related Guides — Japan Rail Pass 2026](/images/articles/japan-rail-pass-2026-guide/8.jpg)
 
 Complete your Japan trip planning with these guides:
 

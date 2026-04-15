@@ -51,7 +51,7 @@ That scale matters. It means you should not treat AnimeJapan like a quick stop b
 
 ![How to get to AnimeJapan 2026 — AnimeJapan 2026 Guide for International Visitors](/images/articles/animejapan-2026-guide-international-visitors/2.jpg "Transit map showing Yurikamome and Rinkai Line to Tokyo Big Sight")
 
-For most international visitors, there are two straightforward rail approaches:
+For most international visitors, there are two simple rail approaches:
 
 | **Route** | **Nearest Stop** | **Walk Time** | **Best When** |
 | --- | --- | --- | --- |
@@ -179,8 +179,6 @@ No. AnimeJapan has free general admission for international visitors. Just show 
 Yes, but always ask first. Many cosplayers appreciate fan photos but may decline. Respect signs posted at booths.
 
 ## Where to Go Next on Japan Pop Now
-
-![Where to go next on Japan Pop Now — AnimeJapan 2026 Guide for International Visitors](/images/articles/animejapan-2026-guide-international-visitors/4.jpg "Links and recommendations to other Japan Pop Now guides")
 
 - **Tokyo Anime Collab Cafes Spring 2026** for seasonal cafe planning
 - **Find by Anime in Japan 2026** if you want to build your itinerary around a specific series

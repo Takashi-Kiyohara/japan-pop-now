@@ -155,7 +155,6 @@ They serve different purposes. Universal Cool Japan is better if you want a larg
 
 ## Where to go next on Japan Pop Now
 
-![Where to go next on Japan Pop Now — Universal Cool Japan 2026 Guide](/images/articles/universal-cool-japan-2026-guide/4.jpg)
 
 
 - **Find by Anime in Japan 2026** if you want to build the rest of your trip around one franchise

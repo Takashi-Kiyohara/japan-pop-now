@@ -298,7 +298,6 @@ The best luggage strategy is having less luggage. If you travel with just a carr
 
 ## Related Guides
 
-![Related Guides — Japan Luggage Forwarding 2026](/images/articles/japan-luggage-forwarding-2026/6.jpg)
 
 - [Japan IC Card Transit Guide: SUICA, PASMO, and Why You Need One](/articles/japan-ic-card-transit-guide/)
 - [Anime Merch Shopping Guide: Akihabara, Ikebukuro, Shibuya 2026](/articles/anime-merch-shopping-guide-japan/)
