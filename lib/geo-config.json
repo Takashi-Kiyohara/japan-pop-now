@@ -1,0 +1,75 @@
+{
+  "regions": {
+    "NA": {
+      "countries": ["US", "CA"],
+      "label": "North America",
+      "esim_partner": "Airalo",
+      "esim_url": "https://www.airalo.com/japan-esim?ref=japanpopnow",
+      "esim_cta": "Get Japan eSIM",
+      "hotel_partner": "Booking.com",
+      "hotel_url": "https://www.booking.com/searchresults.html?ss=Japan&ref=japanpopnow",
+      "transport_partner": "Klook",
+      "transport_url": "https://www.klook.com/en-US/activity/search/?query=Japan&ref=japanpopnow",
+      "currency_jpy_to_local": 155,
+      "currency_code": "USD",
+      "currency_symbol": "$",
+      "timezone": "America/New_York"
+    },
+    "EU": {
+      "countries": [
+        "GB", "DE", "FR", "IT", "ES", "NL", "SE", "NO", "DK",
+        "FI", "IE", "CH", "AT", "BE", "PT", "GR", "CZ", "HU",
+        "PL", "RO", "BG", "HR", "SI", "SK", "CY", "LT", "LV", "EE"
+      ],
+      "label": "Europe",
+      "esim_partner": "Ubigi",
+      "esim_url": "https://www.ubigi.com/en/japan-esim?ref=japanpopnow",
+      "esim_cta": "Get Japan eSIM",
+      "hotel_partner": "Agoda",
+      "hotel_url": "https://www.agoda.com/search/results/?query=Japan&ref=japanpopnow",
+      "transport_partner": "JR East",
+      "transport_url": "https://www.jreast.co.jp/en/index.html",
+      "currency_jpy_to_local": 195,
+      "currency_code": "GBP",
+      "currency_symbol": "£",
+      "timezone": "Europe/London"
+    },
+    "APAC": {
+      "countries": [
+        "AU", "NZ", "SG", "HK", "TW", "KR", "TH", "MY", "PH",
+        "ID", "VN", "MM", "KH", "LA", "BD", "IN", "PK", "LK"
+      ],
+      "label": "Asia Pacific",
+      "esim_partner": "Airalo",
+      "esim_url": "https://www.airalo.com/japan-esim?ref=japanpopnow",
+      "esim_cta": "Get Japan eSIM",
+      "hotel_partner": "Agoda",
+      "hotel_url": "https://www.agoda.com/search/results/?query=Japan&ref=japanpopnow",
+      "transport_partner": "Klook",
+      "transport_url": "https://www.klook.com/en-AU/activity/search/?query=Japan&ref=japanpopnow",
+      "currency_jpy_to_local": 100,
+      "currency_code": "AUD",
+      "currency_symbol": "A$",
+      "timezone": "Australia/Sydney"
+    }
+  },
+  "default": "NA",
+  "fallback_country": "US",
+  "cta_positions": {
+    "esim": {
+      "label": "Japan eSIM",
+      "priority": 1,
+      "show_currency_note": true
+    },
+    "hotel": {
+      "label": "Accommodation",
+      "priority": 2,
+      "show_currency_note": false
+    },
+    "transport": {
+      "label": "Transport & Tours",
+      "priority": 3,
+      "show_currency_note": false
+    }
+  }
+}
