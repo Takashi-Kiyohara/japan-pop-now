@@ -1,15 +1,49 @@
 'use client'
 
-import { useState, useEffect } from 'react'
+import { useReducer, useEffect } from 'react'
 import { ThumbsUp, ThumbsDown, MessageCircle } from 'lucide-react'
 
 interface FeedbackFormProps {
   articleSlug: string
   articleTitle?: string
-  tallyFormId?: string // Tally.so form ID, e.g., 'wN1K8y'
+  tallyFormId?: string
 }
 
 type HelpfulStatus = 'pending' | 'yes' | 'no'
+
+interface State {
+  helpful: HelpfulStatus
+  showExtended: boolean
+  submitted: boolean
+  mounted: boolean
+}
+
+type Action =
+  | { type: 'MOUNT'; stored: string | null }
+  | { type: 'VOTE_YES' }
+  | { type: 'VOTE_NO' }
+  | { type: 'SUBMIT_EXTENDED' }
+  | { type: 'CANCEL' }
+
+function reducer(state: State, action: Action): State {
+  switch (action.type) {
+    case 'MOUNT':
+      if (action.stored) {
+        return { ...state, helpful: action.stored as HelpfulStatus, submitted: true, mounted: true }
+      }
+      return { ...state, mounted: true }
+    case 'VOTE_YES':
+      return { ...state, helpful: 'yes', submitted: true }
+    case 'VOTE_NO':
+      return { ...state, helpful: 'no', showExtended: true }
+    case 'SUBMIT_EXTENDED':
+      return { ...state, submitted: true, showExtended: false }
+    case 'CANCEL':
+      return { ...state, showExtended: false, helpful: 'pending' }
+    default:
+      return state
+  }
+}
 
 const STORAGE_KEY_PREFIX = 'jpn-feedback-'
 const TALLY_EMBED_BASE = 'https://tally.so/embed/'
@@ -17,53 +51,37 @@ const TALLY_EMBED_BASE = 'https://tally.so/embed/'
 export default function FeedbackForm({
   articleSlug,
   articleTitle = 'this article',
-  tallyFormId = 'wN1K8y', // Placeholder Tally form ID
+  tallyFormId = 'wN1K8y',
 }: FeedbackFormProps) {
-  const [state, setState] = useState<{
-    helpful: HelpfulStatus
-    showExtended: boolean
-    submitted: boolean
-    mounted: boolean
-  }>({ helpful: 'pending', showExtended: false, submitted: false, mounted: false })
-
   const storageKey = `${STORAGE_KEY_PREFIX}${articleSlug}`
 
-  // Hydrate from localStorage on mount
+  const [state, dispatch] = useReducer(reducer, {
+    helpful: 'pending',
+    showExtended: false,
+    submitted: false,
+    mounted: false,
+  })
+
   useEffect(() => {
     const stored = localStorage.getItem(storageKey)
-    if (stored) {
-      setState({ helpful: stored as HelpfulStatus, showExtended: false, submitted: true, mounted: true })
-    } else {
-      setState(prev => ({ ...prev, mounted: true }))
-    }
+    dispatch({ type: 'MOUNT', stored })
   }, [storageKey])
-
-  const { helpful, showExtended, submitted, mounted } = state
 
   const handleHelpful = (value: boolean) => {
     const status = value ? 'yes' : 'no'
     localStorage.setItem(storageKey, status)
-
-    if (!value) {
-      setState(prev => ({ ...prev, helpful: status, showExtended: true }))
-    } else {
-      setState(prev => ({ ...prev, helpful: status, submitted: true }))
-    }
+    dispatch(value ? { type: 'VOTE_YES' } : { type: 'VOTE_NO' })
   }
 
-  const handleExtendedSubmit = () => {
-    setState(prev => ({ ...prev, submitted: true, showExtended: false }))
-  }
-
-  if (!mounted) {
+  if (!state.mounted) {
     return null
   }
 
-  if (submitted) {
+  if (state.submitted) {
     return (
       <div className="jpn-info-box mt-8 rounded-lg bg-gradient-to-r from-green-50 to-emerald-50 dark:from-green-950 dark:to-emerald-950 border border-green-200 dark:border-green-800 p-4">
         <p className="text-sm font-medium text-green-800 dark:text-green-200">
-          {helpful === 'yes'
+          {state.helpful === 'yes'
             ? 'Thanks for the feedback! Glad we could help.'
             : 'Thanks for the feedback. We\'ll use it to improve.'}
         </p>
@@ -104,7 +122,7 @@ export default function FeedbackForm({
         </div>
       </div>
 
-      {showExtended && (
+      {state.showExtended && (
         <div className="mt-4 pt-4 border-t border-gray-300 dark:border-gray-700">
           <div className="mb-3">
             <label htmlFor="feedback-text" className="block text-sm font-medium text-gray-700 dark:text-gray-300 mb-2">
@@ -119,21 +137,19 @@ export default function FeedbackForm({
               maxLength={500}
             />
             <p className="text-xs text-gray-500 dark:text-gray-400 mt-1">
-              Optional • 500 char limit
+              Optional
             </p>
           </div>
 
           <div className="flex gap-2">
             <button
-              onClick={handleExtendedSubmit}
+              onClick={() => dispatch({ type: 'SUBMIT_EXTENDED' })}
               className="px-4 py-2 rounded-md bg-orange-500 hover:bg-orange-600 text-white font-medium text-sm transition-colors"
             >
               Send Feedback
             </button>
             <button
-              onClick={() => {
-                setState(prev => ({ ...prev, showExtended: false, helpful: 'pending' }))
-              }}
+              onClick={() => dispatch({ type: 'CANCEL' })}
               className="px-4 py-2 rounded-md bg-gray-200 dark:bg-gray-700 hover:bg-gray-300 dark:hover:bg-gray-600 text-gray-700 dark:text-gray-300 font-medium text-sm transition-colors"
             >
               Cancel
@@ -142,7 +158,6 @@ export default function FeedbackForm({
         </div>
       )}
 
-      {/* Tally.so embedded form (hidden, auto-submit friendly) */}
       <iframe
         data-tally-src={`${TALLY_EMBED_BASE}${tallyFormId}?alignement=left&hideTitle=true&transparentBackground=true&dynamicHeight=true&articleSlug=${encodeURIComponent(articleSlug)}`}
         width="100%"

@@ -1,6 +1,6 @@
 'use client'
 
-import { useEffect, useState } from 'react'
+import { useReducer, useEffect } from 'react'
 import { ExternalLink } from 'lucide-react'
 import geoConfig from '@/lib/geo-config.json'
 
@@ -11,6 +11,11 @@ interface GeoCtaProps {
   type: CtaType
   className?: string
   showCurrencyNote?: boolean
+}
+
+interface State {
+  region: Region | null
+  mounted: boolean
 }
 
 function getRegionFromCountry(country: string): Region {
@@ -35,15 +40,15 @@ export default function GeoCta({
   className = '',
   showCurrencyNote = true,
 }: GeoCtaProps) {
-  const [state, setState] = useState<{ region: Region | null; mounted: boolean }>({
-    region: null,
-    mounted: false,
-  })
+  const [state, dispatch] = useReducer(
+    (_prev: State, action: State) => action,
+    { region: null, mounted: false }
+  )
 
   useEffect(() => {
     const geoCountry = getCookie('jpn-geo') || geoConfig.fallback_country
     const detectedRegion = getRegionFromCountry(geoCountry)
-    setState({ region: detectedRegion, mounted: true })
+    dispatch({ region: detectedRegion, mounted: true })
   }, [])
 
   if (!state.mounted || !state.region) {
@@ -92,7 +97,7 @@ export default function GeoCta({
 
       {showCurrencyNote && type === 'esim' && (
         <span className="text-xs text-gray-600 dark:text-gray-400 ml-3">
-          {regionConfig.currency_symbol}1 = ¥{regionConfig.currency_jpy_to_local}
+          {regionConfig.currency_symbol}1 = &yen;{regionConfig.currency_jpy_to_local}
         </span>
       )}
     </div>
