@@ -226,7 +226,7 @@ export default function Home() {
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-8">
           {/* Main Articles Grid */}
           <div className="lg:col-span-2">
-            <SectionHeader title="Latest Articles" viewAllHref="/articles" />
+            <SectionHeader title="Latest Articles" viewAllHref="/articles" linkText="Browse all articles" />
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-5">
               {latestArticles.map((article) => (
                 <ArticleCard key={article.slug} article={article} size="md" />
@@ -295,6 +295,7 @@ export default function Home() {
               <SectionHeader
                 title={`${category.icon} ${category.label}`}
                 viewAllHref={`/category/${category.slug}`}
+                linkText={`See all ${category.label}`}
               />
               <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-5">
                 {catArticles.map((article) => (
