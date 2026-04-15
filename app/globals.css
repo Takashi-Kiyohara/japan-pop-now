@@ -203,13 +203,21 @@ h1, h2, h3 {
 /* MDX tables inside <div> don't render — use CSS to target the first
    table in an article (always the at-a-glance table) */
 .prose > table:first-of-type,
-.jpn-info-box table,
 .jpn-info-box {
   background: linear-gradient(135deg, #fff7ed 0%, #fafaf9 100%) !important;
   border: 1px solid #fb923c !important;
   border-left: 4px solid #f97316 !important;
   border-radius: 0.75rem !important;
   overflow: hidden;
+}
+/* Table inside info-box: flush with container, no double border/bg */
+.jpn-info-box table {
+  background: transparent !important;
+  border: none !important;
+  border-left: none !important;
+  border-radius: 0 !important;
+  margin: 0 !important;
+  width: 100% !important;
 }
 /* Hide header row ONLY for the at-a-glance first table (key-value, 2 cols).
    jpn-info-box tables now SHOW headers with warm-orange accent. */
