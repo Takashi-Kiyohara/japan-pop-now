@@ -50,7 +50,7 @@ function validateEnv(): ValidatedEnv {
   // Build validated object with defaults for optional
   const env: ValidatedEnv = {
     NEXT_PUBLIC_ADSENSE_ID: process.env.NEXT_PUBLIC_ADSENSE_ID || '',
-    NEXT_PUBLIC_KLOOK_AFF_ID: process.env.NEXT_PUBLIC_KLOOK_AFF_ID || '',
+    NEXT_PUBLIC_KLOOK_AFF_ID: process.env.NEXT_PUBLIC_KLOOK_AFF_ID || '117469',
     NEXT_PUBLIC_BOOKING_AFF_ID: process.env.NEXT_PUBLIC_BOOKING_AFF_ID || '',
     NEXT_PUBLIC_AMAZON_AFF_TAG: process.env.NEXT_PUBLIC_AMAZON_AFF_TAG || '',
     NEXT_PUBLIC_GETYOURGUIDE_AFF_ID: process.env.NEXT_PUBLIC_GETYOURGUIDE_AFF_ID || '',
