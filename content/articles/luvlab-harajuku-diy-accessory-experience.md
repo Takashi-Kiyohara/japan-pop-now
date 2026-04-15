@@ -29,18 +29,27 @@ spotlightExpiry: "2026-05-15"
 
 ## What Can You Make at LuvLab Harajuku?
 
-![Overview of all LuvLab craftable items — Italian charm watches, snake bracelets, keychains, and lip chains](/images/articles/luvlab-harajuku/overview-items.webp)
+![Overview of all LuvLab craftable items — Italian charm watches, snake bracelets, keychains, and lip chains](/images/articles/luvlab-harajuku/product-overview.webp)
 *The five main craft categories at LuvLab: Italian charm watches, bracelets, Apple Watch bands, custom keyboard keychains, and lip chains.*
 
 LuvLab offers 5 core experiences, each with a different price point and time commitment. The sweet spot for most visitors is the custom keyboard keychain — fast to make, easy to understand without Japanese, and one of the lowest entry prices.
 
 **Italian Charm Watches** are the flagship product and the most popular among Japanese customers. You pick a watch face (round, heart-shaped, or square), then snap on individual Italian charms to build the band. The result looks like a high-end fashion watch, but every charm is one you chose yourself. Bracelet versions and Apple Watch bands are also available.
 
+![Italian charm watch with multiple decorative charms](/images/articles/luvlab-harajuku/product-italian-charm.webp)
+*A finished Italian charm watch showing the range of charm options available at LuvLab.*
+
 **Snake Bracelets** are a Harajuku-exclusive item you can't get at the Shibuya or Yokohama locations. These Pandora-style bracelets use a snake chain base with clip-on charms — skulls, hearts, crystals, flowers. The base set comes with 3 parts, and you add extras at 300-800 yen each.
 
 **Custom Keyboard Keychains** are the entry-level craft and the most Instagram-friendly. Pick 3-4 colorful mechanical keycaps from a wall of 100+ designs (Hello Kitty, emoji faces, food motifs, anime characters), snap them onto a keychain bar, and add dangling charm accessories.
 
+![Custom keyboard keychain displaying colorful mechanical keycaps](/images/articles/luvlab-harajuku/product-keyboard.webp)
+*A selection of finished custom keyboard keychains showing the variety of keycap designs available.*
+
 **Lip Chains** round out the lineup — decorative chains that clip onto lip gloss tubes, trending on Japanese TikTok and Instagram right now.
+
+![Lip chain accessory with detailed charms](/images/articles/luvlab-harajuku/product-lipchain.webp)
+*A finished lip chain ready to attach to a lip gloss tube.*
 
 ## How Much Does It Cost?
 
@@ -73,12 +82,15 @@ Here is the complete pricing breakdown. All prices listed are before tax (add 10
 
 ## What Is the Store Like Inside?
 
-![LuvLab Harajuku wide interior shot with crafting stations](/images/articles/luvlab-harajuku/interior-wide.webp)
+![LuvLab Harajuku wide interior shot with crafting stations](/images/articles/luvlab-harajuku/interior-full.webp)
 *Clean white walls, a disco ball, and star-shaped lights — the Harajuku location leans into a minimalist aesthetic that feels welcoming regardless of gender.*
 
 **The interior is intentionally gender-neutral.** White walls, black ceiling with spotlights and a disco ball, and clean display tables replace the pastel overload you might expect from a Harajuku accessory shop. The owner designed it so that boyfriends, guy friends, and solo male visitors feel just as comfortable walking in as anyone else.
 
-![Crafting workspace and pegboard display](/images/articles/luvlab-harajuku/interior-workspace.webp)
+![Store interior showing neon accents and atmospheric lighting](/images/articles/luvlab-harajuku/interior-neon.webp)
+*The neon signage and ambient lighting create an Instagram-friendly atmosphere that appeals to a wide demographic.*
+
+![Crafting workspace and pegboard display](/images/articles/luvlab-harajuku/interior-table.webp)
 *A pegboard wall displays finished snake bracelets and Italian charms as inspiration, with colorful keycaps organized in clear bins on the right.*
 
 The main crafting area has standing-height tables where you assemble your piece. Staff members are nearby if you need help, but the process is intuitive enough that most visitors figure it out on their own. There is no pressure to buy — you can browse the charm wall for as long as you want before committing.
@@ -98,28 +110,31 @@ This is the experience I tried. The process takes about 15-20 minutes:
 
 4. Add dangling accessories — small charms, ribbons, or chains that hang below the keycaps. These cost 300-900 yen each.
 
-![Choosing custom keyboard keycaps from the display](/images/articles/luvlab-harajuku/custom-keyboard-hand.webp)
+![Choosing custom keyboard keycaps from the display](/images/articles/luvlab-harajuku/keyboard-hand.webp)
 *Picking out keycaps — the designs are small but packed with detail.*
 
-![Finished custom keyboard keychains in heart-shaped trays](/images/articles/luvlab-harajuku/custom-keychains-tray.webp)
+![Finished custom keyboard keychains in heart-shaped trays](/images/articles/luvlab-harajuku/keyboard-trays.webp)
 *Two finished keyboard keychains displayed in heart-shaped trays — one spelling out a name, the other mixing character caps with food motifs.*
 
 **The result is a one-of-a-kind accessory** that clips onto a bag, phone case, or actual keyboard. At 1,300 yen for a single piece (about 9 USD), it is one of the most affordable handmade souvenirs in Harajuku.
 
 ## What About the Snake Bracelets?
 
-![Handmade snake bracelets held up to show detail](/images/articles/luvlab-harajuku/snake-bracelets-hand.webp)
+![Handmade snake bracelets held up to show detail](/images/articles/luvlab-harajuku/bracelet-hand.webp)
 *A pair of finished snake bracelets — the Pandora-style chain holds clip-on charms in any combination.*
 
 Snake bracelets are the Harajuku-exclusive item and the one that draws the most repeat customers according to staff. The base bracelet comes with 3 charm parts included for 2,480 yen. From there, you build it out.
 
-![Two friends wearing custom snake bracelets at LuvLab](/images/articles/luvlab-harajuku/bracelets-worn.webp)
+![Two friends wearing custom snake bracelets at LuvLab](/images/articles/luvlab-harajuku/bracelet-matching.webp)
 *The couple/friend experience — making matching bracelets is one of the most popular activities.*
 
 **Making matching bracelets with a friend or partner is one of the main draws.** The charm selection includes hearts, crowns, skulls, crystals, and seasonal limited pieces. Since each person picks different charms, no two bracelets look the same even if you start with the same base.
 
-![Snake bracelets held up with Harajuku Takeshita Street in the background](/images/articles/luvlab-harajuku/bracelets-harajuku.webp)
+![Snake bracelets held up with Harajuku Takeshita Street in the background](/images/articles/luvlab-harajuku/bracelet-harajuku.webp)
 *Fresh out of LuvLab — bracelets against the Takeshita Street backdrop, about 30 seconds from the store.*
+
+![Snake bracelet showing detailed charm arrangement](/images/articles/luvlab-harajuku/product-snake-bracelet.webp)
+*A close-up of a finished snake bracelet displaying the variety of charms and the quality of construction.*
 
 ## Why Japanese Trend-Setters Love This
 
