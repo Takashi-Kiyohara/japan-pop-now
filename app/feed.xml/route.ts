@@ -1,4 +1,4 @@
-﻿import { getAllArticles, getSiteUrl } from '@/lib/articles';
+﻿import { getAllArticles } from '@/lib/articles';
 
 function escapeXml(str: string): string {
   return str
@@ -15,10 +15,10 @@ export async function GET() {
   const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://japan-pop-now.com';
   const articles = getAllArticles();
 
-  // Sort by date descending
-  const sorted = articles.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
+  const sorted = articles.sort(
+    (a, b) => new Date(b.date).getTime() - new Date(a.date).getTime()
+  );
 
-  // Build RSS 2.0 feed
   const items = sorted
     .map((article) => {
       const articleUrl = `${baseUrl}/articles/${article.slug}`;

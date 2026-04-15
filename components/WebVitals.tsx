@@ -2,76 +2,79 @@
 
 import { useEffect } from 'react';
 
+interface VitalData {
+  name: string;
+  value: number;
+  timestamp: number;
+}
+
 function sendVital(name: string, value: number) {
   if (typeof navigator !== 'undefined' && 'sendBeacon' in navigator) {
-    navigator.sendBeacon(
-      '/api/vitals',
-      JSON.stringify({ name, value, timestamp: Date.now() })
-    );
+    const data: VitalData = { name, value, timestamp: Date.now() };
+    navigator.sendBeacon('/api/vitals', JSON.stringify(data));
   }
 }
 
 export default function WebVitals() {
   useEffect(() => {
-    // LCP - Largest Contentful Paint
+    // LCP
     try {
-      const lcpObserver = new PerformanceObserver((list) => {
+      const lcpObs = new PerformanceObserver((list) => {
         const entries = list.getEntries();
-        const last = entries[entries.length - 1] as any;
+        const last = entries[entries.length - 1];
         if (last) sendVital('LCP', last.startTime);
       });
-      lcpObserver.observe({ type: 'largest-contentful-paint', buffered: true });
-    } catch (e) { /* unsupported */ }
+      lcpObs.observe({ type: 'largest-contentful-paint', buffered: true });
+    } catch (_) { /* unsupported browser */ }
 
-    // FID - First Input Delay
+    // FID
     try {
-      const fidObserver = new PerformanceObserver((list) => {
+      const fidObs = new PerformanceObserver((list) => {
         for (const entry of list.getEntries()) {
-          const e = entry as any;
-          sendVital('FID', e.processingStart - e.startTime);
+          sendVital('FID', (entry as PerformanceEventTiming).processingStart - entry.startTime);
         }
       });
-      fidObserver.observe({ type: 'first-input', buffered: true });
-    } catch (e) { /* unsupported */ }
+      fidObs.observe({ type: 'first-input', buffered: true });
+    } catch (_) { /* unsupported browser */ }
 
-    // CLS - Cumulative Layout Shift
+    // CLS
     try {
       let clsValue = 0;
-      const clsObserver = new PerformanceObserver((list) => {
+      const clsObs = new PerformanceObserver((list) => {
         for (const entry of list.getEntries()) {
-          const e = entry as any;
-          if (!e.hadRecentInput) clsValue += e.value;
+          if (!(entry as PerformanceEntry & { hadRecentInput: boolean }).hadRecentInput) {
+            clsValue += (entry as PerformanceEntry & { value: number }).value;
+          }
         }
       });
-      clsObserver.observe({ type: 'layout-shift', buffered: true });
-      // Report CLS on page hide
+      clsObs.observe({ type: 'layout-shift', buffered: true });
       if (typeof document !== 'undefined') {
         document.addEventListener('visibilitychange', () => {
           if (document.visibilityState === 'hidden') sendVital('CLS', clsValue);
         });
       }
-    } catch (e) { /* unsupported */ }
+    } catch (_) { /* unsupported browser */ }
 
-    // FCP - First Contentful Paint
+    // FCP
     try {
-      const fcpObserver = new PerformanceObserver((list) => {
+      const fcpObs = new PerformanceObserver((list) => {
         for (const entry of list.getEntries()) {
           if (entry.name === 'first-contentful-paint') {
             sendVital('FCP', entry.startTime);
           }
         }
       });
-      fcpObserver.observe({ type: 'paint', buffered: true });
-    } catch (e) { /* unsupported */ }
+      fcpObs.observe({ type: 'paint', buffered: true });
+    } catch (_) { /* unsupported browser */ }
 
-    // TTFB - Time to First Byte
+    // TTFB
     try {
       const nav = performance.getEntriesByType('navigation');
       if (nav.length > 0) {
         const n = nav[0] as PerformanceNavigationTiming;
         sendVital('TTFB', n.responseStart - n.requestStart);
       }
-    } catch (e) { /* unsupported */ }
+    } catch (_) { /* unsupported browser */ }
   }, []);
 
   return null;
