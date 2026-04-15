@@ -44,7 +44,7 @@ export function getOrganizationSchema() {
 }
 
 export function getArticleSchema(article: Article, url: string, options?: ArticleSchemaOptions) {
-  const schema: any = {
+  const schema: Record<string, unknown> = {
     '@context': 'https://schema.org',
     '@type': 'NewsArticle',
     headline: article.title,
@@ -195,7 +195,7 @@ export function getAuthorSchema(
   url?: string,
   image?: string
 ) {
-  const schema: any = {
+  const schema: Record<string, unknown> = {
     '@context': 'https://schema.org',
     '@type': 'Person',
     name,

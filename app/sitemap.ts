@@ -1,11 +1,10 @@
 import { MetadataRoute } from 'next';
-import { getAllArticleSlugs, getAllArticles, CATEGORIES } from '@/lib/articles';
+import { getAllArticles, CATEGORIES } from '@/lib/articles';
 import { getAllUniqueTags } from '@/lib/auto-tags';
 import { getSiteUrl, articleUrl as getArticleUrl, tagUrl, guideUrl } from '@/lib/url';
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = getSiteUrl();
-  const slugs = getAllArticleSlugs();
   const articles = getAllArticles();
 
   // Derive the most recent article date for category/guide pages

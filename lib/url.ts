@@ -20,6 +20,14 @@ export function absoluteUrl(path: string): string {
   return `${SITE_URL}${path}`
 }
 
+export function cafeUrl(slug: string): string {
+  return `${SITE_URL}/cafes/${slug}`
+}
+
+export function cafesHubUrl(): string {
+  return `${SITE_URL}/cafes`
+}
+
 export function getSiteUrl(): string {
   return SITE_URL
 }
