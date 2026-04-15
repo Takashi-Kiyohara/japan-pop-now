@@ -133,8 +133,8 @@ export default function SpotlightSection({ items }: { items: SpotlightItem[] }) 
 
             {/* Text */}
             <div
-              className="lg:col-span-2 flex flex-col justify-center"
-              style={{ padding: '32px' }}
+              className="lg:col-span-2 flex flex-col justify-start"
+              style={{ padding: '32px', wordBreak: 'break-word', overflowWrap: 'anywhere' }}
             >
               <p
                 style={{

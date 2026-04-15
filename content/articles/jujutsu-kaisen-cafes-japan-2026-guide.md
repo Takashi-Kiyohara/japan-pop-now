@@ -18,7 +18,7 @@ If you want a **Jujutsu Kaisen-themed cafe experience in Japan during spring 202
 
 ## Why this Jujutsu Kaisen cafe matters for travelers
 
-![Why this Jujutsu Kaisen cafe matters for travelers — Jujutsu Kaisen Cafes in Japan 2026](/images/articles/jujutsu-kaisen-cafes-japan-2026-guide/1.jpg)
+<!-- NEEDS REPLACEMENT: Jujutsu Kaisen cafe interior or themed food photo. Previous /images/articles/jujutsu-kaisen-cafes-japan-2026-guide/1.jpg showed an unrelated Totoro statue. -->
 
 A lot of anime cafe coverage focuses only on visuals or menu items. For overseas visitors, the real value is different: **where can you actually fit the event into your route, and how hard is it to get in?**
 
