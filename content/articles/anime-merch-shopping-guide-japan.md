@@ -37,7 +37,6 @@ If you only have one shopping block in Tokyo, choose your route by goal first in
 - **Want a full otaku day with arcades, gachapon, and big flagship stores?** Start with [Akihabara](/akihabara-complete-guide-2026/).
 - **Still deciding by series rather than district?** Use the [Find by Anime hub](/find-by-anime-in-japan-2026-pilgrimage-guides-by-series/) first, then come back here for the shopping plan.
 
-![Display of anime figures, acrylic stands, and badges in a Japanese shop](/images/articles/anime-merch-shopping-guide-japan/merch-types.webp)
 
 ## Types of Anime Merchandise (and What’s Worth Buying in Japan)
 ### Figures & Statues
@@ -84,7 +83,6 @@ Discover authentic anime merchandise and collectibles:
 
 As an Amazon Associate, we may earn from qualifying purchases.
 
-![Animate flagship store facade in Ikebukuro with anime posters in the windows](/images/articles/anime-merch-shopping-guide-japan/tokyo-merch-stores.webp)
 
 ## Where to Shop: Tokyo’s Best Anime Merch Stores
 Tokyo has several major anime shopping districts — [Akihabara](/akihabara-complete-guide-2026/), [Ikebukuro](/ikebukuro-anime-guide-2026/), and [Nakano Broadway](/nakano-broadway-guide/) are the big three. See our [Tokyo Anime District Guide](/tokyo-anime-district-guide/) for an overview of all five areas.
@@ -139,7 +137,6 @@ Best next step if you are budget-sensitive
 
 Compare districts before you shop: [Tokyo Anime District Guide](/tokyo-anime-district-guide/) helps you decide whether Akihabara, Ikebukuro, or Nakano Broadway matches your fandom and budget better.
 
-![Shoppers browsing anime merch display in a Tokyo store during a seasonal sale](/images/articles/anime-merch-shopping-guide-japan/shopping-timing.webp)
 
 ## Timing Your Shopping
 **New release days:** Most anime merchandise releases on Saturdays. If you’re targeting a specific figure or limited item, check the release date and plan to visit on that day. Popular items sell out by afternoon.

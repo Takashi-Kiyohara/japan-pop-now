@@ -38,7 +38,6 @@ This guide walks through 2026 JR Pass prices, shows you exactly how much you’l
 The Shinkansen with Mount Fuji in the background — the JR Pass opens up cross-country anime pilgrimages
 Photo: Getty Images / Unsplash
 
-![Shinkansen bullet train arriving at a JR platform in Tokyo Station](/images/articles/jr-pass-anime-pilgrimage-routes-2026/jr-pass-prices.webp)
 
 ## JR Pass 2026: Current Prices and Types
 The JR Pass pricing structure in 2026 remains unchanged from 2025. These prices apply to foreign tourists only (you need to show a temporary visitor stamp in your passport). If you’re a resident or on a work visa, you can’t buy these.
@@ -121,7 +120,6 @@ One note: I’ve done this route twice now (once in 2024, once in early 2026). T
 A Japan Rail station platform — understanding the network is key to planning pilgrimage routes
 Photo: Levi Meir Clancy / Unsplash
 
-![Chichibu shrine steps featured in the Anohana anime with fans visiting](/images/articles/jr-pass-anime-pilgrimage-routes-2026/anohana-route.webp)
 
 ## Anime Pilgrimage Route 4: Tokyo → Chichibu → Kawagoe (Anohana + Aqours)
 Anohana’s pilgrimage site is Chichibu (Saitama Prefecture), about 60 kilometers north of Tokyo. Aqours, the Love Live Sunshine group, has activities and locations in Numazu (about 150 kilometers southwest), but there’s also Kawagoe (30 kilometers west of Tokyo) which offers period architecture similar to Edo-era settings that appeal to anime fans generally.
@@ -190,7 +188,6 @@ If you arrive without a voucher, you can buy directly at JR offices. Prices are 
 
 The pass covers an unlimited number of days once activated, but you pay per consecutive days. If you buy a 7-day pass, you must use it across 7 consecutive calendar days. You can’t activate it Monday, skip Tuesday, and continue Wednesday — once you start using it, the 7-day clock runs continuously. This matters for planning. If you’re in Japan for 10 days but only want to use the pass for days 3-9, you’d buy the 7-day voucher and activate it on day 3.
 
-![Hand holding a JR Pass ticket in front of a shinkansen on the platform](/images/articles/jr-pass-anime-pilgrimage-routes-2026/jr-pass-tips.webp)
 
 ## Tips for Getting the Most Out of Your JR Pass
 **Seat Reservations Are Free With a JR Pass:**

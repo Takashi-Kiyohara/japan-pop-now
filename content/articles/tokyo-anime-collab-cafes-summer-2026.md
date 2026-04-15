@@ -15,7 +15,7 @@ wpPostId: 752
 
 *Last updated: April 2026.*
 
-![Anime collaboration cafe interior in Tokyo with themed food drinks and character decorations on display]()Tokyo’s collab cafe scene rotates constantly â there are usually 15-20 anime-themed cafes running at any given time across the city. Photo: Japan Pop Now
+Tokyo’s collab cafe scene rotates constantly â there are usually 15-20 anime-themed cafes running at any given time across the city. Photo: Japan Pop Now
 Tokyo runs at least 15 anime collab cafes at any given time between June and August, with new ones launching almost weekly as summer anime premieres kick off. Confirmed summer 2026 cafes include Haikyuu!! at Animate Cafe Ikebukuro (July 26 – August 20), Maid-sama! at My Charaful Cafe through August 23, and a steady rotation of short-run cafes at BOX CAFE, GiGO, and Collabo Cafe Honpo in Akihabara and Ikebukuro. Budget Â¥2,000-3,500 (~$14-24) per visit for food and a drink, plus Â¥1,000-3,000 (~$7-20) if you buy exclusive merchandise.
 
 Summer is peak collab cafe season in Tokyo for two reasons: the summer anime broadcast season launches in July, bringing a wave of new IP-themed cafes, and international tourist traffic spikes during school holidays worldwide. The result is more cafes running simultaneously â but also higher demand for reservations, especially during the first two weeks of any collab’s run.

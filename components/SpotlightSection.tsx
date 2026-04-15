@@ -151,7 +151,7 @@ export default function SpotlightSection({ items }: { items: SpotlightItem[] }) 
               <h3
                 style={{
                   fontFamily: 'var(--font-display), "Playfair Display", Georgia, serif',
-                  fontSize: '1.5rem',
+                  fontSize: spot.title.length > 60 ? 'clamp(1.05rem, 1.6vw, 1.25rem)' : '1.5rem',
                   fontWeight: 700,
                   color: '#14213d',
                   lineHeight: 1.25,

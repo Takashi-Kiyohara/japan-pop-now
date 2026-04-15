@@ -583,3 +583,12 @@ button { cursor: pointer; transition: all 0.2s ease; }
   img { max-width: 100% !important; page-break-inside: avoid; }
   h2, h3 { page-break-after: avoid; }
 }
+
+/* CRITICAL: Table header contrast fix — do not remove or override */
+.jpn-info-box table thead th,
+.jpn-info-box table th,
+.prose table thead th,
+table thead th {
+  color: #ffffff !important;
+  background: linear-gradient(135deg, #1e3a5f, #14213d) !important;
+}

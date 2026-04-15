@@ -32,7 +32,6 @@ This is the system I now use, and what I recommend to anyone heading to Japan fo
 6. [Downloadable Checklist](#checklist-download)
 7. [More Practical Guides](#related)
 
-![Laptop screen showing flight booking site with calendar dates highlighted](/images/articles/japan-trip-checklist-anime-fans-2026/big-bookings.webp)
 
 ## 3 Months Before: The Big Bookings
 Three months out is when the real planning begins. This is your window for locking in flights, accommodation, rail passes, and event tickets. Miss this window and you’ll be paying premium prices or taking whatever’s left.
@@ -84,7 +83,6 @@ Pro tip: The biggest collab cafes have waiting lists. Even if you lose the lotte
 
 ![Traveler at airport with luggage ready for Japan anime trip](https://images.unsplash.com/photo-1436491865332-7a61a109db05?w=800&h=500&fit=crop&q=80)A month out is the sweet spot for locking in connectivity and travel insurance
 Photo: James Pere / Unsplash
-![Pocket wifi device and travel insurance documents laid out on a desk](/images/articles/japan-trip-checklist-anime-fans-2026/connectivity.webp)
 
 ## 1 Month Before: Connectivity & Insurance
 Now that the big stuff is booked, focus on making sure you can actually function in Japan. This means internet, communication, money, and the unglamorous stuff like travel insurance that you’ll only care about if something goes wrong.
@@ -130,7 +128,6 @@ Download and set up these apps before you travel. They work even without interne
 - **Twitter/X:** Follow anime shops, collab cafe announcements, and event organizers. Most breaking news about limited merch restocks or event changes hits Twitter first, sometimes hours before official channels.
 - **Manga Up or Comixology:** If you’re reading manga on transit, load up digital versions before you go. The manga reading experience in Japan feels different knowing you’re literally in the country where it’s published.
 
-![Laptop showing a Japanese collab cafe reservation page with calendar slots](/images/articles/japan-trip-checklist-anime-fans-2026/cafe-prep.webp)
 
 ## 2 Weeks Before: Collab Cafe & Event Prep
 With two weeks to go, you’re in the homestretch. Now you’re confirming details and making backup plans.
@@ -162,7 +159,6 @@ None of these are easy to access for casual visitors, which is why the Ghibli Mu
 
 ![Tokyo skyline at dusk preparing for an anime fan trip to Japan](https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?w=800&h=500&fit=crop&q=80)Getting your bookings locked in early means less stress and more time at the anime spots
 Photo: Getty Images / Unsplash
-![Open suitcase partially packed with clothes and collectible storage cases](/images/articles/japan-trip-checklist-anime-fans-2026/packing.webp)
 
 ## 1 Week Before: Packing for Anime Fans
 Packing for an anime trip is different than regular travel. You’re going to buy merch. Plan accordingly.
@@ -188,7 +184,6 @@ If you’re flying from the US, you can order yen through:
 ### Wear Comfortable Shoes
 Anime shopping in Tokyo means miles of walking—Akihabara’s electric town district is dense and has narrow streets. Break in your shoes before departure. Bring an extra pair for swollen ankles on day 6 or 7. Japan has convenience stores everywhere, so you can buy replacement insoles or ankle support if you get sore.
 
-![Traveler tapping an IC card at a Tokyo train station ticket gate](/images/articles/japan-trip-checklist-anime-fans-2026/day-one.webp)
 
 ## Day 1 in Japan: First Things to Do
 You’ve arrived. Here’s the immediate action list.

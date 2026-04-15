@@ -16,7 +16,7 @@ wpPostId: 756
 *Last updated: April 2026.*
 
 **Disclosure:** This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you.
-![Wonder Festival dealer hall at Makuhari Messe with rows of tables displaying handmade garage kit figures and resin statues]()Wonder Festival packs 2,000+ dealer tables into Makuhari Messe twice a year — the world’s largest figure and garage kit event. Photo: Japan Pop Now
+Wonder Festival packs 2,000+ dealer tables into Makuhari Messe twice a year — the world’s largest figure and garage kit event. Photo: Japan Pop Now
 Wonder Festival 2026 Summer takes place July 26 at Makuhari Messe in Chiba — about 30 minutes by train from Tokyo Station. It’s the world’s largest figure and garage kit event, with 2,000+ dealer booths selling handmade resin figures, professional prototype reveals from major manufacturers, and one-of-a-kind custom pieces you can’t buy anywhere else. General admission tickets cost ¥3,500 in advance (¥4,000 at the door), and no pre-registration is needed beyond buying a ticket. The event runs 10:00-17:00 in a single day, and popular items sell out by early afternoon.
 
 If you collect anime figures or have any interest in the craftsmanship behind them, Wonder Festival is the single best event in Japan for you. This guide covers tickets, what to expect, buying strategies, how to get your purchases home, and other figure events worth knowing about.
@@ -33,7 +33,6 @@ If you collect anime figures or have any interest in the craftsmanship behind th
 
 ## What Is Wonder Festival and When Is It?
 
-![What Is Wonder Festival and When Is It? — Wonder Festival & Figure Events Japan 2026](/images/articles/wonder-festival-figure-events-japan-2026/1.jpg)
 
 Wonder Festival (ワンダーフェスティバル, commonly shortened to WonFes or WF) is a biannual figure and garage kit event held at Makuhari Messe in Chiba. It’s been running since 1984 and happens twice a year — once in winter (February) and once in summer (July). The 2026 Summer edition is confirmed for July 26.
 
@@ -53,7 +52,6 @@ WonFes 2026 Summer features two special exhibitions: the Hiroshi Yokoyama Exhibi
 
 ## How Do You Get Tickets as an International Visitor?
 
-![How Do You Get Tickets as an International Visitor? — Wonder Festival & Figure Events Japan 2026](/images/articles/wonder-festival-figure-events-japan-2026/2.jpg)
 
 Tickets are sold through Lawson Ticket (ローソンチケット). You can buy them online at l-tike.com or at any Loppi kiosk inside a Lawson convenience store in Japan.
 
@@ -71,7 +69,6 @@ For international visitors who arrive in Japan before the event: walk into any L
 
 ## What’s the Best Strategy for Buying at WonderFes?
 
-![What’s the Best Strategy for Buying at WonderFes? — Wonder Festival & Figure Events Japan 2026](/images/articles/wonder-festival-figure-events-japan-2026/3.jpg)
 
 WonFes operates differently from a normal shopping experience. Here’s what works:
 
@@ -98,7 +95,6 @@ Getting your WonFes haul back to your home country takes some planning. Here are
 
 ## Can You Buy WonderFes Items After the Event?
 
-![Can You Buy WonderFes Items After the Event? — Wonder Festival & Figure Events Japan 2026](/images/articles/wonder-festival-figure-events-japan-2026/4.jpg)
 
 Most amateur garage kits are produced in tiny quantities and sell out at the event. However, some options exist after the fact:
 
@@ -110,7 +106,6 @@ Most amateur garage kits are produced in tiny quantities and sell out at the eve
 
 ## What Other Figure Events Happen in Japan?
 
-![What Other Figure Events Happen in Japan? — Wonder Festival & Figure Events Japan 2026](/images/articles/wonder-festival-figure-events-japan-2026/5.jpg)
 
 WonFes is the biggest, but not the only figure event worth knowing about:
 

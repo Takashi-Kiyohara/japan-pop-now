@@ -16,7 +16,7 @@ wpPostId: 780
 *Last updated: April 2026.*
 
 **Disclosure:** This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you.
-![PokéPark Kanto entrance area at Yomiuriland Tokyo with visitors approaching the park gate]()PokéPark Kanto opened in February 2026 inside Yomiuriland, bringing Pokémon’s first permanent outdoor theme park to Tokyo. Photo: Japan Pop Now
+PokéPark Kanto opened in February 2026 inside Yomiuriland, bringing Pokémon’s first permanent outdoor theme park to Tokyo. Photo: Japan Pop Now
 PokéPark Kanto opened on February 5, 2026 inside Yomiuriland in western Tokyo — the first permanent outdoor Pokémon theme park anywhere in the world. Tickets use dynamic pricing and come in three tiers: Elite Trainers Pass at ¥14,000+ (~$95), Trainers Pass at ¥7,900+ (~$54), and Town Pass at ¥4,700+ (~$32, available from May 2026). Every ticket requires advance online reservation. There are no walk-in sales, and popular weekends sell out fast.
 
 The park covers 2.6 hectares across three distinct zones: Pokémon Forest (an outdoor trail where you spot 600+ Pokémon species in wooded terrain), Kayatsuri Town (rides, shows, shops, and dining), and the Entrance Square. It’s not a traditional roller-coaster park — it’s closer to an immersive nature walk crossed with a Pokémon Center on steroids. I’ve talked to visitors who spent 5+ hours and still didn’t see everything in Pokémon Forest.
@@ -229,7 +229,6 @@ Planning a trip to Tokyo?
 
 ## Never Miss a Cafe Opening or Anime Event
 
-![Never Miss a Cafe Opening or Anime Event — PokéPark Kanto Complete Guide 2026](/images/articles/pokepark-kanto-tokyo-2026/7.jpg)
 
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.
 

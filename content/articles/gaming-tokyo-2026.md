@@ -20,7 +20,6 @@ Tokyo is built for gamers. Whether you’re hunting for exclusive Pokemon mercha
 
 ## The Big Three: Pokemon Center MEGA, Nintendo TOKYO & Beyond
 
-![The Big Three: Pokemon Center MEGA, Nintendo TOKYO & Beyond — Gaming Tokyo 2026](/images/articles/gaming-tokyo-2026/1.jpg)
 
 ### Pokemon Center MEGA ([Ikebukuro](/ikebukuro-anime-guide-2026/))
 Start here. Pokemon Center MEGA is the flagship store and it’s enormous. We’re talking 650 square meters, 2,500+ items, and crowds that rival theme park queues on weekends. The store spans multiple floors with dedicated zones for clothing, figures, plushies, trading cards, and region-exclusive merchandise you won’t find elsewhere.
@@ -117,7 +116,6 @@ Website: [Square Enix official](https://www.squareenix.co.jp/)
 
 ## Arcades & Gaming Centers
 
-![Arcades & Gaming Centers — Gaming Tokyo 2026](/images/articles/gaming-tokyo-2026/2.jpg)
 
 Tokyo has gaming arcades on every block. The big ones:
 
@@ -151,7 +149,6 @@ Located at Universal Studios Japan (Osaka, 2.5 hours from Tokyo by train). Full 
 
 ## One-Day Gaming Itinerary (Tokyo Only)
 
-![One-Day Gaming Itinerary (Tokyo Only) — Gaming Tokyo 2026](/images/articles/gaming-tokyo-2026/3.jpg)
 
 **8:30 AM:** Arrive at Ikebukuro Station. Breakfast at a local kissaten (cafe).
 
@@ -206,7 +203,6 @@ Ask staff what’s selling out fastest. Usually: new Pokemon card sets, Nintendo
 
 ## Getting Around
 
-![Getting Around — Gaming Tokyo 2026](/images/articles/gaming-tokyo-2026/4.jpg)
 
 Use Suica card (rechargeable IC card). Buy at any train station for ¥2,000 (¥1,500 balance, ¥500 deposit). No fumbling for coins, works on subways, trains, and convenience store purchases. Most gaming stores are within 5–10 minutes of major stations.
 

@@ -250,7 +250,6 @@ The situation is serious enough that **Chiyoda Ward officially designated Akihab
 
 ## Where to Eat (Beyond Theme Cafes)
 
-![Where to Eat (Beyond Theme Cafes) — Akihabara](/images/articles/akihabara-complete-guide-2026/7.jpg)
 
 
 ![Where to Eat (Beyond Theme Cafes) — Akihabara](/images/articles/akihabara-complete-guide-2026/6.jpg)

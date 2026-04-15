@@ -64,7 +64,6 @@ Here’s how the top providers compare on price, data, and convenience — with 
 
 **Note:** Prices current as of April 2026. eSIM requires a compatible device. Airport SIM cards need advance booking.
 
-![Smartphone showing eSIM installation screen with QR code voucher beside it](/images/articles/japan-esim-pocket-wifi-sim-card/esim-setup.webp)
 
 ## Option 1: eSIM — Best for Solo Travelers
 

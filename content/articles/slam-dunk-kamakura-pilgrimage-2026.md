@@ -15,7 +15,7 @@ wpPostId: 751
 
 *Last updated: April 2026.*
 
-![Kamakurakokomae railroad crossing with Enoden train passing and Shonan ocean view from Slam Dunk opening scene]()The Kamakurakokomae No.1 Railroad Crossing â Slam Dunk’s most iconic real-world location, with the Shonan coast stretching behind it. Photo: Japan Pop Now
+The Kamakurakokomae No.1 Railroad Crossing â Slam Dunk’s most iconic real-world location, with the Shonan coast stretching behind it. Photo: Japan Pop Now
 The Kamakurakokomae No.1 Railroad Crossing â where Sakuragi and Haruko wave at each other in Slam Dunk’s opening sequence â is a 100-meter walk west from Kamakurakokomae Station on the Enoden line. The crossing is free to visit, and the full Slam Dunk pilgrimage route through Kamakura and the Shonan coast takes about 3-4 hours on foot. Budget around Â¥4,700-5,700 (~$32-39) for the whole trip from Tokyo, including train fare, the Enoden day pass, and lunch.
 
 THE FIRST SLAM DUNK movie (December 2022) earned over Â¥16.2 billion at the Japanese box office and reignited international interest in these locations. Four years later, the crossing still draws steady crowds â but Kamakura City has implemented a managed photography system with designated viewing areas and on-site staff, making the experience significantly smoother than the chaotic 2023 peak.

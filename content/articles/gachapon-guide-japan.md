@@ -63,7 +63,6 @@ Gachapon prices have crept up over the past few years as figure quality has impr
 
 Budget tip: Decide on a spending limit before you start. 1,000 yen (about $6.60) gets you 2 to 5 capsules depending on the machine. It adds up fast when every machine has something interesting.
 
-![Gachapon shop interior with hundreds of capsule toy machines stacked in rows](/images/articles/gachapon-guide-japan/gachapon-shops-tokyo.webp)
 
 ## Where to Find Gachapon in Tokyo
 Gachapon machines are everywhere in Japan, but some locations are worth making a trip for. Here are the spots with the best selection.
@@ -121,7 +120,6 @@ With thousands of machines to choose from, here are five categories that consist
 
 **Budget guide:** Bring 2,000 yen in 100-yen coins for a satisfying gachapon session. That gets you 4-6 capsules across different machines — enough variety without overspending.
 
-![Hand holding a freshly opened gachapon capsule with the prize figure inside](/images/articles/gachapon-guide-japan/gachapon-tips.webp)
 
 ## Tips From a Capsule Toy Addict
 **Bring a coin purse full of 100-yen coins.** This is the single most important tip. Most gachapon machines still only accept 100-yen coins. Bank ATMs dispense 1,000-yen bills, which you’ll need to break. Dedicated gachapon shops always have change machines, but street-side machines do not.

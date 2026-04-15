@@ -45,7 +45,6 @@ This playbook is what I wish someone had handed me on my first Tokyo trip. It co
 - [Frequently Asked Questions](#faq)
 - [More Travel Tips Guides](#more-guides)
 
-![Traveler with luggage walking through Narita Airport arrivals hall](/images/articles/first-timers-japan-playbook-anime-fans-2026/arrival-plan.webp)
 
 ## The 3-Hour Arrival Plan (Narita / Haneda)
 

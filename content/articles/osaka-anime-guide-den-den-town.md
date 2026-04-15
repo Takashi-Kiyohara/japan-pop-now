@@ -36,7 +36,6 @@ This guide covers everything you need for a full day (or two) of anime shopping,
 
 ## Getting to Den Den Town
 
-![Getting to Den Den Town — Osaka Anime Guide 2026](/images/articles/osaka-anime-guide-den-den-town/1.jpg)
 
 Den Den Town sits between Namba and Nipponbashi stations, which means you’ve got multiple access points depending on where you’re coming from.
 
@@ -51,7 +50,6 @@ The main otaku strip runs along Sakai-suji (Route 25) between Nipponbashi Statio
 
 ## Den Den Town: The Main Anime & Manga Shops
 
-![Den Den Town: The Main Anime & Manga Shops — Osaka Anime Guide 2026](/images/articles/osaka-anime-guide-den-den-town/2.jpg)
 
 ### Animate Osaka Nipponbashi
 The Osaka flagship Animate is smaller than the Ikebukuro main store but carries the same new releases and exclusive merchandise. The building has multiple floors covering manga, light novels, character goods, CDs, and DVDs. The exclusive Animate-only goods (collaborations, random acrylic stands) are on the upper floors.
@@ -94,7 +92,6 @@ For serious retro collectors: check the glass cases near the register for rare i
 
 ## Gashapon Department Store Namba
 
-![Gashapon Department Store Namba — Osaka Anime Guide 2026](/images/articles/osaka-anime-guide-den-den-town/3.jpg)
 
 Located on the 6th floor of Namba Parks, this is one of the largest gashapon collections in the Kansai region. Over 600 machines line the walls, covering everything from Sanrio to Jujutsu Kaisen to weirdly specific Japanese humor capsules (tiny replicas of convenience store rice balls, anyone?).
 
@@ -110,7 +107,6 @@ Most machines take 100-yen coins (some are 200 or 300 yen). There’s a change m
 
 ## Game Centers & Arcades in Osaka
 
-![Game Centers & Arcades in Osaka — Osaka Anime Guide 2026](/images/articles/osaka-anime-guide-den-den-town/4.jpg)
 
 ### Round1 Stadium Sennichimae
 This massive entertainment complex operates 24 hours a day, which makes it the perfect late-night spot after Den Den Town shops close at 20:00. The arcade floors cover crane games (UFO catchers), rhythm games including the latest Taiko no Tatsujin cabinets, fighting games, and photo booth machines.
@@ -144,7 +140,6 @@ For booking tips, what to expect at your first collab cafe, and a calendar of cu
 
 ## Shinsaibashi PARCO: Character Shop Floor
 
-![Shinsaibashi PARCO: Character Shop Floor — Osaka Anime Guide 2026](/images/articles/osaka-anime-guide-den-den-town/5.jpg)
 
 Shinsaibashi PARCO reopened in 2020 as a pop-culture-heavy department store, and floors 5-6 are where things get interesting for anime fans. The character shop floor includes permanent stores that would each be worth a separate trip.
 
@@ -160,7 +155,6 @@ The 5th and 6th floors also host rotating pop-up shops and exhibition spaces. Du
 
 ## Universal Studios Japan (USJ) — Anime & Gaming Zones
 
-![Universal Studios Japan (USJ) — Anime & Gaming Zones — Osaka Anime Guide 2026](/images/articles/osaka-anime-guide-den-den-town/6.jpg)
 
 USJ is in Osaka, and in 2026 it’s leaning harder into anime and gaming than ever. Even if theme parks aren’t usually your thing, the current lineup has some attractions worth the trip.
 
@@ -181,7 +175,6 @@ USJ’s seasonal Cool Japan event for Spring 2026 features Detective Conan (an e
 
 ## Sample Day Trip Itinerary
 
-![Sample Day Trip Itinerary — Osaka Anime Guide 2026](/images/articles/osaka-anime-guide-den-den-town/7.jpg)
 
 If you’ve only got one day for Osaka anime tourism, here’s a route that covers the highlights without backtracking.
 
@@ -203,7 +196,6 @@ If you’ve only got one day for Osaka anime tourism, here’s a route that cove
 
 ## Practical Info: Transport, IC Cards & Tips
 
-![Practical Info: Transport, IC Cards & Tips — Osaka Anime Guide 2026](/images/articles/osaka-anime-guide-den-den-town/8.jpg)
 
 ### IC Cards
 ICOCA is the Kansai region’s IC card (equivalent to Tokyo’s Suica/Pasmo). Buy one at any JR West ticket machine for 2,000 yen (500 yen deposit + 1,500 yen balance). It works on all trains, buses, and at convenience stores throughout Osaka. If you already have a Suica or Pasmo from Tokyo, those work in Osaka too — IC cards are interchangeable nationwide.

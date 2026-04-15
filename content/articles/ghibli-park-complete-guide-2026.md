@@ -16,7 +16,7 @@ wpPostId: 750
 *Last updated: April 2026.*
 
 **Disclosure:** This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you.
-![Ghibli Park entrance area at Expo 2005 Aichi Commemorative Park with visitors walking toward the Grand Warehouse]()Ghibli Park sits inside the massive Expo 2005 Aichi Commemorative Park, about 45 minutes east of central Nagoya. Photo: Japan Pop Now
+Ghibli Park sits inside the massive Expo 2005 Aichi Commemorative Park, about 45 minutes east of central Nagoya. Photo: Japan Pop Now
 Ghibli Park has five themed areas spread across the Expo 2005 Aichi Commemorative Park in Nagakute, Aichi Prefecture. Ticket prices range from ¥1,000 (~$7) for individual area passes to ¥7,800 (~$53) for the Premium All-Area Pass on weekends. Every ticket requires advance purchase — there are no walk-in admissions, and popular dates sell out within hours of going on sale. I’ve visited twice since the Valley of Witches opened in 2024 and can confirm: one day is not enough for all five areas.
 
 The park doesn’t have rides or roller coasters. If that’s what you’re after, this isn’t your destination. What Ghibli Park does is recreate the physical spaces from Studio Ghibli films — Mei and Satsuki’s house from My Neighbor Totoro, the antique shop from Whisper of the Heart, Howl’s castle-inspired structures — with the kind of obsessive detail that makes you forget you’re in a theme park at all. You walk through rooms, touch furniture, and notice things the animators put there 30 years ago.

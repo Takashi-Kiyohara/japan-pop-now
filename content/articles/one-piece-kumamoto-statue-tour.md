@@ -38,7 +38,6 @@ This guide covers every statue, how to reach them, and the most practical way to
 | 9 | **Brook** | Near the Dinosaur Museum | Mifune Town | Difficult — bus/car needed |
 | 10 | **Jinbe** | Sumiyoshi Kaigan Park | Uto City | Difficult — bus/car needed |
 
-![Luffy bronze statue standing in front of Kumamoto Prefectural Office](/images/articles/one-piece-kumamoto-statue-tour/luffy-statue.webp)
 
 ## The Luffy Statue — Kumamoto City
 The Luffy statue is the most visited of the ten and the easiest to reach. It stands at the entrance promenade of the Kumamoto Prefectural Government Office, surrounded by ginkgo trees. Luffy’s got his arm raised — the classic pose — and at the base you’ll find a cast of Eiichiro Oda’s actual hand print and his signature.
