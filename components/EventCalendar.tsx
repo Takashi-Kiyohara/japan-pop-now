@@ -85,7 +85,7 @@ function EventCard({ event }: { event: CollabEvent }) {
   const status = isPermanent(event) ? 'permanent' : getEventStatus(event, today);
   const link = getEventLink(event);
 
-  const CardContent = () => (
+  const cardContent = (
     <div
       style={{
         display: 'flex',
@@ -161,13 +161,13 @@ function EventCard({ event }: { event: CollabEvent }) {
   if (link.isInternal) {
     return (
       <Link href={link.href} style={{ textDecoration: 'none', display: 'block' }}>
-        <CardContent />
+        {cardContent}
       </Link>
     );
   }
   return (
     <a href={link.href} target="_blank" rel="noopener noreferrer" style={{ textDecoration: 'none', display: 'block' }}>
-      <CardContent />
+      {cardContent}
     </a>
   );
 }
