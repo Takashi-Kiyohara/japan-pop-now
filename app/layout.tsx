@@ -1,4 +1,4 @@
-import type { Metadata } from "next";
+import type { Metadata, Viewport } from "next";
 import { Playfair_Display, DM_Sans } from "next/font/google";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
@@ -22,8 +22,17 @@ const dmSans = DM_Sans({
   display: "swap",
 });
 
+export const viewport: Viewport = {
+  width: "device-width",
+  initialScale: 1,
+  minimumScale: 1,
+  maximumScale: 5,
+  viewportFit: "cover",
+  colorScheme: "light",
+};
+
 export const metadata: Metadata = {
-  metadataBase: new URL("https://japan-pop-now.com"),
+  metadataBase: new URL("https://www.japan-pop-now.com"),
   title: {
     template: "%s | Japan Pop Now",
     default: "Japan Pop Now — Anime Collab Cafes, Pilgrimage Spots & Pop Culture Travel Guide",
@@ -34,11 +43,11 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "en_US",
-    url: "https://japan-pop-now.com",
+    url: "https://www.japan-pop-now.com",
     siteName: "Japan Pop Now",
     images: [
       {
-        url: "https://japan-pop-now.com/og-image.png",
+        url: "https://www.japan-pop-now.com/og-image.png",
         width: 1200,
         height: 630,
         alt: "Japan Pop Now - Your guide to Japan's anime and pop culture",
@@ -62,9 +71,9 @@ export const metadata: Metadata = {
     },
   },
   alternates: {
-    canonical: "https://japan-pop-now.com",
+    canonical: "https://www.japan-pop-now.com",
     types: {
-      "application/rss+xml": "https://japan-pop-now.com/feed.xml",
+      "application/rss+xml": "https://www.japan-pop-now.com/feed.xml",
     },
   },
 };
@@ -78,8 +87,8 @@ export default function RootLayout({
     <html lang="en" className={`${playfairDisplay.variable} ${dmSans.variable}`}>
       <head>
         {/* hreflang — English primary, x-default */}
-        <link rel="alternate" hrefLang="en" href="https://japan-pop-now.com" />
-        <link rel="alternate" hrefLang="x-default" href="https://japan-pop-now.com" />
+        <link rel="alternate" hrefLang="en" href="https://www.japan-pop-now.com" />
+        <link rel="alternate" hrefLang="x-default" href="https://www.japan-pop-now.com" />
 
         {/* DNS prefetch & preconnect for third-party origins */}
         <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
@@ -96,14 +105,14 @@ export default function RootLayout({
               "@context": "https://schema.org",
               "@type": "WebSite",
               name: "Japan Pop Now",
-              url: "https://japan-pop-now.com",
+              url: "https://www.japan-pop-now.com",
               description:
                 "Your ultimate guide to Japan's anime and pop culture scene",
               potentialAction: {
                 "@type": "SearchAction",
                 target: {
                   "@type": "EntryPoint",
-                  urlTemplate: "https://japan-pop-now.com/search?q={search_term_string}",
+                  urlTemplate: "https://www.japan-pop-now.com/search?q={search_term_string}",
                 },
                 "query-input": "required name=search_term_string",
               },
@@ -119,8 +128,8 @@ export default function RootLayout({
               "@context": "https://schema.org",
               "@type": "Organization",
               name: "Japan Pop Now",
-              url: "https://japan-pop-now.com",
-              logo: "https://japan-pop-now.com/logo.png",
+              url: "https://www.japan-pop-now.com",
+              logo: "https://www.japan-pop-now.com/logo.png",
               sameAs: [
                 "https://twitter.com/japanpopnow",
                 "https://instagram.com/japanpopnow",
@@ -140,11 +149,11 @@ export default function RootLayout({
               "@type": "SiteNavigationElement",
               name: "Main Navigation",
               hasPart: [
-                { "@type": "WebPage", name: "Collab Cafes", url: "https://japan-pop-now.com/category/collab-cafes" },
-                { "@type": "WebPage", name: "Anime Pilgrimage", url: "https://japan-pop-now.com/category/anime-pilgrimage" },
-                { "@type": "WebPage", name: "Area Guides", url: "https://japan-pop-now.com/category/area-guides" },
-                { "@type": "WebPage", name: "Travel Tips", url: "https://japan-pop-now.com/category/travel-tips" },
-                { "@type": "WebPage", name: "Guides", url: "https://japan-pop-now.com/guides" },
+                { "@type": "WebPage", name: "Collab Cafes", url: "https://www.japan-pop-now.com/category/collab-cafes" },
+                { "@type": "WebPage", name: "Anime Pilgrimage", url: "https://www.japan-pop-now.com/category/anime-pilgrimage" },
+                { "@type": "WebPage", name: "Area Guides", url: "https://www.japan-pop-now.com/category/area-guides" },
+                { "@type": "WebPage", name: "Travel Tips", url: "https://www.japan-pop-now.com/category/travel-tips" },
+                { "@type": "WebPage", name: "Guides", url: "https://www.japan-pop-now.com/guides" },
               ],
             }),
           }}

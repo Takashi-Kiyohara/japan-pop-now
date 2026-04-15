@@ -34,7 +34,7 @@ export default function FeaturedCarousel({ articles }: FeaturedCarouselProps) {
   return (
     <div
       className="relative w-full overflow-hidden bg-[#14213d]"
-      style={{ height: 'clamp(420px, 60vh, 600px)' }}
+      style={{ height: 'clamp(300px, 50vh, 560px)' }}
       onMouseEnter={() => setIsHovered(true)}
       onMouseLeave={() => setIsHovered(false)}
     >
@@ -48,10 +48,10 @@ export default function FeaturedCarousel({ articles }: FeaturedCarouselProps) {
             style={{ opacity: i === current ? 1 : 0, pointerEvents: i === current ? 'auto' : 'none' }}
           >
             {/* Background Image */}
-            {(article.heroImage || article.featuredImage) ? (
+            {article.featuredImage ? (
               <Image
-                src={article.heroImage || article.featuredImage}
-                alt={article.heroImageAlt || article.featuredImageAlt || article.title}
+                src={article.featuredImage}
+                alt={article.featuredImageAlt || article.title}
                 fill
                 priority={i === 0}
                 className="object-cover"

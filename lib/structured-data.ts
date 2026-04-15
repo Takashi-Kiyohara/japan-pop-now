@@ -44,7 +44,6 @@ export function getOrganizationSchema() {
 }
 
 export function getArticleSchema(article: Article, url: string, options?: ArticleSchemaOptions) {
-  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   const schema: any = {
     '@context': 'https://schema.org',
     '@type': 'NewsArticle',
@@ -52,7 +51,7 @@ export function getArticleSchema(article: Article, url: string, options?: Articl
     description: article.description,
     image: article.featuredImage || LOGO_URL,
     datePublished: article.date,
-    dateModified: article.date,
+    dateModified: article.lastUpdated || article.date,
     author: getAuthorSchema(),
     publisher: {
       '@type': 'Organization',
@@ -192,16 +191,16 @@ export function getTouristAttractionSchema(
  * Generate Author schema for editorial team
  */
 export function getAuthorSchema(
-  name: string = 'Japan Pop Now',
+  name: string = 'Takapon',
   url?: string,
   image?: string
 ) {
-  // eslint-disable-next-line @typescript-eslint/no-explicit-any
   const schema: any = {
     '@context': 'https://schema.org',
     '@type': 'Person',
     name,
     url: url || `${SITE_URL}/about`,
+    jobTitle: 'Founder & Editor',
     sameAs: [
       'https://twitter.com/japanpopnow',
       'https://www.instagram.com/japan_pop_now/',

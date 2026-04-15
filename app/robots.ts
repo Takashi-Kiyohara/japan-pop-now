@@ -39,8 +39,8 @@ export default function robots(): MetadataRoute.Robots {
       },
     ],
     sitemap: [
-      'https://japan-pop-now.com/sitemap.xml',
+      'https://www.japan-pop-now.com/sitemap.xml',
     ],
-    host: 'https://japan-pop-now.com',
+    host: 'https://www.japan-pop-now.com',
   };
 }

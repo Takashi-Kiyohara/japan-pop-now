@@ -1,53 +1,32 @@
 ---
-title: "Demon Slayer Tokyo Pilgrimage 2026"
-description: "Visit Demon Slayer pilgrimage locations in Tokyo: Asakusa Senso-ji Temple, guardian shrines in Nakano & Kita-ku, Mt. Kumotori hike for anime fans."
+title: "Demon Slayer Pilgrimage Tokyo — Every Real Location from Kimetsu no Yaiba You Can Visit (2026)"
+description: "Last updated: March 2026. All locations verified as publicly accessible. Covers Tokyo shrines, Asakusa, Mt. Kumotori, and the best Demon Slayer merchandise..."
 date: "2026-03-28"
-lastUpdated: "2026-04-14"
+lastUpdated: "2026-03-28"
 category: "anime-pilgrimage"
-tags: ["demon-slayer", "anime-pilgrimage", "tokyo", "2026"]
+tags: []
 featuredImage: "/images/articles/demon-slayer-pilgrimage-tokyo/featured.jpg"
-featuredImageAlt: "Kaminarimon Gate at Asakusa with traditional red lanterns and cherry blossoms, a Demon Slayer pilgrimage location"
-heroImage: "/images/articles/demon-slayer-pilgrimage-tokyo/featured.jpg"
-heroImageAlt: "Kaminarimon Gate at Asakusa with traditional red lanterns and cherry blossoms, a Demon Slayer pilgrimage location"
+featuredImageAlt: "Kaminarimon Gate at Asakusa decorated with flowers a Demon Slayer pilgrimage spot"
 author: "Japan Pop Now"
-excerpt: "Visit Demon Slayer pilgrimage locations in Tokyo: Asakusa Senso-ji Temple, guardian shrines in Nakano & Kita-ku, Mt. Kumotori hike for anime fans."
-relatedSlugs: ["anime-pilgrimage-spots-tokyo", "jujutsu-kaisen-shibuya-locations-2026", "best-anime-tours-tokyo-2026", "your-name-pilgrimage-tokyo"]
+excerpt: "Last updated: March 2026. All locations verified as publicly accessible. Covers Tokyo shrines, Asakusa, Mt. Kumotori, and the best Demon Slayer merchandise..."
+relatedSlugs: []
 wpPostId: 202
 ---
 
-*Last updated: April 14, 2026. All locations verified as publicly accessible. Covers Tokyo shrines, Asakusa, Mt. Kumotori, and the best Demon Slayer merchandise spots.*
+*Last updated: March 2026. All locations verified as publicly accessible. Covers Tokyo shrines, Asakusa, Mt. Kumotori, and the best Demon Slayer merchandise spots.*
 
-![Senso-ji Temple in Asakusa with crowds and traditional architecture that inspired Demon Slayer's Taisho-era Tokyo setting](https://images.unsplash.com/photo-1545569341-9eb8b30979d9?w=800&h=500&fit=crop&q=80)
+![Senso-ji Temple in Asakusa — the Taisho-era setting where Tanjiro encounters Muzan Kibutsuji in Demon Slayer](https://images.unsplash.com/photo-1545569341-9eb8b30979d9?w=800&h=500&fit=crop&q=80)
 
-Demon Slayer is set in Taisho-era Japan (1912-1926), and the creators drew heavily from real locations. Tanjiro's mountain home, the streets where he first meets Muzan, the Entertainment District arc's setting — they all have real-world counterparts you can visit today.
+Demon Slayer is set in Taisho-era Japan (1912-1926), and the creators drew heavily from real locations. Tanjiro’s mountain home, the streets where he first meets Muzan, the Entertainment District arc’s setting — they all have real-world counterparts you can visit today.
 
-Tokyo and its surrounding areas hold most of the key spots. Some are famous tourist destinations you'd visit anyway. Others are quiet neighborhood shrines where dedicated fans go to collect special Demon Slayer-themed goshuin (temple seals). And then there's Mt. Kumotori — Tanjiro's actual hometown — which is a full-day mountain hike in western Tokyo.
+Tokyo and its surrounding areas hold most of the key spots. Some are famous tourist destinations you’d visit anyway. Others are quiet neighborhood shrines where dedicated fans go to collect special Demon Slayer-themed goshuin (temple seals). And then there’s Mt. Kumotori — Tanjiro’s actual hometown — which is a full-day mountain hike in western Tokyo.
 
 This guide covers every visitable Demon Slayer location in and around Tokyo, organized by area so you can combine multiple spots into efficient routes.
-
-| Location | Hours | Access | Cost | Best For |
-| --- | --- | --- | --- | --- |
-| Senso-ji Temple (Asakusa) | 6:00-17:00 | Asakusa Station (5 min) | Free | Taisho-era atmosphere, crowds |
-| Numabukuro Hikawa Shrine | 9:00-17:00 | Numabukuro Station (5 min) | ¥300-500 goshuin | Quiet, Water Pillar connection |
-| Takinogawa Hachiman Shrine | 9:00-17:00 | Nishi-Sugamo Station (3 min) | ¥300-500 goshuin | Butterfly shrine, Insect Pillar |
-| Mt. Kumotori | 24 hours | 2.5 hrs from Shinjuku | Free (hike) | Tanjiro's mountain home |
-
-<div className="jpn-info-box">
-
-**At a Glance:**
-- **Top spot:** Asakusa Senso-ji (Taisho-era setting)
-- **Shrine combo:** Numabukuro + Takinogawa (30 min transit)
-- **Serious hike:** Mt. Kumotori (7-8 hours, May-Oct only)
-- **Time budget:** Half-day for Asakusa, 3-4 hours for shrines, full day for mountain
-- **Transport:** IC card (Suica/PASMO) covers all train access
-- **Best season:** May-October (clear weather, mountain accessibility)
-
-</div>
 
 ## Asakusa: Where Tanjiro Meets Muzan
 The most significant Demon Slayer location in Tokyo. Asakusa and its iconic Senso-ji Temple represent the Taisho-era city where Tanjiro carries Nezuko through crowded streets and encounters Muzan Kibutsuji for the first time — the scene that changes everything.
 
-The match between anime and reality is strong. Senso-ji's Nakamise Shopping Street, the traditional architecture, the lanterns — the atmosphere of old Tokyo is exactly what the Demon Slayer team was referencing. One historical detail the anime gets right: the Kaminarimon (Thunder Gate) at the entrance to Senso-ji is notably absent from the anime's Taisho-era scenes, because the real gate burned down in 1865 and wasn't rebuilt until 1960.
+The match between anime and reality is strong. Senso-ji’s Nakamise Shopping Street, the traditional architecture, the lanterns — the atmosphere of old Tokyo is exactly what the Demon Slayer team was referencing. One historical detail the anime gets right: the Kaminarimon (Thunder Gate) at the entrance to Senso-ji is notably absent from the anime’s Taisho-era scenes, because the real gate burned down in 1865 and wasn’t rebuilt until 1960.
 
 | **Location** | Senzoku 4-chome, Taito-ku, Tokyo (former Yoshiwara) |
 | --- | --- |
@@ -55,10 +34,10 @@ The match between anime and reality is strong. Senso-ji's Nakamise Shopping Stre
 | **What to see** | Yoshiwara Shrine, former Great Gate site, historic street layout |
 | **Admission** | Free (outdoor walking) |
 
-![Traditional Shinto shrine with red torii gate and stone lanterns, representative of Tokyo shrines featured in Demon Slayer's historical setting](https://images.unsplash.com/photo-1583766395091-2eb9994ed094?w=800&h=500&fit=crop&q=80)
+![Traditional Japanese Shinto shrine with red torii gate and wooden plaques — many shrines inspired Demon Slayer locations](https://images.unsplash.com/photo-1583766395091-2eb9994ed094?w=800&h=500&fit=crop&q=80)
 
 ## The Guardian Shrines: Demon Slayer Goshuin Pilgrimage
-Two Tokyo shrines serve as "guardian shrines" (産土神社 / ubusuna jinja) for Demon Slayer characters, based on the characters' canonical birthplaces. Both offer special Demon Slayer-themed goshuin — the vermilion seal stamps that Japanese shrines give as proof of visit. These two shrines participate in an official "Ubusuna Holy Land Two Shrines Tour" that dedicated fans collect.
+Two Tokyo shrines serve as “guardian shrines” (産土神社 / ubusuna jinja) for Demon Slayer characters, based on the characters’ canonical birthplaces. Both offer special Demon Slayer-themed goshuin — the vermilion seal stamps that Japanese shrines give as proof of visit. These two shrines participate in an official “Ubusuna Holy Land Two Shrines Tour” that dedicated fans collect.
 
 ### Numabukuro Hikawa Shrine — Tomioka Giyu (Water Pillar)
 This small, quiet shrine in Nakano ward is the guardian shrine for Tomioka Giyu, the Water Pillar — the first Hashira Tanjiro encounters and the character who changes his fate by sparing Nezuko. The shrine was founded in 1346 and is a genuine historical site, not a commercial tie-in. The Demon Slayer connection brought a new wave of visitors, and the shrine now offers special character-themed goshuin for fans.
@@ -76,20 +55,20 @@ The guardian shrine for Kocho Shinobu, the Insect Pillar. Located in Kita-ku, th
 | **Location** | 5-26-15 Takinogawa, Kita-ku, Tokyo |
 | --- | --- |
 | **Station** | Nishi-Sugamo Station (Toei Mita Line, Exit A2) — 3 min walk |
-| **Directions** | From Exit A2: turn right, cross the pedestrian crossing at Nishi-Sugamo intersection, follow "Takinogawa Hachiman Street" (shrine is on the left). |
+| **Directions** | From Exit A2: turn right, cross the pedestrian crossing at Nishi-Sugamo intersection, follow “Takinogawa Hachiman Street” (shrine is on the left). |
 | **Goshuin** | ¥300-500 (butterfly-themed design) |
 | **Time needed** | 20-30 minutes |
 
 **Two-shrine pilgrimage combo:** Both shrines can be visited in a single half-day trip. Start at Numabukuro (Seibu Shinjuku Line) in the morning, then train to Nishi-Sugamo (transfer at Ikebukuro → Toei Mita Line). Total transit time between shrines is about 30 minutes. Collect both goshuin for the complete Ubusuna Holy Land set.
 
-![Misty mountain forest landscape with dense trees and cloudy sky, similar to Tanjiro Kamado's mountain hometown in Demon Slayer](https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800&h=500&fit=crop&q=80)
+![Misty mountain forest landscape in Japan similar to the setting of Tanjiro Kamado home in Demon Slayer](https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800&h=500&fit=crop&q=80)
 
-## Mt. Kumotori: Tanjiro's Mountain Home
-![Mountain trail in Japan with pine trees and rocky terrain, Mt. Kumotori where Tanjiro and Nezuko Kamado lived in Demon Slayer](https://images.unsplash.com/photo-1478436127897-769e1b3f0f36?w=800&h=500&fit=crop&q=80)
+## Mt. Kumotori: Tanjiro’s Mountain Home
+![Mountain trail in Japan — Mt. Kumotori in western Tokyo is the canonical hometown of Tanjiro and Nezuko Kamado](https://images.unsplash.com/photo-1478436127897-769e1b3f0f36?w=800&h=500&fit=crop&q=80)
 
-Mt. Kumotori (雲取山, 2,017m) is the highest peak in Tokyo and the official hometown of Tanjiro and Nezuko Kamado. When Tanjiro descends to sell charcoal in Episode 1 and returns to find his family slaughtered, he's going down this mountain. The snow-covered summit, the remote forest trails, the sense of isolation — it all comes from this real place.
+Mt. Kumotori (雲取山, 2,017m) is the highest peak in Tokyo and the official hometown of Tanjiro and Nezuko Kamado. When Tanjiro descends to sell charcoal in Episode 1 and returns to find his family slaughtered, he’s going down this mountain. The snow-covered summit, the remote forest trails, the sense of isolation — it all comes from this real place.
 
-This is not a casual Tokyo sightseeing stop. Mt. Kumotori is a serious full-day mountain hike (7-8 hours round trip from the main trailhead) in the Chichibu-Tama-Kai National Park. It's physically demanding and requires proper hiking gear. But for fans who want the most authentic Demon Slayer pilgrimage experience possible, nothing else comes close.
+This is not a casual Tokyo sightseeing stop. Mt. Kumotori is a serious full-day mountain hike (7-8 hours round trip from the main trailhead) in the Chichibu-Tama-Kai National Park. It’s physically demanding and requires proper hiking gear. But for fans who want the most authentic Demon Slayer pilgrimage experience possible, nothing else comes close.
 
 | **Location** | Okutama, western Tokyo (border of Tokyo/Saitama/Yamanashi) |
 | --- | --- |
@@ -97,7 +76,7 @@ This is not a casual Tokyo sightseeing stop. Mt. Kumotori is a serious full-day 
 | **Access** | Shinjuku → (JR Chuo Line) → Tachikawa → (JR Ome Line) → Okutama Station → (bus, 30 min) → Kamonosawa bus stop |
 | **Total transit from Shinjuku** | About 2.5 hours one way |
 | **Hiking time** | 7-8 hours round trip (moderate-difficult) |
-| **Elevation** | 2,017m (Tokyo's highest peak) |
+| **Elevation** | 2,017m (Tokyo’s highest peak) |
 | **Best season** | May-October. Avoid winter (snow/ice on trails). |
 | **Cost** | Free (public mountain). Mountain hut overnight: ¥7,000-10,000 if needed. |
 
@@ -105,28 +84,26 @@ This is not a casual Tokyo sightseeing stop. Mt. Kumotori is a serious full-day 
 
 If Mt. Kumotori is too ambitious, **Mt. Ohdake** (大岳山, 1,266m) — the canonical birthplace of Inosuke Hashibira — is in the same Okutama area but is a shorter, easier hike. It has a cable car option that makes the ascent accessible to non-hikers, and Mt. Fuji is visible from the summit on clear days.
 
-<GoogleMap query="Demon Slayer Asakusa Senso-ji Temple" title="Asakusa Senso-ji Temple" directionsFrom="Asakusa Station" />
-
 ## Demon Slayer Cafes and Pop-Up Events
-Tokyo regularly hosts Demon Slayer themed food events and pop-ups. These rotate constantly — what's open in March 2026 won't be the same in June. Here's what to look for:
+Tokyo regularly hosts Demon Slayer themed food events and pop-ups. These rotate constantly — what’s open in March 2026 won’t be the same in June. Here’s what to look for:
 
 ### ufotable Cafe (Permanent)
-ufotable is the animation studio behind Demon Slayer, and they operate their own themed cafes in Tokyo. The menu rotates with ufotable's current and past works, and Demon Slayer features frequently. The cafe is small and popular — lottery reservations are often required for peak collaborations.
+ufotable is the animation studio behind Demon Slayer, and they operate their own themed cafes in Tokyo. The menu rotates with ufotable’s current and past works, and Demon Slayer features frequently. The cafe is small and popular — lottery reservations are often required for peak collaborations.
 
 ### Kimetsu Food Hall (きめつ食堂)
-A pop-up food event that returns periodically to major department stores in Tokyo (recent location: Yurakucho Marui). Character-themed dishes, exclusive merchandise, and ufotable artwork. Entry sometimes requires a LINE lottery pass during high-demand periods. Check the [Tokyo Anime Collab Cafe Guide](/articles/tokyo-anime-collab-cafes-spring-2026/) for current dates.
+A pop-up food event that returns periodically to major department stores in Tokyo (recent location: Yurakucho Marui). Character-themed dishes, exclusive merchandise, and ufotable artwork. Entry sometimes requires a LINE lottery pass during high-demand periods. Check the [Tokyo Anime Collab Cafe Guide](https://japan-pop-now.com/tokyo-anime-collab-cafes-spring-2026/) for current dates.
 
 ### Sweets Paradise Collaborations
-Sweets Paradise — a buffet-style dessert restaurant chain — regularly runs Demon Slayer collaborations at multiple locations across Japan. These typically require advance reservation through [Lawson Ticket](/articles/lawson-ticket-loppi-guide/). The advantage: Sweets Paradise has locations in Shinjuku, Ikebukuro, Shibuya, and beyond, so you have more venue options.
+Sweets Paradise — a buffet-style dessert restaurant chain — regularly runs Demon Slayer collaborations at multiple locations across Japan. These typically require advance reservation through [Lawson Ticket](https://japan-pop-now.com/lawson-ticket-loppi-guide/). The advantage: Sweets Paradise has locations in Shinjuku, Ikebukuro, Shibuya, and beyond, so you have more venue options.
 
-![Demon Slayer merchandise including figurines, keychains, and collectibles displayed in a Tokyo anime store](https://images.unsplash.com/photo-1580983218765-f663bec07b37?w=1200&auto=format&fit=crop)
+![Demon Slayer themed capsule toys and merchandise available across Tokyo — collectibles for fans visiting pilgrimage spots](https://japan-pop-now.com/wp-content/uploads/2026/04/demon-slayer-capsule-merch-2026.jpg)
 
 ## Demon Slayer Merchandise in Tokyo
-You don't need a special event to buy Demon Slayer merchandise. Tokyo's anime districts carry it year-round.
+You don’t need a special event to buy Demon Slayer merchandise. Tokyo’s anime districts carry it year-round.
 
 ### Ikebukuro
 
-- **Animate Ikebukuro** — Japan's largest anime store. Multiple floors, extensive Demon Slayer section. For the full Ikebukuro experience, see our [Ikebukuro Anime Guide](/articles/ikebukuro-anime-guide-2026/).
+- **Animate Ikebukuro** — Japan’s largest anime store. Multiple floors, extensive Demon Slayer section. For the full Ikebukuro experience, see our [Ikebukuro Anime Guide](https://japan-pop-now.com/ikebukuro-anime-guide-2026/).
 - **Sunshine City** — Hosts rotating Demon Slayer collaboration shops and photo zones tied to movie releases and events.
 - **Jump Shop Ikebukuro** — Official Shueisha store with Demon Slayer Jump merchandise.
 
@@ -134,7 +111,7 @@ You don't need a special event to buy Demon Slayer merchandise. Tokyo's anime di
 
 - **Animate Akihabara** — Multi-floor store with dedicated Demon Slayer merchandise.
 - **Radio Kaikan** — Multiple specialty shops including K-Books for figures and collectibles.
-- **Kotobukiya Akihabara** — Premium figure displays and sales. Check our [Akihabara Complete Guide](/articles/akihabara-complete-guide-2026/).
+- **Kotobukiya Akihabara** — Premium figure displays and sales. Check our [Akihabara Complete Guide](https://japan-pop-now.com/akihabara-complete-guide-2026/).
 
 ### Shibuya
 
@@ -153,20 +130,14 @@ Start at **Shinjuku Station**. Take the Seibu Shinjuku Line to Numabukuro Statio
 **Transit cost:** About ¥500-700 total.
 
 ### Full-Day Route: Mt. Kumotori Hike (10-12 hours)
-Leave **Shinjuku by 6:00 AM**. JR Chuo Line to Tachikawa, JR Ome Line to Okutama Station. Bus to Kamonosawa trailhead. Summit and return. Take the evening bus back to Okutama, train back to Shinjuku. You'll return around 18:00-19:00. This is an all-day commitment — don't schedule anything else.
+Leave **Shinjuku by 6:00 AM**. JR Chuo Line to Tachikawa, JR Ome Line to Okutama Station. Bus to Kamonosawa trailhead. Summit and return. Take the evening bus back to Okutama, train back to Shinjuku. You’ll return around 18:00-19:00. This is an all-day commitment — don’t schedule anything else.
 
 **Transit cost:** About ¥3,000-4,000 round trip (covered by JR Pass if you have one).
-
-<div className="jpn-tip">
-
-**Tip:** Plan your Mt. Kumotori itinerary months in advance, check weather forecasts daily, and carry offline maps because mountain areas have limited cell coverage.
-
-</div>
 
 ## Frequently Asked Questions
 **Do I need to be a hardcore fan to enjoy these spots?**
 
-Senso-ji and Asakusa are must-visits regardless of Demon Slayer. The shrines are beautiful even without the anime connection. Only Mt. Kumotori is specifically a "fan pilgrimage" — it's a challenging hike with no anime theming on-site. The connection is purely the knowledge that you're standing where Tanjiro lived.
+Senso-ji and Asakusa are must-visits regardless of Demon Slayer. The shrines are beautiful even without the anime connection. Only Mt. Kumotori is specifically a “fan pilgrimage” — it’s a challenging hike with no anime theming on-site. The connection is purely the knowledge that you’re standing where Tanjiro lived.
 
 **Are the shrines commercial or authentic?**
 
@@ -174,7 +145,7 @@ Completely authentic. These are centuries-old Shinto shrines that predate Demon 
 
 **Is Mt. Kumotori doable as a day trip from Tokyo?**
 
-Yes, but it's a long day. Leave early, move at a steady pace, and you'll be fine. Mountain hut accommodation is available near the summit if you'd rather split it into two days.
+Yes, but it’s a long day. Leave early, move at a steady pace, and you’ll be fine. Mountain hut accommodation is available near the summit if you’d rather split it into two days.
 
 **What about locations outside Tokyo?**
 
@@ -184,41 +155,44 @@ Ashikaga Flower Park in Tochigi Prefecture (2 hours from Tokyo) is the real-worl
 A local guide takes you to every Kimetsu no Yaiba filming location in Tokyo, explaining the scene connections and helping you take the perfect reference photos.
 
 [Find Demon Slayer Tours on Klook](https://affiliate.klook.com/redirect?aid=117469&aff_adid=1251547&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US/search/?query=demon+slayer+tokyo+tour&aid=1117469)
-
-<div className="jpn-faq">
-
-### Is Sensoji Temple the only Demon Slayer location in Tokyo?
-
-No. While Sensoji is the most famous, there are 5+ other recognizable locations across Tokyo. Check our complete pilgrimage guide for the full map.
-
-### Can I visit Demon Slayer locations without buying a ticket?
-
-Yes. Most locations are outside (temples, shrines, streets). Sensoji's main hall costs ¥400–600 if you want to enter.
-
-### What's the best time to visit Sensoji Temple for Demon Slayer pilgrimage?
-
-Late afternoon (4:00–6:00 PM) when tour groups leave. Or very early morning (6:30–7:30 AM) if you want fewer crowds and better light.
-
-### Do official Demon Slayer events happen in Tokyo year-round?
-
-Sensoji occasionally hosts Demon Slayer collaborations. Check their official site for current events, exhibitions, and collaboration periods.
-
-</div>
-
 ## More Anime Pilgrimages
 
-- [10 Anime Pilgrimage Spots in Tokyo You Can Visit Today](/articles/anime-pilgrimage-spots-tokyo/)
-- [Your Name Pilgrimage Tokyo: Every Real Location + Walking Route](/articles/your-name-pilgrimage-tokyo/)
-- [Akihabara Complete Guide 2026](/articles/akihabara-complete-guide-2026/)
-- [Jujutsu Kaisen Shibuya Pilgrimage Guide](/articles/jujutsu-kaisen-shibuya-locations-2026/)
-- [Weathering With You Locations Tokyo](/articles/weathering-with-you-locations-tokyo/)
-- [SPY×FAMILY Tokyo Fan Day Guide](/articles/spy-family-tokyo-fan-day-2026/)
-- [One Piece Kumamoto Statue Tour](/articles/one-piece-kumamoto-statue-tour/)
-- [Anime Collab Cafe Calendar](/articles/collab-cafe-calendar/)
-- [Japan IC Card & Transit Guide](/articles/japan-ic-card-transit-guide/)
+- [10 Anime Pilgrimage Spots in Tokyo You Can Visit Today](https://japan-pop-now.com/anime-pilgrimage-spots-tokyo/)
+- [Your Name Pilgrimage Tokyo: Every Real Location + Walking Route](https://japan-pop-now.com/your-name-pilgrimage-tokyo/)
+- [Akihabara Complete Guide 2026](https://japan-pop-now.com/akihabara-complete-guide-2026/)
 
-<div className="jpn-cta">
+### More Anime Pilgrimages
 
-<p><strong>Follow <a href="https://www.instagram.com/japan_pop_now/" rel="nofollow" target="_blank">@japan_pop_now on Instagram</a></strong> for daily Tokyo pop culture updates.</p>
+- [Jujutsu Kaisen Shibuya Pilgrimage Guide](https://japan-pop-now.com/jujutsu-kaisen-shibuya-locations-2026/) — Walk the real Shibuya locations from JJK
+- [Weathering With You Locations Tokyo](https://japan-pop-now.com/weathering-with-you-locations-tokyo/) — Another Shinkai masterpiece pilgrimage
+- [SPY×FAMILY Tokyo Fan Day Guide](https://japan-pop-now.com/spy-family-tokyo-fan-day-2026/) — Visit real Tokyo spots from SPY×FAMILY
+- [One Piece Kumamoto Statue Tour](https://japan-pop-now.com/one-piece-kumamoto-statue-tour/) — A day trip pilgrimage for One Piece fans
+- [Anime Collab Cafe Calendar](https://japan-pop-now.com/collab-cafe-calendar/) — Check for Demon Slayer collabs during your visit
+- [Japan IC Card & Transit Guide](https://japan-pop-now.com/japan-ic-card-transit-guide/) — Navigate between pilgrimage spots easily
 
-</div>
+**Follow [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)** for anime pilgrimage location guides, collab cafe updates, and Tokyo pop culture coverage.
+
+## More Pilgrimage Guides
+
+- [Your Name Pilgrimage Tokyo](/your-name-pilgrimage-tokyo/)
+- [Weathering With You Locations Tokyo](/weathering-with-you-locations-tokyo/)
+- [Jujutsu Kaisen Shibuya Pilgrimage](/your-name-pilgrimage-tokyo/)
+- [Chainsaw Man Tokyo Pilgrimage](/weathering-with-you-locations-tokyo/)
+- [One Piece Tokyo Guide 2026](/one-piece-kumamoto-statue-tour/)
+- [Kyoto Anime Guide 2026](/osaka-anime-guide-den-den-town/)
+
+☕
+
+Planning a trip to Tokyo?
+
+[Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
+
+## Never Miss a Cafe Opening or Anime Event
+Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.
+
+[Follow on Instagram](https://www.instagram.com/pop_now_jp/)
+
+Follow for weekly collab cafe updates & Japan pop culture content.
+
+### Explore by Area
+[🗼 Tokyo](/tag/tokyo/)[🏪 Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[👥 Shibuya](/shibuya-anime-spots-guide/)[🎮 Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[🌆 Osaka](/osaka-anime-guide-2025/)🏯 Kyoto (Coming Soon)

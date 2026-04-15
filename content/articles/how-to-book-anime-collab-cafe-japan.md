@@ -1,54 +1,32 @@
 ---
-title: "Book Anime Collab Cafes Japan: Lawson & Lottery Guide"
-description: "Complete guide to booking anime collab cafes in Tokyo. Lawson Ticket, lottery systems, walk-in tips, platforms for Animate and BOX."
+title: "How to Book an Anime Collab Cafe in Japan — The Complete Guide"
+description: "Complete guide to booking anime collaboration cafes in Tokyo. Covers Lawson Ticket, lottery systems, walk-in tips, and what to expect at your first collab cafe..."
 date: "2026-03-24"
-lastUpdated: "2026-04-14"
+lastUpdated: "2026-03-24"
 category: "travel-tips"
-tags: ["anime-cafes", "tokyo-travel", "booking-guide", "anime-events", "collab-cafe"]
+tags: []
 featuredImage: "/images/articles/how-to-book-anime-collab-cafe-japan/featured.jpg"
-featuredImageAlt: "Colorful anime-themed desserts and character drinks displayed at a Tokyo collaboration cafe"
-heroImage: "/images/articles/how-to-book-anime-collab-cafe-japan/featured.jpg"
-heroImageAlt: "Colorful anime-themed desserts and character drinks displayed at a Tokyo collaboration cafe"
+featuredImageAlt: "Colorful interior of the Fujiko F. Fujio (Doraemon) Museum in Kawasaki"
 imageCredit: "Photo: © JNTO"
 author: "Japan Pop Now"
-excerpt: "Complete guide to booking anime collaboration cafes in Tokyo. Learn the three main booking systems, lottery strategy, walk-in tips, and platform-by-platform instructions for Animate, BOX cafe, and THE GUEST."
-relatedSlugs: ["tokyo-anime-collab-cafes-spring-2026", "lawson-ticket-anime-cafe-booking", "animate-cafe-guide-japan", "one-piece-cafe-gene-shibuya-guide-2026"]
+excerpt: "Complete guide to booking anime collaboration cafes in Tokyo. Covers Lawson Ticket, lottery systems, walk-in tips, and what to expect at your first collab cafe..."
+relatedSlugs: []
 wpPostId: 100
 ---
 
-*Last updated: April 2026. Covers all major booking platforms currently used by collab cafes in Tokyo.*
+*Last updated: March 2026. Covers all major booking platforms currently used by collab cafes in Tokyo.*
 
-![Anime collab cafe themed desserts and character drinks — what to expect at your first collab cafe visit](https://images.unsplash.com/photo-1565299507177-b0ac66763828?w=1200&auto=format&fit=crop)
-Shibuya street scene near PARCO — the heart of Tokyo's pop culture shopping district
+![Anime collab cafe themed desserts and character drinks — what to expect at your first collab cafe visit](https://japan-pop-now.com/wp-content/uploads/2026/04/conan-cafe-food-menu-02.jpg)
+Shibuya street scene near PARCO — the heart of Tokyo’s pop culture shopping district
 Image: Collabo Cafe
 
-<div className="jpn-info-box">
+You’ve found the perfect anime collaboration cafe. The themed menu looks incredible. The exclusive merchandise is exactly what you want. You check the booking page and — it’s entirely in Japanese, asks for information you don’t know how to provide, and every time slot already says 満席 (full).
 
-**TL;DR: Booking Anime Collab Cafes**
-- **Most common:** First-come-first-served online booking (sells out in 3-5 minutes)
-- **Best for international visitors:** Lottery system (random selection, no speed required)
-- **Lead time:** Book 2-4 weeks in advance
-- **Backup plan:** Walk-in on weekday mornings (especially Tuesday-Thursday)
-- **Key tools:** Lawson Loppi, e+ (eplus), cafe's own website, Animate app
-- **Don't give up:** Check for cancellations 24-48 hours before your visit
+This is the single most common frustration international anime fans face when visiting Japan. The collab cafe experience is one of the most unique things Tokyo offers, and it’s locked behind a booking process that’s designed entirely for Japanese-speaking, Japan-based visitors.
 
-</div>
+But it’s doable. This guide walks through every step of the process, from finding out about a cafe to sitting down at your table. It covers the three main booking systems used by Tokyo’s collab cafes, the lottery system that some high-demand cafes use, and what to do when everything is sold out.
 
-| **Factor** | **Details** |
-| --- | --- |
-| **Booking Methods** | First-come-first-served, lottery (chuusen), walk-in with numbered tickets |
-| **Cost Range** | ¥1,500-3,500 per person (food + drink minimum order required) |
-| **Lead Time** | 2-4 weeks advance booking recommended; 3-5 minutes to sell out for popular cafes |
-| **Language** | Japanese interface; Chrome auto-translate works; English menus at some tourist-area cafes |
-| **Payment Methods** | Cash (accepted everywhere), credit cards (most cafes), IC cards like Suica/Pasmo (some cafes) |
-
-You've found the perfect anime collaboration cafe. The themed menu looks incredible. The exclusive merchandise is exactly what you want. You check the booking page and — it's entirely in Japanese, asks for information you don't know how to provide, and every time slot already says 満席 (full).
-
-This is the single most common frustration international anime fans face when visiting Japan. The collab cafe experience is one of the most unique things Tokyo offers, and it's locked behind a booking process that's designed entirely for Japanese-speaking, Japan-based visitors.
-
-But it's doable. This guide walks through every step of the process, from finding out about a cafe to sitting down at your table. It covers the three main booking systems used by Tokyo's collab cafes, the lottery system that some high-demand cafes use, and what to do when everything is sold out.
-
-**Booking an anime collab cafe in Japan typically requires advance online reservation through platforms like Lawson Loppi, e+ (eplus), or the cafe's own website, often 2 to 4 weeks before your visit date.** High-demand collaborations for series like Jujutsu Kaisen and SPY×FAMILY use a lottery system (chuusen) where you apply during a window period and are randomly selected. Walk-in seats are sometimes available on weekday afternoons, but reservations are strongly recommended for any weekend or holiday visit.
+**Booking an anime collab cafe in Japan typically requires advance online reservation through platforms like Lawson Loppi, e+ (eplus), or the cafe’s own website, often 2 to 4 weeks before your visit date.** High-demand collaborations for series like Jujutsu Kaisen and SPY×FAMILY use a lottery system (chuusen) where you apply during a window period and are randomly selected. Walk-in seats are sometimes available on weekday afternoons, but reservations are strongly recommended for any weekend or holiday visit.
 
 ## Table of Contents
 
@@ -57,15 +35,14 @@ But it's doable. This guide walks through every step of the process, from findin
 - [Step 2: Understanding the Three Main Booking Systems](#booking-systems)
 - [How to Book: First-Come-First-Served Cafes](#first-come)
 - [How to Book: Lottery-Based Cafes](#lottery)
-- [What to Do When It's Sold Out](#sold-out)
+- [What to Do When It’s Sold Out](#sold-out)
 - [Step 3: Day of Your Visit — What to Expect](#day-of)
-- [Options That Don't Require Any Booking](#no-reservation)
+- [Options That Don’t Require Any Booking](#no-reservation)
 - [Platform-by-Platform Guide](#platforms)
 - [FAQ](#faq)
 
 ## The Timeline: When Things Happen
-
-Understanding the timeline is the most important thing. Most international visitors fail at booking not because the system is too difficult, but because they don't know the right moment to act.
+Understanding the timeline is the most important thing. Most international visitors fail at booking not because the system is too difficult, but because they don’t know the right moment to act.
 
 | **4–6 weeks before cafe opens** | The cafe is announced on X (Twitter) and on the official website. Key details: dates, location, which series/franchise is featured. |
 | --- | --- |
@@ -76,12 +53,11 @@ Understanding the timeline is the most important thing. Most international visit
 | **Day of visit** | If all else fails, try walk-in. Best chance: weekday mornings, arrive 15–30 min before opening. |
 
 ## Step 1: Finding Out About Collab Cafes
-
 The information flow for collab cafes in Japan works like this: the announcement goes out on X in Japanese → Japanese fan accounts and news sites pick it up within hours → English-language coverage appears days or weeks later (if at all). By the time you see it in English, reservations may already be open or sold out.
 
 **To stay ahead, follow these sources:**
 
-**Our guide:** [Japan Pop Now's Tokyo Anime Collab Cafe Guide](/articles/tokyo-anime-collab-cafes-spring-2026/) is updated weekly with every current and upcoming collab cafe in Tokyo, translated into English with all the booking details.
+**Our guide:** [Japan Pop Now’s Tokyo Anime Collab Cafe Guide](https://japan-pop-now.com/tokyo-anime-collab-cafes-spring-2026/) is updated weekly with every current and upcoming collab cafe in Tokyo, translated into English with all the booking details.
 
 **X (Twitter) accounts to follow for announcements:**
 
@@ -95,99 +71,85 @@ The information flow for collab cafes in Japan works like this: the announcement
 - [Cakes With Faces](https://cakeswithfaces.co.uk/japan/pop-up-theme-cafes-japan/) — Well-maintained English list of current pop-up cafes. Updated regularly.
 
 ## Step 2: Understanding the Three Main Booking Systems
-
 Collab cafes in Tokyo use one of three booking methods. Knowing which system your target cafe uses determines your entire strategy.
 
 ### System 1: First-Come-First-Served Online Booking
-
-The most common system. Reservations open at a specific date and time, and slots are available until they're filled. Speed is everything — popular cafes sell out in 3–5 minutes.
+The most common system. Reservations open at a specific date and time, and slots are available until they’re filled. Speed is everything — popular cafes sell out in 3–5 minutes.
 
 **Used by:** BOX cafe&space, THE GUEST cafe&diner (Shibuya PARCO), My Charaful Cafe, mottocafé
 
 ### System 2: Lottery (抽選 / Chusen)
-
-Instead of racing to book, you enter a lottery during a multi-day window. Winners are selected randomly and notified by email. This is actually *better* for international visitors — you don't need to be online at a specific moment, and your chances are the same as everyone else's.
+Instead of racing to book, you enter a lottery during a multi-day window. Winners are selected randomly and notified by email. This is actually *better* for international visitors — you don’t need to be online at a specific moment, and your chances are the same as everyone else’s.
 
 **Used by:** Animate Cafe (for high-demand collabs during the first few days), some one-time special events
 
 ### System 3: Walk-In with Numbered Tickets
-
 No advance booking. You show up, receive a numbered ticket, and wait for your number to be called. The wait can be 30 minutes to 2+ hours depending on popularity.
 
 **Used by:** Some cafes after the initial reservation period ends, DECOTTO by animate cafe (after the first week of a new collab)
 
 ## How to Book: First-Come-First-Served Cafes (Step by Step)
-
-This is the most common scenario. Here's exactly what to do:
+This is the most common scenario. Here’s exactly what to do:
 
 ### Before Booking Day
 
-1. **Open the booking URL in advance.** The URL is shared in the cafe's announcement tweet. Open it on your computer (not your phone — you'll be faster on a full keyboard).
-2. **Use Google Chrome and auto-translate the page.** Right-click anywhere → "Translate to English." The translation is imperfect but functional enough to fill in every field.
-3. **Create an account if the platform requires one.** Some booking sites require registration. Do this the day before so you're not fumbling with account creation when the clock is ticking.
+1. **Open the booking URL in advance.** The URL is shared in the cafe’s announcement tweet. Open it on your computer (not your phone — you’ll be faster on a full keyboard).
+2. **Use Google Chrome and auto-translate the page.** Right-click anywhere → “Translate to English.” The translation is imperfect but functional enough to fill in every field.
+3. **Create an account if the platform requires one.** Some booking sites require registration. Do this the day before so you’re not fumbling with account creation when the clock is ticking.
 4. **Prepare your information in a text file:** Full name (as it appears on your ID), email address, phone number (your international number is fine for most platforms — format it as +[country code][number]), group size (1-2 or 3-4), and your top 3 preferred dates and time slots.
 5. **Set an alarm for 2 minutes before booking opens.** Have the page loaded and ready to go.
 
 ### The Moment Booking Opens
 
 1. **Refresh the page at the exact opening time.** Some sites go live a few seconds early.
-2. **Select your preferred date and time slot.** Move fast. Don't overthink — any reservation is better than no reservation.
+2. **Select your preferred date and time slot.** Move fast. Don’t overthink — any reservation is better than no reservation.
 3. **Fill in your details.** This is why you prepared them in advance. Copy-paste from your text file.
 4. **Submit immediately.** Double-checking is a luxury you might not have with a popular cafe.
-5. **Screenshot your confirmation.** You'll need it on the day of your visit.
+5. **Screenshot your confirmation.** You’ll need it on the day of your visit.
 
 **If your first choice is gone:** Immediately try a different date or time. Weekday lunch slots (11:00–14:00) and the last slot of the day are consistently the easiest to get. Weekend evening slots sell out first.
 
 ## How to Book: Lottery-Based Cafes (Step by Step)
+Lottery cafes give you a window of several days to enter (typically 3-7 days). Here’s the process:
 
-Lottery cafes give you a window of several days to enter (typically 3-7 days). Here's the process:
-
-1. **Wait for the lottery entry period to open** (announced on the cafe's X account).
+1. **Wait for the lottery entry period to open** (announced on the cafe’s X account).
 2. **Go to the booking page** and select your preferred date, time, and group size.
 3. **Submit your entry.** You can usually enter for multiple dates/times — do this to maximize your chances.
 4. **Wait for the result email.** This comes 3-7 days after the entry period closes. Check your spam folder.
-5. **If you win:** Confirm your reservation (there's usually a deadline to confirm).
-6. **If you lose:** Check if there's a second-round lottery or if the cafe switches to first-come-first-served for remaining slots.
+5. **If you win:** Confirm your reservation (there’s usually a deadline to confirm).
+6. **If you lose:** Check if there’s a second-round lottery or if the cafe switches to first-come-first-served for remaining slots.
 
-**For Animate Cafe specifically:** You enter the lottery through the Animate app or website using a Club Animate account. You can also log in with X (Twitter), LINE, or Facebook. The interface is in Japanese, but the lottery flow is visual enough to get through with Chrome's translation.
+**For Animate Cafe specifically:** You enter the lottery through the Animate app or website using a Club Animate account. You can also log in with X (Twitter), LINE, or Facebook. The interface is in Japanese, but the lottery flow is visual enough to get through with Chrome’s translation.
 
 ### Too Complicated? Book a Guided Cafe Tour Instead
-
 If dealing with Japanese lottery systems and Lawson Loppi machines sounds overwhelming, guided anime cafe tours handle everything for you. Your guide books the cafe, translates the menu, and explains the limited merch.
 
-[See Guided Cafe Tours on Klook](https://affiliate.klook.com/redirect?aid=117469&aff_adid=1251547&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US/search/?query=anime+cafe+tokyo&aid=1117469) — From ~$50/person. Includes reservation, guide, and transit directions.
-
-<div className="jpn-tip">
-
-**Tip:** Check for cancellations 24–48 hours before your preferred date. Walk-in on weekday mornings (especially Tuesday–Thursday) for last-minute availability. Final days of a collab cafe often have better slots than opening week.
-
-</div>
-
+[See Guided Cafe Tours on Klook](https://affiliate.klook.com/redirect?aid=117469&aff_adid=1251547&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US/search/?query=anime+cafe+tokyo&aid=1117469)From ~$50/person. Includes reservation, guide, and transit directions.
 ## What to Do When Everything Is Sold Out
 
-![Blue Lock anime collaboration cafe 2026 with character-themed menu items and cafe interior](https://images.unsplash.com/photo-1507048331197-7d4ac70811cf?w=1200&auto=format&fit=crop)
-Ikebukuro skyline — home to Sunshine City, Animate, and Tokyo's densest anime shopping district
+![Blue Lock anime collaboration cafe 2026 with character-themed menu items and cafe interior](https://japan-pop-now.com/wp-content/uploads/2026/04/blue-lock-cafe-2026.jpg)
+Ikebukuro skyline — home to Sunshine City, Animate, and Tokyo’s densest anime shopping district
 Image: Collabo Cafe
 
-Don't give up. You have three realistic options:
+Don’t give up. You have three realistic options:
 
 **Option 1: Check for cancellations.** Visit the booking page every day, especially 24-48 hours before your preferred date. People cancel constantly — schedule changes, flight delays, double bookings. Cancellations appear as newly available slots on the booking page without any separate announcement.
 
-**Option 2: Walk-in on a weekday morning.** Many collab cafes hold back a small number of walk-in slots each day, or open seats that were reserved but not claimed (no-shows). Show up 15-30 minutes before the cafe opens and ask. Your success rate is highest on Tuesday and Wednesday mornings. In Japanese, you can ask: "*tobiiri wa dekimasu ka?*" (飛び入りはできますか？ — Are walk-ins available?).
+**Option 2: Walk-in on a weekday morning.** Many collab cafes hold back a small number of walk-in slots each day, or open seats that were reserved but not claimed (no-shows). Show up 15-30 minutes before the cafe opens and ask. Your success rate is highest on Tuesday and Wednesday mornings. In Japanese, you can ask: “*tobiiri wa dekimasu ka?*” (飛び入りはできますか？ — Are walk-ins available?).
 
-**Option 3: Go during the cafe's final days.** Counterintuitively, the last 2-3 days of a collab cafe run sometimes have better availability than the opening week. The initial hype fades, and some fans who booked multiple visits cancel their later reservations. Check the booking page — you might find open slots for the final weekend.
+**Option 3: Go during the cafe’s final days.** Counterintuitively, the last 2-3 days of a collab cafe run sometimes have better availability than the opening week. The initial hype fades, and some fans who booked multiple visits cancel their later reservations. Check the booking page — you might find open slots for the final weekend.
 
 ## Step 3: Day of Your Visit — What to Expect
 
-![Detective Conan x Namco campaign 2026 featuring anime character prizes and collab merchandise](https://images.unsplash.com/photo-1511512578047-dfb367046420?w=1200&auto=format&fit=crop)
-Anime merchandise display — the colorful world of character goods found across Tokyo's otaku shops
+![Detective Conan x Namco campaign 2026 featuring anime character prizes and collab merchandise](https://japan-pop-now.com/wp-content/uploads/2026/04/conan-namco-campaign-2026.jpg)
+Anime merchandise display — the colorful world of character goods found across Tokyo’s otaku shops
 Image: Collabo Cafe
 
 **Arrive on time.** Collab cafes operate on strict time slots. Your 80-90 minute window starts at the scheduled time regardless of when you check in. Being 10 minutes late means 10 fewer minutes at the cafe — and some cafes will cancel your reservation entirely for no-shows past 15 minutes. Aim to arrive 5-10 minutes early.
 
 **What to bring:** Your reservation confirmation (screenshot on your phone is fine), a way to pay (cash is accepted everywhere; credit cards at most cafes; IC cards like Suica/Pasmo at some), and your passport if you want tax-free merchandise purchases over ¥5,000.
 
-**Minimum order:** Most cafes require you to order at least one food item and one drink per person. Some only require one drink. This is stated in the booking terms (in Japanese), but it's standard across almost all collab cafes.
+**Minimum order:** Most cafes require you to order at least one food item and one drink per person. Some only require one drink. This is stated in the booking terms (in Japanese), but it’s standard across almost all collab cafes.
 
 **Bonus items:** Each menu item you order earns you one random collectible bonus (coaster, postcard, sticker, etc.). The character you receive is random. If you want a specific character, order multiple items for more chances — or trade with other guests (this is common and socially accepted in collab cafes).
 
@@ -196,18 +158,17 @@ Image: Collabo Cafe
 **Merchandise:** Buy what you want immediately. Popular items — especially anything featuring the most popular characters — sell out within the first few days. The merch counter is usually accessible before or after your meal without needing a separate visit.
 
 ## Options That Require Zero Booking
-
 If the entire booking process is more planning than you want to do, these alternatives give you a collab cafe-style experience with zero advance preparation:
 
 **Gratte stands at Animate stores.** These small drink counters inside Animate stores serve character-themed lattes and cookies with rotating collab themes every 2 weeks. Walk up, order (¥700-900), receive a drink with character latte art and a random collectible bonus. Available at Animate Ikebukuro (basement of main store), Akihabara ANNEX, Shibuya, and more.
 
 **Merchandise-only pop-ups.** Events like the Jujutsu Kaisen PLAZA at Loft or seasonal pop-ups at Animate stores are walk-in only. No food, no reservation — just exclusive merchandise you can browse and buy at your own pace.
 
-**Permanent themed cafes.** Not collab cafes (they don't change themes), but they offer a similar atmosphere year-round: the Final Fantasy Eorzea Cafe in Akihabara, ARTNIA (Square Enix's cafe and merchandise shop) in Shinjuku, and Kamen Rider/Super Sentai themed restaurants in Ikebukuro all accept walk-ins during off-peak hours.
+**Permanent themed cafes.** Not collab cafes (they don’t change themes), but they offer a similar atmosphere year-round: the Final Fantasy Eorzea Cafe in Akihabara, ARTNIA (Square Enix’s cafe and merchandise shop) in Shinjuku, and Kamen Rider/Super Sentai themed restaurants in Ikebukuro all accept walk-ins during off-peak hours.
 
 ## Platform-by-Platform Quick Reference
 
-![Natsume Yuujinchou anime pop-up store 2026 with exclusive character goods and merchandise display](https://images.unsplash.com/photo-1617196033879-f1ae4b6de2b3?w=1200&auto=format&fit=crop)
+![Natsume Yuujinchou anime pop-up store 2026 with exclusive character goods and merchandise display](https://japan-pop-now.com/wp-content/uploads/2026/04/natsume-popup-store-2026.jpg)
 Tokyo neon streets at night — the lively atmosphere of neighborhoods like Akihabara and Shinjuku
 Image: Collabo Cafe
 
@@ -221,7 +182,9 @@ Image: Collabo Cafe
 
 ## Frequently Asked Questions
 
-<div className="jpn-faq">
+![Anime collab cafe themed food and drinks — character latte art and decorated dessert plates](https://japan-pop-now.com/wp-content/uploads/2026/04/conan-cafe-food-menu-01.jpg)
+Shibuya Scramble Crossing — the world-famous intersection featured in countless anime
+Image: Collabo Cafe
 
 **Can I book from outside Japan?**
 
@@ -237,53 +200,58 @@ Yes. Ikebukuro alone has enough collab cafes and anime spots to fill an entire d
 
 **Is the food actually good?**
 
-It's improved significantly over the past few years. Collab cafe food was historically novelty-focused, but today, many cafes (especially THE GUEST at PARCO and animate cafe's larger venues) serve good quality food. The presentation is always the priority, but the flavor is no longer an afterthought.
+It’s improved significantly over the past few years. Five years ago, collab cafe food was pure novelty — pretty to photograph, mediocre to eat. Today, many cafes (especially THE GUEST at PARCO and animate cafe’s larger venues) serve good food. The presentation is always the priority, but the flavor is no longer an afterthought.
 
 **I missed everything. Is it still worth visiting Ikebukuro/Akihabara/Shibuya?**
 
-Yes — collab cafes are just one piece of Tokyo's pop culture scene. [Akihabara](/articles/akihabara-complete-guide-2026/) has permanent anime shops, retro game stores, and maid cafes. [Ikebukuro](/articles/ikebukuro-anime-guide-2026/) has Animate (Japan's largest anime store), Otome Road, and Sunshine City events. Shibuya PARCO has the Jump Shop and Nintendo TOKYO year-round.
+Yes — collab cafes are just one piece of Tokyo’s pop culture scene. [Akihabara](https://japan-pop-now.com/akihabara-complete-guide-2026/) has permanent anime shops, retro game stores, and maid cafes. [Ikebukuro](https://japan-pop-now.com/ikebukuro-anime-guide-2026/) has Animate (Japan’s largest anime store), Otome Road, and Sunshine City events. Shibuya PARCO has the Jump Shop and Nintendo TOKYO year-round.
 
-For the latest on what's open right now, check our [Tokyo Anime Collab Cafe Guide for Spring 2026](/articles/tokyo-anime-collab-cafes-spring-2026/), updated weekly.
-
-</div>
-
-<div className="jpn-cta">
-
-<p><strong>Follow <a href="https://www.instagram.com/japan_pop_now/" rel="nofollow" target="_blank">@japan_pop_now on Instagram</a></strong> for daily Tokyo pop culture updates.</p>
-
-</div>
+For the latest on what’s open right now, check our [Tokyo Anime Collab Cafe Guide for Spring 2026](https://japan-pop-now.com/tokyo-anime-collab-cafes-spring-2026/), updated weekly.
 
 ### Planning Your Tokyo Anime Trip?
-
 Beyond collab cafes, Tokyo has anime districts, pilgrimage spots, and exclusive merch shops. Get a discounted activity pass to cover multiple attractions.
 
 [Browse Tokyo Activities on GetYourGuide](https://www.getyourguide.com/tokyo-l193/?q=anime&partner_id=R7OISH9&utm_medium=online_publisher)
-
 ## Related Guides
 
-- [Animate Cafe Guide Japan — Lottery Booking, Gratte, DECOTTO & All Locations](/articles/animate-cafe-guide-japan/)
-- [Lawson Ticket & Loppi Machine Guide — How to Book Anime Cafes and Events in Japan](/articles/lawson-ticket-anime-cafe-booking/)
+- [Animate Cafe Guide Japan — Lottery Booking, Gratte, DECOTTO & All Locations](https://japan-pop-now.com/animate-cafe-guide-japan/)
+- [Lawson Ticket & Loppi Machine Guide — How to Book Anime Cafes and Events in Japan](https://japan-pop-now.com/lawson-ticket-loppi-guide/)
 
-**See what's open right now:** Check our [Anime Collab Cafe Calendar](/articles/tokyo-anime-collab-cafes-spring-2026/) for a real-time list of every collaboration cafe currently running in Japan. Updated every Monday.
+**See what’s open right now:** Check our [Anime Collab Cafe Calendar](https://japan-pop-now.com/tokyo-anime-collab-cafes-spring-2026/) for a real-time list of every collaboration cafe currently running in Japan. Updated every Monday.
 
 ### Collab Cafe Guides
 
-- [Tokyo Anime Collab Cafes Spring 2026](/articles/tokyo-anime-collab-cafes-spring-2026/)
-- [One Piece Cafe GENE at PARCO 2026](/articles/one-piece-cafe-gene-shibuya-guide-2026/)
-- [Animate Cafe Guide Japan](/articles/animate-cafe-guide-japan/)
-- [Collab Cafe Calendar — What's Open Now](/articles/tokyo-anime-collab-cafes-spring-2026/)
-- [FamilyMart Anime Collab Stores 2026](/articles/familymart-anime-collab-stores-2026/)
+- [Tokyo Anime Collab Cafes Spring 2026](/tokyo-anime-collab-cafes-spring-2026/)
+- [One Piece Cafe GENE at PARCO 2026](/one-piece-cafe-gene-parco-2026/)
+- [Animate Cafe Guide Japan](/animate-cafe-guide-japan/)
+- [Collab Cafe Calendar — What’s Open Now](/collab-cafe-calendar/)
+- [FamilyMart Anime Collab Stores 2026](/familymart-anime-collab-stores-2026/)
 
-*Japan Pop Now is a Tokyo-based English-language media covering Japanese pop culture for international visitors. We specialize in information that's usually only available in Japanese — collab cafes, anime events, limited-edition merchandise, and the spots that guidebooks don't cover.*
+**Follow [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)** for daily Tokyo pop culture updates.
+
+*Japan Pop Now is a Tokyo-based English-language media covering Japanese pop culture for international visitors. We specialize in information that’s usually only available in Japanese — collab cafes, anime events, limited-edition merchandise, and the spots that guidebooks don’t cover.*
 
 ## More Cafe & Event Guides
 
-- [Tokyo Anime Collab Cafes Spring 2026](/articles/tokyo-anime-collab-cafes-spring-2026/)
-- [Animate Cafe Complete Guide](/articles/animate-cafe-guide-japan/)
-- [Lawson Ticket Anime Booking Guide](/articles/lawson-ticket-anime-cafe-booking/)
-- [Akihabara Complete Guide 2026](/articles/akihabara-complete-guide-2026/)
-- [Ikebukuro Anime Guide 2026](/articles/ikebukuro-anime-guide-2026/)
+- [Tokyo Anime Collab Cafes Spring 2026](/tokyo-anime-collab-cafes-spring-2026/)
+- [Anime Collab Cafe Guide Japan](/animate-cafe-guide-japan/)
+- [Animate Cafe Complete Guide](/animate-cafe-guide-japan/)
+- [Lawson Ticket Anime Booking Guide](/lawson-ticket-loppi-guide/)
+- [Akihabara Complete Guide 2026](/akihabara-complete-guide-2026/)
+- [Ikebukuro Anime Guide 2026](/ikebukuro-anime-guide-2026/)
 
----
+☕
 
-**Planning a trip to Tokyo?** Check our complete guide to anime collaboration cafes currently open at [Tokyo Anime Collab Cafes Spring 2026](/articles/tokyo-anime-collab-cafes-spring-2026/).
+Planning a trip to Tokyo?
+
+[Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
+
+## Never Miss a Cafe Opening or Anime Event
+Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.
+
+[Follow on Instagram](https://www.instagram.com/pop_now_jp/)
+
+Follow for weekly collab cafe updates & Japan pop culture content.
+
+### Explore by Area
+[🗼 Tokyo](/tag/tokyo/)[🏪 Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[👥 Shibuya](/shibuya-anime-spots-guide/)[🎮 Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[🌆 Osaka](/osaka-anime-guide-2025/)🏯 Kyoto (Coming Soon)
