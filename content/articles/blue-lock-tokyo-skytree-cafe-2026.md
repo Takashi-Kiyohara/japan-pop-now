@@ -6,7 +6,9 @@ lastUpdated: "2026-04-22"
 author: "Takapon"
 category: "collab-cafe"
 tags: ["blue-lock", "tokyo-skytree", "collab-cafe", "anime-exhibition", "2026-spring", "akihabara", "shibuya"]
-featuredImage: "/images/articles/blue-lock-tokyo-skytree-cafe-2026/hero.jpg"
+featuredImage: "/images/articles/blue-lock-tokyo-skytree-cafe-2026/featured.jpg"
+featuredImageAlt: "Official BLUE LOCK EPISODE SKY key visual showing characters against the Tokyo Skytree backdrop"
+imageCredit: "Key visual: TOKYO SKYTREE / Kodansha"
 featuredImageAlt: "Tokyo Skytree street view — venue for the Blue Lock EPISODE SKY collaboration event"
 imageCredit: "Photo: Unsplash"
 relatedSlugs: ["tokyo-anime-collab-cafes-spring-2026", "how-to-book-anime-collab-cafe-japan", "akihabara-complete-guide-2026", "anime-day-trips-from-tokyo-2026"]
@@ -18,8 +20,8 @@ description: "Visit 3 Blue Lock events in Tokyo: Skytree collab (Apr 9-Jul 6), A
 
 <div class="jpn-tip"><strong>Disclosure:</strong> This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you.</div>
 
-![Tokyo Skytree street-level view — the venue for Blue Lock's first observation deck collaboration event](/images/articles/blue-lock-tokyo-skytree-cafe-2026/hero.jpg)
-*Tokyo Skytree, home to the BLUE LOCK EPISODE SKY event running through July 2026 — Photo: Unsplash*
+![Official BLUE LOCK EPISODE SKY promotional key visual for the Tokyo Skytree collaboration event](/images/articles/blue-lock-tokyo-skytree-cafe-2026/featured.jpg)
+*BLUE LOCK EPISODE SKY official key visual — Image: TOKYO SKYTREE / Kodansha*
 
 **Three separate Blue Lock events are running in Tokyo at the same time this spring** — a 450-meter Skytree takeover with character lighting and a dedicated cafe (April 9 through July 6), a Honey Lemon themed collab cafe in Akihabara (April 15 through May 24), and the final stop of the EGOIST Exhibition in Shibuya (April 24 through May 10). After spending a full day running between all three, I can confirm they're worth the trip — but only if you plan your route right. Total damage: around **12,000 to 15,000 yen** depending on how much merch you grab. This guide covers exact prices, reservation tricks, and a time-efficient route that starts at the exhibition and ends 450 meters above the city.
 
@@ -45,8 +47,8 @@ Tokyo doesn't usually get three events from the same franchise running at once. 
 
 **3. Blue Lock Exhibition EGOIST EXHIBITION -Extra Time-** is the Shibuya finale at Seibu Shibuya Movida Building, 6th and 7th floors. April 24 through May 10 only. This one has the tightest window — just 17 days — so prioritize it if you're choosing which to skip.
 
-![Shibuya district at night — the EGOIST Exhibition's final stop is at Seibu Shibuya Movida Building](/images/articles/blue-lock-tokyo-skytree-cafe-2026/body-1.jpg)
-*Shibuya at night, home to the Blue Lock EGOIST Exhibition finale — Photo: Unsplash*
+![Official BLUE LOCK EGOIST Exhibition key visual for the Shibuya finale](/images/articles/blue-lock-tokyo-skytree-cafe-2026/body-1.jpg)
+*EGOIST Exhibition official key visual — Image: bluelockegoistexhibition.com*
 
 ## How Much Do Tickets Cost?
 
@@ -98,8 +100,8 @@ I've tested this route and it works. Start early, end at Skytree for the night l
 
 **18:30 — Skytree Night Lighting.** The character-themed exterior illumination runs nightly during the event period. Six main characters each get their own lighting pattern in approximately 5-minute loops. Best viewed from the Soramachi terrace below.
 
-![Panoramic view of Tokyo at dusk — the Skytree event includes a panoramic anime screening at 350 meters](/images/articles/blue-lock-tokyo-skytree-cafe-2026/body-2.jpg)
-*The view from Tokyo Skytree's Tembo Deck, where Blue Lock footage screens on the panoramic theater — Photo: Unsplash*
+![Official Blue Lock x Collabo Cafe Honpo Honey Lemon Cafe promotional image](/images/articles/blue-lock-tokyo-skytree-cafe-2026/body-2.jpg)
+*Blue Lock x Collabo Cafe Honpo official announcement — Image: collabocafe-honpo.co.jp*
 
 ## What to Eat at the Skytree Cafe (Floor 340)
 
@@ -159,8 +161,6 @@ The Honey Lemon cafe line features characters in bee-antenna costumes. Exclusive
 
 Blue Lock isn't just another sports anime — it inverted the entire genre formula. Instead of teamwork-conquers-all, the series rewards selfishness and ego. That premise hit a nerve in Japan, where the manga has sold over **33 million copies** and the anime's third season is currently airing. The timing of these three simultaneous events isn't coincidental — it's a franchise at peak commercial momentum, and venues are competing for licensing deals. For international fans, this concentration of events in one city during one season is unusually convenient. Most franchises spread their events across months or regions. Blue Lock Tokyo spring 2026 is a rare convergence.
 
-![Tokyo cityscape at dusk — three Blue Lock events spread across Shibuya, Akihabara, and Skytree districts](/images/articles/blue-lock-tokyo-skytree-cafe-2026/body-3.jpg)
-*Tokyo at dusk — three Blue Lock events are spread across Shibuya, Akihabara, and the Skytree area — Photo: Unsplash*
 
 ## Frequently Asked Questions
 
