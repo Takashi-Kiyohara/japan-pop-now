@@ -91,11 +91,11 @@ export default function RootLayout({
         <link rel="alternate" hrefLang="en" href="https://www.japan-pop-now.com" />
         <link rel="alternate" hrefLang="x-default" href="https://www.japan-pop-now.com" />
 
-        {/* DNS prefetch & preconnect for third-party origins */}
-        <link rel="dns-prefetch" href="https://www.googletagmanager.com" />
-        <link rel="dns-prefetch" href="https://pagead2.googlesyndication.com" />
-        <link rel="dns-prefetch" href="https://fonts.googleapis.com" />
+        {/* Preconnect to origins that serve critical render-blocking or high-priority resources */}
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
+        <link rel="preconnect" href="https://www.googletagmanager.com" crossOrigin="anonymous" />
+        <link rel="preconnect" href="https://pagead2.googlesyndication.com" crossOrigin="anonymous" />
         <link rel="preconnect" href="https://www.google-analytics.com" crossOrigin="anonymous" />
 
         {/* Structured Data - WebSite Schema */}
