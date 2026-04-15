@@ -109,7 +109,7 @@ export default function ArticleBody({ content, category, slug, relatedSuggestion
                 Related Reads
               </p>
               <ul style={{ margin: 0, padding: 0, listStyle: 'none' }}>
-                {relatedSuggestions.slice(0, 3).map((r) => (
+                {relatedSuggestions.slice(0, 5).map((r) => (
                   <li key={r.slug} style={{ marginBottom: '4px' }}>
                     <Link
                       href={`/articles/${r.slug}`}

@@ -96,7 +96,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     notFound();
   }
 
-  const relatedArticles = getRelatedArticles(slug, 3);
+  const relatedArticles = getRelatedArticles(slug, 5);
   const allArticles = getAllArticles();
   const category = CATEGORIES.find((c) => c.slug === article.category);
   const url = getArticleUrl(slug);

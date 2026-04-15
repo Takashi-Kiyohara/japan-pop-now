@@ -6,16 +6,81 @@ interface InternalLinkMatch {
   position: number;
 }
 
-// Keyword aliases for improved matching
+// Keyword aliases for improved matching.
+// Keys MUST be actual article slugs. Aliases should be distinctive phrases
+// unlikely to appear incidentally in unrelated articles.
 const KEYWORD_ALIASES: Record<string, string[]> = {
-  'akihabara-guide': ['akihabara', 'electric town'],
-  'shibuya-spots': ['shibuya', 'shibuya crossing'],
-  'harajuku-fashion': ['harajuku', 'takeshita street'],
-  'jr-pass': ['japan rail pass', 'jr pass', 'jrpass'],
-  'esim-japan': ['esim', 'sim card', 'data plan'],
-  'collab-cafe': ['collaboration cafe', 'collab cafe', 'themed cafe'],
-  'pokemon': ['pokemon', 'pikachu'],
-  'slam-dunk': ['slam dunk', 'inoue'],
+  // Area guides
+  'akihabara-complete-guide-2026': ['akihabara', 'electric town'],
+  'shibuya-harajuku-pop-culture-guide': ['shibuya crossing', 'takeshita street'],
+  'ikebukuro-anime-guide-2026': ['ikebukuro', 'otome road', 'sunshine city'],
+  'nakano-broadway-guide': ['nakano broadway'],
+  'osaka-anime-guide-den-den-town': ['den den town', 'nipponbashi'],
+  'kyoto-anime-guide-2026': ['kyoto anime', 'uji'],
+  'tokyo-anime-district-guide': ['anime districts', 'anime neighborhoods'],
+
+  // Travel / logistics
+  'japan-rail-pass-2026-guide': ['japan rail pass', 'jr pass'],
+  'japan-esim-pocket-wifi-sim-card': ['esim', 'pocket wifi', 'sim card'],
+  'japan-ic-card-transit-guide': ['suica', 'pasmo', 'ic card'],
+  'japan-luggage-forwarding-2026': ['luggage forwarding', 'takuhaibin', 'yamato transport'],
+  'japan-travel-insurance-2026': ['travel insurance'],
+  'japan-proxy-shopping-2026': ['proxy shopping', 'buyee', 'zenmarket'],
+  'japan-trip-checklist-anime-fans-2026': ['trip checklist'],
+  'first-timers-japan-playbook-anime-fans-2026': ['first timers', 'first time in japan'],
+  'ship-anime-figures-merch-home-japan': ['ship figures home', 'ship merch home'],
+
+  // Franchise pilgrimages
+  'demon-slayer-pilgrimage-tokyo': ['demon slayer', 'kimetsu no yaiba'],
+  'chainsaw-man-pilgrimage-tokyo': ['chainsaw man', 'denji'],
+  'jujutsu-kaisen-shibuya-locations-2026': ['jujutsu kaisen', 'jjk shibuya'],
+  'jujutsu-kaisen-cafes-japan-2026-guide': ['jujutsu kaisen cafe', 'jjk cafe'],
+  'naruto-tokyo-pilgrimage-2026': ['naruto'],
+  'slam-dunk-kamakura-pilgrimage-2026': ['slam dunk', 'kamakura koko-mae', 'inoue takehiko'],
+  'your-name-pilgrimage-tokyo': ['your name', 'kimi no na wa'],
+  'weathering-with-you-locations-tokyo': ['weathering with you', 'tenki no ko'],
+  'anime-pilgrimage-spots-tokyo': ['anime pilgrimage', 'seichi junrei'],
+  'one-piece-tokyo-guide-2026': ['one piece tokyo'],
+  'one-piece-kumamoto-statue-tour': ['one piece statues', 'kumamoto statue'],
+  'spy-family-tokyo-fan-day-2026': ['spy family', 'spy x family'],
+
+  // Cafes / collabs
+  'animate-cafe-guide-japan': ['animate cafe'],
+  'one-piece-cafe-gene-shibuya-guide-2026': ['one piece cafe', 'gene cafe'],
+  'my-hero-academia-cafe-tokyo-2026': ['my hero academia cafe', 'mha cafe'],
+  'detective-conan-cafe-2026-japan-guide': ['detective conan cafe', 'case closed cafe'],
+  'detective-conan-pilgrimage-events-2026': ['detective conan', 'case closed'],
+  'lawson-ticket-anime-cafe-booking': ['lawson ticket', 'l-code'],
+  'how-to-book-anime-collab-cafe-japan': ['book collab cafe', 'collab cafe booking'],
+  'tokyo-anime-collab-cafes-spring-2026': ['spring 2026 collab cafe'],
+  'tokyo-anime-collab-cafes-summer-2026': ['summer 2026 collab cafe'],
+  'osaka-anime-collab-cafes-pop-culture-2026': ['osaka collab cafe'],
+  'chiikawa-bakery-harajuku-guide-2026': ['chiikawa bakery', 'chiikawa'],
+  'familymart-anime-collab-stores-2026': ['familymart collab', 'family mart anime'],
+
+  // Shopping / merch
+  'anime-merch-shopping-guide-japan': ['anime merch shopping', 'anime shopping'],
+  'gachapon-guide-japan': ['gachapon', 'gashapon', 'capsule toys'],
+  'game-centers-arcades-japan': ['game centers', 'arcades', 'ufo catcher'],
+
+  // Events / experiences
+  'animejapan-2026-guide-international-visitors': ['animejapan'],
+  'animejapan-comiket-2026-guide': ['comiket', 'comic market'],
+  'wonder-festival-figure-events-japan-2026': ['wonder festival', 'wonfes'],
+  'book-japan-anime-events-overseas-2026': ['book anime events overseas'],
+  'universal-cool-japan-2026-guide': ['universal cool japan', 'ucj', 'usj'],
+  'ghibli-park-complete-guide-2026': ['ghibli park'],
+  'pokepark-kanto-tokyo-2026': ['pokepark', 'pokemon park'],
+  'cosplay-experience-tokyo-2026': ['cosplay experience', 'cosplay studio'],
+  'luvlab-harajuku-diy-accessory-experience': ['luvlab', 'diy accessory'],
+  'gaming-tokyo-2026': ['gaming in tokyo', 'tokyo gaming'],
+
+  // Tours / hotels / day trips
+  'best-anime-tours-tokyo-2026': ['anime tours tokyo'],
+  'anime-hotels-tokyo-2026': ['anime hotels', 'themed hotel'],
+  'anime-day-trips-from-tokyo-2026': ['day trips from tokyo'],
+  'jr-pass-anime-pilgrimage-routes-2026': ['pilgrimage routes'],
+  'japan-rail-pass-guide-anime-fans': ['jr pass for anime fans'],
 };
 
 /**
