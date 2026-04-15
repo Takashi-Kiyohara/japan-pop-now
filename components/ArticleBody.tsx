@@ -136,7 +136,7 @@ function getAffiliateCTAForCategory(category: string) {
         title: 'Skip the Booking Hassle',
         description: 'Book anime collab cafe experiences and skip-the-line tickets through Klook — English support, free cancellation on most bookings.',
         buttonText: 'Browse Anime Experiences',
-        href: 'https://www.klook.com/en-US/experiences?aff_id=' + (process.env.NEXT_PUBLIC_KLOOK_AFF_ID || ''),
+        href: 'https://www.klook.com/en-US/search/?query=anime+collab+cafe+experience+tokyo&aff_id=' + (process.env.NEXT_PUBLIC_KLOOK_AFF_ID || ''),
         program: 'klook' as const,
         category: 'collab-cafes',
       };
@@ -146,7 +146,7 @@ function getAffiliateCTAForCategory(category: string) {
         title: 'Get There by Rail',
         description: 'The Japan Rail Pass covers most pilgrimage routes. Compare 7, 14, and 21-day options — prices recently dropped.',
         buttonText: 'Compare JR Pass Prices',
-        href: 'https://www.klook.com/en-US/activity/japan-rail-pass?aff_id=' + (process.env.NEXT_PUBLIC_KLOOK_AFF_ID || ''),
+        href: 'https://www.klook.com/en-US/activity/1523-japan-rail-pass-jr-pass?aff_id=' + (process.env.NEXT_PUBLIC_KLOOK_AFF_ID || ''),
         program: 'klook' as const,
         category: 'anime-pilgrimage',
       };
@@ -156,7 +156,7 @@ function getAffiliateCTAForCategory(category: string) {
         title: 'Stay Near the Action',
         description: 'Find hotels in the best anime districts — from ¥3,000/night capsule hotels to themed rooms. Free cancellation on most bookings.',
         buttonText: 'Search Hotels',
-        href: 'https://www.booking.com/index.html?aid=' + (process.env.NEXT_PUBLIC_BOOKING_AFF_ID || ''),
+        href: 'https://www.booking.com/searchresults.html?ss=Ikebukuro%2C+Tokyo&aid=' + (process.env.NEXT_PUBLIC_BOOKING_AFF_ID || ''),
         program: 'booking' as const,
         category: 'area-guides',
       };
@@ -166,7 +166,7 @@ function getAffiliateCTAForCategory(category: string) {
         title: 'Stay Connected in Japan',
         description: 'Get an eSIM before you land — instant activation, no physical SIM swap needed. Data plans from ¥1,000 for 7 days.',
         buttonText: 'Compare eSIM Plans',
-        href: 'https://www.klook.com/en-US/activity/japan-esim?aff_id=' + (process.env.NEXT_PUBLIC_KLOOK_AFF_ID || ''),
+        href: 'https://www.klook.com/en-US/activity/109393-japan-esim-high-speed-internet-qr-code-voucher?aff_id=' + (process.env.NEXT_PUBLIC_KLOOK_AFF_ID || ''),
         program: 'klook' as const,
         category: 'travel-tips',
       };

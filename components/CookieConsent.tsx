@@ -4,6 +4,7 @@ import { useState, useEffect } from 'react';
 
 export default function CookieConsent() {
   const [visible, setVisible] = useState(false);
+  const [shouldShow, setShouldShow] = useState(false);
 
   useEffect(() => {
     // Check if user already consented
@@ -54,6 +55,8 @@ export default function CookieConsent() {
         fontSize: '0.85rem',
         color: 'rgba(255,255,255,0.8)',
         boxShadow: '0 -4px 20px rgba(0,0,0,0.15)',
+        transform: visible ? 'translateY(0)' : 'translateY(100%)',
+        transition: 'transform 0.3s ease-out',
       }}
     >
       <p style={{ maxWidth: '600px', margin: 0, lineHeight: 1.5 }}>

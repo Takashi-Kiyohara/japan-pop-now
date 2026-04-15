@@ -114,6 +114,7 @@ export default function AdUnit({
         maxWidth: '100%',
         margin: '0 auto',
         overflow: 'hidden',
+        contain: 'layout',
         contain: 'layout', // Prevents CLS
       }}
     >

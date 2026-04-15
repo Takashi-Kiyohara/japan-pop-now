@@ -251,7 +251,7 @@ export default function Home() {
               title="Book Tokyo Anime Cafes"
               description="Reserve spots at Tokyo's hottest anime collaboration cafes with Klook. Free cancellation, English support, and skip-the-line access."
               buttonText="Browse Tokyo Cafes"
-              href={'https://www.klook.com/en-US/experiences?aff_id=' + (process.env.NEXT_PUBLIC_KLOOK_AFF_ID || '')}
+              href={'https://www.klook.com/en-US/search/?query=anime+collab+cafe+experience+tokyo&aff_id=' + (process.env.NEXT_PUBLIC_KLOOK_AFF_ID || '')}
               program="klook"
               category="collab-cafes"
             />
@@ -260,7 +260,7 @@ export default function Home() {
               title="Japan Rail Pass"
               description="Explore pilgrimage sites across Japan. JR Pass covers trains to most holy lands. 7, 14, and 21-day options available."
               buttonText="Get JR Pass"
-              href={'https://www.klook.com/en-US/activity/japan-rail-pass?aff_id=' + (process.env.NEXT_PUBLIC_KLOOK_AFF_ID || '')}
+              href={'https://www.klook.com/en-US/activity/1523-japan-rail-pass-jr-pass?aff_id=' + (process.env.NEXT_PUBLIC_KLOOK_AFF_ID || '')}
               program="klook"
               category="travel-tips"
             />
@@ -269,7 +269,7 @@ export default function Home() {
               title="Stay in the Best Districts"
               description="Find hotels and capsule stays in Akihabara, Ikebukuro, Shibuya, and other anime hotspots. From ¥3,000/night upward."
               buttonText="Search Hotels"
-              href={'https://www.booking.com/index.html?aid=' + (process.env.NEXT_PUBLIC_BOOKING_AFF_ID || '')}
+              href={'https://www.booking.com/searchresults.html?ss=Ikebukuro%2C+Tokyo&aid=' + (process.env.NEXT_PUBLIC_BOOKING_AFF_ID || '')}
               program="booking"
               category="area-guides"
             />
