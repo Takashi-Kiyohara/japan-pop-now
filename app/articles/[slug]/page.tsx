@@ -8,7 +8,8 @@ import {
   getAllArticles,
 } from '@/lib/articles';
 import { CATEGORIES } from '@/lib/categories';
-import { getArticleSchemaWithSpeakable, getBreadcrumbSchema, getHowToSchema } from '@/lib/structured-data';
+import { getArticleSchemaWithSpeakable, getBreadcrumbSchema, getHowToSchema, getEventSchema, getTouristAttractionSchema } from '@/lib/structured-data';
+import { getAllEvents } from '@/lib/events';
 import { articleUrl as getArticleUrl, absoluteUrl } from '@/lib/url';
 import { extractQAFromHeadings, generateFAQSchema } from '@/lib/faq-schema';
 import { getContentMetrics } from '@/lib/content-analysis';
@@ -134,6 +135,22 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     .filter((a) => a.category === article.category && a.slug !== slug)
     .slice(0, 4);
 
+  // Event schemas — only when this article is directly referenced by entries in events.json
+  const linkedEvents = getAllEvents().filter((e) => e.articleSlug === slug);
+
+  // TouristAttraction schema — location-centric categories only
+  const isLocationGuide =
+    article.category === 'area-guides' || article.category === 'anime-pilgrimage';
+  const inferredLocality = /tokyo/i.test(slug)
+    ? 'Tokyo'
+    : /osaka/i.test(slug)
+    ? 'Osaka'
+    : /kyoto/i.test(slug)
+    ? 'Kyoto'
+    : /kumamoto/i.test(slug)
+    ? 'Kumamoto'
+    : 'Japan';
+
   return (
     <>
       <ScrollProgress />
@@ -179,6 +196,41 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                 article.title,
                 article.description,
                 h2Headings.map((h) => ({ name: h.text })),
+                url,
+                article.featuredImage,
+              )
+            ),
+          }}
+        />
+      )}
+      {linkedEvents.map((e) => (
+        <script
+          key={`event-${e.id}`}
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(
+              getEventSchema(
+                e.title,
+                e.description,
+                e.startDate,
+                e.endDate,
+                { name: e.venue, address: `${e.city}, ${e.prefecture}` },
+                url,
+                e.thumbnail,
+              )
+            ),
+          }}
+        />
+      ))}
+      {isLocationGuide && (
+        <script
+          type="application/ld+json"
+          dangerouslySetInnerHTML={{
+            __html: JSON.stringify(
+              getTouristAttractionSchema(
+                article.title,
+                article.description,
+                inferredLocality,
                 url,
                 article.featuredImage,
               )
