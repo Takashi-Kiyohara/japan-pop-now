@@ -70,6 +70,8 @@ Here’s the typical experience, step by step:
 
 A typical visit costs ¥2,500 to ¥5,000 per person including food, drinks, and a small merchandise purchase.
 
+![Interior of a Tokyo anime collab cafe with themed decor and character menu](/images/articles/tokyo-anime-collab-cafes-spring-2026/open-now-april.webp)
+
 ## Open Now: April 2026
 The following collab cafes are running in Tokyo right now. We’ve included everything you need to plan a visit: dates, location with the nearest station and walking directions, reservation requirements, what makes each one worth going to, and a local tip you won’t find on the official site.
 
@@ -258,6 +260,8 @@ These are things you won’t find on the official cafe websites, from someone wh
 **Check for “after-cafe” online merch sales.** Some cafes sell leftover exclusive merchandise online after the physical cafe closes. Follow the cafe’s X account for announcements — you might be able to buy items you missed even after leaving Japan.
 
 **The last time slot of the day is underrated.** Everyone wants the first or middle slots. The final slot (often 19:00 or 20:00) is frequently the easiest to book and the most relaxed — the cafe is winding down, staff are less rushed, and you’ll often get a few extra minutes.
+
+![Shibuya Scramble intersection with neon signage and anime cafe storefront](/images/articles/tokyo-anime-collab-cafes-spring-2026/cafe-neighborhoods.webp)
 
 ## Where to Find Collab Cafes: Tokyo Neighborhood Guide
 Tokyo’s collab cafes cluster in three neighborhoods. Here’s where to focus based on what you’re interested in:

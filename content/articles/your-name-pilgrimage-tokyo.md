@@ -91,6 +91,8 @@ Yotsuya Station appears directly in several scenes, and the residential streets 
 | **Access** | JR Yotsuya Station (四ツ谷駅) — same station as Location 1. Start here and walk to Suga Shrine. |
 | --- | --- |
 
+![Tokyo street map with Your Name pilgrimage walking route highlighted](/images/articles/your-name-pilgrimage-tokyo/walking-route.webp)
+
 ## Suggested Walking Route: Half-Day “Your Name” Pilgrimage
 You can visit all the main Tokyo locations in a single half-day walk. Here’s the most efficient route:
 

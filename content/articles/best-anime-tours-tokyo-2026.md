@@ -56,6 +56,8 @@ I’ve tested cancellations on all three platforms. Klook has the best same-day 
 
 For English-language tours, all three platforms work fine. If you want Mandarin, Klook is your only option among the major platforms. If you’re traveling with a European group, GetYourGuide often has lower base prices but fewer tour options.
 
+![Akihabara tour group walking past anime storefronts on Chuo-dori](/images/articles/best-anime-tours-tokyo-2026/akihabara-tour.webp)
+
 ## Best Akihabara Tours
 Akihabara is the obvious starting point. It’s where most tourists expect to find anime merchandise, maid cafes, and arcades. Most people don’t realize that a good guide will show you entire floors of specific anime merchandise you’d never find on your own, and will explain how the shopping culture actually works.
 
@@ -109,6 +111,8 @@ Take a tour only if: you have 3 hours or less, you want context about otaku cult
 ![Guided tour group exploring Tokyo streets — anime tour experience with local guide](https://images.unsplash.com/photo-pSarFESjg30?w=800&h=500&fit=crop&q=80)
 A guided walking tour group in Tokyo — local guides add context that self-guided tours miss
 Photo: Lala Azizli / Unsplash
+
+![Small anime pilgrimage tour group at a real-life anime scene location in Tokyo](/images/articles/best-anime-tours-tokyo-2026/pilgrimage-tour.webp)
 
 ## Best Anime Pilgrimage Tours
 Pilgrimage tours are different. You’re not shopping—you’re visiting real-world locations used in anime production. This is where tours actually earn their value, because these locations are scattered across Tokyo and sometimes require local knowledge to find.
@@ -182,6 +186,8 @@ This works if you’re anime-curious rather than anime-focused, or if you’re b
 
 **Book on:** [Klook](https://www.klook.com), [Viator](https://www.viator.com), or [GetYourGuide](https://www.getyourguide.com)
 
+![Tour guide leading visitors through an izakaya alley in Shinjuku Golden Gai](/images/articles/best-anime-tours-tokyo-2026/food-tour.webp)
+
 ## Best Otaku Culture + Food Tours
 These are newer offerings, and honestly, they’re where the real value sits right now. Anime tourism is increasingly paired with food experiences, which makes sense because Tokyo’s food culture is inseparable from pop culture neighborhoods.
 
@@ -229,6 +235,8 @@ The Meiji Shrine visit wasn’t anime-related, but it broke up the commercial fo
 
 **Book on:** [Klook](https://www.klook.com) or [Viator](https://www.viator.com)
 
+![Cosplay studio in Tokyo with costumes and wigs on display](/images/articles/best-anime-tours-tokyo-2026/cosplay-workshop.webp)
+
 ## Best Cosplay & Manga Workshop Experiences
 Workshops are the one category where “tour” is almost a misnomer—you’re taking a class. These experiences tend to attract committed enthusiasts rather than casual tourists, which changes the energy entirely.
 
@@ -275,6 +283,8 @@ You show up, try on costumes, work with a photographer and stylist who understan
 **Cons:** High cost relative to tour length. Costumes are rental-quality, not the same as owning cosplay. If you’re not interested in cosplay specifically, this has no appeal. Studio is located in Harajuku, so getting there adds travel time. Weather affects photo quality (this was indoors, but some studios use exterior locations).
 
 **Book directly:** [Tokyo Cosplay Studio](https://www.tokyocosplaystudio.jp)
+
+![Solo traveler checking a map at an Akihabara intersection](/images/articles/best-anime-tours-tokyo-2026/diy-vs-guided.webp)
 
 ## DIY vs Guided: When Is a Tour Actually Worth It?
 Here’s the honest assessment: you do not need a tour to experience anime in Tokyo. But certain conditions make tours valuable rather than just convenient.

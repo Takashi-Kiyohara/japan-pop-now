@@ -58,6 +58,8 @@ You’ll fill out a customs declaration form (CN22 for parcels under 2kg, CN23 f
 
 The post office will give you a tracking number. Use it. You’ll be able to see your package move from Tokyo to the sorting facility, then to an airport, then to your destination country’s customs, then to your local postal service. It’s therapeutic watching a box of anime merch travel the world.
 
+![Yamato Transport delivery truck parked outside a Tokyo hotel lobby](/images/articles/ship-anime-figures-merch-home-japan/yamato-sagawa.webp)
+
 ## Option 2: Kuroneko Yamato / Sagawa (Speed & Reliability)
 Kuroneko Yamato (the black cat delivery company) and Sagawa are Japan’s major domestic and international couriers. Think of them as UPS or DHL equivalents. They’re faster and more reliable than Japan Post but cost more.
 
@@ -83,6 +85,8 @@ Many large anime and collectible retailers in Japan offer international shipping
 The real advantage of store shipping becomes apparent when you’re buying multiple items across different shops over several days. Buy from Animate on day one, Mandarake on day two, Tower on day three. Have each ship separately to your home address. No carrying stuff, no risk of dropping a figure down a train platform, no suitcase tetris.
 
 The disadvantage: You’re usually paying more per kilogram than Japan Post SAL, and there’s a transaction delay (they ship from warehouses, not immediately). But the convenience often justifies it, especially for expensive or hard-to-find pieces.
+
+![Laptop screen showing a proxy shipping service dashboard with package items](/images/articles/ship-anime-figures-merch-home-japan/proxy-shipping.webp)
 
 ## Option 4: Proxy Shipping Services (Buyee, ZenMarket, Tenso)
 Proxy services are intermediaries. You find an item on a Japanese auction site or retailer that won’t ship internationally. The proxy service buys it for you, holds it in their warehouse, then ships it to your home address. This opens up Japanese Yahoo Auctions, Mercari, and countless small retailers.
@@ -131,6 +135,8 @@ What happens if your package does get flagged? Customs opens it, inspects conten
 
 ![Anime figure collection ready for packing and shipping from Japan](https://images.unsplash.com/photo-1608889175123-8ee362201f81?w=800&h=500&fit=crop&q=80)Protecting your figure collection during transit requires careful packing
 Photo: Eric Prouzet / Unsplash
+![Anime figure being wrapped in bubble wrap inside a cardboard shipping box](/images/articles/ship-anime-figures-merch-home-japan/packing-figures.webp)
+
 ## How to Pack Figures So They Don’t Break
 This is where care saves money. A carelessly packed figure arrives as plastic shrapnel. A properly packed figure arrives pristine.
 
@@ -162,6 +168,8 @@ This is where care saves money. A carelessly packed figure arrives as plastic sh
 
 ![Shipping packages from Japan post office for anime merch](https://images.unsplash.com/photo-1586953208448-b95a79798f07?w=800&h=500&fit=crop&q=80)Japan Post remains the most popular option for shipping anime goods overseas
 Photo: Magic Mary / Unsplash
+![Tax-free shopping counter at a Japanese department store with passport scanning](/images/articles/ship-anime-figures-merch-home-japan/tax-free.webp)
+
 ## Tax-Free Shopping in Japan: How It Works for Tourists
 If you’re a tourist (non-resident), you can get tax-free shopping at many retailers. This saves 10% on your purchases if you’re buying above a certain threshold.
 
