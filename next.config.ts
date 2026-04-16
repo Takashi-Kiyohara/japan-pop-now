@@ -1,5 +1,37 @@
 import type { NextConfig } from "next";
 
+// Centralized security headers applied to every route via `/:path*`.
+// CSP allowlists union the prior config (Beehiiv, Giscus, AdSense) with
+// Vercel Live / vercel-insights / YouTube; HSTS bumped to 2 years preload.
+const securityHeaders = [
+  {
+    key: 'Content-Security-Policy',
+    value: [
+      "default-src 'self'",
+      "script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.googletagmanager.com https://www.google-analytics.com https://pagead2.googlesyndication.com https://adservice.google.com https://giscus.app https://vercel.live",
+      "style-src 'self' 'unsafe-inline' https://fonts.googleapis.com",
+      "font-src 'self' https://fonts.gstatic.com",
+      "img-src 'self' data: blob: https:",
+      "connect-src 'self' https://www.google-analytics.com https://analytics.google.com https://pagead2.googlesyndication.com https://api.beehiiv.com https://vitals.vercel-insights.com https://*.vercel.app",
+      "frame-src 'self' https://www.google.com https://pagead2.googlesyndication.com https://giscus.app https://www.youtube.com https://www.youtube-nocookie.com https://googleads.g.doubleclick.net",
+      "media-src 'self'",
+      "object-src 'none'",
+      "base-uri 'self'",
+      "form-action 'self' https://api.beehiiv.com",
+      "frame-ancestors 'self'",
+      "upgrade-insecure-requests",
+    ].join('; '),
+  },
+  { key: 'Strict-Transport-Security', value: 'max-age=63072000; includeSubDomains; preload' },
+  { key: 'X-Content-Type-Options', value: 'nosniff' },
+  { key: 'X-Frame-Options', value: 'SAMEORIGIN' },
+  { key: 'Referrer-Policy', value: 'strict-origin-when-cross-origin' },
+  { key: 'Permissions-Policy', value: 'camera=(), microphone=(), geolocation=(), interest-cohort=(), payment=(), usb=(), magnetometer=(), gyroscope=(), accelerometer=()' },
+  { key: 'X-DNS-Prefetch-Control', value: 'on' },
+  { key: 'X-XSS-Protection', value: '1; mode=block' },
+  { key: 'Cross-Origin-Opener-Policy', value: 'same-origin-allow-popups' },
+];
+
 const nextConfig: NextConfig = {
   images: {
     remotePatterns: [
@@ -33,35 +65,7 @@ const nextConfig: NextConfig = {
   headers: async () => [
     {
       source: '/:path*',
-      headers: [
-        { key: 'X-Frame-Options', value: 'SAMEORIGIN' },
-        { key: 'X-Content-Type-Options', value: 'nosniff' },
-        { key: 'X-XSS-Protection', value: '1; mode=block' },
-        { key: 'Referrer-Policy', value: 'strict-origin-when-cross-origin' },
-        { key: 'Permissions-Policy', value: 'geolocation=(), microphone=(), camera=(), payment=(), usb=(), magnetometer=(), gyroscope=(), accelerometer=()' },
-        // HSTS — enforce HTTPS for 1 year, include subdomains, preload-ready
-        { key: 'Strict-Transport-Security', value: 'max-age=31536000; includeSubDomains; preload' },
-        // CSP — allow self, Google (Analytics/AdSense), Vercel, Beehiiv, Unsplash
-        {
-          key: 'Content-Security-Policy',
-          value: [
-            "default-src 'self'",
-            "script-src 'self' 'unsafe-inline' https://www.googletagmanager.com https://pagead2.googlesyndication.com https://www.google-analytics.com https://adservice.google.com https://giscus.app",
-            "style-src 'self' 'unsafe-inline' https://fonts.googleapis.com",
-            "font-src 'self' https://fonts.gstatic.com",
-            "img-src 'self' data: https: blob:",
-            "connect-src 'self' https://www.google-analytics.com https://analytics.google.com https://pagead2.googlesyndication.com https://api.beehiiv.com",
-            "frame-src https://www.google.com https://pagead2.googlesyndication.com https://giscus.app",
-            "media-src 'self'",
-            "object-src 'none'",
-            "base-uri 'self'",
-            "form-action 'self' https://api.beehiiv.com",
-            "frame-ancestors 'self'",
-          ].join('; '),
-        },
-        // Cross-Origin policies
-        { key: 'Cross-Origin-Opener-Policy', value: 'same-origin-allow-popups' },
-      ],
+      headers: securityHeaders,
     },
     // Cache static assets aggressively (production only — Next dev breaks with this header)
     ...(process.env.NODE_ENV === 'production' ? [{
