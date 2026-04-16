@@ -198,6 +198,20 @@ Blue Lock isn't just another sports anime — it inverted the entire genre formu
 <p>Completely different menus. Skytree Cafe (Floor 340) offers character-themed drinks at 1,100 yen and curry dishes at 1,650 yen. Cafe Honpo in Akihabara runs a "Honey Lemon" theme with drink coupons at 750 yen and food coupons at 800 yen. The Cafe Honpo experience is more intimate (70-minute seatings with themed decor), while Skytree is a standard cafe with a view.</p>
 </div></div></div>
 
+<div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+<h3 itemprop="name">Where should I stay to hit all 3 Blue Lock venues efficiently?</h3>
+<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+<div itemprop="text">
+<p>Asakusa or Oshiage puts you 10 minutes from Skytree — best if night lighting is your priority. Shibuya or Shinjuku minimizes the morning commute to the 11:30 Exhibition opening but costs more. Ueno and Akihabara are the cheapest zone with direct trains to both Skytree and Shibuya. Compare options on Booking.com for free cancellation on most properties.</p>
+</div></div></div>
+
+<div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
+<h3 itemprop="name">Can I see the Skytree Blue Lock character lighting without buying a deck ticket?</h3>
+<div itemscope itemprop="acceptedAnswer" itemtype="https://schema.org/Answer">
+<div itemprop="text">
+<p>Yes — the exterior illumination is visible free from the Soramachi terrace below the tower, from Sumida Park across the river, and from most Asakusa rooftop bars. You only need the deck ticket if you want the Floor 340 cafe, Floor 350 screening, or Floor 445-450 photo spots. The lighting pattern runs nightly during the event period in roughly 5-minute character loops.</p>
+</div></div></div>
+
 </div>
 
 ## More Collab Cafe & Event Guides
@@ -211,7 +225,18 @@ Blue Lock isn't just another sports anime — it inverted the entire genre formu
 - [Akihabara Complete Guide 2026](/akihabara-complete-guide-2026/) — everything around the Cafe Honpo venue
 - [Anime Day Trips from Tokyo 2026](/anime-day-trips-from-tokyo-2026/) — full-day itineraries combining multiple events
 - [Japan IC Card Transit Guide](/japan-ic-card-transit-guide/) — how to use Suica/PASMO to get between all 3 venues
+- [Japan Anime Experiences Hub](/guides/japan-anime-experiences/) — every bookable anime experience in Japan right now
 
-<div className="jpn-cta"><p><strong>Book your <a href="https://www.klook.com/en-US/activity/41352-tokyo-skytree/" rel="nofollow" target="_blank">Tokyo Skytree tickets on Klook</a></strong> — skip the Japanese-only booking system and get instant English confirmation for the Blue Lock EPISODE SKY event.</p></div>
+## Where to Stay Near All 3 Venues
+
+If you want to hit the Shibuya Exhibition, Akihabara Cafe Honpo, and Skytree in one day, sleeping near a JR Yamanote Line station saves you transit time. Three practical picks:
+
+- **Asakusa / Oshiage** — closest to Skytree, 10 minutes' walk from the tower. Best for anyone prioritizing the evening lighting. Hotel Gracery Asakusa and The Gate Hotel Asakusa Kaminarimon both sit within this zone.
+- **Shibuya / Shinjuku** — closest to the EGOIST Exhibition and one Yamanote hop to Akihabara. Expect a premium on nightly rates but saves the morning commute to the exhibition's 11:30 opening.
+- **Ueno / Akihabara** — cheapest of the three zones with direct trains to both Skytree and Shibuya. Ueno Tobu Hotel and APA Ueno Ekimae give budget access to all three venues.
+
+<div className="jpn-cta"><p><strong>Compare hotels near the Blue Lock venues on <a href="https://www.booking.com/city/jp/tokyo.en-us.html?aid=placeholder&utm_source=japan-pop-now&utm_medium=article&utm_campaign=blue-lock-tokyo-skytree-cafe-2026" rel="nofollow sponsored noopener" target="_blank">Booking.com</a></strong> — free cancellation on most properties in Asakusa, Shibuya, and Akihabara. Or book activities and tours alongside your stay on <a href="https://www.klook.com/en-US/city/28-tokyo-things-to-do/?utm_source=japan-pop-now&utm_medium=article&utm_campaign=blue-lock-tokyo-skytree-cafe-2026" rel="nofollow sponsored noopener" target="_blank">Klook Tokyo</a>.</p></div>
+
+<div className="jpn-cta"><p><strong>Book your <a href="https://www.klook.com/en-US/activity/41352-tokyo-skytree/?utm_source=japan-pop-now&utm_medium=article&utm_campaign=blue-lock-tokyo-skytree-cafe-2026" rel="nofollow sponsored noopener" target="_blank">Tokyo Skytree tickets on Klook</a></strong> — skip the Japanese-only booking system and get instant English confirmation for the Blue Lock EPISODE SKY event.</p></div>
 
 <div className="jpn-cta"><p><strong>Follow <a href="https://www.threads.net/@japan_pop_now" rel="nofollow" target="_blank">@japan_pop_now on Threads</a></strong> for daily Tokyo pop culture updates and event alerts.</p></div>
