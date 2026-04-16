@@ -1,11 +1,9 @@
 import Link from 'next/link';
-import { getAllEvents } from '@/lib/events';
+import { getAllEvents, type CollabEvent } from '@/lib/events';
 
-function daysUntil(iso: string): number {
-  return Math.ceil((new Date(iso).getTime() - Date.now()) / 86_400_000);
-}
-
-export default function CountdownStrip() {
+// Time-dependent computation lives outside the component body to satisfy
+// react-hooks/purity. Date.now() runs at SSR/ISR time.
+function computeEndingSoon(): { ending: CollabEvent[]; nowMs: number } {
   const now = Date.now();
   const ending = getAllEvents()
     .filter(
@@ -16,6 +14,15 @@ export default function CountdownStrip() {
     )
     .sort((a, b) => a.endDate.localeCompare(b.endDate))
     .slice(0, 3);
+  return { ending, nowMs: now };
+}
+
+function daysUntil(iso: string, nowMs: number): number {
+  return Math.ceil((new Date(iso).getTime() - nowMs) / 86_400_000);
+}
+
+export default function CountdownStrip() {
+  const { ending, nowMs } = computeEndingSoon();
 
   if (ending.length === 0) return null;
 
@@ -26,7 +33,7 @@ export default function CountdownStrip() {
           Ending soon
         </span>
         {ending.map((e) => {
-          const d = daysUntil(e.endDate);
+          const d = daysUntil(e.endDate, nowMs);
           const href = e.articleSlug
             ? `/articles/${e.articleSlug}`
             : e.officialUrl || e.source;

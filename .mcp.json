@@ -1,10 +1,10 @@
-﻿{
+{
   "$schema": "https://json.schemastore.org/claude-code-mcp-servers.json",
   "mcpServers": {
     "context7": {
       "command": "npx",
       "args": ["-y", "@upstash/context7-mcp"],
-      "description": "Up-to-date docs for Next.js 16, React 19, Tailwind v4 窶・prevents stale-knowledge hallucinations"
+      "description": "Up-to-date docs for Next.js 16, React 19, Tailwind v4 - prevents stale-knowledge hallucinations"
     },
     "playwright": {
       "command": "npx",
@@ -22,7 +22,7 @@
     "fetch": {
       "command": "npx",
       "args": ["-y", "@modelcontextprotocol/server-fetch"],
-      "description": "Generic web fetch with content extraction 窶・research + link verification"
+      "description": "Generic web fetch with content extraction - research + link verification"
     },
     "lighthouse": {
       "command": "npx",
@@ -44,18 +44,18 @@
       },
       "description": "Google Search Console: queries, clicks, impressions, CTR by page",
       "disabled": false,
-      "_note": "Enable after setting GSC creds in ~/.claude/settings.local.json"
+      "_note": "Requires GSC_CLIENT_EMAIL + GSC_PRIVATE_KEY in ~/.claude/settings.local.json (extract from service account JSON)"
     },
     "ga4": {
       "command": "npx",
       "args": ["-y", "@google-analytics/mcp-server-ga4"],
       "env": {
         "GA4_PROPERTY_ID": "${GA4_PROPERTY_ID}",
-        "GOOGLE_APPLICATION_CREDENTIALS": "${GA4_SERVICE_ACCOUNT_JSON}"
+        "GOOGLE_APPLICATION_CREDENTIALS": "${GOOGLE_APPLICATION_CREDENTIALS}"
       },
       "description": "Google Analytics 4: sessions, conversions, affiliate CTR, page engagement",
       "disabled": false,
-      "_note": "Enable after setting GA4 property + service account JSON path"
+      "_note": "Requires GA4_PROPERTY_ID + GOOGLE_APPLICATION_CREDENTIALS (path to service account JSON) in ~/.claude/settings.local.json"
     },
     "filesystem-content": {
       "command": "npx",
@@ -70,4 +70,3 @@
     }
   }
 }
-

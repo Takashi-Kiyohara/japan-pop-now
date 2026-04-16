@@ -4,7 +4,6 @@ import { useState, useEffect } from 'react';
 
 export default function CookieConsent() {
   const [visible, setVisible] = useState(false);
-  const [shouldShow, setShouldShow] = useState(false);
 
   useEffect(() => {
     // Check if user already consented

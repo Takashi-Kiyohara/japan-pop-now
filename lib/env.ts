@@ -27,7 +27,8 @@ export interface ValidatedEnv {
  */
 function validateEnv(): ValidatedEnv {
   const required = ['NEXT_PUBLIC_ADSENSE_ID'];
-  const optional = [
+  // Kept for documentation — which NEXT_PUBLIC_* vars are expected but non-blocking.
+  const _optional = [
     'NEXT_PUBLIC_KLOOK_AFF_ID',
     'NEXT_PUBLIC_BOOKING_AFF_ID',
     'NEXT_PUBLIC_AMAZON_AFF_TAG',

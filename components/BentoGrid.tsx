@@ -1,11 +1,42 @@
 import Link from 'next/link';
 import Image from 'next/image';
-import { getAllEvents } from '@/lib/events';
+import { getAllEvents, type CollabEvent } from '@/lib/events';
 import popularData from '@/data/popular.json';
 import { getIpVisual } from '@/lib/ipGradient';
 
 const DAY = 86_400_000;
 const WEEKDAY = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
+
+// Time-dependent filtering is extracted into helpers so the component body
+// stays pure (react-hooks/purity). Date.now() is evaluated at SSR/ISR time;
+// page-level `revalidate = 3600` keeps results hourly-fresh.
+function computeBentoSlices(all: CollabEvent[]) {
+  const now = Date.now();
+  const activeNow = all
+    .filter((e) => {
+      const s = new Date(e.startDate).getTime();
+      const en = new Date(e.endDate).getTime();
+      return s <= now && en > now;
+    })
+    .sort((a, b) => a.endDate.localeCompare(b.endDate))
+    .slice(0, 6);
+
+  const thisWeek = all
+    .filter((e) => {
+      const s = new Date(e.startDate).getTime();
+      return s >= now && s <= now + 7 * DAY;
+    })
+    .sort((a, b) => a.startDate.localeCompare(b.startDate))
+    .slice(0, 4);
+
+  const totalActive = all.filter((e) => {
+    const s = new Date(e.startDate).getTime();
+    const en = new Date(e.endDate).getTime();
+    return s <= now && en > now;
+  }).length;
+
+  return { activeNow, thisWeek, totalActive };
+}
 
 // 12 priority IPs for the cloud — link to existing canonical pages,
 // fallback to /calendar where no article exists yet.
@@ -33,31 +64,7 @@ function fmtRange(startDate: string, endDate: string): string {
 }
 
 export default function BentoGrid() {
-  const now = Date.now();
-  const all = getAllEvents();
-
-  const activeNow = all
-    .filter((e) => {
-      const s = new Date(e.startDate).getTime();
-      const en = new Date(e.endDate).getTime();
-      return s <= now && en > now;
-    })
-    .sort((a, b) => a.endDate.localeCompare(b.endDate))
-    .slice(0, 6);
-
-  const thisWeek = all
-    .filter((e) => {
-      const s = new Date(e.startDate).getTime();
-      return s >= now && s <= now + 7 * DAY;
-    })
-    .sort((a, b) => a.startDate.localeCompare(b.startDate))
-    .slice(0, 4);
-
-  const totalActive = all.filter((e) => {
-    const s = new Date(e.startDate).getTime();
-    const en = new Date(e.endDate).getTime();
-    return s <= now && en > now;
-  }).length;
+  const { activeNow, thisWeek, totalActive } = computeBentoSlices(getAllEvents());
 
   return (
     <section className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8">
