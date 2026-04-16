@@ -74,9 +74,10 @@ for file in $STAGED; do
   esac
 done
 
-# --- .env files staged? --------------------------------------------------
-if echo "$STAGED" | grep -qE '^\.env(\.|$)'; then
-  echo "[pre-commit FAIL] .env file is staged: $(echo "$STAGED" | grep -E '^\.env')" >&2
+# --- .env files staged? (allow .env.example template) -------------------
+ENV_STAGED=$(echo "$STAGED" | grep -E '^\.env(\.|$)' | grep -v '^\.env\.example$' || true)
+if [ -n "$ENV_STAGED" ]; then
+  echo "[pre-commit FAIL] .env file is staged: $ENV_STAGED" >&2
   echo "Run: git restore --staged .env*" >&2
   FAIL=1
 fi
