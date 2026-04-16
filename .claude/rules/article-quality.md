@@ -64,3 +64,10 @@ relatedSlugs: string[]
 - Description: unique, answers search intent
 - Internal links: 2-3 natural contextual links per article
 - relatedSlugs: 3-5 related articles
+
+## Writing Voice
+- Second-person "you" in intros for engagement
+- Hedge time-sensitive facts: "as of April 2026", "confirmed via official site"
+- Short paragraphs (2-4 sentences)
+- Concrete, specific nouns over generic ones (e.g. "Shibuya Scramble Square" not "a mall")
+- No AI-flavored phrasing: avoid "Let's dive in", "In today's world", "truly unique"

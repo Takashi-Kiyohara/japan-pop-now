@@ -1,0 +1,77 @@
+# Secrets — never read by Claude
+.env
+.env.*
+.env.local
+.env.production
+.env.development
+.env.test
+
+# Keys & credentials
+*.pem
+*.key
+*.p12
+*.crt
+*.cer
+id_rsa
+id_rsa.pub
+id_ed25519
+id_ed25519.pub
+known_hosts
+authorized_keys
+credentials
+credentials.json
+secrets.json
+service-account*.json
+
+# User home dotfiles (shouldn't be here, but just in case)
+.ssh/
+.aws/
+.gnupg/
+.npmrc
+.netrc
+
+# Build artifacts & caches
+node_modules/
+.next/
+.vercel/
+.turbo/
+out/
+dist/
+build/
+coverage/
+.cache/
+.parcel-cache/
+.eslintcache
+.tsbuildinfo
+*.log
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+*~
+.idea/
+.vscode/settings.json
+
+# Binary dumps / databases
+*.sqlite
+*.sqlite3
+*.db
+*.dump
+*.bak
+
+# Large media that shouldn't be read byte-for-byte
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.psd
+*.ai
+*.sketch
+
+# Cowork session / local state
+.auto-memory/
+.claude/projects/
+content_operations/STATUS.json

@@ -1,0 +1,72 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-mcp-servers.json",
+  "mcpServers": {
+    "context7": {
+      "command": "npx",
+      "args": ["-y", "@upstash/context7-mcp"],
+      "description": "Up-to-date docs for Next.js 16, React 19, Tailwind v4 — prevents stale-knowledge hallucinations"
+    },
+    "playwright": {
+      "command": "npx",
+      "args": ["-y", "@playwright/mcp@latest"],
+      "description": "Headless Chromium for visual QA, screenshot regression, accessibility checks"
+    },
+    "github": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-github"],
+      "env": {
+        "GITHUB_PERSONAL_ACCESS_TOKEN": "${GITHUB_PAT}"
+      },
+      "description": "Repo ops: issues, PRs, Actions logs"
+    },
+    "fetch": {
+      "command": "npx",
+      "args": ["-y", "@modelcontextprotocol/server-fetch"],
+      "description": "Generic web fetch with content extraction — research + link verification"
+    },
+    "lighthouse": {
+      "command": "npx",
+      "args": ["-y", "@lighthouse-mcp/server"],
+      "description": "Lighthouse performance / SEO / a11y audits against live site"
+    },
+    "next-devtools": {
+      "command": "npx",
+      "args": ["-y", "next-devtools-mcp"],
+      "description": "Next.js 16 build diagnostics, bundle analysis, route tree"
+    },
+    "gsc": {
+      "command": "npx",
+      "args": ["-y", "@ahonn/mcp-server-gsc"],
+      "env": {
+        "GSC_CLIENT_EMAIL": "${GSC_CLIENT_EMAIL}",
+        "GSC_PRIVATE_KEY": "${GSC_PRIVATE_KEY}",
+        "GSC_SITE_URL": "https://japan-pop-now.com/"
+      },
+      "description": "Google Search Console: queries, clicks, impressions, CTR by page",
+      "disabled": true,
+      "_note": "Enable after setting GSC creds in ~/.claude/settings.local.json"
+    },
+    "ga4": {
+      "command": "npx",
+      "args": ["-y", "@google-analytics/mcp-server-ga4"],
+      "env": {
+        "GA4_PROPERTY_ID": "${GA4_PROPERTY_ID}",
+        "GOOGLE_APPLICATION_CREDENTIALS": "${GA4_SERVICE_ACCOUNT_JSON}"
+      },
+      "description": "Google Analytics 4: sessions, conversions, affiliate CTR, page engagement",
+      "disabled": true,
+      "_note": "Enable after setting GA4 property + service account JSON path"
+    },
+    "filesystem-content": {
+      "command": "npx",
+      "args": [
+        "-y",
+        "@modelcontextprotocol/server-filesystem",
+        "./content",
+        "./public/images/articles",
+        "./content_operations"
+      ],
+      "description": "Scoped filesystem access to content / images / ops dir"
+    }
+  }
+}

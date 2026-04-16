@@ -1,26 +1,225 @@
 {
+  "$schema": "https://json.schemastore.org/claude-code-settings.json",
+  "permissions": {
+    "allow": [
+      "Bash(npm run build)",
+      "Bash(npm run dev)",
+      "Bash(npm run lint*)",
+      "Bash(npm run validate*)",
+      "Bash(npm ci)",
+      "Bash(npm install)",
+      "Bash(npm test*)",
+      "Bash(npx tsc*)",
+      "Bash(npx eslint*)",
+      "Bash(npx prettier*)",
+      "Bash(npx next*)",
+      "Bash(git status)",
+      "Bash(git diff*)",
+      "Bash(git log*)",
+      "Bash(git show*)",
+      "Bash(git branch*)",
+      "Bash(git add*)",
+      "Bash(git commit*)",
+      "Bash(git push)",
+      "Bash(git push origin:*)",
+      "Bash(git pull*)",
+      "Bash(git fetch*)",
+      "Bash(git checkout*)",
+      "Bash(git switch*)",
+      "Bash(git merge --no-ff*)",
+      "Bash(git restore*)",
+      "Bash(git stash*)",
+      "Bash(ls:*)",
+      "Bash(pwd)",
+      "Bash(cat package.json)",
+      "Bash(cat tsconfig.json)",
+      "Bash(cat next.config.*)",
+      "Read(**/*.ts)",
+      "Read(**/*.tsx)",
+      "Read(**/*.js)",
+      "Read(**/*.jsx)",
+      "Read(**/*.md)",
+      "Read(**/*.mdx)",
+      "Read(**/*.json)",
+      "Read(**/*.css)",
+      "Read(**/*.yml)",
+      "Read(**/*.yaml)",
+      "Read(**/*.svg)",
+      "Edit(components/**)",
+      "Edit(app/**)",
+      "Edit(lib/**)",
+      "Edit(content/**)",
+      "Edit(public/**)",
+      "Edit(scripts/**)",
+      "Edit(.claude/**)",
+      "Edit(CLAUDE.md)",
+      "Edit(package.json)",
+      "Edit(tsconfig.json)",
+      "Edit(next.config.*)"
+    ],
+    "deny": [
+      "Read(./.env)",
+      "Read(./.env.*)",
+      "Read(**/.env)",
+      "Read(**/.env.*)",
+      "Read(**/.env.local)",
+      "Read(**/.env.production)",
+      "Read(**/.env.development)",
+      "Read(**/*.pem)",
+      "Read(**/*.key)",
+      "Read(**/*.p12)",
+      "Read(**/id_rsa)",
+      "Read(**/id_ed25519)",
+      "Read(**/.ssh/**)",
+      "Read(**/.aws/**)",
+      "Read(**/.gnupg/**)",
+      "Read(**/credentials)",
+      "Read(**/credentials.json)",
+      "Read(**/secrets.json)",
+      "Edit(.env)",
+      "Edit(.env.*)",
+      "Edit(**/.env)",
+      "Edit(**/.env.*)",
+      "Bash(cat .env*)",
+      "Bash(cat **/.env*)",
+      "Bash(cat ~/.ssh/**)",
+      "Bash(cat ~/.aws/**)",
+      "Bash(cat ~/.netrc)",
+      "Bash(cat ~/.npmrc)",
+      "Bash(printenv*)",
+      "Bash(env)",
+      "Bash(export:*)",
+      "Bash(rm -rf /*)",
+      "Bash(rm -rf ~*)",
+      "Bash(rm -rf ..*)",
+      "Bash(rm -rf .git*)",
+      "Bash(rm -rf node_modules)",
+      "Bash(sudo:*)",
+      "Bash(su:*)",
+      "Bash(chmod 777:*)",
+      "Bash(chown:*)",
+      "Bash(mkfs*)",
+      "Bash(dd:*)",
+      "Bash(mv / *)",
+      "Bash(git push --force*)",
+      "Bash(git push -f*)",
+      "Bash(git push --force-with-lease origin main*)",
+      "Bash(git reset --hard origin*)",
+      "Bash(git clean -fdx*)",
+      "Bash(git filter-branch*)",
+      "Bash(git filter-repo*)",
+      "Bash(git update-ref -d*)",
+      "Bash(git reflog expire*)",
+      "Bash(gh auth logout*)",
+      "Bash(gh repo delete*)",
+      "Bash(curl*|*sh)",
+      "Bash(wget*|*sh)",
+      "Bash(curl*|*bash)",
+      "Bash(wget*|*bash)",
+      "Bash(curl*|*python)",
+      "Bash(*>>/etc/*)",
+      "Bash(*>/etc/*)",
+      "Bash(npm publish*)",
+      "Bash(yarn publish*)",
+      "Bash(pnpm publish*)",
+      "Bash(docker system prune*)",
+      "Bash(aws *)",
+      "Bash(gcloud *)",
+      "Bash(az *)",
+      "Bash(vercel env pull*)",
+      "Bash(vercel env rm*)",
+      "WebFetch(domain:pastebin.com)",
+      "WebFetch(domain:transfer.sh)",
+      "WebFetch(domain:0x0.st)",
+      "WebFetch(domain:requestbin.*)",
+      "WebFetch(domain:*.ngrok.io)",
+      "WebFetch(domain:*.ngrok-free.app)"
+    ],
+    "ask": [
+      "Bash(git push*)",
+      "Bash(git merge*)",
+      "Bash(git rebase*)",
+      "Bash(git reset*)",
+      "Bash(git revert*)",
+      "Bash(git tag*)",
+      "Bash(git cherry-pick*)",
+      "Bash(rm:*)",
+      "Bash(rmdir:*)",
+      "Bash(mv:*)",
+      "Bash(cp -r:*)",
+      "Bash(npm uninstall*)",
+      "Bash(npm install --global*)",
+      "Bash(npm install -g*)",
+      "WebFetch(*)"
+    ],
+    "defaultMode": "acceptEdits",
+    "additionalDirectories": [
+      "./content_operations"
+    ]
+  },
   "hooks": {
+    "PreToolUse": [
+      {
+        "matcher": "Bash",
+        "hooks": [
+          { "type": "command", "command": "bash .claude/hooks/guard-bash.sh" }
+        ]
+      },
+      {
+        "matcher": "Write|Edit",
+        "hooks": [
+          { "type": "command", "command": "bash .claude/hooks/guard-files.sh" }
+        ]
+      },
+      {
+        "matcher": "mcp__.*",
+        "hooks": [
+          { "type": "command", "command": "bash .claude/hooks/guard-mcp.sh" }
+        ]
+      }
+    ],
     "PostToolUse": [
       {
         "matcher": "Write|Edit",
         "hooks": [
-          {
-            "type": "command",
-            "command": "CHANGED=$(echo \"$TOOL_INPUT\" | grep -oP '\"file_path\":\\s*\"\\K[^\"]+' 2>/dev/null || true); if [ -n \"$CHANGED\" ] && echo \"$CHANGED\" | grep -qE '\\.(tsx?|jsx?)$'; then npx eslint \"$CHANGED\" --fix --quiet 2>/dev/null || true; fi"
-          }
+          { "type": "command", "command": "bash .claude/hooks/post-edit-format.sh" }
+        ]
+      }
+    ],
+    "UserPromptSubmit": [
+      {
+        "matcher": ".*",
+        "hooks": [
+          { "type": "command", "command": "bash .claude/hooks/inject-context.sh" }
+        ]
+      }
+    ],
+    "Stop": [
+      {
+        "matcher": ".*",
+        "hooks": [
+          { "type": "command", "command": "bash .claude/hooks/stop-quality-gate.sh" }
+        ]
+      }
+    ],
+    "SessionStart": [
+      {
+        "matcher": ".*",
+        "hooks": [
+          { "type": "command", "command": "bash .claude/hooks/session-start.sh" }
         ]
       }
     ]
   },
-  "permissions": {
-    "allow": [
-      "Bash(npm run build)",
-      "Bash(npm run lint*)",
-      "Bash(npm run dev)",
-      "Bash(npm run validate*)",
-      "Bash(npx tsc*)",
-      "Bash(npx eslint*)",
-      "Bash(git *)"
-    ]
+  "env": {
+    "NODE_OPTIONS": "--max-old-space-size=4096",
+    "CLAUDE_CODE_ENABLE_TELEMETRY": "0",
+    "GIT_HOOKS_PATH": ".githooks"
+  },
+  "outputStyle": "concise",
+  "includeCoAuthoredBy": true,
+  "statusLine": {
+    "type": "command",
+    "command": "echo \"jpn | $(git branch --show-current 2>/dev/null || echo 'no-git') | $(date +%H:%M)\""
   }
 }
