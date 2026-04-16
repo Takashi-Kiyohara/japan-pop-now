@@ -21,12 +21,12 @@
     },
     "fetch": {
       "command": "cmd",
-      "args": ["/c", "npx", "-y", "@modelcontextprotocol/server-fetch"],
+      "args": ["/c", "npx", "-y", "@mokei/mcp-fetch"],
       "description": "Generic web fetch with content extraction - research + link verification"
     },
     "lighthouse": {
       "command": "cmd",
-      "args": ["/c", "npx", "-y", "@lighthouse-mcp/server"],
+      "args": ["/c", "npx", "-y", "lighthouse-mcp"],
       "description": "Lighthouse performance / SEO / a11y audits against live site"
     },
     "next-devtools": {
@@ -36,26 +36,24 @@
     },
     "gsc": {
       "command": "cmd",
-      "args": ["/c", "npx", "-y", "@ahonn/mcp-server-gsc"],
+      "args": ["/c", "npx", "-y", "mcp-server-gsc"],
       "env": {
-        "GSC_CLIENT_EMAIL": "${GSC_CLIENT_EMAIL}",
-        "GSC_PRIVATE_KEY": "${GSC_PRIVATE_KEY}",
-        "GSC_SITE_URL": "https://japan-pop-now.com/"
+        "GOOGLE_APPLICATION_CREDENTIALS": "${GOOGLE_APPLICATION_CREDENTIALS}"
       },
       "description": "Google Search Console: queries, clicks, impressions, CTR by page",
       "disabled": false,
-      "_note": "Requires GSC_CLIENT_EMAIL + GSC_PRIVATE_KEY in ~/.claude/settings.local.json (extract from service account JSON)"
+      "_note": "Requires GOOGLE_APPLICATION_CREDENTIALS (path to service account JSON) in ~/.claude/settings.local.json"
     },
     "ga4": {
       "command": "cmd",
-      "args": ["/c", "npx", "-y", "@google-analytics/mcp-server-ga4"],
+      "args": ["/c", "npx", "-y", "mcp-server-ga4"],
       "env": {
-        "GA4_PROPERTY_ID": "${GA4_PROPERTY_ID}",
+        "GA_PROPERTY_ID": "${GA4_PROPERTY_ID}",
         "GOOGLE_APPLICATION_CREDENTIALS": "${GOOGLE_APPLICATION_CREDENTIALS}"
       },
       "description": "Google Analytics 4: sessions, conversions, affiliate CTR, page engagement",
       "disabled": false,
-      "_note": "Requires GA4_PROPERTY_ID + GOOGLE_APPLICATION_CREDENTIALS (path to service account JSON) in ~/.claude/settings.local.json"
+      "_note": "Requires GA4_PROPERTY_ID + GOOGLE_APPLICATION_CREDENTIALS (path to service account JSON) in ~/.claude/settings.local.json. Package reads GA_PROPERTY_ID; we remap from GA4_PROPERTY_ID."
     },
     "filesystem-content": {
       "command": "cmd",
