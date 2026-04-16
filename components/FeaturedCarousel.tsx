@@ -66,11 +66,11 @@ export default function FeaturedCarousel({ articles }: FeaturedCarouselProps) {
               />
             )}
 
-            {/* Gradient overlay — fades bottom to dark */}
+            {/* Gradient overlay — strong bottom fade for text legibility */}
             <div
               className="absolute inset-0"
               style={{
-                background: 'linear-gradient(to bottom, rgba(0,0,0,0.05) 0%, rgba(0,0,0,0.15) 40%, rgba(0,0,0,0.72) 100%)',
+                background: 'linear-gradient(to top, rgba(0,0,0,0.7) 0%, rgba(0,0,0,0.2) 50%, transparent 100%)',
               }}
             />
 
@@ -87,23 +87,17 @@ export default function FeaturedCarousel({ articles }: FeaturedCarouselProps) {
                   </span>
                 )}
 
-                {/* Headline */}
+                {/* Headline — single line, ellipsis on overflow */}
                 <h2
-                  className="text-white font-bold leading-tight mb-4"
+                  className="text-white font-bold leading-tight line-clamp-1"
                   style={{
                     fontFamily: 'var(--font-display), "Playfair Display", Georgia, serif',
                     fontSize: 'clamp(1.6rem, 4vw, 2.8rem)',
+                    textShadow: '0 2px 8px rgba(0,0,0,0.6)',
                   }}
                 >
                   {article.title}
                 </h2>
-
-                {/* Excerpt */}
-                {article.excerpt && (
-                  <p className="text-white/80 text-sm md:text-base leading-relaxed line-clamp-2 max-w-xl">
-                    {article.excerpt}
-                  </p>
-                )}
 
                 {/* Read More CTA */}
                 <div className="mt-5">
