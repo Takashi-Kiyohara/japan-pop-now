@@ -1,10 +1,10 @@
 ﻿import { getAllArticles, CATEGORIES } from '@/lib/articles';
 import ArticleCard from '@/components/ArticleCard';
-import FeaturedCarousel from '@/components/FeaturedCarousel';
 import CategoryStrip from '@/components/CategoryStrip';
 import AdUnit from '@/components/AdUnit';
 import AffiliateCTA from '@/components/AffiliateCTA';
 import SpotlightSection from '@/components/SpotlightSection';
+import CountdownStrip from '@/components/CountdownStrip';
 import Link from 'next/link';
 import spotlightData from '@/content/spotlight.json';
 
@@ -54,12 +54,10 @@ function SectionHeader({
 export default function Home() {
   const allArticles = getAllArticles();
 
-  // Carousel: top 5 articles
-  const carouselArticles = allArticles.slice(0, 5);
-  // Featured grid: next 3 (1 large + 2 side)
-  const featuredArticles = allArticles.slice(5, 8);
+  // Featured grid: first 3 (1 large + 2 side) — carousel retired for compact hero
+  const featuredArticles = allArticles.slice(0, 3);
   // Latest: next 6
-  const latestArticles = allArticles.slice(8, 14);
+  const latestArticles = allArticles.slice(3, 9);
 
   // Build count map for CategoryStrip
   const articleCounts: Record<string, number> = {};
@@ -69,47 +67,46 @@ export default function Home() {
 
   return (
     <div style={{ background: '#fafaf9' }}>
-
-      {/* ── Visually hidden H1 for SEO (shown to crawlers, above carousel) ── */}
-      <h1
-        style={{
-          position: 'absolute',
-          width: '1px',
-          height: '1px',
-          padding: 0,
-          margin: '-1px',
-          overflow: 'hidden',
-          clip: 'rect(0, 0, 0, 0)',
-          whiteSpace: 'nowrap',
-          borderWidth: 0,
-        }}
-      >
-        Japan Pop Now — Your Guide to Anime Collab Cafes, Pilgrimage Spots &amp; Pop Culture in Japan
-      </h1>
-
-      {/* ── Hero Carousel + Stat Pill ──────────────────────────────────── */}
-      <div style={{ position: 'relative' }}>
-        <FeaturedCarousel articles={carouselArticles} />
-
-        {/* Stat Pill Overlay */}
-        <div style={{
-          position: 'absolute',
-          bottom: '20px',
-          left: '50%',
-          transform: 'translateX(-50%)',
-          background: 'rgba(20, 33, 61, 0.92)',
-          backdropFilter: 'blur(8px)',
-          padding: '8px 16px',
-          borderRadius: '20px',
-          border: '1px solid rgba(255, 255, 255, 0.1)',
-          fontSize: '0.85rem',
-          color: '#fff',
-          fontWeight: 500,
-          zIndex: 10,
-        }}>
-          Updated daily · 15+ active collab cafes · Week&apos;s events →
+      {/* ── Hero (compact, 70vh, gradient) ──────────────────── */}
+      <section className="relative overflow-hidden min-h-[70vh] flex items-center bg-gradient-to-br from-orange-500 via-orange-400 to-teal-500">
+        <div
+          aria-hidden="true"
+          className="absolute inset-0 bg-gradient-to-br from-orange-500/60 via-teal-500/30 to-transparent pointer-events-none"
+        />
+        <div className="relative z-10 max-w-5xl mx-auto px-4 sm:px-6 lg:px-8 py-16 text-center">
+          <h1
+            className="text-white font-bold mb-4 drop-shadow-lg"
+            style={{
+              fontFamily: 'var(--font-display), "Playfair Display", Georgia, serif',
+              fontSize: 'clamp(2rem, 5vw, 3.75rem)',
+              lineHeight: 1.1,
+              letterSpacing: '-0.02em',
+            }}
+          >
+            Japan&apos;s Anime &amp; Pop Culture Experiences, Today.
+          </h1>
+          <p className="text-white/90 text-lg sm:text-xl mb-8 drop-shadow">
+            Plan your otaku trip today.
+          </p>
+          <div className="flex flex-col sm:flex-row gap-3 justify-center">
+            <Link
+              href="/calendar?filter=active"
+              className="rounded-full px-8 py-3 font-semibold bg-white text-slate-900 hover:scale-105 transition-transform shadow-lg"
+            >
+              See Today&apos;s Cafes
+            </Link>
+            <Link
+              href="/category/experiences"
+              className="rounded-full px-8 py-3 font-semibold bg-white/10 text-white border-2 border-white hover:bg-white hover:text-slate-900 transition-all"
+            >
+              Browse by IP
+            </Link>
+          </div>
         </div>
-      </div>
+      </section>
+
+      {/* ── Countdown strip (top 3 events ending soon) ─────── */}
+      <CountdownStrip />
 
       {/* ── Brand stripe ───────────────────────────────────── */}
       <div style={{ height: '3px', background: 'linear-gradient(90deg, #f97316, #e63946, #14213d)' }} />
