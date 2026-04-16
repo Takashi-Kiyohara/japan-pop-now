@@ -31,6 +31,12 @@
   /* Teal accent for secondary */
   --color-teal-400: #2dd4bf;
   --color-teal-600: #0d9488;
+  --color-accent-teal: #0d9488;
+
+  /* Spacing: 8px base grid (8, 16, 24, 32, 40, 48, 56, 64) */
+  --radius-card: 16px;
+  --shadow-hover: 0 12px 24px rgba(0,0,0,0.08);
+  --transition-base: 0.2s ease;
 }
 
 /* ─── Base Reset ─────────────────────────────────────────────── */
@@ -440,8 +446,10 @@ button { cursor: pointer; transition: all 0.2s ease; }
 }
 
 [data-theme="dark"] header {
-  background: #161b22 !important;
-  border-bottom-color: #30363d !important;
+  background: rgba(20,33,61,0.9) !important;
+  -webkit-backdrop-filter: blur(12px);
+  backdrop-filter: blur(12px);
+  border-bottom-color: rgba(255,255,255,0.2) !important;
 }
 
 [data-theme="dark"] .prose h2,

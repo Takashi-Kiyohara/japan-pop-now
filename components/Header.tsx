@@ -42,9 +42,11 @@ export default function Header() {
     <header
       className="sticky top-0 z-50"
       style={{
-        background: '#fff',
-        borderBottom: '1px solid #e7e5e4',
-        boxShadow: scrolled ? '0 2px 16px rgba(0,0,0,0.07)' : 'none',
+        background: 'rgba(255,255,255,0.85)',
+        WebkitBackdropFilter: 'blur(12px)',
+        backdropFilter: 'blur(12px)',
+        borderBottom: '1px solid rgba(231,229,228,0.5)',
+        boxShadow: scrolled ? '0 4px 20px rgba(0,0,0,0.06)' : 'none',
         transition: 'box-shadow 0.3s ease',
       }}
     >
@@ -62,7 +64,7 @@ export default function Header() {
                 fontSize: '1.3rem',
                 fontWeight: 800,
                 color: '#14213d',
-                letterSpacing: '-0.02em',
+                letterSpacing: '-0.01em',
               }}
             >
               JAPAN
@@ -71,9 +73,9 @@ export default function Header() {
               style={{
                 fontFamily: 'var(--font-display), "Playfair Display", Georgia, serif',
                 fontSize: '1.3rem',
-                fontWeight: 800,
+                fontWeight: 700,
                 color: '#e63946',
-                letterSpacing: '-0.02em',
+                letterSpacing: '-0.01em',
                 margin: '0 2px',
               }}
             >
@@ -83,9 +85,9 @@ export default function Header() {
               style={{
                 fontFamily: 'var(--font-display), "Playfair Display", Georgia, serif',
                 fontSize: '1.3rem',
-                fontWeight: 800,
+                fontWeight: 700,
                 color: '#14213d',
-                letterSpacing: '-0.02em',
+                letterSpacing: '-0.01em',
               }}
             >
               NOW
