@@ -3,7 +3,7 @@ title: "Cosplay Experience Tokyo 2026: Rental Studios, Photo Spots & Events"
 description: "Last updated: April 2026. Disclosure: This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you...."
 date: "2026-04-05"
 lastUpdated: "2026-04-05"
-category: "travel-tips"
+category: "experiences"
 tags: []
 featuredImage: "/images/articles/cosplay-experience-tokyo-2026/featured.jpg"
 featuredImageAlt: "Cosplayers at the World Cosplay Summit event at a Japanese temple"

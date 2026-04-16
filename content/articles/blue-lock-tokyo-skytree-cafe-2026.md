@@ -4,7 +4,7 @@ slug: "blue-lock-tokyo-skytree-cafe-2026"
 date: "2026-04-22"
 lastUpdated: "2026-04-22"
 author: "Takapon"
-category: "collab-cafes"
+category: "experiences"
 tags: ["blue-lock", "tokyo-skytree", "collab-cafe", "anime-exhibition", "2026-spring", "akihabara", "shibuya"]
 featuredImage: "/images/articles/blue-lock-tokyo-skytree-cafe-2026/featured.jpg"
 featuredImageAlt: "Official BLUE LOCK EPISODE SKY key visual showing characters against the Tokyo Skytree backdrop"

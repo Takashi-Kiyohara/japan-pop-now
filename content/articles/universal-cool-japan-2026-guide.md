@@ -3,7 +3,7 @@ title: "Universal Cool Japan 2026 Guide: Best Franchises, Dates & Is It Worth Ad
 description: "Trying to decide whether Universal Cool Japan 2026 is worth adding to your Japan trip? This guide explains the lineup, event periods, and which experiences..."
 date: "2026-04-06"
 lastUpdated: "2026-04-06"
-category: "collab-cafes"
+category: "experiences"
 tags: []
 featuredImage: "/images/articles/universal-cool-japan-2026-guide/featured.jpg"
 featuredImageAlt: "Universal Studios Japan entrance area in Osaka"

@@ -3,7 +3,7 @@ title: "PokéPark Kanto Complete Guide 2026: Tickets, Areas & Tips"
 description: "Last updated: April 2026. Disclosure: This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you...."
 date: "2026-04-05"
 lastUpdated: "2026-04-05"
-category: "area-guides"
+category: "experiences"
 tags: []
 featuredImage: "/images/articles/pokepark-kanto-tokyo-2026/featured.jpg"
 featuredImageAlt: "PokePark Kanto attraction in Tokyo"
