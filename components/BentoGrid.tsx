@@ -2,32 +2,10 @@ import Link from 'next/link';
 import Image from 'next/image';
 import { getAllEvents } from '@/lib/events';
 import popularData from '@/data/popular.json';
+import { getIpVisual } from '@/lib/ipGradient';
 
 const DAY = 86_400_000;
 const WEEKDAY = ['Sun', 'Mon', 'Tue', 'Wed', 'Thu', 'Fri', 'Sat'];
-
-const IP_GRADIENTS: Record<string, string> = {
-  Chiikawa: 'bg-gradient-to-br from-[#FFE4A3] to-[#FFB800]',
-  'Detective Conan': 'bg-gradient-to-br from-[#1E3A8A] to-[#EF4444]',
-  'Jujutsu Kaisen': 'bg-gradient-to-br from-[#1F2937] to-[#7C3AED]',
-  'My Hero Academia': 'bg-gradient-to-br from-[#10B981] to-[#F59E0B]',
-  'One Piece': 'bg-gradient-to-br from-[#EF4444] to-[#FBBF24]',
-  Hololive: 'bg-gradient-to-br from-[#F472B6] to-[#60A5FA]',
-  Sanrio: 'bg-gradient-to-br from-[#FDA4AF] to-[#FECACA]',
-  Rilakkuma: 'bg-gradient-to-br from-[#D97706] to-[#FBBF24]',
-  'Yu-Gi-Oh!': 'bg-gradient-to-br from-[#7C2D12] to-[#FCD34D]',
-  'Super Mario': 'bg-gradient-to-br from-[#DC2626] to-[#FCD34D]',
-  'Demon Slayer': 'bg-gradient-to-br from-[#064E3B] to-[#000000]',
-};
-const DEFAULT_GRADIENT = 'bg-gradient-to-br from-[#6B7280] to-[#1F2937]';
-
-function gradientForIp(ip: string): string {
-  if (IP_GRADIENTS[ip]) return IP_GRADIENTS[ip];
-  for (const key of Object.keys(IP_GRADIENTS)) {
-    if (ip.startsWith(key)) return IP_GRADIENTS[key];
-  }
-  return DEFAULT_GRADIENT;
-}
 
 // 12 priority IPs for the cloud — link to existing canonical pages,
 // fallback to /calendar where no article exists yet.
@@ -106,6 +84,7 @@ export default function BentoGrid() {
               const linkProps = internal
                 ? {}
                 : ({ target: '_blank', rel: 'noopener noreferrer nofollow' } as const);
+              const v = getIpVisual(e.ip);
               return (
                 <li key={e.id}>
                   <Link
@@ -114,7 +93,7 @@ export default function BentoGrid() {
                     className="flex gap-2 rounded-xl bg-white border border-orange-100 p-3 hover:border-orange-400 hover:shadow transition"
                   >
                     <div
-                      className={`w-12 h-12 rounded-lg flex items-center justify-center text-white text-[0.65rem] font-bold text-center px-1 leading-tight shrink-0 ${gradientForIp(e.ip)}`}
+                      className={`w-12 h-12 rounded-lg flex items-center justify-center text-[0.65rem] font-bold text-center px-1 leading-tight shrink-0 ${v.gradient} ${v.textColor}`}
                     >
                       {e.ip.length > 14 ? e.ip.split(' ')[0] : e.ip}
                     </div>

@@ -3,6 +3,7 @@
 import { useMemo, useState } from 'react';
 import Link from 'next/link';
 import type { CollabEvent, EventBadge, EventGenre } from '@/lib/events';
+import { getIpVisual } from '@/lib/ipGradient';
 
 type SortKey = 'date' | 'ending' | 'popularity';
 type CityFilter = 'all' | 'Tokyo' | 'Osaka' | 'other';
@@ -24,35 +25,6 @@ const CITY_TABS: { key: CityFilter; label: string }[] = [
   { key: 'Osaka', label: 'Osaka' },
   { key: 'other', label: 'Other' },
 ];
-
-// IP-signature gradient backgrounds. Tailwind arbitrary values avoid the
-// JIT class-purge issue with dynamic hex codes: the full class strings must
-// appear verbatim so Tailwind picks them up at build time.
-const IP_GRADIENTS: Record<string, string> = {
-  'Chiikawa':                 'bg-gradient-to-br from-[#FFE4A3] to-[#FFB800]',
-  'Detective Conan':          'bg-gradient-to-br from-[#1E3A8A] to-[#EF4444]',
-  'Jujutsu Kaisen':           'bg-gradient-to-br from-[#1F2937] to-[#7C3AED]',
-  'My Hero Academia':         'bg-gradient-to-br from-[#10B981] to-[#F59E0B]',
-  'One Piece':                'bg-gradient-to-br from-[#EF4444] to-[#FBBF24]',
-  'Hololive':                 'bg-gradient-to-br from-[#F472B6] to-[#60A5FA]',
-  'Sanrio':                   'bg-gradient-to-br from-[#FDA4AF] to-[#FECACA]',
-  'Rilakkuma':                'bg-gradient-to-br from-[#D97706] to-[#FBBF24]',
-  'Yu-Gi-Oh!':                'bg-gradient-to-br from-[#7C2D12] to-[#FCD34D]',
-  'Yu-Gi-Oh! ZEXAL':          'bg-gradient-to-br from-[#7C2D12] to-[#FCD34D]',
-  'Super Mario':              'bg-gradient-to-br from-[#DC2626] to-[#FCD34D]',
-  'Pokemon GO':               'bg-gradient-to-br from-[#DC2626] to-[#FCD34D]',
-  'Demon Slayer':             'bg-gradient-to-br from-[#064E3B] to-[#000000]',
-};
-const DEFAULT_GRADIENT = 'bg-gradient-to-br from-[#6B7280] to-[#1F2937]';
-
-function gradientForIp(ip: string): string {
-  if (IP_GRADIENTS[ip]) return IP_GRADIENTS[ip];
-  // Match by prefix for franchise variants (e.g. "One Piece Film Red")
-  for (const key of Object.keys(IP_GRADIENTS)) {
-    if (ip.startsWith(key)) return IP_GRADIENTS[key];
-  }
-  return DEFAULT_GRADIENT;
-}
 
 const BADGE_STYLE: Record<EventBadge, { label: string; bg: string; color: string }> = {
   hot: { label: 'Hot', bg: '#fee2e2', color: '#b91c1c' },
@@ -209,6 +181,7 @@ export default function CalendarBrowser({ events }: { events: CollabEvent[] }) {
             ? {}
             : { target: '_blank', rel: 'noopener noreferrer nofollow' as const };
           const Wrapper = internal ? Link : 'a';
+          const v = getIpVisual(e.ip);
           return (
             <Wrapper
               key={e.id}
@@ -219,7 +192,7 @@ export default function CalendarBrowser({ events }: { events: CollabEvent[] }) {
             >
               <div className="flex flex-col sm:flex-row">
                 <div
-                  className={`sm:w-40 sm:flex-shrink-0 flex items-center justify-center h-[100px] sm:rounded-l-xl rounded-t-xl sm:rounded-tr-none text-white text-xl font-bold text-center p-3 drop-shadow-lg ${gradientForIp(e.ip)}`}
+                  className={`sm:w-40 sm:flex-shrink-0 flex items-center justify-center h-[100px] sm:rounded-l-xl rounded-t-xl sm:rounded-tr-none text-lg md:text-xl font-bold text-center px-2 ${v.gradient} ${v.textColor}`}
                   style={{ fontFamily: 'var(--font-display), Georgia, serif' }}
                 >
                   {e.ip}
