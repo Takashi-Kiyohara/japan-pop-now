@@ -21,7 +21,7 @@ export default function CountdownStrip() {
 
   return (
     <div className="bg-amber-50 border-b border-amber-200">
-      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-3 flex flex-wrap items-center gap-3 text-sm">
+      <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-2 flex flex-wrap items-center gap-2 text-sm">
         <span className="text-xs font-bold uppercase tracking-wider text-amber-900">
           Ending soon
         </span>
@@ -39,7 +39,7 @@ export default function CountdownStrip() {
               key={e.id}
               href={href}
               {...linkProps}
-              className="rounded-full px-3 py-1 bg-white border border-amber-300 font-medium text-slate-800 hover:border-orange-500 hover:text-orange-700 transition"
+              className="rounded-full px-4 py-1 bg-white border border-amber-300 font-medium text-slate-800 hover:border-orange-500 hover:text-orange-700 transition"
             >
               {e.ip}&nbsp;·{' '}
               <span className="text-orange-600 font-semibold">{d}d left</span>
