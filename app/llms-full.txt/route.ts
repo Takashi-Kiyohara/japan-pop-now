@@ -71,6 +71,7 @@ ${categoryBlocks}
 - Anime Pilgrimage Tokyo: https://www.japan-pop-now.com/guides/anime-pilgrimage-tokyo
 - Osaka Anime Guide: https://www.japan-pop-now.com/guides/osaka-anime-guide
 - Day Trips from Tokyo: https://www.japan-pop-now.com/guides/day-trips-from-tokyo
+- Japan Anime Experiences: https://www.japan-pop-now.com/guides/japan-anime-experiences
 - Japan Travel Essentials: https://www.japan-pop-now.com/guides/japan-travel-essentials
 
 ## Feature Series (editorial columns, orthogonal to categories)

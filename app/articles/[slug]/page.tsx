@@ -140,7 +140,9 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
 
   // TouristAttraction schema — location-centric categories only
   const isLocationGuide =
-    article.category === 'area-guides' || article.category === 'anime-pilgrimage';
+    article.category === 'area-guides' ||
+    article.category === 'anime-pilgrimage' ||
+    article.category === 'experiences';
   const inferredLocality = /tokyo/i.test(slug)
     ? 'Tokyo'
     : /osaka/i.test(slug)

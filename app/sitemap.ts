@@ -86,6 +86,7 @@ export default function sitemap(): MetadataRoute.Sitemap {
     'anime-pilgrimage-tokyo',
     'osaka-anime-guide',
     'day-trips-from-tokyo',
+    'japan-anime-experiences',
     'japan-travel-essentials',
   ];
   const guidePages: MetadataRoute.Sitemap = hubTopics.map((topic) => ({

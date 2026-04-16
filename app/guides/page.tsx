@@ -35,6 +35,12 @@ const HUBS = [
     category: 'anime-pilgrimage',
   },
   {
+    slug: 'japan-anime-experiences',
+    title: 'Japan Anime Experiences',
+    description: 'Theme parks, pop-ups, DIY workshops, and single-spot experiences — PokéPark, LuvLab, Blue Lock Skytree, and more.',
+    category: 'experiences',
+  },
+  {
     slug: 'japan-travel-essentials',
     title: 'Japan Travel Essentials',
     description: 'JR Pass, eSIM, IC cards, budget tips, and everything you need before your trip.',

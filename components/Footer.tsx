@@ -3,6 +3,7 @@ import Link from 'next/link';
 const SITE_LINKS = [
   { href: '/', label: 'Home' },
   { href: '/category/collab-cafes', label: 'Collab Cafes' },
+  { href: '/category/experiences', label: 'Experiences' },
   { href: '/category/anime-pilgrimage', label: 'Anime Pilgrimage' },
   { href: '/category/area-guides', label: 'Area Guides' },
   { href: '/category/travel-tips', label: 'Travel Tips' },

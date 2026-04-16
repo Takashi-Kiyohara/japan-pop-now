@@ -11,6 +11,7 @@ export async function GET() {
 
   const categoryDescriptions: Record<string, string> = {
     'collab-cafes': 'How to book, menus, current schedules for anime collaboration cafes across Japan. Updated monthly.',
+    'experiences': 'Single-spot anime experiences — theme parks, pop-ups, DIY workshops, exhibitions. PokéPark, LuvLab, Ghibli Park, Blue Lock Skytree, Universal Cool Japan.',
     'anime-pilgrimage': 'Real-life filming/inspiration locations from popular anime  ESlam Dunk, Your Name, Jujutsu Kaisen, and 20+ series.',
     'area-guides': 'Neighborhood-level guides for anime fans  EAkihabara, Ikebukuro, Nakano Broadway, Den Den Town, and hidden spots.',
     'travel-tips': 'Practical guides  EJapan Rail Pass, eSIM, luggage forwarding, airport transfers, budget tips.',
@@ -49,7 +50,7 @@ Japan Pop Now is a specialized travel-culture media site for international anime
 ${categoryBlocks}
 
 ## Key Facts
-- ${articles.length} articles covering 4 content pillars
+- ${articles.length} articles covering 5 content pillars
 - Updated regularly with seasonal event information
 - Covers Tokyo, Osaka, Kyoto, Kamakura, Nagoya and beyond
 - Original reporting with practical booking/access details
@@ -64,6 +65,7 @@ ${faqItems.map((f) => `- ${f}`).join('\n')}
 - Anime Pilgrimage Tokyo: https://www.japan-pop-now.com/guides/anime-pilgrimage-tokyo
 - Osaka Anime Guide: https://www.japan-pop-now.com/guides/osaka-anime-guide
 - Day Trips from Tokyo: https://www.japan-pop-now.com/guides/day-trips-from-tokyo
+- Japan Anime Experiences: https://www.japan-pop-now.com/guides/japan-anime-experiences
 - Japan Travel Essentials: https://www.japan-pop-now.com/guides/japan-travel-essentials
 
 ## Feature Series (editorial columns, orthogonal to categories)

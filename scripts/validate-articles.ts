@@ -16,7 +16,7 @@ interface ValidationError {
 }
 
 const ARTICLES_DIR = path.join(process.cwd(), 'content/articles')
-const VALID_CATEGORIES = ['collab-cafes', 'anime-pilgrimage', 'area-guides', 'travel-tips']
+const VALID_CATEGORIES = ['collab-cafes', 'experiences', 'anime-pilgrimage', 'area-guides', 'travel-tips']
 const MIN_WORD_COUNT = 500
 const MIN_HEADINGS = 2
 

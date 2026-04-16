@@ -57,6 +57,18 @@ function getCategoryAffiliateCTA(category: { slug: string; label: string }) {
           category="area-guides"
         />
       );
+    case 'experiences':
+      return (
+        <AffiliateCTA
+          icon="🎟️"
+          title="Book Anime Experiences in Japan"
+          description="Theme parks, pop-ups, DIY workshops, exhibitions — reserve one-of-a-kind anime experiences with English support and instant confirmation."
+          buttonText="Browse Experiences"
+          href={'https://www.klook.com/en-US/experiences/tokyo?aff_id=' + (process.env.NEXT_PUBLIC_KLOOK_AFF_ID || '')}
+          program="klook"
+          category="experiences"
+        />
+      );
     case 'travel-tips':
       return (
         <AffiliateCTA

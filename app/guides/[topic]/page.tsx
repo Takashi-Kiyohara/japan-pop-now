@@ -68,6 +68,16 @@ const HUB_TOPICS: HubTopic[] = [
     relatedHubs: ['anime-pilgrimage-tokyo'],
   },
   {
+    slug: 'japan-anime-experiences',
+    title: 'Japan Anime Experiences — Theme Parks, Pop-ups, Workshops',
+    h1: 'Japan Anime Experiences',
+    description: 'Single-spot anime experiences across Japan — PokéPark Kanto, LuvLab DIY workshops, Ghibli Park, Blue Lock Skytree, Universal Cool Japan, and more.',
+    categories: ['experiences'],
+    tags: ['experience', 'theme-park', 'pop-up', 'exhibition', 'workshop'],
+    intro: 'Not every anime trip fits into a cafe, a neighborhood, or a pilgrimage route. Experiences are the one-of-a-kind venues you book, walk into, and leave with something you made or saw only once — PokéPark Kanto, Ghibli Park, AnimeJapan, LuvLab harajuku accessory workshops, Blue Lock Tokyo Skytree cafe-exhibit crossovers, and Universal Cool Japan. This hub collects our coverage of every bookable anime experience in Japan with honest reviews and reservation playbooks.',
+    relatedHubs: ['tokyo-anime-cafes', 'anime-pilgrimage-tokyo'],
+  },
+  {
     slug: 'japan-travel-essentials',
     title: 'Japan Travel Essentials for Anime Fans',
     h1: 'Japan Travel Essentials',
@@ -75,7 +85,7 @@ const HUB_TOPICS: HubTopic[] = [
     categories: ['travel-tips'],
     tags: ['travel-tips', 'essential', 'budget', 'jr-pass', 'esim'],
     intro: 'Planning your first anime pilgrimage to Japan? These practical guides cover everything you need — from choosing the right rail pass to getting an eSIM, navigating the convenience store ecosystem, and understanding the unwritten rules that\'ll make your trip smoother.',
-    relatedHubs: ['day-trips-from-tokyo'],
+    relatedHubs: ['day-trips-from-tokyo', 'japan-anime-experiences'],
   },
 ];
 
@@ -274,6 +284,36 @@ function getHubPlanYourTripCTAs(hub: HubTopic) {
           href: `https://www.booking.com/?aid=${baseBookingId}`,
           program: 'booking' as const,
           category: 'area-guides',
+        },
+      ];
+    case 'japan-anime-experiences':
+      return [
+        {
+          icon: '🎟️',
+          title: 'Book Anime Experiences',
+          description: 'Theme parks, pop-ups, workshops, and exhibitions — instant confirmation with English support.',
+          buttonText: 'Browse Experiences',
+          href: `https://www.klook.com/en-US/experiences/tokyo?aff_id=${baseClookId}`,
+          program: 'klook' as const,
+          category: 'experiences',
+        },
+        {
+          icon: '🎢',
+          title: 'Universal Studios Japan',
+          description: 'Osaka anime collabs at USJ — Universal Cool Japan, seasonal one-piece, jujutsu kaisen events.',
+          buttonText: 'Get USJ Tickets',
+          href: `https://www.klook.com/en-US/activity/1321-universal-studios-japan-osaka/?aff_id=${baseClookId}`,
+          program: 'klook' as const,
+          category: 'experiences',
+        },
+        {
+          icon: '🏨',
+          title: 'Stay Near the Experience',
+          description: 'Hotels close to major experience venues — Harajuku, Shibuya, Ikebukuro, Osaka USJ area.',
+          buttonText: 'Search Hotels',
+          href: `https://www.booking.com/?aid=${baseBookingId}`,
+          program: 'booking' as const,
+          category: 'experiences',
         },
       ];
     default:
