@@ -37,7 +37,6 @@ If you only have one shopping block in Tokyo, choose your route by goal first in
 - **Want a full otaku day with arcades, gachapon, and big flagship stores?** Start with [Akihabara](/akihabara-complete-guide-2026/).
 - **Still deciding by series rather than district?** Use the [Find by Anime hub](/find-by-anime-in-japan-2026-pilgrimage-guides-by-series/) first, then come back here for the shopping plan.
 
-
 ## Types of Anime Merchandise (and What’s Worth Buying in Japan)
 ### Figures & Statues
 Japan is where anime figures are made, and the selection in Japanese stores dwarfs what’s available overseas. Prize figures (the ones you win from crane games or buy for ¥1,000–¥3,000) offer incredible value — Banpresto, Taito, and SEGA prize figures have quality that rivals more expensive scale figures. Scale figures from Good Smile Company, Kotobukiya, and Alter range from ¥8,000 to ¥30,000+ but are typically ¥2,000–¥5,000 cheaper than importing.
@@ -82,7 +81,6 @@ Discover authentic anime merchandise and collectibles:
 [Anime Plush Toys](https://www.amazon.co.jp/s?k=Anime+Plush+Toys&tag=snsganbaro-22)
 
 As an Amazon Associate, we may earn from qualifying purchases.
-
 
 ## Where to Shop: Tokyo’s Best Anime Merch Stores
 Tokyo has several major anime shopping districts — [Akihabara](/akihabara-complete-guide-2026/), [Ikebukuro](/ikebukuro-anime-guide-2026/), and [Nakano Broadway](/nakano-broadway-guide/) are the big three. See our [Tokyo Anime District Guide](/tokyo-anime-district-guide/) for an overview of all five areas.
@@ -136,7 +134,6 @@ Most visitors overspend when they buy too many low-priority items early in the d
 Best next step if you are budget-sensitive
 
 Compare districts before you shop: [Tokyo Anime District Guide](/tokyo-anime-district-guide/) helps you decide whether Akihabara, Ikebukuro, or Nakano Broadway matches your fandom and budget better.
-
 
 ## Timing Your Shopping
 **New release days:** Most anime merchandise releases on Saturdays. If you’re targeting a specific figure or limited item, check the release date and plan to visit on that day. Popular items sell out by afternoon.
@@ -202,8 +199,6 @@ Check Mandarake and Surugaya inventory online before you travel, especially for 
 
 ![Rows of anime goods at a Japanese store](https://japan-pop-now.com/wp-content/uploads/2026/04/anime-goods-store-shelves.jpg)Rows of anime goods at a Japanese store
 Image: Collabo Cafe
-
-☕
 
 Planning a trip to Tokyo?
 
@@ -278,14 +273,14 @@ Follow for weekly collab cafe updates & Japan pop culture content.
 
 ### Explore by Area
 
-[🗼 Tokyo](/tag/tokyo/)
+[ Tokyo](/tag/tokyo/)
 
-[🏪 Akihabara](/akihabara-shopping-guide-anime-fans-2025/)
+[ Akihabara](/akihabara-shopping-guide-anime-fans-2025/)
 
-[👥 Shibuya](/shibuya-anime-spots-guide/)
+[ Shibuya](/shibuya-anime-spots-guide/)
 
-[🎮 Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)
+[ Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)
 
-[🌆 Osaka](/osaka-anime-guide-2025/)
+[ Osaka](/osaka-anime-guide-2025/)
 
-🏯 Kyoto (Coming Soon)
+ Kyoto (Coming Soon)

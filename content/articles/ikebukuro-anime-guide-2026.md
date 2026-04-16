@@ -26,7 +26,6 @@ Ikebukuro’s east side is home to the world’s largest Animate store, the mass
 
 The district is also just easier to find your way around than Akihabara. It’s more compact, less overwhelming for first-timers, and better connected to the rest of Tokyo via the Yamanote, Marunouchi, Fukutoshin, and Seibu/Tobu lines. You can cover Ikebukuro’s entire anime scene in a focused half-day, or spread it across a leisurely full day with meals and cafe visits.
 
-
 ## East Side: The Animate District (East Exit)
 ### Animate Ikebukuro Main Store
 The **Animate Ikebukuro Main Store** is the largest anime retail store in the world. It’s not just big — it’s a 9-floor department store entirely dedicated to anime, manga, and game merchandise. Each floor covers a different category:
@@ -58,7 +57,6 @@ Plan to spend at least 30–60 minutes here, and bring plenty of ¥100 coins. Th
 
 ### Game Centers
 Ikebukuro’s East Exit area has several game centers worth visiting. **Round1 Stadium Ikebukuro** is the biggest — a multi-floor entertainment complex with arcade games, crane games, bowling, karaoke, and more. Time packages run ¥2,500–¥2,800 for a few hours. **GiGO Ikebukuro** and **Taito Station** locations offer more traditional arcade experiences with crane games on the lower floors and rhythm/fighting games above.
-
 
 ## West Side: Otome Road
 Otome Road is a stretch of shops along the west side of Sunshine 60-dori that caters specifically to female anime and manga fans. While the name means “Maiden Road,” it welcomes everyone — the focus is simply on genres popular with women: BL (boys’ love), otome games, josei manga, and series with strong male character appeal (Haikyuu!!, Jujutsu Kaisen, Twisted Wonderland, Hypnosis Mic).
@@ -171,8 +169,6 @@ Love One Piece? Don’t miss our [One Piece Tokyo Guide](/one-piece-tokyo-guide-
 - [Kyoto Anime Guide 2026](/osaka-anime-guide-den-den-town/)
 - [How to Book Anime Collab Cafes](/how-to-book-anime-collab-cafe-japan/)
 
-☕
-
 Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
@@ -185,4 +181,4 @@ Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and 
 Follow for weekly collab cafe updates & Japan pop culture content.
 
 ### Explore by Area
-[🗼 Tokyo](/tag/tokyo/)[🏪 Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[👥 Shibuya](/shibuya-anime-spots-guide/)[🎮 Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[🌆 Osaka](/osaka-anime-guide-2025/)🏯 Kyoto (Coming Soon)
+[ Tokyo](/tag/tokyo/)[ Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[ Shibuya](/shibuya-anime-spots-guide/)[ Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[ Osaka](/osaka-anime-guide-2025/) Kyoto (Coming Soon)

@@ -38,8 +38,6 @@ wpPostId: 204
 
 *Last updated: March 2026. Covers all floors, Mandarake locations, Daily Chico soft serve, opening hours, and a practical comparison with Akihabara.*
 
-![Retro shopping arcade in Tokyo leading to Nakano Broadway — Japan](https://images.unsplash.com/photo-1513407030348-c983a97b98d8?w=800&h=500&fit=crop&q=80)
-
 Everybody knows Akihabara. It’s loud, it’s neon, and every travel guide on the internet will send you there for anime shopping. But the people who actually collect — the ones hunting first-edition manga, vintage Gundam kits, and figures that haven’t been in production for 20 years — they go to Nakano Broadway.
 
 Nakano Broadway is a multi-story shopping complex five minutes from Shinjuku on the JR Chuo Line. From the outside, it looks like a regular neighborhood building. Inside, it’s a vertical maze of over 300 shops across four floors, with the highest concentration of rare anime and manga goods anywhere in Tokyo. It’s where Mandarake — the world’s largest secondhand anime retailer — was born in 1980, and where they still operate over 30 individual specialty stores under one roof.
@@ -78,8 +76,6 @@ If you only have an hour, spend it on these two floors. If you have three hours,
 ### 4F — Specialty and Niche
 The top floor gets more specialized. You’ll find retro video game shops, musical instruments, idol merchandise deep cuts, and some of the more unusual Mandarake outlets. It’s quieter up here — fewer casual browsers, more serious hunters. Some of the best deals live on this floor because fewer people make it this far up.
 
-![Vintage anime figures and manga displayed in glass cases at a collector shop in Nakano Broadway Tokyo](https://images.unsplash.com/photo-1580477667995-2b94f01c9516?w=800&h=500&fit=crop&q=80)
-
 ## Mandarake: 30+ Stores in One Building
 Mandarake is the heart of Nakano Broadway. The company was **founded here in 1980** and has since expanded into over 30 individual shops within the building, each focused on a specific category. For comparison, their Akihabara location is a single building. Here, they have an entire ecosystem.
 
@@ -109,8 +105,6 @@ You will see people walking through Nakano Broadway holding enormous stacks of s
 Their signature item is the **Tokudai Soft Cream** — an eight-flavor tower standing about 40 centimeters tall. Vanilla, chocolate, strawberry, black sesame, pistachio, café au lait, ramune, and yakiimo (sweet potato), stacked one on top of the other. (Note: flavors rotate seasonally, so the lineup may differ when you visit.) It costs **¥1,000** and is absurdly photogenic.
 
 **The tower melts fast.** Tokyo humidity and eight layers of ice cream do not cooperate. Eat it immediately. Do not attempt to carry it upstairs for a photoshoot in front of the Mandarake showcase. (People try. It never ends well.)
-
-![Narrow corridor inside a multi-story Japanese shopping complex filled with small specialty stores](https://images.unsplash.com/photo-1585667055741-7a94f3397509?w=800&h=500&fit=crop&q=80)
 
 ## Nakano Broadway vs. Akihabara: Which One Should You Visit?
 Both. But if you’re forced to choose, here’s how to think about it:
@@ -193,8 +187,6 @@ Akihabara first, if it’s your first time in Tokyo. It gives you the full anime
 - [Anime Merch Shopping Guide: Where to Buy & How to Save](/anime-merch-shopping-guide/)
 - [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)
 
-☕
-
 Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
@@ -207,4 +199,4 @@ Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and 
 Follow for weekly collab cafe updates & Japan pop culture content.
 
 ### Explore by Area
-[🗼 Tokyo](/tag/tokyo/)[🏪 Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[👥 Shibuya](/shibuya-anime-spots-guide/)[🎮 Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[🌆 Osaka](/osaka-anime-guide-2025/)🏯 Kyoto (Coming Soon)
+[ Tokyo](/tag/tokyo/)[ Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[ Shibuya](/shibuya-anime-spots-guide/)[ Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[ Osaka](/osaka-anime-guide-2025/) Kyoto (Coming Soon)

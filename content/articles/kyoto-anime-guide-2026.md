@@ -17,7 +17,7 @@ wpPostId: 513
 
 Kyoto Anime Guide 2026: Pilgrimages, Studios, and Otaku Culture in the Ancient Capital
 
-            ![Kyoto temples and traditional architecture for anime pilgrimage](https://images.unsplash.com/photo-1493976040374-85c8e12f0c0e?w=1200&h=630&fit=crop)Kyoto’s ancient temples and shrines serve as filming locations and pilgrimage sites for anime fans worldwide.
+            Kyoto’s ancient temples and shrines serve as filming locations and pilgrimage sites for anime fans worldwide.
 When I first visited Kyoto as an anime fan, I realized the city wasn’t just a repository of historical temples and traditional culture. Kyoto has become the spiritual center of anime production and fandom in Japan. The city’s timeless aesthetic drew studios to film here, and fansâknown as pilgrims or *seichi junrei* (èå°å·¡ç¤¼) practitionersânow flock to these locations to stand where their favorite characters stood.
 
 Kyoto Animations (KyoAni), one of the most respected studios in the industry, calls this region home. Their headquarters in Uji, a neighboring city, has shaped the anime landscape for over two decades. Beyond KyoAni, Kyoto’s temples, shrines, and streets have appeared in dozens of anime series. I’ve spent weeks tracking these locations, visiting them in person, and documenting what you actually see when you arrive.
@@ -39,7 +39,6 @@ This guide covers everything: the KyoAni connection, specific pilgrimage routes 
 
 ## The KyoAni Connection: History and Location
 
-
 Kyoto Animation has been the studio behind some of the most iconic anime of the past 20 years. When I looked up their facility locations, I found that the main studio is located in Uji, about 30 kilometers south of central Kyoto. This wasn’t arbitraryâKyoAni chose Uji specifically because of its natural beauty and traditional atmosphere.
 
 The studio produced Haruhi Suzumiya, one of the most influential anime of the 2000s. They also created K-On!, which launched the entire genre of music-school slice-of-life shows. Violet Evergarden, Hibike Euphonium, A Silent Voice, and Free! all came from KyoAni’s studios. These shows didn’t just get popularâthey fundamentally shaped anime production values and storytelling techniques.
@@ -57,7 +56,6 @@ Important to know: KyoAni does not offer public studio tours. The facility is a 
 When you arrive in Uji, you’ll understand why the studio thrived here. The town sits on the banks of the Uji River, surrounded by traditional temples and gardens. The slower pace and access to these locations made Uji the perfect setting for KyoAni’s animation work.
 
 ## Hibike Euphonium Pilgrimage in Uji
-
 
 Hibike Euphonium is arguably KyoAni’s most detailed location-based anime. Nearly every major location in the series corresponds to actual places in Uji. I spent an entire day visiting these locations with a location guide, and the accuracy is stunning. The animators visited each site multiple times and drew them with photographic precision.
 
@@ -78,7 +76,6 @@ The third major location is Uji Shrine itself, which appears in character introd
 When you walk the Keage Incline, bring water and comfortable shoes. The path is mostly flat, following the old railway line through quiet neighborhoods and along the canal. Several spots show vending machines and small shops, but it’s better to prepare in advance. I took 90 minutes to walk the full length, stopping to photograph locations and compare them with anime screenshots.
 
 ## K-On! Filming Locations
-
 
 K-On! is set in the fictional Sakuragaoka High School, but the real locations are spread across Kyoto and southern areas. The most famous location is the Suirokaku Aqueduct (also called the Keage Canal), which I visited multiple times. The arched stone aqueduct appears in countless anime scenes, and standing there, looking at the exact angle where the characters stood, feels surreal.
 
@@ -119,7 +116,6 @@ One practical note: wear comfortable shoes if you plan to hike the mountain. The
 
 ## Studio Parks and Filming Facilities
 
-
 Toei Kyoto Studio Park, a major attraction, was renamed to Uzumasa Kyoto Village on March 28, 2026. This facility is unique because it maintains actual historic sets and allows visitors to walk through working film locations. While primarily focused on live-action period dramas and films, the facility also hosts anime-related events and exhibitions.
 
 When I visited in March, I found that admission is Â¥2,800 for adults. The park spans multiple blocks and includes Japanese period architecture from various historical eras. The buildings function both as film sets and as museum exhibits. You can photograph yourself in traditional costume while standing on the same location where professional actors filmed scenes.
@@ -140,7 +136,6 @@ Beyond Uzumasa Kyoto Village, there aren’t other major anime studio facilities
 
 ## Anime Shopping Districts
 
-
 If you want to buy anime merchandise while in Kyoto, the main option is Animate Kyoto, located on the 2nd floor of the Passagio shopping complex. I found the store has a solid selection of anime merchandise, manga, figures, and official goods. Hours are 11 AM to 9 PM daily. The selection isn’t as expansive as the flagship Animate in Tokyo, but it covers most major anime properties.
 
 Beyond Animate, the Teramachi-Shinkyogoku shopping district offers multiple anime and manga-related shops mixed in with general retail. This pedestrian shopping arcade stretches for several blocks and includes used anime shops, new release stores, and merchandise vendors. I spent an hour browsing and found fair prices compared to Tokyo storefronts.
@@ -158,7 +153,6 @@ A word of caution: Kyoto’s anime shopping scene is smaller than Tokyo’s Akih
 | Comparison to Tokyo | Smaller selection than Akihabara; specific items may not be available |
 
 ## April 2026 Anime Events
-
 
 If you’re visiting Kyoto in April 2026, several anime-related events are happening. Jujutsu Kaisen is collaborating with Sweets Paradise from April 11 through April 29. This is a limited-time partnership featuring Jujutsu Kaisen-themed desserts and merchandise. I’m planning to visit the Kyoto Sweets Paradise location during this period.
 
@@ -179,7 +173,6 @@ Walking tours of Gion district itself are free and heavily rewarding. The wooden
 
 ## Side Trips and Related Locations
 
-
 Haruhi Suzumiya is one of KyoAni’s most famous productions, but I need to note an important detail: the series is set in Nishinomiya, a city in Hyogo Prefecture, not in Kyoto. However, since you’ll already be in the Kyoto region, a day trip to Nishinomiya is feasible. The locations include Nishinomiya Shrine, various schools, and shopping streets that appear in the anime.
 
 From Kyoto, you can take the Hankyu Railway toward Osaka and transfer to local lines reaching Nishinomiya. The journey takes about 90 minutes total. Several online guides map out the Haruhi pilgrimage locations specifically, and it’s become popular enough that other fans have documented every location in detail.
@@ -189,7 +182,6 @@ Osaka is another nearby major city with anime connections. If you have extra tim
 Getting around all these locations is simplified by getting a Suica or ICOCA card at Kyoto or Osaka Station. These rechargeable IC cards work on nearly all transportation systems in the Kansai region. I strongly recommend grabbing one before starting your pilgrimageâit beats buying individual tickets.
 
 ## Practical Information and FAQs
-
 
 Before you finalize your Kyoto anime pilgrimage, here are key practical details I wish someone had told me before my first visit.
 
@@ -235,8 +227,6 @@ A 3-4 day trip covering major locations costs roughly Â¥8,000-Â¥12,000 in ad
 
 **Follow [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)** for daily Tokyo pop culture updates.
 
-☕
-
 Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
@@ -249,4 +239,4 @@ Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and 
 Follow for weekly collab cafe updates & Japan pop culture content.
 
 ### Explore by Area
-[🗼 Tokyo](/tag/tokyo/)[🏪 Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[👥 Shibuya](/shibuya-anime-spots-guide/)[🎮 Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[🌆 Osaka](/osaka-anime-guide-2025/)🏯 Kyoto (Coming Soon)
+[ Tokyo](/tag/tokyo/)[ Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[ Shibuya](/shibuya-anime-spots-guide/)[ Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[ Osaka](/osaka-anime-guide-2025/) Kyoto (Coming Soon)

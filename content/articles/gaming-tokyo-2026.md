@@ -20,7 +20,6 @@ Tokyo is built for gamers. Whether you’re hunting for exclusive Pokemon mercha
 
 ## The Big Three: Pokemon Center MEGA, Nintendo TOKYO & Beyond
 
-
 ### Pokemon Center MEGA ([Ikebukuro](/ikebukuro-anime-guide-2026/))
 Start here. Pokemon Center MEGA is the flagship store and it’s enormous. We’re talking 650 square meters, 2,500+ items, and crowds that rival theme park queues on weekends. The store spans multiple floors with dedicated zones for clothing, figures, plushies, trading cards, and region-exclusive merchandise you won’t find elsewhere.
 
@@ -116,7 +115,6 @@ Website: [Square Enix official](https://www.squareenix.co.jp/)
 
 ## Arcades & Gaming Centers
 
-
 Tokyo has gaming arcades on every block. The big ones:
 
 - **Sega World Shinjuku:** 8 floors, rhythm games, crane games, racing sims. ¥500–¥1,000 per game.
@@ -148,7 +146,6 @@ For more on Akihabara gaming culture, see [our Akihabara guide](https://japan-po
 Located at Universal Studios Japan (Osaka, 2.5 hours from Tokyo by train). Full Nintendo theme park experience: Mario Kart ride, themed dining, exclusive merch. A day trip if you’re in Osaka; not worth the train ride from Tokyo unless you’re a hardcore Nintendo fan. ¥8,000–¥12,000 entry.
 
 ## One-Day Gaming Itinerary (Tokyo Only)
-
 
 **8:30 AM:** Arrive at Ikebukuro Station. Breakfast at a local kissaten (cafe).
 
@@ -203,7 +200,6 @@ Ask staff what’s selling out fastest. Usually: new Pokemon card sets, Nintendo
 
 ## Getting Around
 
-
 Use Suica card (rechargeable IC card). Buy at any train station for ¥2,000 (¥1,500 balance, ¥500 deposit). No fumbling for coins, works on subways, trains, and convenience store purchases. Most gaming stores are within 5–10 minutes of major stations.
 
 See our [Akihabara complete guide](https://japan-pop-now.com/akihabara-complete-guide-2026/), [Ikebukuro anime guide](https://japan-pop-now.com/ikebukuro-anime-guide-2026/), and [anime merch shopping guide](https://japan-pop-now.com/anime-merch-shopping-guide/) for more area-specific recommendations.
@@ -224,8 +220,6 @@ See our [Akihabara complete guide](https://japan-pop-now.com/akihabara-complete-
 
 Follow [@japan_pop_now](https://www.instagram.com/japan_pop_now/) for weekly updates on Tokyo gaming drops and new cafe openings.
 
-☕
-
 Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
@@ -238,4 +232,4 @@ Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and 
 Follow for weekly collab cafe updates & Japan pop culture content.
 
 ### Explore by Area
-[🗼 Tokyo](/tag/tokyo/)[🏪 Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[👥 Shibuya](/shibuya-anime-spots-guide/)[🎮 Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[🌆 Osaka](/osaka-anime-guide-2025/)🏯 Kyoto (Coming Soon)
+[ Tokyo](/tag/tokyo/)[ Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[ Shibuya](/shibuya-anime-spots-guide/)[ Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[ Osaka](/osaka-anime-guide-2025/) Kyoto (Coming Soon)

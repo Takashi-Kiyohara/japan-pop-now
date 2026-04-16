@@ -109,7 +109,6 @@ USJ park admission starts at ¥8,600 (~$59) for a 1-day pass. Express Passes for
 
 ![How Do You Get from Tokyo to Osaka? — Osaka Anime & Collab Cafes 2026](/images/articles/osaka-anime-collab-cafes-pop-culture-2026/5.jpg)
 
-
 | Route | Time | Cost | JR Pass |
 | --- | --- | --- | --- |
 | **Shinkansen Nozomi** | 2h 30min | ¥13,870 (~$95) | Not covered (Nozomi excluded) |
@@ -151,8 +150,6 @@ Namba. It puts you within walking distance of Den Den Town, Chugai Grace Cafe, a
 
 **Follow [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)** for daily Tokyo pop culture updates.
 
-☕
-
 Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
@@ -165,4 +162,4 @@ Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and 
 Follow for weekly collab cafe updates & Japan pop culture content.
 
 ### Explore by Area
-[🗼 Tokyo](/tag/tokyo/)[🏪 Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[👥 Shibuya](/shibuya-anime-spots-guide/)[🎮 Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[🌆 Osaka](/osaka-anime-guide-2025/)🏯 Kyoto (Coming Soon)
+[ Tokyo](/tag/tokyo/)[ Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[ Shibuya](/shibuya-anime-spots-guide/)[ Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[ Osaka](/osaka-anime-guide-2025/) Kyoto (Coming Soon)

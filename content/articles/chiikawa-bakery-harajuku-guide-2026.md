@@ -209,7 +209,6 @@ Drinks, coasters, and the atmosphere are still worth the visit. Every drink orde
 
 </div>
 
-
 ![Two Chiikawa Bakery drinks — iced tea and iced café latte — held up at the ordering counter showing the branded cups and character coasters](/images/articles/chiikawa-bakery-harajuku-guide-2026/03.jpg)
 *Iced tea and café latte in Chiikawa Bakery cups, each with a character coaster. If you made it this far in the article, you already know the walk-in trick. Photo: Japan Pop Now*
 

@@ -45,9 +45,9 @@ for file in $STAGED; do
   check 'BEGIN (RSA |OPENSSH |EC |DSA |PGP )?PRIVATE KEY' "Private key block"
   check '(mongodb|postgres|mysql|redis)://[^:]+:[^@]+@' "DB connection string with password"
 
-  # --- Affiliate hardcoded IDs -------------------------------------------
+  # --- Affiliate hardcoded IDs (code files only; MDX can't use process.env) ---
   case "$file" in
-    *.ts|*.tsx|*.js|*.jsx|*.md|*.mdx)
+    *.ts|*.tsx|*.js|*.jsx)
       if echo "$STAGED_CONTENT" | grep -qE 'klook\.com[^"\047 ]*[?&](aff|aid)=[0-9]+'; then
         if ! echo "$STAGED_CONTENT" | grep -qE 'process\.env\.[A-Z_]*KLOOK'; then
           echo "[pre-commit FAIL] Hardcoded Klook aff_id in $file (use env var)" >&2

@@ -170,7 +170,6 @@ You can buy regional passes for just the areas you’re visiting. Sometimes they
 
 ![Regional Pass vs National JR Pass Comparison Table — Japan Rail Pass 2026](/images/articles/japan-rail-pass-2026-guide/3.jpg)
 
-
 | **Pass** | **Cost** | **Duration** | **Coverage** | **Best For** | **Shinkansen Included?** |
 | --- | --- | --- | --- | --- | --- |
 | **JR Pass (National)** | ¥50,000 (7-day) | 7, 14, 21 days | All JR lines nationwide | Multi-city, multi-region | Yes (most) |
@@ -290,7 +289,6 @@ JR Pass covers JR trains. But Tokyo also has Tokyo Metro (not JR), Osaka has Mid
 
 ![JR Pass vs Actual Numbers: Common Itineraries — Japan Rail Pass 2026](/images/articles/japan-rail-pass-2026-guide/6.jpg)
 
-
 | **Itinerary** | **Days** | **Individual Tickets Cost** | **JR Pass Cost** | **Winner** |
 | --- | --- | --- | --- | --- |
 | Tokyo only | 5 | ¥2,050 (Suica) | ¥50,000 | **Individual by ¥47,950** |
@@ -341,7 +339,6 @@ Go to the ticket counter before you travel. Show your pass. Say which train you 
 ## Realistic 10-Day Itinerary with JR Pass (Break-Even Example)
 
 ![Realistic 10-Day Itinerary with JR Pass (Break-Even Example) — Japan Rail Pass 2026](/images/articles/japan-rail-pass-2026-guide/7.jpg)
-
 
 **Days 1-2: Tokyo (no pass activation)**
 
@@ -427,8 +424,6 @@ Buy the JR Pass if you’re doing a real Japan road trip. Skip it if you’re mo
 
 **Share on Instagram:** Your JR Pass experience? Tag **[@japan.pop.now](https://instagram.com/japan.pop.now)** or use **#JapanPopNow**
 
-☕
-
 Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
@@ -441,4 +436,4 @@ Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and 
 Follow for weekly collab cafe updates & Japan pop culture content.
 
 ### Explore by Area
-[🗼 Tokyo](/tag/tokyo/)[🏪 Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[👥 Shibuya](/shibuya-anime-spots-guide/)[🎮 Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[🌆 Osaka](/osaka-anime-guide-2025/)🏯 Kyoto (Coming Soon)
+[ Tokyo](/tag/tokyo/)[ Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[ Shibuya](/shibuya-anime-spots-guide/)[ Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[ Osaka](/osaka-anime-guide-2025/) Kyoto (Coming Soon)

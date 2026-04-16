@@ -15,8 +15,6 @@ wpPostId: 203
 
 *Last updated: March 2026. All locations verified as publicly accessible unless noted. Includes walking routes optimized for a half-day or full-day visit.*
 
-![Tokyo skyline with dramatic clouds — the atmospheric cityscape that defines the rainy Tokyo setting of Weathering With You](https://images.unsplash.com/photo-1513407030348-c983a97b98d8?w=800&h=500&fit=crop&q=80)
-
 Makoto Shinkai’s Weathering With You is a love letter to rainy Tokyo. Almost every frame is drawn from a real place — convenience stores, train stations, rooftop shrines, and specific slopes and intersections that you can walk through today. If you’ve already done the [Your Name pilgrimage](https://japan-pop-now.com/your-name-pilgrimage-tokyo/), this film’s locations are spread across a different set of neighborhoods, with a few overlapping spots that Shinkai fans will recognize from both films.
 
 This guide covers every major visitable location from the film, organized into walking routes so you can hit multiple spots in a single trip rather than zigzagging across Tokyo.
@@ -44,8 +42,6 @@ The key location is the **steep slope below Tabata Station’s South Exit**. In 
 | **Key spot** | South Exit slope — exit the station from the south side and walk downhill. The advertising boards and steep angle match the film. |
 | **Admission** | Free (public street) |
 | **Time needed** | 15-20 minutes |
-
-![Kabukicho neon district in Shinjuku Tokyo at night — key location from Weathering With You where Hodaka arrives](https://images.unsplash.com/photo-1554797589-7241bb691973?w=800&h=500&fit=crop&q=80)
 
 ## Shinjuku & Kabukicho: Hodaka’s Arrival
 Shinjuku is where most of the film’s urban action takes place. Hodaka arrives in Tokyo as a runaway and immediately finds himself in the chaotic energy of Kabukicho — the entertainment district north of Shinjuku Station.
@@ -78,7 +74,6 @@ The building that originally inspired the scene — Yoyogi Kaikan near Yoyogi St
 **Be respectful.** This is a real shrine in a working office building. The tenants and staff are accustomed to visitors, but keep noise down in the elevator and corridors. Take your photos and offer a brief prayer if you wish, but don’t linger for extended shoots.
 
 ## Nozoki-zaka: The Dramatic Slope
-![Tokyo urban slope with dramatic lighting — similar to the iconic Nozoki-zaka featured in Weathering With You](https://images.unsplash.com/photo-1480796927426-f609979314bd?w=800&h=500&fit=crop&q=80)
 
 Nozoki-zaka (のぞき坂) near Mejiro is one of the steepest slopes in central Tokyo — 520 feet long with a 50-foot elevation change. In the film, sunlight breaks through the rain and sweeps down this slope in one of the most visually striking scenes. The name literally means “peeping slope,” because you have to lean forward to see the bottom.
 
@@ -89,8 +84,6 @@ Nozoki-zaka (のぞき坂) near Mejiro is one of the steepest slopes in central 
 | **Time needed** | 10-15 minutes |
 
 **Best photo time:** Late afternoon when sunlight hits the slope at an angle — this recreates the film’s most famous visual of the slope. On a rainy day, the wet pavement reflections match the film even more closely.
-
-![Tokyo skyline at sunset seen from Roppongi Hills observation deck — iconic scene from Tenki no Ko](https://images.unsplash.com/photo-1490806843957-31f4c9a91c65?w=800&h=500&fit=crop&q=80)
 
 ## Roppongi Hills: The Sunset Prayer
 The observation deck at Roppongi Hills Mori Tower (52nd floor) is where Hina watches the sunset and prays for good weather before the fireworks festival. This is also the same observation deck that appears in Your Name — it’s where Taki takes Okudera-senpai on their date. Shinkai fans doing both pilgrimages can check off two films at one location.
@@ -188,8 +181,6 @@ A walking tour covering both Your Name and Weathering With You locations in one 
 - [SPY×FAMILY Tokyo Fan Day 2026](/spy-family-tokyo-fan-day-2026/)
 - [Shibuya & Harajuku Pop Culture Guide](/shibuya-harajuku-pop-culture-guide/)
 
-☕
-
 Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
@@ -202,4 +193,4 @@ Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and 
 Follow for weekly collab cafe updates & Japan pop culture content.
 
 ### Explore by Area
-[🗼 Tokyo](/tag/tokyo/)[🏪 Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[👥 Shibuya](/shibuya-anime-spots-guide/)[🎮 Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[🌆 Osaka](/osaka-anime-guide-2025/)🏯 Kyoto (Coming Soon)
+[ Tokyo](/tag/tokyo/)[ Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[ Shibuya](/shibuya-anime-spots-guide/)[ Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[ Osaka](/osaka-anime-guide-2025/) Kyoto (Coming Soon)

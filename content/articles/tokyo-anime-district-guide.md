@@ -36,8 +36,6 @@ The mistake most visitors make is going to Akihabara and thinking they’ve seen
 ## Akihabara — The One Everyone Knows
 **[Read our complete Akihabara guide →](/akihabara-complete-guide-2026/)**
 
-![Akihabara Electric Town main street at night — Tokyo](https://images.unsplash.com/photo-1542051841857-5f90071e7989?w=800&h=500&fit=crop&q=80)
-
 Akihabara is the world’s most famous anime district for a reason. The concentration of shops per square meter is unmatched. You can walk from one end of the main strip to the other in 15 minutes, passing multi-story anime retailers, figure shops, manga stores, arcades, maid cafes, and trading card specialists on every block.
 
 **What Akihabara does best:** current-season merchandise. If an anime is airing right now, Akihabara will have the largest selection of goods for it — figures, keychains, posters, apparel, and limited-edition collaboration items. It’s also the best district for arcades (GiGO (formerly SEGA), Taito Station) and maid cafe culture if you’re curious about that side of otaku life.
@@ -53,8 +51,6 @@ Read the full guide: [Akihabara Complete Guide 2026](https://japan-pop-now.com/a
 | **Also served by** | Tokyo Metro Hibiya Line, Tsukuba Express |
 | **Peak hours** | Weekday: 14:00–19:00. Weekend: 12:00–18:00 (extremely crowded) |
 | **Best time** | Weekday mornings (10:00–12:00) for comfortable browsing |
-
-![Ikebukuro Sunshine 60 Street in Tokyo with anime billboards and Animate store signage](https://images.unsplash.com/photo-1528164344705-47542687000d?w=800&h=500&fit=crop&q=80)
 
 ## Ikebukuro — The Other Capital
 **[Read our complete Ikebukuro guide →](/ikebukuro-anime-guide-2026/)**
@@ -92,8 +88,6 @@ Read the full guide: [Nakano Broadway Guide — Tokyo’s Best-Kept Anime Secret
 | **From Shinjuku** | JR Chuo Rapid, 1 stop, 5 min, ¥200 |
 | **Building hours** | 10:00–20:00 (most shops open 12:00) |
 
-![Shibuya Scramble Crossing at night with neon lights — gateway to PARCO gaming flagships and pop culture](https://images.unsplash.com/photo-1542931287-023b922fa89b?w=800&h=500&fit=crop&q=80)
-
 ## Shibuya — The Gaming and Mainstream Hub
 **[Read our Shibuya & Harajuku guide →](/shibuya-harajuku-pop-culture-guide/)**
 
@@ -122,8 +116,6 @@ Read the full guide: [Shibuya & Harajuku Pop Culture Guide](https://japan-pop-no
 | --- | --- |
 | **Also served by** | Tokyo Metro Meiji-jingumae Station (Chiyoda/Fukutoshin Lines) |
 | **Walking to Shibuya** | 15 min via Cat Street — one of Tokyo’s best urban walks |
-
-![JR Yamanote Line train at a Tokyo station platform — the loop line connecting all anime districts](https://images.unsplash.com/photo-1569288063643-5d29ad64df09?w=800&h=500&fit=crop&q=80)
 
 ## Planning Your Route: Multi-District Itineraries
 All five districts are connected by the JR Yamanote Line — Tokyo’s circular loop — or a single transfer from it. Here’s how to efficiently combine multiple districts depending on how many days you have:
@@ -222,8 +214,6 @@ A guided anime district tour hits Akihabara, Ikebukuro, and Nakano in a single d
 - [Best Anime Hotels & Themed Rooms in Japan](/anime-hotels-themed-rooms-tokyo/) — Stay in anime-themed rooms across Tokyo and Japan, from Shibuya to Akihabara
 - [AnimeJapan & Comiket Survival Guide](/animejapan-comiket-guide/) — Everything you need for Japan’s biggest anime events at Tokyo Big Sight
 
-☕
-
 Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
@@ -236,4 +226,4 @@ Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and 
 Follow for weekly collab cafe updates & Japan pop culture content.
 
 ### Explore by Area
-[🗼 Tokyo](/tag/tokyo/)[🏪 Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[👥 Shibuya](/shibuya-anime-spots-guide/)[🎮 Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[🌆 Osaka](/osaka-anime-guide-2025/)🏯 Kyoto (Coming Soon)
+[ Tokyo](/tag/tokyo/)[ Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[ Shibuya](/shibuya-anime-spots-guide/)[ Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[ Osaka](/osaka-anime-guide-2025/) Kyoto (Coming Soon)

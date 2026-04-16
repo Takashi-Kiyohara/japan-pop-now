@@ -33,7 +33,6 @@ If you collect anime figures or have any interest in the craftsmanship behind th
 
 ## What Is Wonder Festival and When Is It?
 
-
 Wonder Festival (ワンダーフェスティバル, commonly shortened to WonFes or WF) is a biannual figure and garage kit event held at Makuhari Messe in Chiba. It’s been running since 1984 and happens twice a year — once in winter (February) and once in summer (July). The 2026 Summer edition is confirmed for July 26.
 
 | Detail | Info |
@@ -52,7 +51,6 @@ WonFes 2026 Summer features two special exhibitions: the Hiroshi Yokoyama Exhibi
 
 ## How Do You Get Tickets as an International Visitor?
 
-
 Tickets are sold through Lawson Ticket (ローソンチケット). You can buy them online at l-tike.com or at any Loppi kiosk inside a Lawson convenience store in Japan.
 
 | Ticket Type | Price | Notes |
@@ -68,7 +66,6 @@ System fees add about ¥220 per ticket. Buy advance tickets if possible — the 
 For international visitors who arrive in Japan before the event: walk into any Lawson, use the Loppi kiosk, and search for “ワンダーフェスティバル” (or use the L-code if announced). Our [Loppi guide](/lawson-ticket-loppi-guide/) walks through the machine step by step. If you can’t access Loppi, our [overseas booking guide](/book-japan-anime-events-overseas-2026/) covers proxy purchase options.
 
 ## What’s the Best Strategy for Buying at WonderFes?
-
 
 WonFes operates differently from a normal shopping experience. Here’s what works:
 
@@ -95,7 +92,6 @@ Getting your WonFes haul back to your home country takes some planning. Here are
 
 ## Can You Buy WonderFes Items After the Event?
 
-
 Most amateur garage kits are produced in tiny quantities and sell out at the event. However, some options exist after the fact:
 
 **Secondhand market:** Items from WonFes appear on Mercari (Japan’s largest secondhand app), Yahoo! Auctions Japan, and Mandarake within days of the event. Prices are marked up — often 2-5x the original price for popular items. Use a [proxy shopping service](/proxy-shopping-anime-figures-japan/) to buy from Japanese-only platforms.
@@ -105,7 +101,6 @@ Most amateur garage kits are produced in tiny quantities and sell out at the eve
 **Corporate exclusives:** Event-limited figures from major manufacturers occasionally get wider releases months later, but this isn’t guaranteed. If you see something you want at a corporate booth, buy it there.
 
 ## What Other Figure Events Happen in Japan?
-
 
 WonFes is the biggest, but not the only figure event worth knowing about:
 
@@ -151,8 +146,6 @@ A garage kit is an unassembled, unpainted resin casting that you build and paint
 
 **Follow [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)** for daily Tokyo pop culture updates.
 
-☕
-
 Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
@@ -165,4 +158,4 @@ Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and 
 Follow for weekly collab cafe updates & Japan pop culture content.
 
 ### Explore by Area
-[🗼 Tokyo](/tag/tokyo/)[🏪 Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[👥 Shibuya](/shibuya-anime-spots-guide/)[🎮 Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[🌆 Osaka](/osaka-anime-guide-2025/)🏯 Kyoto (Coming Soon)
+[ Tokyo](/tag/tokyo/)[ Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[ Shibuya](/shibuya-anime-spots-guide/)[ Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[ Osaka](/osaka-anime-guide-2025/) Kyoto (Coming Soon)

@@ -31,8 +31,7 @@ I’ve spent more yen on gachapon than I care to admit. This guide covers everyt
 - [Frequently Asked Questions](#faq)
 - [More Practical Guides](#related)
 
-![Rows of colorful gachapon capsule toy machines in a Tokyo arcade](https://images.unsplash.com/photo-1767839581600-c3e005f7008a?w=800&h=500&fit=crop&q=80)Gachapon machines lined up at a Tokyo arcade
-Photo: Unsplash
+Gachapon machines lined up at a Tokyo arcade
 ## What Is Gachapon? A Quick Primer
 The word *gachapon* comes from two sounds: *gacha* (the crank turning) and *pon* (the capsule dropping). You’ll also see it written as *gashapon* (Bandai’s trademark version) or just *gacha*. They all mean the same thing — coin-operated capsule toy dispensers.
 
@@ -63,7 +62,6 @@ Gachapon prices have crept up over the past few years as figure quality has impr
 
 Budget tip: Decide on a spending limit before you start. 1,000 yen (about $6.60) gets you 2 to 5 capsules depending on the machine. It adds up fast when every machine has something interesting.
 
-
 ## Where to Find Gachapon in Tokyo
 Gachapon machines are everywhere in Japan, but some locations are worth making a trip for. Here are the spots with the best selection.
 
@@ -90,8 +88,7 @@ Gachapon machines are everywhere in Japan, but some locations are worth making a
 ### Everyday Spots (Free, No Detour Needed)
 You don’t need to visit a specialty shop. Gachapon machines appear in everyday locations across Japan. Keep an eye out at train station concourses (especially JR stations), shopping mall entrances, convenience store entrances (especially FamilyMart and Lawson), airport departure lounges (Narita and Haneda both have machines in the duty-free area), and the basement floors of department stores.
 
-![Anime capsule toy figures and collectible miniatures from Japanese gachapon](https://images.unsplash.com/photo-1597008605956-f9200dc543ca?w=800&h=500&fit=crop&q=80)Collectible figures from gachapon machines
-Photo: Unsplash
+Collectible figures from gachapon machines
 ## Best Series and Brands to Look For
 Not all gachapon are created equal. These brands and series consistently deliver quality worth your coins.
 
@@ -119,7 +116,6 @@ With thousands of machines to choose from, here are five categories that consist
 5. **Miniature electronics and appliances (500 yen).** Tiny working fans, miniature vending machines, and small arcade cabinets. Takara Tomy Arts makes most of these. They’re conversation starters.
 
 **Budget guide:** Bring 2,000 yen in 100-yen coins for a satisfying gachapon session. That gets you 4-6 capsules across different machines — enough variety without overspending.
-
 
 ## Tips From a Capsule Toy Addict
 **Bring a coin purse full of 100-yen coins.** This is the single most important tip. Most gachapon machines still only accept 100-yen coins. Bank ATMs dispense 1,000-yen bills, which you’ll need to break. Dedicated gachapon shops always have change machines, but street-side machines do not.
@@ -166,8 +162,6 @@ No. Japan has over 600,000 gachapon machines nationwide. You’ll find them in e
 - [Japan IC Card Guide](/japan-ic-card-transit-guide/)
 - [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)
 
-☕
-
 Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
@@ -180,4 +174,4 @@ Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and 
 Follow for weekly collab cafe updates & Japan pop culture content.
 
 ### Explore by Area
-[🗼 Tokyo](/tag/tokyo/)[🏪 Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[👥 Shibuya](/shibuya-anime-spots-guide/)[🎮 Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[🌆 Osaka](/osaka-anime-guide-2025/)🏯 Kyoto (Coming Soon)
+[ Tokyo](/tag/tokyo/)[ Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[ Shibuya](/shibuya-anime-spots-guide/)[ Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[ Osaka](/osaka-anime-guide-2025/) Kyoto (Coming Soon)

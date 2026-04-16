@@ -15,9 +15,7 @@ wpPostId: 106
 
 *Last updated: March 2026.*
 
-![Suga Shrine stairs — the iconic Your Name (Kimi no Na wa) anime pilgrimage spot in Tokyo](https://images.unsplash.com/photo-1524413840807-0c3cb6fa808d?w=800&h=500&fit=crop&q=80)
 Quiet Tokyo neighborhood stairs — residential areas like Yotsuya hide famous anime locations
-Photo: Unsplash
 
 In 2016, Makoto Shinkai’s “Your Name” (*Kimi no Na wa* / 君の名は。) became the highest-grossing anime film of its time and introduced millions of international viewers to the concept of anime pilgrimage. Nearly a decade later, the stairs at Suga Shrine in Shinjuku’s Yotsuya neighborhood still draw fans from around the world — smartphones held up to match the exact angle of the film’s final, devastating scene.
 
@@ -40,13 +38,10 @@ This is *seichi junrei* (聖地巡礼) — “holy land pilgrimage.” The pract
 
 ![Anime collaboration cafe in Tokyo — themed dining experiences near popular pilgrimage locations — where fans recreate Your Name](https://japan-pop-now.com/wp-content/uploads/2026/04/trigun-chugai-grace-cafe-2026.jpg)
 Tokyo residential stairway — the kind of everyday scenery that Makoto Shinkai captures in his films
-Photo: Unsplash
 
 This is the pilgrimage’s centerpiece. The staircase where Taki and Mitsuha finally meet again in the film’s climactic final scene. Shinkai’s team captured the location with near-photographic precision: the red handrails, the surrounding residential buildings, the way light falls across the steps in the late afternoon.
 
-![Suga Shrine torii gate in Yotsuya — quiet shrine made world-famous by Your Name](https://images.unsplash.com/photo-1478436127897-769e1b3f0f36?w=800&h=500&fit=crop&q=80)
 A traditional shrine gate in Tokyo — quiet sanctuaries tucked away between modern buildings
-Photo: Unsplash
 
 Standing at the top of these stairs and looking down is one of those moments where the boundary between fiction and reality blurs. You’ve seen this exact view dozens of times in screenshots and fan photos — but the physical experience of being there, feeling the air and hearing the neighborhood sounds that the film couldn’t capture, adds a dimension that no screen can replicate.
 
@@ -90,7 +85,6 @@ Yotsuya Station appears directly in several scenes, and the residential streets 
 
 | **Access** | JR Yotsuya Station (四ツ谷駅) — same station as Location 1. Start here and walk to Suga Shrine. |
 | --- | --- |
-
 
 ## Suggested Walking Route: Half-Day “Your Name” Pilgrimage
 You can visit all the main Tokyo locations in a single half-day walk. Here’s the most efficient route:
@@ -165,8 +159,6 @@ A local guide takes you to every filming location from Your Name, explains the s
 - [One Piece Tokyo Guide 2026](/one-piece-kumamoto-statue-tour/)
 - [Kyoto Anime Guide 2026](/osaka-anime-guide-den-den-town/)
 
-☕
-
 Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
@@ -179,4 +171,4 @@ Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and 
 Follow for weekly collab cafe updates & Japan pop culture content.
 
 ### Explore by Area
-[🗼 Tokyo](/tag/tokyo/)[🏪 Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[👥 Shibuya](/shibuya-anime-spots-guide/)[🎮 Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[🌆 Osaka](/osaka-anime-guide-2025/)🏯 Kyoto (Coming Soon)
+[ Tokyo](/tag/tokyo/)[ Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[ Shibuya](/shibuya-anime-spots-guide/)[ Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[ Osaka](/osaka-anime-guide-2025/) Kyoto (Coming Soon)

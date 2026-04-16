@@ -15,9 +15,7 @@ wpPostId: 105
 
 *Last updated: April 2026.*
 
-![Suga Shrine stairs — the iconic Your Name (Kimi no Na wa) anime pilgrimage spot in Tokyo](https://images.unsplash.com/photo-1524413840807-0c3cb6fa808d?w=800&h=500&fit=crop&q=80)
 Quiet Tokyo neighborhood stairs — residential areas like Yotsuya hide famous anime locations
-Photo: Unsplash
 
 Anime pilgrimage — called *seichi junrei* (聖地巡礼), literally “holy land pilgrimage” — is one of the most uniquely rewarding ways to experience Tokyo. You’re not sightseeing in the traditional sense. You’re standing in the exact spot where a fictional character stood, seeing the same view they saw, walking streets that exist simultaneously in the real world and in a story that moved you.
 
@@ -44,7 +42,6 @@ Here are 10 locations you can visit today. No tickets, no reservations, no plann
 
 ![Jujutsu Kaisen collaboration cafe in Tokyo — themed sweets and character-inspired menu — where fans recreate Your Name](https://japan-pop-now.com/wp-content/uploads/2026/04/jjk-sweets-paradise-cafe-2026.jpg)
 Tokyo residential stairway — the kind of everyday scenery that Makoto Shinkai captures in his films
-Photo: Unsplash
 
 The most famous anime pilgrimage spot in the world. The staircase leading up to Suga Shrine in Yotsuya is where Taki and Mitsuha finally reunite in the closing moments of Makoto Shinkai’s 2016 masterpiece. The red handrails, the surrounding buildings, the afternoon light — every detail matches.
 
@@ -61,9 +58,7 @@ Nearly a decade after the film’s release, you’ll still find fans visiting ev
 
 ## 2. Shibuya Crossing — [Weathering With You](/weathering-with-you-locations-tokyo/) / [Jujutsu Kaisen](/jujutsu-kaisen-shibuya-locations-2026/)
 
-![Shibuya Crossing — featured in Jujutsu Kaisen Shibuya Incident arc](https://images.unsplash.com/photo-1532236204992-f5e85c024202?w=800&h=500&fit=crop&q=80)
 Shibuya Crossing from above — one of the most recognizable locations in anime
-Photo: Unsplash
 
 Shibuya’s famous scramble crossing appears in dozens of anime, but two make it a genuine pilgrimage destination. Shinkai’s “Weathering With You” (2019) uses the crossing and surrounding streets in multiple key scenes — including rain-soaked sequences that are particularly evocative during Tokyo’s actual rainy season. And Jujutsu Kaisen’s “Shibuya Incident” arc transforms the entire neighborhood into a supernatural battlefield, making every street and station exit recognizable to fans.
 
@@ -77,9 +72,7 @@ The experience of walking through Shibuya after watching either series is notice
 ## 3. Sensoji Temple, Asakusa — Demon Slayer (Kimetsu no Yaiba)
 Sensoji — Tokyo’s oldest temple, founded in 645 AD — evokes the Taisho-era (1912-1926) aesthetic that forms the backdrop of Demon Slayer. The temple has hosted official Demon Slayer collaboration events, including life-size character statues and themed photo spots. Even without a specific event running, the traditional architecture and Nakamise shopping street transport you to the world of the series.
 
-![Sensoji Temple Kaminarimon gate — Demon Slayer anime pilgrimage spot in Asakusa](https://images.unsplash.com/photo-1545569341-9eb8b30979d9?w=800&h=500&fit=crop&q=80)
 Sensoji Temple in Asakusa — Tokyo’s oldest temple and a Demon Slayer pilgrimage spot
-Photo: Unsplash
 
 | **Anime** | Demon Slayer / 鬼滅の刃 (2019–) |
 | --- | --- |
@@ -145,9 +138,7 @@ Odaiba also served as a key location in Digimon Adventure, and the Rainbow Bridg
 
 ## 9. Kamakura (Day Trip) — Slam Dunk
 
-![Kamakura railroad crossing — the legendary Slam Dunk opening scene location](https://images.unsplash.com/photo-1688616128916-9c4f4a612e33?w=800&h=500&fit=crop&q=80)
 Enoshima Electric Railway — the coastal train line near the famous Slam Dunk railroad crossing
-Photo: Unsplash
 
 Technically outside Tokyo, but reachable in about an hour by train. The Kamakura Koko-mae (鎌倉高校前) railroad crossing — where the Enoshima Electric Railway passes with the Pacific Ocean shimmering in the background — is one of the most iconic images in anime history. The opening credits of the Slam Dunk anime made this crossing world-famous, and it remains one of Japan’s most-visited pilgrimage spots.
 
@@ -207,8 +198,6 @@ Visiting anime filming locations is more fun with a local guide who knows the ex
 - [Jujutsu Kaisen Shibuya Pilgrimage Guide 2026](/demon-slayer-pilgrimage-tokyo/) — Complete walking route with 10+ real JJK locations in Shibuya
 - [SPY x FAMILY Fan Day in Tokyo 2026](/your-name-pilgrimage-tokyo/) — European-aesthetic locations, merch shops, and collab cafes
 
-☕
-
 Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
@@ -221,4 +210,4 @@ Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and 
 Follow for weekly collab cafe updates & Japan pop culture content.
 
 ### Explore by Area
-[🗼 Tokyo](/tag/tokyo/)[🏪 Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[👥 Shibuya](/shibuya-anime-spots-guide/)[🎮 Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[🌆 Osaka](/osaka-anime-guide-2025/)🏯 Kyoto (Coming Soon)
+[ Tokyo](/tag/tokyo/)[ Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[ Shibuya](/shibuya-anime-spots-guide/)[ Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[ Osaka](/osaka-anime-guide-2025/) Kyoto (Coming Soon)

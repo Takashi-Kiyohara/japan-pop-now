@@ -70,7 +70,6 @@ Here’s the typical experience, step by step:
 
 A typical visit costs ¥2,500 to ¥5,000 per person including food, drinks, and a small merchandise purchase.
 
-
 ## Open Now: April 2026
 The following collab cafes are running in Tokyo right now. We’ve included everything you need to plan a visit: dates, location with the nearest station and walking directions, reservation requirements, what makes each one worth going to, and a local tip you won’t find on the official site.
 
@@ -260,7 +259,6 @@ These are things you won’t find on the official cafe websites, from someone wh
 
 **The last time slot of the day is underrated.** Everyone wants the first or middle slots. The final slot (often 19:00 or 20:00) is frequently the easiest to book and the most relaxed — the cafe is winding down, staff are less rushed, and you’ll often get a few extra minutes.
 
-
 ## Where to Find Collab Cafes: Tokyo Neighborhood Guide
 Tokyo’s collab cafes cluster in three neighborhoods. Here’s where to focus based on what you’re interested in:
 
@@ -313,8 +311,6 @@ For the fastest updates, follow **[@japan_pop_now on Instagram](https://www.inst
 - [Live Collab Cafe Calendar](/collab-cafe-calendar/)
 - [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)
 
-☕
-
 Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
@@ -327,4 +323,4 @@ Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and 
 Follow for weekly collab cafe updates & Japan pop culture content.
 
 ### Explore by Area
-[🗼 Tokyo](/tag/tokyo/)[🏪 Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[👥 Shibuya](/shibuya-anime-spots-guide/)[🎮 Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[🌆 Osaka](/osaka-anime-guide-2025/)🏯 Kyoto (Coming Soon)
+[ Tokyo](/tag/tokyo/)[ Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[ Shibuya](/shibuya-anime-spots-guide/)[ Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[ Osaka](/osaka-anime-guide-2025/) Kyoto (Coming Soon)

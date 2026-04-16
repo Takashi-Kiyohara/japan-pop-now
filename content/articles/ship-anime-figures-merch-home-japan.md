@@ -58,7 +58,6 @@ You’ll fill out a customs declaration form (CN22 for parcels under 2kg, CN23 f
 
 The post office will give you a tracking number. Use it. You’ll be able to see your package move from Tokyo to the sorting facility, then to an airport, then to your destination country’s customs, then to your local postal service. It’s therapeutic watching a box of anime merch travel the world.
 
-
 ## Option 2: Kuroneko Yamato / Sagawa (Speed & Reliability)
 Kuroneko Yamato (the black cat delivery company) and Sagawa are Japan’s major domestic and international couriers. Think of them as UPS or DHL equivalents. They’re faster and more reliable than Japan Post but cost more.
 
@@ -84,7 +83,6 @@ Many large anime and collectible retailers in Japan offer international shipping
 The real advantage of store shipping becomes apparent when you’re buying multiple items across different shops over several days. Buy from Animate on day one, Mandarake on day two, Tower on day three. Have each ship separately to your home address. No carrying stuff, no risk of dropping a figure down a train platform, no suitcase tetris.
 
 The disadvantage: You’re usually paying more per kilogram than Japan Post SAL, and there’s a transaction delay (they ship from warehouses, not immediately). But the convenience often justifies it, especially for expensive or hard-to-find pieces.
-
 
 ## Option 4: Proxy Shipping Services (Buyee, ZenMarket, Tenso)
 Proxy services are intermediaries. You find an item on a Japanese auction site or retailer that won’t ship internationally. The proxy service buys it for you, holds it in their warehouse, then ships it to your home address. This opens up Japanese Yahoo Auctions, Mercari, and countless small retailers.
@@ -131,8 +129,7 @@ What happens if your package does get flagged? Customs opens it, inspects conten
 
 **Insurance considerations:** Japan Post includes basic insurance (6,000-20,000 yen depending on service). It covers loss or theft, not damage from rough handling. If something arrives dented or broken, Japan Post’s standard insurance might not pay out. Additional insurance costs 50 yen per 1,000 yen of value. If you’re shipping a 20,000 yen collectible figure, pay the extra 1,000 yen for full insurance. For a 3,000 yen standard figure, the base coverage is probably fine.
 
-![Anime figure collection ready for packing and shipping from Japan](https://images.unsplash.com/photo-1608889175123-8ee362201f81?w=800&h=500&fit=crop&q=80)Protecting your figure collection during transit requires careful packing
-Photo: Eric Prouzet / Unsplash
+Protecting your figure collection during transit requires careful packing
 
 ## How to Pack Figures So They Don’t Break
 This is where care saves money. A carelessly packed figure arrives as plastic shrapnel. A properly packed figure arrives pristine.
@@ -163,8 +160,7 @@ This is where care saves money. A carelessly packed figure arrives as plastic sh
 
 **Realistic scenario:** You’re shipping two figures and a collection of doujinshi. Total weight: 2.5kg. The figures go into bubble wrap individually, then into a 20cm x 15cm x 10cm small box with newspaper padding. The doujinshi go into another small box with kraft paper interspersed between pages (preventing them from getting crushed). Both small boxes go into a large shipping box with 5cm padding on bottom, separated from each other by kraft paper, and 5cm padding on top. Total shipping cost via Japan Post SAL to the US: 2,800 yen. Time spent packing: 15 minutes. Figures arrive undamaged: priceless.
 
-![Shipping packages from Japan post office for anime merch](https://images.unsplash.com/photo-1586953208448-b95a79798f07?w=800&h=500&fit=crop&q=80)Japan Post remains the most popular option for shipping anime goods overseas
-Photo: Magic Mary / Unsplash
+Japan Post remains the most popular option for shipping anime goods overseas
 
 ## Tax-Free Shopping in Japan: How It Works for Tourists
 If you’re a tourist (non-resident), you can get tax-free shopping at many retailers. This saves 10% on your purchases if you’re buying above a certain threshold.
@@ -214,8 +210,6 @@ One more thing: take photos of your collection before you pack it. Just in case 
 
 **Follow [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)** for daily Tokyo pop culture updates.
 
-☕
-
 Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
@@ -228,4 +222,4 @@ Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and 
 Follow for weekly collab cafe updates & Japan pop culture content.
 
 ### Explore by Area
-[🗼 Tokyo](/tag/tokyo/)[🏪 Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[👥 Shibuya](/shibuya-anime-spots-guide/)[🎮 Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[🌆 Osaka](/osaka-anime-guide-2025/)🏯 Kyoto (Coming Soon)
+[ Tokyo](/tag/tokyo/)[ Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[ Shibuya](/shibuya-anime-spots-guide/)[ Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[ Osaka](/osaka-anime-guide-2025/) Kyoto (Coming Soon)

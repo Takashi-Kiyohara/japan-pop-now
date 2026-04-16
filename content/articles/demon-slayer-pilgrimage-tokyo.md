@@ -15,8 +15,6 @@ wpPostId: 202
 
 *Last updated: March 2026. All locations verified as publicly accessible. Covers Tokyo shrines, Asakusa, Mt. Kumotori, and the best Demon Slayer merchandise spots.*
 
-![Senso-ji Temple in Asakusa — the Taisho-era setting where Tanjiro encounters Muzan Kibutsuji in Demon Slayer](https://images.unsplash.com/photo-1545569341-9eb8b30979d9?w=800&h=500&fit=crop&q=80)
-
 Demon Slayer is set in Taisho-era Japan (1912-1926), and the creators drew heavily from real locations. Tanjiro’s mountain home, the streets where he first meets Muzan, the Entertainment District arc’s setting — they all have real-world counterparts you can visit today.
 
 Tokyo and its surrounding areas hold most of the key spots. Some are famous tourist destinations you’d visit anyway. Others are quiet neighborhood shrines where dedicated fans go to collect special Demon Slayer-themed goshuin (temple seals). And then there’s Mt. Kumotori — Tanjiro’s actual hometown — which is a full-day mountain hike in western Tokyo.
@@ -33,8 +31,6 @@ The match between anime and reality is strong. Senso-ji’s Nakamise Shopping St
 | **Station** | Tawaramachi Station (Ginza Line) or walk from Asakusa — 15-20 min |
 | **What to see** | Yoshiwara Shrine, former Great Gate site, historic street layout |
 | **Admission** | Free (outdoor walking) |
-
-![Traditional Japanese Shinto shrine with red torii gate and wooden plaques — many shrines inspired Demon Slayer locations](https://images.unsplash.com/photo-1583766395091-2eb9994ed094?w=800&h=500&fit=crop&q=80)
 
 ## The Guardian Shrines: Demon Slayer Goshuin Pilgrimage
 Two Tokyo shrines serve as “guardian shrines” (産土神社 / ubusuna jinja) for Demon Slayer characters, based on the characters’ canonical birthplaces. Both offer special Demon Slayer-themed goshuin — the vermilion seal stamps that Japanese shrines give as proof of visit. These two shrines participate in an official “Ubusuna Holy Land Two Shrines Tour” that dedicated fans collect.
@@ -61,10 +57,7 @@ The guardian shrine for Kocho Shinobu, the Insect Pillar. Located in Kita-ku, th
 
 **Two-shrine pilgrimage combo:** Both shrines can be visited in a single half-day trip. Start at Numabukuro (Seibu Shinjuku Line) in the morning, then train to Nishi-Sugamo (transfer at Ikebukuro → Toei Mita Line). Total transit time between shrines is about 30 minutes. Collect both goshuin for the complete Ubusuna Holy Land set.
 
-![Misty mountain forest landscape in Japan similar to the setting of Tanjiro Kamado home in Demon Slayer](https://images.unsplash.com/photo-1501785888041-af3ef285b470?w=800&h=500&fit=crop&q=80)
-
 ## Mt. Kumotori: Tanjiro’s Mountain Home
-![Mountain trail in Japan — Mt. Kumotori in western Tokyo is the canonical hometown of Tanjiro and Nezuko Kamado](https://images.unsplash.com/photo-1478436127897-769e1b3f0f36?w=800&h=500&fit=crop&q=80)
 
 Mt. Kumotori (雲取山, 2,017m) is the highest peak in Tokyo and the official hometown of Tanjiro and Nezuko Kamado. When Tanjiro descends to sell charcoal in Episode 1 and returns to find his family slaughtered, he’s going down this mountain. The snow-covered summit, the remote forest trails, the sense of isolation — it all comes from this real place.
 
@@ -181,8 +174,6 @@ A local guide takes you to every Kimetsu no Yaiba filming location in Tokyo, exp
 - [One Piece Tokyo Guide 2026](/one-piece-kumamoto-statue-tour/)
 - [Kyoto Anime Guide 2026](/osaka-anime-guide-den-den-town/)
 
-☕
-
 Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
@@ -195,4 +186,4 @@ Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and 
 Follow for weekly collab cafe updates & Japan pop culture content.
 
 ### Explore by Area
-[🗼 Tokyo](/tag/tokyo/)[🏪 Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[👥 Shibuya](/shibuya-anime-spots-guide/)[🎮 Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[🌆 Osaka](/osaka-anime-guide-2025/)🏯 Kyoto (Coming Soon)
+[ Tokyo](/tag/tokyo/)[ Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[ Shibuya](/shibuya-anime-spots-guide/)[ Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[ Osaka](/osaka-anime-guide-2025/) Kyoto (Coming Soon)

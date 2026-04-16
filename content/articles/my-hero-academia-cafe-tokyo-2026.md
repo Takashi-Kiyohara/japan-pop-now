@@ -133,15 +133,12 @@ It depends on your goal. If you specifically like My Hero Academia or want an Ik
 
 ## Where to go next on Japan Pop Now
 
-
 After this guide, the most helpful next reads are **[Tokyo Anime Collab Cafes Spring 2026](https://japan-pop-now.com/tokyo-anime-collab-cafes-spring-2026/)** if you want to compare more active cafe options, **[Find by Anime in Japan 2026](https://japan-pop-now.com/find-by-anime-in-japan-2026-pilgrimage-guides-by-series/)** if you want to keep planning by series, and **[Anime Merch Shopping Guide in Japan](https://japan-pop-now.com/anime-merch-shopping-guide-japan/)** if your next question is where to buy character goods after the cafe.
 
 ## Sources
 
 1. Essential Japan, “My Hero Academia ‘Diner’ Themed Pop Up Cafe at DECOT Animate Cafe Ikebukuro 2026” — https://essential-japan.com/events/my-hero-academia-diner-themed-pop-up-cafe-at-decot-animate-cafe-ikebukuro-2026/
 2. The Japan Times, “Perfect Japan posts spark Gen Z social media backlash” — https://www.japantimes.co.jp/news/2026/03/26/japan/society/gen-z-perfect-japan-social-media-posts/
-
-☕
 
 Planning a trip to Tokyo?
 
@@ -155,4 +152,4 @@ Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and 
 Follow for weekly collab cafe updates & Japan pop culture content.
 
 ### Explore by Area
-[🗼 Tokyo](/tag/tokyo/)[🏪 Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[👥 Shibuya](/shibuya-anime-spots-guide/)[🎮 Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[🌆 Osaka](/osaka-anime-guide-2025/)🏯 Kyoto (Coming Soon)
+[ Tokyo](/tag/tokyo/)[ Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[ Shibuya](/shibuya-anime-spots-guide/)[ Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[ Osaka](/osaka-anime-guide-2025/) Kyoto (Coming Soon)

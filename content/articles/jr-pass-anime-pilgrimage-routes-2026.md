@@ -34,10 +34,7 @@ This guide walks through 2026 JR Pass prices, shows you exactly how much you’l
 - [How to Buy a JR Pass in 2026](#how-to-buy)
 - [Tips for Getting the Most Out of Your JR Pass](#maximize-pass)
 
-![Shinkansen bullet train passing Mount Fuji — JR Pass travel for anime pilgrimages across Japan](https://images.unsplash.com/photo-CR4UhSHMw4E?w=800&h=500&fit=crop&q=80)
 The Shinkansen with Mount Fuji in the background — the JR Pass opens up cross-country anime pilgrimages
-Photo: Getty Images / Unsplash
-
 
 ## JR Pass 2026: Current Prices and Types
 The JR Pass pricing structure in 2026 remains unchanged from 2025. These prices apply to foreign tourists only (you need to show a temporary visitor stamp in your passport). If you’re a resident or on a work visa, you can’t buy these.
@@ -116,10 +113,7 @@ For trips like this, there’s also the Kyushu region pass (Kyushu region JR Pas
 
 One note: I’ve done this route twice now (once in 2024, once in early 2026). The statue locations don’t change, but bus access from Kumamoto Station improves each year. In 2026, there’s a dedicated one-day Aso Loop bus pass (2,000 yen) that hits three statue locations if you’re specifically statue-hunting and not interested in other Kumamoto attractions.
 
-![Japan train station platform — navigating the rail network for anime pilgrimage routes](https://images.unsplash.com/photo-9d0j-LXAxAo?w=800&h=500&fit=crop&q=80)
 A Japan Rail station platform — understanding the network is key to planning pilgrimage routes
-Photo: Levi Meir Clancy / Unsplash
-
 
 ## Anime Pilgrimage Route 4: Tokyo → Chichibu → Kawagoe (Anohana + Aqours)
 Anohana’s pilgrimage site is Chichibu (Saitama Prefecture), about 60 kilometers north of Tokyo. Aqours, the Love Live Sunshine group, has activities and locations in Numazu (about 150 kilometers southwest), but there’s also Kawagoe (30 kilometers west of Tokyo) which offers period architecture similar to Edo-era settings that appeal to anime fans generally.
@@ -188,7 +182,6 @@ If you arrive without a voucher, you can buy directly at JR offices. Prices are 
 
 The pass covers an unlimited number of days once activated, but you pay per consecutive days. If you buy a 7-day pass, you must use it across 7 consecutive calendar days. You can’t activate it Monday, skip Tuesday, and continue Wednesday — once you start using it, the 7-day clock runs continuously. This matters for planning. If you’re in Japan for 10 days but only want to use the pass for days 3-9, you’d buy the 7-day voucher and activate it on day 3.
 
-
 ## Tips for Getting the Most Out of Your JR Pass
 **Seat Reservations Are Free With a JR Pass:**
 
@@ -227,8 +220,6 @@ If you found this useful, check out these related articles:
 
 **Follow [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)** for daily Tokyo pop culture updates.
 
-☕
-
 Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
@@ -241,4 +232,4 @@ Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and 
 Follow for weekly collab cafe updates & Japan pop culture content.
 
 ### Explore by Area
-[🗼 Tokyo](/tag/tokyo/)[🏪 Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[👥 Shibuya](/shibuya-anime-spots-guide/)[🎮 Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[🌆 Osaka](/osaka-anime-guide-2025/)🏯 Kyoto (Coming Soon)
+[ Tokyo](/tag/tokyo/)[ Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[ Shibuya](/shibuya-anime-spots-guide/)[ Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[ Osaka](/osaka-anime-guide-2025/) Kyoto (Coming Soon)

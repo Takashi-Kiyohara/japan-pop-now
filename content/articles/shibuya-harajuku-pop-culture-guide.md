@@ -15,8 +15,6 @@ wpPostId: 205
 
 *Last updated: March 2026. Covers Shibuya PARCO’s 6F Cyberspace, Harajuku’s Takeshita Street, Cat Street, Kawaii Monster Land, Kiddy Land, and a walking route combining both areas.*
 
-![Shibuya Scramble Crossing at night — gateway to Tokyo](https://images.unsplash.com/photo-1542931287-023b922fa89b?w=800&h=500&fit=crop&q=80)
-
 Shibuya and Harajuku don’t show up on most anime fan itineraries. Akihabara gets that slot, and understandably — it’s the obvious choice. But if you skip Shibuya and Harajuku, you’re missing two things: the Nintendo flagship store, the Pokémon Center, the Jump Shop, and the Capcom Store all sitting on one floor of the same building — and an entire neighborhood dedicated to the kawaii culture that fuels half the anime aesthetic you already love.
 
 Shibuya is where the gaming and shonen side of Japanese pop culture has consolidated. Harajuku is where the visual side — fashion, design, character goods, street art — lives and breathes. Together, they’re a 15-minute walk apart, and you can cover both in a single day.
@@ -44,8 +42,6 @@ You could easily spend 90 minutes on this single floor. The Nintendo store alone
 | **Price** | Free entry. Budget ¥3,000–10,000 if you plan to buy anything. |
 
 **Go early or go late.** The 6th floor gets crowded between 13:00–16:00, especially on weekends. Opening time (10:00) or the last hour before closing (20:00–21:00) gives you room to actually look at things without shoulder-bumping through every aisle.
-
-![Nintendo and Pokemon merchandise display at an official flagship store in Shibuya PARCO Tokyo](https://images.unsplash.com/photo-1542652735873-fb2825bac6e2?w=800&h=500&fit=crop&q=80)
 
 ## MEGA Don Quijote Shibuya — 24-Hour Anime Shopping
 Don Quijote (“Donki”) is Japan’s chaotic discount megastore chain. The Shibuya branch — MEGA Don Quijote — is the flagship, and it’s open 24 hours on the shopping floors.
@@ -76,7 +72,6 @@ SHIBUYA109 is the iconic fashion building at Scramble Crossing. But for pop cult
 | **Patokoro Satellite** | Trading cards: Yu-Gi-Oh!, Pokémon, Duel Masters. Singles and packs. |
 
 ## Harajuku: Takeshita Street and Beyond
-![Takeshita Street entrance in Harajuku Tokyo — the heart of kawaii culture with anime character shops and crepe stands](https://images.unsplash.com/photo-1547448526-5e9d57fa28f7?w=800&h=500&fit=crop&q=80)
 
 Cross into Harajuku and the energy shifts completely. Shibuya is about buying specific things — games, manga, figures. Harajuku is about experiencing a culture. The kawaii aesthetic, the street fashion, the character goods — this is where it all comes from.
 
@@ -120,8 +115,6 @@ The 4th floor is the highlight for anime fans — Studio Ghibli goods, Sanrio, a
 | **Station** | Meiji-jingumae Station (Exit 4) — 3 min walk. Or Harajuku Station (Takeshita Exit) — 7 min walk. |
 | **Hours** | 11:00–20:00 daily |
 
-![Colorful Harajuku street scene with kawaii fashion shops and character goods stores on Takeshita Street](https://images.unsplash.com/photo-1547448526-5e9d57fa28f7?w=800&h=500&fit=crop&q=80)
-
 ## Cat Street (Ura-Harajuku) — Vintage and Streetwear
 Cat Street runs about one kilometer between Shibuya and Harajuku, following the path of a former river. It’s the quieter, more hand-picked alternative to Takeshita Street — independent boutiques, vintage shops, and streetwear flagships replacing the chaotic kawaii energy with something more refined.
 
@@ -146,8 +139,6 @@ This is not a pop culture destination. Meiji Jingu is a Shinto shrine surrounded
 So why include it? Because the juxtaposition *is* Harajuku. The fact that this ancient forest shrine sits right next to Takeshita Street — that Japan’s most traditional and most contemporary cultures exist within a 5-minute walk of each other — tells you something fundamental about why Japan looks and feels the way it does. Every anime that blends Shinto mythology with modern urban life is drawing from exactly this tension.
 
 The shrine is free to enter, takes about 30 minutes to walk through, and provides a genuine moment of calm between shopping sessions. Walk from Harajuku Station through the torii gate, follow the gravel path through the forest, pay your respects at the main hall, and walk back. It resets your brain.
-
-![Tree-lined Cat Street in Ura-Harajuku connecting Shibuya to Harajuku with vintage shops and cafes](https://images.unsplash.com/photo-1503899036084-c55cdd92da26?w=800&h=500&fit=crop&q=80)
 
 ## The Walking Route: Shibuya + Harajuku in One Day
 Shibuya and Harajuku are about 15 minutes apart on foot, or one stop on the JR Yamanote Line. Here’s the most efficient route for a full day:
@@ -199,8 +190,6 @@ Akihabara has the widest selection and the “anime district” atmosphere. [Ike
 - [Game Centers Guide: Crane Games, Rhythm & Retro Arcades](/game-centers-arcades-japan/)
 - [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)
 
-☕
-
 Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
@@ -213,4 +202,4 @@ Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and 
 Follow for weekly collab cafe updates & Japan pop culture content.
 
 ### Explore by Area
-[🗼 Tokyo](/tag/tokyo/)[🏪 Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[👥 Shibuya](/shibuya-anime-spots-guide/)[🎮 Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[🌆 Osaka](/osaka-anime-guide-2025/)🏯 Kyoto (Coming Soon)
+[ Tokyo](/tag/tokyo/)[ Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[ Shibuya](/shibuya-anime-spots-guide/)[ Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[ Osaka](/osaka-anime-guide-2025/) Kyoto (Coming Soon)

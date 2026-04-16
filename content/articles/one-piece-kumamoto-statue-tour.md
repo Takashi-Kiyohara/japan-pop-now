@@ -15,8 +15,6 @@ wpPostId: 207
 
 *Last updated: March 2026. Covers all 10 Straw Hat crew statues, maps, transportation, Kumamoto Castle, and a recommended 2-day itinerary for visiting every statue.*
 
-![Kumamoto Castle surrounded by cherry blossoms — the city is home to One Piece character statues honoring creator Eiichiro Oda](https://images.unsplash.com/photo-1705695464723-56195396666b?w=800&h=500&fit=crop&q=80)
-
 In April 2016, two massive earthquakes hit Kumamoto Prefecture. Eiichiro Oda — the creator of One Piece, born and raised in Kumamoto — responded with a donation of ¥800 million (roughly $8 million USD). The money went to reconstruction. In return, Kumamoto created something permanent: ten bronze statues of the Straw Hat Pirates, scattered across the towns and cities that were hit hardest.
 
 The first statue — Luffy, arm raised outside the Kumamoto Prefectural Government office — went up in November 2018. The last — Jinbe, standing watch at a coastal park — was completed in July 2022. Together they form a tour that takes you across the entire prefecture, from Kumamoto city center to the volcanic caldera of Aso to the rural towns most tourists never see.
@@ -38,7 +36,6 @@ This guide covers every statue, how to reach them, and the most practical way to
 | 9 | **Brook** | Near the Dinosaur Museum | Mifune Town | Difficult — bus/car needed |
 | 10 | **Jinbe** | Sumiyoshi Kaigan Park | Uto City | Difficult — bus/car needed |
 
-
 ## The Luffy Statue — Kumamoto City
 The Luffy statue is the most visited of the ten and the easiest to reach. It stands at the entrance promenade of the Kumamoto Prefectural Government Office, surrounded by ginkgo trees. Luffy’s got his arm raised — the classic pose — and at the base you’ll find a cast of Eiichiro Oda’s actual hand print and his signature.
 
@@ -58,8 +55,6 @@ If you have time, the zoo itself is a pleasant stop — well-maintained with a b
 | **Access** | Kumamoto City Tram to “Doubutsuen-iriguchi” (動植物園入口) stop, then 5 min walk |
 | --- | --- |
 | **Cost** | Statue: Free (outside the gate). Zoo admission: ¥500 (adults) if you want to enter. |
-
-![Mount Aso volcanic caldera landscape in Kumamoto Prefecture — the region where several One Piece statues are located](https://images.unsplash.com/photo-1545569341-9eb8b30979d9?w=800&h=500&fit=crop&q=80)
 
 ## The Aso Region Statues — Usopp, Franky, Robin
 Three statues are in the Aso area — the volcanic caldera region northeast of Kumamoto city. This is the area that was hardest hit by the 2016 earthquakes, and placing the statues here was intentional. Each location connects to the reconstruction story.
@@ -100,8 +95,6 @@ Budget 3-4 days to visit all ten by public transport. The blog “Higo Journal�
 
 ### Option 3: Guided Tour
 Private guides and tour services offer One Piece statue tour packages. This is the stress-free option — someone drives you to all ten, handles the navigation, and often includes stops at Kumamoto Castle and local restaurants. Prices vary, but expect ¥15,000–30,000 per person for a full-day tour.
-
-![Japanese rural road through green countryside in Kumamoto Prefecture connecting One Piece statue locations](https://images.unsplash.com/photo-1630214406433-5c1ecaf138c0?w=800&h=500&fit=crop&q=80)
 
 ## Recommended 2-Day Itinerary (By Car)
 
@@ -208,8 +201,6 @@ Kumamoto has run special campaigns with stamp rallies and collectible cards at v
 - [Osaka Anime Guide: Den Den Town, Collab Cafes & Beyond](/osaka-anime-guide-den-den-town/)
 - [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)
 
-☕
-
 Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
@@ -222,4 +213,4 @@ Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and 
 Follow for weekly collab cafe updates & Japan pop culture content.
 
 ### Explore by Area
-[🗼 Tokyo](/tag/tokyo/)[🏪 Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[👥 Shibuya](/shibuya-anime-spots-guide/)[🎮 Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[🌆 Osaka](/osaka-anime-guide-2025/)🏯 Kyoto (Coming Soon)
+[ Tokyo](/tag/tokyo/)[ Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[ Shibuya](/shibuya-anime-spots-guide/)[ Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[ Osaka](/osaka-anime-guide-2025/) Kyoto (Coming Soon)

@@ -16,7 +16,6 @@ wpPostId: 455
 
 *Last updated: April 2026. All prices and plan details verified against provider websites.*
 
-![Tourist checking phone at Shinjuku Station - choosing the right Japan eSIM or pocket WiFi matters](https://images.unsplash.com/photo-1617870382878-47f9c68be601?w=800&h=500&fit=crop&q=80)
 You just booked your flight to Japan. Now comes the question every traveler hits: how do I stay connected? Google Maps alone will save you from getting lost in Shinjuku Station’s 200+ exits, and you’ll want to look up train times, translate menus, and post photos from that collab cafe you’ve been dreaming about.
 
 I’ve tested all three options across multiple Japan trips — eSIMs, pocket WiFi devices, and physical SIM cards. Each has clear strengths depending on your travel style, group size, and budget. This guide breaks down exactly what works, what doesn’t, and which option fits your trip.
@@ -59,16 +58,14 @@ Here’s how the top providers compare on price, data, and convenience — with 
 | --- | --- | --- | --- | --- | --- | --- |
 | IIJmio eSIM | 2GB | 30 days | ¥3,300 | 4G/5G | Online | [Visit](https://www.iijmio.jp/en/) |
 | Rakuten Mobile eSIM | Unlimited | 30 days | ¥3,278 | 4G | Online | [Visit](https://network.rakuten.co.jp/en/) |
-| **⭐ Klook Japan SIM** | 500MB–5GB | 7–30 days | from $3.50 | 4G/LTE | Airport pickup | [Book Now](https://affiliate.klook.com/redirect?aid=117469&aff_adid=1251547&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F11660-japan-sim-card-narita-airport%2F) |
+| ** Klook Japan SIM** | 500MB–5GB | 7–30 days | from $3.50 | 4G/LTE | Airport pickup | [Book Now](https://affiliate.klook.com/redirect?aid=117469&aff_adid=1251547&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F11660-japan-sim-card-narita-airport%2F) |
 | Ubigi eSIM | 1GB–2GB | 7 days | $12–18 | LTE | Instant | [Visit](https://ubigi.telefonica.com/) |
 
 **Note:** Prices current as of April 2026. eSIM requires a compatible device. Airport SIM cards need advance booking.
 
-
 ## Option 1: eSIM — Best for Solo Travelers
 
-![eSIM activation on smartphone — the easiest way to get mobile data in Japan](https://images.unsplash.com/photo-1664050358061-ca854b846f4b?w=800&h=500&fit=crop&q=80)eSIMs let you activate a Japan data plan before you even board the plane.
-Photo: Unsplash
+eSIMs let you activate a Japan data plan before you even board the plane.
 An eSIM is a digital SIM card built into your phone. No physical card to swap, no device to carry, no airport counter to find. You buy it online, scan a QR code, and you’re connected before your plane even lands at Narita or Haneda.
 
 ### Why I recommend eSIMs for most travelers
@@ -83,8 +80,7 @@ The other catch: one eSIM = one device. If you’re traveling with a partner who
 
 ## Option 2: Pocket WiFi — Best for Groups
 
-![Portable pocket WiFi device for Japan travel — connects multiple devices at once](https://images.unsplash.com/photo-1617360322184-3f0b93b4294b?w=800&h=500&fit=crop&q=80)Pocket WiFi devices connect up to 10 devices at once — ideal for groups or families.
-Photo: Unsplash
+Pocket WiFi devices connect up to 10 devices at once — ideal for groups or families.
 A pocket WiFi is a small battery-powered device (about the size of a credit card, but thicker) that creates a personal WiFi hotspot using Japan’s cellular network. You rent it at the airport or have it delivered to your hotel.
 
 ### When pocket WiFi makes sense
@@ -101,8 +97,7 @@ Return logistics add a small hassle too. Most rentals require you to drop the de
 
 ## Option 3: Physical SIM Card — Best for Older Phones
 
-![Physical SIM card for Japan — traditional option for older phones without eSIM support](https://images.unsplash.com/photo-1741721816773-ff31d089c227?w=800&h=500&fit=crop&q=80)Physical SIM cards are still the go-to for phones that don’t support eSIM.
-Photo: Unsplash
+Physical SIM cards are still the go-to for phones that don’t support eSIM.
 A physical prepaid SIM card works like your regular SIM but with a Japan data plan. You buy one at the airport, pop it into your phone, and go.
 
 ### When to choose a physical SIM
@@ -239,8 +234,6 @@ Yes, that’s the beauty of eSIM. Most modern phones support one physical SIM + 
 - [JR Pass Anime Pilgrimages 2026 — Routes & Prices](/jr-pass-anime-pilgrimage-routes-2026/)
 - [Best Anime Hotels in Tokyo 2026](/best-anime-hotels-tokyo-2026/)
 
-☕
-
 Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
@@ -253,4 +246,4 @@ Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and 
 Follow for weekly collab cafe updates & Japan pop culture content.
 
 ### Explore by Area
-[🗼 Tokyo](/tag/tokyo/)[🏪 Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[👥 Shibuya](/shibuya-anime-spots-guide/)[🎮 Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[🌆 Osaka](/osaka-anime-guide-2025/)🏯 Kyoto (Coming Soon)
+[ Tokyo](/tag/tokyo/)[ Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[ Shibuya](/shibuya-anime-spots-guide/)[ Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[ Osaka](/osaka-anime-guide-2025/) Kyoto (Coming Soon)

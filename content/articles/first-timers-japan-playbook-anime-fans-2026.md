@@ -45,7 +45,6 @@ This playbook is what I wish someone had handed me on my first Tokyo trip. It co
 - [Frequently Asked Questions](#faq)
 - [More Travel Tips Guides](#more-guides)
 
-
 ## The 3-Hour Arrival Plan (Narita / Haneda)
 
 **Your first three hours on the ground decide whether day 1 is fun or exhausting.** I have seen first-timers spend 4 hours just getting from Narita to their Shinjuku hotel because they skipped the IC card queue and tried to buy paper tickets for every transfer.

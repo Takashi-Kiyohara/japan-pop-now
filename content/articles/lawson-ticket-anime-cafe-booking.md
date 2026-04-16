@@ -15,8 +15,6 @@ wpPostId: 201
 
 *Last updated: March 2026. Step-by-step guide to using Lawson Ticket (l-tike.com) and Loppi machines for anime collab cafe and event reservations in Japan.*
 
-![Lawson convenience store at night in Tokyo — where Loppi ticket machines are located for anime cafe reservations](https://images.unsplash.com/photo-1551641506-ee5bf4cb45f1?w=800&h=500&fit=crop&q=80)
-
 You’ve found the collab cafe you want to visit. You click the reservation link. It sends you to a website called l-tike.com — Lawson Ticket — and the entire page is in Japanese. Or the cafe tells you to pick up your reservation at something called a “Loppi machine” inside a Lawson convenience store, and you have no idea what that means.
 
 This is the wall that stops most international visitors from booking anime collab cafes, Sweets Paradise collaborations, and other ticketed events in Japan. Lawson Ticket is one of Japan’s three major ticketing platforms, and a significant number of collab cafes use it as their exclusive booking system. If you want to eat at that Jujutsu Kaisen cafe at Sweets Paradise or catch a one-night anime event, you’ll probably go through Lawson Ticket at some point.
@@ -79,10 +77,7 @@ Select **“Lawson store pickup”** (ローソン店頭受取). This is the opt
 ### Step 5: Confirm and Note Your Reservation Code
 After submitting, you’ll receive a confirmation email with a reservation number. Screenshot this. Write it down. You’ll need it at the Loppi machine. The email may also include an **L-code** (L コード) — a short numeric code specific to Lawson’s system.
 
-![Lawson convenience store exterior at night in Japan with blue and white signage — home of the Loppi ticket machine](https://images.unsplash.com/photo-1604719312566-8912e9227c6a?w=800&h=500&fit=crop&q=80)
-
 ## Step-by-Step: Using the Loppi Machine at Lawson
-![Tokyo convenience store street at night — Lawson stores with Loppi machines are found on nearly every block](https://images.unsplash.com/photo-1480796927426-f609979314bd?w=800&h=500&fit=crop&q=80)
 
 The Loppi machine is a touchscreen kiosk — bright red, hard to miss. It’s usually near the store entrance next to the ATM. The interface is entirely in Japanese, but you only need to work through a few screens.
 
@@ -144,8 +139,6 @@ Japan has three major ticketing platforms. Each has different strengths for inte
 
 If you have the choice between platforms for the same event, **eplus International is the easiest for foreigners**. If the event only uses Lawson Ticket, follow the guide above.
 
-![Person using a touchscreen kiosk terminal in a Japanese convenience store](https://images.unsplash.com/photo-1480796927426-f609979314bd?w=800&h=500&fit=crop&q=80)
-
 ## Common Mistakes and How to Avoid Them
 
 **Don’t wait until the last minute.** Popular collab cafe reservations sell out within minutes of opening. Set an alarm for the exact moment booking opens — the date and time are always announced in advance on the cafe’s official X account.
@@ -190,8 +183,6 @@ Ask the Lawson staff. They can reboot the machine or process your ticket at the 
 - [Japan IC Card Guide: Suica, PASMO & ICOCA](/japan-ic-card-transit-guide/)
 - [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)
 
-☕
-
 Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
@@ -204,4 +195,4 @@ Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and 
 Follow for weekly collab cafe updates & Japan pop culture content.
 
 ### Explore by Area
-[🗼 Tokyo](/tag/tokyo/)[🏪 Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[👥 Shibuya](/shibuya-anime-spots-guide/)[🎮 Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[🌆 Osaka](/osaka-anime-guide-2025/)🏯 Kyoto (Coming Soon)
+[ Tokyo](/tag/tokyo/)[ Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[ Shibuya](/shibuya-anime-spots-guide/)[ Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[ Osaka](/osaka-anime-guide-2025/) Kyoto (Coming Soon)
