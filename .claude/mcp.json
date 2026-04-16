@@ -1,10 +1,10 @@
-{
+﻿{
   "$schema": "https://json.schemastore.org/claude-code-mcp-servers.json",
   "mcpServers": {
     "context7": {
       "command": "npx",
       "args": ["-y", "@upstash/context7-mcp"],
-      "description": "Up-to-date docs for Next.js 16, React 19, Tailwind v4 — prevents stale-knowledge hallucinations"
+      "description": "Up-to-date docs for Next.js 16, React 19, Tailwind v4 窶・prevents stale-knowledge hallucinations"
     },
     "playwright": {
       "command": "npx",
@@ -22,7 +22,7 @@
     "fetch": {
       "command": "npx",
       "args": ["-y", "@modelcontextprotocol/server-fetch"],
-      "description": "Generic web fetch with content extraction — research + link verification"
+      "description": "Generic web fetch with content extraction 窶・research + link verification"
     },
     "lighthouse": {
       "command": "npx",
@@ -43,7 +43,7 @@
         "GSC_SITE_URL": "https://japan-pop-now.com/"
       },
       "description": "Google Search Console: queries, clicks, impressions, CTR by page",
-      "disabled": true,
+      "disabled": false,
       "_note": "Enable after setting GSC creds in ~/.claude/settings.local.json"
     },
     "ga4": {
@@ -54,7 +54,7 @@
         "GOOGLE_APPLICATION_CREDENTIALS": "${GA4_SERVICE_ACCOUNT_JSON}"
       },
       "description": "Google Analytics 4: sessions, conversions, affiliate CTR, page engagement",
-      "disabled": true,
+      "disabled": false,
       "_note": "Enable after setting GA4 property + service account JSON path"
     },
     "filesystem-content": {
@@ -70,3 +70,4 @@
     }
   }
 }
+
