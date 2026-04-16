@@ -7,7 +7,7 @@ category: "travel-tips"
 tags: []
 featuredImage: "/images/articles/ship-anime-figures-merch-home-japan/featured.jpg"
 featuredImageAlt: "Yamato Transport Kuroneko delivery truck for shipping anime merch from Japan"
-author: "Japan Pop Now"
+author: "Takapon"
 excerpt: "Last updated: April 2026. Disclosure: This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you...."
 relatedSlugs: []
 wpPostId: 540

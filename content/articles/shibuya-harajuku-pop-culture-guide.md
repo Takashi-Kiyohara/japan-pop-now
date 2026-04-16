@@ -7,7 +7,7 @@ category: "area-guides"
 tags: []
 featuredImage: "/images/articles/shibuya-harajuku-pop-culture-guide/featured.jpg"
 featuredImageAlt: "Crowded Takeshita Street in Harajuku with colorful kawaii shops"
-author: "Japan Pop Now"
+author: "Takapon"
 excerpt: "Last updated: March 2026. Covers Shibuya PARCO’s 6F Cyberspace, Harajuku’s Takeshita Street, Cat Street, Kawaii Monster Land, Kiddy Land, and a walking route..."
 relatedSlugs: []
 wpPostId: 205

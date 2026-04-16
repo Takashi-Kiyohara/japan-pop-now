@@ -7,7 +7,7 @@ category: "travel-tips"
 tags: []
 featuredImage: "/images/articles/anime-merch-shopping-guide-japan/featured.jpg"
 featuredImageAlt: "Mandarake store in Nakano Broadway packed with anime manga figures and collectibles"
-author: "Japan Pop Now"
+author: "Takapon"
 excerpt: "JJK PLAZA Chair:Black merch pop-up at Loft stores across Japan. All 5 venues, dates, prices, what sells out first, and tips for international visitors."
 relatedSlugs: []
 wpPostId: 103

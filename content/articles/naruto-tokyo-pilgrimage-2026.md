@@ -8,7 +8,7 @@ tags: ["Naruto", "anime-tourism", "Tokyo", "seichi-junrei", "ninja"]
 featuredImage: "/images/articles/naruto-tokyo-pilgrimage-2026/featured.jpg"
 featuredImageAlt: "Naruto themed hotel room with fire kanji wall art and Konoha symbols"
 imageCredit: "Photo: © JNTO"
-author: "Japan Pop Now"
+author: "Takapon"
 excerpt: "Follow the path of Naruto through Tokyo's real-world pilgrimage sites, from merchandise havens to collaboration cafes and exhibitions dedicated to the legendary ninja series."
 relatedSlugs: []
 wpPostId: 0

@@ -7,7 +7,7 @@ category: "travel-tips"
 tags: []
 featuredImage: "/images/articles/japan-rail-pass-2026-guide/featured.jpg"
 featuredImageAlt: "Shinkansen bullet train speeding through Japanese countryside"
-author: "Japan Pop Now"
+author: "Takapon"
 excerpt: "Last updated: April 2026 Affiliate Disclosure: Some links in this article are affiliate links. We earn a small commission at no extra cost to you — it helps..."
 relatedSlugs: []
 wpPostId: 613

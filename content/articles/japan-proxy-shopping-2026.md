@@ -7,7 +7,7 @@ category: "travel-tips"
 tags: []
 featuredImage: "/images/articles/japan-proxy-shopping-2026/featured.jpg"
 featuredImageAlt: "Anime figures and collectibles display at Akihabara shop for proxy shopping"
-author: "Japan Pop Now"
+author: "Takapon"
 excerpt: "Last updated: April 2026 Affiliate Disclosure: Some links in this article are affiliate links. We earn a small commission at no extra cost to you — it helps..."
 relatedSlugs: []
 wpPostId: 610

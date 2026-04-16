@@ -7,7 +7,7 @@ category: "area-guides"
 tags: []
 featuredImage: "/images/articles/akihabara-complete-guide-2026/featured.jpg"
 featuredImageAlt: "Akihabara Electric Town street with GiGO arcade and anime shops in Tokyo"
-author: "Japan Pop Now"
+author: "Takapon"
 excerpt: "The real Akihabara guide for 2026. Retro game shops, hidden specialist stores, maid cafes, collab cafes, and the side streets most tourists miss. Written by a..."
 relatedSlugs: []
 wpPostId: 102

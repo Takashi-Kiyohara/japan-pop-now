@@ -7,7 +7,7 @@ category: "experiences"
 tags: []
 featuredImage: "/images/articles/animejapan-comiket-2026-guide/featured.jpg"
 featuredImageAlt: "Massive crowd at Comiket convention at Tokyo Big Sight"
-author: "Japan Pop Now"
+author: "Takapon"
 excerpt: "AnimeJapan vs. Comiket: Complete Guide to Tokyo’s Biggest Anime Events 2026 I’ve attended both AnimeJapan and Comiket more times than I can count. The first..."
 relatedSlugs: []
 wpPostId: 606

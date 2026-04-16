@@ -7,7 +7,7 @@ category: "anime-pilgrimage"
 tags: []
 featuredImage: "/images/articles/slam-dunk-kamakura-pilgrimage-2026/featured.jpg"
 featuredImageAlt: "Kamakura Koko-mae station railroad crossing from Slam Dunk"
-author: "Japan Pop Now"
+author: "Takapon"
 excerpt: "Last updated: April 2026. The Kamakurakokomae No.1 Railroad Crossing â Slam Dunk’s most iconic real-world location, with the Shonan coast stretching behind..."
 relatedSlugs: []
 wpPostId: 751

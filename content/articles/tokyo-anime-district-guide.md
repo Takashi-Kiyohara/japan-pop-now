@@ -7,7 +7,7 @@ category: "area-guides"
 tags: []
 featuredImage: "/images/articles/tokyo-anime-district-guide/featured.jpg"
 featuredImageAlt: "Akihabara neon-lit anime district at night with SEGA and manga billboards"
-author: "Japan Pop Now"
+author: "Takapon"
 excerpt: "Last updated: March 2026. The complete guide to every anime and pop culture neighborhood in Tokyo — where to go, what to buy, and how to plan your route across..."
 relatedSlugs: []
 wpPostId: 206

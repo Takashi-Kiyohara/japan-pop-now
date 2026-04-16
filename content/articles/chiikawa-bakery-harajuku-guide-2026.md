@@ -8,7 +8,7 @@ tags: ["chiikawa", "harajuku", "2026-spring", "bakery"]
 featuredImage: "/images/articles/chiikawa-bakery-harajuku-guide-2026/featured.jpg"
 featuredImageAlt: "Inside Chiikawa Bakery Harajuku showing the main counter with character-shaped breads and a large Chiikawa plush figure"
 imageCredit: "Photo: Japan Pop Now"
-author: "Japan Pop Now"
+author: "Takapon"
 excerpt: "After a morning inside Chiikawa Bakery at Tokyu Plaza Omotesando, here is a no-hype walkthrough: how reservation actually works, which breads are worth the ¥580, and the rules international visitors keep missing."
 relatedSlugs: ["tokyo-anime-collab-cafes-spring-2026", "how-to-book-anime-collab-cafe-japan", "shibuya-harajuku-pop-culture-guide", "lawson-ticket-anime-cafe-booking"]
 wpPostId: 840

@@ -8,7 +8,7 @@ tags: []
 featuredImage: "/images/articles/how-to-book-anime-collab-cafe-japan/featured.jpg"
 featuredImageAlt: "Colorful interior of the Fujiko F. Fujio (Doraemon) Museum in Kawasaki"
 imageCredit: "Photo: © JNTO"
-author: "Japan Pop Now"
+author: "Takapon"
 excerpt: "Complete guide to booking anime collaboration cafes in Tokyo. Covers Lawson Ticket, lottery systems, walk-in tips, and what to expect at your first collab cafe..."
 relatedSlugs: []
 wpPostId: 100

@@ -1,13 +1,60 @@
-slug,old_category,new_category,reason,url_changes
-ghibli-park-complete-guide-2026,area-guides,experiences,Single park spot (not an area roundup),no
-luvlab-harajuku-diy-accessory-experience,area-guides,experiences,Single shop/DIY experience,no
-pokepark-kanto-tokyo-2026,area-guides,experiences,Single theme park spot,no
-my-hero-academia-cafe-tokyo-2026,area-guides,collab-cafes,Mis-classified — it is a collab cafe,no
-one-piece-tokyo-guide-2026,area-guides,anime-pilgrimage,Multi-spot pilgrimage map,no
-animejapan-2026-guide-international-visitors,collab-cafes,experiences,Convention event (not cafe),no
-animejapan-comiket-2026-guide,collab-cafes,experiences,Convention event (not cafe),no
-universal-cool-japan-2026-guide,collab-cafes,experiences,Theme park seasonal event,no
-blue-lock-tokyo-skytree-cafe-2026,collab-cafes,experiences,Single venue/exhibition + cafe,no
-spy-family-tokyo-fan-day-2026,collab-cafes,experiences,Single fan-day event,no
-cosplay-experience-tokyo-2026,travel-tips,experiences,Hands-on activity,no
-wonder-festival-figure-events-japan-2026,travel-tips,experiences,Convention event,no
+old_slug,old_cat,new_cat,new_slug,needs_redirect,notes
+animate-cafe-guide-japan,collab-cafes,collab-cafes,animate-cafe-guide-japan,no,keep
+chiikawa-bakery-harajuku-guide-2026,collab-cafes,collab-cafes,chiikawa-bakery-harajuku-guide-2026,no,keep
+detective-conan-cafe-2026-japan-guide,collab-cafes,collab-cafes,detective-conan-cafe-2026-japan-guide,no,keep
+familymart-anime-collab-stores-2026,collab-cafes,collab-cafes,familymart-anime-collab-stores-2026,no,keep
+jujutsu-kaisen-cafes-japan-2026-guide,collab-cafes,collab-cafes,jujutsu-kaisen-cafes-japan-2026-guide,no,keep
+my-hero-academia-cafe-tokyo-2026,collab-cafes,collab-cafes,my-hero-academia-cafe-tokyo-2026,no,keep
+one-piece-cafe-gene-shibuya-guide-2026,collab-cafes,collab-cafes,one-piece-cafe-gene-shibuya-guide-2026,no,keep
+osaka-anime-collab-cafes-pop-culture-2026,collab-cafes,collab-cafes,osaka-anime-collab-cafes-pop-culture-2026,no,keep
+tokyo-anime-collab-cafes-spring-2026,collab-cafes,collab-cafes,tokyo-anime-collab-cafes-spring-2026,no,keep
+tokyo-anime-collab-cafes-summer-2026,collab-cafes,collab-cafes,tokyo-anime-collab-cafes-summer-2026,no,keep
+animejapan-2026-guide-international-visitors,experiences,experiences,animejapan-2026-guide-international-visitors,no,keep
+animejapan-comiket-2026-guide,experiences,experiences,animejapan-comiket-2026-guide,no,keep
+blue-lock-tokyo-skytree-cafe-2026,experiences,experiences,blue-lock-tokyo-skytree-cafe-2026,no,keep-md-only-delete-mdx-dup
+cosplay-experience-tokyo-2026,experiences,experiences,cosplay-experience-tokyo-2026,no,keep
+ghibli-park-complete-guide-2026,experiences,experiences,ghibli-park-complete-guide-2026,no,keep
+luvlab-harajuku-diy-accessory-experience,experiences,experiences,luvlab-harajuku-diy-accessory-experience,no,keep
+pokepark-kanto-tokyo-2026,experiences,experiences,pokepark-kanto-tokyo-2026,no,keep
+spy-family-tokyo-fan-day-2026,experiences,experiences,spy-family-tokyo-fan-day-2026,no,keep
+universal-cool-japan-2026-guide,experiences,experiences,universal-cool-japan-2026-guide,no,keep
+wonder-festival-figure-events-japan-2026,experiences,experiences,wonder-festival-figure-events-japan-2026,no,keep
+akihabara-complete-guide-2026,area-guides,area-guides,akihabara-complete-guide-2026,no,keep-true-area-summary
+ikebukuro-anime-guide-2026,area-guides,area-guides,ikebukuro-anime-guide-2026,no,keep-true-area-summary
+kyoto-anime-guide-2026,area-guides,area-guides,kyoto-anime-guide-2026,no,keep-true-area-summary
+osaka-anime-guide-den-den-town,area-guides,area-guides,osaka-anime-guide-den-den-town,no,keep-true-area-summary
+shibuya-harajuku-pop-culture-guide,area-guides,area-guides,shibuya-harajuku-pop-culture-guide,no,keep-true-area-summary
+tokyo-anime-district-guide,area-guides,area-guides,tokyo-anime-district-guide,no,keep-true-area-summary
+gaming-tokyo-2026,area-guides,experiences,gaming-tokyo-2026,no,MOVE-curated-single-day-route-per-user-decision
+anime-day-trips-from-tokyo-2026,area-guides,anime-pilgrimage,anime-day-trips-from-tokyo-2026,no,MOVE-seichi-junrei-itinerary-Kamakura-Hakone-Oarai-per-critic
+anime-hotels-tokyo-2026,area-guides,travel-tips,anime-hotels-tokyo-2026,no,MOVE-hotels-are-accommodation-advice
+nakano-broadway-guide,area-guides,area-guides,nakano-broadway-guide,no,keep-multi-venue-complex-300+shops-critic-reversed
+anime-pilgrimage-spots-tokyo,anime-pilgrimage,anime-pilgrimage,anime-pilgrimage-spots-tokyo,no,keep
+chainsaw-man-pilgrimage-tokyo,anime-pilgrimage,anime-pilgrimage,chainsaw-man-pilgrimage-tokyo,no,keep
+demon-slayer-pilgrimage-tokyo,anime-pilgrimage,anime-pilgrimage,demon-slayer-pilgrimage-tokyo,no,keep
+detective-conan-pilgrimage-events-2026,anime-pilgrimage,anime-pilgrimage,detective-conan-pilgrimage-events-2026,no,keep
+jujutsu-kaisen-shibuya-locations-2026,anime-pilgrimage,anime-pilgrimage,jujutsu-kaisen-shibuya-locations-2026,no,keep
+naruto-tokyo-pilgrimage-2026,anime-pilgrimage,anime-pilgrimage,naruto-tokyo-pilgrimage-2026,no,keep
+one-piece-kumamoto-statue-tour,anime-pilgrimage,anime-pilgrimage,one-piece-kumamoto-statue-tour,no,keep
+one-piece-tokyo-guide-2026,anime-pilgrimage,anime-pilgrimage,one-piece-tokyo-guide-2026,no,keep
+slam-dunk-kamakura-pilgrimage-2026,anime-pilgrimage,anime-pilgrimage,slam-dunk-kamakura-pilgrimage-2026,no,keep
+weathering-with-you-locations-tokyo,anime-pilgrimage,anime-pilgrimage,weathering-with-you-locations-tokyo,no,keep
+your-name-pilgrimage-tokyo,anime-pilgrimage,anime-pilgrimage,your-name-pilgrimage-tokyo,no,keep
+jr-pass-anime-pilgrimage-routes-2026,anime-pilgrimage,anime-pilgrimage,jr-pass-anime-pilgrimage-routes-2026,no,ambiguous-JR-pass-but-pilgrimage-framing
+anime-merch-shopping-guide-japan,travel-tips,travel-tips,anime-merch-shopping-guide-japan,no,keep
+book-japan-anime-events-overseas-2026,travel-tips,travel-tips,book-japan-anime-events-overseas-2026,no,keep
+first-timers-japan-playbook-anime-fans-2026,travel-tips,travel-tips,first-timers-japan-playbook-anime-fans-2026,no,keep
+how-to-book-anime-collab-cafe-japan,travel-tips,travel-tips,how-to-book-anime-collab-cafe-japan,no,keep
+japan-esim-pocket-wifi-sim-card,travel-tips,travel-tips,japan-esim-pocket-wifi-sim-card,no,keep
+japan-ic-card-transit-guide,travel-tips,travel-tips,japan-ic-card-transit-guide,no,keep
+japan-luggage-forwarding-2026,travel-tips,travel-tips,japan-luggage-forwarding-2026,no,keep
+japan-proxy-shopping-2026,travel-tips,travel-tips,japan-proxy-shopping-2026,no,keep
+japan-rail-pass-2026-guide,travel-tips,travel-tips,japan-rail-pass-2026-guide,no,keep
+japan-rail-pass-guide-anime-fans,travel-tips,travel-tips,japan-rail-pass-guide-anime-fans,no,potential-duplicate-of-japan-rail-pass-2026-guide
+japan-travel-insurance-2026,travel-tips,travel-tips,japan-travel-insurance-2026,no,keep
+japan-trip-checklist-anime-fans-2026,travel-tips,travel-tips,japan-trip-checklist-anime-fans-2026,no,keep
+lawson-ticket-anime-cafe-booking,travel-tips,travel-tips,lawson-ticket-anime-cafe-booking,no,keep
+ship-anime-figures-merch-home-japan,travel-tips,travel-tips,ship-anime-figures-merch-home-japan,no,keep
+gachapon-guide-japan,travel-tips,travel-tips,gachapon-guide-japan,no,ambiguous-activity-guide-could-be-experiences
+best-anime-tours-tokyo-2026,travel-tips,experiences,best-anime-tours-tokyo-2026,no,MOVE-bookable-tour-experiences
+game-centers-arcades-japan,travel-tips,experiences,game-centers-arcades-japan,no,MOVE-hands-on-activity-venues

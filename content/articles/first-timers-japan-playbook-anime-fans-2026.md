@@ -9,7 +9,7 @@ feature: "first-timers-field-notes"
 tags: ["first-time", "tokyo", "arrival", "planning", "playbook", "anime-tourism"]
 featuredImage: "/images/articles/first-timers-japan-playbook-anime-fans-2026/featured.jpg"
 featuredImageAlt: "First-time anime fan arriving at Tokyo station with luggage and IC card ready"
-author: "Japan Pop Now"
+author: "Takapon"
 excerpt: "Last updated: April 2026. An hour-by-hour first-timer's playbook: what to book before you fly, what to grab at the airport, how cash works in 2026, and the unspoken rules nobody tells you."
 relatedSlugs:
   - "japan-ic-card-transit-guide"

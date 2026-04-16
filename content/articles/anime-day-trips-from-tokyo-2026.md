@@ -3,11 +3,11 @@ title: "7 Anime Day Trips from Tokyo: Pilgrimage Guide with JR Pass Tips"
 description: "Last updated: April 2026. Disclosure: This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you...."
 date: "2026-04-04"
 lastUpdated: "2026-04-04"
-category: "area-guides"
+category: "anime-pilgrimage"
 tags: []
 featuredImage: "/images/articles/anime-day-trips-from-tokyo-2026/featured.jpg"
 featuredImageAlt: "Great Buddha statue in Kamakura a popular anime day trip from Tokyo"
-author: "Japan Pop Now"
+author: "Takapon"
 excerpt: "Last updated: April 2026. Disclosure: This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you...."
 relatedSlugs: []
 wpPostId: 754

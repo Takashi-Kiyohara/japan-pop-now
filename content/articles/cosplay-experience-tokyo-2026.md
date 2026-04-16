@@ -8,7 +8,7 @@ tags: []
 featuredImage: "/images/articles/cosplay-experience-tokyo-2026/featured.jpg"
 featuredImageAlt: "Cosplayers at the World Cosplay Summit event at a Japanese temple"
 imageCredit: "Photo: © JNTO"
-author: "Japan Pop Now"
+author: "Takapon"
 excerpt: "Last updated: April 2026. Disclosure: This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you...."
 relatedSlugs: []
 wpPostId: 757

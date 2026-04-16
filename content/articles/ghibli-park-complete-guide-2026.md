@@ -7,7 +7,7 @@ category: "experiences"
 tags: []
 featuredImage: "/images/articles/ghibli-park-complete-guide-2026/featured.jpg"
 featuredImageAlt: "Mononoke Village walking path at Ghibli Park in Aichi Prefecture"
-author: "Japan Pop Now"
+author: "Takapon"
 excerpt: "Last updated: April 2026. Disclosure: This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you...."
 relatedSlugs: []
 wpPostId: 750

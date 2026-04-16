@@ -7,7 +7,7 @@ category: "collab-cafes"
 tags: []
 featuredImage: "/images/articles/osaka-anime-collab-cafes-pop-culture-2026/featured.jpg"
 featuredImageAlt: "Dotonbori neon signs in Osaka for anime and pop culture district"
-author: "Japan Pop Now"
+author: "Takapon"
 excerpt: "Last updated: April 2026. Disclosure: This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you...."
 relatedSlugs: []
 wpPostId: 755

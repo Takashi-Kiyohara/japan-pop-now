@@ -7,7 +7,7 @@ category: "anime-pilgrimage"
 tags: []
 featuredImage: "/images/articles/detective-conan-pilgrimage-events-2026/featured.jpg"
 featuredImageAlt: "Entrance to Gosho Aoyama Manga Factory museum for Detective Conan fans"
-author: "Japan Pop Now"
+author: "Takapon"
 excerpt: "Last updated: April 2026. Disclosure: This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you...."
 relatedSlugs: []
 wpPostId: 753

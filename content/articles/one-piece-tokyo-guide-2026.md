@@ -7,7 +7,7 @@ category: "anime-pilgrimage"
 tags: []
 featuredImage: "/images/articles/one-piece-tokyo-guide-2026/featured.jpg"
 featuredImageAlt: "Tokyo Tower red illumination night skyline for One Piece themed attractions"
-author: "Japan Pop Now"
+author: "Takapon"
 excerpt: "Last updated: April 2026. Finding your way through Tokyo’s massive anime merchandise landscape in 2026 One Piece Tokyo Guide 2026: Where to Find Every Straw..."
 relatedSlugs: []
 wpPostId: 512

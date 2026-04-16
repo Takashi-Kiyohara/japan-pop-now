@@ -10,7 +10,7 @@ featuredImageAlt: "Moe from Japan Pop Now holding two signature One Piece charac
 heroImage: "/images/articles/one-piece-cafe-gene-shibuya-guide-2026/moe-hero.jpg"
 heroImageAlt: "Full table spread at One Piece Cafe GENE Shibuya showing skull bowl ramen, crepe bowl, two character drinks, and Straw Hat Crew placemat with Moe from Japan Pop Now"
 imageCredit: "Photo: Japan Pop Now"
-author: "Japan Pop Now"
+author: "Takapon"
 excerpt: "One Piece Cafe GENE at Shibuya PARCO 6F runs through May 18, 2026. After a full afternoon testing the Phase 2 menu — skull bowl ramen, birthday cards, and ¥1,100 character drinks — here is what to order, how to book, and the 3 things international visitors keep getting wrong."
 relatedSlugs: ["tokyo-anime-collab-cafes-spring-2026", "how-to-book-anime-collab-cafe-japan", "shibuya-harajuku-pop-culture-guide", "lawson-ticket-anime-cafe-booking"]
 ---

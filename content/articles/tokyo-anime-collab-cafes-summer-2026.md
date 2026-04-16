@@ -7,7 +7,7 @@ category: "collab-cafes"
 tags: []
 featuredImage: "/images/articles/tokyo-anime-collab-cafes-summer-2026/featured.jpg"
 featuredImageAlt: "Rainbow Bridge and Tokyo Harbor summer cityscape"
-author: "Japan Pop Now"
+author: "Takapon"
 excerpt: "Last updated: April 2026. Tokyo’s collab cafe scene rotates constantly â there are usually 15-20 anime-themed cafes running at any given time across the..."
 relatedSlugs: []
 wpPostId: 752
