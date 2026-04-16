@@ -2,41 +2,41 @@
   "$schema": "https://json.schemastore.org/claude-code-mcp-servers.json",
   "mcpServers": {
     "context7": {
-      "command": "npx",
-      "args": ["-y", "@upstash/context7-mcp"],
+      "command": "cmd",
+      "args": ["/c", "npx", "-y", "@upstash/context7-mcp"],
       "description": "Up-to-date docs for Next.js 16, React 19, Tailwind v4 - prevents stale-knowledge hallucinations"
     },
     "playwright": {
-      "command": "npx",
-      "args": ["-y", "@playwright/mcp@latest"],
+      "command": "cmd",
+      "args": ["/c", "npx", "-y", "@playwright/mcp@latest"],
       "description": "Headless Chromium for visual QA, screenshot regression, accessibility checks"
     },
     "github": {
-      "command": "npx",
-      "args": ["-y", "@modelcontextprotocol/server-github"],
+      "command": "cmd",
+      "args": ["/c", "npx", "-y", "@modelcontextprotocol/server-github"],
       "env": {
         "GITHUB_PERSONAL_ACCESS_TOKEN": "${GITHUB_PAT}"
       },
       "description": "Repo ops: issues, PRs, Actions logs"
     },
     "fetch": {
-      "command": "npx",
-      "args": ["-y", "@modelcontextprotocol/server-fetch"],
+      "command": "cmd",
+      "args": ["/c", "npx", "-y", "@modelcontextprotocol/server-fetch"],
       "description": "Generic web fetch with content extraction - research + link verification"
     },
     "lighthouse": {
-      "command": "npx",
-      "args": ["-y", "@lighthouse-mcp/server"],
+      "command": "cmd",
+      "args": ["/c", "npx", "-y", "@lighthouse-mcp/server"],
       "description": "Lighthouse performance / SEO / a11y audits against live site"
     },
     "next-devtools": {
-      "command": "npx",
-      "args": ["-y", "next-devtools-mcp"],
+      "command": "cmd",
+      "args": ["/c", "npx", "-y", "next-devtools-mcp"],
       "description": "Next.js 16 build diagnostics, bundle analysis, route tree"
     },
     "gsc": {
-      "command": "npx",
-      "args": ["-y", "@ahonn/mcp-server-gsc"],
+      "command": "cmd",
+      "args": ["/c", "npx", "-y", "@ahonn/mcp-server-gsc"],
       "env": {
         "GSC_CLIENT_EMAIL": "${GSC_CLIENT_EMAIL}",
         "GSC_PRIVATE_KEY": "${GSC_PRIVATE_KEY}",
@@ -47,8 +47,8 @@
       "_note": "Requires GSC_CLIENT_EMAIL + GSC_PRIVATE_KEY in ~/.claude/settings.local.json (extract from service account JSON)"
     },
     "ga4": {
-      "command": "npx",
-      "args": ["-y", "@google-analytics/mcp-server-ga4"],
+      "command": "cmd",
+      "args": ["/c", "npx", "-y", "@google-analytics/mcp-server-ga4"],
       "env": {
         "GA4_PROPERTY_ID": "${GA4_PROPERTY_ID}",
         "GOOGLE_APPLICATION_CREDENTIALS": "${GOOGLE_APPLICATION_CREDENTIALS}"
@@ -58,8 +58,10 @@
       "_note": "Requires GA4_PROPERTY_ID + GOOGLE_APPLICATION_CREDENTIALS (path to service account JSON) in ~/.claude/settings.local.json"
     },
     "filesystem-content": {
-      "command": "npx",
+      "command": "cmd",
       "args": [
+        "/c",
+        "npx",
         "-y",
         "@modelcontextprotocol/server-filesystem",
         "./content",
