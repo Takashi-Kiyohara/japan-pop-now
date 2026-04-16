@@ -11,6 +11,7 @@ const NAV_LINKS = [
   { href: '/calendar', label: '📅 Calendar', highlight: true },
   { href: '/category/collab-cafes', label: 'Collab Cafes' },
   { href: '/category/anime-pilgrimage', label: 'Pilgrimage' },
+  { href: '/category/experiences', label: 'Experiences' },
   { href: '/category/area-guides', label: 'Area Guides' },
   { href: '/category/travel-tips', label: 'Travel Tips' },
 ];

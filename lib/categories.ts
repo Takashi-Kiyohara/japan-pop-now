@@ -39,6 +39,15 @@ export const CATEGORIES: Category[] = [
     hubSlug: 'osaka-anime-guide',
   },
   {
+    slug: 'experiences',
+    label: 'Experiences',
+    icon: '🎟️',
+    lucideIcon: 'Sparkles',
+    color: '#0d9488',
+    description: 'Single-spot experiences for anime fans — themed cafes, exhibitions, pop-ups, theme parks, DIY workshops, and one-of-a-kind venues across Japan.',
+    hubSlug: 'japan-anime-experiences',
+  },
+  {
     slug: 'travel-tips',
     label: 'Travel Tips',
     icon: '🧳',
