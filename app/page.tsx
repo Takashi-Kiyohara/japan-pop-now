@@ -5,7 +5,6 @@ import AdUnit from '@/components/AdUnit';
 import AffiliateCTA from '@/components/AffiliateCTA';
 import SpotlightSection from '@/components/SpotlightSection';
 import CountdownStrip from '@/components/CountdownStrip';
-import BentoGrid from '@/components/BentoGrid';
 import Link from 'next/link';
 import spotlightData from '@/content/spotlight.json';
 
@@ -108,9 +107,6 @@ export default function Home() {
 
       {/* ── Countdown strip (top 3 events ending soon) ─────── */}
       <CountdownStrip />
-
-      {/* ── Bento (Active / This Week / Popular / By IP) ───── */}
-      <BentoGrid />
 
       {/* ── Brand stripe ───────────────────────────────────── */}
       <div style={{ height: '3px', background: 'linear-gradient(90deg, #f97316, #e63946, #14213d)' }} />
