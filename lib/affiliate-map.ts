@@ -19,7 +19,7 @@ export interface AffiliateProduct {
   inlineCopy?: string;
 }
 
-const KLOOK_AFF_ID = process.env.NEXT_PUBLIC_KLOOK_AFF_ID || '117469';
+const KLOOK_AFF_ID = process.env.NEXT_PUBLIC_KLOOK_AFF_ID || '';
 const BOOKING_AFF_ID = process.env.NEXT_PUBLIC_BOOKING_AFF_ID || '';
 const GYG_AFF_ID = process.env.NEXT_PUBLIC_GETYOURGUIDE_AFF_ID || '';
 

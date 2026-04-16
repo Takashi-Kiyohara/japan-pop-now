@@ -32,8 +32,8 @@ const programLabels: Record<AffiliateProgram, string> = {
 function buildAffiliateUrl(baseUrl: string, category: string = 'general'): string {
   try {
     const url = new URL(baseUrl);
-    url.searchParams.set('utm_source', 'japanpopnow');
-    url.searchParams.set('utm_medium', 'affiliate');
+    url.searchParams.set('utm_source', 'japan-pop-now');
+    url.searchParams.set('utm_medium', 'article');
     url.searchParams.set('utm_campaign', category);
     return url.toString();
   } catch {

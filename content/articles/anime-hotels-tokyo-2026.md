@@ -59,7 +59,7 @@ Astro Station is where your hostel roommate becomes your drinking buddy. The pla
 
 **Verdict:** Book this if you’re 18–28, traveling solo, and actually want to meet people. Skip it if you need your own space or are over the backpacker scene.
 
-[Check availability on Booking.com](https://www.booking.com/searchresults.html?ss=Anime+Hostel+Astro+Station&aid=REPLACE_WITH_BOOKING_AFF_ID) | [View on Agoda](https://agoda.com/en/anime-hostel-astro-station)
+[Check availability on Booking.com](https://www.booking.com/searchresults.html?ss=Anime+Hostel+Astro+Station&utm_source=japan-pop-now&utm_medium=article&utm_campaign=anime-hotels-tokyo-2026) | [View on Agoda](https://agoda.com/en/anime-hostel-astro-station)
 
 ## 2. Manga Art Hotel Tokyo — Best for Manga Lovers
 
@@ -90,7 +90,7 @@ Manga Art Hotel is what happens when you put a manga library designer in charge 
 
 **Verdict:** Perfect if you want to stay in the actual manga hub and appreciate indie design. Weird if you just want a normal hotel that happens to have anime posters.
 
-[Check availability on Booking.com](https://www.booking.com/searchresults.html?ss=Manga+Art+Hotel+Tokyo&aid=REPLACE_WITH_BOOKING_AFF_ID) | [View on Agoda](https://agoda.com/en/manga-art-hotel-tokyo)
+[Check availability on Booking.com](https://www.booking.com/searchresults.html?ss=Manga+Art+Hotel+Tokyo&utm_source=japan-pop-now&utm_medium=article&utm_campaign=anime-hotels-tokyo-2026) | [View on Agoda](https://agoda.com/en/manga-art-hotel-tokyo)
 
 ## 3. Hotel Tavinos Asakusa — Best Mid-Range Value
 **Price:** ¥8,000–12,000/night (~$56–84)
@@ -119,7 +119,7 @@ Hotel Tavinos is the Goldilocks option. Not a hostel, not expensive, but a prope
 
 **Verdict:** Best actual hotel experience for the price. You’re paying for a good bed and a hot bath, not Instagram aesthetic. This is what I recommend to friends visiting for their first time.
 
-[Check availability on Booking.com](https://www.booking.com/searchresults.html?ss=Hotel+Tavinos+Asakusa&aid=REPLACE_WITH_BOOKING_AFF_ID) | [View on Agoda](https://agoda.com/en/hotel-tavinos-asakusa)
+[Check availability on Booking.com](https://www.booking.com/searchresults.html?ss=Hotel+Tavinos+Asakusa&utm_source=japan-pop-now&utm_medium=article&utm_campaign=anime-hotels-tokyo-2026) | [View on Agoda](https://agoda.com/en/hotel-tavinos-asakusa)
 
 ## 4. Hotel Gracery Shinjuku — Best for Photo Ops
 
@@ -152,7 +152,7 @@ Hotel Gracery Shinjuku is famous for one reason: a giant Godzilla head sits on i
 
 **Verdict:** Book it for the photo. It’s a good hotel—solid bed, clean bathrooms, good location—but you’re paying for the name. You’ll see 100 TikToks of that Godzilla head before your trip.
 
-[Check availability on Booking.com](https://www.booking.com/searchresults.html?ss=Hotel+Gracery+Shinjuku&aid=REPLACE_WITH_BOOKING_AFF_ID) | [View on Agoda](https://agoda.com/en/hotel-gracery-shinjuku)
+[Check availability on Booking.com](https://www.booking.com/searchresults.html?ss=Hotel+Gracery+Shinjuku&utm_source=japan-pop-now&utm_medium=article&utm_campaign=anime-hotels-tokyo-2026) | [View on Agoda](https://agoda.com/en/hotel-gracery-shinjuku)
 
 ## 5. Sunshine City Prince Hotel IKEPRI25 — Best Official Anime Collab
 **Price:** ¥15,000–28,000/night (~$105–196)
@@ -181,7 +181,7 @@ The Sunshine City Prince Hotel partnered with several anime studios to create IK
 
 **Verdict:** This is a splurge. Go if you’re visiting Japan specifically to see anime tourism at its best and don’t mind paying premium prices for the experience. It’s a legitimate 4-star hotel with anime as the frosting, not the cake.
 
-[Check availability on Booking.com](https://www.booking.com/searchresults.html?ss=Sunshine+City+Prince+Hotel&aid=REPLACE_WITH_BOOKING_AFF_ID) | [View on Agoda](https://agoda.com/en/sunshine-city-prince-hotel)
+[Check availability on Booking.com](https://www.booking.com/searchresults.html?ss=Sunshine+City+Prince+Hotel&utm_source=japan-pop-now&utm_medium=article&utm_campaign=anime-hotels-tokyo-2026) | [View on Agoda](https://agoda.com/en/sunshine-city-prince-hotel)
 
 ## Neighborhood Guide: Which Anime District Should You Stay In?
 
