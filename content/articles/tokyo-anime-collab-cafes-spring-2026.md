@@ -285,6 +285,10 @@ For Gratte stands (no-reservation option): ¥700–900 per drink, with a collect
 Planning a full Tokyo itinerary? GetYourGuide and Klook both offer discounted bundles for anime fans, covering tours, transport passes, and attraction tickets.
 
 [Explore Tokyo Anime Activities](https://www.getyourguide.com/tokyo-l193/?q=anime&partner_id=R70ISH9)
+
+![Anime fans browsing limited edition merchandise at a Tokyo collab cafe checkout counter](/images/articles/tokyo-anime-collab-cafes-spring-2026/body5.jpg)
+*Limited-edition merch often sells out by mid-afternoon — arrive at the early time slot if goods matter.*
+
 ## This Guide Is Updated Weekly
 New anime collab cafes are announced constantly in Tokyo — sometimes with as little as two weeks’ notice before opening. We update this page every week with the latest openings, closings, and reservation information.
 

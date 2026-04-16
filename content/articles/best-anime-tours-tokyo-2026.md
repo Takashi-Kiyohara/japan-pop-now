@@ -106,6 +106,9 @@ Take a tour only if: you have 3 hours or less, you want context about otaku cult
 
 A guided walking tour group in Tokyo — local guides add context that self-guided tours miss
 
+![Small tour group walking through Akihabara Electric Town at dusk](/images/articles/best-anime-tours-tokyo-2026/body3.jpg)
+*A typical Akihabara walking tour group — 6-12 people is the sweet spot for shop access.*
+
 ## Best Anime Pilgrimage Tours
 Pilgrimage tours are different. You’re not shopping—you’re visiting real-world locations used in anime production. This is where tours actually earn their value, because these locations are scattered across Tokyo and sometimes require local knowledge to find.
 
@@ -177,6 +180,9 @@ This works if you’re anime-curious rather than anime-focused, or if you’re b
 **Cons:** Shallow experience. Rushed between locations. Less time for actual contemplation at each site. If you have a favorite anime, you’ll wish for more detail about it.
 
 **Book on:** [Klook](https://www.klook.com), [Viator](https://www.viator.com), or [GetYourGuide](https://www.getyourguide.com)
+
+![Tour guide pointing out a pilgrimage location to visitors in Tokyo](/images/articles/best-anime-tours-tokyo-2026/body4.jpg)
+*Pilgrimage tours add context that Google Maps can't — the real-world filming locations explained by locals.*
 
 ## Best Otaku Culture + Food Tours
 These are newer offerings, and honestly, they’re where the real value sits right now. Anime tourism is increasingly paired with food experiences, which makes sense because Tokyo’s food culture is inseparable from pop culture neighborhoods.
@@ -271,6 +277,9 @@ You show up, try on costumes, work with a photographer and stylist who understan
 **Cons:** High cost relative to tour length. Costumes are rental-quality, not the same as owning cosplay. If you’re not interested in cosplay specifically, this has no appeal. Studio is located in Harajuku, so getting there adds travel time. Weather affects photo quality (this was indoors, but some studios use exterior locations).
 
 **Book directly:** [Tokyo Cosplay Studio](https://www.tokyocosplaystudio.jp)
+
+![Hands-on cosplay or manga workshop in a Tokyo studio with instructor and participants](/images/articles/best-anime-tours-tokyo-2026/body5.jpg)
+*Workshop experiences usually cap at 4-8 participants — book at least 2 weeks ahead in peak season.*
 
 ## DIY vs Guided: When Is a Tour Actually Worth It?
 Here’s the honest assessment: you do not need a tour to experience anime in Tokyo. But certain conditions make tours valuable rather than just convenient.

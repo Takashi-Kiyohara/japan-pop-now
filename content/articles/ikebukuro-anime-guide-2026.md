@@ -73,6 +73,9 @@ Otome Road is a stretch of shops along the west side of Sunshine 60-dori that ca
 ### Why Otome Road Matters for All Anime Fans
 Even if BL and otome aren’t your thing, Otome Road is culturally significant. It represents the female side of otaku culture that’s often overlooked in English-language guides. The energy and enthusiasm here rival Akihabara, and the fan-driven economy (doujinshi, fan goods, character cafes) gives you a fuller picture of how anime fandom works in Japan.
 
+![Sunshine City mall interior with anime pop-up shops and event signage in Ikebukuro](/images/articles/ikebukuro-anime-guide-2026/body3.jpg)
+*Sunshine City's event floors rotate monthly — check the Sunshine City X account before you visit.*
+
 ## Sunshine City: Events, Exhibitions & Shopping
 **Sunshine City** is a massive commercial complex connected to Ikebukuro Station’s east side. For anime fans, it’s relevant in several ways:
 

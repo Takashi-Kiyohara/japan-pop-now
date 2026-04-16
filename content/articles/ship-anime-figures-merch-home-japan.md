@@ -84,6 +84,9 @@ The real advantage of store shipping becomes apparent when you’re buying multi
 
 The disadvantage: You’re usually paying more per kilogram than Japan Post SAL, and there’s a transaction delay (they ship from warehouses, not immediately). But the convenience often justifies it, especially for expensive or hard-to-find pieces.
 
+![Japan Post shipping boxes stacked at a convenience store counter](/images/articles/ship-anime-figures-merch-home-japan/body3.jpg)
+*Japan Post EMS boxes at a Lawson counter — the workhorse option for figure shipping under 20 kg.*
+
 ## Option 4: Proxy Shipping Services (Buyee, ZenMarket, Tenso)
 Proxy services are intermediaries. You find an item on a Japanese auction site or retailer that won’t ship internationally. The proxy service buys it for you, holds it in their warehouse, then ships it to your home address. This opens up Japanese Yahoo Auctions, Mercari, and countless small retailers.
 
@@ -130,6 +133,9 @@ What happens if your package does get flagged? Customs opens it, inspects conten
 **Insurance considerations:** Japan Post includes basic insurance (6,000-20,000 yen depending on service). It covers loss or theft, not damage from rough handling. If something arrives dented or broken, Japan Post’s standard insurance might not pay out. Additional insurance costs 50 yen per 1,000 yen of value. If you’re shipping a 20,000 yen collectible figure, pay the extra 1,000 yen for full insurance. For a 3,000 yen standard figure, the base coverage is probably fine.
 
 Protecting your figure collection during transit requires careful packing
+
+![Anime figure being wrapped in bubble wrap and placed in a padded shipping box](/images/articles/ship-anime-figures-merch-home-japan/body4.jpg)
+*Double-box anything over ¥10,000 in value — inner box for the figure, outer box with cushioning.*
 
 ## How to Pack Figures So They Don’t Break
 This is where care saves money. A carelessly packed figure arrives as plastic shrapnel. A properly packed figure arrives pristine.
