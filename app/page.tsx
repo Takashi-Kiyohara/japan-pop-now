@@ -1,6 +1,5 @@
 ﻿import { getAllArticles, CATEGORIES } from '@/lib/articles';
 import ArticleCard from '@/components/ArticleCard';
-import ArticleCardV2 from '@/components/ArticleCardV2';
 import CategoryStrip from '@/components/CategoryStrip';
 import AdUnit from '@/components/AdUnit';
 import AffiliateCTA from '@/components/AffiliateCTA';
@@ -93,13 +92,13 @@ export default function Home() {
           <div className="flex flex-col sm:flex-row gap-3 justify-center">
             <Link
               href="/calendar?filter=active"
-              className="rounded-full px-8 py-4 font-semibold bg-white text-slate-900 hover:scale-105 transition-transform shadow-lg"
+              className="rounded-full px-8 py-3 font-semibold bg-white text-slate-900 hover:scale-105 transition-transform shadow-lg"
             >
               See Today&apos;s Cafes
             </Link>
             <Link
               href="/category/experiences"
-              className="rounded-full px-8 py-4 font-semibold bg-white/10 text-white border-2 border-white hover:bg-white hover:text-slate-900 transition-all"
+              className="rounded-full px-8 py-3 font-semibold bg-white/10 text-white border-2 border-white hover:bg-white hover:text-slate-900 transition-all"
             >
               Browse by IP
             </Link>
@@ -229,9 +228,9 @@ export default function Home() {
           {/* Main Articles Grid */}
           <div className="lg:col-span-2">
             <SectionHeader title="Latest Articles" viewAllHref="/articles" linkText="Browse all articles" />
-            <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-5">
               {latestArticles.map((article) => (
-                <ArticleCardV2 key={article.slug} article={article} />
+                <ArticleCard key={article.slug} article={article} size="md" />
               ))}
             </div>
           </div>

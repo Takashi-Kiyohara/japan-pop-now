@@ -33,11 +33,6 @@
   --color-teal-600: #0d9488;
   --color-accent-teal: #0d9488;
 
-  /* Brand 3-color palette (homepage refactor 2026-04-16) */
-  --color-brand-orange: #f97316;
-  --color-brand-teal:   #14b8a6;
-  --color-brand-cream:  #fef3e2;
-
   /* Spacing: 8px base grid (8, 16, 24, 32, 40, 48, 56, 64) */
   --radius-card: 16px;
   --shadow-hover: 0 12px 24px rgba(0,0,0,0.08);

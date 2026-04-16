@@ -82,7 +82,7 @@ export default function BentoGrid() {
               {activeNow.length} cafes
             </span>
           </div>
-          <ul className="flex-1 grid grid-cols-1 sm:grid-cols-2 gap-2">
+          <ul className="flex-1 grid grid-cols-1 sm:grid-cols-2 gap-3">
             {activeNow.map((e) => {
               const href = e.articleSlug
                 ? `/articles/${e.articleSlug}`
@@ -97,7 +97,7 @@ export default function BentoGrid() {
                   <Link
                     href={href}
                     {...linkProps}
-                    className="flex gap-2 rounded-xl bg-white border border-orange-100 p-3 hover:border-orange-400 hover:shadow transition"
+                    className="flex gap-3 rounded-xl bg-white border border-orange-100 p-3 hover:border-orange-400 hover:shadow transition"
                   >
                     <div
                       className={`w-12 h-12 rounded-lg flex items-center justify-center text-[0.65rem] font-bold text-center px-1 leading-tight shrink-0 ${v.gradient} ${v.textColor}`}
@@ -151,7 +151,7 @@ export default function BentoGrid() {
                   <Link
                     href={href}
                     {...linkProps}
-                    className="flex gap-2 items-start rounded-lg bg-white border border-teal-100 p-2 hover:border-teal-400 hover:shadow-sm transition"
+                    className="flex gap-3 items-start rounded-lg bg-white border border-teal-100 p-2 hover:border-teal-400 hover:shadow-sm transition"
                   >
                     <span className="rounded-md bg-teal-600 text-white text-[0.6rem] font-bold px-2 py-1 uppercase tracking-wider shrink-0">
                       {dow}
@@ -188,12 +188,12 @@ export default function BentoGrid() {
           >
             Popular This Month
           </h2>
-          <ul className="flex-1 flex flex-col gap-2">
+          <ul className="flex-1 flex flex-col gap-3">
             {popularData.articles.map((a) => (
               <li key={a.slug}>
                 <Link
                   href={`/articles/${a.slug}`}
-                  className="flex gap-2 rounded-lg bg-white border border-amber-100 p-2 hover:border-amber-400 hover:shadow-sm transition"
+                  className="flex gap-3 rounded-lg bg-white border border-amber-100 p-2 hover:border-amber-400 hover:shadow-sm transition"
                 >
                   <div className="relative w-16 h-16 rounded-md overflow-hidden shrink-0 bg-amber-100">
                     <Image
