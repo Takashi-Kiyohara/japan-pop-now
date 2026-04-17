@@ -6,16 +6,29 @@ import AdUnit from '@/components/AdUnit';
 import AffiliateCTA from '@/components/AffiliateCTA';
 import SpotlightSection from '@/components/SpotlightSection';
 import Link from 'next/link';
+import type { ReactNode } from 'react';
+import { Coffee, MapPin, Map, Sparkles, Compass } from 'lucide-react';
+import type { LucideIcon } from 'lucide-react';
 import spotlightData from '@/content/spotlight.json';
+
+const CATEGORY_ICON_MAP: Record<string, LucideIcon> = {
+  Coffee,
+  MapPin,
+  Map,
+  Sparkles,
+  Compass,
+};
 
 export const revalidate = 3600;
 
 function SectionHeader({
   title,
+  icon,
   viewAllHref,
   linkText,
 }: {
   title: string;
+  icon?: ReactNode;
   viewAllHref?: string;
   linkText?: string;
 }) {
@@ -25,6 +38,9 @@ function SectionHeader({
         <div style={{ width: '4px', height: '28px', background: '#f97316', borderRadius: '2px', flexShrink: 0 }} />
         <h2
           style={{
+            display: 'inline-flex',
+            alignItems: 'center',
+            gap: '10px',
             fontFamily: 'var(--font-display), "Playfair Display", Georgia, serif',
             fontSize: '1.6rem',
             fontWeight: 700,
@@ -32,6 +48,7 @@ function SectionHeader({
             lineHeight: 1.2,
           }}
         >
+          {icon}
           {title}
         </h2>
       </div>
@@ -286,6 +303,8 @@ export default function Home() {
           .slice(0, 4);
         if (catArticles.length < 2) return null;
 
+        const CategoryIcon = CATEGORY_ICON_MAP[category.lucideIcon];
+
         return (
           <section
             key={category.slug}
@@ -293,7 +312,8 @@ export default function Home() {
           >
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-12">
               <SectionHeader
-                title={`${category.icon} ${category.label}`}
+                title={category.label}
+                icon={CategoryIcon ? <CategoryIcon size={22} strokeWidth={2} aria-hidden="true" color={category.color} /> : undefined}
                 viewAllHref={`/category/${category.slug}`}
                 linkText={`See all ${category.label}`}
               />

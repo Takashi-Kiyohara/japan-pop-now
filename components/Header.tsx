@@ -3,12 +3,20 @@
 import { usePathname } from 'next/navigation';
 import Link from 'next/link';
 import { useState, useEffect } from 'react';
-import { Search as SearchIcon } from 'lucide-react';
+import { CalendarDays, Search as SearchIcon } from 'lucide-react';
+import type { LucideIcon } from 'lucide-react';
 import Search from './Search';
 import ThemeToggle from './ThemeToggle';
 
-const NAV_LINKS = [
-  { href: '/calendar', label: '📅 Calendar', highlight: true },
+type NavLink = {
+  href: string;
+  label: string;
+  highlight?: boolean;
+  Icon?: LucideIcon;
+};
+
+const NAV_LINKS: NavLink[] = [
+  { href: '/calendar', label: 'Calendar', highlight: true, Icon: CalendarDays },
   { href: '/category/collab-cafes', label: 'Collab Cafes' },
   { href: '/category/anime-pilgrimage', label: 'Pilgrimage' },
   { href: '/category/experiences', label: 'Experiences' },
@@ -102,12 +110,15 @@ export default function Header() {
                 key={link.href}
                 href={link.href}
                 style={{
+                  display: 'inline-flex',
+                  alignItems: 'center',
+                  gap: '6px',
                   fontSize: '0.825rem',
                   fontWeight: 600,
                   padding: '6px 14px',
                   borderRadius: '9999px',
-                  color: isActive(link.href) ? '#ea580c' : (link as { highlight?: boolean }).highlight ? '#0369a1' : '#44403c',
-                  background: isActive(link.href) ? '#fff7ed' : (link as { highlight?: boolean }).highlight ? '#e0f2fe' : 'transparent',
+                  color: isActive(link.href) ? '#ea580c' : link.highlight ? '#0369a1' : '#44403c',
+                  background: isActive(link.href) ? '#fff7ed' : link.highlight ? '#e0f2fe' : 'transparent',
                   transition: 'all 0.15s ease',
                   letterSpacing: '0.01em',
                 }}
@@ -119,12 +130,12 @@ export default function Header() {
                 }}
                 onMouseLeave={(e) => {
                   if (!isActive(link.href)) {
-                    const hl = (link as { highlight?: boolean }).highlight;
-                    (e.currentTarget as HTMLElement).style.background = hl ? '#e0f2fe' : 'transparent';
+                    (e.currentTarget as HTMLElement).style.background = link.highlight ? '#e0f2fe' : 'transparent';
                     (e.currentTarget as HTMLElement).style.color = '#44403c';
                   }
                 }}
               >
+                {link.Icon && <link.Icon size={14} strokeWidth={2} aria-hidden="true" />}
                 {link.label}
               </Link>
             ))}
@@ -178,14 +189,16 @@ export default function Header() {
             style={{ borderTop: '1px solid #e7e5e4' }}
           >
             {NAV_LINKS.map((link) => {
-              const hl = (link as { highlight?: boolean }).highlight;
+              const hl = link.highlight;
               return (
                 <Link
                   key={link.href}
                   href={link.href}
                   onClick={() => setMobileOpen(false)}
                   style={{
-                    display: 'block',
+                    display: 'flex',
+                    alignItems: 'center',
+                    gap: '8px',
                     padding: '10px 8px',
                     fontSize: '0.9rem',
                     fontWeight: 600,
@@ -194,6 +207,7 @@ export default function Header() {
                     background: hl && !isActive(link.href) ? '#f0f9ff' : 'transparent',
                   }}
                 >
+                  {link.Icon && <link.Icon size={16} strokeWidth={2} aria-hidden="true" />}
                   {link.label}
                 </Link>
               );
