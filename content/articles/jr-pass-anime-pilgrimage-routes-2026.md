@@ -1,6 +1,6 @@
 ---
 title: "JR Pass for Anime Pilgrimages: Is It Worth It? Routes, Calculator & 2026 Prices"
-description: "Last updated: April 2026. Disclosure: This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you...."
+description: "Is the JR Pass worth it for anime pilgrimages? 2026 prices, 4 route calculators (Your Name, Demon Slayer, One Piece, Anohana), when it saves money."
 date: "2026-04-02"
 lastUpdated: "2026-04-02"
 category: "anime-pilgrimage"
@@ -8,7 +8,7 @@ tags: []
 featuredImage: "/images/articles/jr-pass-anime-pilgrimage-routes-2026/featured.jpg"
 featuredImageAlt: "Enoden train at Kamakura seaside crossing on anime pilgrimage route"
 author: "Takapon"
-excerpt: "Last updated: April 2026. Disclosure: This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you...."
+excerpt: "Is the JR Pass worth it for hitting multiple anime locations? Sometimes yes, sometimes not. I have blown money on a pass where IC cards would have saved ¥15,000, and I have watched it pay for itself three times over on Tokyo-Kyoto-Osaka. Here are four specific pilgrimage routes with exact math."
 relatedSlugs: []
 wpPostId: 538
 ---

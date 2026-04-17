@@ -1,6 +1,6 @@
 ---
 title: "Osaka Anime & Collab Cafes 2026: Den Den Town, Namba & Beyond"
-description: "Last updated: April 2026. Disclosure: This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you...."
+description: "Osaka anime 2026: 8-12 collab cafes, Capcom Cafe Umeda, Chugai Grace, Den Den Town shopping, USJ attractions — Tokyo vs Osaka for anime fans."
 date: "2026-04-05"
 lastUpdated: "2026-04-05"
 category: "collab-cafes"
@@ -8,7 +8,7 @@ tags: []
 featuredImage: "/images/articles/osaka-anime-collab-cafes-pop-culture-2026/featured.jpg"
 featuredImageAlt: "Dotonbori neon signs in Osaka for anime and pop culture district"
 author: "Takapon"
-excerpt: "Last updated: April 2026. Disclosure: This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you...."
+excerpt: "Osaka runs 8-12 anime collab cafes at any given time across Namba, Umeda, and Tennoji — plus permanent spots like Capcom Cafe Umeda and rotating collaborations. Add Den Den Town's kilometer of otaku shops and USJ's anime attractions, and there's a serious argument for making Osaka your anime trip's base."
 relatedSlugs: []
 wpPostId: 755
 ---

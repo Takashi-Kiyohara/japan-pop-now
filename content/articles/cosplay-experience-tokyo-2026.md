@@ -1,6 +1,6 @@
 ---
 title: "Cosplay Experience Tokyo 2026: Rental Studios, Photo Spots & Events"
-description: "Rent a full Tokyo cosplay outfit for ¥3,000-12,000 — wig, accessories, studio time, and English staff. Akihabara and Ikebukuro studios compared, with Comiket rules."
+description: "Rent a Tokyo cosplay outfit ¥3,000-12,000 — wig, accessories, studio time, English staff. Akihabara + Ikebukuro studios compared, plus Comiket rules."
 date: "2026-04-05"
 lastUpdated: "2026-04-05"
 category: "experiences"

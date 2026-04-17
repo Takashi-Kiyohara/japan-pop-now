@@ -1,6 +1,6 @@
 ---
 title: "Japan Rail Pass 2026: Worth ¥50,000? Calculator Inside"
-description: "Last updated: April 2026 Affiliate Disclosure: Some links in this article are affiliate links. We earn a small commission at no extra cost to you — it helps..."
+description: "Japan Rail Pass 2026 ¥50,000 for 7 days — when it saves money, when regional passes win. Math + routes for first-timers after the 70% price hike."
 date: "2026-04-03"
 lastUpdated: "2026-04-03"
 category: "travel-tips"
@@ -8,7 +8,7 @@ tags: []
 featuredImage: "/images/articles/japan-rail-pass-2026-guide/featured.jpg"
 featuredImageAlt: "Shinkansen bullet train speeding through Japanese countryside"
 author: "Takapon"
-excerpt: "Last updated: April 2026 Affiliate Disclosure: Some links in this article are affiliate links. We earn a small commission at no extra cost to you — it helps..."
+excerpt: "The JR Pass costs ¥50,000 for 7 days in 2026 — up from ¥29,650 in 2022. After JR East's 70% price hike in October 2023, the math changed completely. This guide breaks down exactly when it still saves money, when regional passes win, and how to calculate your own trip before you buy."
 relatedSlugs: []
 wpPostId: 613
 ---

@@ -1,6 +1,6 @@
 ﻿---
 title: "Best Anime Hotels Tokyo 2026: Manga Rooms from ¥3,000/Night"
-description: "Last updated: April 2026 Affiliate Disclosure: Some links in this article are affiliate links. We earn a small commission at no extra cost to you — it helps..."
+description: "6 anime-themed Tokyo hotels from ¥3,000/night compared. Manga Art Hotel, Hotel Gracery Godzilla, Tavinos Asakusa, Sunshine City Prince — honest reviews."
 date: "2026-04-03"
 lastUpdated: "2026-04-03"
 category: "travel-tips"
@@ -9,7 +9,7 @@ featuredImage: "/images/articles/anime-hotels-tokyo-2026/featured.jpg"
 featuredImageAlt: "Pokémon themed hotel room with Snorlax plush on bed at MIMARU Tokyo"
 imageCredit: "Photo: © JNTO"
 author: "Takapon"
-excerpt: "Last updated: April 2026 Affiliate Disclosure: Some links in this article are affiliate links. We earn a small commission at no extra cost to you — it helps..."
+excerpt: "Tokyo has a wild secret: you can stay in a room dedicated to anime and manga without paying luxury prices. I've tested six anime-themed hotels across the city — from manga-filled sleep pods in Jimbocho to full Godzilla suites in Shinjuku — and here is the honest breakdown."
 relatedSlugs: []
 wpPostId: 609
 ---

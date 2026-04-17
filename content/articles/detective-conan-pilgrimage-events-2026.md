@@ -1,6 +1,6 @@
 ---
 title: "Detective Conan Pilgrimage & Events 2026: 30th Anniversary Guide"
-description: "Last updated: April 2026. Disclosure: This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you...."
+description: "Detective Conan 2026: 12-city exhibition, 29th movie Yokohama tie-ins, annual cafe, USJ Conan World, and pilgrimage spots in Tottori and Osaka."
 date: "2026-04-04"
 lastUpdated: "2026-04-04"
 category: "anime-pilgrimage"
@@ -8,7 +8,7 @@ tags: []
 featuredImage: "/images/articles/detective-conan-pilgrimage-events-2026/featured.jpg"
 featuredImageAlt: "Entrance to Gosho Aoyama Manga Factory museum for Detective Conan fans"
 author: "Takapon"
-excerpt: "Last updated: April 2026. Disclosure: This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you...."
+excerpt: "Detective Conan is running more events in 2026 than any other anime IP in Japan. The 30th anniversary exhibition tours 12 cities, the 29th movie opens April 10, Conan Cafe serves 6 cities, Sunshine City hosts the 8th Conan collab, and USJ's Detective Conan World runs through June 30."
 relatedSlugs: []
 wpPostId: 753
 ---

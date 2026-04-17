@@ -1,6 +1,6 @@
 ---
 title: "PokéPark Kanto Complete Guide 2026: Tickets, Areas & Tips"
-description: "Last updated: April 2026. Disclosure: This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you...."
+description: "PokéPark Kanto (Yomiuriland): tickets from ¥4,700, advance-only reservations, 3 zones, Pokémon Forest with 600+ species, why 5 hours isn't enough."
 date: "2026-04-05"
 lastUpdated: "2026-04-05"
 category: "experiences"
@@ -8,7 +8,7 @@ tags: []
 featuredImage: "/images/articles/pokepark-kanto-tokyo-2026/featured.jpg"
 featuredImageAlt: "PokePark Kanto attraction in Tokyo"
 author: "Takapon"
-excerpt: "Last updated: April 2026. Disclosure: This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you...."
+excerpt: "PokéPark Kanto opened February 5, 2026 inside Yomiuriland — the world's first permanent outdoor Pokémon theme park. Dynamic-pricing tickets from ¥4,700 to ¥14,000+, advance-only reservations, and three zones across 2.6 hectares. Visitors who spend 5 hours still miss parts of Pokémon Forest."
 relatedSlugs: []
 wpPostId: 780
 ---
