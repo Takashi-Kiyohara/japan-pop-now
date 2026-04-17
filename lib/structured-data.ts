@@ -1,4 +1,5 @@
 import { Article } from './articles'
+import { AUTHOR, AUTHOR_SAME_AS } from './author'
 import { getSiteUrl } from './url'
 
 const SITE_URL = getSiteUrl()
@@ -188,41 +189,26 @@ export function getTouristAttractionSchema(
 }
 
 /**
- * Generate Author schema for editorial team
+ * Generate Author schema for the site's editorial voice.
+ * Driven by lib/author.ts (single source of truth). Overrides exist for tests
+ * and the rare authored-by-guest case; default path uses the SSoT.
  */
 export function getAuthorSchema(
-  name: string = 'Takapon',
+  name: string = AUTHOR.name,
   url?: string,
   image?: string
 ) {
-  const schema: Record<string, unknown> = {
+  return {
     '@context': 'https://schema.org',
     '@type': 'Person',
     name,
-    url: url || `${SITE_URL}/about`,
-    jobTitle: 'Founder & Editor',
-    sameAs: [
-      'https://twitter.com/japanpopnow',
-      'https://www.instagram.com/japan_pop_now/',
-      'https://youtube.com/@japanpopnow',
-    ],
+    url: url || `${SITE_URL}${AUTHOR.profilePath}`,
+    jobTitle: AUTHOR.jobTitle,
+    description: AUTHOR.bio,
+    image: image || `${SITE_URL}${AUTHOR.avatar}`,
+    sameAs: [...AUTHOR_SAME_AS],
+    knowsAbout: [...AUTHOR.knowsAbout],
   }
-
-  if (image) {
-    schema.image = image
-  }
-
-  // Add expertise topics
-  schema.knowsAbout = [
-    'Anime',
-    'Manga',
-    'Japanese Pop Culture',
-    'Travel in Japan',
-    'Tourism',
-    'Anime Locations',
-  ]
-
-  return schema
 }
 
 /**

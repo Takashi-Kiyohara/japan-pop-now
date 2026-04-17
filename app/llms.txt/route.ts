@@ -1,5 +1,6 @@
-﻿import { NextResponse } from 'next/server';
+import { NextResponse } from 'next/server';
 import { getAllArticles, getArticlesByFeature } from '@/lib/articles';
+import { AUTHOR } from '@/lib/author';
 import { CATEGORIES } from '@/lib/categories';
 import { FEATURES, getActiveFeatureSlugs } from '@/lib/features';
 
@@ -12,9 +13,9 @@ export async function GET() {
   const categoryDescriptions: Record<string, string> = {
     'collab-cafes': 'How to book, menus, current schedules for anime collaboration cafes across Japan. Updated monthly.',
     'experiences': 'Single-spot anime experiences — theme parks, pop-ups, DIY workshops, exhibitions. PokéPark, LuvLab, Ghibli Park, Blue Lock Skytree, Universal Cool Japan.',
-    'anime-pilgrimage': 'Real-life filming/inspiration locations from popular anime  ESlam Dunk, Your Name, Jujutsu Kaisen, and 20+ series.',
-    'area-guides': 'Neighborhood-level guides for anime fans  EAkihabara, Ikebukuro, Nakano Broadway, Den Den Town, and hidden spots.',
-    'travel-tips': 'Practical guides  EJapan Rail Pass, eSIM, luggage forwarding, airport transfers, budget tips.',
+    'anime-pilgrimage': 'Real-life filming/inspiration locations from popular anime — Slam Dunk, Your Name, Jujutsu Kaisen, and 20+ series.',
+    'area-guides': 'Neighborhood-level guides for anime fans — Akihabara, Ikebukuro, Nakano Broadway, Den Den Town, and hidden spots.',
+    'travel-tips': 'Practical guides — Japan Rail Pass, eSIM, luggage forwarding, airport transfers, budget tips.',
   };
 
   // Build category article lists
@@ -28,20 +29,21 @@ export async function GET() {
 
   // Build FAQ section from top articles
   const faqItems = [
-    'How do I book an anime collab cafe in Japan? ↁESee our Collab Cafe Booking Guide',
-    'What are the best anime pilgrimage spots in Tokyo? ↁESee Tokyo Anime Pilgrimage Guide',
-    'Is the Japan Rail Pass worth it? ↁESee our JR Pass Complete Guide',
-    'Where to buy anime merchandise in Akihabara? ↁESee Akihabara Shopping Guide',
-    'What anime collaboration cafes are open this month? ↁESee our Collab Cafe Calendar',
+    'How do I book an anime collab cafe in Japan? → See our Collab Cafe Booking Guide',
+    'What are the best anime pilgrimage spots in Tokyo? → See Tokyo Anime Pilgrimage Guide',
+    'Is the Japan Rail Pass worth it? → See our JR Pass Complete Guide',
+    'Where to buy anime merchandise in Akihabara? → See Akihabara Shopping Guide',
+    'What anime collaboration cafes are open this month? → See our Collab Cafe Calendar',
   ];
 
   const content = `# Japan Pop Now
-> Your ultimate English-language guide to Japan's anime and pop culture scene  Ecollab cafes, pilgrimage spots, area guides, and travel tips for international visitors.
+> Your ultimate English-language guide to Japan's anime and pop culture scene — collab cafes, pilgrimage spots, area guides, and travel tips for international visitors.
 
 ## About
 Japan Pop Now is a specialized travel-culture media site for international anime fans visiting Japan. We cover everything from booking anime collaboration cafes to finding real-life anime locations, navigating otaku districts, and practical travel logistics.
 
-- Author: Takapon  EKyoto-born and Tokyo-based, ex-US strategy consulting, now completing a graduate degree in International Relations in the UK
+- Author: ${AUTHOR.name} — ${AUTHOR.locationLine}
+- Profile: https://www.japan-pop-now.com${AUTHOR.profilePath}
 - Language: English (primary), covering all of Japan
 - Last updated: ${now}
 
@@ -72,7 +74,7 @@ ${faqItems.map((f) => `- ${f}`).join('\n')}
 ${FEATURES.filter((f) => getActiveFeatureSlugs().includes(f.slug))
   .map(
     (f) =>
-      `- ${f.title}: https://www.japan-pop-now.com/features/${f.slug}  E${f.description} (${getArticlesByFeature(f.slug).length} articles)`
+      `- ${f.title}: https://www.japan-pop-now.com/features/${f.slug} — ${f.description} (${getArticlesByFeature(f.slug).length} articles)`
   )
   .join('\n')}
 

@@ -1,5 +1,6 @@
 ﻿import { Metadata } from 'next';
 import { getAllArticles } from '@/lib/articles';
+import { AUTHOR } from '@/lib/author';
 import { getAuthorSchema } from '@/lib/structured-data';
 import ArticleCard from '@/components/ArticleCard';
 
@@ -14,14 +15,11 @@ export const metadata: Metadata = {
 
 const TEAM = [
   {
-    name: 'Takashi Kiyohara',
-    role: 'Founder & Editor-in-Chief',
-    bio: 'Born and raised in Japan, Takashi bridges the gap between Japanese pop culture and international fans. With a background in strategy consulting and a deep love for anime, he created Japan Pop Now to be the resource he wished existed when introducing friends to Japan\'s otaku culture. He personally visits every cafe and location featured on the site.',
-    expertise: ['Anime Collab Cafes', 'Tokyo Pop Culture Districts', 'Content Strategy', 'SEO'],
-    socials: {
-      twitter: 'https://twitter.com/japanpopnow',
-      instagram: 'https://instagram.com/japanpopnow',
-    },
+    name: AUTHOR.name,
+    role: AUTHOR.jobTitle,
+    bio: AUTHOR.bio,
+    expertise: AUTHOR.expertise,
+    socials: AUTHOR.socials,
   },
 ];
 
@@ -35,7 +33,7 @@ export default function AboutPage() {
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{
-          __html: JSON.stringify(getAuthorSchema('Takashi Kiyohara')),
+          __html: JSON.stringify(getAuthorSchema()),
         }}
       />
 

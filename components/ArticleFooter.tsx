@@ -4,6 +4,7 @@ import { ArticleMeta } from '@/lib/articles';
 import { CATEGORIES } from '@/lib/categories';
 import ArticleCard from './ArticleCard';
 import AdUnit from './AdUnit';
+import AuthorBox from './AuthorBox';
 import ReadNext from './ReadNext';
 
 const CATEGORY_ICON_MAP: Record<string, LucideIcon> = {
@@ -20,7 +21,6 @@ function iconFor(lucideName?: string): LucideIcon {
 }
 
 interface ArticleFooterProps {
-  author: string;
   relatedArticles: ArticleMeta[];
   categoryArticles: ArticleMeta[];
   crossCategoryArticles: ArticleMeta[];
@@ -28,7 +28,6 @@ interface ArticleFooterProps {
 }
 
 export default function ArticleFooter({
-  author,
   relatedArticles,
   categoryArticles,
   category,
@@ -45,35 +44,8 @@ export default function ArticleFooter({
       />
 
       {/* ── Author Bio ── */}
-      <div
-        className="rounded-xl p-5 mb-10"
-        style={{ background: '#fff', border: '1px solid #e7e5e4' }}
-      >
-        <div className="flex items-center gap-4">
-          <a
-            href="/about"
-            className="flex-shrink-0 w-14 h-14 rounded-full flex items-center justify-center text-white text-xl font-bold"
-            style={{ background: 'linear-gradient(135deg, #f97316, #e63946)' }}
-          >
-            {author[0]}
-          </a>
-          <div>
-            <a
-              href="/about"
-              style={{
-                fontFamily: 'var(--font-display), "Playfair Display", Georgia, serif',
-                fontWeight: 700,
-                color: '#14213d',
-                fontSize: '1rem',
-              }}
-            >
-              {author}
-            </a>
-            <p style={{ color: '#78716c', fontSize: '0.85rem', lineHeight: 1.5, marginTop: '2px' }}>
-              Japan-based writer covering anime pop culture, collab cafes, and travel for international visitors.
-            </p>
-          </div>
-        </div>
+      <div className="mb-10">
+        <AuthorBox variant="full" />
       </div>
 
       {/* ── Ad — between author and circulation ── */}

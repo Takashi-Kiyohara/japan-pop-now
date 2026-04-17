@@ -21,6 +21,7 @@ import ReadingTime from '@/components/ReadingTime';
 import Breadcrumb from '@/components/Breadcrumb';
 import Sidebar from '@/components/Sidebar';
 import ArticleFooter from '@/components/ArticleFooter';
+import AuthorBox from '@/components/AuthorBox';
 import AffiliateDisclosure from '@/components/AffiliateDisclosure';
 import NewsletterSignup from '@/components/NewsletterSignup';
 import ShareButtons from '@/components/ShareButtons';
@@ -340,6 +341,11 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                 </div>
               </header>
 
+              {/* Author byline card */}
+              <div className="mb-6">
+                <AuthorBox variant="compact" />
+              </div>
+
               {/* Auto-injected affiliate disclosure (FTC / 消費者庁 compliant) */}
               {showAutoDisclosure && (
                 <div className="mb-6">
@@ -394,7 +400,6 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
 
               {/* Article Footer — circulation design */}
               <ArticleFooter
-                author={article.author}
                 relatedArticles={relatedArticles}
                 categoryArticles={categoryArticles}
                 crossCategoryArticles={[]}

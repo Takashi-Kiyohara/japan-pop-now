@@ -1,5 +1,6 @@
-﻿import { NextResponse } from 'next/server';
+import { NextResponse } from 'next/server';
 import { getAllArticles, getArticlesByFeature } from '@/lib/articles';
+import { AUTHOR } from '@/lib/author';
 import { CATEGORIES } from '@/lib/categories';
 import { FEATURES, getActiveFeatureSlugs } from '@/lib/features';
 
@@ -20,17 +21,11 @@ export async function GET() {
     else grouped.set(a.category, [a]);
   }
 
-  // Category labels
-  const catLabels: Record<string, string> = {};
-  for (const cat of CATEGORIES) {
-    catLabels[cat.slug] = cat.label;
-  }
-
   // Build category blocks with numbered articles
   const categoryBlocks = CATEGORIES.map((cat) => {
     const catArticles = grouped.get(cat.slug) || [];
     const lines = catArticles.map((a, i) => {
-      const desc = a.description ? `  E${a.description}` : '';
+      const desc = a.description ? ` — ${a.description}` : '';
       return `${i + 1}. ${a.title}${desc}\n   URL: https://www.japan-pop-now.com/articles/${a.slug}`;
     });
     return `### ${cat.label} (${catArticles.length} articles)\n${lines.join('\n')}`;
@@ -53,12 +48,13 @@ export async function GET() {
     'Merchandise shopping and shipping',
   ];
 
-  const content = `# Japan Pop Now  EComplete Content Index
+  const content = `# Japan Pop Now — Complete Content Index
 > Your ultimate guide to Japan's anime and pop culture scene for international visitors.
 
 ## About
 Japan Pop Now is an English-language media site covering anime collab cafes, pilgrimage spots, area guides, and travel tips for visitors to Japan.
-- Author: Takapon  EKyoto-born, Tokyo-based, UK-based graduate student in International Relations
+- Author: ${AUTHOR.name} — ${AUTHOR.locationLine}
+- Profile: https://www.japan-pop-now.com${AUTHOR.profilePath}
 - Total articles: ${articles.length}
 - Last generated: ${now}
 
