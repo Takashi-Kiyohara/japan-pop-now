@@ -21,6 +21,7 @@ import ReadingTime from '@/components/ReadingTime';
 import Breadcrumb from '@/components/Breadcrumb';
 import Sidebar from '@/components/Sidebar';
 import ArticleFooter from '@/components/ArticleFooter';
+import AffiliateDisclosure from '@/components/AffiliateDisclosure';
 import NewsletterSignup from '@/components/NewsletterSignup';
 import ShareButtons from '@/components/ShareButtons';
 import ScrollDepthTracker from '@/components/ScrollDepthTracker';
@@ -104,6 +105,17 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
   const headings = extractHeadings(article.content);
   const metrics = getContentMetrics(article.content);
   const faqs = extractQAFromHeadings(article.content);
+
+  // Auto-inject affiliate disclosure when the body contains any tracked
+  // affiliate domain, unless the author already placed one manually.
+  const hasAffiliateLink =
+    /klook\.com|booking\.com|agoda\.com|getyourguide\.com|viator\.com|amazon\.co\.jp|amzn\.to|affiliate\.klook\.com/i.test(
+      article.content
+    );
+  const hasManualDisclosure = /This article contains affiliate links/i.test(
+    article.content
+  );
+  const showAutoDisclosure = hasAffiliateLink && !hasManualDisclosure;
 
   // Build breadcrumbs with guide hub link if available
   const hubSlug = category?.hubSlug;
@@ -327,6 +339,13 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                   <BookmarkButton slug={slug} title={article.title} />
                 </div>
               </header>
+
+              {/* Auto-injected affiliate disclosure (FTC / 消費者庁 compliant) */}
+              {showAutoDisclosure && (
+                <div className="mb-6">
+                  <AffiliateDisclosure />
+                </div>
+              )}
 
               {/* Article Body — with auto-inserted ads + affiliate CTAs */}
               <div

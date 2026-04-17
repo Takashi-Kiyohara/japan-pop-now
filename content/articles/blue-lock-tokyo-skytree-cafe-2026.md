@@ -16,7 +16,6 @@ description: "Visit 3 Blue Lock events in Tokyo: Skytree collab (Apr 9-Jul 6), A
 
 <p><em>Last updated: April 2026.</em></p>
 
-<div className="jpn-tip"><strong>Disclosure:</strong> This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you.</div>
 
 ![Official BLUE LOCK EPISODE SKY promotional key visual for the Tokyo Skytree collaboration event](/images/articles/blue-lock-tokyo-skytree-cafe-2026/featured.jpg)
 *BLUE LOCK EPISODE SKY official key visual — Image: TOKYO SKYTREE / Kodansha*

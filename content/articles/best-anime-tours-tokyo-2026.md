@@ -1,6 +1,6 @@
 ---
 title: "Best Anime Tours in Tokyo 2026: Klook vs Viator vs Local Guides Compared"
-description: "Last updated: April 2026. Disclosure: This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you...."
+description: "Best Tokyo anime tours 2026: Klook vs Viator vs GetYourGuide. 6 tours tested — Akihabara, pilgrimage, food, workshops — prices and English-guide options."
 date: "2026-04-02"
 lastUpdated: "2026-04-02"
 category: "experiences"
@@ -9,14 +9,13 @@ featuredImage: "/images/articles/best-anime-tours-tokyo-2026/featured.jpg"
 featuredImageAlt: "Yokohama Cosmo World amusement park with giant Ferris wheel at night"
 imageCredit: "Photo: © JNTO"
 author: "Takapon"
-excerpt: "Last updated: April 2026. Disclosure: This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you...."
+excerpt: "I've booked six different anime tours across three platforms over 18 months. Not all anime tours are created equal — some are worth the premium, others you're better off skipping. Here is the honest comparison of Klook, Viator, GetYourGuide, and local operators with exact prices."
 relatedSlugs: []
 wpPostId: 539
 ---
 
 *Last updated: April 2026.*
 
-**Disclosure:** This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you.
 Best Anime Tours in Tokyo 2026: Klook vs Viator vs Local Guides Compared
 I’ve booked six different anime tours across three platforms over the past eighteen months, and I’ve learned something crucial: not all anime tours are created equal. Some are worth the premium price. Others? You’re better off wandering Akihabara on your own with a translation app.
 

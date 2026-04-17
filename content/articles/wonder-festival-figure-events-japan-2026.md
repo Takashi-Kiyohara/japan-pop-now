@@ -1,6 +1,6 @@
 ---
 title: "Wonder Festival & Figure Events Japan 2026: Tickets, Tips & Shipping"
-description: "Last updated: April 2026. Disclosure: This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you...."
+description: "Wonder Festival 2026 Summer (July 26, Makuhari Messe): ¥3,500 tickets, 2,000+ booths, buying strategies, plus Treasure Festa and Mega Hobby."
 date: "2026-04-05"
 lastUpdated: "2026-04-05"
 category: "experiences"
@@ -8,14 +8,13 @@ tags: []
 featuredImage: "/images/articles/wonder-festival-figure-events-japan-2026/featured.jpg"
 featuredImageAlt: "Makuhari Messe convention hall for Wonder Festival figure events"
 author: "Takapon"
-excerpt: "Last updated: April 2026. Disclosure: This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you...."
+excerpt: "Wonder Festival 2026 Summer takes place July 26 at Makuhari Messe — the world's largest figure and garage kit event with 2,000+ dealer booths. Tickets ¥3,500 in advance, 10:00-17:00 single-day event, popular items sell out by early afternoon. If you collect figures, this is the single best event in Japan."
 relatedSlugs: []
 wpPostId: 756
 ---
 
 *Last updated: April 2026.*
 
-**Disclosure:** This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you.
 Wonder Festival packs 2,000+ dealer tables into Makuhari Messe twice a year — the world’s largest figure and garage kit event. Photo: Japan Pop Now
 Wonder Festival 2026 Summer takes place July 26 at Makuhari Messe in Chiba — about 30 minutes by train from Tokyo Station. It’s the world’s largest figure and garage kit event, with 2,000+ dealer booths selling handmade resin figures, professional prototype reveals from major manufacturers, and one-of-a-kind custom pieces you can’t buy anywhere else. General admission tickets cost ¥3,500 in advance (¥4,000 at the door), and no pre-registration is needed beyond buying a ticket. The event runs 10:00-17:00 in a single day, and popular items sell out by early afternoon.
 

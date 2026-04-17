@@ -1,6 +1,6 @@
 ---
 title: "Japan Travel Insurance 2026: Best Plans Compared (from $45)"
-description: "Last updated: April 2026 Affiliate Disclosure: Some links in this article are affiliate links. We earn a small commission at no extra cost to you — it helps..."
+description: "Japan travel insurance 2026: what to buy, skip, real hospital costs without insurance (¥45,000 / 3hrs), and 4 policies anime fans should compare."
 date: "2026-04-03"
 lastUpdated: "2026-04-03"
 category: "travel-tips"
@@ -9,7 +9,7 @@ featuredImage: "/images/articles/japan-travel-insurance-2026/featured.jpg"
 featuredImageAlt: "Tokyo Station historic red-brick building illuminated at night"
 imageCredit: "Photo: © JNTO"
 author: "Takapon"
-excerpt: "Last updated: April 2026 Affiliate Disclosure: Some links in this article are affiliate links. We earn a small commission at no extra cost to you — it helps..."
+excerpt: "You are in Tokyo, 3 AM, something hurts. The bill for three hours and some antibiotics is ¥45,000 without insurance. Japan's healthcare is excellent but expensive for tourists — I have talked to travelers who skipped insurance and ended up paying more for medical than their airfare."
 relatedSlugs: []
 wpPostId: 611
 ---

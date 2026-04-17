@@ -1,6 +1,6 @@
 ---
 title: "Japan Trip Checklist for Anime Fans: Everything to Book Before You Go (2026)"
-description: "Last updated: April 2026. Disclosure: This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you...."
+description: "Japan trip checklist for anime fans 2026: what to book at 3mo, 1mo, 2wk, 1wk — JR Pass, collab cafe lotteries, AnimeJapan, Comiket timing."
 date: "2026-04-02"
 lastUpdated: "2026-04-02"
 category: "travel-tips"
@@ -9,14 +9,13 @@ featuredImage: "/images/articles/japan-trip-checklist-anime-fans-2026/featured.j
 featuredImageAlt: "Haneda Airport terminal at dusk with Mt. Fuji in the background"
 imageCredit: "Photo: © JNTO"
 author: "Takapon"
-excerpt: "Last updated: April 2026. Disclosure: This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you...."
+excerpt: "I showed up to Tokyo once having booked nothing but my flight — no JR Pass, no accommodation, no collab cafe lottery entries — and spent two days scrambling. Anime fans need a different checklist than regular tourists. This is the 3-months-out system I now use, organized by when to book, not what to book."
 relatedSlugs: []
 wpPostId: 541
 ---
 
 *Last updated: April 2026.*
 
-**Disclosure:** This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you.
 Japan Trip Checklist for Anime Fans: Everything to Book Before You Go (2026)
 I’ve learned the hard way that the difference between a trip where you catch your target collab cafe before it sells out and one where you miss it by three days comes down to what you book in the three months before you land. I showed up to Tokyo once having booked nothing except my flight—no JR Pass, no accommodation locked in, no collab cafe lottery entries submitted. I spent my first two days frantically calling hotels and ended up in a capsule pod in Shinjuku instead of Nakano where I could have walked to four anime shops. That trip taught me that anime fans need a different checklist than regular tourists.
 

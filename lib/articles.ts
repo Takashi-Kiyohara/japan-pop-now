@@ -32,14 +32,22 @@ export type ArticleMeta = Omit<Article, 'content'>
 
 export function getAllArticleSlugs(): string[] {
   if (!fs.existsSync(ARTICLES_DIR)) return []
-  return fs
-    .readdirSync(ARTICLES_DIR)
-    .filter((f) => f.endsWith('.md'))
-    .map((f) => f.replace(/\.md$/, ''))
+  // Accept .md and .mdx; dedupe in case both exist for the same slug
+  // (when both present, getArticleBySlug prefers .mdx).
+  const slugs = new Set<string>()
+  for (const f of fs.readdirSync(ARTICLES_DIR)) {
+    if (f.endsWith('.md') || f.endsWith('.mdx')) {
+      slugs.add(f.replace(/\.mdx?$/, ''))
+    }
+  }
+  return Array.from(slugs)
 }
 
 export function getArticleBySlug(slug: string): Article | null {
-  const filePath = path.join(ARTICLES_DIR, `${slug}.md`)
+  // Prefer .mdx when both exist; fall back to .md
+  const mdxPath = path.join(ARTICLES_DIR, `${slug}.mdx`)
+  const mdPath = path.join(ARTICLES_DIR, `${slug}.md`)
+  const filePath = fs.existsSync(mdxPath) ? mdxPath : mdPath
   if (!fs.existsSync(filePath)) return null
 
   const raw = fs.readFileSync(filePath, 'utf-8')

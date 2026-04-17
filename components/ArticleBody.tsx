@@ -7,10 +7,15 @@ import InlineNewsletter from './InlineNewsletter';
 import { insertInternalLinks } from '@/lib/internal-links';
 import { getAllArticles } from '@/lib/articles';
 import { getAffiliateProductForCategory } from '@/lib/affiliate-map';
+import remarkAffiliate from '@/lib/remark-affiliate';
 import { mdxComponents } from './mdx-components';
 
-/** MDX compiler options — remark-gfm enables GFM tables, strikethrough, autolinks */
-const mdxOptions = { mdxOptions: { remarkPlugins: [remarkGfm] } };
+/**
+ * MDX compiler options
+ * - remark-gfm: GFM tables, strikethrough, autolinks
+ * - remark-affiliate: swap REPLACE_WITH_*_AFF_ID placeholders for env values
+ */
+const mdxOptions = { mdxOptions: { remarkPlugins: [remarkGfm, remarkAffiliate] } };
 
 interface ArticleBodyProps {
   content: string;

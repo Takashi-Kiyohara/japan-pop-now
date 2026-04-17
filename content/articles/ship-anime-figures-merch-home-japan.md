@@ -1,6 +1,6 @@
 ---
 title: "How to Ship Anime Figures & Merch Home from Japan: Complete Guide (2026)"
-description: "Last updated: April 2026. Disclosure: This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you...."
+description: "Ship anime figures home from Japan 2026: Japan Post EMS/SAL, Yamato hotel pickup, in-store shipping, proxy services, and how to pack so nothing breaks."
 date: "2026-04-02"
 lastUpdated: "2026-04-02"
 category: "travel-tips"
@@ -8,14 +8,13 @@ tags: []
 featuredImage: "/images/articles/ship-anime-figures-merch-home-japan/featured.jpg"
 featuredImageAlt: "Yamato Transport Kuroneko delivery truck for shipping anime merch from Japan"
 author: "Takapon"
-excerpt: "Last updated: April 2026. Disclosure: This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you...."
+excerpt: "Your suitcase is full. Your backpack is full. You're considering wearing two figures as earrings. Over five years shipping 30+ figures home — from ¥1,500 to ¥18,000 per box — I have tested every option. Here is how to get your anime haul home without destroying it, overpaying, or losing it to customs."
 relatedSlugs: []
 wpPostId: 540
 ---
 
 *Last updated: April 2026.*
 
-**Disclosure:** This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you.
 You’ve just left Mandarake with three new figures, stopped by Animate for a limited-edition acrylic stand, and somehow ended up with a postcard collection you didn’t plan on buying. Your suitcase is full. Your backpack is full. You’re considering wearing two figures as earrings.
 
 Welcome to the eternal problem of the anime fan in Tokyo: you’ve found treasures you can’t physically carry home.

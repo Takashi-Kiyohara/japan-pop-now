@@ -1,6 +1,6 @@
 ---
 title: "Ghibli Park Complete Guide 2026: Tickets, Access & Tips"
-description: "Last updated: April 2026. Disclosure: This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you...."
+description: "Ghibli Park 2026 guide: 5 areas, ¥1,000-7,800 tickets, buying from overseas, access from Tokyo or Nagoya, and why one day is not enough."
 date: "2026-04-04"
 lastUpdated: "2026-04-04"
 category: "experiences"
@@ -8,14 +8,13 @@ tags: []
 featuredImage: "/images/articles/ghibli-park-complete-guide-2026/featured.jpg"
 featuredImageAlt: "Mononoke Village walking path at Ghibli Park in Aichi Prefecture"
 author: "Takapon"
-excerpt: "Last updated: April 2026. Disclosure: This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you...."
+excerpt: "Ghibli Park has five themed areas across the Expo 2005 Aichi Park in Nagakute. Tickets range ¥1,000-7,800, every ticket requires advance purchase, and popular dates sell out within hours. After two visits since Valley of Witches opened, I can confirm one day is not enough for all five areas."
 relatedSlugs: []
 wpPostId: 750
 ---
 
 *Last updated: April 2026.*
 
-**Disclosure:** This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you.
 Ghibli Park sits inside the massive Expo 2005 Aichi Commemorative Park, about 45 minutes east of central Nagoya. Photo: Japan Pop Now
 Ghibli Park has five themed areas spread across the Expo 2005 Aichi Commemorative Park in Nagakute, Aichi Prefecture. Ticket prices range from ¥1,000 (~$7) for individual area passes to ¥7,800 (~$53) for the Premium All-Area Pass on weekends. Every ticket requires advance purchase — there are no walk-in admissions, and popular dates sell out within hours of going on sale. I’ve visited twice since the Valley of Witches opened in 2024 and can confirm: one day is not enough for all five areas.
 

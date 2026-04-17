@@ -1,9 +1,23 @@
 import Link from 'next/link';
+import { Coffee, MapPin, Map, Sparkles, Compass, Tag, type LucideIcon } from 'lucide-react';
 import { ArticleMeta } from '@/lib/articles';
 import { CATEGORIES } from '@/lib/categories';
 import ArticleCard from './ArticleCard';
 import AdUnit from './AdUnit';
 import ReadNext from './ReadNext';
+
+const CATEGORY_ICON_MAP: Record<string, LucideIcon> = {
+  Coffee,
+  MapPin,
+  Map,
+  Sparkles,
+  Compass,
+};
+
+function iconFor(lucideName?: string): LucideIcon {
+  if (lucideName && CATEGORY_ICON_MAP[lucideName]) return CATEGORY_ICON_MAP[lucideName];
+  return Tag;
+}
 
 interface ArticleFooterProps {
   author: string;
@@ -81,7 +95,11 @@ export default function ArticleFooter({
                   color: '#14213d',
                 }}
               >
-                {categoryData.icon} More in {categoryData.label}
+                {(() => {
+                  const Icon = iconFor(categoryData.lucideIcon);
+                  return <Icon size={20} style={{ display: 'inline-block', verticalAlign: '-3px', marginRight: '6px' }} />;
+                })()}
+                More in {categoryData.label}
               </h2>
             </div>
             <Link
@@ -127,20 +145,24 @@ export default function ArticleFooter({
           Browse All Categories
         </p>
         <div className="flex flex-wrap justify-center gap-3">
-          {CATEGORIES.map((cat) => (
-            <Link
-              key={cat.slug}
-              href={`/category/${cat.slug}`}
-              className="px-4 py-2 rounded-full text-sm font-semibold transition-all"
-              style={{
-                background: cat.slug === category ? '#f97316' : 'rgba(255,255,255,0.1)',
-                color: '#fff',
-                border: cat.slug === category ? 'none' : '1px solid rgba(255,255,255,0.2)',
-              }}
-            >
-              {cat.icon} {cat.label}
-            </Link>
-          ))}
+          {CATEGORIES.map((cat) => {
+            const Icon = iconFor(cat.lucideIcon);
+            return (
+              <Link
+                key={cat.slug}
+                href={`/category/${cat.slug}`}
+                className="px-4 py-2 rounded-full text-sm font-semibold transition-all flex items-center gap-2"
+                style={{
+                  background: cat.slug === category ? '#f97316' : 'rgba(255,255,255,0.1)',
+                  color: '#fff',
+                  border: cat.slug === category ? 'none' : '1px solid rgba(255,255,255,0.2)',
+                }}
+              >
+                <Icon size={14} />
+                {cat.label}
+              </Link>
+            );
+          })}
         </div>
       </section>
     </footer>

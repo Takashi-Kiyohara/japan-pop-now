@@ -1,6 +1,6 @@
 ---
 title: "7 Anime Day Trips from Tokyo: Pilgrimage Guide with JR Pass Tips"
-description: "Last updated: April 2026. Disclosure: This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you...."
+description: "Six anime pilgrimage spots within 2hrs of Tokyo — Kamakura (Slam Dunk), Hakone (Evangelion), Oarai (Girls und Panzer), Chichibu, Nikko. Routes + JR Pass math."
 date: "2026-04-04"
 lastUpdated: "2026-04-04"
 category: "anime-pilgrimage"
@@ -8,14 +8,13 @@ tags: []
 featuredImage: "/images/articles/anime-day-trips-from-tokyo-2026/featured.jpg"
 featuredImageAlt: "Great Buddha statue in Kamakura a popular anime day trip from Tokyo"
 author: "Takapon"
-excerpt: "Last updated: April 2026. Disclosure: This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you...."
+excerpt: "Six of Japan's best anime pilgrimage spots sit within day-trip range of Tokyo — all reachable in under two hours by train. From Slam Dunk's Kamakura crossing (55 minutes) to Evangelion's Third Tokyo-3 in Hakone (85 minutes), visit a legendary anime location in the morning and be back in Shinjuku for dinner."
 relatedSlugs: []
 wpPostId: 754
 ---
 
 *Last updated: April 2026.*
 
-**Disclosure:** This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you.
 Six of Japan’s best anime pilgrimage destinations are day-trip distance from Tokyo — all under 2 hours by train. Photo: Japan Pop Now
 Six of Japan’s best anime pilgrimage spots sit within day-trip range of Tokyo — all reachable in under two hours by train. From Slam Dunk’s Kamakura crossing (55 minutes) to Evangelion’s Third Tokyo-3 in Hakone (85 minutes) to the Girls und Panzer shrine town of Oarai (90 minutes), you can visit a legendary anime location in the morning and be back in Shinjuku for dinner. Day trip costs range from ¥3,800 (~$26) for Kamakura to about ¥8,000 (~$55) for Hakone with hot springs.
 
