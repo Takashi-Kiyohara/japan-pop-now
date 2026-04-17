@@ -1,29 +1,6 @@
 ﻿---
 title: "Nakano Broadway Guide 2026 — Tokyo’s Best-Kept Anime Shopping Secret"
-description: "Last updated: March 2026. Covers all floors, Mandarake locations, Daily Chico soft serve, opening hours, and a practical comparison with Akihabara. Everybod
-## Anime Shops and Collectible Stores By Specialty
-
-Nakano Broadway houses over 300 individual shops. Mandarake (the giant 30+ store empire) dominates, but the independent dealers often have more interesting inventory. Here is what you should target:
-
-**For Manga:**
-- **Mandarake Manga** (3F) - First editions, out-of-print series, doujinshi
-- Independent manga dealers on 2F scattered through the corridors
-
-**For Figures:**
-- **Mandarake Figure** (2F) - Japanese-exclusive limited runs
-- **Kotobukiya** - Licensed figures, pre-orders
-- **Surugaya** - Secondhand figures, fair pricing
-
-**For Vintage and Rare Items:**
-- **Mandarake Complex** (2F-3F) - Literally the birthplace of anime collecting. Multi-story, maze-like, overwhelming in the best way
-- Independent vintage toy shops (3F) - Local dealers with 20+ year inventory
-
-**For Trading Cards and Misc:**
-- **Card shops** (2F) - Pokemon, Yugioh, Weiss Schwarz (anime-only card game)
-- **Cosplay and Goods** (2F-3F) - Accessories, costume pieces, limited merchandise
-
-**Strategy:** Do not try to hit every shop. Pick a category, focus on 3-4 shops maximum per visit, and plan for at least 2 hours per floor. Nakano rewards slow browsing.
-y..."
+description: "Nakano Broadway 2026: 300+ anime shops, 30+ Mandarake stores, Daily Chico soft serve, floor-by-floor guide, and why serious collectors skip Akihabara."
 date: "2026-03-28"
 lastUpdated: "2026-03-28"
 category: "area-guides"
