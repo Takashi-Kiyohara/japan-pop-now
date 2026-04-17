@@ -169,7 +169,7 @@ function validateArticles() {
 
   const files = fs
     .readdirSync(ARTICLES_DIR)
-    .filter((f) => f.endsWith('.md'))
+    .filter((f) => f.endsWith('.md') || f.endsWith('.mdx'))
     .sort()
 
   if (files.length === 0) {
