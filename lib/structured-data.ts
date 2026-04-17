@@ -35,12 +35,7 @@ export function getOrganizationSchema() {
     name: SITE_NAME,
     url: SITE_URL,
     logo: { '@type': 'ImageObject', url: LOGO_URL },
-    sameAs: [
-      'https://twitter.com/japanpopnow',
-      'https://instagram.com/japanpopnow',
-      'https://youtube.com/@japanpopnow',
-      'https://tiktok.com/@japanpopnow',
-    ],
+    sameAs: [...AUTHOR_SAME_AS],
   }
 }
 

@@ -6,6 +6,7 @@
 import type { Metadata } from 'next';
 import CalendarBrowser from '@/components/CalendarBrowser';
 import { getUpcomingAndOngoing, getVisibleEvents, getCalendarItemListSchema } from '@/lib/events';
+import { AUTHOR } from '@/lib/author';
 
 export const revalidate = 3600;
 
@@ -261,10 +262,10 @@ function SidebarGuides() {
           New cafes every week
         </p>
         <p style={{ margin: '0 0 8px', fontSize: '0.72rem', color: '#94a3b8' }}>
-          Follow us for real-time updates
+          Follow on Threads for real-time updates
         </p>
         <a
-          href="https://www.instagram.com/japan_pop_now/"
+          href={AUTHOR.socials.threads}
           target="_blank"
           rel="nofollow noopener noreferrer"
           style={{
@@ -278,7 +279,7 @@ function SidebarGuides() {
             textDecoration: 'none',
           }}
         >
-          @japan_pop_now →
+          @pop_now_jp on Threads →
         </a>
       </div>
     </div>

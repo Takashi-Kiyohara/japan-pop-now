@@ -1,4 +1,5 @@
 import { ArticleMeta } from './articles';
+import { AUTHOR_SAME_AS } from './author';
 
 export const SITE_URL = 'https://www.japan-pop-now.com';
 export const SITE_NAME = 'Japan Pop Now';
@@ -180,7 +181,7 @@ export function generateLocalBusinessSchema() {
     name: SITE_NAME,
     description: DEFAULT_DESCRIPTION,
     url: SITE_URL,
-    sameAs: ['https://twitter.com/japanpopnow'],
+    sameAs: [...AUTHOR_SAME_AS],
     image: DEFAULT_OG_IMAGE,
   };
 }

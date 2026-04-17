@@ -7,6 +7,7 @@ import ScrollProgress from "@/components/ScrollProgress";
 import CookieConsent from "@/components/CookieConsent";
 import BackToTop from "@/components/BackToTop";
 import WebVitals from '@/components/WebVitals';
+import { AUTHOR } from '@/lib/author';
 import "./globals.css";
 
 const playfairDisplay = Playfair_Display({
@@ -131,12 +132,7 @@ export default function RootLayout({
               name: "Japan Pop Now",
               url: "https://www.japan-pop-now.com",
               logo: "https://www.japan-pop-now.com/logo.png",
-              sameAs: [
-                "https://twitter.com/japanpopnow",
-                "https://instagram.com/japanpopnow",
-                "https://youtube.com/@japanpopnow",
-                "https://tiktok.com/@japanpopnow",
-              ],
+              sameAs: [AUTHOR.socials.threads, AUTHOR.socials.x],
             }),
           }}
         />

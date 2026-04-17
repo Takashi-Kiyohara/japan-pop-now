@@ -1,4 +1,5 @@
 import { Metadata } from 'next';
+import { AUTHOR } from '@/lib/author';
 
 export const metadata: Metadata = {
   title: 'Contact Us',
@@ -115,8 +116,8 @@ export default function ContactPage() {
               </p>
               <div style={{ display: 'flex', gap: '16px', flexWrap: 'wrap' }}>
                 {[
-                  { label: 'Instagram', href: 'https://www.instagram.com/pop_now_jp/' },
-                  { label: 'TikTok', href: 'https://www.tiktok.com/@pop_now_jp' },
+                  { label: 'Threads', href: AUTHOR.socials.threads },
+                  { label: 'X (Twitter)', href: AUTHOR.socials.x },
                 ].map((s) => (
                   <a
                     key={s.label}
