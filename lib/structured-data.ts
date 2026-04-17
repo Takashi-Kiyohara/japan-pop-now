@@ -204,7 +204,7 @@ export function getAuthorSchema(
     name,
     url: url || `${SITE_URL}${AUTHOR.profilePath}`,
     jobTitle: AUTHOR.jobTitle,
-    description: AUTHOR.bio,
+    description: AUTHOR.tagline,
     image: image || `${SITE_URL}${AUTHOR.avatar}`,
     sameAs: [...AUTHOR_SAME_AS],
     knowsAbout: [...AUTHOR.knowsAbout],

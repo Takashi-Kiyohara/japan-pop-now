@@ -9,6 +9,8 @@ export const AUTHOR = {
   avatarAlt: 'Portrait of Takapon, Founder & Editor of Japan Pop Now',
   profilePath: '/about',
   bio: 'Kyoto-born, Tokyo-based writer covering anime, collab cafes, pilgrimage spots, and pop culture travel for international visitors. Former US strategy consultant; currently completing a graduate degree in International Relations in the UK.',
+  tagline:
+    "Kyoto-born, Tokyo-based writer covering anime, collab cafes, and pop culture travel. Former US strategy consultant, currently completing a graduate degree in International Relations in the UK. Verifies every cafe and event against the operator's official source.",
   bioShort:
     'Japan-based writer covering anime pop culture, collab cafes, and travel for international visitors.',
   locationLine:
