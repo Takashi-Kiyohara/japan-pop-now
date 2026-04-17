@@ -15,7 +15,6 @@ wpPostId: 755
 
 *Last updated: April 2026.*
 
-**Disclosure:** This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you.
 Osaka’s Den Den Town runs a full kilometer of anime shops, figure stores, and cosplay suppliers — Western Japan’s answer to Akihabara. Photo: Japan Pop Now
 Osaka runs 8-12 anime collab cafes at any given time across Namba, Umeda, and Tennoji — plus permanent spots like Capcom Cafe Umeda and rotating collaborations at Chugai Grace Cafe in Namba Marui. Add in Den Den Town’s kilometer of otaku shops, USJ’s anime attractions, and a collab cafe scene that’s less competitive to book than Tokyo’s, and you’ve got a serious argument for making Osaka your anime trip’s base instead of (or alongside) the capital.
 

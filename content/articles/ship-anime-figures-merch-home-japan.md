@@ -15,7 +15,6 @@ wpPostId: 540
 
 *Last updated: April 2026.*
 
-**Disclosure:** This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you.
 You’ve just left Mandarake with three new figures, stopped by Animate for a limited-edition acrylic stand, and somehow ended up with a postcard collection you didn’t plan on buying. Your suitcase is full. Your backpack is full. You’re considering wearing two figures as earrings.
 
 Welcome to the eternal problem of the anime fan in Tokyo: you’ve found treasures you can’t physically carry home.

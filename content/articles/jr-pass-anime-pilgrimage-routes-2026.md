@@ -15,7 +15,6 @@ wpPostId: 538
 
 *Last updated: April 2026.*
 
-**Disclosure:** This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you.
 JR Pass for Anime Pilgrimages: Is It Worth It? Routes, Calculator & 2026 Prices
 You’re standing outside the Meiji Shrine in Tokyo, phone in hand, and your next stop is a small town in the Kanto region where “Your Name” was actually filmed. Then you want to hit Kyoto for Demon Slayer locations. Maybe swing down to Kumamoto for the One Piece statues if you have time. Sound familiar?
 

@@ -15,7 +15,6 @@ wpPostId: 750
 
 *Last updated: April 2026.*
 
-**Disclosure:** This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you.
 Ghibli Park sits inside the massive Expo 2005 Aichi Commemorative Park, about 45 minutes east of central Nagoya. Photo: Japan Pop Now
 Ghibli Park has five themed areas spread across the Expo 2005 Aichi Commemorative Park in Nagakute, Aichi Prefecture. Ticket prices range from ¥1,000 (~$7) for individual area passes to ¥7,800 (~$53) for the Premium All-Area Pass on weekends. Every ticket requires advance purchase — there are no walk-in admissions, and popular dates sell out within hours of going on sale. I’ve visited twice since the Valley of Witches opened in 2024 and can confirm: one day is not enough for all five areas.
 

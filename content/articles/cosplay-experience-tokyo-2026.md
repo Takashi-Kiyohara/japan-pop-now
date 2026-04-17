@@ -1,6 +1,6 @@
 ---
 title: "Cosplay Experience Tokyo 2026: Rental Studios, Photo Spots & Events"
-description: "Last updated: April 2026. Disclosure: This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you...."
+description: "Rent a full Tokyo cosplay outfit for ¥3,000-12,000 — wig, accessories, studio time, and English staff. Akihabara and Ikebukuro studios compared, with Comiket rules."
 date: "2026-04-05"
 lastUpdated: "2026-04-05"
 category: "experiences"
@@ -9,14 +9,13 @@ featuredImage: "/images/articles/cosplay-experience-tokyo-2026/featured.jpg"
 featuredImageAlt: "Cosplayers at the World Cosplay Summit event at a Japanese temple"
 imageCredit: "Photo: © JNTO"
 author: "Takapon"
-excerpt: "Last updated: April 2026. Disclosure: This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you...."
+excerpt: "You can rent a full cosplay outfit in Tokyo for ¥3,000-12,000 at studios in Akihabara and Ikebukuro — wig, accessories, and photo studio time included. Several studios offer English-speaking staff and professional photography packages, making the experience accessible even if you've never cosplayed before."
 relatedSlugs: []
 wpPostId: 757
 ---
 
 *Last updated: April 2026.*
 
-**Disclosure:** This article contains affiliate links. We may earn a commission if you book through these links, at no extra cost to you.
 Cosplay rental studios in Akihabara and Ikebukuro offer everything from maid outfits to full anime character costumes — wig included. Photo: Japan Pop Now
 You can rent a full cosplay outfit in Tokyo for ¥3,000-12,000 (~$20-82) at studios in Akihabara and Ikebukuro — wig, accessories, and photo studio time included. Several studios offer English-speaking staff and professional photography packages, making the experience accessible even if you’ve never cosplayed before. Sessions typically run 1-3 hours, and some studios let you walk around Akihabara in costume after your shoot.
 
