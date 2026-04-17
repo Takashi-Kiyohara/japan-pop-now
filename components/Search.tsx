@@ -192,6 +192,9 @@ export default function Search() {
           onClick={() => setIsOpen(false)}
         >
           <div
+            role="dialog"
+            aria-modal="true"
+            aria-label="Search articles"
             className="bg-white rounded-lg shadow-lg w-full max-w-2xl"
             onClick={(e) => e.stopPropagation()}
           >
@@ -200,10 +203,11 @@ export default function Search() {
               <input
                 ref={inputRef}
                 type="text"
+                aria-label="Search articles"
                 placeholder="Search articles..."
                 value={query}
                 onChange={(e) => setQuery(e.target.value)}
-                className="w-full px-0 py-2 text-lg focus:outline-none bg-transparent"
+                className="w-full px-0 py-2 text-lg focus:outline-none focus-visible:outline-2 focus-visible:outline-orange-500 focus-visible:outline-offset-2 bg-transparent"
               />
             </div>
 

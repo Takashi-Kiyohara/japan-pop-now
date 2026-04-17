@@ -33,7 +33,10 @@ export default function GoogleMap({
   const [loaded, setLoaded] = useState(false);
 
   const encodedQuery = encodeURIComponent(query);
-  const embedUrl = `https://www.google.com/maps/embed/v1/place?key=AIzaSyBFw0Qbyq9zTFTd-tUY6dZWTgaQzuU17R8&q=${encodedQuery}`;
+  const mapsKey = process.env.NEXT_PUBLIC_GOOGLE_MAPS_EMBED_KEY;
+  const embedUrl = mapsKey
+    ? `https://www.google.com/maps/embed/v1/place?key=${mapsKey}&q=${encodedQuery}`
+    : '';
   const directionsUrl = directionsFrom
     ? `https://www.google.com/maps/dir/${encodeURIComponent(directionsFrom)}/${encodedQuery}`
     : `https://www.google.com/maps/search/${encodedQuery}`;
@@ -51,7 +54,7 @@ export default function GoogleMap({
           border: '1px solid #e7e5e4',
         }}
       >
-        {loaded ? (
+        {loaded && embedUrl ? (
           <iframe
             src={embedUrl}
             width="100%"
@@ -64,7 +67,10 @@ export default function GoogleMap({
           />
         ) : (
           <button
-            onClick={() => setLoaded(true)}
+            onClick={() => {
+              if (embedUrl) setLoaded(true);
+              else window.open(directionsUrl, '_blank', 'noopener,noreferrer');
+            }}
             style={{
               position: 'absolute',
               inset: 0,

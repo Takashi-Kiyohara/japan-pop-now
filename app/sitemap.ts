@@ -1,6 +1,7 @@
 import { MetadataRoute } from 'next';
 import { getAllArticles, CATEGORIES } from '@/lib/articles';
 import { getAllUniqueTags } from '@/lib/auto-tags';
+import { getActiveFeatureSlugs } from '@/lib/features';
 import { getSiteUrl, articleUrl as getArticleUrl, tagUrl, guideUrl } from '@/lib/url';
 
 export default function sitemap(): MetadataRoute.Sitemap {
@@ -108,6 +109,22 @@ export default function sitemap(): MetadataRoute.Sitemap {
     lastModified: latestArticleDate,
   }));
 
+  // Features hub + individual feature series
+  const featurePages: MetadataRoute.Sitemap = [
+    {
+      url: `${baseUrl}/features`,
+      changeFrequency: 'weekly',
+      priority: 0.7,
+      lastModified: latestArticleDate,
+    },
+    ...getActiveFeatureSlugs().map((slug) => ({
+      url: `${baseUrl}/features/${slug}`,
+      changeFrequency: 'weekly' as const,
+      priority: 0.7,
+      lastModified: latestArticleDate,
+    })),
+  ];
+
   // Tag archive pages — use latest article date for each tag
   const tags = getAllUniqueTags(articles);
   const tagPages: MetadataRoute.Sitemap = tags.map((tag) => {
@@ -123,6 +140,6 @@ export default function sitemap(): MetadataRoute.Sitemap {
     };
   });
 
-  const all = [...staticPages, ...articlePages, ...categoryPages, ...guidePages, ...tagPages];
+  const all = [...staticPages, ...articlePages, ...categoryPages, ...guidePages, ...featurePages, ...tagPages];
   return all.filter((u) => !u.url.includes('/tags/'));
 }

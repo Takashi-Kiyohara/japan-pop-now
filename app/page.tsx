@@ -349,8 +349,9 @@ export default function Home() {
           <form className="flex flex-col sm:flex-row gap-3 max-w-md mx-auto">
             <input
               type="email"
+              aria-label="Email address for newsletter"
               placeholder="your@email.com"
-              className="flex-1 px-4 py-3 rounded-lg text-sm outline-none"
+              className="flex-1 px-4 py-3 rounded-lg text-sm outline-none focus-visible:outline-2 focus-visible:outline-orange-500 focus-visible:outline-offset-2"
               style={{ background: 'rgba(255,255,255,0.1)', border: '1px solid rgba(255,255,255,0.2)', color: '#fff' }}
             />
             <button
