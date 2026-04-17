@@ -1,0 +1,2 @@
+.tmp/llms.txt : {'EmQuad': 0, 'LineSep': 0, 'ParaSep': 0, 'FullWidthBackslash': 0}
+.tmp/llms-full.txt : {'EmQuad': 0, 'LineSep': 0, 'ParaSep': 0, 'FullWidthBackslash': 0}

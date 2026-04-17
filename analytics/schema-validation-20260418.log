@@ -1,0 +1,58 @@
+=== japan-travel-insurance-2026 ===
+  JSON-LD blocks: 9
+  [0] type: WebSite
+  [1] type: Organization
+  [2] type: SiteNavigationElement
+  [3] type: NewsArticle, author: Takapon, sameAs: ['https://www.threads.net/@pop_now_jp', 'https://x.com/pop_now_jp'], dp: 2026-04-03, dm: 2026-04-03, img: /images/articles/japan-travel-insurance-
+  [4] type: BreadcrumbList
+  [5] type: FAQPage
+  [6] type: BreadcrumbList
+  [7] type: Product
+  [8] type: Product
+=== gaming-tokyo-2026 ===
+  JSON-LD blocks: 8
+  [0] type: WebSite
+  [1] type: Organization
+  [2] type: SiteNavigationElement
+  [3] type: NewsArticle, author: Takapon, sameAs: ['https://www.threads.net/@pop_now_jp', 'https://x.com/pop_now_jp'], dp: 2026-04-03, dm: 2026-04-03, img: /images/articles/gaming-tokyo-2026/featu
+  [4] type: BreadcrumbList
+  [5] type: FAQPage
+  [6] type: TouristAttraction
+  [7] type: BreadcrumbList
+=== slam-dunk-kamakura-pilgrimage-2026 ===
+  JSON-LD blocks: 10
+  [0] type: WebSite
+  [1] type: Organization
+  [2] type: SiteNavigationElement
+  [3] type: NewsArticle, author: Takapon, sameAs: ['https://www.threads.net/@pop_now_jp', 'https://x.com/pop_now_jp'], dp: 2026-04-05, dm: 2026-04-05, img: /images/articles/slam-dunk-kamakura-pilg
+  [4] type: BreadcrumbList
+  [5] type: FAQPage
+  [6] type: TouristAttraction
+  [7] type: BreadcrumbList
+  [8] type: Product
+  [9] type: Product
+=== jujutsu-kaisen-cafes-japan-2026-guide ===
+  JSON-LD blocks: 11
+  [0] type: WebSite
+  [1] type: Organization
+  [2] type: SiteNavigationElement
+  [3] type: NewsArticle, author: Takapon, sameAs: ['https://www.threads.net/@pop_now_jp', 'https://x.com/pop_now_jp'], dp: 2026-04-06, dm: 2026-04-06, img: /images/articles/jujutsu-kaisen-cafes-ja
+  [4] type: BreadcrumbList
+  [5] type: FAQPage
+  [6] type: Event
+  [7] type: Event
+  [8] type: BreadcrumbList
+  [9] type: Product
+  [10] type: Product
+=== book-japan-anime-events-overseas-2026 ===
+  JSON-LD blocks: 10
+  [0] type: WebSite
+  [1] type: Organization
+  [2] type: SiteNavigationElement
+  [3] type: NewsArticle, author: Takapon, sameAs: ['https://www.threads.net/@pop_now_jp', 'https://x.com/pop_now_jp'], dp: 2026-04-04, dm: 2026-04-04, img: /images/articles/book-japan-anime-events
+  [4] type: BreadcrumbList
+  [5] type: FAQPage
+  [6] type: HowTo
+  [7] type: BreadcrumbList
+  [8] type: Product
+  [9] type: Product
