@@ -6,6 +6,7 @@ import AdUnit from '@/components/AdUnit';
 import AffiliateCTA from '@/components/AffiliateCTA';
 import SpotlightSection from '@/components/SpotlightSection';
 import Link from 'next/link';
+import { Ticket, Train, Hotel } from 'lucide-react';
 import spotlightData from '@/content/spotlight.json';
 
 export const revalidate = 3600;
@@ -249,7 +250,7 @@ export default function Home() {
           <SectionHeader title="Popular Experiences" />
           <div className="grid grid-cols-1 lg:grid-cols-3 gap-6">
             <AffiliateCTA
-              icon="🎫"
+              icon={<Ticket size={28} />}
               title="Book Tokyo Anime Cafes"
               description="Reserve spots at Tokyo's hottest anime collaboration cafes with Klook. Free cancellation, English support, and skip-the-line access."
               buttonText="Browse Tokyo Cafes"
@@ -258,7 +259,7 @@ export default function Home() {
               category="collab-cafes"
             />
             <AffiliateCTA
-              icon="🚅"
+              icon={<Train size={28} />}
               title="Japan Rail Pass"
               description="Explore pilgrimage sites across Japan. JR Pass covers trains to most holy lands. 7, 14, and 21-day options available."
               buttonText="Get JR Pass"
@@ -267,7 +268,7 @@ export default function Home() {
               category="travel-tips"
             />
             <AffiliateCTA
-              icon="🏨"
+              icon={<Hotel size={28} />}
               title="Stay in the Best Districts"
               description="Find hotels and capsule stays in Akihabara, Ikebukuro, Shibuya, and other anime hotspots. From ¥3,000/night upward."
               buttonText="Search Hotels"

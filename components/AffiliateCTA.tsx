@@ -1,5 +1,7 @@
 'use client';
 
+import type { ReactNode } from 'react';
+
 export type AffiliateVariant = 'inline' | 'mid' | 'end';
 
 interface AffiliateCTAProps {
@@ -8,7 +10,7 @@ interface AffiliateCTAProps {
   buttonText: string;
   href: string;
   program: string;
-  icon?: string;
+  icon?: ReactNode;
   category?: string;
   /**
    * inline = single-line bold link with subtle highlight, blends with text
@@ -50,7 +52,7 @@ export default function AffiliateCTA({
   buttonText,
   href,
   program,
-  icon = '🎫',
+  icon,
   category = 'general',
   variant = 'mid',
   priceFrom,
