@@ -39,13 +39,19 @@ export function getOrganizationSchema() {
   }
 }
 
+function absolutize(path: string): string {
+  if (!path) return path
+  if (path.startsWith('http://') || path.startsWith('https://')) return path
+  return `${SITE_URL}${path.startsWith('/') ? path : `/${path}`}`
+}
+
 export function getArticleSchema(article: Article, url: string, options?: ArticleSchemaOptions) {
   const schema: Record<string, unknown> = {
     '@context': 'https://schema.org',
     '@type': 'NewsArticle',
     headline: article.title,
     description: article.description,
-    image: article.featuredImage || LOGO_URL,
+    image: article.featuredImage ? absolutize(article.featuredImage) : LOGO_URL,
     datePublished: article.date,
     dateModified: article.lastUpdated || article.date,
     author: getAuthorSchema(),
@@ -153,7 +159,7 @@ export function getEventSchema(
       url: SITE_URL,
     },
     url,
-    ...(image ? { image } : {}),
+    ...(image ? { image: absolutize(image) } : {}),
   }
 }
 
@@ -179,7 +185,7 @@ export function getTouristAttractionSchema(
     },
     url,
     isAccessibleForFree: true,
-    ...(image ? { image } : {}),
+    ...(image ? { image: absolutize(image) } : {}),
   }
 }
 
@@ -222,7 +228,7 @@ export function getHowToSchema(
     name: title,
     description,
     url,
-    ...(image ? { image } : {}),
+    ...(image ? { image: absolutize(image) } : {}),
     step: steps.map((step, i) => ({
       '@type': 'HowToStep',
       position: i + 1,
