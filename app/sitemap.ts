@@ -54,13 +54,13 @@ export default function sitemap(): MetadataRoute.Sitemap {
       url: `${baseUrl}/calendar`,
       changeFrequency: 'daily',
       priority: 0.9,
-      lastModified: new Date(),
+      lastModified: new Date('2026-04-17'),
     },
     {
       url: `${baseUrl}/support`,
       changeFrequency: 'monthly',
       priority: 0.5,
-      lastModified: new Date(),
+      lastModified: new Date('2026-04-17'),
     },
     {
       url: `${baseUrl}/search`,
