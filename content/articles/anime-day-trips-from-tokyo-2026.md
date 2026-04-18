@@ -61,10 +61,10 @@ If you can only pick one: Kamakura for the most efficient trip (closest, cheapes
 | **Oarai** | JR Joban Line from Tokyo/Ueno | 90 min | ¥2,000-2,100 |
 | **Nikko** | JR Shinkansen + Nikko Line via Utsunomiya | 120 min | ¥2,700-5,480 |
 
-All routes accept IC cards (Suica/PASMO). See our [IC card guide](/japan-ic-card-transit-guide/) for setup instructions.
+All routes accept IC cards (Suica/PASMO). See our [IC card guide](/articles/japan-ic-card-transit-guide) for setup instructions.
 
 ## Does a JR Pass Cover These Day Trips?
-This is where the [Japan Rail Pass](/japan-rail-pass-2026-guide/) math gets interesting. Here’s the coverage breakdown:
+This is where the [Japan Rail Pass](/articles/japan-rail-pass-2026-guide) math gets interesting. Here’s the coverage breakdown:
 
 | Destination | JR Pass Coverage | What’s NOT Covered |
 | --- | --- | --- |
@@ -85,7 +85,7 @@ The closest and easiest anime day trip from Tokyo. The Kamakurakokomae No.1 Rail
 
 **Cost:** ¥950 (JR from Tokyo) + ¥800 (Enoden day pass) + ¥300 (Great Buddha) + lunch = ~¥3,500-4,500.
 
-Read the full guide: [Slam Dunk Kamakura Pilgrimage 2026](/slam-dunk-kamakura-pilgrimage-2026/)
+Read the full guide: [Slam Dunk Kamakura Pilgrimage 2026](/articles/slam-dunk-kamakura-pilgrimage-2026)
 
 ## Hakone: Evangelion Third Tokyo-3
 Hakone is the real-world model for NERV’s fortress city in Evangelion — and the town has embraced it completely. The Hakone Yumoto eva-ya store near the station has been running for 13+ years, selling exclusive Evangelion merchandise with a Japanese-craft aesthetic (traditional woodwork, fabric goods, ceramics with Eva designs). It’s one of the longest-running anime collaboration shops in Japan.
@@ -174,19 +174,19 @@ Kamakura (beach + train ride) and Hakone (pirate ship + ropeway) are the most fa
 
 ## More Area & Travel Guides
 
-- [Slam Dunk Kamakura Pilgrimage 2026](/slam-dunk-kamakura-pilgrimage-2026/)
-- [10 Anime Pilgrimage Spots in Tokyo (2026)](/anime-pilgrimage-spots-tokyo/)
-- [Ghibli Park Complete Guide 2026](/ghibli-park-complete-guide-2026/)
+- [Slam Dunk Kamakura Pilgrimage 2026](/articles/slam-dunk-kamakura-pilgrimage-2026)
+- [10 Anime Pilgrimage Spots in Tokyo (2026)](/articles/anime-pilgrimage-spots-tokyo)
+- [Ghibli Park Complete Guide 2026](/articles/ghibli-park-complete-guide-2026)
 - [Tokyo Anime District Guide: 5 Areas](/tokyo-anime-districts-guide/)
-- [Japan Rail Pass 2026: Is It Worth It?](/japan-rail-pass-2026-guide/)
-- [Japan IC Card Transit Guide](/japan-ic-card-transit-guide/)
-- [Japan eSIM vs Pocket WiFi: Best Pick for 2026](/japan-esim-pocket-wifi-sim-card/)
+- [Japan Rail Pass 2026: Is It Worth It?](/articles/japan-rail-pass-2026-guide)
+- [Japan IC Card Transit Guide](/articles/japan-ic-card-transit-guide)
+- [Japan eSIM vs Pocket WiFi: Best Pick for 2026](/articles/japan-esim-pocket-wifi-sim-card)
 
 **Follow [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)** for daily Tokyo pop culture updates.
 
 Planning a trip to Tokyo?
 
-[Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
+[Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)
 
 ## Never Miss a Cafe Opening or Anime Event
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.

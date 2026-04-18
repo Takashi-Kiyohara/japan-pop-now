@@ -224,18 +224,18 @@ A: Each Mugiwara Store carries overlapping inventory (roughly 80% the same items
 ## More Area Guides
 Once you’ve conquered the One Piece locations, explore these related Tokyo shopping districts and guides:
 
-- [Akihabara Complete Guide 2026](/akihabara-complete-guide-2026/) – Deep dive into Tokyo’s electronics and anime headquarters
-- [Ikebukuro Anime Guide 2026](/ikebukuro-anime-guide-2026/) – All anime retail in East Tokyo’s second-largest shopping district
+- [Akihabara Complete Guide 2026](/articles/akihabara-complete-guide-2026) – Deep dive into Tokyo’s electronics and anime headquarters
+- [Ikebukuro Anime Guide 2026](/articles/ikebukuro-anime-guide-2026) – All anime retail in East Tokyo’s second-largest shopping district
 - [Anime Merchandise Shopping Guide](/anime-merch-shopping-guide/) – How to evaluate quality and avoid counterfeits
 - [Chibuya & Harajuku Anime Guide](/shibuya-harajuku-anime-guide/) – Fashion-forward anime shopping in Tokyo’s trendiest districts
-- [Japan IC Card Transit Guide](/japan-ic-card-transit-guide/) – Master Tokyo’s train system with practical payment tips
-- [Anime Pilgrimage Spots Tokyo](/anime-pilgrimage-spots-tokyo/) – *seichi junrei* locations beyond merchandise shopping
+- [Japan IC Card Transit Guide](/articles/japan-ic-card-transit-guide) – Master Tokyo’s train system with practical payment tips
+- [Anime Pilgrimage Spots Tokyo](/articles/anime-pilgrimage-spots-tokyo) – *seichi junrei* locations beyond merchandise shopping
 
 **Follow [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)** for daily Tokyo pop culture updates.
 
 Planning a trip to Tokyo?
 
-[Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
+[Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)
 
 ## Never Miss a Cafe Opening or Anime Event
 

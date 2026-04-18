@@ -224,20 +224,20 @@ If you’re combining Tokyo and Osaka on your anime trip, a Japan Rail Pass cove
 
 **Osaka Collab Cafes**
 
-For a complete list of anime collaboration cafes currently running in Osaka, check our [Osaka Anime Collab Cafe Guide 2026](/osaka-anime-collab-cafes-pop-culture-2026/) — updated weekly with new collaborations.
+For a complete list of anime collaboration cafes currently running in Osaka, check our [Osaka Anime Collab Cafe Guide 2026](/articles/osaka-anime-collab-cafes-pop-culture-2026) — updated weekly with new collaborations.
 
 ## More Area Guides
 
-- [Akihabara Complete Guide 2026](/akihabara-complete-guide-2026/)
-- [Ikebukuro Anime Guide 2026](/ikebukuro-anime-guide-2026/)
-- [Nakano Broadway Guide](/nakano-broadway-guide/)
-- [Shibuya & Harajuku Pop Culture Guide](/shibuya-harajuku-pop-culture-guide/)
-- [Kyoto Anime Guide 2026](/tokyo-anime-district-guide/)
-- [How to Book Anime Collab Cafes](/how-to-book-anime-collab-cafe-japan/)
+- [Akihabara Complete Guide 2026](/articles/akihabara-complete-guide-2026)
+- [Ikebukuro Anime Guide 2026](/articles/ikebukuro-anime-guide-2026)
+- [Nakano Broadway Guide](/articles/nakano-broadway-guide)
+- [Shibuya & Harajuku Pop Culture Guide](/articles/shibuya-harajuku-pop-culture-guide)
+- [Kyoto Anime Guide 2026](/articles/tokyo-anime-district-guide)
+- [How to Book Anime Collab Cafes](/articles/how-to-book-anime-collab-cafe-japan)
 
 Planning a trip to Tokyo?
 
-[Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
+[Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)
 
 ## Never Miss a Cafe Opening or Anime Event
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.

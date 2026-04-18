@@ -117,7 +117,7 @@ The honest assessment: Conan Town is a pilgrimage destination for dedicated fans
 
 **From Osaka:** JR to Yura Station via Sanin Main Line, about 2.5-3 hours. More manageable as a day trip if you leave early.
 
-If you’re making the trip, combine it with Tottori Sand Dunes (Japan’s largest sand dunes, about 1 hour from Conan Town) to fill a full day. The [JR Pass](/japan-rail-pass-2026-guide/) covers all train legs, which significantly reduces the cost — the Tokyo-Tottori round trip alone is worth ¥34,000+ without a pass.
+If you’re making the trip, combine it with Tottori Sand Dunes (Japan’s largest sand dunes, about 1 hour from Conan Town) to fill a full day. The [JR Pass](/articles/japan-rail-pass-2026-guide) covers all train legs, which significantly reduces the cost — the Tokyo-Tottori round trip alone is worth ¥34,000+ without a pass.
 
 ## What About USJ’s Detective Conan World in Osaka?
 
@@ -156,22 +156,22 @@ Phase 1 (opening weeks) sells out quickly due to movie premiere excitement. Phas
 
 **How does Detective Conan connect to Osaka beyond USJ?**
 
-Osaka native Heiji Hattori is a recurring character, and several cases are set in the Osaka area. The Conan Cafe also has an Osaka location. For a dedicated Osaka anime trip, combine USJ Conan World, the [Osaka collab cafe scene](/osaka-anime-collab-cafes-pop-culture-2026/), and the [Den Den Town shopping district](/osaka-anime-guide-den-den-town/).
+Osaka native Heiji Hattori is a recurring character, and several cases are set in the Osaka area. The Conan Cafe also has an Osaka location. For a dedicated Osaka anime trip, combine USJ Conan World, the [Osaka collab cafe scene](/articles/osaka-anime-collab-cafes-pop-culture-2026), and the [Den Den Town shopping district](/articles/osaka-anime-guide-den-den-town).
 
 ## More Pilgrimage & Event Guides
 
-- [10 Anime Pilgrimage Spots in Tokyo (2026)](/anime-pilgrimage-spots-tokyo/)
-- [Slam Dunk Kamakura Pilgrimage 2026](/slam-dunk-kamakura-pilgrimage-2026/)
-- [Tokyo Collab Cafes Summer 2026](/tokyo-anime-collab-cafes-summer-2026/)
-- [Book Japan Anime Events from Overseas](/book-japan-anime-events-overseas-2026/)
-- [Japan Rail Pass 2026: Is It Worth It?](/japan-rail-pass-2026-guide/)
-- [Japan eSIM vs Pocket WiFi: Best Pick for 2026](/japan-esim-pocket-wifi-sim-card/)
+- [10 Anime Pilgrimage Spots in Tokyo (2026)](/articles/anime-pilgrimage-spots-tokyo)
+- [Slam Dunk Kamakura Pilgrimage 2026](/articles/slam-dunk-kamakura-pilgrimage-2026)
+- [Tokyo Collab Cafes Summer 2026](/articles/tokyo-anime-collab-cafes-summer-2026)
+- [Book Japan Anime Events from Overseas](/articles/book-japan-anime-events-overseas-2026)
+- [Japan Rail Pass 2026: Is It Worth It?](/articles/japan-rail-pass-2026-guide)
+- [Japan eSIM vs Pocket WiFi: Best Pick for 2026](/articles/japan-esim-pocket-wifi-sim-card)
 
 **Follow [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)** for daily Tokyo pop culture updates.
 
 Planning a trip to Tokyo?
 
-[Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
+[Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)
 
 ## Never Miss a Cafe Opening or Anime Event
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.

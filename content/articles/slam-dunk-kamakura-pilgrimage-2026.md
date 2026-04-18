@@ -26,9 +26,9 @@ This guide covers the exact locations, how to get there from Tokyo, a half-day w
 
 Plan your Kamakura pilgrimage faster:
 
-- [**Coming from Tokyo?** Read: Japan Rail Pass 2026 Guide](/japan-rail-pass-2026-guide/)
-- [**Using local trains?** Read: Japan IC Card Transit Guide](/japan-ic-card-transit-guide/)
-- [**Want another anime day trip?** Read: 7 Anime Day Trips from Tokyo](/anime-day-trips-from-tokyo-2026/)
+- [**Coming from Tokyo?** Read: Japan Rail Pass 2026 Guide](/articles/japan-rail-pass-2026-guide)
+- [**Using local trains?** Read: Japan IC Card Transit Guide](/articles/japan-ic-card-transit-guide)
+- [**Want another anime day trip?** Read: 7 Anime Day Trips from Tokyo](/articles/anime-day-trips-from-tokyo-2026)
 
 ## Table of Contents
 
@@ -94,16 +94,16 @@ Two main routes, both straightforward:
 Best next step**Pick your Kamakura transport plan before you leave Tokyo**
 Most readers get stuck deciding whether this trip is a JR-pass day, a simple IC-card day, or part of a bigger anime coast itinerary. Use the shortcut below that matches your plan so you can avoid overpaying and keep the pilgrimage route smooth.
 
-- [**Using long-distance JR travel in Japan?** Check whether the Japan Rail Pass helps on this route](/japan-rail-pass-2026-guide/)
-- [**Just taking local trains around Tokyo and Kamakura?** Use the IC card transit guide](/japan-ic-card-transit-guide/)
-- [**Want to extend this into another anime coastal day trip?** Compare more anime day trips from Tokyo](/anime-day-trips-from-tokyo-2026/)
+- [**Using long-distance JR travel in Japan?** Check whether the Japan Rail Pass helps on this route](/articles/japan-rail-pass-2026-guide)
+- [**Just taking local trains around Tokyo and Kamakura?** Use the IC card transit guide](/articles/japan-ic-card-transit-guide)
+- [**Want to extend this into another anime coastal day trip?** Compare more anime day trips from Tokyo](/articles/anime-day-trips-from-tokyo-2026)
 
 No transfers needed from Tokyo Station â the Yokosuka Line runs direct to Kamakura. At Kamakura Station, exit and follow signs to the Enoden platforms (it’s a separate station building adjacent to JR). Board any Enoden train heading toward Fujisawa and get off at Kamakurakokomae, five stops later.
 
 ### Best Direct Route From Shinjuku to Kamakura for Slam Dunk Fans
 If you’re coming from Shinjuku, Shibuya, or Ikebukuro, the Shonan-Shinjuku Line runs direct to Kamakura without needing to go via Tokyo Station. From Shinjuku, the ride takes about 60 minutes and costs Â¥950. Same transfer to Enoden at Kamakura Station.
 
-Both routes are covered by the [Japan Rail Pass](/japan-rail-pass-2026-guide/) for the JR portion. The Enoden is a private railway, so JR Pass doesn’t cover it â use your [IC card](/japan-ic-card-transit-guide/) (Suica/PASMO) or buy the Enoden Day Pass (ã®ããããã) for Â¥800 at Kamakura or Fujisawa Station. The day pass pays for itself if you make four or more Enoden trips.
+Both routes are covered by the [Japan Rail Pass](/articles/japan-rail-pass-2026-guide) for the JR portion. The Enoden is a private railway, so JR Pass doesn’t cover it â use your [IC card](/articles/japan-ic-card-transit-guide) (Suica/PASMO) or buy the Enoden Day Pass (ã®ããããã) for Â¥800 at Kamakura or Fujisawa Station. The day pass pays for itself if you make four or more Enoden trips.
 
 ## What’s the Best Half-Day Pilgrimage Route?
 
@@ -167,9 +167,9 @@ This is a residential neighborhood, not a tourist attraction. People live here, 
 
 After this guide, read one of these next:
 
-- [**If you want more routes like this:** 7 Anime Day Trips from Tokyo](/anime-day-trips-from-tokyo-2026/)
-- [**If you are comparing train value:** Japan Rail Pass 2026 Guide](/japan-rail-pass-2026-guide/)
-- [**If you want the smoothest transport setup:** Japan IC Card Transit Guide](/japan-ic-card-transit-guide/)
+- [**If you want more routes like this:** 7 Anime Day Trips from Tokyo](/articles/anime-day-trips-from-tokyo-2026)
+- [**If you are comparing train value:** Japan Rail Pass 2026 Guide](/articles/japan-rail-pass-2026-guide)
+- [**If you want the smoothest transport setup:** Japan IC Card Transit Guide](/articles/japan-ic-card-transit-guide)
 
 **Choose your next anime route**
 
@@ -190,7 +190,7 @@ Technically, it’s a public road so you can visit anytime. The management staff
 
 **Is the JR Pass worth it just for the Kamakura trip?**
 
-Not on its own. The round trip from Tokyo to Kamakura is Â¥1,900 on JR. A 7-day Japan Rail Pass costs Â¥50,000. But if you’re also visiting Ghibli Park (Nagoya), Kyoto, or other destinations during your trip, the JR Pass covers the Tokyo-Kamakura leg as part of the overall value. See our [JR Pass guide](/japan-rail-pass-2026-guide/) for the full cost breakdown.
+Not on its own. The round trip from Tokyo to Kamakura is Â¥1,900 on JR. A 7-day Japan Rail Pass costs Â¥50,000. But if you’re also visiting Ghibli Park (Nagoya), Kyoto, or other destinations during your trip, the JR Pass covers the Tokyo-Kamakura leg as part of the overall value. See our [JR Pass guide](/articles/japan-rail-pass-2026-guide) for the full cost breakdown.
 
 **Which school is Shohoku High School?**
 
@@ -202,7 +202,7 @@ A common misconception: the school visible above the crossing (Kanagawa Prefectu
 
 **Can I combine this with other anime pilgrimages?**
 
-Absolutely. The Kamakura/Enoshima area also features locations from Elfen Lied, Tari Tari, and Just Because! And if you’re doing the [Tokyo anime pilgrimage circuit](/anime-pilgrimage-spots-tokyo/), Kamakura makes an excellent day trip addition. Our [anime day trips guide](/anime-day-trips-from-tokyo-2026/) covers the full logistics.
+Absolutely. The Kamakura/Enoshima area also features locations from Elfen Lied, Tari Tari, and Just Because! And if you’re doing the [Tokyo anime pilgrimage circuit](/articles/anime-pilgrimage-spots-tokyo), Kamakura makes an excellent day trip addition. Our [anime day trips guide](/articles/anime-day-trips-from-tokyo-2026) covers the full logistics.
 
 **Is there anywhere to eat near the crossing?**
 
@@ -210,22 +210,22 @@ The crossing itself is in a quiet residential area without restaurants. Walk 10 
 
 **Planning Your Kamakura Day Trip**
 
-Kamakura makes a perfect anime day trip from Tokyo. See our [Complete Guide to Anime Day Trips from Tokyo](/anime-day-trips-from-tokyo-2026/) for more destinations including Nikko, Hakone, and Enoshima.
+Kamakura makes a perfect anime day trip from Tokyo. See our [Complete Guide to Anime Day Trips from Tokyo](/articles/anime-day-trips-from-tokyo-2026) for more destinations including Nikko, Hakone, and Enoshima.
 
 ## More Pilgrimage Guides
 
-- [10 Anime Pilgrimage Spots in Tokyo (2026)](/anime-pilgrimage-spots-tokyo/)
-- [Your Name Pilgrimage Tokyo: Every Location with Access](/your-name-pilgrimage-tokyo/)
-- [Demon Slayer Pilgrimage Tokyo: Real Locations Guide](/demon-slayer-pilgrimage-tokyo/)
-- [Weathering With You Locations Tokyo: Complete Guide](/weathering-with-you-locations-tokyo/)
-- [One Piece Kumamoto Statue Tour: All Locations & Access](/one-piece-kumamoto-statue-tour/)
-- [Japan Rail Pass 2026: Is It Worth It?](/japan-rail-pass-2026-guide/)
+- [10 Anime Pilgrimage Spots in Tokyo (2026)](/articles/anime-pilgrimage-spots-tokyo)
+- [Your Name Pilgrimage Tokyo: Every Location with Access](/articles/your-name-pilgrimage-tokyo)
+- [Demon Slayer Pilgrimage Tokyo: Real Locations Guide](/articles/demon-slayer-pilgrimage-tokyo)
+- [Weathering With You Locations Tokyo: Complete Guide](/articles/weathering-with-you-locations-tokyo)
+- [One Piece Kumamoto Statue Tour: All Locations & Access](/articles/one-piece-kumamoto-statue-tour)
+- [Japan Rail Pass 2026: Is It Worth It?](/articles/japan-rail-pass-2026-guide)
 
 **Follow [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)** for daily Tokyo pop culture updates.
 
 Planning a trip to Tokyo?
 
-[Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
+[Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)
 
 ## Never Miss a Cafe Opening or Anime Event
 

@@ -307,17 +307,17 @@ Avoid bootlegs by checking MyFigureCollection. Consolidate shipments to save on 
 ### Shopping & Merch Guides
 
 - [Anime Merch Shopping Guide Japan](/anime-merch-shopping-guide/)
-- [Nakano Broadway Guide](/nakano-broadway-guide/)
-- [Akihabara Complete Guide 2026](/akihabara-complete-guide-2026/)
-- [Gachapon Guide Japan](/gachapon-guide-japan/)
-- [Japan Luggage Forwarding 2026](/japan-luggage-forwarding-2026/)
-- [Japan Travel Insurance 2026](/japan-travel-insurance-2026/)
+- [Nakano Broadway Guide](/articles/nakano-broadway-guide)
+- [Akihabara Complete Guide 2026](/articles/akihabara-complete-guide-2026)
+- [Gachapon Guide Japan](/articles/gachapon-guide-japan)
+- [Japan Luggage Forwarding 2026](/articles/japan-luggage-forwarding-2026)
+- [Japan Travel Insurance 2026](/articles/japan-travel-insurance-2026)
 
 **Share on Instagram:** “Buying anime figures from Japan without speaking Japanese? That’s what proxy shopping is for. Walkthrough guide: how to use ZenMarket, costs, and how to spot fakes. #AnimeCollecting #MercariJapan #ProxyShopping” — Tag **[@japan.pop.now](https://instagram.com/japan.pop.now)**
 
 Planning a trip to Tokyo?
 
-[Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
+[Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)
 
 ## Never Miss a Cafe Opening or Anime Event
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.

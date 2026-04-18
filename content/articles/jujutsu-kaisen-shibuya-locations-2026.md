@@ -28,7 +28,7 @@ The manga, written by Gege Akutami, treated Shibuya as a detailed set. In interv
 
 ## Before You Go: Logistics
 
-*Shibuya is also a major anime and pop culture hub — see our [Shibuya & Harajuku Pop Culture Guide](/shibuya-harajuku-pop-culture-guide/) for shops and cafes nearby.*
+*Shibuya is also a major anime and pop culture hub — see our [Shibuya & Harajuku Pop Culture Guide](/articles/shibuya-harajuku-pop-culture-guide) for shops and cafes nearby.*
 
 **Best time to visit:** Weekday mornings (Tuesday-Thursday, 7am-9am) give you empty streets. This matters for two reasons: you’ll get clean photos of Scramble Crossing without 3,000 people in frame, and you’ll actually feel the scale of the locations without crowd noise. Weekends turn Shibuya into a scrum of tourists and shoppers. Go early.
 
@@ -322,18 +322,18 @@ That’s what makes anime pilgrimage worth doing: understanding the creator’s 
 
 ### More Anime Pilgrimage Guides
 
-- [10 Must-Visit Anime Pilgrimage Spots in Tokyo](/anime-pilgrimage-spots-tokyo/)
-- [Demon Slayer Real Locations Tokyo](/demon-slayer-pilgrimage-tokyo/)
-- [Your Name Pilgrimage Tokyo](/your-name-pilgrimage-tokyo/)
-- [Weathering With You Locations Tokyo](/weathering-with-you-locations-tokyo/)
-- [SPY×FAMILY Tokyo Fan Day 2026](/spy-family-tokyo-fan-day-2026/)
-- [Shibuya & Harajuku Pop Culture Guide](/shibuya-harajuku-pop-culture-guide/)
+- [10 Must-Visit Anime Pilgrimage Spots in Tokyo](/articles/anime-pilgrimage-spots-tokyo)
+- [Demon Slayer Real Locations Tokyo](/articles/demon-slayer-pilgrimage-tokyo)
+- [Your Name Pilgrimage Tokyo](/articles/your-name-pilgrimage-tokyo)
+- [Weathering With You Locations Tokyo](/articles/weathering-with-you-locations-tokyo)
+- [SPY×FAMILY Tokyo Fan Day 2026](/articles/spy-family-tokyo-fan-day-2026)
+- [Shibuya & Harajuku Pop Culture Guide](/articles/shibuya-harajuku-pop-culture-guide)
 
 Planning your anime pilgrimage? Follow [@japan_pop_now](https://www.instagram.com/japan_pop_now/) for weekly location updates and cafe alerts.
 
 Planning a trip to Tokyo?
 
-[Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
+[Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)
 
 ## Never Miss a Cafe Opening or Anime Event
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.

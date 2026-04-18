@@ -114,18 +114,18 @@ For [anime-themed stays](https://japan-pop-now.com/how-to-book-anime-collab-cafe
 
 ### Related Guides
 
-- [Tokyo Anime Collab Cafes Spring 2026](/tokyo-anime-collab-cafes-spring-2026/)
-- [How to Book Anime Collab Cafes](/how-to-book-anime-collab-cafe-japan/)
+- [Tokyo Anime Collab Cafes Spring 2026](/articles/tokyo-anime-collab-cafes-spring-2026)
+- [How to Book Anime Collab Cafes](/articles/how-to-book-anime-collab-cafe-japan)
 - [Lawson Ticket & Loppi Guide](/lawson-ticket-loppi-guide/)
 - [Anime Merch Shopping Guide Japan](/anime-merch-shopping-guide/)
-- [Akihabara Complete Guide 2026](/akihabara-complete-guide-2026/)
-- [Japan IC Card Transit Guide](/japan-ic-card-transit-guide/)
+- [Akihabara Complete Guide 2026](/articles/akihabara-complete-guide-2026)
+- [Japan IC Card Transit Guide](/articles/japan-ic-card-transit-guide)
 
 Follow [@japan_pop_now](https://www.instagram.com/japan_pop_now/) for event updates and insider tips.
 
 Planning a trip to Tokyo?
 
-[Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
+[Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)
 
 ## Never Miss a Cafe Opening or Anime Event
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.

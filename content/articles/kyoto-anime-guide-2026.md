@@ -218,18 +218,18 @@ A 3-4 day trip covering major locations costs roughly Â¥8,000-Â¥12,000 in ad
 
 ### Explore Other Anime Destinations
 
-- [Akihabara Complete Guide 2026](/akihabara-complete-guide-2026/) – Tokyo’s anime and gaming district
-- [Anime Pilgrimage Spots in Tokyo](/anime-pilgrimage-spots-tokyo/) – Major filming locations and shrine visits
-- [Demon Slayer Pilgrimage Guide](/demon-slayer-pilgrimage-tokyo/) – Location-specific guide for Kimetsu no Yaiba fans
+- [Akihabara Complete Guide 2026](/articles/akihabara-complete-guide-2026) – Tokyo’s anime and gaming district
+- [Anime Pilgrimage Spots in Tokyo](/articles/anime-pilgrimage-spots-tokyo) – Major filming locations and shrine visits
+- [Demon Slayer Pilgrimage Guide](/articles/demon-slayer-pilgrimage-tokyo) – Location-specific guide for Kimetsu no Yaiba fans
 - [Osaka Anime Guide](/osaka-anime-guide/) – Anime culture and shopping in Kansai’s second-largest city
-- [Japan IC Card Transit Guide](/japan-ic-card-transit-guide/) – Everything you need to know about Suica and ICOCA cards
+- [Japan IC Card Transit Guide](/articles/japan-ic-card-transit-guide) – Everything you need to know about Suica and ICOCA cards
 - [Anime Merchandise Shopping Guide](/anime-merch-shopping-guide/) – Where to find rare collectibles across Japan
 
 **Follow [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)** for daily Tokyo pop culture updates.
 
 Planning a trip to Tokyo?
 
-[Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
+[Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)
 
 ## Never Miss a Cafe Opening or Anime Event
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.

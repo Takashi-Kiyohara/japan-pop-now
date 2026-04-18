@@ -118,7 +118,7 @@ There’s no direct train from Tokyo to Ghibli Park. The fastest route goes thro
 | 3 | Fujigaoka → Ai-Chikyuhaku-Kinen-Koen (Linimo) | ~15 min | ¥340 (~$2.30) |
 | **Total one-way** | **~2.5 hours** | **¥11,930 (~$81)** |
 
-The JR Pass covers the shinkansen leg (Tokyo to Nagoya), which saves you ¥22,600 on the round trip alone. If you’re visiting Ghibli Park as part of a broader Japan trip, the [Japan Rail Pass](/japan-rail-pass-2026-guide/) pays for itself on this route. The subway and Linimo portions aren’t covered by JR Pass — use your [IC card](/japan-ic-card-transit-guide/) for those.
+The JR Pass covers the shinkansen leg (Tokyo to Nagoya), which saves you ¥22,600 on the round trip alone. If you’re visiting Ghibli Park as part of a broader Japan trip, the [Japan Rail Pass](/articles/japan-rail-pass-2026-guide) pays for itself on this route. The subway and Linimo portions aren’t covered by JR Pass — use your [IC card](/articles/japan-ic-card-transit-guide) for those.
 
 A direct bus also runs from Nagoya Station’s Meitetsu Bus Center (4th floor, Platform 24) to the park, taking about 40 minutes. There are 7-10 departures daily — check schedules at the bus center or Meitetsu’s website.
 
@@ -192,18 +192,18 @@ Yes. The surrounding Expo 2005 park has open lawn areas where you can eat packed
 
 ## More Area Guides
 
-- [PokePark Kanto Tokyo 2026: Tickets, Areas & Tips](/pokepark-kanto-tokyo-2026/)
+- [PokePark Kanto Tokyo 2026: Tickets, Areas & Tips](/articles/pokepark-kanto-tokyo-2026)
 - [Tokyo Anime District Guide: 5 Areas Every Fan Should Visit](/tokyo-anime-districts-guide/)
 - [Akihabara Complete Guide 2026: Anime, Games & Beyond](/akihabara-complete-guide/)
 - [Ikebukuro Anime Guide 2026: Otome Road & Beyond](/ikebukuro-anime-guide/)
-- [Japan Rail Pass 2026: Is It Worth It?](/japan-rail-pass-2026-guide/)
-- [Japan eSIM vs Pocket WiFi: Best Pick for 2026](/japan-esim-pocket-wifi-sim-card/)
+- [Japan Rail Pass 2026: Is It Worth It?](/articles/japan-rail-pass-2026-guide)
+- [Japan eSIM vs Pocket WiFi: Best Pick for 2026](/articles/japan-esim-pocket-wifi-sim-card)
 
 **Follow [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)** for daily Tokyo pop culture updates.
 
 Planning a trip to Tokyo?
 
-[Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
+[Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)
 
 ## Never Miss a Cafe Opening or Anime Event
 

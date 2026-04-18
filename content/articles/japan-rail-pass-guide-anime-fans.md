@@ -205,19 +205,19 @@ Partially. The JR Pass covers JR lines to Universal City Station, but not the pa
 
 ## More Practical Guides
 
-- [Japan IC Card & Transit Guide for Anime Fans (2026)](/japan-ic-card-transit-guide/)
-- [One Piece Kumamoto Statue Tour: All 10 Locations](/one-piece-kumamoto-statue-tour/)
-- [Osaka Anime Guide 2026: Den Den Town & Beyond](/osaka-anime-guide-den-den-town/)
-- [Akihabara Complete Guide 2026](/akihabara-complete-guide-2026/)
-- [10 Anime Pilgrimage Spots in Tokyo](/anime-pilgrimage-spots-tokyo/)
+- [Japan IC Card & Transit Guide for Anime Fans (2026)](/articles/japan-ic-card-transit-guide)
+- [One Piece Kumamoto Statue Tour: All 10 Locations](/articles/one-piece-kumamoto-statue-tour)
+- [Osaka Anime Guide 2026: Den Den Town & Beyond](/articles/osaka-anime-guide-den-den-town)
+- [Akihabara Complete Guide 2026](/articles/akihabara-complete-guide-2026)
+- [10 Anime Pilgrimage Spots in Tokyo](/articles/anime-pilgrimage-spots-tokyo)
 - [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)
-- [JR Pass Anime Pilgrimages 2026 — Routes, Prices & Savings Calculator](/jr-pass-anime-pilgrimage-routes-2026/)
-- [Japan Trip Checklist for Anime Fans 2026](/japan-trip-checklist-anime-fans-2026/)
+- [JR Pass Anime Pilgrimages 2026 — Routes, Prices & Savings Calculator](/articles/jr-pass-anime-pilgrimage-routes-2026)
+- [Japan Trip Checklist for Anime Fans 2026](/articles/japan-trip-checklist-anime-fans-2026)
 - [Ship Anime Figures Home from Japan: 2026 Guide](/ship-anime-figures-merch-home-japan-2026/)
 
 Planning a trip to Tokyo?
 
-[Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
+[Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)
 
 ## Never Miss a Cafe Opening or Anime Event
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.

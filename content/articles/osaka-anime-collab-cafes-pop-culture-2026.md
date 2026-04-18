@@ -70,7 +70,7 @@ What you’ll find: major chains like Animate, Mandarake, Lashinbang, and Super 
 
 Since 2005, Den Den Town hosts the annual Nipponbashi Street Festa — Japan’s largest street cosplay event with 10,000+ participants. It typically runs in spring; check dates if your trip overlaps.
 
-For a full shop-by-shop breakdown, see our [Osaka Den Den Town guide](/osaka-anime-guide-den-den-town/).
+For a full shop-by-shop breakdown, see our [Osaka Den Den Town guide](/articles/osaka-anime-guide-den-den-town).
 
 ### Namba Area (Beyond Den Den Town)
 The broader Namba area surrounding Den Den Town includes Namba Parks, Namba CITY, and the Dotonbori entertainment strip. Several Namba department stores host rotating anime pop-up shops and merchandise floors. The Namba Marui building (where Chugai Grace Cafe is located) has a dedicated anime merchandise floor on upper levels.
@@ -115,7 +115,7 @@ USJ park admission starts at ¥8,600 (~$59) for a 1-day pass. Express Passes for
 | **Budget bus (Willer Express)** | 8-9 hours overnight | ¥3,000-6,000 (~$20-41) | Not covered |
 | **Peach/Jetstar flight** | 1h 15min + airport time | ¥4,000-10,000 (~$27-68) | Not covered |
 
-The [JR Pass](/japan-rail-pass-2026-guide/) covers Hikari and Kodama shinkansen to Osaka (not Nozomi). If you’re doing Tokyo + Osaka + day trips, the 7-day JR Pass (¥50,000) almost certainly pays for itself on the Tokyo-Osaka round trip alone (¥27,740 value) plus any JR-covered day trips.
+The [JR Pass](/articles/japan-rail-pass-2026-guide) covers Hikari and Kodama shinkansen to Osaka (not Nozomi). If you’re doing Tokyo + Osaka + day trips, the 7-day JR Pass (¥50,000) almost certainly pays for itself on the Tokyo-Osaka round trip alone (¥27,740 value) plus any JR-covered day trips.
 
 ## Frequently Asked Questions
 **Is Den Den Town worth visiting if I’ve already been to Akihabara?**
@@ -140,18 +140,18 @@ Namba. It puts you within walking distance of Den Den Town, Chugai Grace Cafe, a
 
 ## More Area Guides
 
-- [Osaka Den Den Town & Beyond: Complete Anime Guide](/osaka-anime-guide-den-den-town/)
-- [Detective Conan Pilgrimage & Events 2026](/detective-conan-pilgrimage-events-2026/)
+- [Osaka Den Den Town & Beyond: Complete Anime Guide](/articles/osaka-anime-guide-den-den-town)
+- [Detective Conan Pilgrimage & Events 2026](/articles/detective-conan-pilgrimage-events-2026)
 - [Tokyo Anime District Guide: 5 Areas](/tokyo-anime-districts-guide/)
 - [Akihabara Complete Guide 2026](/akihabara-complete-guide/)
-- [Japan Rail Pass 2026: Is It Worth It?](/japan-rail-pass-2026-guide/)
-- [Japan eSIM vs Pocket WiFi: Best Pick for 2026](/japan-esim-pocket-wifi-sim-card/)
+- [Japan Rail Pass 2026: Is It Worth It?](/articles/japan-rail-pass-2026-guide)
+- [Japan eSIM vs Pocket WiFi: Best Pick for 2026](/articles/japan-esim-pocket-wifi-sim-card)
 
 **Follow [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)** for daily Tokyo pop culture updates.
 
 Planning a trip to Tokyo?
 
-[Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
+[Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)
 
 ## Never Miss a Cafe Opening or Anime Event
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.

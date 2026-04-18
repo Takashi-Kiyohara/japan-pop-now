@@ -257,18 +257,18 @@ Don’t overthink it. Tokyo has good hotels across every price range. Pick one, 
 
 ### Plan Your Anime Tokyo Trip
 
-- [Tokyo Anime District Guide: 5 Areas Every Fan Must Visit](/tokyo-anime-district-guide/)
-- [Akihabara Complete Guide 2026](/akihabara-complete-guide-2026/)
-- [Ikebukuro Anime Guide 2026](/ikebukuro-anime-guide-2026/)
-- [Japan IC Card Transit Guide](/japan-ic-card-transit-guide/)
-- [Japan eSIM vs Pocket WiFi vs SIM Card](/japan-esim-pocket-wifi-sim-card/)
-- [Japan Rail Pass 2026 Guide](/japan-rail-pass-2026-guide/)
+- [Tokyo Anime District Guide: 5 Areas Every Fan Must Visit](/articles/tokyo-anime-district-guide)
+- [Akihabara Complete Guide 2026](/articles/akihabara-complete-guide-2026)
+- [Ikebukuro Anime Guide 2026](/articles/ikebukuro-anime-guide-2026)
+- [Japan IC Card Transit Guide](/articles/japan-ic-card-transit-guide)
+- [Japan eSIM vs Pocket WiFi vs SIM Card](/articles/japan-esim-pocket-wifi-sim-card)
+- [Japan Rail Pass 2026 Guide](/articles/japan-rail-pass-2026-guide)
 
 **Share on Instagram:** “Stayed in Tokyo’s best anime hotels so you don’t have to. From ¥3k hostels to ¥28k official anime collabs—here’s where to sleep if you’re visiting for anime tourism. #TokyoHotels #AnimeTravel #Japan” — Tag **[@japan.pop.now](https://instagram.com/japan.pop.now)**
 
 Planning a trip to Tokyo?
 
-[Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
+[Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)
 
 ## Never Miss a Cafe Opening or Anime Event
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.

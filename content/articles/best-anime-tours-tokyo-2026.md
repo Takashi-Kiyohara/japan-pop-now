@@ -340,12 +340,12 @@ Direct operators sometimes request bank transfer (especially for private tours).
 
 ## More Area Guides
 
-- [Akihabara Complete Guide 2026](/akihabara-complete-guide-2026/)
-- [Ikebukuro Anime Guide 2026](/ikebukuro-anime-guide-2026/)
-- [Shibuya & Harajuku Guide](/shibuya-harajuku-pop-culture-guide/)
-- [Nakano Broadway Guide](/nakano-broadway-guide/)
-- [How to Book Collab Cafes](/how-to-book-anime-collab-cafe-japan/)
-- [Anime Merch Shopping Guide](/anime-merch-shopping-guide-japan/)
+- [Akihabara Complete Guide 2026](/articles/akihabara-complete-guide-2026)
+- [Ikebukuro Anime Guide 2026](/articles/ikebukuro-anime-guide-2026)
+- [Shibuya & Harajuku Guide](/articles/shibuya-harajuku-pop-culture-guide)
+- [Nakano Broadway Guide](/articles/nakano-broadway-guide)
+- [How to Book Collab Cafes](/articles/how-to-book-anime-collab-cafe-japan)
+- [Anime Merch Shopping Guide](/articles/anime-merch-shopping-guide-japan)
 
 **Follow [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)** for daily Tokyo pop culture updates.
 
@@ -353,7 +353,7 @@ Direct operators sometimes request bank transfer (especially for private tours).
 
 Planning a trip to Tokyo?
 
-[Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
+[Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)
 
 ## Never Miss a Cafe Opening or Anime Event
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.

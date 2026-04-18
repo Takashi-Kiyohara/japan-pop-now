@@ -1,0 +1,4 @@
+# Python deps for scripts used by GitHub Actions.
+# Minimal set so actions/setup-python cache works.
+Pillow>=10.0
+requests>=2.31

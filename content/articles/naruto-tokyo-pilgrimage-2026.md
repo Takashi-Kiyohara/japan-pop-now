@@ -260,11 +260,11 @@ A: Conservative estimate: 8,000-15,000 yen (merchandise 3,000-8,000, cafes 2,000
 
 Continue your pilgrimage journey with our complete anime location guides:
 
-- [Anime Pilgrimage Spots Across Tokyo](/anime-pilgrimage-spots-tokyo/)
-- [Jujutsu Kaisen Shibuya Locations 2026](/jujutsu-kaisen-shibuya-locations-2026/)
-- [Demon Slayer Pilgrimage Guide: Tokyo to Mt. Fuji](/demon-slayer-pilgrimage-tokyo/)
-- [Your Name Pilgrimage: Visiting Hida and Tokyo](/your-name-pilgrimage-tokyo/)
-- [Chainsaw Man Pilgrimage: Shibuya & Beyond](/chainsaw-man-pilgrimage-tokyo/)
+- [Anime Pilgrimage Spots Across Tokyo](/articles/anime-pilgrimage-spots-tokyo)
+- [Jujutsu Kaisen Shibuya Locations 2026](/articles/jujutsu-kaisen-shibuya-locations-2026)
+- [Demon Slayer Pilgrimage Guide: Tokyo to Mt. Fuji](/articles/demon-slayer-pilgrimage-tokyo)
+- [Your Name Pilgrimage: Visiting Hida and Tokyo](/articles/your-name-pilgrimage-tokyo)
+- [Chainsaw Man Pilgrimage: Shibuya & Beyond](/articles/chainsaw-man-pilgrimage-tokyo)
 
 ---
 

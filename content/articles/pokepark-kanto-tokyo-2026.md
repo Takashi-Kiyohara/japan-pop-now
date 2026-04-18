@@ -26,9 +26,9 @@ This guide covers all three ticket tiers, how international visitors can book, w
 
 Plan your PokéPark day faster:
 
-- [**Need a backup if tickets sell out?** Read: Book Japan Anime Events from Overseas](/book-japan-anime-events-overseas-2026/)
-- [**Comparing transport costs?** Read: Japan Rail Pass 2026 Guide](/japan-rail-pass-2026-guide/)
-- [**Building a wider Pokémon day in Tokyo?** Add: Gaming Tokyo 2026](/gaming-tokyo-2026/)
+- [**Need a backup if tickets sell out?** Read: Book Japan Anime Events from Overseas](/articles/book-japan-anime-events-overseas-2026)
+- [**Comparing transport costs?** Read: Japan Rail Pass 2026 Guide](/articles/japan-rail-pass-2026-guide)
+- [**Building a wider Pokémon day in Tokyo?** Add: Gaming Tokyo 2026](/articles/gaming-tokyo-2026)
 
 ## Table of Contents
 
@@ -74,14 +74,14 @@ The international site has its own ticket allocation separate from the domestic 
 Japanese residents buy through a monthly lottery — applications open on the 1st through 12th of each month for the following month’s dates. This requires Japanese SMS verification and a domestic payment method, making it impractical for most international visitors unless you have a local friend willing to help.
 
 ### What to Do If PokéPark Kanto Tickets Are Sold Out
-If your preferred dates show no availability on the international portal, check [our proxy booking guide](/book-japan-anime-events-overseas-2026/) for services that can secure tickets through the domestic lottery system on your behalf. Proxy fees typically run ¥1,500-3,000 per booking.
+If your preferred dates show no availability on the international portal, check [our proxy booking guide](/articles/book-japan-anime-events-overseas-2026) for services that can secure tickets through the domestic lottery system on your behalf. Proxy fees typically run ¥1,500-3,000 per booking.
 
 Best next step**Choose the ticket path that matches your availability risk**
 If your dates are still open, book the official English site immediately. If the slot is gone, switch to the overseas fallback before you rebuild the whole trip. This keeps the page useful at the exact point where readers are closest to clicking out.
 
 - [**Dates still available?** Open the official English booking site](https://ticket-en.pokepark-kanto.co.jp/)
-- [**Official tickets sold out?** Use the overseas backup booking guide](/book-japan-anime-events-overseas-2026/)
-- [**Building a bigger Pokémon-focused Tokyo day?** Add more gaming and Pokémon-friendly stops](/gaming-tokyo-2026/)
+- [**Official tickets sold out?** Use the overseas backup booking guide](/articles/book-japan-anime-events-overseas-2026)
+- [**Building a bigger Pokémon-focused Tokyo day?** Add more gaming and Pokémon-friendly stops](/articles/gaming-tokyo-2026)
 
 ## What Are the 3 Areas Inside PokéPark Kanto?
 
@@ -126,7 +126,7 @@ Take the Keio Line from Shinjuku Station to **Keio-Yomiuriland Station** (京王
 ### Cheapest Alternative Route to PokéPark Kanto by Odakyu and Bus
 Take the Odakyu Line from Shinjuku to **Shin-Yurigaoka Station** (新百合ヶ丘駅), then catch the Odakyu Bus (New 07 line) to Yomiuriland. This route takes about 50-60 minutes total and costs roughly ¥520 (~$3.50). It’s a backup option if the gondola has long queues.
 
-**JR Pass note:** Neither the Keio Line nor the Odakyu Line is covered by the Japan Rail Pass. If you have a JR Pass, the most efficient approach is to use it for your day trip transportation to the Shinjuku area, then pay the Keio/Odakyu fare separately. See our [JR Pass guide](/japan-rail-pass-2026-guide/) for which trips are covered.
+**JR Pass note:** Neither the Keio Line nor the Odakyu Line is covered by the Japan Rail Pass. If you have a JR Pass, the most efficient approach is to use it for your day trip transportation to the Shinjuku area, then pay the Keio/Odakyu fare separately. See our [JR Pass guide](/articles/japan-rail-pass-2026-guide) for which trips are covered.
 ## What’s the Best Route to See Everything in One Day?
 
 ![What’s the Best Route to See Everything in One Day? — PokéPark Kanto Complete Guide 2026](/images/articles/pokepark-kanto-tokyo-2026/5.jpg)
@@ -170,9 +170,9 @@ That said, most visitors are better off staying in Shinjuku — the Keio Line ri
 
 After this guide, read one of these next:
 
-- [**If official booking looks difficult:** Book Japan Anime Events from Overseas](/book-japan-anime-events-overseas-2026/)
-- [**If you are optimizing train value:** Japan Rail Pass 2026 Guide](/japan-rail-pass-2026-guide/)
-- [**If you want more Pokémon and game spots:** Gaming Tokyo 2026](/gaming-tokyo-2026/)
+- [**If official booking looks difficult:** Book Japan Anime Events from Overseas](/articles/book-japan-anime-events-overseas-2026)
+- [**If you are optimizing train value:** Japan Rail Pass 2026 Guide](/articles/japan-rail-pass-2026-guide)
+- [**If you want more Pokémon and game spots:** Gaming Tokyo 2026](/articles/gaming-tokyo-2026)
 
 **Choose your next anime plan**
 
@@ -198,7 +198,7 @@ Plan for 5-7 hours to see everything comfortably. Pokémon Forest alone takes 2-
 
 ### Does the Japan Rail Pass Help You Reach PokéPark Kanto?
 
-No. PokéPark Kanto is accessed via the Keio Line or Odakyu Line, neither of which is covered by JR Pass. The total fare from Shinjuku is about ¥770 (~$5.50) including the gondola. See our [JR Pass guide](/japan-rail-pass-2026-guide/) for which routes are covered.
+No. PokéPark Kanto is accessed via the Keio Line or Odakyu Line, neither of which is covered by JR Pass. The total fare from Shinjuku is about ¥770 (~$5.50) including the gondola. See our [JR Pass guide](/articles/japan-rail-pass-2026-guide) for which routes are covered.
 
 ### Elite Trainers Pass vs Trainers Pass: Which PokéPark Ticket Is Better?
 
@@ -214,15 +214,15 @@ Yes — PokéPark Kanto has park-exclusive merchandise that isn’t available at
 
 ## More Area Guides
 
-- [How to Book Japan Anime Events from Overseas](/book-japan-anime-events-overseas-2026/) — Proxy booking for sold-out dates
-- [Ghibli Park Complete Guide 2026](/ghibli-park-complete-guide-2026/) — Another must-visit theme park
-- [Gaming Tokyo 2026](/gaming-tokyo-2026/) — Pokémon Center, Nintendo Store & more
-- [Japan Rail Pass 2026 Guide](/japan-rail-pass-2026-guide/) — Is the pass worth it for your trip?
-- [Japan eSIM & Pocket WiFi Guide](/japan-esim-pocket-wifi-sim-card/) — Stay connected to check ticket availability
+- [How to Book Japan Anime Events from Overseas](/articles/book-japan-anime-events-overseas-2026) — Proxy booking for sold-out dates
+- [Ghibli Park Complete Guide 2026](/articles/ghibli-park-complete-guide-2026) — Another must-visit theme park
+- [Gaming Tokyo 2026](/articles/gaming-tokyo-2026) — Pokémon Center, Nintendo Store & more
+- [Japan Rail Pass 2026 Guide](/articles/japan-rail-pass-2026-guide) — Is the pass worth it for your trip?
+- [Japan eSIM & Pocket WiFi Guide](/articles/japan-esim-pocket-wifi-sim-card) — Stay connected to check ticket availability
 
 Planning a trip to Tokyo?
 
-[Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
+[Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)
 
 ## Never Miss a Cafe Opening or Anime Event
 

@@ -87,7 +87,7 @@ Prices range from surprisingly affordable to serious-collector territory. The co
 
 **Access:** 5 min walk from JR Akihabara Station, toward Suehirocho
 
-ð¡ **Local tip:** The Mandarake in Akihabara and the one in Nakano Broadway carry different stock. If you’re a serious collector, visit both (Nakano is 25 min from Akihabara on the Chuo Line, change at Shinjuku). See our [Nakano Broadway Guide](/nakano-broadway-guide/) for details.
+ð¡ **Local tip:** The Mandarake in Akihabara and the one in Nakano Broadway carry different stock. If you’re a serious collector, visit both (Nakano is 25 min from Akihabara on the Chuo Line, change at Shinjuku). See our [Nakano Broadway Guide](/articles/nakano-broadway-guide) for details.
 
 ## The Deep Cuts: What Most Guides Miss
 
@@ -107,7 +107,7 @@ This is the store that retro game enthusiasts from overseas specifically fly to 
 ### Akihabara Gachapon Kaikan
 An entire store filled with nothing but gachapon (capsule toy) machines â over 500 of them packed into a single space. The machines dispense miniature figures, keychains, and novelty items for Â¥200-500 per turn. Categories include anime characters, realistic miniature food replicas, cats in costumes, tiny furniture sets, and things so absurd they defy description.
 
-Budget Â¥1,000-2,000 and accept that you’ll probably spend more. It’s addictive â the randomness of what you’ll get is part of the appeal. See our [Complete Gachapon Guide](/gachapon-guide-japan/) for detailed tips.
+Budget Â¥1,000-2,000 and accept that you’ll probably spend more. It’s addictive â the randomness of what you’ll get is part of the appeal. See our [Complete Gachapon Guide](/articles/gachapon-guide-japan) for detailed tips.
 
 **Address:** 3-15-5 Sotokanda, Chiyoda-ku, Tokyo
 
@@ -186,7 +186,7 @@ Gratte stand at Animate Akihabara ANNEX (rotating themes, no reservation â 
 
 Final Fantasy Eorzea Cafe â ãã»ã©ãªã¾ã¼ãAKIBAãã«ãã¨ã³ã¿ã¼ãã¤ã³ã¡ã³ã2F (permanent, reservations via TableCheck)
 
-For the full list of collab cafes across Tokyo, see our [Tokyo Anime Collab Cafe Guide for Spring 2026](/tokyo-anime-collab-cafes-spring-2026/).
+For the full list of collab cafes across Tokyo, see our [Tokyo Anime Collab Cafe Guide for Spring 2026](/articles/tokyo-anime-collab-cafes-spring-2026).
 
 ## Maid Cafes: What Actually Happens Inside (and How to Avoid Scams)
 
@@ -314,9 +314,9 @@ undefined
 
 **Asakusa** (Tsukuba Express, 5 min direct) â Sensoji temple, traditional Tokyo, and street food. Asakusa also has anime connections: Sensoji has hosted Demon Slayer events, making it a subtle pilgrimage spot.
 
-**Ikebukuro** (JR Yamanote, ~20 min) â Tokyo’s other major otaku hub. Where Akihabara skews male-oriented, Ikebukuro’s Otome Road caters more to female fans. Animate Ikebukuro is the chain’s flagship â larger than the Akihabara store. â [Read our Ikebukuro guide](/ikebukuro-anime-guide-2026/)
+**Ikebukuro** (JR Yamanote, ~20 min) â Tokyo’s other major otaku hub. Where Akihabara skews male-oriented, Ikebukuro’s Otome Road caters more to female fans. Animate Ikebukuro is the chain’s flagship â larger than the Akihabara store. â [Read our Ikebukuro guide](/articles/ikebukuro-anime-guide-2026)
 
-**Nakano Broadway** (JR Chuo Line via Shinjuku, ~25 min total) â A shopping complex filled with specialist anime, manga, and figure shops. Less touristy than Akihabara, with different secondhand stock at Mandarake’s Nakano location. Worth the trip for collectors. â [Read our Nakano Broadway guide](/nakano-broadway-guide/)
+**Nakano Broadway** (JR Chuo Line via Shinjuku, ~25 min total) â A shopping complex filled with specialist anime, manga, and figure shops. Less touristy than Akihabara, with different secondhand stock at Mandarake’s Nakano location. Worth the trip for collectors. â [Read our Nakano Broadway guide](/articles/nakano-broadway-guide)
 
 **Jimbocho** (walk 10 min west, or Toei Shinjuku Line 1 stop) â Tokyo’s legendary used bookstore district. Dozens of bookshops specializing in everything from rare first editions to manga to academic texts. A completely different kind of treasure hunt.
 
@@ -376,17 +376,17 @@ A local otaku guide can show you the hidden shops, retro game floors, and doujin
 
 **Anime Pilgrimages Near Akihabara**
 
-Many anime locations are just a short train ride away. Explore [Jujutsu Kaisen locations in Shibuya](/jujutsu-kaisen-shibuya-locations-2026/) or follow the [Chainsaw Man pilgrimage route across Tokyo](/chainsaw-man-pilgrimage-tokyo/).
+Many anime locations are just a short train ride away. Explore [Jujutsu Kaisen locations in Shibuya](/articles/jujutsu-kaisen-shibuya-locations-2026) or follow the [Chainsaw Man pilgrimage route across Tokyo](/articles/chainsaw-man-pilgrimage-tokyo).
 
 ## More Area Guides
 
-- [Tokyo Anime Collab Cafes â Spring 2026 Guide](/tokyo-anime-collab-cafes-spring-2026/)
-- [Ikebukuro for Anime Fans: Animate, Otome Road & Beyond](/ikebukuro-anime-guide-2026/)
-- [10 Anime Pilgrimage Spots in Tokyo You Can Visit Today](/anime-pilgrimage-spots-tokyo/)
-- [How to Book an Anime Collab Cafe in Japan](/how-to-book-anime-collab-cafe-japan/)
-- [The Complete Gachapon Guide for Tourists in Japan](/gachapon-guide-japan/)
-- [Game Centers & Arcades in Japan â The Complete Guide](/game-centers-arcades-japan/)
-- [Japan IC Card & Transit Guide for Anime Fans](/japan-ic-card-transit-guide/)
+- [Tokyo Anime Collab Cafes â Spring 2026 Guide](/articles/tokyo-anime-collab-cafes-spring-2026)
+- [Ikebukuro for Anime Fans: Animate, Otome Road & Beyond](/articles/ikebukuro-anime-guide-2026)
+- [10 Anime Pilgrimage Spots in Tokyo You Can Visit Today](/articles/anime-pilgrimage-spots-tokyo)
+- [How to Book an Anime Collab Cafe in Japan](/articles/how-to-book-anime-collab-cafe-japan)
+- [The Complete Gachapon Guide for Tourists in Japan](/articles/gachapon-guide-japan)
+- [Game Centers & Arcades in Japan â The Complete Guide](/articles/game-centers-arcades-japan)
+- [Japan IC Card & Transit Guide for Anime Fans](/articles/japan-ic-card-transit-guide)
 - [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)
 
 undefined

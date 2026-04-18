@@ -1,4 +1,4 @@
-﻿---
+---
 title: "How to Book Animate Cafe Japan [2026] — Lottery System, Locations and Gratte Guide"
 description: "Book Animate Cafe in 2026: lottery entry guide, all Tokyo/Osaka locations, Gratte stands, DECOTTO donuts. Insider tips to win the draw and secure reservations..."
 date: "2026-03-28"
@@ -199,25 +199,25 @@ Ikebukuro Main. Largest space, best kitchen, gets every collaboration, and it’
 
 ## More Collab Cafe Guides
 
-- [How to Book an Anime Collab Cafe in Japan — Complete Guide](/how-to-book-anime-collab-cafe-japan/)
-- [Tokyo Anime Collab Cafes — Spring 2026 (Updated Weekly)](/tokyo-anime-collab-cafes-spring-2026/)
-- [Jujutsu Kaisen PLAZA Chair:Black Pop-Up Guide](/tokyo-anime-collab-cafes-spring-2026/)
+- [How to Book an Anime Collab Cafe in Japan — Complete Guide](/articles/how-to-book-anime-collab-cafe-japan)
+- [Tokyo Anime Collab Cafes — Spring 2026 (Updated Weekly)](/articles/tokyo-anime-collab-cafes-spring-2026)
+- [Jujutsu Kaisen PLAZA Chair:Black Pop-Up Guide](/articles/tokyo-anime-collab-cafes-spring-2026)
 - [One Piece Cafe GENE at PARCO](/one-piece-cafe-gene-parco-2026/)
-- [Anime Collab Cafe Calendar](/tokyo-anime-collab-cafes-spring-2026/)
+- [Anime Collab Cafe Calendar](/articles/tokyo-anime-collab-cafes-spring-2026)
 - [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)
 
 ### More Collab Cafe & Event Guides
 
-- [How to Book Anime Collab Cafes in Japan](/how-to-book-anime-collab-cafe-japan/)
-- [Tokyo Anime Collab Cafes Spring 2026](/tokyo-anime-collab-cafes-spring-2026/)
+- [How to Book Anime Collab Cafes in Japan](/articles/how-to-book-anime-collab-cafe-japan)
+- [Tokyo Anime Collab Cafes Spring 2026](/articles/tokyo-anime-collab-cafes-spring-2026)
 - [One Piece Cafe GENE at PARCO 2026](/one-piece-cafe-gene-parco-2026/)
 - [Lawson Ticket & Loppi Guide](/lawson-ticket-loppi-guide/)
-- [FamilyMart Anime Collab Stores 2026](/familymart-anime-collab-stores-2026/)
+- [FamilyMart Anime Collab Stores 2026](/articles/familymart-anime-collab-stores-2026)
 - [Anime Merch Shopping Guide Japan](/anime-merch-shopping-guide/)
 
 Planning a trip to Tokyo?
 
-[Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
+[Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)
 
 ## Never Miss a Cafe Opening or Anime Event
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.

@@ -56,7 +56,7 @@ Nearly a decade after the film’s release, you’ll still find fans visiting ev
 
 [→ Read our complete Your Name pilgrimage guide with all Tokyo locations and a walking route](https://japan-pop-now.com/your-name-pilgrimage-tokyo/)
 
-## 2. Shibuya Crossing — [Weathering With You](/weathering-with-you-locations-tokyo/) / [Jujutsu Kaisen](/jujutsu-kaisen-shibuya-locations-2026/)
+## 2. Shibuya Crossing — [Weathering With You](/articles/weathering-with-you-locations-tokyo) / [Jujutsu Kaisen](/articles/jujutsu-kaisen-shibuya-locations-2026)
 
 Shibuya Crossing from above — one of the most recognizable locations in anime
 
@@ -84,7 +84,7 @@ Sensoji Temple in Asakusa — Tokyo’s oldest temple and a Demon Slayer pilgrim
  **Local tip:** Visit at dusk (around 17:00–18:00) when the temple and Nakamise street are illuminated. The crowds thin out and the atmosphere shifts to something closer to the historical setting of Demon Slayer.
 
 ## 4. Akihabara — Steins;Gate
-The science-fiction thriller Steins;Gate is set almost entirely in Akihabara, and the real neighborhood is reproduced with documentary-level accuracy. Radio Kaikan (the yellow-facade building at the Electric Town exit — see our [complete Akihabara guide](/akihabara-complete-guide-2026/) for floor-by-floor details), the UDX building, and specific street corners and side alleys all appear in the anime exactly as they look in real life.
+The science-fiction thriller Steins;Gate is set almost entirely in Akihabara, and the real neighborhood is reproduced with documentary-level accuracy. Radio Kaikan (the yellow-facade building at the Electric Town exit — see our [complete Akihabara guide](/articles/akihabara-complete-guide-2026) for floor-by-floor details), the UDX building, and specific street corners and side alleys all appear in the anime exactly as they look in real life.
 
 What makes this pilgrimage special: unlike locations from period pieces or fantasy anime, Akihabara hasn’t changed much since Steins;Gate aired. Walking through the neighborhood with screenshots on your phone produces an uncanny sense of inhabiting the show — the buildings, signs, and street layouts match almost perfectly.
 
@@ -95,7 +95,7 @@ What makes this pilgrimage special: unlike locations from period pieces or fanta
 
 [→ Read our complete Akihabara guide for everything else to do in the area](https://japan-pop-now.com/akihabara-complete-guide-2026/)
 
-## 5. [Ikebukuro](/ikebukuro-anime-guide-2026/) — Durarara!!
+## 5. [Ikebukuro](/articles/ikebukuro-anime-guide-2026) — Durarara!!
 The supernatural action series Durarara!! is set in Ikebukuro, and the neighborhood’s real layout is faithfully reproduced. Sunshine 60 Dori (the main street from the East Exit), Ikebukuro West Gate Park, and specific intersections all appear in the anime. Walking through Ikebukuro after watching Durarara!! gives the neighborhood a layer of cool, slightly dangerous energy that enhances the real experience.
 
 | **Anime** | Durarara!! / デュラララ!! (2010–2016) |
@@ -195,12 +195,12 @@ Visiting anime filming locations is more fun with a local guide who knows the ex
 
 ### New In-Depth Pilgrimage Guides
 
-- [Jujutsu Kaisen Shibuya Pilgrimage Guide 2026](/demon-slayer-pilgrimage-tokyo/) — Complete walking route with 10+ real JJK locations in Shibuya
-- [SPY x FAMILY Fan Day in Tokyo 2026](/your-name-pilgrimage-tokyo/) — European-aesthetic locations, merch shops, and collab cafes
+- [Jujutsu Kaisen Shibuya Pilgrimage Guide 2026](/articles/demon-slayer-pilgrimage-tokyo) — Complete walking route with 10+ real JJK locations in Shibuya
+- [SPY x FAMILY Fan Day in Tokyo 2026](/articles/your-name-pilgrimage-tokyo) — European-aesthetic locations, merch shops, and collab cafes
 
 Planning a trip to Tokyo?
 
-[Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
+[Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)
 
 ## Never Miss a Cafe Opening or Anime Event
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.

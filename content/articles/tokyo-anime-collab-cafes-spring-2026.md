@@ -25,7 +25,7 @@ If you visit Tokyo between now and the end of April, you’ll find over a dozen 
 
 The catch? Almost all of this information exists only in Japanese. Announcements go out on X (formerly Twitter) with two weeks’ notice, reservation systems are entirely in Japanese, and the most popular cafes sell out within minutes of opening bookings.
 
-*New to collab cafe booking? Read our step-by-step [How to Book Anime Collab Cafes](/how-to-book-anime-collab-cafe-japan/) guide first.*
+*New to collab cafe booking? Read our step-by-step [How to Book Anime Collab Cafes](/articles/how-to-book-anime-collab-cafe-japan) guide first.*
 
 This guide solves that problem. We track every anime collab cafe in Tokyo, translate the key details into English, and update this page weekly as new cafes are announced. Bookmark it before your trip — and check back the week you arrive.
 
@@ -35,8 +35,8 @@ Use this page differently depending on how fixed your trip already is.
 
 - **Need something open right now?** Start with this list and the [Anime Collab Cafe Calendar](/collab-cafe-calendar/).
 - **Already know the series you love?** Jump to the [Find by Anime hub](/find-by-anime-in-japan-2026-pilgrimage-guides-by-series/) first, then come back here for current Tokyo dates.
-- **Worried about reservations?** Read the [booking guide](/how-to-book-anime-collab-cafe-japan/) before choosing a venue.
-- **Want to turn the cafe into a full fandom day?** Pair it with [Ikebukuro](/ikebukuro-anime-guide-2026/) or [Akihabara](/akihabara-complete-guide-2026/) depending on the location.
+- **Worried about reservations?** Read the [booking guide](/articles/how-to-book-anime-collab-cafe-japan) before choosing a venue.
+- **Want to turn the cafe into a full fandom day?** Pair it with [Ikebukuro](/articles/ikebukuro-anime-guide-2026) or [Akihabara](/articles/akihabara-complete-guide-2026) depending on the location.
 
 ## Table of Contents
 
@@ -303,13 +303,13 @@ For the fastest updates, follow **[@japan_pop_now on Instagram](https://www.inst
 - [Ikebukuro for Anime Fans: Animate, Otome Road & Beyond](https://japan-pop-now.com/ikebukuro-anime-guide-2026/)
 - [10 Anime Pilgrimage Spots in Tokyo You Can Visit Today](https://japan-pop-now.com/anime-pilgrimage-spots-tokyo/)
 
-**Planning beyond spring?** Check our [Live Collab Cafe Calendar](/collab-cafe-calendar/) for all current collaborations, updated every Monday. Visiting Osaka? See the [Osaka Anime Collab Cafe Guide](/osaka-anime-collab-cafes-pop-culture-2026/).
+**Planning beyond spring?** Check our [Live Collab Cafe Calendar](/collab-cafe-calendar/) for all current collaborations, updated every Monday. Visiting Osaka? See the [Osaka Anime Collab Cafe Guide](/articles/osaka-anime-collab-cafes-pop-culture-2026).
 
 *Japan Pop Now is a Tokyo-based English-language media covering Japanese pop culture for international visitors. We specialize in information that’s usually only available in Japanese — collab cafes, anime events, limited-edition merchandise, and the spots that guidebooks don’t cover.*
 
-## [FamilyMart Anime Collab Stores 2026](/familymart-anime-collab-stores-2026/)
+## [FamilyMart Anime Collab Stores 2026](/articles/familymart-anime-collab-stores-2026)
 
-- [Animate Cafe Guide — Lottery Booking, Gratte, DECOTTO & All Locations](/animate-cafe-guide-japan/)
+- [Animate Cafe Guide — Lottery Booking, Gratte, DECOTTO & All Locations](/articles/animate-cafe-guide-japan)
 - [Lawson Ticket & Loppi Machine Guide — How to Book Anime Cafes and Events](/lawson-ticket-loppi-guide/)
 - [Anime Collab Cafe Calendar — Every Current Collaboration](/collab-cafe-calendar/)
 - [Live Collab Cafe Calendar](/collab-cafe-calendar/)
@@ -317,7 +317,7 @@ For the fastest updates, follow **[@japan_pop_now on Instagram](https://www.inst
 
 Planning a trip to Tokyo?
 
-[Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
+[Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)
 
 ## Never Miss a Cafe Opening or Anime Event
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.

@@ -161,20 +161,20 @@ Yes. Ikebukuro and Akihabara are about 20 minutes apart on the JR Yamanote Line.
 
 **Anime Fan Days Near Ikebukuro**
 
-Love One Piece? Don’t miss our [One Piece Tokyo Guide](/one-piece-tokyo-guide-2026/) covering Tower, cafes, and exclusive merch spots across the city.
+Love One Piece? Don’t miss our [One Piece Tokyo Guide](/articles/one-piece-tokyo-guide-2026) covering Tower, cafes, and exclusive merch spots across the city.
 
 ## More Area Guides
 
-- [Akihabara Complete Guide 2026](/akihabara-complete-guide-2026/)
-- [Nakano Broadway Guide](/nakano-broadway-guide/)
-- [Shibuya & Harajuku Pop Culture Guide](/shibuya-harajuku-pop-culture-guide/)
-- [Osaka Anime Guide — Den Den Town](/osaka-anime-guide-den-den-town/)
-- [Kyoto Anime Guide 2026](/osaka-anime-guide-den-den-town/)
-- [How to Book Anime Collab Cafes](/how-to-book-anime-collab-cafe-japan/)
+- [Akihabara Complete Guide 2026](/articles/akihabara-complete-guide-2026)
+- [Nakano Broadway Guide](/articles/nakano-broadway-guide)
+- [Shibuya & Harajuku Pop Culture Guide](/articles/shibuya-harajuku-pop-culture-guide)
+- [Osaka Anime Guide — Den Den Town](/articles/osaka-anime-guide-den-den-town)
+- [Kyoto Anime Guide 2026](/articles/osaka-anime-guide-den-den-town)
+- [How to Book Anime Collab Cafes](/articles/how-to-book-anime-collab-cafe-japan)
 
 Planning a trip to Tokyo?
 
-[Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
+[Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)
 
 ## Never Miss a Cafe Opening or Anime Event
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.

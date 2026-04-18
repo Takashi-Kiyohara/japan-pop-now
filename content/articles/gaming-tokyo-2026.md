@@ -20,7 +20,7 @@ Tokyo is built for gamers. Whether you’re hunting for exclusive Pokemon mercha
 
 ## The Big Three: Pokemon Center MEGA, Nintendo TOKYO & Beyond
 
-### Pokemon Center MEGA ([Ikebukuro](/ikebukuro-anime-guide-2026/))
+### Pokemon Center MEGA ([Ikebukuro](/articles/ikebukuro-anime-guide-2026))
 Start here. Pokemon Center MEGA is the flagship store and it’s enormous. We’re talking 650 square meters, 2,500+ items, and crowds that rival theme park queues on weekends. The store spans multiple floors with dedicated zones for clothing, figures, plushies, trading cards, and region-exclusive merchandise you won’t find elsewhere.
 
 The top floor has a photo zone where you can take pictures with life-sized Pokemon displays. Ground floor has the newest releases. The real gold: limited-edition Ikebukuro exclusive items, often sold out by afternoon.
@@ -126,7 +126,7 @@ Bring coins. Most machines take ¥100 coins. Credit cards rarely work in arcades
 ## Bandai Namco & Specialty Stores
 **Bandai Namco Cross Store (Shinjuku):** Combines Bandai, Namco, and Gundam merchandise. Gundam figures dominate, but also One Piece, Pac-Man, Tamagotchi. Not just gaming, but gaming-adjacent pop culture. 3 floors, worth 30-45 minutes.
 
-**Luida’s Bar ([Akihabara](/akihabara-complete-guide-2026/)):** Underground gaming bar themed around Dragon Quest. Play original NES/SNES games while drinking. Casual vibe, low cover charge (¥1,500–¥2,000 with one drink), and a great way to decompress after shopping.
+**Luida’s Bar ([Akihabara](/articles/akihabara-complete-guide-2026)):** Underground gaming bar themed around Dragon Quest. Play original NES/SNES games while drinking. Casual vibe, low cover charge (¥1,500–¥2,000 with one drink), and a great way to decompress after shopping.
 
 **Luida’s Bar**
 
@@ -211,18 +211,18 @@ See our [Akihabara complete guide](https://japan-pop-now.com/akihabara-complete-
 
 ### More Tokyo Anime & Gaming Guides
 
-- [Akihabara Complete Guide 2026](/akihabara-complete-guide-2026/)
-- [Ikebukuro Anime Guide 2026](/ikebukuro-anime-guide-2026/)
-- [Japanese Game Centers & Arcades Guide](/game-centers-arcades-japan/)
-- [Gachapon Guide Japan](/gachapon-guide-japan/)
-- [Tokyo Anime District Guide](/tokyo-anime-district-guide/)
+- [Akihabara Complete Guide 2026](/articles/akihabara-complete-guide-2026)
+- [Ikebukuro Anime Guide 2026](/articles/ikebukuro-anime-guide-2026)
+- [Japanese Game Centers & Arcades Guide](/articles/game-centers-arcades-japan)
+- [Gachapon Guide Japan](/articles/gachapon-guide-japan)
+- [Tokyo Anime District Guide](/articles/tokyo-anime-district-guide)
 - [Anime Merch Shopping Guide Japan](/anime-merch-shopping-guide/)
 
 Follow [@japan_pop_now](https://www.instagram.com/japan_pop_now/) for weekly updates on Tokyo gaming drops and new cafe openings.
 
 Planning a trip to Tokyo?
 
-[Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
+[Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)
 
 ## Never Miss a Cafe Opening or Anime Event
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.

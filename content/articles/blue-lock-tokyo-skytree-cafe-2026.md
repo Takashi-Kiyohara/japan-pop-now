@@ -219,11 +219,11 @@ Blue Lock isn't just another sports anime — it inverted the entire genre formu
 <strong>Planning more anime stops in Tokyo?</strong> Many of these venues are within easy train reach of each other. Check our area guides for full itineraries.
 </div>
 
-- [How to Book Anime Collab Cafes in Japan](/how-to-book-anime-collab-cafe-japan/) — step-by-step reservation guide for all major cafe chains
-- [Tokyo Anime Collab Cafes Spring 2026](/tokyo-anime-collab-cafes-spring-2026/) — what's open right now beyond Blue Lock
-- [Akihabara Complete Guide 2026](/akihabara-complete-guide-2026/) — everything around the Cafe Honpo venue
-- [Anime Day Trips from Tokyo 2026](/anime-day-trips-from-tokyo-2026/) — full-day itineraries combining multiple events
-- [Japan IC Card Transit Guide](/japan-ic-card-transit-guide/) — how to use Suica/PASMO to get between all 3 venues
+- [How to Book Anime Collab Cafes in Japan](/articles/how-to-book-anime-collab-cafe-japan) — step-by-step reservation guide for all major cafe chains
+- [Tokyo Anime Collab Cafes Spring 2026](/articles/tokyo-anime-collab-cafes-spring-2026) — what's open right now beyond Blue Lock
+- [Akihabara Complete Guide 2026](/articles/akihabara-complete-guide-2026) — everything around the Cafe Honpo venue
+- [Anime Day Trips from Tokyo 2026](/articles/anime-day-trips-from-tokyo-2026) — full-day itineraries combining multiple events
+- [Japan IC Card Transit Guide](/articles/japan-ic-card-transit-guide) — how to use Suica/PASMO to get between all 3 venues
 - [Japan Anime Experiences Hub](/guides/japan-anime-experiences/) — every bookable anime experience in Japan right now
 
 ## Where to Stay Near All 3 Venues

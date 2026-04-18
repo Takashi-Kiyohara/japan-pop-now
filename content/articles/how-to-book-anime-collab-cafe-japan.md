@@ -1,4 +1,4 @@
-﻿---
+---
 title: "How to Book an Anime Collab Cafe in Japan [2026] — Step-by-Step Lottery and Walk-In Guide"
 description: "Book anime collab cafes in Tokyo in 2026: master Lawson Ticket, lottery systems, and walk-in secrets. Insider tips for guaranteed reservations even when sold out..."
 date: "2026-03-24"
@@ -221,11 +221,11 @@ Beyond collab cafes, Tokyo has anime districts, pilgrimage spots, and exclusive 
 
 ### Collab Cafe Guides
 
-- [Tokyo Anime Collab Cafes Spring 2026](/tokyo-anime-collab-cafes-spring-2026/)
+- [Tokyo Anime Collab Cafes Spring 2026](/articles/tokyo-anime-collab-cafes-spring-2026)
 - [One Piece Cafe GENE at PARCO 2026](/one-piece-cafe-gene-parco-2026/)
-- [Animate Cafe Guide Japan](/animate-cafe-guide-japan/)
+- [Animate Cafe Guide Japan](/articles/animate-cafe-guide-japan)
 - [Collab Cafe Calendar — What’s Open Now](/collab-cafe-calendar/)
-- [FamilyMart Anime Collab Stores 2026](/familymart-anime-collab-stores-2026/)
+- [FamilyMart Anime Collab Stores 2026](/articles/familymart-anime-collab-stores-2026)
 
 **Follow [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)** for daily Tokyo pop culture updates.
 
@@ -233,16 +233,16 @@ Beyond collab cafes, Tokyo has anime districts, pilgrimage spots, and exclusive 
 
 ## More Cafe & Event Guides
 
-- [Tokyo Anime Collab Cafes Spring 2026](/tokyo-anime-collab-cafes-spring-2026/)
-- [Anime Collab Cafe Guide Japan](/animate-cafe-guide-japan/)
-- [Animate Cafe Complete Guide](/animate-cafe-guide-japan/)
+- [Tokyo Anime Collab Cafes Spring 2026](/articles/tokyo-anime-collab-cafes-spring-2026)
+- [Anime Collab Cafe Guide Japan](/articles/animate-cafe-guide-japan)
+- [Animate Cafe Complete Guide](/articles/animate-cafe-guide-japan)
 - [Lawson Ticket Anime Booking Guide](/lawson-ticket-loppi-guide/)
-- [Akihabara Complete Guide 2026](/akihabara-complete-guide-2026/)
-- [Ikebukuro Anime Guide 2026](/ikebukuro-anime-guide-2026/)
+- [Akihabara Complete Guide 2026](/articles/akihabara-complete-guide-2026)
+- [Ikebukuro Anime Guide 2026](/articles/ikebukuro-anime-guide-2026)
 
 Planning a trip to Tokyo?
 
-[Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
+[Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)
 
 ## Never Miss a Cafe Opening or Anime Event
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.

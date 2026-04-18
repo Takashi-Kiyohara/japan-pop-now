@@ -90,14 +90,14 @@ The best game centers for SPY×FAMILY prizes are in Akihabara (SEGA Building 3, 
 
 If you don’t want to gamble on crane games, second-hand prize figures sell at Mandarake and Surugaya for ¥800–¥2,500—often cheaper than what you’d spend trying to win them.
 
-For a complete guide to winning at crane games, check our [game centers and arcades guide](/game-centers-arcades-japan/).
+For a complete guide to winning at crane games, check our [game centers and arcades guide](/articles/game-centers-arcades-japan).
 
 ## Convenience Store SPY×FAMILY Collabs
 Japanese convenience stores run anime collaborations constantly, and SPY×FAMILY is one of the most frequent partners. These campaigns typically last 2–4 weeks and offer exclusive items you can’t get anywhere else—and the entry price is buying a drink or snack you’d buy anyway.
 
 **What to expect:** Buy a qualifying item (usually a specific drink, snack, or bento for ¥150–¥600) and receive a random clear file, sticker, or acrylic charm. Some campaigns offer stamp rallies where buying multiple items across visits earns you a premium reward like a tote bag or plate set.
 
-**Where to find them:** Lawson, FamilyMart, and 7-Eleven all run SPY×FAMILY campaigns, but Lawson has the most frequent tie-ins. Check the promotional displays near the entrance—they’re impossible to miss. For FamilyMart anime collabs specifically, see our [FamilyMart collab stores guide](/familymart-anime-collab-stores-2026/).
+**Where to find them:** Lawson, FamilyMart, and 7-Eleven all run SPY×FAMILY campaigns, but Lawson has the most frequent tie-ins. Check the promotional displays near the entrance—they’re impossible to miss. For FamilyMart anime collabs specifically, see our [FamilyMart collab stores guide](/articles/familymart-anime-collab-stores-2026).
 
 The items themselves are cheap (¥150–¥600 for the qualifying purchase) but the collectible rewards can resell for ¥1,000–¥3,000 on Mercari Japan. Even if you don’t care about resale, it’s a fun souvenir for almost nothing.
 
@@ -140,18 +140,18 @@ The items themselves are cheap (¥150–¥600 for the qualifying purchase) but t
 
 ### More Anime Location Guides
 
-- [10 Must-Visit Anime Pilgrimage Spots in Tokyo](/anime-pilgrimage-spots-tokyo/)
-- [Jujutsu Kaisen Shibuya Locations 2026](/jujutsu-kaisen-shibuya-locations-2026/)
-- [Tokyo Anime Collab Cafes Spring 2026](/tokyo-anime-collab-cafes-spring-2026/)
-- [How to Book Anime Collab Cafes](/how-to-book-anime-collab-cafe-japan/)
-- [Ikebukuro Anime Guide 2026](/ikebukuro-anime-guide-2026/)
+- [10 Must-Visit Anime Pilgrimage Spots in Tokyo](/articles/anime-pilgrimage-spots-tokyo)
+- [Jujutsu Kaisen Shibuya Locations 2026](/articles/jujutsu-kaisen-shibuya-locations-2026)
+- [Tokyo Anime Collab Cafes Spring 2026](/articles/tokyo-anime-collab-cafes-spring-2026)
+- [How to Book Anime Collab Cafes](/articles/how-to-book-anime-collab-cafe-japan)
+- [Ikebukuro Anime Guide 2026](/articles/ikebukuro-anime-guide-2026)
 - [Anime Merch Shopping Guide Japan](/anime-merch-shopping-guide/)
 
 Follow [@japan_pop_now](https://www.instagram.com/japan_pop_now/) for weekly updates on SPY×FAMILY events and Tokyo anime news.
 
 Planning a trip to Tokyo?
 
-[Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
+[Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)
 
 ## Never Miss a Cafe Opening or Anime Event
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.

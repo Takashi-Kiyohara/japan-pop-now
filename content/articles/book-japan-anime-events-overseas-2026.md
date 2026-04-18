@@ -73,7 +73,7 @@ These are the easiest. All three major anime-adjacent theme parks now have Engli
 ### Collab Cafes with Online Booking
 Many cafe operators now use web-based reservation systems. Here’s how to spot the ones you can book yourself:
 
-**Animate Cafe**: Uses their own online system at animatecafe.jp. Registration requires an email address — no Japanese phone number needed. Reservation opens about 2 weeks before the event. English interface isn’t available, but the booking flow is straightforward: select date → time slot → number of guests → confirm. I wrote a [step-by-step with screenshots](/how-to-book-anime-collab-cafe-japan/) that walks through the entire process.
+**Animate Cafe**: Uses their own online system at animatecafe.jp. Registration requires an email address — no Japanese phone number needed. Reservation opens about 2 weeks before the event. English interface isn’t available, but the booking flow is straightforward: select date → time slot → number of guests → confirm. I wrote a [step-by-step with screenshots](/articles/how-to-book-anime-collab-cafe-japan) that walks through the entire process.
 
 **Collabo Cafe Honpo (秋葉原・池袋)**: Uses TableCheck, which supports English and international cards. The smoothest booking experience of any collab cafe chain. Check [their TableCheck page](https://www.tablecheck.com/en/shops/collabocafe-honpo-akihabara/reserve) for current events.
 
@@ -162,18 +162,18 @@ Yes — if you’re already in Japan, walk into any Lawson or Ministop and use t
 
 ## More Booking & Planning Guides
 
-- [How to Book Anime Collab Cafes in Japan (Step-by-Step)](/how-to-book-anime-collab-cafe-japan/)
+- [How to Book Anime Collab Cafes in Japan (Step-by-Step)](/articles/how-to-book-anime-collab-cafe-japan)
 - [Lawson Ticket & Loppi Guide: Book Events in Japan](/lawson-ticket-loppi-guide/)
-- [Tokyo Anime Collab Cafes Spring 2026](/tokyo-anime-collab-cafes-spring-2026/)
-- [Japan eSIM vs Pocket WiFi: Best Pick for 2026](/japan-esim-pocket-wifi-sim-card/)
-- [Japan Rail Pass 2026: Worth It?](/japan-rail-pass-2026-guide/)
-- [Animate Cafe Guide Japan](/animate-cafe-guide-japan/)
+- [Tokyo Anime Collab Cafes Spring 2026](/articles/tokyo-anime-collab-cafes-spring-2026)
+- [Japan eSIM vs Pocket WiFi: Best Pick for 2026](/articles/japan-esim-pocket-wifi-sim-card)
+- [Japan Rail Pass 2026: Worth It?](/articles/japan-rail-pass-2026-guide)
+- [Animate Cafe Guide Japan](/articles/animate-cafe-guide-japan)
 
 **Follow [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)** for daily Tokyo pop culture updates.
 
 Planning a trip to Tokyo?
 
-[Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
+[Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)
 
 ## Never Miss a Cafe Opening or Anime Event
 

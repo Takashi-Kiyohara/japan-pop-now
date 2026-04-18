@@ -49,7 +49,7 @@ Budget options: capsule pods in Shinjuku or Ikebukuro run 40-70 USD per night an
 ### Decide on a JR Pass
 The JR Pass is essential if you’re planning to leave Tokyo for day trips or multi-day excursions. A 7-day pass costs 50,000 yen (about 200 USD at current rates) and must be purchased before you arrive in Japan—you can buy it through travel agents, travel websites, or online retailers. A 14-day pass is 46,320 yen. These pay for themselves in three or four round trips between Tokyo and major cities.
 
-However: if you’re staying in Tokyo and Kyoto for the full trip, calculate your specific routes. Tokyo to Kyoto return on the Shinkansen (bullet train) is 27,880 yen round-trip, so a JR Pass only makes sense if you’re adding Hiroshima, Osaka, or multiple other cities. [Our detailed JR Pass guide](/japan-rail-pass-guide-anime-fans/) breaks down every route anime fans typically take.
+However: if you’re staying in Tokyo and Kyoto for the full trip, calculate your specific routes. Tokyo to Kyoto return on the Shinkansen (bullet train) is 27,880 yen round-trip, so a JR Pass only makes sense if you’re adding Hiroshima, Osaka, or multiple other cities. [Our detailed JR Pass guide](/articles/japan-rail-pass-guide-anime-fans) breaks down every route anime fans typically take.
 
 Book your JR Pass exchange voucher through authorized dealers—I’ve used [JR East Official](https://www.jreast.co.jp) and [Klook](https://www.klook.com) (which sometimes has discounts of 5-10%). You’ll receive a voucher code to exchange at airports when you arrive. The pass only activates when you exchange it, so you can arrive and decide the timing.
 
@@ -75,7 +75,7 @@ Here’s the timeline:
 - **Week 5-6:** Collab cafe opens
 - **Walk-in slots:** Usually 30-40% of seating held for day-of walk-ins, but expect 2-4 hour waits
 
-You must be in Japan to register for most collab cafe lotteries (they verify by Japanese address or phone number). However, some accepting international visitors or using proxy registration services exist. [Our collab cafe booking guide](/how-to-book-anime-collab-cafe-japan/) has the full system—which cafes accept what registration methods, what documentation you need, and real timeline examples from 2026 collaborations.
+You must be in Japan to register for most collab cafe lotteries (they verify by Japanese address or phone number). However, some accepting international visitors or using proxy registration services exist. [Our collab cafe booking guide](/articles/how-to-book-anime-collab-cafe-japan) has the full system—which cafes accept what registration methods, what documentation you need, and real timeline examples from 2026 collaborations.
 
 Pro tip: The biggest collab cafes have waiting lists. Even if you lose the lottery, showing up 90 minutes before closing time often gets you a 45-60 minute wait instead of the 2-3 hour waits during peak hours. Some venues hold cancellation slots that open up 24 hours before your reserved time.
 
@@ -266,12 +266,12 @@ DAY 2 ONWARD:
 
 ## More Practical Guides
 
-- [How to Book Collab Cafes in Tokyo: The Complete Lottery & Walk-In Guide](/how-to-book-anime-collab-cafe-japan/)
-- [Tokyo Anime Collab Cafes This Spring 2026](/tokyo-anime-collab-cafes-spring-2026/)
+- [How to Book Collab Cafes in Tokyo: The Complete Lottery & Walk-In Guide](/articles/how-to-book-anime-collab-cafe-japan)
+- [Tokyo Anime Collab Cafes This Spring 2026](/articles/tokyo-anime-collab-cafes-spring-2026)
 - [eSIM vs Pocket WiFi vs Prepaid SIM: Which One Is Actually Best](/japan-esim-pocket-wifi-sim-card-guide/)
-- [Japan Rail Pass Guide: When to Buy, How Much It Saves, Routes Anime Fans Actually Take](/japan-rail-pass-guide-anime-fans/)
-- [Suica, Pasmo, and IC Cards: Everything You Need to Know About Transit in Japan](/japan-ic-card-transit-guide/)
-- [The Anime Merch Shopping Guide: Where to Buy, What to Look For, What’s Actually Worth Your Money](/anime-merch-shopping-guide-japan/)
+- [Japan Rail Pass Guide: When to Buy, How Much It Saves, Routes Anime Fans Actually Take](/articles/japan-rail-pass-guide-anime-fans)
+- [Suica, Pasmo, and IC Cards: Everything You Need to Know About Transit in Japan](/articles/japan-ic-card-transit-guide)
+- [The Anime Merch Shopping Guide: Where to Buy, What to Look For, What’s Actually Worth Your Money](/articles/anime-merch-shopping-guide-japan)
 
 One last thing: I always tell people this before their first trip. The planning phase is when anime fans either set themselves up for success or set themselves up for regret. Showing up without a JR Pass costs you money and time. Skipping collab cafe lottery entries means missing out on themed menus and exclusive merch. Not booking accommodation in the right neighborhood means you’re spending 45 minutes on transit to reach Akihabara when you could walk there in 15 minutes. But the good news is that most of this stuff takes less than an hour of actual work spread across three months. Do the work now, and your trip in May, June, or whenever you’re headed over will be immeasurably better.
 
@@ -279,7 +279,7 @@ One last thing: I always tell people this before their first trip. The planning 
 
 Planning a trip to Tokyo?
 
-[Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
+[Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)
 
 ## Never Miss a Cafe Opening or Anime Event
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.

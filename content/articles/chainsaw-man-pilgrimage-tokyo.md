@@ -20,7 +20,7 @@ The Chainsaw Man movie *Reze Arc* turned Jinbocho into one of Tokyo’s hottest 
 
 This guide covers every confirmed filming location from the Reze Arc movie, plus related spots from Chainsaw Man Season 1. All locations sit in the Jinbocho-Ochanomizu-Suidobashi triangle â a quiet, walkable neighborhood tucked between the flashier districts most tourists hit first. That’s part of what makes this pilgrimage so good: the area itself feels like the manga.
 
-If you’re planning an anime-heavy trip to Tokyo, you can pair this route with [Akihabara](/akihabara-complete-guide-2026/) (two stops away on the Sobu Line) or [Ikebukuro’s Otome Road](/ikebukuro-anime-guide-2026/) for a full day of otaku exploration.
+If you’re planning an anime-heavy trip to Tokyo, you can pair this route with [Akihabara](/articles/akihabara-complete-guide-2026) (two stops away on the Sobu Line) or [Ikebukuro’s Otome Road](/articles/ikebukuro-anime-guide-2026) for a full day of otaku exploration.
 
 ## Table of Contents
 
@@ -115,7 +115,7 @@ That said, fans have identified a few connections worth noting:
 
 **Public Safety Bureau Office** â The government building where Makima works appears to be a composite of several real government buildings in Kasumigaseki and Nagatacho. The architecture combines elements from the Ministry of Economy building and other Meiji/Taisho-era government structures.
 
-For Season 1 fans, I’d honestly recommend combining a Jinbocho pilgrimage with a general Tokyo pop culture day. Hit [Akihabara](/akihabara-complete-guide-2026/) for Chainsaw Man merchandise (Animate and Mandarake both stock plenty), then head to [our merch shopping guide](/anime-merch-shopping-guide/) for the full rundown on where to find figures, manga, and limited-edition goods.
+For Season 1 fans, I’d honestly recommend combining a Jinbocho pilgrimage with a general Tokyo pop culture day. Hit [Akihabara](/articles/akihabara-complete-guide-2026) for Chainsaw Man merchandise (Animate and Mandarake both stock plenty), then head to [our merch shopping guide](/anime-merch-shopping-guide/) for the full rundown on where to find figures, manga, and limited-edition goods.
 
 ## Recommended Walking Route (2-3 Hours)
 
@@ -131,7 +131,7 @@ Here’s the route I took, optimized for photo opportunities and walking efficie
 
 **Stop 4: Phone Booth** (7-minute walk south) â Walk through Jinbocho’s bookstore streets toward the phone booth. Browse the used bookshops along the way â some carry rare manga volumes.
 
-**End: Jinbocho Station** â From here, you’re one stop from Akihabara on the Marunouchi Line (change at Ochanomizu). Or walk 15 minutes north to [Asakusa for the Demon Slayer pilgrimage](/demon-slayer-pilgrimage-tokyo/).
+**End: Jinbocho Station** â From here, you’re one stop from Akihabara on the Marunouchi Line (change at Ochanomizu). Or walk 15 minutes north to [Asakusa for the Demon Slayer pilgrimage](/articles/demon-slayer-pilgrimage-tokyo).
 
 Total walking distance: about 2.5 km. Flat terrain except for the Onnazaka stairs.
 
@@ -157,7 +157,7 @@ Jinbocho is one of Tokyo’s best lunch neighborhoods, and it’s criminally und
 | Walking Distance | ~2.5 km (flat terrain) |
 | Best Day to Visit | Weekday afternoons for fewer crowds; avoid Mondays (some bookshops closed) |
 | Budget | Â¥0 (all outdoor spots free) + Â¥500-1,500 for food/coffee |
-| IC Card | Suica/PASMO work on all lines. See our [IC Card guide](/japan-ic-card-transit-guide/) |
+| IC Card | Suica/PASMO work on all lines. See our [IC Card guide](/articles/japan-ic-card-transit-guide) |
 
 ## Pilgrimage Etiquette
 
@@ -188,7 +188,7 @@ A: The phone booth, Aoi Building, and cafe areas are on flat ground and accessib
 
 **Q: Is there Chainsaw Man merchandise in Jinbocho?**
 
-A: Not much in Jinbocho itself. For Chainsaw Man figures, manga, and goods, head to [Akihabara](/akihabara-complete-guide-2026/) (one JR stop away). Animate Akihabara and Mandarake both carry extensive Chainsaw Man stock.
+A: Not much in Jinbocho itself. For Chainsaw Man figures, manga, and goods, head to [Akihabara](/articles/akihabara-complete-guide-2026) (one JR stop away). Animate Akihabara and Mandarake both carry extensive Chainsaw Man stock.
 
 **Q: Are the anime locations the same as in the manga?**
 
@@ -196,23 +196,23 @@ A: The movie team used real Jinbocho locations as reference for the Reze Arc ani
 
 **Explore More of Tokyo**
 
-Chainsaw Man locations span several Tokyo neighborhoods. For a full overview of anime-friendly areas, see our [Tokyo Anime Districts Guide](/tokyo-anime-district-guide/) covering Akihabara, Ikebukuro, Nakano, and more.
+Chainsaw Man locations span several Tokyo neighborhoods. For a full overview of anime-friendly areas, see our [Tokyo Anime Districts Guide](/articles/tokyo-anime-district-guide) covering Akihabara, Ikebukuro, Nakano, and more.
 
 ## More Pilgrimage Guides
 
-- [Demon Slayer Pilgrimage: Asakusa, Saitama & Beyond](/demon-slayer-pilgrimage-tokyo/)
-- [Your Name Pilgrimage: Yotsuya, Shinjuku & Hida](/your-name-pilgrimage-tokyo/)
-- [Weathering With You Real-Life Locations in Tokyo](/weathering-with-you-locations-tokyo/)
+- [Demon Slayer Pilgrimage: Asakusa, Saitama & Beyond](/articles/demon-slayer-pilgrimage-tokyo)
+- [Your Name Pilgrimage: Yotsuya, Shinjuku & Hida](/articles/your-name-pilgrimage-tokyo)
+- [Weathering With You Real-Life Locations in Tokyo](/articles/weathering-with-you-locations-tokyo)
 - [Jujutsu Kaisen Shibuya Pilgrimage Guide](/jujutsu-kaisen-shibuya-pilgrimage-guide/)
 - [SPY x FAMILY Fan Day Tokyo Guide](/spy-family-tokyo-guide/)
-- [10 Anime Pilgrimage Spots Every Fan Should Visit in Tokyo](/anime-pilgrimage-spots-tokyo/)
-- [One Piece Kumamoto Statue Tour](/one-piece-kumamoto-statue-tour/)
+- [10 Anime Pilgrimage Spots Every Fan Should Visit in Tokyo](/articles/anime-pilgrimage-spots-tokyo)
+- [One Piece Kumamoto Statue Tour](/articles/one-piece-kumamoto-statue-tour)
 
 **Follow [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)** for daily Tokyo pop culture updates.
 
 Planning a trip to Tokyo?
 
-[Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
+[Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)
 
 ## Never Miss a Cafe Opening or Anime Event
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.

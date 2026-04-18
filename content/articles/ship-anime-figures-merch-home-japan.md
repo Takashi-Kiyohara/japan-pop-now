@@ -206,18 +206,18 @@ One more thing: take photos of your collection before you pack it. Just in case 
 
 ## More Practical Guides
 
-- [Anime Merch Shopping Guide](/anime-merch-shopping-guide-japan/)
-- [Akihabara Complete Guide 2026](/akihabara-complete-guide-2026/)
-- [Nakano Broadway Guide](/nakano-broadway-guide/)
-- [Gachapon Guide Japan](/gachapon-guide-japan/)
+- [Anime Merch Shopping Guide](/articles/anime-merch-shopping-guide-japan)
+- [Akihabara Complete Guide 2026](/articles/akihabara-complete-guide-2026)
+- [Nakano Broadway Guide](/articles/nakano-broadway-guide)
+- [Gachapon Guide Japan](/articles/gachapon-guide-japan)
 - [eSIM vs Pocket WiFi Guide](/japan-esim-pocket-wifi-sim-card-guide/)
-- [Japan Rail Pass Guide](/japan-rail-pass-guide-anime-fans/)
+- [Japan Rail Pass Guide](/articles/japan-rail-pass-guide-anime-fans)
 
 **Follow [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)** for daily Tokyo pop culture updates.
 
 Planning a trip to Tokyo?
 
-[Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
+[Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)
 
 ## Never Miss a Cafe Opening or Anime Event
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.

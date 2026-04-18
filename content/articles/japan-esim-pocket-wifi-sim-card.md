@@ -227,19 +227,19 @@ Yes, that’s the beauty of eSIM. Most modern phones support one physical SIM + 
 
 ## More Practical Guides
 
-- [How to Book an Anime Collab Cafe in Japan](/how-to-book-anime-collab-cafe-japan/)
+- [How to Book an Anime Collab Cafe in Japan](/articles/how-to-book-anime-collab-cafe-japan)
 - [Lawson Ticket & Loppi Machine Guide](/lawson-ticket-loppi-guide/)
 - [The Complete Anime Merch Shopping Guide](/anime-merch-shopping-guide/)
-- [Akihabara Complete Guide 2026](/akihabara-complete-guide-2026/)
-- [Ikebukuro Anime Guide 2026](/ikebukuro-anime-guide-2026/)
+- [Akihabara Complete Guide 2026](/articles/akihabara-complete-guide-2026)
+- [Ikebukuro Anime Guide 2026](/articles/ikebukuro-anime-guide-2026)
 - [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)
-- [Japan Trip Checklist for Anime Fans 2026](/japan-trip-checklist-anime-fans-2026/)
-- [JR Pass Anime Pilgrimages 2026 — Routes & Prices](/jr-pass-anime-pilgrimage-routes-2026/)
+- [Japan Trip Checklist for Anime Fans 2026](/articles/japan-trip-checklist-anime-fans-2026)
+- [JR Pass Anime Pilgrimages 2026 — Routes & Prices](/articles/jr-pass-anime-pilgrimage-routes-2026)
 - [Best Anime Hotels in Tokyo 2026](/best-anime-hotels-tokyo-2026/)
 
 Planning a trip to Tokyo?
 
-[Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
+[Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)
 
 ## Never Miss a Cafe Opening or Anime Event
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.

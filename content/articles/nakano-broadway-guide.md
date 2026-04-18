@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Nakano Broadway Guide 2026 — Tokyo’s Best-Kept Anime Shopping Secret"
 description: "Nakano Broadway 2026: 300+ anime shops, 30+ Mandarake stores, Daily Chico soft serve, floor-by-floor guide, and why serious collectors skip Akihabara."
 date: "2026-03-28"
@@ -153,20 +153,20 @@ Akihabara first, if it’s your first time in Tokyo. It gives you the full anime
 
 ## More Area Guides
 
-- [Tokyo Anime Districts — Complete Guide to Every Pop Culture Neighborhood](/tokyo-anime-district-guide/)
-- [Akihabara Complete Guide 2026](/akihabara-complete-guide-2026/)
-- [Ikebukuro Anime Guide 2026](/ikebukuro-anime-guide-2026/)
-- [Shibuya & Harajuku Pop Culture Guide](/shibuya-harajuku-pop-culture-guide/)
-- [Tokyo Anime District Guide: Which Neighborhood Matches Your Fandom](/tokyo-anime-district-guide/)
-- [Akihabara Guide 2026: 30+ Shops, Cafes & Hidden Spots](/akihabara-complete-guide-2026/)
-- [Ikebukuro Anime Guide: Animate, Otome Road & Walking Route](/ikebukuro-anime-guide-2026/)
-- [Shibuya & Harajuku Pop Culture Guide](/shibuya-harajuku-pop-culture-guide/)
+- [Tokyo Anime Districts — Complete Guide to Every Pop Culture Neighborhood](/articles/tokyo-anime-district-guide)
+- [Akihabara Complete Guide 2026](/articles/akihabara-complete-guide-2026)
+- [Ikebukuro Anime Guide 2026](/articles/ikebukuro-anime-guide-2026)
+- [Shibuya & Harajuku Pop Culture Guide](/articles/shibuya-harajuku-pop-culture-guide)
+- [Tokyo Anime District Guide: Which Neighborhood Matches Your Fandom](/articles/tokyo-anime-district-guide)
+- [Akihabara Guide 2026: 30+ Shops, Cafes & Hidden Spots](/articles/akihabara-complete-guide-2026)
+- [Ikebukuro Anime Guide: Animate, Otome Road & Walking Route](/articles/ikebukuro-anime-guide-2026)
+- [Shibuya & Harajuku Pop Culture Guide](/articles/shibuya-harajuku-pop-culture-guide)
 - [Anime Merch Shopping Guide: Where to Buy & How to Save](/anime-merch-shopping-guide/)
 - [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)
 
 Planning a trip to Tokyo?
 
-[Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
+[Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)
 
 ## Never Miss a Cafe Opening or Anime Event
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.

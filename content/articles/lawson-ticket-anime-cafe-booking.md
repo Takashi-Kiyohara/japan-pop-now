@@ -172,20 +172,20 @@ Ask the Lawson staff. They can reboot the machine or process your ticket at the 
 
 ## More Practical Guides
 
-- [How to Book an Anime Collab Cafe in Japan — Complete Guide](/how-to-book-anime-collab-cafe-japan/)
-- [Animate Cafe Guide — How It Works + Current Collabs](/animate-cafe-guide-japan/)
-- [Tokyo Anime Collab Cafes — Spring 2026](/tokyo-anime-collab-cafes-spring-2026/)
+- [How to Book an Anime Collab Cafe in Japan — Complete Guide](/articles/how-to-book-anime-collab-cafe-japan)
+- [Animate Cafe Guide — How It Works + Current Collabs](/articles/animate-cafe-guide-japan)
+- [Tokyo Anime Collab Cafes — Spring 2026](/articles/tokyo-anime-collab-cafes-spring-2026)
 - [See Guided Cafe Tours on Klook](https://affiliate.klook.com/redirect?aid=117469&aff_adid=1251547&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US/search/?query=anime+cafe+tour+tokyo&aid=1117469)
-- [Anime Collab Cafe Guide: Booking, Prices & Best Venues](/how-to-book-anime-collab-cafe-japan/)
-- [Anime Collab Cafe Calendar: Every Cafe Open Now](/tokyo-anime-collab-cafes-spring-2026/)
-- [Gachapon Guide: Where to Find & How to Use](/gachapon-guide-japan/)
+- [Anime Collab Cafe Guide: Booking, Prices & Best Venues](/articles/how-to-book-anime-collab-cafe-japan)
+- [Anime Collab Cafe Calendar: Every Cafe Open Now](/articles/tokyo-anime-collab-cafes-spring-2026)
+- [Gachapon Guide: Where to Find & How to Use](/articles/gachapon-guide-japan)
 - [Anime Merch Shopping Guide: Where to Buy & How to Save](/anime-merch-shopping-guide/)
-- [Japan IC Card Guide: Suica, PASMO & ICOCA](/japan-ic-card-transit-guide/)
+- [Japan IC Card Guide: Suica, PASMO & ICOCA](/articles/japan-ic-card-transit-guide)
 - [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)
 
 Planning a trip to Tokyo?
 
-[Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
+[Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)
 
 ## Never Miss a Cafe Opening or Anime Event
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.

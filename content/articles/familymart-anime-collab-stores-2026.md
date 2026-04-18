@@ -113,9 +113,9 @@ Lawson runs smaller collabs (2–3 weeks, focus on food items, less store redesi
 
 ### More Collab Cafe & Event Guides
 
-- [Tokyo Anime Collab Cafes Spring 2026](/tokyo-anime-collab-cafes-spring-2026/)
-- [How to Book Anime Collab Cafes](/how-to-book-anime-collab-cafe-japan/)
-- [Animate Cafe Guide Japan](/animate-cafe-guide-japan/)
+- [Tokyo Anime Collab Cafes Spring 2026](/articles/tokyo-anime-collab-cafes-spring-2026)
+- [How to Book Anime Collab Cafes](/articles/how-to-book-anime-collab-cafe-japan)
+- [Animate Cafe Guide Japan](/articles/animate-cafe-guide-japan)
 - [One Piece Cafe GENE at PARCO 2026](/one-piece-cafe-gene-parco-2026/)
 - [Lawson Ticket & Loppi Guide](/lawson-ticket-loppi-guide/)
 - [Collab Cafe Calendar](/collab-cafe-calendar/)
@@ -124,7 +124,7 @@ Follow [@japan_pop_now](https://www.instagram.com/japan_pop_now/) for weekly upd
 
 Planning a trip to Tokyo?
 
-[Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
+[Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)
 
 ## Never Miss a Cafe Opening or Anime Event
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.

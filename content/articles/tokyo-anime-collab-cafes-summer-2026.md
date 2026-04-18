@@ -26,8 +26,8 @@ This guide covers every confirmed summer 2026 cafe with dates and reservation in
 
 Plan your collab cafe day faster:
 
-- [**Need the booking flow first?** Read: How to Book Anime Collab Cafes in Japan](/how-to-book-anime-collab-cafe-japan/)
-- [**Booking Animate Cafe?** Read: Animate Cafe Guide Japan](/animate-cafe-guide-japan/)
+- [**Need the booking flow first?** Read: How to Book Anime Collab Cafes in Japan](/articles/how-to-book-anime-collab-cafe-japan)
+- [**Booking Animate Cafe?** Read: Animate Cafe Guide Japan](/articles/animate-cafe-guide-japan)
 - [**Making a full day in Tokyo?** Add: Akihabara Complete Guide 2026](/akihabara-complete-guide/)
 
 ## Table of Contents
@@ -71,7 +71,7 @@ Animate operates the largest number of collab cafes in Tokyo, with locations in 
 
 **Seat reservation (ç©ºå¸­äºç´):** Real-time availability booking for remaining seats after the lottery period. First-come-first-served. This is where most overseas visitors end up booking â the lottery is competitive, but open seats appear regularly after the first week.
 
-Registration requires an email address â no Japanese phone number needed. The interface is in Japanese, but the flow is consistent: select date, time slot, number of guests, confirm. Bring your reservation confirmation email and a photo ID (passport works) to check in. For a step-by-step walkthrough, see our [Animate Cafe guide](/animate-cafe-guide-japan/).
+Registration requires an email address â no Japanese phone number needed. The interface is in Japanese, but the flow is consistent: select date, time slot, number of guests, confirm. Bring your reservation confirmation email and a photo ID (passport works) to check in. For a step-by-step walkthrough, see our [Animate Cafe guide](/articles/animate-cafe-guide-japan).
 
 ### Why Collabo Cafe Honpo Is the Easiest Reservation for Overseas Visitors
 Uses TableCheck for reservations â fully English-supported, accepts international credit cards, and is the smoothest booking experience of any collab cafe chain. Check [their TableCheck page](https://www.tablecheck.com/en/shops/collabocafe-honpo-akihabara/reserve) for current events. Reservations open about a week before each collab starts.
@@ -80,11 +80,11 @@ Best next step**Choose the booking path that matches your cafe type**
 If you want the easiest English-friendly reservation flow, start with Collabo Cafe Honpo on TableCheck. If your target cafe uses Lawson Loppi or a Japanese-only system, switch to the overseas workaround guide before you waste time on a dead-end booking flow.
 
 - [**Need the easiest direct reservation?** Open the current TableCheck booking page](https://www.tablecheck.com/en/shops/collabocafe-honpo-akihabara/reserve)
-- [**Blocked by Lawson Loppi or Japanese checkout?** Read the overseas booking workaround guide](/book-japan-anime-events-overseas-2026/)
-- [**Trying to book Animate Cafe?** Use the full step-by-step Animate Cafe guide](/animate-cafe-guide-japan/)
+- [**Blocked by Lawson Loppi or Japanese checkout?** Read the overseas booking workaround guide](/articles/book-japan-anime-events-overseas-2026)
+- [**Trying to book Animate Cafe?** Use the full step-by-step Animate Cafe guide](/articles/animate-cafe-guide-japan)
 
 ### How BOX CAFE Reservations Work If You Need Lawson Loppi
-BOX CAFE runs collab events at multiple Tokyo venues (often in Shinjuku, Omotesando, and department store rooftops). Many BOX CAFE events use Loppi (Lawson’s in-store kiosk) for ticket distribution, which means you need to physically visit a Lawson convenience store in Japan to book. For alternatives, see our [overseas booking guide](/book-japan-anime-events-overseas-2026/) â proxy booking services can handle Loppi reservations on your behalf.
+BOX CAFE runs collab events at multiple Tokyo venues (often in Shinjuku, Omotesando, and department store rooftops). Many BOX CAFE events use Loppi (Lawson’s in-store kiosk) for ticket distribution, which means you need to physically visit a Lawson convenience store in Japan to book. For alternatives, see our [overseas booking guide](/articles/book-japan-anime-events-overseas-2026) â proxy booking services can handle Loppi reservations on your behalf.
 
 ### Is GiGO Collab Cafe Easier to Book Than Animate Cafe?
 GiGO operates cafes in Ikebukuro and Akihabara. Online booking is available via their event site, and international credit cards are accepted in most cases. Availability tends to be better than Animate Cafe since GiGO venues are often larger.
@@ -152,8 +152,8 @@ The Akihabara-Ikebukuro corridor is your best bet. Both neighborhoods are anime-
 
 After this guide, read one of these next:
 
-- [**If reservations look difficult:** Book Japan Anime Events from Overseas (2026)](/book-japan-anime-events-overseas-2026/)
-- [**If you want more seasonal options:** Tokyo Anime Collab Cafes Spring 2026](/tokyo-anime-collab-cafes-spring-2026/)
+- [**If reservations look difficult:** Book Japan Anime Events from Overseas (2026)](/articles/book-japan-anime-events-overseas-2026)
+- [**If you want more seasonal options:** Tokyo Anime Collab Cafes Spring 2026](/articles/tokyo-anime-collab-cafes-spring-2026)
 - [**If you want to build a wider fan itinerary:** Ikebukuro Anime Guide 2026](/ikebukuro-anime-guide/)
 
 ## Frequently Asked Questions
@@ -167,7 +167,7 @@ Not really. Collabo Cafe Honpo uses TableCheck with full English support. Animat
 
 **Can I book collab cafes from overseas?**
 
-Yes for most chains. Animate Cafe, Collabo Cafe Honpo, GiGO, and My Charaful Cafe all accept online reservations with international email addresses. BOX CAFE events that use Loppi are the exception â those require physical presence at a Lawson in Japan or a proxy booking service. See our [overseas booking guide](/book-japan-anime-events-overseas-2026/) for workarounds.
+Yes for most chains. Animate Cafe, Collabo Cafe Honpo, GiGO, and My Charaful Cafe all accept online reservations with international email addresses. BOX CAFE events that use Loppi are the exception â those require physical presence at a Lawson in Japan or a proxy booking service. See our [overseas booking guide](/articles/book-japan-anime-events-overseas-2026) for workarounds.
 
 **What’s the difference between a collab cafe and a regular anime cafe?**
 
@@ -183,7 +183,7 @@ Sometimes. Some cafes have a separate merchandise counter accessible without a r
 
 **How do I find out about new cafes as they’re announced?**
 
-[collabo-cafe.com](https://collabo-cafe.com/) is the most detailed Japanese aggregator. Follow @collabo_cafe on X (Twitter) for real-time announcements. We also update our [seasonal collab cafe guide](/tokyo-anime-collab-cafes-spring-2026/) regularly.
+[collabo-cafe.com](https://collabo-cafe.com/) is the most detailed Japanese aggregator. Follow @collabo_cafe on X (Twitter) for real-time announcements. We also update our [seasonal collab cafe guide](/articles/tokyo-anime-collab-cafes-spring-2026) regularly.
 
 **Choose your next anime stop**
 
@@ -195,10 +195,10 @@ If collab cafes are only one part of your trip, use the hub below to pick the be
 
 ## More Collab Cafe & Dining Guides
 
-- [How to Book Anime Collab Cafes in Japan (Step-by-Step)](/how-to-book-anime-collab-cafe-japan/)
-- [Animate Cafe Guide Japan: How to Book & What to Expect](/animate-cafe-guide-japan/)
-- [Tokyo Anime Collab Cafes Spring 2026](/tokyo-anime-collab-cafes-spring-2026/)
-- [Book Japan Anime Events from Overseas (2026)](/book-japan-anime-events-overseas-2026/)
+- [How to Book Anime Collab Cafes in Japan (Step-by-Step)](/articles/how-to-book-anime-collab-cafe-japan)
+- [Animate Cafe Guide Japan: How to Book & What to Expect](/articles/animate-cafe-guide-japan)
+- [Tokyo Anime Collab Cafes Spring 2026](/articles/tokyo-anime-collab-cafes-spring-2026)
+- [Book Japan Anime Events from Overseas (2026)](/articles/book-japan-anime-events-overseas-2026)
 - [Akihabara Complete Guide 2026](/akihabara-complete-guide/)
 - [Ikebukuro Anime Guide 2026](/ikebukuro-anime-guide/)
 
@@ -206,7 +206,7 @@ If collab cafes are only one part of your trip, use the hub below to pick the be
 
 Planning a trip to Tokyo?
 
-[Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
+[Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)
 
 ## Never Miss a Cafe Opening or Anime Event
 

@@ -26,7 +26,7 @@ The shrine sells wooden geta (traditional clog) shaped prayer plaques, and you c
 
 | **Location** | Koenji Hikawa Shrine (高円寺氷川神社), 4-44-19 Koenji-Minami, Suginami-ku, Tokyo |
 | --- | --- |
-| **Station** | JR Koenji Station (South Exit) — 2 min walk. Chuo Line or Sobu Line from [Shinjuku](/tokyo-anime-district-guide/) (10 min). |
+| **Station** | JR Koenji Station (South Exit) — 2 min walk. Chuo Line or Sobu Line from [Shinjuku](/articles/tokyo-anime-district-guide) (10 min). |
 | **Hours** | Grounds: early morning to 17:30 (17:00 Oct-Mar). Office: 09:00-16:00. |
 | **Admission** | Free. Clear weather charm: ¥800. Geta ema (prayer plaque): ¥500. |
 | **Time needed** | 20-30 minutes |
@@ -165,25 +165,25 @@ A walking tour covering both Your Name and Weathering With You locations in one 
 [Find Shinkai Film Tours on GetYourGuide](https://www.getyourguide.com/tokyo-l193/?q=anime+film+locations&partner_id=R7OISH9&utm_medium=online_publisher)
 ## More Pilgrimage Guides
 
-- [10 Anime Pilgrimage Spots in Tokyo: Real Locations + Walking Routes](/anime-pilgrimage-spots-tokyo/)
-- [Your Name Pilgrimage Tokyo: 8 Film Locations + Walking Map](/your-name-pilgrimage-tokyo/)
-- [Demon Slayer Pilgrimage Tokyo: 7 Real Locations + Map](/demon-slayer-pilgrimage-tokyo/)
-- [One Piece Kumamoto Statue Tour: All 10 Straw Hat Locations](/one-piece-kumamoto-statue-tour/)
-- [Shibuya & Harajuku Pop Culture Guide](/shibuya-harajuku-pop-culture-guide/)
+- [10 Anime Pilgrimage Spots in Tokyo: Real Locations + Walking Routes](/articles/anime-pilgrimage-spots-tokyo)
+- [Your Name Pilgrimage Tokyo: 8 Film Locations + Walking Map](/articles/your-name-pilgrimage-tokyo)
+- [Demon Slayer Pilgrimage Tokyo: 7 Real Locations + Map](/articles/demon-slayer-pilgrimage-tokyo)
+- [One Piece Kumamoto Statue Tour: All 10 Straw Hat Locations](/articles/one-piece-kumamoto-statue-tour)
+- [Shibuya & Harajuku Pop Culture Guide](/articles/shibuya-harajuku-pop-culture-guide)
 - [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)
 
 ### More Anime Location Guides
 
-- [10 Must-Visit Anime Pilgrimage Spots in Tokyo](/anime-pilgrimage-spots-tokyo/)
-- [Your Name Pilgrimage Tokyo](/your-name-pilgrimage-tokyo/)
-- [Demon Slayer Real Locations Tokyo](/demon-slayer-pilgrimage-tokyo/)
-- [Jujutsu Kaisen Shibuya Locations 2026](/jujutsu-kaisen-shibuya-locations-2026/)
-- [SPY×FAMILY Tokyo Fan Day 2026](/spy-family-tokyo-fan-day-2026/)
-- [Shibuya & Harajuku Pop Culture Guide](/shibuya-harajuku-pop-culture-guide/)
+- [10 Must-Visit Anime Pilgrimage Spots in Tokyo](/articles/anime-pilgrimage-spots-tokyo)
+- [Your Name Pilgrimage Tokyo](/articles/your-name-pilgrimage-tokyo)
+- [Demon Slayer Real Locations Tokyo](/articles/demon-slayer-pilgrimage-tokyo)
+- [Jujutsu Kaisen Shibuya Locations 2026](/articles/jujutsu-kaisen-shibuya-locations-2026)
+- [SPY×FAMILY Tokyo Fan Day 2026](/articles/spy-family-tokyo-fan-day-2026)
+- [Shibuya & Harajuku Pop Culture Guide](/articles/shibuya-harajuku-pop-culture-guide)
 
 Planning a trip to Tokyo?
 
-[Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
+[Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)
 
 ## Never Miss a Cafe Opening or Anime Event
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.

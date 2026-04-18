@@ -216,18 +216,18 @@ Get a Suica (JR’s rechargeable card, sold at any JR station for 2,050 yen with
 
 If you found this useful, check out these related articles:
 
-- [10 Anime Pilgrimage Spots Tokyo](/anime-pilgrimage-spots-tokyo/)
-- [Your Name Pilgrimage Tokyo](/your-name-pilgrimage-tokyo/)
-- [Demon Slayer Pilgrimage Tokyo](/demon-slayer-pilgrimage-tokyo/)
-- [One Piece Kumamoto Statue Tour](/one-piece-kumamoto-statue-tour/)
+- [10 Anime Pilgrimage Spots Tokyo](/articles/anime-pilgrimage-spots-tokyo)
+- [Your Name Pilgrimage Tokyo](/articles/your-name-pilgrimage-tokyo)
+- [Demon Slayer Pilgrimage Tokyo](/articles/demon-slayer-pilgrimage-tokyo)
+- [One Piece Kumamoto Statue Tour](/articles/one-piece-kumamoto-statue-tour)
 - [eSIM vs Pocket WiFi Guide](/japan-esim-pocket-wifi-sim-card-guide/)
-- [Japan IC Card Transit Guide](/japan-ic-card-transit-guide/)
+- [Japan IC Card Transit Guide](/articles/japan-ic-card-transit-guide)
 
 **Follow [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)** for daily Tokyo pop culture updates.
 
 Planning a trip to Tokyo?
 
-[Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
+[Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)
 
 ## Never Miss a Cafe Opening or Anime Event
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.

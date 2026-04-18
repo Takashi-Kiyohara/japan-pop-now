@@ -152,16 +152,16 @@ A local guide takes you to every filming location from Your Name, explains the s
 
 ## More Pilgrimage Guides
 
-- [Demon Slayer Pilgrimage Guide — Every Location in Tokyo](/demon-slayer-pilgrimage-tokyo/)
-- [Weathering With You Real-Life Locations in Tokyo](/weathering-with-you-locations-tokyo/)
-- [Jujutsu Kaisen Shibuya Pilgrimage Guide](/demon-slayer-pilgrimage-tokyo/)
-- [Chainsaw Man Tokyo Pilgrimage Guide](/weathering-with-you-locations-tokyo/)
-- [One Piece Tokyo Guide 2026](/one-piece-kumamoto-statue-tour/)
-- [Kyoto Anime Guide 2026](/osaka-anime-guide-den-den-town/)
+- [Demon Slayer Pilgrimage Guide — Every Location in Tokyo](/articles/demon-slayer-pilgrimage-tokyo)
+- [Weathering With You Real-Life Locations in Tokyo](/articles/weathering-with-you-locations-tokyo)
+- [Jujutsu Kaisen Shibuya Pilgrimage Guide](/articles/demon-slayer-pilgrimage-tokyo)
+- [Chainsaw Man Tokyo Pilgrimage Guide](/articles/weathering-with-you-locations-tokyo)
+- [One Piece Tokyo Guide 2026](/articles/one-piece-kumamoto-statue-tour)
+- [Kyoto Anime Guide 2026](/articles/osaka-anime-guide-den-den-town)
 
 Planning a trip to Tokyo?
 
-[Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
+[Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)
 
 ## Never Miss a Cafe Opening or Anime Event
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.

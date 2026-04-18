@@ -62,7 +62,7 @@ Tickets are sold through Lawson Ticket (ローソンチケット). You can buy t
 
 System fees add about ¥220 per ticket. Buy advance tickets if possible — the day-of price is ¥500 more and availability isn’t guaranteed for popular editions.
 
-For international visitors who arrive in Japan before the event: walk into any Lawson, use the Loppi kiosk, and search for “ワンダーフェスティバル” (or use the L-code if announced). Our [Loppi guide](/lawson-ticket-loppi-guide/) walks through the machine step by step. If you can’t access Loppi, our [overseas booking guide](/book-japan-anime-events-overseas-2026/) covers proxy purchase options.
+For international visitors who arrive in Japan before the event: walk into any Lawson, use the Loppi kiosk, and search for “ワンダーフェスティバル” (or use the L-code if announced). Our [Loppi guide](/lawson-ticket-loppi-guide/) walks through the machine step by step. If you can’t access Loppi, our [overseas booking guide](/articles/book-japan-anime-events-overseas-2026) covers proxy purchase options.
 
 ## What’s the Best Strategy for Buying at WonderFes?
 
@@ -140,14 +140,14 @@ A garage kit is an unassembled, unpainted resin casting that you build and paint
 - [Proxy Shopping: Buy Anime Figures from Japan](/proxy-shopping-anime-figures-japan/)
 - [Japan Luggage Forwarding Guide](/luggage-forwarding-japan/)
 - [Akihabara Complete Guide 2026](/akihabara-complete-guide/)
-- [Anime Merch Shopping Guide Japan](/anime-merch-shopping-guide-japan/)
-- [Japan eSIM vs Pocket WiFi: Best Pick for 2026](/japan-esim-pocket-wifi-sim-card/)
+- [Anime Merch Shopping Guide Japan](/articles/anime-merch-shopping-guide-japan)
+- [Japan eSIM vs Pocket WiFi: Best Pick for 2026](/articles/japan-esim-pocket-wifi-sim-card)
 
 **Follow [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)** for daily Tokyo pop culture updates.
 
 Planning a trip to Tokyo?
 
-[Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
+[Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)
 
 ## Never Miss a Cafe Opening or Anime Event
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.

@@ -49,7 +49,7 @@ Japan’s rhythm game scene is massive, and game centers are where it lives. The
 
 **Dance Dance Revolution / DANCERUSH STARDOM** — full-body dance games. DDR uses arrow panels; DANCERUSH uses a flat LED floor.
 
-**Cost:** ¥100 per play (usually 3 songs). Some machines accept [IC card](/japan-ic-card-transit-guide/)s (Amusement IC / Aime / e-amusement pass) to save your scores and progress — you can buy these cards at the game center for ¥300.
+**Cost:** ¥100 per play (usually 3 songs). Some machines accept [IC card](/articles/japan-ic-card-transit-guide)s (Amusement IC / Aime / e-amusement pass) to save your scores and progress — you can buy these cards at the game center for ¥300.
 
 ### Fighting Games & Competitive Games (3F–4F)
 Japanese game centers are where competitive gaming started, and the fighting game community (FGC) is still deeply rooted in arcades. You’ll find cabinets for **Street Fighter 6 Type Arcade**, **Tekken 8**, **Guilty Gear Strive**, and **Gundam VS** series. The atmosphere on these floors is intense — serious players with their own arcade sticks, completely focused.
@@ -88,7 +88,7 @@ Akihabara has the densest collection of game centers in Japan. Within a 10-minut
 
 **GENDA GiGO Shinjuku Kabukicho** — Another large multi-floor game center right in the entertainment district. Good selection of rhythm games and fighting game cabinets.
 
-### [Ikebukuro](/ikebukuro-anime-guide-2026/): Round1 Stadium
+### [Ikebukuro](/articles/ikebukuro-anime-guide-2026): Round1 Stadium
 **Round1 Stadium Ikebukuro** is less of a traditional game center and more of an entertainment complex. Along with arcade games, it offers bowling, billiards, karaoke, darts, and even a sports area. You can buy time packages (roughly ¥2,500–¥2,800 for a few hours of access to most facilities). It’s ideal if you want variety beyond just arcade games, especially in a group.
 
 ### Shibuya: Casual and Tourist-Friendly
@@ -188,25 +188,25 @@ A local guide shows you the best game center floors, teaches crane game tricks, 
 [Find Game Center Tours on Klook](https://affiliate.klook.com/redirect?aid=117469&aff_adid=1251547&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US/search/?query=akihabara+game+arcade+tour&aid=1117469)
 ## More Practical Guides
 
-- [Akihabara Guide 2026: 30+ Shops, Cafes & Hidden Spots](/akihabara-complete-guide-2026/)
-- [Gachapon Guide: Where to Find, How to Use & What to Collect](/gachapon-guide-japan/)
+- [Akihabara Guide 2026: 30+ Shops, Cafes & Hidden Spots](/articles/akihabara-complete-guide-2026)
+- [Gachapon Guide: Where to Find, How to Use & What to Collect](/articles/gachapon-guide-japan)
 - [Anime Merch Shopping Guide: Where to Buy & How to Save](/anime-merch-shopping-guide/)
-- [Tokyo Anime District Guide: Which Neighborhood Matches Your Fandom](/tokyo-anime-district-guide/)
-- [Nakano Broadway Guide: 100+ Vintage Anime & Manga Shops](/nakano-broadway-guide/)
+- [Tokyo Anime District Guide: Which Neighborhood Matches Your Fandom](/articles/tokyo-anime-district-guide)
+- [Nakano Broadway Guide: 100+ Vintage Anime & Manga Shops](/articles/nakano-broadway-guide)
 - [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)
 
 ### More Practical Guides
 
-- [Akihabara Complete Guide 2026](/akihabara-complete-guide-2026/)
-- [Gachapon Guide Japan](/gachapon-guide-japan/)
+- [Akihabara Complete Guide 2026](/articles/akihabara-complete-guide-2026)
+- [Gachapon Guide Japan](/articles/gachapon-guide-japan)
 - [Anime Merch Shopping Guide Japan](/anime-merch-shopping-guide/)
-- [Gaming Tokyo 2026: Pokemon Center, Nintendo Store & More](/gaming-tokyo-2026/)
-- [SPY×FAMILY Tokyo Fan Day 2026](/spy-family-tokyo-fan-day-2026/)
-- [Japan IC Card Transit Guide](/japan-ic-card-transit-guide/)
+- [Gaming Tokyo 2026: Pokemon Center, Nintendo Store & More](/articles/gaming-tokyo-2026)
+- [SPY×FAMILY Tokyo Fan Day 2026](/articles/spy-family-tokyo-fan-day-2026)
+- [Japan IC Card Transit Guide](/articles/japan-ic-card-transit-guide)
 
 Planning a trip to Tokyo?
 
-[Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
+[Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)
 
 ## Never Miss a Cafe Opening or Anime Event
 

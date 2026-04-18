@@ -135,15 +135,15 @@ Akihabara and Ikebukuro both have cosplay supply shops. ACOS (by Animate) in Ike
 - [Akihabara Complete Guide 2026](/akihabara-complete-guide/)
 - [Ikebukuro Anime Guide 2026](/ikebukuro-anime-guide/)
 - [AnimeJapan & Comiket Guide 2026](/animejapan-comiket-guide/)
-- [Wonder Festival & Figure Events Guide](/wonder-festival-figure-events-japan-2026/)
-- [Game Centers & Arcades Japan: Complete Guide](/game-centers-arcades-japan/)
-- [Book Japan Anime Events from Overseas](/book-japan-anime-events-overseas-2026/)
+- [Wonder Festival & Figure Events Guide](/articles/wonder-festival-figure-events-japan-2026)
+- [Game Centers & Arcades Japan: Complete Guide](/articles/game-centers-arcades-japan)
+- [Book Japan Anime Events from Overseas](/articles/book-japan-anime-events-overseas-2026)
 
 **Follow [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)** for daily Tokyo pop culture updates.
 
 Planning a trip to Tokyo?
 
-[Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
+[Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)
 
 ## Never Miss a Cafe Opening or Anime Event
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.

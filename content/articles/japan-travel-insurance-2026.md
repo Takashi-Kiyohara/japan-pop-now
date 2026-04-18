@@ -323,18 +323,18 @@ But get something. A ¥30,000 ER visit or a ¥500,000 evacuation will ruin your 
 
 ### Japan Travel Essentials
 
-- [Japan eSIM vs Pocket WiFi vs SIM Card](/japan-esim-pocket-wifi-sim-card/)
-- [Japan IC Card Transit Guide](/japan-ic-card-transit-guide/)
-- [Japan Rail Pass 2026 Guide](/japan-rail-pass-2026-guide/)
-- [Japan Luggage Forwarding 2026](/japan-luggage-forwarding-2026/)
-- [Best Anime Hotels Tokyo 2026](/anime-hotels-tokyo-2026/)
-- [Tokyo Anime District Guide](/tokyo-anime-district-guide/)
+- [Japan eSIM vs Pocket WiFi vs SIM Card](/articles/japan-esim-pocket-wifi-sim-card)
+- [Japan IC Card Transit Guide](/articles/japan-ic-card-transit-guide)
+- [Japan Rail Pass 2026 Guide](/articles/japan-rail-pass-2026-guide)
+- [Japan Luggage Forwarding 2026](/articles/japan-luggage-forwarding-2026)
+- [Best Anime Hotels Tokyo 2026](/articles/anime-hotels-tokyo-2026)
+- [Tokyo Anime District Guide](/articles/tokyo-anime-district-guide)
 
 **Share on Instagram:** “Travel insurance for Japan from $45. Why you need it, what actually costs money, and which plan is best for your trip. (Spoiler: it’s not optional.) #JapanTravel #TravelTips #TravelInsurance” — Tag **[@japan.pop.now](https://instagram.com/japan.pop.now)**
 
 Planning a trip to Tokyo?
 
-[Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
+[Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)
 
 ## Never Miss a Cafe Opening or Anime Event
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.

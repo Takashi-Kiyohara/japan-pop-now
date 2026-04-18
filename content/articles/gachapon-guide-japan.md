@@ -170,16 +170,16 @@ No. Japan has over 600,000 gachapon machines nationwide. You’ll find them in e
 ## More Practical Guides
 
 - [Anime Merch Shopping Guide Japan](/anime-merch-shopping-guide/)
-- [Akihabara Guide 2026](/akihabara-complete-guide-2026/)
-- [Nakano Broadway Guide](/nakano-broadway-guide/)
-- [Japanese Game Centers Guide](/game-centers-arcades-japan/)
-- [Ikebukuro Anime Guide](/ikebukuro-anime-guide-2026/)
-- [Japan IC Card Guide](/japan-ic-card-transit-guide/)
+- [Akihabara Guide 2026](/articles/akihabara-complete-guide-2026)
+- [Nakano Broadway Guide](/articles/nakano-broadway-guide)
+- [Japanese Game Centers Guide](/articles/game-centers-arcades-japan)
+- [Ikebukuro Anime Guide](/articles/ikebukuro-anime-guide-2026)
+- [Japan IC Card Guide](/articles/japan-ic-card-transit-guide)
 - [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)
 
 Planning a trip to Tokyo?
 
-[Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
+[Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)
 
 ## Never Miss a Cafe Opening or Anime Event
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.

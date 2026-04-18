@@ -409,18 +409,18 @@ Buy the JR Pass if you’re doing a real Japan road trip. Skip it if you’re mo
 
 ### Japan Travel Essentials
 
-- [Japan IC Card Transit Guide](/japan-ic-card-transit-guide/)
-- [Japan eSIM vs Pocket WiFi vs SIM Card](/japan-esim-pocket-wifi-sim-card/)
-- [Japan Luggage Forwarding 2026](/japan-luggage-forwarding-2026/)
-- [Japan Travel Insurance 2026](/japan-travel-insurance-2026/)
-- [One Piece Kumamoto Statue Tour](/one-piece-kumamoto-statue-tour/)
-- [Osaka Anime Guide: Den Den Town & Beyond](/osaka-anime-guide-den-den-town/)
+- [Japan IC Card Transit Guide](/articles/japan-ic-card-transit-guide)
+- [Japan eSIM vs Pocket WiFi vs SIM Card](/articles/japan-esim-pocket-wifi-sim-card)
+- [Japan Luggage Forwarding 2026](/articles/japan-luggage-forwarding-2026)
+- [Japan Travel Insurance 2026](/articles/japan-travel-insurance-2026)
+- [One Piece Kumamoto Statue Tour](/articles/one-piece-kumamoto-statue-tour)
+- [Osaka Anime Guide: Den Den Town & Beyond](/articles/osaka-anime-guide-den-den-town)
 
 **Share on Instagram:** Your JR Pass experience? Tag **[@japan.pop.now](https://instagram.com/japan.pop.now)** or use **#JapanPopNow**
 
 Planning a trip to Tokyo?
 
-[Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
+[Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)
 
 ## Never Miss a Cafe Opening or Anime Event
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.

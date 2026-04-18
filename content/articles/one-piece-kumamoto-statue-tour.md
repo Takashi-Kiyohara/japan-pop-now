@@ -192,18 +192,18 @@ Kumamoto has run special campaigns with stamp rallies and collectible cards at v
 ## More Pilgrimage Guides
 
 - [One Piece Cafe GENE at PARCO — Tokyo](/one-piece-cafe-gene-parco-2026/)
-- [10 Anime Pilgrimage Spots in Tokyo You Can Visit Today](/anime-pilgrimage-spots-tokyo/)
-- [Tokyo Anime Districts — Complete Guide to Every Pop Culture Neighborhood](/tokyo-anime-district-guide/)
+- [10 Anime Pilgrimage Spots in Tokyo You Can Visit Today](/articles/anime-pilgrimage-spots-tokyo)
+- [Tokyo Anime Districts — Complete Guide to Every Pop Culture Neighborhood](/articles/tokyo-anime-district-guide)
 - [Check JR Pass Prices on Klook](https://affiliate.klook.com/redirect?aid=117469&aff_adid=1251547&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US/search/?query=japan+rail+pass&aid=1117469)
-- [Your Name Pilgrimage Tokyo: 8 Film Locations + Walking Map](/your-name-pilgrimage-tokyo/)
-- [Demon Slayer Pilgrimage Tokyo: 7 Real Locations + Map](/demon-slayer-pilgrimage-tokyo/)
-- [Weathering With You Locations Tokyo: 6 Film Spots + Route](/weathering-with-you-locations-tokyo/)
-- [Osaka Anime Guide: Den Den Town, Collab Cafes & Beyond](/osaka-anime-guide-den-den-town/)
+- [Your Name Pilgrimage Tokyo: 8 Film Locations + Walking Map](/articles/your-name-pilgrimage-tokyo)
+- [Demon Slayer Pilgrimage Tokyo: 7 Real Locations + Map](/articles/demon-slayer-pilgrimage-tokyo)
+- [Weathering With You Locations Tokyo: 6 Film Spots + Route](/articles/weathering-with-you-locations-tokyo)
+- [Osaka Anime Guide: Den Den Town, Collab Cafes & Beyond](/articles/osaka-anime-guide-den-den-town)
 - [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)
 
 Planning a trip to Tokyo?
 
-[Check our complete guide to anime collaboration cafes currently open →](/tokyo-anime-collab-cafes-spring-2026/)
+[Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)
 
 ## Never Miss a Cafe Opening or Anime Event
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.
