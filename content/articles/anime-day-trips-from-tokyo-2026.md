@@ -52,8 +52,6 @@ If you can only pick one: Kamakura for the most efficient trip (closest, cheapes
 
 ## How Do You Get to Each Location?
 
-![How Do You Get to Each Location? — 7 Anime Day Trips from Tokyo](/images/articles/anime-day-trips-from-tokyo-2026/2.jpg)
-
 | Destination | Route | Time | One-Way Cost |
 | --- | --- | --- | --- |
 | **Kamakura** | JR Yokosuka Line from Tokyo Stn | 55 min | ¥950 |
@@ -81,8 +79,6 @@ The JR Pass gives the best value on Oarai and Nikko — both are fully JR routes
 
 ## Kamakura: Slam Dunk Pilgrimage Route
 
-![Kamakura: Slam Dunk Pilgrimage Route — 7 Anime Day Trips from Tokyo](/images/articles/anime-day-trips-from-tokyo-2026/3.jpg)
-
 The closest and easiest anime day trip from Tokyo. The Kamakurakokomae No.1 Railroad Crossing — Slam Dunk’s most famous scene — is 55 minutes from Tokyo Station plus a 7-minute Enoden ride. You’ll see the exact ocean-and-rail composition from the anime’s opening credits, with Enoden trains passing every 12 minutes.
 
 **Half-day route:** Crossing (30 min) → Shichirigahama Beach walk (30 min) → Great Buddha at Hase (30 min) → Komachi-dori lunch (45 min). Total: 3-4 hours on the ground.
@@ -104,8 +100,6 @@ Hakone is the real-world model for NERV’s fortress city in Evangelion — and 
 
 ## Chichibu: Anohana Pilgrimage
 
-![Chichibu: Anohana Pilgrimage — 7 Anime Day Trips from Tokyo](/images/articles/anime-day-trips-from-tokyo-2026/4.jpg)
-
 “Anohana: The Flower We Saw That Day” (*Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai*) is set almost entirely in Chichibu, a mountain town about 80 minutes northwest of Ikebukuro. The anime’s impact on the town was so significant that Chichibu’s tourism office still distributes free pilgrimage maps at Seibu-Chichibu Station, over 15 years after the anime aired.
 
 **Key locations:** Chichibu Bridge (秩父橋) — the most iconic scene location, accessible by local bus from the station. The bridge overlooks the Arakawa River valley, and the view matches the anime’s emotional climax. Other locations are scattered across town — rent a bicycle at the station (available at the tourism office) to cover them efficiently in about 2 hours.
@@ -117,8 +111,6 @@ Hakone is the real-world model for NERV’s fortress city in Evangelion — and 
 **Best for:** Fans of the series will find the pilgrimage deeply moving — the town embraced the anime warmly and the locations are beautifully maintained. Casual visitors might find it quiet — Chichibu is a genuine countryside town, not a theme park. That’s part of the appeal if you want a break from Tokyo’s intensity.
 
 ## Kawaguchiko: Yuru Camp Lakeside
-
-![Kawaguchiko: Yuru Camp Lakeside — 7 Anime Day Trips from Tokyo](/images/articles/anime-day-trips-from-tokyo-2026/5.jpg)
 
 The Yuru Camp (*Yuru Camp*, ゆるキャン△) anime is set around the Fuji Five Lakes area, and Kawaguchiko is the most accessible of the five from Tokyo. Kouan Campground (浩庵キャンプ場) at Lake Motosuko — where the protagonist characters first meet — is about 25 minutes by car from Kawaguchiko Station. The lake also appears on the reverse of the ¥1,000 bill, with Mt. Fuji reflected in its surface.
 
@@ -142,8 +134,6 @@ Oarai might be the most successful anime-town collaboration in Japan. Over 60 sh
 **Events to know:** The Ankou Festival (あんこう祭, mid-November) is the biggest GuP event of the year — 155,000 visitors in 2025. If you’re in Japan in November, it’s worth planning around. The Kairaku Festival (海楽フェスタ, late March) draws about 30,000.
 
 ## Nikko: Demon Slayer Connections
-
-![Nikko: Demon Slayer Connections — 7 Anime Day Trips from Tokyo](/images/articles/anime-day-trips-from-tokyo-2026/6.jpg)
 
 Nikko Toshogu Shrine — a UNESCO World Heritage site — has visual connections to the Demon Slayer (*Kimetsu no Yaiba*) series that go beyond surface similarity. The shrine’s elaborate carved facades, hidden mountain setting, and spiritual atmosphere evoke both the Ubuyashiki family estate and the mystical training grounds. The Kinugawa Onsen area nearby features a bridge that appeared in the anime’s ending credits, and Nikko Edo Village has a Red Light District zone that parallels the Entertainment District arc.
 

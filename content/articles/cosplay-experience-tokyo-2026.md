@@ -32,8 +32,6 @@ Cosplay rental is one of those Tokyo experiences that sounds intimidating but is
 
 ## How Much Does Cosplay Rental Cost in Tokyo?
 
-![How Much Does Cosplay Rental Cost in Tokyo? — Cosplay Experience Tokyo 2026](/images/articles/cosplay-experience-tokyo-2026/1.jpg)
-
 Prices vary by studio and how much is included. Here’s a realistic breakdown:
 
 | Level | Price Range | What’s Included | Best For |
@@ -45,8 +43,6 @@ Prices vary by studio and how much is included. Here’s a realistic breakdown:
 Additional costs to budget for: extra digital photo downloads (¥500-1,000 per set), outdoor walking permission at some studios (¥1,000-1,500 surcharge), and studio rental extension (¥500-800 per extra 30 minutes). Most studios accept both cash and credit cards.
 
 ## Which Studios Offer English Support?
-
-![Which Studios Offer English Support? — Cosplay Experience Tokyo 2026](/images/articles/cosplay-experience-tokyo-2026/2.jpg)
 
 ### Studio Crown — Akihabara (Best Overall)
 The go-to studio for international visitors. Located within walking distance of Akihabara Station, Studio Crown offers three tiers of cosplay experience and has an English reservation form on their website. Some staff speak English, and the booking system is designed with overseas visitors in mind.
@@ -87,8 +83,6 @@ Tokyo is more cosplay-tolerant than most cities, but there are still unwritten r
 
 ## What Are the Rules for Cosplay at Events?
 
-![What Are the Rules for Cosplay at Events? — Cosplay Experience Tokyo 2026](/images/articles/cosplay-experience-tokyo-2026/4.jpg)
-
 Major anime events in Japan have specific cosplay rules. Here are the key ones:
 
 ### Comiket (Comic Market)
@@ -104,8 +98,6 @@ Cosplay is welcome. Same basic etiquette: use changing rooms, ask before photogr
 Ask before photographing anyone in cosplay — a simple gesture toward your camera and a raised eyebrow works across all languages. Don’t touch costumes or props without permission. Don’t follow cosplayers after they leave the photography area. If someone declines a photo request, move on without arguing.
 
 ## Can You Bring Your Own Costume to Japan?
-
-![Can You Bring Your Own Costume to Japan? — Cosplay Experience Tokyo 2026](/images/articles/cosplay-experience-tokyo-2026/5.jpg)
 
 Yes, and there are good reasons to consider it. Your own costume fits better, matches your character perfectly, and costs nothing to rent. Pack it carefully — foam and structured pieces should go in your carry-on to avoid crushing in checked luggage. Wigs travel well if you stuff them inside a hat box or padded bag.
 

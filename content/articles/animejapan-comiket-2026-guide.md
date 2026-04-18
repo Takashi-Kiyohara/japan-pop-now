@@ -58,8 +58,6 @@ Cosplay is heavy on Saturday, lighter on Sunday. Photography is allowed in desig
 
 ## Comiket: 500,000 People Buying Doujinshi & Fanworks
 
-![Comiket: 500,000 People Buying Doujinshi & Fanworks — AnimeJapan & Comiket 2026](/images/articles/animejapan-comiket-2026-guide/2.jpg)
-
 ### What Is Comiket, Exactly?
 Comiket (Comic Market) is a doujinshi market—a massive gathering where independent creators sell self-published manga, art books, music, and merchandise. It happens twice yearly: Summer Comiket (August) and Winter Comiket (December). Both at Tokyo Big Sight, 10:00 AM to 4:00 PM.
 
@@ -106,8 +104,6 @@ Download the official Comiket catalog PDF (comiket.co.jp, 2 weeks before event).
 **Comiket (one day):** ¥7,800–35,000+ depending on shopping.
 
 ## Hotels & Timing
-
-![Hotels & Timing — AnimeJapan & Comiket 2026](/images/articles/animejapan-comiket-2026-guide/3.jpg)
 
 Stay in Shinjuku, Shibuya, or Shimbashi for best access (20-35 minutes to Big Sight). Budget hotels ¥4,000–8,000/night. Book early for Comiket weekends.
 

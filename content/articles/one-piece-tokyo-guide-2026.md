@@ -95,8 +95,6 @@ Both the Harajuku and Ikebukuro Mugiwara Stores follow similar patterns: roughly
 
 ## One Piece Cafe GENE at Shibuya PARCO
 
-![One Piece Cafe GENE at Shibuya PARCO — One Piece Tokyo Guide 2026](/images/articles/one-piece-tokyo-guide-2026/3.jpg)
-
 One Piece Cafe GENE reopened for its Part 2 run on April 1st, 2026, and runs through May 18th. This is a time-limited experience, so if you want to try it, book now. The cafe occupies the 6th floor of Shibuya PARCO in the heart of Shibuya district, about 8 minutes from the station depending on which exit you use.
 
 I made a reservation 3 days in advance and was assigned a 90-minute seating slot. The reservation is free (you only pay for food), but walk-ins face 1-2 hour waits on weekends. The menu features 8 signature dishes themed around different Straw Hat crew members. I ordered the Luffy Meat Power Bowl (1,980 yen) and a Nami Ocean Wind Parfait (1,280 yen). Both were legitimately goodânot just gimmicky character-themed food. The parfait had real flavor complexity, and the bowl used quality ingredients rather than cutting corners.
@@ -117,8 +115,6 @@ The atmosphere is Instagram-friendly but also comfortable. Background music play
 | Seating Time | 90 minutes per reservation |
 
 ## Jump Shop Locations & NEW Jimbocho Branch
-
-![Jump Shop Locations & NEW Jimbocho Branch — One Piece Tokyo Guide 2026](/images/articles/one-piece-tokyo-guide-2026/4.jpg)
 
 Jump Shops are official Shueisha retailers carrying products from all Jump manga properties, including One Piece. Tokyo has 3 Jump Shop locations, and the newest one at Jimbocho opened March 19th, 2026. This matters because it’s smaller and far less crowded than the flagship Ikebukuro location.
 
@@ -177,8 +173,6 @@ The One Piece Cafe GENE runs April 1 through May 18. Plan your visit before May 
 Weekly restocks at the Base Shop happen  every Thursday morning. If you hunt for limited-edition items, visiting Thursday afternoon (after restocks) Ï gives you the best selection, though crowds are higher that day.
 
 ## Practical Shopping Tips
-
-![Practical Shopping Tips — One Piece Tokyo Guide 2026](/images/articles/one-piece-tokyo-guide-2026/7.jpg)
 
 I learned several lessons during my visits that will help you shop efficiently:
 

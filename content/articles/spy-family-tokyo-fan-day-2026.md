@@ -61,8 +61,6 @@ Check our [guide to booking anime collab cafes](https://japan-pop-now.com/how-to
 
 ## Tokyo Character Street & Jump Shop
 
-![Tokyo Character Street & Jump Shop — SPY×FAMILY Tokyo Fan Day](/images/articles/spy-family-tokyo-fan-day-2026/2.jpg)
-
 Underground Tokyo Station hides one of the best SPY×FAMILY shopping spots in the city. Tokyo Character Street (First Avenue, B1F) runs a 100-meter corridor of character goods stores, and at least 3–4 shops carry SPY×FAMILY merchandise at any given time.
 
 The anchor is **Jump Shop Tokyo Station**, Shueisha’s official store for Weekly Shonen Jump properties. SPY×FAMILY gets prominent shelf space here: manga volumes with exclusive cover variants, acrylic stands (¥1,200–¥1,800), clear files (¥440), and seasonal limited-edition goods that rotate monthly. The store is small but the selection is curated—you won’t find these exact items on Amazon Japan.
@@ -123,8 +121,6 @@ The items themselves are cheap (¥150–¥600 for the qualifying purchase) but t
 **Total: ¥10,000–¥22,000 (USD $70–$155)**
 
 ## What Merch Is Actually Worth Buying
-
-![What Merch Is Actually Worth Buying — SPY×FAMILY Tokyo Fan Day](/images/articles/spy-family-tokyo-fan-day-2026/3.jpg)
 
 **Must-buy (event exclusive):** Limited-edition acrylic keychains, event apparel, collab cafe coasters, signed art prints.
 

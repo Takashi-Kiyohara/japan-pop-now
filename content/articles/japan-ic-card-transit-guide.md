@@ -48,8 +48,6 @@ There are 10 major IC card brands in Japan (Suica, Pasmo, ICOCA, etc.), but they
 
 ## Which IC Card Should You Buy?
 
-![Which IC Card Should You Buy? — Japan IC Card & Transit Guide for Anime Fans (2026)](/images/articles/japan-ic-card-transit-guide/2.jpg)
-
 For most anime tourists, the choice comes down to two options based on where you arrive in Japan.
 
 **Arriving in Tokyo (Narita or Haneda)?** Get a **Welcome Suica** or regular **Suica**. Welcome Suica is designed for tourists — no deposit required, but it expires after 28 days. Regular Suica has a 500-yen deposit but doesn’t expire.
@@ -99,8 +97,6 @@ If your balance is too low to exit, don’t panic. Every station has a fare adju
 
 ## Recharging Your Card
 
-![Recharging Your Card — Japan IC Card & Transit Guide for Anime Fans (2026)](/images/articles/japan-ic-card-transit-guide/4.jpg)
-
 When your balance gets low, recharge (called “charge” in Japanese — “cha-ji”) at any ticket machine. Insert your card, select the charge amount (1,000 / 2,000 / 3,000 / 5,000 / 10,000 yen), insert cash, and you’re done. The maximum balance is 20,000 yen.
 
 Most machines accept 1,000-yen bills and coins. Some accept 5,000 and 10,000-yen bills. Credit card recharging is only available on mobile IC cards, not physical cards.
@@ -121,8 +117,6 @@ Your IC card isn’t just for trains. It works as a contactless payment card at 
 **Gashapon machines** — Unfortunately, gashapon machines are still coin-only. You’ll need 100-yen coins for these. See our [Gachapon Guide](https://japan-pop-now.com/gachapon-guide-japan/) for tips on finding change machines.
 
 ## Key Transit Routes for Anime Tourism in Tokyo
-
-![Key Transit Routes for Anime Tourism in Tokyo — Japan IC Card & Transit Guide for Anime Fans (2026)](/images/articles/japan-ic-card-transit-guide/5.jpg)
 
 Here are the most common routes anime tourists take in Tokyo, with fares and travel times. All fares listed are IC card fares (cash fares are 10-20 yen higher).
 
@@ -152,8 +146,6 @@ From Shinjuku: JR Yamanote Line, 5 minutes to Harajuku (next stop is Shibuya). 1
 
 ## Key Transit Routes for Anime Tourism in Osaka
 
-![Key Transit Routes for Anime Tourism in Osaka — Japan IC Card & Transit Guide for Anime Fans (2026)](/images/articles/japan-ic-card-transit-guide/6.jpg)
-
 If you’re visiting Osaka for anime shopping (see our [Osaka Anime Guide](https://japan-pop-now.com/osaka-anime-guide-den-den-town/)), here are the routes you’ll use most.
 
 ### To Den Den Town (Nipponbashi)
@@ -173,8 +165,6 @@ For trips longer than 28 days, get a regular Suica, PASMO, or ICOCA instead. The
 
 ## Mobile IC Cards (Apple Pay & Google Pay)
 
-![Mobile IC Cards (Apple Pay & Google Pay) — Japan IC Card & Transit Guide for Anime Fans (2026)](/images/articles/japan-ic-card-transit-guide/7.jpg)
-
 If you have an iPhone 8 or later (or Apple Watch Series 3+), you can add a mobile Suica or PASMO directly to your Apple Wallet. Android users with Google Pay can add mobile Suica. This is the most convenient option if your phone supports it.
 
 **Advantages:** No need to visit a ticket machine. Recharge instantly with a credit card (including international Visa/Mastercard). No deposit required. Your phone becomes your train pass.
@@ -186,8 +176,6 @@ If you have an iPhone 8 or later (or Apple Watch Series 3+), you can add a mobil
 **Battery warning:** Mobile IC cards work even when your phone battery is critically low, but if your phone is completely dead, you can’t tap through gates. Keep a portable battery or consider carrying a physical IC card as backup for long days of anime tourism.
 
 ## Money-Saving Tips & Common Mistakes
-
-![Money-Saving Tips & Common Mistakes — Japan IC Card & Transit Guide for Anime Fans (2026)](/images/articles/japan-ic-card-transit-guide/8.jpg)
 
 ### Tips
 **Check your balance before entering the gate.** The reader screen shows your remaining balance when you tap in. If it’s below 200 yen, recharge before your trip to avoid the fare adjustment machine at a busy station.

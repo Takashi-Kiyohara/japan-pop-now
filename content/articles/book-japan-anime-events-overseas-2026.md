@@ -34,8 +34,6 @@ This guide breaks down every booking method by accessibility level, walks you th
 
 ## Which Japan Anime Events Can You Book from Overseas?
 
-![Which Japan Anime Events Can You Book from Overseas? — How to Book Japan Anime Events from Overseas (2026 Guide)](/images/articles/book-japan-anime-events-overseas-2026/1.jpg)
-
 I’ve categorized Japan’s major anime events into three tiers based on how easy they are to book from outside the country. As of April 2026, here’s how it breaks down:
 
 | Booking Difficulty | Event Type | Examples | What You Need |
@@ -51,8 +49,6 @@ The good news: about 40% of anime events now offer some form of online booking t
 
 ## Which Events Need a Japanese Address or Phone Number?
 
-![Which Events Need a Japanese Address or Phone Number? — How to Book Japan Anime Events from Overseas (2026 Guide)](/images/articles/book-japan-anime-events-overseas-2026/2.jpg)
-
 Here’s where it gets frustrating. These platforms require something most overseas visitors don’t have:
 
 **Loppi (ローソンチケット in-store kiosk)** — Many collab cafes, especially BOX CAFE events and Animate Cafe collaborations, distribute tickets exclusively through Loppi machines inside Lawson convenience stores. You physically need to be at a Lawson in Japan to use the machine. There’s no online alternative for these events. If you arrive in Japan before the event, you can use Loppi yourself — but popular events sell out within hours of tickets going live, often before you land.
@@ -64,8 +60,6 @@ Here’s where it gets frustrating. These platforms require something most overs
 The pattern: the more exclusive and limited the event, the more likely it uses a Japan-only booking system. Regular collab cafes with 50+ seats per session are usually bookable online. Limited 20-seat events with exclusive merchandise? Almost always Loppi or lottery.
 
 ## How Do You Book Each Type of Event? (Step-by-Step)
-
-![How Do You Book Each Type of Event? (Step-by-Step) — How to Book Japan Anime Events from Overseas (2026 Guide)](/images/articles/book-japan-anime-events-overseas-2026/3.jpg)
 
 ### Theme Parks (PokePark Kanto, Ghibli Park, USJ)
 These are the easiest. All three major anime-adjacent theme parks now have English booking options:
@@ -95,8 +89,6 @@ For events that can only be booked through Loppi machines or Japanese phone veri
 
 ## What Are the Best Booking Proxy Services?
 
-![What Are the Best Booking Proxy Services? — How to Book Japan Anime Events from Overseas (2026 Guide)](/images/articles/book-japan-anime-events-overseas-2026/4.jpg)
-
 I’ve compared the major proxy booking services available to overseas anime fans. Here’s how they stack up:
 
 | Service | Service Fee | What They Book | English Support | Best For |
@@ -113,8 +105,6 @@ I’ve compared the major proxy booking services available to overseas anime fan
 
 ## How Does ShingoTravel’s Anime Booking Service Work?
 
-![How Does ShingoTravel’s Anime Booking Service Work? — How to Book Japan Anime Events from Overseas (2026 Guide)](/images/articles/book-japan-anime-events-overseas-2026/5.jpg)
-
 ShingoTravel is a Tokyo-based anime tour and booking service run by Shingo, who’s been organizing anime fan experiences in Tokyo since 2023. Japan Pop Now partners with ShingoTravel for overseas booking referrals — here’s how the process works:
 
 1. **Contact ShingoTravel** via their booking form or email with the event you want to attend, preferred date/time, and number of guests
@@ -127,8 +117,6 @@ Service fees typically range from ¥1,500-3,000 (~$10-20) per reservation, depen
 **Can’t book from overseas?** Japan Pop Now partners with [ShingoTravel](#), an anime-focused travel service based in Tokyo. They handle Japanese-language bookings on your behalf for a service fee. Contact them at least 2 weeks before your event for the best chance of securing a reservation.
 
 ## How Much Do Proxy Booking Services Cost?
-
-![How Much Do Proxy Booking Services Cost? — How to Book Japan Anime Events from Overseas (2026 Guide)](/images/articles/book-japan-anime-events-overseas-2026/6.jpg)
 
 Here’s what you’ll typically pay for proxy booking, broken down by event type:
 

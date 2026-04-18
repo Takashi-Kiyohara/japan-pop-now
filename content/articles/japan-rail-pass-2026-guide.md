@@ -168,8 +168,6 @@ You can buy regional passes for just the areas you’re visiting. Sometimes they
 
 ## Regional Pass vs National JR Pass Comparison Table
 
-![Regional Pass vs National JR Pass Comparison Table — Japan Rail Pass 2026](/images/articles/japan-rail-pass-2026-guide/3.jpg)
-
 | **Pass** | **Cost** | **Duration** | **Coverage** | **Best For** | **Shinkansen Included?** |
 | --- | --- | --- | --- | --- | --- |
 | **JR Pass (National)** | ¥50,000 (7-day) | 7, 14, 21 days | All JR lines nationwide | Multi-city, multi-region | Yes (most) |
@@ -213,8 +211,6 @@ You can buy regional passes for just the areas you’re visiting. Sometimes they
 **Cons:** Still need to exchange at airport (10 min). Small booking fee.
 
 ## The Activation Trick: When Should You Actually Start Your Pass?
-
-![The Activation Trick: When Should You Actually Start Your Pass? — Japan Rail Pass 2026](/images/articles/japan-rail-pass-2026-guide/4.jpg)
 
 Here’s a secret: **you don’t have to activate your pass the day you arrive.**
 
@@ -286,8 +282,6 @@ JR Pass covers JR trains. But Tokyo also has Tokyo Metro (not JR), Osaka has Mid
 - **Focused destination (Hokkaido, Hiroshima):** Buy regional pass, not national. Save ¥30,000-40,000.
 
 ## JR Pass vs Actual Numbers: Common Itineraries
-
-![JR Pass vs Actual Numbers: Common Itineraries — Japan Rail Pass 2026](/images/articles/japan-rail-pass-2026-guide/6.jpg)
 
 | **Itinerary** | **Days** | **Individual Tickets Cost** | **JR Pass Cost** | **Winner** |
 | --- | --- | --- | --- | --- |

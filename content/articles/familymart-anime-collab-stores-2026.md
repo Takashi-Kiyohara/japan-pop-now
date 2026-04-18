@@ -64,8 +64,6 @@ Duration: Typically 4–8 weeks (check dates)
 
 ## Exclusive Merch: What You Can Only Buy Here
 
-![Exclusive Merch: What You Can Only Buy Here — FamilyMart Anime Collab Stores](/images/articles/familymart-anime-collab-stores-2026/2.jpg)
-
 **Exclusive to this store:** FamilyMart-branded tote bags, store-exclusive acrylic stands/keychains, limited-edition food packaging, collaboration posters.
 
 **The buying strategy:** Prioritize exclusive items you can’t get elsewhere. Skip standard merch—buy it on Amazon Japan later.
@@ -90,8 +88,6 @@ Duration: Typically 4–8 weeks (check dates)
 Lawson runs smaller collabs (2–3 weeks, focus on food items, less store redesign). FamilyMart collabs are full-scale (4–8 weeks, larger merch selection, more visual impact). For serious collectors, FamilyMart is where you’ll find the action. Lawson is decent for [Loppi ticket purchases](https://japan-pop-now.com/lawson-ticket-loppi-guide/).
 
 ## One-Day Itinerary: Durarara!! Store + Ikebukuro
-
-![One-Day Itinerary: Durarara!! Store + Ikebukuro — FamilyMart Anime Collab Stores](/images/articles/familymart-anime-collab-stores-2026/3.jpg)
 
 **9:00 AM:** Arrive Ikebukuro Station, breakfast (¥600–¥1,000).
 

@@ -22,15 +22,11 @@ The anime’s location accuracy is nearly perfect. Director Sunghoo Park and the
 
 ## Why Shibuya Matters in Jujutsu Kaisen
 
-![Why Shibuya Matters in Jujutsu Kaisen — Jujutsu Kaisen Shibuya Locations](/images/articles/jujutsu-kaisen-shibuya-locations-2026/1.jpg)
-
 For anime viewers, Shibuya is the turning point where everything changes. This is where Sukuna fully emerges, where characters die, and where the entire power structure of the jujutsu world gets reorganized. The arc runs across roughly 10 episodes and 15 distinct locations within the same 3-square-kilometer area. That density—having so many key scenes in walking distance—is what makes this pilgrimage uniquely practical compared to other anime tourism.
 
 The manga, written by Gege Akutami, treated Shibuya as a detailed set. In interviews, Akutami mentioned studying Shibuya’s actual layout and architecture to make the curse locations feel grounded. When the anime adapted this, they pushed that accuracy further. The result is a location guide that works in reverse: you can use real-world Shibuya to better understand the manga and anime.
 
 ## Before You Go: Logistics
-
-![Before You Go: Logistics — Jujutsu Kaisen Shibuya Locations](/images/articles/jujutsu-kaisen-shibuya-locations-2026/2.jpg)
 
 *Shibuya is also a major anime and pop culture hub — see our [Shibuya & Harajuku Pop Culture Guide](/shibuya-harajuku-pop-culture-guide/) for shops and cafes nearby.*
 
@@ -43,8 +39,6 @@ Before starting the pilgrimage, you have two options: book a guided tour or go s
 For solo pilgrims: download Google Maps offline and grab the location coordinates below. You’ll need about 2.5 hours walking, plus stops for coffee and photos.
 
 ## The 8 Must-Visit JJK Locations (In Walking Order)
-
-![The 8 Must-Visit JJK Locations (In Walking Order) — Jujutsu Kaisen Shibuya Locations](/images/articles/jujutsu-kaisen-shibuya-locations-2026/3.jpg)
 
 ### 1. Hachiko Square — The Barrier Activation Point
 Hachiko Square is where the Shibuya Incident actually begins in the anime. This is the location where the curse barrier first appears—where you see the blue-ish distortion effect that traps thousands of people in Shibuya. In episode 148, the barrier activation is shown from multiple angles, and those angles are accurate to real Hachiko Square geography.
@@ -229,8 +223,6 @@ This route makes sense geographically: you start at the barrier’s initial acti
 
 ## Photo Matching: How to Recreate Anime Scenes
 
-![Photo Matching: How to Recreate Anime Scenes — Jujutsu Kaisen Shibuya Locations](/images/articles/jujutsu-kaisen-shibuya-locations-2026/4.jpg)
-
 Location matching in Shibuya Incident works best when you pay attention to these specific details:
 
 **Building angles:** The anime uses many static wide shots that include 2-3 buildings in frame. Screenshot a scene you want to match, identify the buildings, then position yourself to match that angle. Hachiko Square toward the station, Scramble Crossing facing the Starbucks building, and Center-gai streets all have distinct building combinations that appear repeatedly in the anime.
@@ -242,8 +234,6 @@ Location matching in Shibuya Incident works best when you pay attention to these
 **Smartphone photography:** You don’t need a fancy camera. Use your phone’s wide-angle lens for broad establishing shots, and switch to normal/zoom for detail shots of building facades. Edit photos to roughly match the anime’s color grade (slightly cool, high contrast, blue-tinted lighting at dusk). This makes your photos feel more “anime-matched” without being overly stylized.
 
 ## Nearby Food: Where to Eat While Pilgrimaging
-
-![Nearby Food: Where to Eat While Pilgrimaging — Jujutsu Kaisen Shibuya Locations](/images/articles/jujutsu-kaisen-shibuya-locations-2026/5.jpg)
 
 You’ll spend 2-3 hours walking. You’ll need coffee or a meal. Here are three solid options within the pilgrimage zone:
 
@@ -303,8 +293,6 @@ Website: omotesando-koffee.com
 
 ## Combining with Other Anime Pilgrimages
 
-![Combining with Other Anime Pilgrimages — Jujutsu Kaisen Shibuya Locations](/images/articles/jujutsu-kaisen-shibuya-locations-2026/6.jpg)
-
 If you’re doing a multi-day anime tourism trip to Tokyo, Shibuya fits logically with several other locations. [Shibuya and Harajuku share overlapping geography](https://japan-pop-now.com/shibuya-harajuku-pop-culture-guide/)—Meiji-dori connects them directly, and you can walk between the two neighborhoods in about 20 minutes. If you’re combining pilgrimage spots, consider doing Shibuya in the morning and Harajuku in the afternoon.
 
 If you’re interested in broader anime location tourism, [Tokyo anime pilgrimage spots](https://japan-pop-now.com/anime-pilgrimage-spots-tokyo/) covers locations across the city. Shibuya is one of the densest zones (roughly 10 significant locations in 3 square kilometers), which makes it ideal for a single morning or afternoon session.
@@ -322,15 +310,11 @@ For anime cafe tourism, [booking anime collaboration cafes](https://japan-pop-no
 
 ## Safety and Etiquette Notes
 
-![Safety and Etiquette Notes — Jujutsu Kaisen Shibuya Locations](/images/articles/jujutsu-kaisen-shibuya-locations-2026/7.jpg)
-
 Shibuya is safe. You won’t encounter crime or harassment doing this pilgrimage. Standard Tokyo etiquette applies: don’t block sidewalk traffic while photographing, remove your backpack on crowded trains, and don’t photograph people without consent (though photographing buildings and streets is fine).
 
 If you visit Shibuya Station’s crowded passages, be aware that station staff might ask you to move if you’re standing still photographing in a busy corridor. They’re not hostile about it, but they’ll redirect foot traffic. Early morning avoids this entirely.
 
 ## The Bigger Picture: Why Shibuya Matters
-
-![The Bigger Picture: Why Shibuya Matters — Jujutsu Kaisen Shibuya Locations](/images/articles/jujutsu-kaisen-shibuya-locations-2026/8.jpg)
 
 The Shibuya Incident arc is Jujutsu Kaisen’s turning point. It’s where fans watch the story fundamentally change. Walking these locations now—in April 2026, roughly 1.5 years after the anime aired—lets you experience the setting in a way that re-reading the manga can’t quite match. You’re standing in the actual spaces the animation referenced. You’re seeing the real geography that the mangaka studied.
 

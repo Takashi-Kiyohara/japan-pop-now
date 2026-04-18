@@ -18,8 +18,6 @@ If you are visiting Tokyo in April 2026 and want a **My Hero Academia-themed caf
 
 ## Why this My Hero Academia cafe works so well for travelers
 
-![Why this My Hero Academia cafe works so well for travelers — My Hero Academia Cafe Tokyo 2026](/images/articles/my-hero-academia-cafe-tokyo-2026/1.jpg)
-
 A lot of anime cafes in Tokyo are appealing in isolation but awkward in real travel terms. They may be in less convenient neighborhoods, last for only a short time, or require a dedicated trip with little else nearby.
 
 This one is different because it is in **Ikebukuro**.
@@ -47,8 +45,6 @@ That matters because it gives the event a stronger identity than a generic colla
 The featured art also shows **U.A. High School Class 1-A** characters in colorful diner-inspired outfits, which strengthens the event for fans who care about exclusive illustrations and photo appeal.[1]
 
 ## Why Ikebukuro is the best part of this event
-
-![Why Ikebukuro is the best part of this event — My Hero Academia Cafe Tokyo 2026](/images/articles/my-hero-academia-cafe-tokyo-2026/2.jpg)
 
 If you are deciding whether this cafe is worth the effort, the answer depends less on the food itself and more on **where it is located**.
 

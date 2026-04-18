@@ -116,8 +116,6 @@ Major anime retailers like Akihabara extensions in these areas stock comprehensi
 
 ## Pilgrimage to Kishimoto's Hometown
 
-![Pilgrimage to Kishimoto's Hometown — Naruto Tokyo Pilgrimage](/images/articles/naruto-tokyo-pilgrimage-2026/2.jpg)
-
 ### Nagi Town, Okayama Prefecture (Day Trip)
 
 Understanding Naruto's creation requires visiting the hometown of author Masashi Kishimoto. While technically outside Tokyo, Nagi Town (formerly Nagi Town in Okayama Prefecture's Katsuta District) shaped Kishimoto's imagination and subsequently the entire Naruto narrative.
@@ -153,8 +151,6 @@ Kishimoto attended Kyushu Sangyo University and frequented Ichiraku Ramen near c
 For Tokyo-based pilgrims unable to reach Fukuoka or Hyogo Prefecture's Nijigen no Mori theme park, this represents a knowledge gap rather than a practical destination. However, several ramen shops in Tokyo create Naruto-themed menu items during collaboration periods, though without the historical significance of the original Ichiraku location.
 
 ## Regional Theme Park Alternative
-
-![Regional Theme Park Alternative — Naruto Tokyo Pilgrimage](/images/articles/naruto-tokyo-pilgrimage-2026/3.jpg)
 
 ### Nijigen no Mori (Awaji Island, Hyogo Prefecture)
 
@@ -273,8 +269,6 @@ Continue your pilgrimage journey with our complete anime location guides:
 ---
 
 ## Insider Tips for Maximum Experience
-
-![Insider Tips for Maximum Experience — Naruto Tokyo Pilgrimage](/images/articles/naruto-tokyo-pilgrimage-2026/6.jpg)
 
 **Weekday visits minimize crowds significantly.** I visited multiple locations on both weekday and weekend occasions, observing 50-60% reduced visitor counts on weekday afternoons. This translates to better photo opportunities and more attentive staff engagement.
 

@@ -21,8 +21,6 @@ Skip the heavy suitcase shuffle. Here’s exactly how takuhaibin (Japanese lugga
 
 ## The Real Problem It Solves (And When To Skip It)
 
-![The Real Problem It Solves (And When To Skip It) — Japan Luggage Forwarding 2026](/images/articles/japan-luggage-forwarding-2026/1.jpg)
-
 You land in Tokyo with a suitcase that made sense when you packed it three days ago. Now you’re heading to Kyoto tomorrow, then Osaka, and that suitcase has become your enemy. You either haul it on trains (fun fact: Japanese trains have no luggage racks), check it at the station (¥2,000+ per day), or you send it ahead.
 
 Takuhaibin is the third option. It’s Japan’s domestic luggage forwarding system, and it’s so efficient and cheap that once you use it, you wonder why every country doesn’t have one.
@@ -40,8 +38,6 @@ For travelers, it means: you drop your suitcase at a hotel, convenience store, o
 
 **Japan Tip:** Takuhaibin works for one-way trips only. You can’t ask for your bag back if plans change — it’s gone to your next destination. Plan your cities in order before you ship bags.
 ## The Main Players: Yamato, Sagawa, JAL ABC
-
-![The Main Players: Yamato, Sagawa, JAL ABC — Japan Luggage Forwarding 2026](/images/articles/japan-luggage-forwarding-2026/2.jpg)
 
 ### Yamato Transport (Kuroneko/クロネコヤマト) — The Default Choice
 **Market share:** ~40% of Japan’s parcel market. Easiest to recognize (black cat logo). Available at most hotels, train stations, and convenience stores.
@@ -161,8 +157,6 @@ Payment is usually at checkout or billed to your room. Hand your suitcase to sta
 
 ## Price Comparison Table: Luggage Forwarding vs Alternatives
 
-![Price Comparison Table: Luggage Forwarding vs Alternatives — Japan Luggage Forwarding 2026](/images/articles/japan-luggage-forwarding-2026/3.jpg)
-
 | Method | Cost (1 Suitcase) | Best For | Pros | Cons |
 | --- | --- | --- | --- | --- |
 | Yamato Takuhaibin | ¥2,000-3,000 ($13-20) | Moving between cities | Reliable, everywhere, next-day | Can’t reverse delivery |
@@ -233,8 +227,6 @@ You land at Narita or Haneda. You want your bag at your Tokyo hotel by 6 PM so y
 
 ## Common Mistakes (Avoid These)
 
-![Common Mistakes (Avoid These) — Japan Luggage Forwarding 2026](/images/articles/japan-luggage-forwarding-2026/5.jpg)
-
 - **Not having your next hotel’s phone number:** The form asks for it. You need it. Write it down before you leave your hotel.
 - **Addressing the hotel in English:** Yamato’s system still uses addresses. Have staff transliterate in Japanese if possible.
 - **Expecting same-day delivery for free:** Standard is next business day. Same-day costs ¥500-800 extra.
@@ -256,8 +248,6 @@ The best luggage strategy is having less luggage. If you travel with just a carr
 - Passport, cash, IC card
 
 ## Related Guides
-
-![Related Guides — Japan Luggage Forwarding 2026](/images/articles/japan-luggage-forwarding-2026/6.jpg)
 
 - [Japan IC Card Transit Guide: SUICA, PASMO, and Why You Need One](https://japan-pop-now.com/japan-ic-card-transit-guide/)
 - [Anime Merch Shopping Guide: Akihabara, Ikebukuro, Shibuya 2026](https://japan-pop-now.com/anime-merch-shopping-guide/)

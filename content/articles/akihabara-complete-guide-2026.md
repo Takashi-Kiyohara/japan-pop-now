@@ -25,8 +25,6 @@ This guide covers the Akihabara that rewards people who look past the obvious.
 
 ## Understanding the Layout (Read This First)
 
-![Understanding the Layout (Read This First) — Akihabara](/images/articles/akihabara-complete-guide-2026/1.jpg)
-
 Akihabara is compact â everything fits within a 10-minute walking radius from the station. But the layout isn’t intuitive if you don’t know the structure.
 
 **The main artery: Chuo Dori (ä¸­å¤®éã).** This is the broad avenue running south from the station. The big-name stores are here â Animate, Kotobukiya, Radio Kaikan, Yodobashi Camera. It’s where you’ll spend your first hour getting oriented.
@@ -38,8 +36,6 @@ Akihabara is compact â everything fits within a 10-minute walking radius fr
 On Sundays and public holidays (1:00 PM â 6:00 PM, until 5:00 PM OctoberâMarch), Chuo Dori closes to traffic and becomes a pedestrian zone called Hokousha Tengoku (æ­©è¡èå¤©å½). This is when cosplayers come out, street performers set up, and the entire street becomes a walkable festival. It’s the most photogenic time to visit, but the worst time for serious shopping â the crowds make browsing difficult.
 
 ## The Essential Stops
-
-![The Essential Stops — Akihabara](/images/articles/akihabara-complete-guide-2026/2.jpg)
 
 Start here on your first visit. These are the landmarks that orient you.
 
@@ -95,8 +91,6 @@ Prices range from surprisingly affordable to serious-collector territory. The co
 
 ## The Deep Cuts: What Most Guides Miss
 
-![The Deep Cuts: What Most Guides Miss — Akihabara](/images/articles/akihabara-complete-guide-2026/3.jpg)
-
 ### Super Potato â Retro Gaming Shrine
 Multiple floors dedicated to retro gaming â Famicom, Super Famicom, Sega Saturn, Mega Drive, PlayStation 1-2, Game Boy, Neo Geo, PC Engine. Everything is tested and in working condition. The top floor has a small arcade with playable retro cabinets (Â¥100 per play) where you can sit down and play Street Fighter II, Pac-Man, or Space Invaders on original hardware.
 
@@ -136,8 +130,6 @@ No specific addresses here â exploring these streets on foot is the point. 
 ð¡ **Local tip:** The shops in Akihabara’s side streets are tight-knit. If you’re looking for something specific that a store doesn’t carry, ask the staff â they’ll often point you to another shop nearby that might have it. This kind of referral network doesn’t exist in tourist areas but works well here.
 
 ## Game Centers & Arcades (ã²ã¼ã ã»ã³ã¿ã¼)
-
-![Game Centers & Arcades (ã²ã¼ã ã»ã³ã¿ã¼) — Akihabara](/images/articles/akihabara-complete-guide-2026/4.jpg)
 
 Most English-language Akihabara guides barely mention game centers, which is wild because the district has some of the best arcades in Japan. The scene here ranges from massive modern complexes to legendary independent arcades preserved in their original 1990s state. Unlike Western arcades that mostly died out, Japanese game centers are thriving â they’re legitimate entertainment venues with dedicated communities and regular tournaments.
 
@@ -198,8 +190,6 @@ For the full list of collab cafes across Tokyo, see our [Tokyo Anime Collab Cafe
 
 ## Maid Cafes: What Actually Happens Inside (and How to Avoid Scams)
 
-![Maid Cafes: What Actually Happens Inside (and How to Avoid Scams) — Akihabara](/images/articles/akihabara-complete-guide-2026/5.jpg)
-
 ### The Real Maid Cafe Experience
 Maid cafes are Akihabara’s most iconic cultural export, and the legitimate ones are a lot of fun. You enter and are greeted by staff dressed in maid costumes who call you *goshujin-sama* (master) or *ojou-sama* (princess). You’re seated, given a picture menu, and you order food and drinks that are visually themed (hearts drawn on omurice with ketchup, character-shaped pancakes). The maids may perform a short song, a “magic spell” over your food, or offer a photo service (usually Â¥500-1,000 extra). The atmosphere is theatrical â it’s meant to be fun and lighthearted.
 
@@ -250,8 +240,6 @@ The situation is serious enough that **Chiyoda Ward officially designated Akihab
 
 ## Where to Eat (Beyond Theme Cafes)
 
-![Where to Eat (Beyond Theme Cafes) — Akihabara](/images/articles/akihabara-complete-guide-2026/6.jpg)
-
 Akihabara has excellent food beyond the maid and collab cafes. A few standouts:
 
 **Go Go Curry** â The iconic Akihabara curry chain. Thick, dark Japanese-style curry over rice with a tonkatsu cutlet. Filling and affordable (Â¥750-1,000). Multiple locations in the area.
@@ -298,8 +286,6 @@ Akihabara has excellent food beyond the maid and collab cafes. A few standouts:
 ð¡ **Local tip:** The real Akihabara eating culture is quick and cheap â convenience store onigiri between shops, standing ramen at the station, curry before an evening arcade session. The locals eat to fuel up for more browsing, not as a destination experience.
 
 ## When to Go & How to Get There
-
-![When to Go & How to Get There — Akihabara](/images/articles/akihabara-complete-guide-2026/8.jpg)
 
 **Best time to visit:** Weekday afternoons, 2:00-5:00 PM. Shops are fully stocked, crowds are manageable, and you can browse comfortably. Tuesday-Wednesday are the quietest days.
 
