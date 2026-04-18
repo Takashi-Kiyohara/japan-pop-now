@@ -1,0 +1,62 @@
+name: Image Quality Gate
+
+on:
+  pull_request:
+    paths:
+      - 'content/articles/**'
+      - 'articles/**'
+      - 'public/images/articles/**'
+      - 'scripts/image_quality_gate.py'
+  push:
+    branches:
+      - main
+    paths:
+      - 'content/articles/**'
+      - 'articles/**'
+      - 'public/images/articles/**'
+
+jobs:
+  image-quality:
+    runs-on: ubuntu-latest
+    timeout-minutes: 8
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+
+      - name: Install Pillow
+        run: pip install --quiet Pillow==11.0.0
+
+      - name: Run image quality gate (changed files)
+        if: github.event_name == 'pull_request'
+        run: |
+          python3 scripts/image_quality_gate.py --changed
+
+      - name: Run image quality gate (full repo)
+        if: github.event_name == 'push'
+        run: |
+          python3 scripts/image_quality_gate.py
+
+      - name: Post summary
+        if: always()
+        run: |
+          echo "## Image Quality Gate" >> $GITHUB_STEP_SUMMARY
+          echo "" >> $GITHUB_STEP_SUMMARY
+          if [ ${{ job.status }} = "success" ]; then
+            echo "PASS — all image checks cleared." >> $GITHUB_STEP_SUMMARY
+          else
+            echo "FAIL — image quality gate blocked merge. See job log." >> $GITHUB_STEP_SUMMARY
+            echo "" >> $GITHUB_STEP_SUMMARY
+            echo "Run locally to reproduce:" >> $GITHUB_STEP_SUMMARY
+            echo '```' >> $GITHUB_STEP_SUMMARY
+            echo 'python3 scripts/image_quality_gate.py --changed' >> $GITHUB_STEP_SUMMARY
+            echo '```' >> $GITHUB_STEP_SUMMARY
+          fi
