@@ -1,0 +1,26 @@
+﻿name: MDX Validate
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'content/articles/**'
+      - 'scripts/validate-mdx.mjs'
+      - '.github/workflows/mdx-validate.yml'
+  pull_request:
+    paths:
+      - 'content/articles/**'
+      - 'scripts/validate-mdx.mjs'
+      - '.github/workflows/mdx-validate.yml'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Run MDX validator
+        run: node scripts/validate-mdx.mjs
