@@ -17,10 +17,10 @@ export const metadata: Metadata = {
   description:
     'The only English-language real-time tracker of anime collaboration cafes in Japan. See what is running now, what is opening soon, and browse the archive by IP.',
   alternates: { canonical: cafesHubUrl() },
-  // Hub page: noindex until cafes.json is populated with active entries.
-  // Revisit once real cafe data is backfilled from collabo-cafe.com sources.
+  // Cafes hub now carries real campaign data (3 seeded in ca8f95f + Fukuoka
+  // venue in ec40678). Index on, let the /cafes/<slug> children inherit.
   robots: {
-    index: false,
+    index: true,
     follow: true,
   },
   openGraph: {
