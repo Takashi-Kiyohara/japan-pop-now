@@ -74,20 +74,28 @@ export function generateAutoTags(slug: string, title: string, category: string):
   const tags = new Set<string>();
   const searchText = `${slug} ${title}`.toLowerCase();
 
-  // Category-based tags
+  // Category-based tags — new 5-slug taxonomy (2026-04-19).
+  // Destinations merges old anime-pilgrimage + area-guides so it seeds both
+  // pilgrimage and area-guide tag hints. Experiences merges old experiences +
+  // travel-tips so it seeds the practical travel-tips tag too.
   switch (category) {
-    case 'collab-cafes':
+    case 'cafes':
       tags.add('collab-cafe');
       break;
-    case 'anime-pilgrimage':
+    case 'destinations':
       tags.add('pilgrimage');
       tags.add('seichi-junrei');
-      break;
-    case 'area-guides':
       tags.add('area-guide');
       break;
-    case 'travel-tips':
+    case 'experiences':
+      tags.add('experience');
       tags.add('travel-tips');
+      break;
+    case 'events':
+      tags.add('anime-event');
+      break;
+    case 'culture':
+      tags.add('pop-culture');
       break;
   }
 

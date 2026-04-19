@@ -272,7 +272,7 @@ export default function Home() {
               buttonText="Browse Tokyo Cafes"
               href={'https://www.klook.com/en-US/search/?query=anime+collab+cafe+experience+tokyo&aff_id=' + (process.env.NEXT_PUBLIC_KLOOK_AFF_ID || '')}
               program="klook"
-              category="collab-cafes"
+              category="cafes"
             />
             <AffiliateCTA
               icon={<Train size={28} />}
@@ -281,7 +281,7 @@ export default function Home() {
               buttonText="Get JR Pass"
               href={'https://www.klook.com/en-US/activity/1523-japan-rail-pass-jr-pass?aff_id=' + (process.env.NEXT_PUBLIC_KLOOK_AFF_ID || '')}
               program="klook"
-              category="travel-tips"
+              category="experiences"
             />
             <AffiliateCTA
               icon={<Hotel size={28} />}
@@ -290,7 +290,7 @@ export default function Home() {
               buttonText="Search Hotels"
               href={'https://www.booking.com/searchresults.html?ss=Ikebukuro%2C+Tokyo&aid=' + (process.env.NEXT_PUBLIC_BOOKING_AFF_ID || '')}
               program="booking"
-              category="area-guides"
+              category="destinations"
             />
           </div>
         </div>

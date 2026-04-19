@@ -14,25 +14,25 @@ const HUBS = [
     slug: 'tokyo-anime-cafes',
     title: 'Tokyo Anime Collab Cafes',
     description: 'Every anime collaboration cafe currently open in Tokyo — schedules, menus, booking tips.',
-    category: 'collab-cafes',
+    category: 'cafes',
   },
   {
     slug: 'anime-pilgrimage-tokyo',
     title: 'Anime Pilgrimage Spots in Tokyo',
     description: 'Real-life locations from Your Name, Jujutsu Kaisen, Weathering With You, and more.',
-    category: 'anime-pilgrimage',
+    category: 'destinations',
   },
   {
     slug: 'osaka-anime-guide',
     title: 'Osaka Anime & Pop Culture Guide',
     description: 'Den Den Town, Universal Studios Japan, collab cafes, and hidden otaku spots in Osaka.',
-    category: 'area-guides',
+    category: 'destinations',
   },
   {
     slug: 'day-trips-from-tokyo',
     title: 'Anime Day Trips from Tokyo',
     description: 'Kamakura (Slam Dunk), Chichibu (Anohana), Odaiba (Gundam) — all within 2 hours.',
-    category: 'anime-pilgrimage',
+    category: 'destinations',
   },
   {
     slug: 'japan-anime-experiences',
@@ -44,7 +44,7 @@ const HUBS = [
     slug: 'japan-travel-essentials',
     title: 'Japan Travel Essentials',
     description: 'JR Pass, eSIM, IC cards, budget tips, and everything you need before your trip.',
-    category: 'travel-tips',
+    category: 'experiences',
   },
 ];
 

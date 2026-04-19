@@ -28,7 +28,7 @@ const klook = (path: string) =>
 
 export function getAffiliateProductForCategory(category: string): AffiliateProduct | null {
   switch (category) {
-    case 'collab-cafes':
+    case 'cafes':
       return {
         program: 'klook',
         icon: '🎫',
@@ -40,31 +40,19 @@ export function getAffiliateProductForCategory(category: string): AffiliateProdu
         priceFrom: 'from ¥3,800',
         inlineCopy: 'Book anime cafe experiences on Klook from ¥3,800',
       };
-    case 'anime-pilgrimage':
+    case 'destinations':
       return {
         program: 'klook',
         icon: '🚅',
         title: 'Get There by Rail',
         description:
-          'The Japan Rail Pass covers most pilgrimage routes. Compare 7, 14, and 21-day options — prices recently dropped.',
+          'The Japan Rail Pass covers pilgrimage routes and otaku district day trips. Compare 7, 14, and 21-day options — prices recently dropped.',
         buttonText: 'Compare JR Pass Prices',
         href: klook('/activity/1523-japan-rail-pass-jr-pass'),
         priceFrom: 'from ¥50,000 / 7 days',
         inlineCopy: 'Compare JR Pass options on Klook from ¥50,000',
       };
-    case 'area-guides':
-      return {
-        program: 'booking',
-        icon: '🏨',
-        title: 'Stay Near the Action',
-        description:
-          'Find hotels in the best anime districts — from ¥3,000/night capsule hotels to themed rooms. Free cancellation on most bookings.',
-        buttonText: 'Search Hotels',
-        href: `https://www.booking.com/searchresults.html?ss=Ikebukuro%2C+Tokyo&aid=${BOOKING_AFF_ID}`,
-        priceFrom: 'from ¥3,000 / night',
-        inlineCopy: 'Search anime-district hotels on Booking.com from ¥3,000/night',
-      };
-    case 'travel-tips':
+    case 'experiences':
       return {
         program: 'klook',
         icon: '📱',

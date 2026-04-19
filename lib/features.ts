@@ -32,7 +32,7 @@ export const FEATURES: Feature[] = [
     tags: ['collab-cafe', 'anime-cafe'],
     active: true,
     color: '#e91e8c',
-    primaryCategory: 'collab-cafes',
+    primaryCategory: 'cafes',
   },
   {
     slug: 'pilgrimage-routes',
@@ -43,7 +43,7 @@ export const FEATURES: Feature[] = [
     tags: ['pilgrimage', 'holy-land', 'seichi-junrei'],
     active: true,
     color: '#2563eb',
-    primaryCategory: 'anime-pilgrimages',
+    primaryCategory: 'destinations',
   },
   {
     slug: 'tokyo-district-guides',
@@ -54,7 +54,7 @@ export const FEATURES: Feature[] = [
     tags: ['tokyo', 'area-guide', 'district'],
     active: true,
     color: '#16a34a',
-    primaryCategory: 'tokyo-guides',
+    primaryCategory: 'destinations',
   },
   {
     slug: 'travel-essentials',
@@ -65,7 +65,7 @@ export const FEATURES: Feature[] = [
     tags: ['travel-tips', 'essential', 'budget'],
     active: true,
     color: '#d97706',
-    primaryCategory: 'travel-essentials',
+    primaryCategory: 'experiences',
   },
 ];
 

@@ -21,7 +21,7 @@ export async function generateStaticParams() {
 
 function getCategoryAffiliateCTA(category: { slug: string; label: string }) {
   switch (category.slug) {
-    case 'collab-cafes':
+    case 'cafes':
       return (
         <AffiliateCTA
           icon="🎫"
@@ -30,31 +30,19 @@ function getCategoryAffiliateCTA(category: { slug: string; label: string }) {
           buttonText="Browse Cafe Experiences"
           href={'https://www.klook.com/en-US/experiences?aff_id=' + (process.env.NEXT_PUBLIC_KLOOK_AFF_ID || '')}
           program="klook"
-          category="collab-cafes"
+          category="cafes"
         />
       );
-    case 'anime-pilgrimage':
+    case 'destinations':
       return (
         <AffiliateCTA
           icon="⛩️"
           title="Get Your JR Pass"
-          description="Visit pilgrimage sites across Japan efficiently with Japan Rail Pass. 7, 14, and 21-day options for all holy lands."
+          description="Reach pilgrimage sites and anime districts across Japan efficiently with the Japan Rail Pass. 7, 14, and 21-day options cover every region."
           buttonText="Compare JR Pass"
           href={'https://www.klook.com/en-US/activity/japan-rail-pass?aff_id=' + (process.env.NEXT_PUBLIC_KLOOK_AFF_ID || '')}
           program="klook"
-          category="anime-pilgrimage"
-        />
-      );
-    case 'area-guides':
-      return (
-        <AffiliateCTA
-          icon="🏨"
-          title="Find Hotels in Anime Districts"
-          description="Stay in the heart of Tokyo's anime neighborhoods — Akihabara, Ikebukuro, Shibuya. Free cancellation on most bookings."
-          buttonText="Search Hotels"
-          href={'https://www.booking.com/index.html?aid=' + (process.env.NEXT_PUBLIC_BOOKING_AFF_ID || '')}
-          program="booking"
-          category="area-guides"
+          category="destinations"
         />
       );
     case 'experiences':
@@ -62,23 +50,23 @@ function getCategoryAffiliateCTA(category: { slug: string; label: string }) {
         <AffiliateCTA
           icon="🎟️"
           title="Book Anime Experiences in Japan"
-          description="Theme parks, pop-ups, DIY workshops, exhibitions — reserve one-of-a-kind anime experiences with English support and instant confirmation."
+          description="Theme parks, pop-ups, DIY workshops, exhibitions plus practical travel essentials — reserve one-of-a-kind experiences with English support."
           buttonText="Browse Experiences"
           href={'https://www.klook.com/en-US/experiences/tokyo?aff_id=' + (process.env.NEXT_PUBLIC_KLOOK_AFF_ID || '')}
           program="klook"
           category="experiences"
         />
       );
-    case 'travel-tips':
+    case 'events':
       return (
         <AffiliateCTA
-          icon="📱"
-          title="Get eSIM & Travel Essentials"
-          description="Instant eSIM activation, no physical SIM needed. Plus JR Pass, luggage forwarding, IC cards, and budgeting guides."
-          buttonText="Shop Travel Essentials"
-          href={'https://www.klook.com/en-US/activity/japan-esim?aff_id=' + (process.env.NEXT_PUBLIC_KLOOK_AFF_ID || '')}
+          icon="📅"
+          title="See What's Running This Week"
+          description="Time-limited exhibitions, pop-up shops, and seasonal anime events change every week. Check the live calendar for active venues and booking windows."
+          buttonText="Open Events Calendar"
+          href="/calendar"
           program="klook"
-          category="travel-tips"
+          category="events"
         />
       );
     default:

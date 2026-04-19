@@ -11,11 +11,11 @@ export async function GET() {
   const now = new Date().toISOString().split('T')[0];
 
   const categoryDescriptions: Record<string, string> = {
-    'collab-cafes': 'How to book, menus, current schedules for anime collaboration cafes across Japan. Updated monthly.',
-    'experiences': 'Single-spot anime experiences — theme parks, pop-ups, DIY workshops, exhibitions. PokéPark, LuvLab, Ghibli Park, Blue Lock Skytree, Universal Cool Japan.',
-    'anime-pilgrimage': 'Real-life filming/inspiration locations from popular anime — Slam Dunk, Your Name, Jujutsu Kaisen, and 20+ series.',
-    'area-guides': 'Neighborhood-level guides for anime fans — Akihabara, Ikebukuro, Nakano Broadway, Den Den Town, and hidden spots.',
-    'travel-tips': 'Practical guides — Japan Rail Pass, eSIM, luggage forwarding, airport transfers, budget tips.',
+    'cafes': 'How to book, menus, current schedules for anime collaboration cafes across Japan. Updated monthly.',
+    'events': 'Time-limited anime exhibitions, pop-up shops, and seasonal events across Japan. Live calendar tracks every running venue.',
+    'experiences': 'Single-spot anime experiences plus practical travel essentials — theme parks, pop-ups, DIY workshops, JR Pass, eSIM, IC cards, luggage forwarding, and budget tips.',
+    'destinations': 'Anime pilgrimage locations and otaku neighborhood guides — Akihabara, Ikebukuro, Nakano Broadway, Den Den Town, Your Name filming spots, and the real-world places behind 20+ series.',
+    'culture': 'Japanese pop culture deep dives — anime analysis, manga reviews, gaming features, and fandom reports.',
   };
 
   // Build category article lists
