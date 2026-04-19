@@ -1,1 +1,228 @@
-[]
+[
+  {
+    "slug": "demon-slayer-ufotable-cafe-2026-03",
+    "status": "active",
+    "ip": "Demon Slayer: Kimetsu no Yaiba",
+    "ip_slug": "demon-slayer",
+    "brand": "ufotable Cafe",
+    "brand_slug": "ufotable-cafe",
+    "title_en": "Demon Slayer × ufotable Cafe \"Musunda En\" — Full Series Rerun Collaboration (March-May 2026)",
+    "title_ja": "テレビアニメ 鬼滅の刃 シリーズ全編再放送 コラボレーションカフェ 〜結んだ縁〜",
+    "description_en": "ufotable's in-house cafe network celebrates the Demon Slayer full-series rerun with \"Musunda En\" (Bonds Forged) from March 31 to May 6, 2026, across Tokyo Nakano, Nagoya, Osaka Namba, Tokushima, and Kitakyushu. Lottery reservation, themed novelty food and drink, and character-pair beverages.",
+    "hero_image": "/images/cafes/demon-slayer-ufotable-cafe-2026-03/hero.webp",
+    "venues": [
+      {
+        "city": "Tokyo",
+        "district": "Nakano",
+        "name": "ufotable Cafe Tokyo",
+        "address": "1-38-11 Nogata, Nakano-ku, Tokyo, Nagata Building 1F & 2F",
+        "station": "Nogata Station (Seibu Shinjuku Line)",
+        "dates": { "start": "2026-03-31", "end": "2026-05-06" },
+        "hours": "Check official site",
+        "reservation": "lottery",
+        "reservation_method": "ufotable reservation web portal",
+        "reservation_url": "https://www.ufotable.co.jp/cafe/reservation",
+        "price_range_jpy": { "min": 650, "max": 1400 },
+        "english_menu": null,
+        "english_staff": null
+      },
+      {
+        "city": "Nagoya",
+        "district": "Nakamura",
+        "name": "ufotable Cafe Nagoya",
+        "address": "14-1 Takebashi-cho, Nakamura-ku, Nagoya, Aichi",
+        "station": "Nagoya Station",
+        "dates": { "start": "2026-03-31", "end": "2026-05-06" },
+        "hours": "Check official site",
+        "reservation": "lottery",
+        "reservation_method": "ufotable reservation web portal",
+        "reservation_url": "https://www.ufotable.co.jp/cafe/reservation",
+        "price_range_jpy": { "min": 650, "max": 1400 },
+        "english_menu": null,
+        "english_staff": null
+      },
+      {
+        "city": "Osaka",
+        "district": "Naniwa",
+        "name": "ufotable Cafe Osaka",
+        "address": "3-3-3 Motomachi, Naniwa-ku, Osaka 1F",
+        "station": "Namba Station",
+        "dates": { "start": "2026-03-31", "end": "2026-05-06" },
+        "hours": "Check official site",
+        "reservation": "lottery",
+        "reservation_method": "ufotable reservation web portal",
+        "reservation_url": "https://www.ufotable.co.jp/cafe/reservation",
+        "price_range_jpy": { "min": 650, "max": 1400 },
+        "english_menu": null,
+        "english_staff": null
+      },
+      {
+        "city": "Tokushima",
+        "district": "Tokushima",
+        "name": "ufotable Cafe Tokushima",
+        "address": "1-13 Higashifunaba-cho, Tokushima, Tokushima, Kokusai Higashifunaba 113 Building 2F",
+        "station": "Tokushima Station",
+        "dates": { "start": "2026-03-31", "end": "2026-05-06" },
+        "hours": "Check official site",
+        "reservation": "lottery",
+        "reservation_method": "ufotable reservation web portal",
+        "reservation_url": "https://www.ufotable.co.jp/cafe/reservation",
+        "price_range_jpy": { "min": 650, "max": 1400 },
+        "english_menu": null,
+        "english_staff": null
+      },
+      {
+        "city": "Kitakyushu",
+        "district": "Kokurakita",
+        "name": "ufotable Cafe Kitakyushu",
+        "address": "2-14-5 Asano, Kokurakita-ku, Kitakyushu, Fukuoka, aruaru City 2F",
+        "station": "Kokura Station",
+        "dates": { "start": "2026-03-31", "end": "2026-05-06" },
+        "hours": "Check official site",
+        "reservation": "lottery",
+        "reservation_method": "ufotable reservation web portal",
+        "reservation_url": "https://www.ufotable.co.jp/cafe/reservation",
+        "price_range_jpy": { "min": 650, "max": 1400 },
+        "english_menu": null,
+        "english_staff": null
+      }
+    ],
+    "reservation_summary": "Lottery-based advance reservation via the ufotable cafe portal. Slots release per cafe and competition is fierce; book via Lawson Loppi as an alternative where applicable.",
+    "cover_charge_jpy": null,
+    "merch_bonus": "Novelty coaster, sticker, or acrylic charm per food or drink ordered. Relationship-themed drink series pairs Tanjiro with Nezuko, Giyu, Urokodaki, Sabito, Makomo, Zenitsu, Genya, and Kanao.",
+    "menu_highlights": [
+      "Kamado-ke no Sumibiyaki Tori Don (Kamado Family charcoal-grilled chicken bowl) — ¥1,400",
+      "Tanjiro to Doki-tachi Saishu-senbetsu Salad (Final Selection Salad) — ¥1,300",
+      "Urokodaki Ichimon Mizu no Kokyu Parfait (Water Breathing parfait) — ¥1,200",
+      "Urokodaki Ichimon Saigo no Shiren (Urokodaki school final trial plate) — ¥1,300",
+      "Character-pair drinks (Tanjiro × Nezuko / Giyu / Urokodaki / Sabito / Makomo / Zenitsu / Genya / Kanao) — ¥650 each"
+    ],
+    "source_urls": [
+      "https://www.ufotable.co.jp/cafe/collaboration/kimetu/",
+      "https://www.ufotable.co.jp/cafe/menu/kimetu",
+      "https://www.ufotable.co.jp/cafe/goods/kimetu"
+    ],
+    "last_verified": "2026-04-19",
+    "verified_by": "takapon"
+  },
+  {
+    "slug": "dark-moon-the-chara-cafe-2026-04",
+    "status": "upcoming",
+    "ip": "DARK MOON: THE BLOOD ALTAR",
+    "ip_slug": "dark-moon-the-blood-altar",
+    "brand": "THE Chara CAFE",
+    "brand_slug": "the-chara-cafe",
+    "title_en": "DARK MOON: THE BLOOD ALTAR × THE Chara Cafe Ikebukuro (April-May 2026)",
+    "title_ja": "DARK MOON: THE BLOOD ALTAR THEキャラCAFE",
+    "description_en": "HYBE's webtoon-anime DARK MOON takes over THE Chara Cafe Ikebukuro inside Grand Scape Ikebukuro 2F from April 25 to May 6, 2026. Character image-color drinks (¥880), hamburger and pasta dishes, and random coaster or bromide bonuses.",
+    "hero_image": "/images/cafes/dark-moon-the-chara-cafe-2026-04/hero.webp",
+    "venues": [
+      {
+        "city": "Tokyo",
+        "district": "Ikebukuro",
+        "name": "THE Chara CAFE Ikebukuro (Grand Scape Ikebukuro 2F)",
+        "address": "1-30-3 Higashi-Ikebukuro, Toshima-ku, Tokyo, Grand Scape Ikebukuro 2F",
+        "station": "Ikebukuro Station East Exit, 4 min walk",
+        "dates": { "start": "2026-04-25", "end": "2026-05-06" },
+        "hours": "Check official site",
+        "reservation": "walk_in",
+        "reservation_method": null,
+        "reservation_url": null,
+        "price_range_jpy": { "min": 880, "max": 1760 },
+        "english_menu": null,
+        "english_staff": null
+      }
+    ],
+    "reservation_summary": "Walk-in only — no reservation required.",
+    "cover_charge_jpy": null,
+    "merch_bonus": "Random coaster (7 variants) with each drink; random large bromide (7 variants) with food or dessert orders.",
+    "menu_highlights": [
+      "Heli's Special Meat Sauce Pasta",
+      "Character image-color drinks (¥880 each)",
+      "Signature hamburger plates",
+      "Photogenic themed desserts"
+    ],
+    "source_urls": [
+      "https://collabo-cafe.com/events/collabo/darkmoon-cafe-the-chara-cafe-ikebukuro2026/",
+      "https://www.the-chara.com/blog/?p=112126"
+    ],
+    "last_verified": "2026-04-19",
+    "verified_by": "takapon"
+  },
+  {
+    "slug": "apothecary-diaries-and-gallery-2026-04",
+    "status": "active",
+    "ip": "The Apothecary Diaries",
+    "ip_slug": "apothecary-diaries",
+    "brand": "and GALLERY",
+    "brand_slug": "and-gallery",
+    "title_en": "The Apothecary Diaries × and GALLERY Collaboration Cafe (April-May 2026)",
+    "title_ja": "薬屋のひとりごと and GALLERY コラボカフェ",
+    "description_en": "The Apothecary Diaries takes over and GALLERY locations in Ikebukuro, Osaka Namba, and Nagoya from April 4 to May 6, 2026. Chinese-inspired menu featuring Maomao's signature dishes (¥1,000–¥1,500) and Jinshi's honey-fried duck wrap. Web-advance seat reservation opened March 28, walk-ins accepted as space permits.",
+    "hero_image": "/images/cafes/apothecary-diaries-and-gallery-2026-04/hero.webp",
+    "venues": [
+      {
+        "city": "Tokyo",
+        "district": "Ikebukuro",
+        "name": "and GALLERY Ikebukuro",
+        "address": "1-5-7 Higashi-Ikebukuro, Toshima-ku, Tokyo, LABI1 LIFE SELECT Ikebukuro 7F",
+        "station": "Ikebukuro Station East Exit",
+        "dates": { "start": "2026-04-04", "end": "2026-05-06" },
+        "hours": "11:00-20:10 (check official site)",
+        "reservation": "optional",
+        "reservation_method": "Web advance booking (recommended) or walk-in",
+        "reservation_url": "https://collabo.and-gallery.com/kusuriyanohitorigoto",
+        "price_range_jpy": { "min": 850, "max": 3000 },
+        "english_menu": null,
+        "english_staff": null
+      },
+      {
+        "city": "Osaka",
+        "district": "Namba",
+        "name": "and GALLERY Namba",
+        "address": "1-4-1 Minatomachi, Naniwa-ku, Osaka, OCAT 5F",
+        "station": "JR Namba Station",
+        "dates": { "start": "2026-04-04", "end": "2026-05-06" },
+        "hours": "Check official site",
+        "reservation": "optional",
+        "reservation_method": "Web advance booking or walk-in",
+        "reservation_url": "https://collabo.and-gallery.com/kusuriyanohitorigoto",
+        "price_range_jpy": { "min": 850, "max": 3000 },
+        "english_menu": null,
+        "english_staff": null
+      },
+      {
+        "city": "Nagoya",
+        "district": "Naka",
+        "name": "and GALLERY Nagoya",
+        "address": "3-30-40 Osu, Naka-ku, Nagoya, Aichi, Manshoji Building 1F",
+        "station": "Kamimaezu Station",
+        "dates": { "start": "2026-04-04", "end": "2026-05-06" },
+        "hours": "11:00-20:00 (check official site)",
+        "reservation": "optional",
+        "reservation_method": "Web advance booking or walk-in",
+        "reservation_url": "https://collabo.and-gallery.com/kusuriyanohitorigoto",
+        "price_range_jpy": { "min": 850, "max": 3000 },
+        "english_menu": null,
+        "english_staff": null
+      }
+    ],
+    "reservation_summary": "Advance web reservation opened March 28, 18:00. Walk-ins accepted as space permits. Reservation bonus (die-cut sticker) available.",
+    "cover_charge_jpy": null,
+    "merch_bonus": "Menu order bonus: coaster. Merch purchase bonus: die-cut sticker. Advance reservation bonus available. Trading pins ¥550 (10 variants), clear cards ¥550 (10 variants), mini acrylic stands ¥850 (8 variants), large acrylic stands ¥1,650 (2 variants).",
+    "menu_highlights": [
+      "Maomao's Shoutoubao Plate (¥1,500; ¥3,000 with souvenir plate)",
+      "Maomao's Ginger Congee (¥1,000)",
+      "Jinshi's Honey Fried Chicken & Roast Duck Wrap (¥1,500)",
+      "Parfait A and Parfait B (¥1,200 each)",
+      "Themed beverage (¥850; ¥1,500 with charm)"
+    ],
+    "source_urls": [
+      "https://collabo-cafe.com/events/collabo/kusuriya-cafe-and-gallery-2026/",
+      "https://collabo.and-gallery.com/kusuriyanohitorigoto",
+      "https://kusuriyanohitorigoto.jp/news/2267/"
+    ],
+    "last_verified": "2026-04-19",
+    "verified_by": "takapon"
+  }
+]
