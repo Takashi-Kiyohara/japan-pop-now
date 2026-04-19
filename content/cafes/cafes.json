@@ -205,6 +205,21 @@
         "price_range_jpy": { "min": 850, "max": 3000 },
         "english_menu": null,
         "english_staff": null
+      },
+      {
+        "city": "Fukuoka",
+        "district": "Tenjin",
+        "name": "and GALLERY Fukuoka",
+        "address": "3-16-15 Tenjin, Chuo-ku, Fukuoka 810-0001, Sanyo Building 5F",
+        "station": "Tenjin Station",
+        "dates": { "start": "2026-04-04", "end": "2026-05-06" },
+        "hours": "Check official site",
+        "reservation": "optional",
+        "reservation_method": "Web advance booking or walk-in",
+        "reservation_url": "https://collabo.and-gallery.com/kusuriyanohitorigoto",
+        "price_range_jpy": { "min": 850, "max": 3000 },
+        "english_menu": null,
+        "english_staff": null
       }
     ],
     "reservation_summary": "Advance web reservation opened March 28, 18:00. Walk-ins accepted as space permits. Reservation bonus (die-cut sticker) available.",
