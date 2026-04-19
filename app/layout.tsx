@@ -1,4 +1,5 @@
 ﻿import type { Metadata, Viewport } from "next";
+import Script from "next/script";
 import { Playfair_Display, DM_Sans } from "next/font/google";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
@@ -157,14 +158,6 @@ export default function RootLayout({
           }}
         />
 
-        {/* Google AdSense — loaded dynamically via env var */}
-        {process.env.NEXT_PUBLIC_ADSENSE_ID && (
-          <script
-            async
-            src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${process.env.NEXT_PUBLIC_ADSENSE_ID}`}
-            crossOrigin="anonymous"
-          />
-        )}
       </head>
       <body className="min-h-screen flex flex-col bg-[#fafaf9]">
         <WebVitals />
@@ -180,6 +173,17 @@ export default function RootLayout({
         <BackToTop />
         <CookieConsent />
         <BottomNav />
+
+        {/* Google AdSense — deferred until after window load to protect LCP/TBT.
+            Review bots still receive the script in rendered HTML. */}
+        {process.env.NEXT_PUBLIC_ADSENSE_ID && (
+          <Script
+            id="adsense-loader"
+            strategy="lazyOnload"
+            crossOrigin="anonymous"
+            src={`https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=${process.env.NEXT_PUBLIC_ADSENSE_ID}`}
+          />
+        )}
       </body>
     </html>
   );
