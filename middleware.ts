@@ -39,8 +39,46 @@ const RESERVED_TOP_PATHS = new Set<string>([
   'llms.txt', 'favicon.ico', 'ads.txt', '_next',
 ])
 
+// WordPress-era query params. Pre-DNS-switch these URLs served real articles;
+// post-switch (2026-04-09) they all resolve to the homepage, which Google
+// then dedupes and drops from the index. Returning 410 tells Google to drop
+// the URLs without treating them as duplicates of the homepage. Root-only
+// match so legitimate /articles/<slug>?utm_source=... stays unaffected.
+const WP_LEGACY_QUERY_PARAMS = [
+  'p',         // /?p=NNN    — post by id
+  'page_id',   // /?page_id=NNN — page by id
+  'cat',       // /?cat=NNN   — category by id
+  'tag',       // /?tag=slug  — tag archive
+  'author',    // /?author=NNN
+  'feed',      // /?feed=rss2
+  'm',         // /?m=YYYYMM  — date archive
+  's',         // /?s=query   — WP search
+]
+
 export function middleware(request: NextRequest) {
   const pathname = request.nextUrl.pathname
+
+  // WP legacy query URLs: /?p=NNN etc land on the homepage and look like
+  // duplicate content to Google. Return 410 to flush them from the index.
+  // Only trigger when the request targets the root path — anything under
+  // /articles/, /category/, etc. keeps its existing behavior including
+  // analytics params.
+  if (pathname === '/' && request.nextUrl.search) {
+    const sp = request.nextUrl.searchParams
+    const hasWpParam = WP_LEGACY_QUERY_PARAMS.some((k) => sp.has(k))
+    if (hasWpParam) {
+      return new NextResponse(
+        'This legacy WordPress URL has been permanently removed. See https://www.japan-pop-now.com/ for the current site.',
+        {
+          status: 410,
+          headers: {
+            'Content-Type': 'text/plain; charset=utf-8',
+            'X-Robots-Tag': 'noindex',
+          },
+        }
+      )
+    }
+  }
 
   // Normalize: strip leading/trailing slashes, take first segment only.
   const trimmed = pathname.replace(/^\/+|\/+$/g, '')
