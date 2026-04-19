@@ -2,6 +2,7 @@
 import { Playfair_Display, DM_Sans } from "next/font/google";
 import Header from "@/components/Header";
 import Footer from "@/components/Footer";
+import BottomNav from "@/components/BottomNav";
 import GoogleAnalytics from "@/components/GoogleAnalytics";
 import ScrollProgress from "@/components/ScrollProgress";
 import CookieConsent from "@/components/CookieConsent";
@@ -175,8 +176,10 @@ export default function RootLayout({
         <Header />
         <main id="main-content" className="flex-1">{children}</main>
         <Footer />
+        <div aria-hidden className="h-16 md:hidden" />
         <BackToTop />
         <CookieConsent />
+        <BottomNav />
       </body>
     </html>
   );
