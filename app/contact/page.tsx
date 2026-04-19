@@ -8,6 +8,12 @@ export const metadata: Metadata = {
   alternates: {
     canonical: 'https://www.japan-pop-now.com/contact',
   },
+  // Contact page is a boilerplate utility, not search-competitive content.
+  // noindex keeps GSC "low-value" count down without blocking crawler access.
+  robots: {
+    index: false,
+    follow: true,
+  },
 };
 
 export default function ContactPage() {
