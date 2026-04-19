@@ -106,6 +106,16 @@ const nextConfig: NextConfig = {
   ],
 
   redirects: async () => [
+    // apex -> www, 308 Permanent. Middleware cannot catch this because
+    // Vercel's edge issues its default 307 before middleware runs.
+    // next.config redirects execute earlier in the edge pipeline, so
+    // this rule actually wins and SEO sees the strong permanent signal.
+    {
+      source: '/:path*',
+      has: [{ type: 'host', value: 'japan-pop-now.com' }],
+      destination: 'https://www.japan-pop-now.com/:path*',
+      permanent: true,
+    },
     // WordPress date-based URLs → Next.js article URLs
     {
       source: '/:year(\\d{4})/:month(\\d{2})/:day(\\d{2})/:slug',
