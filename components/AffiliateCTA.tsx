@@ -67,18 +67,12 @@ export default function AffiliateCTA({
 
   const affiliateUrl = buildAffiliateUrl(href, category);
 
-  const productSchema = {
-    '@context': 'https://schema.org',
-    '@type': 'Product',
-    name: title,
-    description,
-    offers: {
-      '@type': 'Offer',
-      url: affiliateUrl,
-      priceCurrency: 'JPY',
-      availability: 'https://schema.org/InStock',
-    },
-  };
+  // Product / Offer schema intentionally NOT emitted. Affiliate CTAs are
+  // generic outbound links with no stable SKU, unit price, or seller —
+  // emitting Product schema without offers.price / seller triggers GSC
+  // "invalid product snippet" and "seller listing" warnings (verified
+  // 2026-04-19). Plain anchors with rel=sponsored carry all the SEO we
+  // need for outbound clicks.
 
   // ── Inline variant: bold link with highlight, lives inside paragraphs ──────
   if (variant === 'inline') {
@@ -110,10 +104,6 @@ export default function AffiliateCTA({
     const year = new Date().getFullYear();
     return (
       <>
-        <script
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(productSchema) }}
-        />
         <div
           className="my-10 rounded-xl overflow-hidden"
           style={{ border: '1px solid #d6d3d1', background: '#fff' }}
@@ -179,10 +169,6 @@ export default function AffiliateCTA({
   // ── Mid-article variant (default): compact recommendation card ─────────────
   return (
     <>
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(productSchema) }}
-      />
       <div
         className="my-8 rounded-xl overflow-hidden"
         style={{ border: '1px solid #e7e5e4', borderLeft: '4px solid #f97316', background: '#fff' }}
