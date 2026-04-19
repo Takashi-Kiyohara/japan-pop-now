@@ -58,6 +58,17 @@ const WP_LEGACY_QUERY_PARAMS = [
 export function middleware(request: NextRequest) {
   const pathname = request.nextUrl.pathname
 
+  // apex -> www, 308 Permanent. Vercel's default apex redirect is 307
+  // Temporary which is a weaker SEO signal; 308 is the permanent equivalent
+  // that preserves method + forces Google to update its index to the www
+  // canonical. Runs before any other logic so downstream rules see only www.
+  const host = request.headers.get('host') || ''
+  if (host === 'japan-pop-now.com') {
+    const url = new URL(request.url)
+    url.host = 'www.japan-pop-now.com'
+    return NextResponse.redirect(url, 308)
+  }
+
   // WP legacy query URLs: /?p=NNN etc land on the homepage and look like
   // duplicate content to Google. Return 410 to flush them from the index.
   // Only trigger when the request targets the root path — anything under
