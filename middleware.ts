@@ -10,9 +10,15 @@ const LEGACY_ARTICLE_SLUGS = new Set<string>([
   'one-piece-kumamoto-statue-tour',
   'animate-cafe-guide-japan',
   'anime-pilgrimage-spots-tokyo',
-  'one-piece-cafe-gene-parco-2026',
   'your-name-pilgrimage-tokyo',
   'japan-esim-pocket-wifi-sim-card',
+])
+
+// Permanently deleted articles. Return 410 Gone so Google drops them from the
+// index instead of "Crawled - not indexed" loop. Do NOT 301 to /articles/,
+// the destination also 404s and the redirect wastes crawl budget.
+const DELETED_ARTICLE_SLUGS = new Set<string>([
+  'one-piece-cafe-gene-parco-2026',
 ])
 
 // System paths that must NOT be treated as legacy article slugs.
@@ -26,9 +32,29 @@ const RESERVED_TOP_PATHS = new Set<string>([
 export function middleware(request: NextRequest) {
   const pathname = request.nextUrl.pathname
 
-  // Handle legacy slug redirects (301) before anything else.
   // Normalize: strip leading/trailing slashes, take first segment only.
   const trimmed = pathname.replace(/^\/+|\/+$/g, '')
+
+  // 410 Gone for permanently deleted articles — match either /<slug> or
+  // /articles/<slug>. Must run before the LEGACY redirect so the deleted
+  // slug does not bounce through /articles/ first.
+  const articleSlug = pathname.startsWith('/articles/')
+    ? pathname.replace(/^\/articles\//, '').replace(/\/+$/, '')
+    : trimmed
+  if (articleSlug && DELETED_ARTICLE_SLUGS.has(articleSlug)) {
+    return new NextResponse(
+      'This article has been permanently removed.',
+      {
+        status: 410,
+        headers: {
+          'Content-Type': 'text/plain; charset=utf-8',
+          'X-Robots-Tag': 'noindex',
+        },
+      }
+    )
+  }
+
+  // Handle legacy slug redirects (301) for alive articles.
   if (trimmed && !trimmed.includes('/') && !RESERVED_TOP_PATHS.has(trimmed)) {
     if (LEGACY_ARTICLE_SLUGS.has(trimmed)) {
       const url = new URL(`/articles/${trimmed}`, request.url)
