@@ -34,7 +34,7 @@ Quick planning guide
 Use this page differently depending on how fixed your trip already is.
 
 - **Need something open right now?** Start with this list and the [Anime Collab Cafe Calendar](/collab-cafe-calendar/).
-- **Already know the series you love?** Jump to the [Find by Anime hub](/find-by-anime-in-japan-2026-pilgrimage-guides-by-series/) first, then come back here for current Tokyo dates.
+- **Already know the series you love?** Jump to the [Find by Anime hub](/category/destinations) first, then come back here for current Tokyo dates.
 - **Worried about reservations?** Read the [booking guide](/articles/how-to-book-anime-collab-cafe-japan) before choosing a venue.
 - **Want to turn the cafe into a full fandom day?** Pair it with [Ikebukuro](/articles/ikebukuro-anime-guide-2026) or [Akihabara](/articles/akihabara-complete-guide-2026) depending on the location.
 

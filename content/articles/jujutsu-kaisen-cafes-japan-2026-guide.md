@@ -122,7 +122,7 @@ If you are already in Tokyo or Osaka, it is tempting to overpack the day. In pra
 If you are undecided between Tokyo and Osaka, this event can actually help you decide where to spend more time. The city where you can secure a reservation may become the smarter anchor.
 
 ### 3. Connect it to franchise-based travel planning
-If Jujutsu Kaisen is one of your top series, use our **[Find by Anime](https://japan-pop-now.com/find-by-anime-in-japan-2026-pilgrimage-guides-by-series/)** hub next so the cafe becomes part of a larger themed itinerary, not just an isolated booking.
+If Jujutsu Kaisen is one of your top series, use our **[Find by Anime](https://japan-pop-now.com/category/destinations)** hub next so the cafe becomes part of a larger themed itinerary, not just an isolated booking.
 
 ## Practical tips before you go
 
@@ -158,7 +158,7 @@ After this guide, the most useful next reads are:
 
 - **[Universal Cool Japan 2026 Guide](https://japan-pop-now.com/universal-cool-japan-2026-guide/)** if you are also planning Osaka anime experiences
 - **[Tokyo Anime Collab Cafes Spring 2026](https://japan-pop-now.com/tokyo-anime-collab-cafes-spring-2026/)** if you want to compare more spring cafe options
-- **[Find by Anime in Japan 2026](https://japan-pop-now.com/find-by-anime-in-japan-2026-pilgrimage-guides-by-series/)** if you want a broader franchise-first itinerary
+- **[Find by Anime in Japan 2026](https://japan-pop-now.com/category/destinations)** if you want a broader franchise-first itinerary
 
 ## Sources
 

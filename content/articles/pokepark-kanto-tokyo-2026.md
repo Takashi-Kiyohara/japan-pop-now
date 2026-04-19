@@ -178,9 +178,9 @@ After this guide, read one of these next:
 
 If PokéPark is one stop in a bigger Japan trip, use the hub below to compare Tokyo-only plans, day trips, and anime routes by series before you book the rest.
 
-- [**Want the fastest next click?** Open Find by Anime and sort by area, trip style, or series](/find-by-anime-in-japan-2026-pilgrimage-guides-by-series/)
-- [**Comparing a Tokyo day with a regional pilgrimage?** Use the quick route finder to narrow it down in one minute](/find-by-anime-in-japan-2026-pilgrimage-guides-by-series/)
-- [**Still deciding where Pokémon fits?** Use the FAQ and filters to build the rest of your itinerary](/find-by-anime-in-japan-2026-pilgrimage-guides-by-series/)
+- [**Want the fastest next click?** Open Find by Anime and sort by area, trip style, or series](/category/destinations)
+- [**Comparing a Tokyo day with a regional pilgrimage?** Use the quick route finder to narrow it down in one minute](/category/destinations)
+- [**Still deciding where Pokémon fits?** Use the FAQ and filters to build the rest of your itinerary](/category/destinations)
 
 ## Frequently Asked Questions
 

@@ -35,7 +35,7 @@ If you only have one shopping block in Tokyo, choose your route by goal first in
 - **Want the cheapest figures and older series goods?** Start with [Nakano Broadway](/articles/nakano-broadway-guide) and Mandarake.
 - **Want current hit titles, bonuses, and easy browsing?** Start with [Ikebukuro](/articles/ikebukuro-anime-guide-2026) and Animate.
 - **Want a full otaku day with arcades, gachapon, and big flagship stores?** Start with [Akihabara](/articles/akihabara-complete-guide-2026).
-- **Still deciding by series rather than district?** Use the [Find by Anime hub](/find-by-anime-in-japan-2026-pilgrimage-guides-by-series/) first, then come back here for the shopping plan.
+- **Still deciding by series rather than district?** Use the [Find by Anime hub](/category/destinations) first, then come back here for the shopping plan.
 
 ## Types of Anime Merchandise (and What’s Worth Buying in Japan)
 ### Figures & Statues
@@ -195,7 +195,7 @@ Much less of an issue in Japan than in other countries. Major retailers such as 
 Major chains usually do, but smaller independent shops and some secondhand counters may still prefer cash. Always carry backup cash if you are shopping across several neighborhoods in one day.
 
 ### How do I find one specific item before visiting?
-Check Mandarake and Surugaya inventory online before you travel, especially for figures and older series goods. If your trip is built around one franchise, start from the [Find by Anime hub](/find-by-anime-in-japan-2026-pilgrimage-guides-by-series/) and then map the store districts that match it.
+Check Mandarake and Surugaya inventory online before you travel, especially for figures and older series goods. If your trip is built around one franchise, start from the [Find by Anime hub](/category/destinations) and then map the store districts that match it.
 
 ![Rows of anime goods at a Japanese store](https://japan-pop-now.com/wp-content/uploads/2026/04/anime-goods-store-shelves.jpg)Rows of anime goods at a Japanese store
 Image: Collabo Cafe

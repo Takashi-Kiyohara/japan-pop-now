@@ -175,9 +175,9 @@ After this guide, read one of these next:
 
 If Slam Dunk is your first stop, use the hub below to compare Tokyo city routes, Kamakura day trips, and regional anime pilgrimages without starting over.
 
-- [**Want the fastest next click?** Open Find by Anime and choose by area, trip length, or atmosphere](/find-by-anime-in-japan-2026-pilgrimage-guides-by-series/)
-- [**Comparing Kamakura with Tokyo routes?** Use the quick filters to see which guide fits a half-day better](/find-by-anime-in-japan-2026-pilgrimage-guides-by-series/)
-- [**Planning a bigger anime itinerary?** Use the hub FAQ and series list to stack your next stop](/find-by-anime-in-japan-2026-pilgrimage-guides-by-series/)
+- [**Want the fastest next click?** Open Find by Anime and choose by area, trip length, or atmosphere](/category/destinations)
+- [**Comparing Kamakura with Tokyo routes?** Use the quick filters to see which guide fits a half-day better](/category/destinations)
+- [**Planning a bigger anime itinerary?** Use the hub FAQ and series list to stack your next stop](/category/destinations)
 
 ## Frequently Asked Questions
 **Is the Slam Dunk crossing free to visit?**

@@ -189,9 +189,9 @@ Sometimes. Some cafes have a separate merchandise counter accessible without a r
 
 If collab cafes are only one part of your trip, use the hub below to pick the best next guide by anime, area, and travel style.
 
-- [**Want the fastest next click?** Open Find by Anime in Japan 2026](/find-by-anime-in-japan-2026-pilgrimage-guides-by-series/)
-- [**Comparing Tokyo vs day-trip routes?** Use the area filters and quick route finder](/find-by-anime-in-japan-2026-pilgrimage-guides-by-series/)
-- [**Still undecided?** Start with the FAQ and best-for filters to narrow your plan in one minute](/find-by-anime-in-japan-2026-pilgrimage-guides-by-series/)
+- [**Want the fastest next click?** Open Find by Anime in Japan 2026](/category/destinations)
+- [**Comparing Tokyo vs day-trip routes?** Use the area filters and quick route finder](/category/destinations)
+- [**Still undecided?** Start with the FAQ and best-for filters to narrow your plan in one minute](/category/destinations)
 
 ## More Collab Cafe & Dining Guides
 

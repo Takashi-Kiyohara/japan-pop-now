@@ -19,6 +19,7 @@ const LEGACY_ARTICLE_SLUGS = new Set<string>([
 // the destination also 404s and the redirect wastes crawl budget.
 const DELETED_ARTICLE_SLUGS = new Set<string>([
   'one-piece-cafe-gene-parco-2026',
+  'find-by-anime-in-japan-2026-pilgrimage-guides-by-series',
 ])
 
 // 2026-04-19 category slug migration (5-body MECE).

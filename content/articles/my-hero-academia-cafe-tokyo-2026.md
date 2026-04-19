@@ -94,7 +94,7 @@ If you want to combine neighborhoods, keep it realistic. Ikebukuro and Akihabara
 | --- | --- |
 | One franchise-specific stop in a strong anime district | My Hero Academia Cafe in Ikebukuro |
 | Broad comparison across many current series | [Tokyo Anime Collab Cafes Spring 2026](https://japan-pop-now.com/tokyo-anime-collab-cafes-spring-2026/) |
-| A trip planned by franchise, not by district | [Find by Anime in Japan 2026](https://japan-pop-now.com/find-by-anime-in-japan-2026-pilgrimage-guides-by-series/) |
+| A trip planned by franchise, not by district | [Find by Anime in Japan 2026](https://japan-pop-now.com/category/destinations) |
 | A big destination event rather than a cafe | [AnimeJapan 2026](https://japan-pop-now.com/animejapan-2026-guide-international-visitors/) or [Universal Cool Japan 2026](https://japan-pop-now.com/universal-cool-japan-2026-guide/) |
 
 This is useful because not every traveler should choose the same kind of anime experience. My Hero Academia Cafe is best for **compact Tokyo planning**, not for people who want one giant convention-scale day.
@@ -129,7 +129,7 @@ It depends on your goal. If you specifically like My Hero Academia or want an Ik
 
 ## Where to go next on Japan Pop Now
 
-After this guide, the most helpful next reads are **[Tokyo Anime Collab Cafes Spring 2026](https://japan-pop-now.com/tokyo-anime-collab-cafes-spring-2026/)** if you want to compare more active cafe options, **[Find by Anime in Japan 2026](https://japan-pop-now.com/find-by-anime-in-japan-2026-pilgrimage-guides-by-series/)** if you want to keep planning by series, and **[Anime Merch Shopping Guide in Japan](https://japan-pop-now.com/anime-merch-shopping-guide-japan/)** if your next question is where to buy character goods after the cafe.
+After this guide, the most helpful next reads are **[Tokyo Anime Collab Cafes Spring 2026](https://japan-pop-now.com/tokyo-anime-collab-cafes-spring-2026/)** if you want to compare more active cafe options, **[Find by Anime in Japan 2026](https://japan-pop-now.com/category/destinations)** if you want to keep planning by series, and **[Anime Merch Shopping Guide in Japan](https://japan-pop-now.com/anime-merch-shopping-guide-japan/)** if your next question is where to buy character goods after the cafe.
 
 ## Sources
 
