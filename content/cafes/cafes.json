@@ -17,12 +17,18 @@
         "name": "ufotable Cafe Tokyo",
         "address": "1-38-11 Nogata, Nakano-ku, Tokyo, Nagata Building 1F & 2F",
         "station": "Nogata Station (Seibu Shinjuku Line)",
-        "dates": { "start": "2026-03-31", "end": "2026-05-06" },
+        "dates": {
+          "start": "2026-03-31",
+          "end": "2026-05-06"
+        },
         "hours": "Check official site",
         "reservation": "lottery",
         "reservation_method": "ufotable reservation web portal",
         "reservation_url": "https://www.ufotable.co.jp/cafe/reservation",
-        "price_range_jpy": { "min": 650, "max": 1400 },
+        "price_range_jpy": {
+          "min": 650,
+          "max": 1400
+        },
         "english_menu": null,
         "english_staff": null
       },
@@ -32,12 +38,18 @@
         "name": "ufotable Cafe Nagoya",
         "address": "14-1 Takebashi-cho, Nakamura-ku, Nagoya, Aichi",
         "station": "Nagoya Station",
-        "dates": { "start": "2026-03-31", "end": "2026-05-06" },
+        "dates": {
+          "start": "2026-03-31",
+          "end": "2026-05-06"
+        },
         "hours": "Check official site",
         "reservation": "lottery",
         "reservation_method": "ufotable reservation web portal",
         "reservation_url": "https://www.ufotable.co.jp/cafe/reservation",
-        "price_range_jpy": { "min": 650, "max": 1400 },
+        "price_range_jpy": {
+          "min": 650,
+          "max": 1400
+        },
         "english_menu": null,
         "english_staff": null
       },
@@ -47,12 +59,18 @@
         "name": "ufotable Cafe Osaka",
         "address": "3-3-3 Motomachi, Naniwa-ku, Osaka 1F",
         "station": "Namba Station",
-        "dates": { "start": "2026-03-31", "end": "2026-05-06" },
+        "dates": {
+          "start": "2026-03-31",
+          "end": "2026-05-06"
+        },
         "hours": "Check official site",
         "reservation": "lottery",
         "reservation_method": "ufotable reservation web portal",
         "reservation_url": "https://www.ufotable.co.jp/cafe/reservation",
-        "price_range_jpy": { "min": 650, "max": 1400 },
+        "price_range_jpy": {
+          "min": 650,
+          "max": 1400
+        },
         "english_menu": null,
         "english_staff": null
       },
@@ -62,12 +80,18 @@
         "name": "ufotable Cafe Tokushima",
         "address": "1-13 Higashifunaba-cho, Tokushima, Tokushima, Kokusai Higashifunaba 113 Building 2F",
         "station": "Tokushima Station",
-        "dates": { "start": "2026-03-31", "end": "2026-05-06" },
+        "dates": {
+          "start": "2026-03-31",
+          "end": "2026-05-06"
+        },
         "hours": "Check official site",
         "reservation": "lottery",
         "reservation_method": "ufotable reservation web portal",
         "reservation_url": "https://www.ufotable.co.jp/cafe/reservation",
-        "price_range_jpy": { "min": 650, "max": 1400 },
+        "price_range_jpy": {
+          "min": 650,
+          "max": 1400
+        },
         "english_menu": null,
         "english_staff": null
       },
@@ -77,12 +101,18 @@
         "name": "ufotable Cafe Kitakyushu",
         "address": "2-14-5 Asano, Kokurakita-ku, Kitakyushu, Fukuoka, aruaru City 2F",
         "station": "Kokura Station",
-        "dates": { "start": "2026-03-31", "end": "2026-05-06" },
+        "dates": {
+          "start": "2026-03-31",
+          "end": "2026-05-06"
+        },
         "hours": "Check official site",
         "reservation": "lottery",
         "reservation_method": "ufotable reservation web portal",
         "reservation_url": "https://www.ufotable.co.jp/cafe/reservation",
-        "price_range_jpy": { "min": 650, "max": 1400 },
+        "price_range_jpy": {
+          "min": 650,
+          "max": 1400
+        },
         "english_menu": null,
         "english_staff": null
       }
@@ -123,12 +153,18 @@
         "name": "THE Chara CAFE Ikebukuro (Grand Scape Ikebukuro 2F)",
         "address": "1-30-3 Higashi-Ikebukuro, Toshima-ku, Tokyo, Grand Scape Ikebukuro 2F",
         "station": "Ikebukuro Station East Exit, 4 min walk",
-        "dates": { "start": "2026-04-25", "end": "2026-05-06" },
+        "dates": {
+          "start": "2026-04-25",
+          "end": "2026-05-06"
+        },
         "hours": "Check official site",
         "reservation": "walk_in",
         "reservation_method": null,
         "reservation_url": null,
-        "price_range_jpy": { "min": 880, "max": 1760 },
+        "price_range_jpy": {
+          "min": 880,
+          "max": 1760
+        },
         "english_menu": null,
         "english_staff": null
       }
@@ -167,12 +203,18 @@
         "name": "and GALLERY Ikebukuro",
         "address": "1-5-7 Higashi-Ikebukuro, Toshima-ku, Tokyo, LABI1 LIFE SELECT Ikebukuro 7F",
         "station": "Ikebukuro Station East Exit",
-        "dates": { "start": "2026-04-04", "end": "2026-05-06" },
+        "dates": {
+          "start": "2026-04-04",
+          "end": "2026-05-06"
+        },
         "hours": "11:00-20:10 (check official site)",
         "reservation": "optional",
         "reservation_method": "Web advance booking (recommended) or walk-in",
         "reservation_url": "https://collabo.and-gallery.com/kusuriyanohitorigoto",
-        "price_range_jpy": { "min": 850, "max": 3000 },
+        "price_range_jpy": {
+          "min": 850,
+          "max": 3000
+        },
         "english_menu": null,
         "english_staff": null
       },
@@ -182,12 +224,18 @@
         "name": "and GALLERY Namba",
         "address": "1-4-1 Minatomachi, Naniwa-ku, Osaka, OCAT 5F",
         "station": "JR Namba Station",
-        "dates": { "start": "2026-04-04", "end": "2026-05-06" },
+        "dates": {
+          "start": "2026-04-04",
+          "end": "2026-05-06"
+        },
         "hours": "Check official site",
         "reservation": "optional",
         "reservation_method": "Web advance booking or walk-in",
         "reservation_url": "https://collabo.and-gallery.com/kusuriyanohitorigoto",
-        "price_range_jpy": { "min": 850, "max": 3000 },
+        "price_range_jpy": {
+          "min": 850,
+          "max": 3000
+        },
         "english_menu": null,
         "english_staff": null
       },
@@ -197,12 +245,18 @@
         "name": "and GALLERY Nagoya",
         "address": "3-30-40 Osu, Naka-ku, Nagoya, Aichi, Manshoji Building 1F",
         "station": "Kamimaezu Station",
-        "dates": { "start": "2026-04-04", "end": "2026-05-06" },
+        "dates": {
+          "start": "2026-04-04",
+          "end": "2026-05-06"
+        },
         "hours": "11:00-20:00 (check official site)",
         "reservation": "optional",
         "reservation_method": "Web advance booking or walk-in",
         "reservation_url": "https://collabo.and-gallery.com/kusuriyanohitorigoto",
-        "price_range_jpy": { "min": 850, "max": 3000 },
+        "price_range_jpy": {
+          "min": 850,
+          "max": 3000
+        },
         "english_menu": null,
         "english_staff": null
       },
@@ -212,12 +266,18 @@
         "name": "and GALLERY Fukuoka",
         "address": "3-16-15 Tenjin, Chuo-ku, Fukuoka 810-0001, Sanyo Building 5F",
         "station": "Tenjin Station",
-        "dates": { "start": "2026-04-04", "end": "2026-05-06" },
+        "dates": {
+          "start": "2026-04-04",
+          "end": "2026-05-06"
+        },
         "hours": "Check official site",
         "reservation": "optional",
         "reservation_method": "Web advance booking or walk-in",
         "reservation_url": "https://collabo.and-gallery.com/kusuriyanohitorigoto",
-        "price_range_jpy": { "min": 850, "max": 3000 },
+        "price_range_jpy": {
+          "min": 850,
+          "max": 3000
+        },
         "english_menu": null,
         "english_staff": null
       }
@@ -238,6 +298,77 @@
       "https://kusuriyanohitorigoto.jp/news/2267/"
     ],
     "last_verified": "2026-04-19",
+    "verified_by": "takapon"
+  },
+  {
+    "slug": "okami-monster-hunter-sakaba-2026-04",
+    "status": "active",
+    "ip": "Okami",
+    "ip_slug": "okami",
+    "brand": "Monster Hunter Sakaba",
+    "brand_slug": "monster-hunter-sakaba",
+    "title_en": "Okami 20th Anniversary Cafe × Monster Hunter Sakaba (April-June 2026)",
+    "title_ja": "大神 20周年 モンハン酒場 コラボカフェ",
+    "description_en": "Capcom's Okami celebrates its 20th anniversary with a collaboration cafe at Monster Hunter Sakaba, running April 20 to June 1, 2026. Amaterasu and Sakuya themed dishes at two venues — Akihabara Pasela 3F and Osaka Dotonbori 4F — plus a random 8-variant coaster per menu order.",
+    "hero_image": "/images/cafes/okami-monster-hunter-sakaba-2026-04/hero.webp",
+    "venues": [
+      {
+        "city": "Tokyo",
+        "district": "Akihabara",
+        "name": "Monster Hunter Sakaba Akihabara (Pasela Resorts AKIBA 3F)",
+        "address": "1-1-10 Sotokanda, Chiyoda-ku, Tokyo 101-0021, Pasela Resorts AKIBA Multi Entertainment 3F",
+        "station": "Akihabara Station (Electric Town Exit)",
+        "dates": {
+          "start": "2026-04-20",
+          "end": "2026-06-01"
+        },
+        "hours": "Check official site",
+        "reservation": "required",
+        "reservation_method": "Web booking via Pasela",
+        "reservation_url": "https://pasela.co.jp/",
+        "price_range_jpy": {
+          "min": 0,
+          "max": 0
+        },
+        "english_menu": null,
+        "english_staff": null
+      },
+      {
+        "city": "Osaka",
+        "district": "Chuo",
+        "name": "Monster Hunter Sakaba WEST (Pasela Resorts Namba Dotonbori 4F)",
+        "address": "1-4-27 Dotonbori, Chuo-ku, Osaka 542-0071, Pasela Resorts Namba Dotonbori 4F",
+        "station": "Namba Station / Nippombashi Station",
+        "dates": {
+          "start": "2026-04-20",
+          "end": "2026-06-01"
+        },
+        "hours": "Check official site",
+        "reservation": "required",
+        "reservation_method": "Web booking via Pasela",
+        "reservation_url": "https://pasela.co.jp/",
+        "price_range_jpy": {
+          "min": 0,
+          "max": 0
+        },
+        "english_menu": null,
+        "english_staff": null
+      }
+    ],
+    "reservation_summary": "Advance web reservation required via Pasela. Both venues operate on the Pasela booking platform; book directly on the pasela.co.jp portal.",
+    "cover_charge_jpy": null,
+    "merch_bonus": "Random original coaster (8 variants) per menu order. Free limited postcard with purchases of 3,000 yen or more.",
+    "menu_highlights": [
+      "Fude-shirabe Kidama niku-dango no tomato cream pasta (brush-stroke Radiant Jewel meatball tomato cream pasta)",
+      "Sakuya-hime no momo-manju (Sakuya peach manju)",
+      "Mikan-jii tokusei mikan juice (Mikan-jii's special mikan juice)",
+      "Amaterasu Okami no fuwafuwa ichigo milk (Amaterasu's fluffy strawberry milk)"
+    ],
+    "source_urls": [
+      "https://collabo-cafe.com/events/collabo/ookami-20th-anniversary-cafe-mhsb-tokyo-osaka-2026/",
+      "https://www.paselaresorts.com/collaboration/mhsb/"
+    ],
+    "last_verified": "2026-04-20",
     "verified_by": "takapon"
   }
 ]
