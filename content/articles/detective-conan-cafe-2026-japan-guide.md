@@ -3,7 +3,7 @@ title: "Detective Conan Cafe 2026 in Japan: Best Tokyo and Osaka Locations, Date
 description: "Planning to visit Detective Conan Cafe 2026 in Japan? This practical guide covers the dates, best Tokyo and Osaka locations, what makes each city different,..."
 date: "2026-04-06"
 lastUpdated: "2026-04-06"
-category: "collab-cafes"
+category: "cafes"
 tags: []
 featuredImage: "/images/articles/detective-conan-cafe-2026-japan-guide/featured.jpg"
 featuredImageAlt: "Vibrant Akihabara electric town street with colorful anime signage"

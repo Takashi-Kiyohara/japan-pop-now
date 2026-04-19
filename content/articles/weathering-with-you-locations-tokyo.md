@@ -3,7 +3,7 @@ title: "Weathering With You Locations Tokyo — Every Real Spot from Tenki no Ko
 description: "Last updated: March 2026. All locations verified as publicly accessible unless noted. Includes walking routes optimized for a half-day or full-day visit...."
 date: "2026-03-28"
 lastUpdated: "2026-03-28"
-category: "anime-pilgrimage"
+category: "destinations"
 tags: []
 featuredImage: "/images/articles/weathering-with-you-locations-tokyo/featured.jpg"
 featuredImageAlt: "Tokyo city night skyline reminiscent of Weathering With You anime"

@@ -3,7 +3,7 @@ title: "How to Book an Anime Collab Cafe in Japan [2026] — Step-by-Step Lotter
 description: "Book anime collab cafes in Tokyo in 2026: master Lawson Ticket, lottery systems, and walk-in secrets. Insider tips for guaranteed reservations even when sold out..."
 date: "2026-03-24"
 lastUpdated: "2026-03-24"
-category: "travel-tips"
+category: "experiences"
 tags: []
 featuredImage: "/images/articles/how-to-book-anime-collab-cafe-japan/featured.jpg"
 featuredImageAlt: "Colorful interior of the Fujiko F. Fujio (Doraemon) Museum in Kawasaki"

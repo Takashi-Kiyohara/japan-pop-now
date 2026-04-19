@@ -3,7 +3,7 @@ title: "How to Ship Anime Figures & Merch Home from Japan: Complete Guide (2026)
 description: "Ship anime figures home from Japan 2026: Japan Post EMS/SAL, Yamato hotel pickup, in-store shipping, proxy services, and how to pack so nothing breaks."
 date: "2026-04-02"
 lastUpdated: "2026-04-02"
-category: "travel-tips"
+category: "experiences"
 tags: []
 featuredImage: "/images/articles/ship-anime-figures-merch-home-japan/featured.jpg"
 featuredImageAlt: "Yamato Transport Kuroneko delivery truck for shipping anime merch from Japan"

@@ -3,7 +3,7 @@ title: "Gachapon Guide Japan 2026: Where to Find, How to Use & 7 Best Machines"
 description: "Last updated: March 2026. Those colorful capsule toy machines lined up outside convenience stores and crammed into dedicated multi-floor buildings? That is..."
 date: "2026-03-28"
 lastUpdated: "2026-03-28"
-category: "travel-tips"
+category: "experiences"
 tags: []
 featuredImage: "/images/articles/gachapon-guide-japan/featured.jpg"
 featuredImageAlt: "Bandai Gashapon store with capsule toy machines in Japan"

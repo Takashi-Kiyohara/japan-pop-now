@@ -3,7 +3,7 @@ title: "How to Book Animate Cafe Japan [2026] — Lottery System, Locations and 
 description: "Book Animate Cafe in 2026: lottery entry guide, all Tokyo/Osaka locations, Gratte stands, DECOTTO donuts. Insider tips to win the draw and secure reservations..."
 date: "2026-03-28"
 lastUpdated: "2026-03-28"
-category: "collab-cafes"
+category: "cafes"
 tags: []
 featuredImage: "/images/articles/animate-cafe-guide-japan/featured.jpg"
 featuredImageAlt: "Animate store and Lashinbang in Ikebukuro for anime cafe lottery booking"

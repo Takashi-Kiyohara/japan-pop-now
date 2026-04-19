@@ -3,7 +3,7 @@ title: "Osaka Anime & Collab Cafes 2026: Den Den Town, Namba & Beyond"
 description: "Osaka anime 2026: 8-12 collab cafes, Capcom Cafe Umeda, Chugai Grace, Den Den Town shopping, USJ attractions — Tokyo vs Osaka for anime fans."
 date: "2026-04-05"
 lastUpdated: "2026-04-05"
-category: "collab-cafes"
+category: "cafes"
 tags: []
 featuredImage: "/images/articles/osaka-anime-collab-cafes-pop-culture-2026/featured.jpg"
 featuredImageAlt: "Dotonbori neon signs in Osaka for anime and pop culture district"

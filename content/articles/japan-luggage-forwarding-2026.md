@@ -3,7 +3,7 @@ title: "Japan Luggage Forwarding 2026: Ship Bags for ¥2,000"
 description: "Japan luggage forwarding (takkyubin) 2026: Yamato, Sagawa, ¥2,000-3,000 per bag between cities, hotel-to-hotel delivery — how to use it as a tourist."
 date: "2026-04-03"
 lastUpdated: "2026-04-03"
-category: "travel-tips"
+category: "experiences"
 tags: []
 featuredImage: "/images/articles/japan-luggage-forwarding-2026/featured.jpg"
 featuredImageAlt: "Yamato Transport Kuroneko delivery boxes in various sizes for luggage forwarding"

@@ -21,6 +21,15 @@ const DELETED_ARTICLE_SLUGS = new Set<string>([
   'one-piece-cafe-gene-parco-2026',
 ])
 
+// 2026-04-19 category slug migration (5-body MECE).
+// Map: old /category/<key> -> new /category/<value>. 301 permanent.
+const CATEGORY_REDIRECTS: Record<string, string> = {
+  'collab-cafes': 'cafes',
+  'anime-pilgrimage': 'destinations',
+  'area-guides': 'destinations',
+  'travel-tips': 'experiences',
+}
+
 // System paths that must NOT be treated as legacy article slugs.
 const RESERVED_TOP_PATHS = new Set<string>([
   'articles', 'category', 'guides', 'tags', 'features', 'api',
@@ -58,6 +67,17 @@ export function middleware(request: NextRequest) {
   if (trimmed && !trimmed.includes('/') && !RESERVED_TOP_PATHS.has(trimmed)) {
     if (LEGACY_ARTICLE_SLUGS.has(trimmed)) {
       const url = new URL(`/articles/${trimmed}`, request.url)
+      return NextResponse.redirect(url, 301)
+    }
+  }
+
+  // Category slug migration: /category/<old> -> /category/<new>, 301.
+  const categoryMatch = pathname.match(/^\/category\/([^/]+)\/?$/)
+  if (categoryMatch) {
+    const oldSlug = categoryMatch[1]
+    const newSlug = CATEGORY_REDIRECTS[oldSlug]
+    if (newSlug) {
+      const url = new URL(`/category/${newSlug}`, request.url)
       return NextResponse.redirect(url, 301)
     }
   }

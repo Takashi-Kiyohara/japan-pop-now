@@ -3,7 +3,7 @@ title: "Tokyo Anime Neighborhoods Guide 2026 — Akihabara, Nakano, Ikebukuro an
 description: "All 6 Tokyo anime neighborhoods in 2026: Akihabara arcades, Nakano vintage, Ikebukuro BL, Shibuya flagships, Harajuku kawaii. Maps & 1-day routes."
 date: "2026-03-28"
 lastUpdated: "2026-03-28"
-category: "area-guides"
+category: "destinations"
 tags: []
 featuredImage: "/images/articles/tokyo-anime-district-guide/featured.jpg"
 featuredImageAlt: "Akihabara neon-lit anime district at night with SEGA and manga billboards"

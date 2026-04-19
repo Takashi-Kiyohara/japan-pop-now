@@ -44,7 +44,7 @@ export default function NotFound() {
           Go Home
         </Link>
         <Link
-          href="/category/collab-cafes"
+          href="/category/cafes"
           style={{
             background: '#fff',
             color: '#14213d',

@@ -3,7 +3,7 @@ title: "Akihabara: The Complete Pop Culture Guide for 2026"
 description: "The real Akihabara guide for 2026. Retro game shops, hidden specialist stores, maid cafes, collab cafes, and the side streets most tourists miss. Written by a..."
 date: "2026-03-25"
 lastUpdated: "2026-03-25"
-category: "area-guides"
+category: "destinations"
 tags: []
 featuredImage: "/images/articles/akihabara-complete-guide-2026/featured.jpg"
 featuredImageAlt: "Akihabara Electric Town street with GiGO arcade and anime shops in Tokyo"

@@ -3,7 +3,7 @@ title: "Japan Trip Checklist for Anime Fans: Everything to Book Before You Go (2
 description: "Japan trip checklist for anime fans 2026: what to book at 3mo, 1mo, 2wk, 1wk — JR Pass, collab cafe lotteries, AnimeJapan, Comiket timing."
 date: "2026-04-02"
 lastUpdated: "2026-04-02"
-category: "travel-tips"
+category: "experiences"
 tags: []
 featuredImage: "/images/articles/japan-trip-checklist-anime-fans-2026/featured.jpg"
 featuredImageAlt: "Haneda Airport terminal at dusk with Mt. Fuji in the background"

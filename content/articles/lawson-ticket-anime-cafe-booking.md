@@ -3,7 +3,7 @@ title: "Lawson Ticket & Loppi Machine Guide — How to Book Anime Cafes and Even
 description: "Last updated: March 2026. Step-by-step guide to using Lawson Ticket (l-tike.com) and Loppi machines for anime collab cafe and event reservations in Japan...."
 date: "2026-03-28"
 lastUpdated: "2026-03-28"
-category: "travel-tips"
+category: "experiences"
 tags: []
 featuredImage: "/images/articles/lawson-ticket-anime-cafe-booking/featured.jpg"
 featuredImageAlt: "Lawson convenience store exterior in Japan for Loppi ticket booking"

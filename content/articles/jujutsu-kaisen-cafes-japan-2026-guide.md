@@ -3,7 +3,7 @@ title: "Jujutsu Kaisen Cafes in Japan 2026: Tokyo vs Osaka vs Other Cities for A
 description: "Looking for the best Jujutsu Kaisen cafe in Japan in 2026? This practical guide compares Tokyo, Osaka, and other cities, with dates, reservation rules, and..."
 date: "2026-04-06"
 lastUpdated: "2026-04-06"
-category: "collab-cafes"
+category: "cafes"
 tags: []
 featuredImage: "/images/articles/jujutsu-kaisen-cafes-japan-2026-guide/featured.jpg"
 featuredImageAlt: "Shibuya Crossing aerial view Tokyo featured in Jujutsu Kaisen anime"

@@ -3,7 +3,7 @@ title: "Japan Proxy Shopping 2026: Buy Anime Figures & Merch Online"
 description: "Japan proxy shopping 2026: Buyee, ZenMarket, Tenso, FromJapan, Jauce compared. Fees, shipping, Mercari + Yahoo Auctions for international anime fans."
 date: "2026-04-03"
 lastUpdated: "2026-04-03"
-category: "travel-tips"
+category: "experiences"
 tags: []
 featuredImage: "/images/articles/japan-proxy-shopping-2026/featured.jpg"
 featuredImageAlt: "Anime figures and collectibles display at Akihabara shop for proxy shopping"

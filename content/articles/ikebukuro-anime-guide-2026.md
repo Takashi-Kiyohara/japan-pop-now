@@ -3,7 +3,7 @@ title: "Ikebukuro Anime Guide (2026): Animate, Otome Road, Gashapon & Collab Caf
 description: "Complete guide to Ikebukuro for anime fans. 9-floor Animate flagship, Otome Road, 4 collab cafe locations, Sunshine City events, and why locals prefer it over..."
 date: "2026-03-25"
 lastUpdated: "2026-03-25"
-category: "area-guides"
+category: "destinations"
 tags: []
 featuredImage: "/images/articles/ikebukuro-anime-guide-2026/featured.jpg"
 featuredImageAlt: "Nishi-Ikebukuro Ichibangai shopping street entrance in Ikebukuro Tokyo"

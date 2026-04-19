@@ -3,11 +3,10 @@ import { AUTHOR } from '@/lib/author';
 
 const SITE_LINKS = [
   { href: '/', label: 'Home' },
-  { href: '/category/collab-cafes', label: 'Collab Cafes' },
+  { href: '/category/cafes', label: 'Collab Cafes' },
+  { href: '/category/destinations', label: 'Destinations' },
   { href: '/category/experiences', label: 'Experiences' },
-  { href: '/category/anime-pilgrimage', label: 'Anime Pilgrimage' },
-  { href: '/category/area-guides', label: 'Area Guides' },
-  { href: '/category/travel-tips', label: 'Travel Tips' },
+  { href: '/calendar', label: 'Events Calendar' },
   { href: '/features', label: 'Features' },
   { href: '/guides', label: 'All Guides' },
   { href: '/search', label: 'Search' },

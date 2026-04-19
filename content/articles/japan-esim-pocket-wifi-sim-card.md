@@ -3,7 +3,7 @@ title: "Japan eSIM vs Pocket WiFi vs SIM Card — The Complete Comparison Guide 
 description: "Last updated: April 2026. All prices and plan details verified against provider websites. You just booked your flight to Japan. Now comes the question every..."
 date: "2026-04-01"
 lastUpdated: "2026-04-01"
-category: "travel-tips"
+category: "experiences"
 tags: []
 featuredImage: "/images/articles/japan-esim-pocket-wifi-sim-card/featured.jpg"
 featuredImageAlt: "Tourist using smartphone with WiFi connectivity over Tokyo cityscape"

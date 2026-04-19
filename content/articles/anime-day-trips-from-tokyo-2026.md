@@ -3,7 +3,7 @@ title: "7 Anime Day Trips from Tokyo: Pilgrimage Guide with JR Pass Tips"
 description: "Six anime pilgrimage spots within 2hrs of Tokyo — Kamakura (Slam Dunk), Hakone (Evangelion), Oarai (Girls und Panzer), Chichibu, Nikko. Routes + JR Pass math."
 date: "2026-04-04"
 lastUpdated: "2026-04-04"
-category: "anime-pilgrimage"
+category: "destinations"
 tags: []
 featuredImage: "/images/articles/anime-day-trips-from-tokyo-2026/featured.jpg"
 featuredImageAlt: "Great Buddha statue in Kamakura a popular anime day trip from Tokyo"

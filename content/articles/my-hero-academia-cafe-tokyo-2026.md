@@ -3,7 +3,7 @@ title: "My Hero Academia Cafe Tokyo 2026: Ikebukuro Guide for Anime Travelers"
 description: "Planning to visit the My Hero Academia Cafe in Ikebukuro in 2026? This practical guide explains the dates, why Ikebukuro is the best base, and how to turn the..."
 date: "2026-04-06"
 lastUpdated: "2026-04-06"
-category: "collab-cafes"
+category: "cafes"
 tags: []
 featuredImage: "/images/articles/my-hero-academia-cafe-tokyo-2026/featured.jpg"
 featuredImageAlt: "Kabukicho neon street at night in Shinjuku Tokyo anime district"

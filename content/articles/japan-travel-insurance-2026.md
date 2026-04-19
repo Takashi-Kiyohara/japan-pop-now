@@ -3,7 +3,7 @@ title: "Japan Travel Insurance 2026: Best Plans Compared (from $45)"
 description: "Japan travel insurance 2026: what to buy, skip, real hospital costs without insurance (¥45,000 / 3hrs), and 4 policies anime fans should compare."
 date: "2026-04-03"
 lastUpdated: "2026-04-03"
-category: "travel-tips"
+category: "experiences"
 tags: []
 featuredImage: "/images/articles/japan-travel-insurance-2026/featured.jpg"
 featuredImageAlt: "Tokyo Station historic red-brick building illuminated at night"

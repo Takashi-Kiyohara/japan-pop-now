@@ -39,11 +39,9 @@ const SECTIONS: Section[] = [
   {
     title: 'Categories',
     items: [
-      { href: '/category/collab-cafes', Icon: Coffee, label: 'Collab Cafes' },
-      { href: '/category/anime-pilgrimage', Icon: Map, label: 'Anime Pilgrimage' },
+      { href: '/category/cafes', Icon: Coffee, label: 'Collab Cafes' },
+      { href: '/category/destinations', Icon: Map, label: 'Destinations' },
       { href: '/category/experiences', Icon: Sparkles, label: 'Experiences' },
-      { href: '/category/area-guides', Icon: Compass, label: 'Area Guides' },
-      { href: '/category/travel-tips', Icon: HelpCircle, label: 'Travel Tips' },
     ],
   },
   {

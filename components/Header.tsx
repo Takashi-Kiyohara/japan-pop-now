@@ -17,11 +17,9 @@ type NavLink = {
 
 const NAV_LINKS: NavLink[] = [
   { href: '/calendar', label: 'Calendar', highlight: true, Icon: CalendarDays },
-  { href: '/category/collab-cafes', label: 'Collab Cafes' },
-  { href: '/category/anime-pilgrimage', label: 'Pilgrimage' },
+  { href: '/category/cafes', label: 'Collab Cafes' },
+  { href: '/category/destinations', label: 'Destinations' },
   { href: '/category/experiences', label: 'Experiences' },
-  { href: '/category/area-guides', label: 'Area Guides' },
-  { href: '/category/travel-tips', label: 'Travel Tips' },
 ];
 
 export default function Header() {

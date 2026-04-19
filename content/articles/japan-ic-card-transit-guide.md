@@ -3,7 +3,7 @@ title: "Japan IC Card & Transit Guide for Anime Fans (2026)"
 description: "Last updated: March 2026. IC cards eliminate the biggest headache of Japanese public transport: figuring out fare machines in a language you might not read...."
 date: "2026-03-29"
 lastUpdated: "2026-03-29"
-category: "travel-tips"
+category: "experiences"
 tags: []
 featuredImage: "/images/articles/japan-ic-card-transit-guide/featured.jpg"
 featuredImageAlt: "IC card ticket gates and fare adjustment machine at Tokyo train station"

@@ -4,7 +4,7 @@ description: "Plan your first Japan trip: hour-by-hour arrival, IC card, eSIM, c
 date: "2026-04-10"
 lastUpdated: "2026-04-10"
 updated: "2026-04-10"
-category: "travel-tips"
+category: "experiences"
 feature: "first-timers-field-notes"
 tags: ["first-time", "tokyo", "arrival", "planning", "playbook", "anime-tourism"]
 featuredImage: "/images/articles/first-timers-japan-playbook-anime-fans-2026/featured.jpg"

@@ -3,7 +3,7 @@ title: "How to Book Japan Anime Events from Overseas (2026 Guide)"
 description: "How to book Japan anime collab cafes, events, and theme parks from overseas — which platforms work internationally, which don't, proxy services compared."
 date: "2026-04-04"
 lastUpdated: "2026-04-04"
-category: "travel-tips"
+category: "experiences"
 tags: []
 featuredImage: "/images/articles/book-japan-anime-events-overseas-2026/featured.jpg"
 featuredImageAlt: "Arrival gate at Narita Airport Terminal 2 for international visitors"

@@ -3,7 +3,7 @@ title: "FamilyMart Anime Collab Stores: Japan’s Newest Trend (2026)"
 description: "Last updated: April 2026 FamilyMart Anime Collab Stores: Japan’s Newest Trend (2026) FamilyMart just cracked the code on making convenience stores into tourist..."
 date: "2026-04-03"
 lastUpdated: "2026-04-03"
-category: "collab-cafes"
+category: "cafes"
 tags: []
 featuredImage: "/images/articles/familymart-anime-collab-stores-2026/featured.jpg"
 featuredImageAlt: "FamilyMart convenience store at night near Sunshine City Ikebukuro"

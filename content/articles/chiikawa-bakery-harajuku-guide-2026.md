@@ -3,7 +3,7 @@ title: "Chiikawa Bakery Harajuku 2026: Real Visitor Guide"
 description: "Chiikawa Bakery Harajuku: no-reservation afternoon entry, menu with prices, ¥1,200 snack plan, Lawson Ticket vouchers—verified April 2026."
 date: "2026-04-12"
 lastUpdated: "2026-04-14"
-category: "collab-cafes"
+category: "cafes"
 tags: ["chiikawa", "harajuku", "2026-spring", "bakery"]
 featuredImage: "/images/articles/chiikawa-bakery-harajuku-guide-2026/featured.jpg"
 featuredImageAlt: "Inside Chiikawa Bakery Harajuku showing the main counter with character-shaped breads and a large Chiikawa plush figure"

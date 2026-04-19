@@ -3,7 +3,7 @@ title: "10 Anime Pilgrimage Spots in Tokyo You Can Visit Today"
 description: "Visit real anime locations in Tokyo: Your Name stairs, Shibuya Crossing (JJK), Sensoji (Demon Slayer), Akihabara (Steins;Gate), Kamakura (Slam Dunk), and more."
 date: "2026-03-25"
 lastUpdated: "2026-03-25"
-category: "anime-pilgrimage"
+category: "destinations"
 tags: []
 featuredImage: "/images/articles/anime-pilgrimage-spots-tokyo/featured.jpg"
 featuredImageAlt: "Sensoji Temple in Asakusa Tokyo a famous anime pilgrimage location"
