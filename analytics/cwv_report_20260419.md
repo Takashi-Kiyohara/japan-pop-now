@@ -93,4 +93,62 @@ Google default shared API key (project_number 583797351490) が quota exhausted�
 
 ---
 
-*計測時刻: 2026-04-19 JST、session 終盤に実施。*
+## v2 再計測（2026-04-19、perf commit 後）
+
+**目的**: `8bfe080 perf(scripts): lazyOnload AdSense + GA` の前後比較。
+
+**v2 計測条件**: v1 と同一（lighthouse 13.1.0、mobile、headless）、単発計測。コミット後 Vercel deploy 反映を確認してから実行。
+
+### v1 vs v2 対比
+
+| URL | Perf | LCP | FCP | TBT | SI | Bootup |
+|---|---|---|---|---|---|---|
+| `/` v1 | 46 | 5.0 s | 3.9 s | 770 ms | 15.1 s | **5.7 s** |
+| `/` v2 | 45 | **4.6 s** ✅ | **3.3 s** ✅ | 1,150 ms ❌ | **11.2 s** ✅ | **3.3 s** ✅ |
+| Δ | -1 | -0.4s | -0.6s | +380ms | -3.9s | **-2.4s** |
+| `/calendar` v1 | 42 | 4.7 s | 4.0 s | 1,240 ms | 11.3 s | 2.2 s |
+| `/calendar` v2 | 43 | **4.3 s** ✅ | 4.0 s | 1,610 ms ❌ | **8.4 s** ✅ | 3.0 s |
+| Δ | +1 | -0.4s | ±0 | +370ms | -2.9s | +0.8s |
+| `/articles/.../animate-cafe-guide-japan` v1 | 41 | 4.7 s | 4.4 s | 1,270 ms | 18.9 s | 3.1 s |
+| same v2 | 38 | 5.2 s ❌ | 4.4 s | 1,530 ms ❌ | **8.7 s** ✅ | 3.4 s |
+| Δ | -3 | +0.5s | ±0 | +260ms | **-10.2s** | +0.3s |
+
+### 読み方
+
+**勝ち**:
+- Homepage Bootup time: 5.7 s → 3.3 s（**-2.4s、-42%**） — lazyOnload の一次効果
+- Homepage LCP/FCP 改善、SI 全 URL で 2-10s 縮小
+- Calendar LCP/SI 改善
+
+**負け / ノイズ**:
+- TBT が全 3 URL で悪化（+260〜+380 ms）
+- Article は Perf score -3、LCP +0.5s
+- Performance score は全体的に横ばい（41-46 → 38-45）
+
+### 解釈
+
+TBT 悪化の仮説 2 件:
+1. **計測ノイズ**: lighthouse 単発は 10-20% variance 込み。3-5 回平均で再評価が妥当
+2. **lazyOnload の副作用**: script を window.load 後に defer しても Lighthouse は TTI まで measure するので、main thread ブロックは別時点に移動しただけ。INP (field data) では改善見込みだが lab TBT は悪化し得る
+
+CWV 実質 (LCP/CLS/INP) は Core Web Vitals 判定の実体で、TBT は lab 指標に過ぎない。field CrUX が真。現状:
+- LCP: 改善 (2/3 URL)
+- CLS: 変化なし（元々 good）
+- INP: field data 未取得、Googlebot 側で 24-72h 後に CrUX に反映
+
+### 次の一手
+
+1. **この変更は維持**。AdSense reviewer の script 検知 OK (HTML 残存 curl 確認済)、LCP 改善は明確
+2. **24-72h 後に CrUX API で field INP 再評価** (PSI API key 要)
+3. **TBT が本当に悪化しているなら**、AdSense script を `strategy="afterInteractive"` に戻す選択肢あり（lazyOnload より早いが hydration 後）
+4. **単発計測の精度不足対策**: 次回は lighthouse `--runs=5` で multi-run median を取る
+
+### Raw v2
+
+- `analytics/lh_home_mobile_20260419_v2.json`
+- `analytics/lh_calendar_mobile_20260419_v2.json`
+- `analytics/lh_article_mobile_20260419_v2.json`
+
+---
+
+*v1 計測: session 中盤 14:29-14:30 JST、v2 計測: 14:55 頃 (perf commit 8bfe080 / ec40678 deploy 後)。*
