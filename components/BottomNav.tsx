@@ -2,7 +2,7 @@
 
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
-import { Home, CalendarDays, Coffee, Bookmark, Menu } from 'lucide-react';
+import { Home, CalendarDays, Coffee, BookOpen, Menu } from 'lucide-react';
 import type { LucideIcon } from 'lucide-react';
 
 type Tab = {
@@ -14,9 +14,9 @@ type Tab = {
 
 const TABS: Tab[] = [
   { href: '/', Icon: Home, label: 'Home' },
-  { href: '/calendar', Icon: CalendarDays, label: 'Events', matchPrefix: '/calendar' },
   { href: '/cafes', Icon: Coffee, label: 'Cafes', matchPrefix: '/cafes' },
-  { href: '/bookmarks', Icon: Bookmark, label: 'Saved', matchPrefix: '/bookmarks' },
+  { href: '/calendar', Icon: CalendarDays, label: 'Calendar', matchPrefix: '/calendar' },
+  { href: '/articles', Icon: BookOpen, label: 'Articles', matchPrefix: '/articles' },
   { href: '/menu', Icon: Menu, label: 'More', matchPrefix: '/menu' },
 ];
 
