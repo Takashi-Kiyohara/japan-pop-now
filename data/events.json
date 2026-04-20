@@ -1,5 +1,5 @@
 {
-  "version": "2.4",
+  "version": "2.5",
   "lastUpdated": "2026-04-20",
   "events": [
     {
@@ -4150,6 +4150,31 @@
       ],
       "source": "https://www.comiket.co.jp/",
       "lastVerified": "2026-04-20"
+    },
+    {
+      "id": "pokemon-karaoke-manekineko-2026",
+      "ip": "Pokemon",
+      "type": "collab-cafe",
+      "title": "Pokemon 30th x Karaoke Manekineko",
+      "venue": "Karaoke Manekineko (nationwide, 45 prefectures)",
+      "city": "Multiple",
+      "prefecture": "Nationwide",
+      "startDate": "2026-04-24",
+      "endDate": "2026-06-14",
+      "thumbnail": "",
+      "articleSlug": "pokemon-karaoke-manekineko-30th-anniversary-2026",
+      "description": "Pokemon 30th anniversary collaboration with Karaoke Manekineko — themed karaoke rooms, original collab menu, and limited merchandise rolled out across 45 prefectures in Japan. Walk-in in most stores, some weekend slots ticketed.",
+      "reservation": "Walk-in (weekend peak slots may require online reservation)",
+      "tags": [
+        "pokemon",
+        "karaoke",
+        "2026-spring",
+        "nationwide",
+        "30th-anniversary"
+      ],
+      "source": "https://karaoke-manekineko.jp/",
+      "lastVerified": "2026-04-20",
+      "genre": "mixed"
     }
   ]
 }
