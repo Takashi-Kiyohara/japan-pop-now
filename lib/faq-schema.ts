@@ -68,8 +68,10 @@ export function extractFAQFromContent(markdown: string): FAQItem[] {
     let answer = '';
     for (let j = 1; j < lines.length; j++) {
       const line = lines[j].trim();
-      // Stop at next heading or list
-      if (line.startsWith('#') || line.startsWith('-') || line.startsWith('*')) {
+      // Stop at next heading. Break on true list items (- item, * item with
+      // trailing space) but NOT on **bold** paragraph leads that share the
+      // '*' prefix.
+      if (line.startsWith('#') || /^[-*]\s/.test(line)) {
         break;
       }
       if (line.length > 0) {
@@ -119,8 +121,12 @@ export function extractQAFromHeadings(markdown: string): FAQItem[] {
         if (!nextLine || nextLine.startsWith('#')) {
           break;
         }
-        // Skip list items and code blocks for answer text
-        if (!nextLine.startsWith('-') && !nextLine.startsWith('*') && !nextLine.startsWith('`')) {
+        // Skip list items (- item, * item with trailing space) and code
+        // blocks (```). Do NOT skip paragraphs that open with **bold** or
+        // *italic* — those share the '*' prefix but are prose, not bullets.
+        const isBullet = /^[-*]\s/.test(nextLine);
+        const isCodeFence = nextLine.startsWith('```');
+        if (!isBullet && !isCodeFence) {
           answer += nextLine + ' ';
         }
         i++;
