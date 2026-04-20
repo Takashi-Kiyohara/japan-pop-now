@@ -113,16 +113,25 @@ export function extractQAFromHeadings(markdown: string): FAQItem[] {
     if (line.startsWith('## ') || line.startsWith('### ')) {
       const question = line.replace(/^#{2,3}\s*/, '').trim();
 
-      // Collect next paragraph(s) until empty line or next heading
+      // Standard markdown puts a blank line between a heading and the
+      // paragraph that follows. The original logic broke out of the loop
+      // the moment it hit that blank line, so the answer was always empty
+      // and the whole FAQ array came back length 0.
+      //
+      // Fix: skip blank lines immediately after the heading to find the
+      // first paragraph, then collect it until the next blank or heading.
       let answer = '';
       i++;
+      while (i < lines.length && !lines[i].trim()) {
+        i++;
+      }
       while (i < lines.length) {
         const nextLine = lines[i].trim();
         if (!nextLine || nextLine.startsWith('#')) {
           break;
         }
         // Skip list items (- item, * item with trailing space) and code
-        // blocks (```). Do NOT skip paragraphs that open with **bold** or
+        // fences (```). Do NOT skip paragraphs that open with **bold** or
         // *italic* — those share the '*' prefix but are prose, not bullets.
         const isBullet = /^[-*]\s/.test(nextLine);
         const isCodeFence = nextLine.startsWith('```');
