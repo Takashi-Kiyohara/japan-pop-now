@@ -1,0 +1,4027 @@
+[
+  {
+    "slug": "akihabara-arcade-rhythm-games-guide-2026",
+    "file": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\content\\articles\\akihabara-arcade-rhythm-games-guide-2026.mdx",
+    "title": "Akihabara Arcade Rhythm Games: First-Timer Guide 2026",
+    "word_count": 1992,
+    "hero_ref": "/images/articles/akihabara-arcade-rhythm-games-guide-2026/hero.webp",
+    "hero": {
+      "kind": "hero",
+      "path_ref": "/images/articles/akihabara-arcade-rhythm-games-guide-2026/hero.webp",
+      "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\akihabara-arcade-rhythm-games-guide-2026\\hero.webp",
+      "exists": true,
+      "width": 1200,
+      "height": 720,
+      "file_bytes": 134166,
+      "bpp": 0.15528472222222223,
+      "alt": null
+    },
+    "body_findings": [
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/akihabara-arcade-rhythm-games-guide-2026/hero.webp",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\akihabara-arcade-rhythm-games-guide-2026\\hero.webp",
+        "exists": true,
+        "width": 1200,
+        "height": 720,
+        "file_bytes": 134166,
+        "bpp": 0.15528472222222223,
+        "alt": "A player tapping the maimai DX circular touchscreen while playing YOASOBI's Idol at an Akihabara rhythm game floor"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/akihabara-arcade-rhythm-games-guide-2026/body-maimai.webp",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\akihabara-arcade-rhythm-games-guide-2026\\body-maimai.webp",
+        "exists": true,
+        "width": 1200,
+        "height": 800,
+        "file_bytes": 142796,
+        "bpp": 0.14874583333333333,
+        "alt": "A player mid-swipe on maimai DX MASTER difficulty with a grip glove, inside an Akihabara SEGA game center"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/akihabara-arcade-rhythm-games-guide-2026/body-gigo-floor.webp",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\akihabara-arcade-rhythm-games-guide-2026\\body-gigo-floor.webp",
+        "exists": true,
+        "width": 1200,
+        "height": 800,
+        "file_bytes": 140234,
+        "bpp": 0.14607708333333333,
+        "alt": "A row of CHUNITHM VERSE cabinets with green LED trim lined up on the rhythm game floor at an Akihabara game center"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/akihabara-arcade-rhythm-games-guide-2026/body-sound-voltex.webp",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\akihabara-arcade-rhythm-games-guide-2026\\body-sound-voltex.webp",
+        "exists": true,
+        "width": 1200,
+        "height": 800,
+        "file_bytes": 107828,
+        "bpp": 0.11232083333333333,
+        "alt": "A Sound Voltex Valkyrie model cabinet by KONAMI with a player mid-session at an Akihabara rhythm game floor"
+      }
+    ],
+    "body_image_count": 4,
+    "body_density_per_1k": 2.01,
+    "fatals": [],
+    "warns": [],
+    "priority": "OK"
+  },
+  {
+    "slug": "akihabara-complete-guide-2026",
+    "file": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\content\\articles\\akihabara-complete-guide-2026.md",
+    "title": "Akihabara: The Complete Pop Culture Guide for 2026",
+    "word_count": 4693,
+    "hero_ref": "/images/articles/akihabara-complete-guide-2026/featured.jpg",
+    "hero": {
+      "kind": "hero",
+      "path_ref": "/images/articles/akihabara-complete-guide-2026/featured.jpg",
+      "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\akihabara-complete-guide-2026\\featured.jpg",
+      "exists": true,
+      "width": 1920,
+      "height": 1275,
+      "file_bytes": 841780,
+      "bpp": 0.3438643790849673,
+      "alt": null
+    },
+    "body_findings": [],
+    "body_image_count": 0,
+    "body_density_per_1k": 0.0,
+    "fatals": [
+      "BODY_NO_IMAGES: article has 4693 words but zero body images"
+    ],
+    "warns": [
+      "HERO_DIMS_OFF: 1920x1275 (target 1200x720)"
+    ],
+    "priority": "P1"
+  },
+  {
+    "slug": "animate-cafe-guide-japan",
+    "file": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\content\\articles\\animate-cafe-guide-japan.md",
+    "title": "How to Book Animate Cafe Japan [2026] \u2014 Lottery System, Locations and Gratte Guide",
+    "word_count": 2279,
+    "hero_ref": "/images/articles/animate-cafe-guide-japan/featured.jpg",
+    "hero": {
+      "kind": "hero",
+      "path_ref": "/images/articles/animate-cafe-guide-japan/featured.jpg",
+      "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\animate-cafe-guide-japan\\featured.jpg",
+      "exists": true,
+      "width": 1920,
+      "height": 1280,
+      "file_bytes": 820122,
+      "bpp": 0.33370849609375,
+      "alt": null
+    },
+    "body_findings": [
+      {
+        "kind": "body",
+        "path_ref": "https://japan-pop-now.com/wp-content/uploads/2026/04/blue-lock-cafe-2026.jpg",
+        "resolved": null,
+        "exists": false,
+        "width": null,
+        "height": null,
+        "file_bytes": null,
+        "bpp": null,
+        "alt": "Blue Lock anime collaboration cafe event \u2014 typical Animate Cafe promotional setup in Tokyo and Japan"
+      },
+      {
+        "kind": "body",
+        "path_ref": "https://japan-pop-now.com/wp-content/uploads/2026/04/spy-family-animate-fair-2026.jpeg",
+        "resolved": null,
+        "exists": false,
+        "width": null,
+        "height": null,
+        "file_bytes": null,
+        "bpp": null,
+        "alt": "Interior of a themed anime cafe in Tokyo with character-decorated walls and themed food displays"
+      },
+      {
+        "kind": "body",
+        "path_ref": "https://japan-pop-now.com/wp-content/uploads/2026/04/conan-cafe-2026-key-visual.jpg",
+        "resolved": null,
+        "exists": false,
+        "width": null,
+        "height": null,
+        "file_bytes": null,
+        "bpp": null,
+        "alt": "Japanese themed cafe interior with warm lighting \u2014 similar to the atmosphere inside Animate Cafe collaboration events"
+      },
+      {
+        "kind": "body",
+        "path_ref": "https://japan-pop-now.com/wp-content/uploads/2026/04/conan-cafe-food-menu-02.jpg",
+        "resolved": null,
+        "exists": false,
+        "width": null,
+        "height": null,
+        "file_bytes": null,
+        "bpp": null,
+        "alt": "Colorful themed drinks and desserts at a Japanese anime collaboration cafe with character latte art"
+      },
+      {
+        "kind": "body",
+        "path_ref": "https://japan-pop-now.com/wp-content/uploads/2026/04/haikyu-popup-store-2026.jpeg",
+        "resolved": null,
+        "exists": false,
+        "width": null,
+        "height": null,
+        "file_bytes": null,
+        "bpp": null,
+        "alt": "Busy shopping street in Ikebukuro Tokyo near Animate headquarters and Sunshine City"
+      }
+    ],
+    "body_image_count": 5,
+    "body_density_per_1k": 2.19,
+    "fatals": [],
+    "warns": [
+      "HERO_DIMS_OFF: 1920x1280 (target 1200x720)",
+      "BODY_REMOTE_IMG: https://japan-pop-now.com/wp-content/uploads/2026/04/blue-lock-cafe-2026.jpg",
+      "BODY_REMOTE_IMG: https://japan-pop-now.com/wp-content/uploads/2026/04/spy-family-animate-fair-2026.jpeg",
+      "BODY_REMOTE_IMG: https://japan-pop-now.com/wp-content/uploads/2026/04/conan-cafe-2026-key-visual.jpg",
+      "BODY_REMOTE_IMG: https://japan-pop-now.com/wp-content/uploads/2026/04/conan-cafe-food-menu-02.jpg",
+      "BODY_REMOTE_IMG: https://japan-pop-now.com/wp-content/uploads/2026/04/haikyu-popup-store-2026.jpeg"
+    ],
+    "priority": "P2"
+  },
+  {
+    "slug": "anime-day-trips-from-tokyo-2026",
+    "file": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\content\\articles\\anime-day-trips-from-tokyo-2026.md",
+    "title": "7 Anime Day Trips from Tokyo: Pilgrimage Guide with JR Pass Tips",
+    "word_count": 2221,
+    "hero_ref": "/images/articles/anime-day-trips-from-tokyo-2026/featured.jpg",
+    "hero": {
+      "kind": "hero",
+      "path_ref": "/images/articles/anime-day-trips-from-tokyo-2026/featured.jpg",
+      "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\anime-day-trips-from-tokyo-2026\\featured.jpg",
+      "exists": true,
+      "width": 2064,
+      "height": 1300,
+      "file_bytes": 245022,
+      "bpp": 0.09131708407871199,
+      "alt": null
+    },
+    "body_findings": [
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/anime-day-trips-from-tokyo-2026/1.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\anime-day-trips-from-tokyo-2026\\1.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 383043,
+        "bpp": 0.2660020833333333,
+        "alt": "Which Anime Day Trips from Tokyo Are Worth It? \u2014 7 Anime Day Trips from Tokyo"
+      }
+    ],
+    "body_image_count": 1,
+    "body_density_per_1k": 0.45,
+    "fatals": [],
+    "warns": [
+      "HERO_DIMS_OFF: 2064x1300 (target 1200x720)",
+      "BODY_DENSITY_LOW: 0.45/1k words (target >= 1.0)"
+    ],
+    "priority": "P2"
+  },
+  {
+    "slug": "anime-hotels-tokyo-2026",
+    "file": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\content\\articles\\anime-hotels-tokyo-2026.md",
+    "title": "Best Anime Hotels Tokyo 2026: Manga Rooms from \u00a53,000/Night",
+    "word_count": 2844,
+    "hero_ref": "/images/articles/anime-hotels-tokyo-2026/featured.jpg",
+    "hero": {
+      "kind": "hero",
+      "path_ref": "/images/articles/anime-hotels-tokyo-2026/featured.jpg",
+      "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\anime-hotels-tokyo-2026\\featured.jpg",
+      "exists": true,
+      "width": 1920,
+      "height": 1280,
+      "file_bytes": 204023,
+      "bpp": 0.08301717122395834,
+      "alt": null
+    },
+    "body_findings": [
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/anime-hotels-tokyo-2026/1.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\anime-hotels-tokyo-2026\\1.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 78524,
+        "bpp": 0.054530555555555554,
+        "alt": "Quick Comparison Table \u2014 Best Anime Hotels Tokyo 2026"
+      }
+    ],
+    "body_image_count": 1,
+    "body_density_per_1k": 0.35,
+    "fatals": [],
+    "warns": [
+      "HERO_DIMS_OFF: 1920x1280 (target 1200x720)",
+      "BODY_LOW_BPP: /images/articles/anime-hotels-tokyo-2026/1.jpg bpp=0.055",
+      "BODY_DENSITY_LOW: 0.35/1k words (target >= 1.0)"
+    ],
+    "priority": "P2"
+  },
+  {
+    "slug": "anime-merch-shopping-guide-japan",
+    "file": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\content\\articles\\anime-merch-shopping-guide-japan.md",
+    "title": "Anime Merch Shopping Japan 2026: 15 Best Shops & Price Guide [Budget Tips]",
+    "word_count": 3215,
+    "hero_ref": "/images/articles/anime-merch-shopping-guide-japan/featured.jpg",
+    "hero": {
+      "kind": "hero",
+      "path_ref": "/images/articles/anime-merch-shopping-guide-japan/featured.jpg",
+      "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\anime-merch-shopping-guide-japan\\featured.jpg",
+      "exists": true,
+      "width": 1920,
+      "height": 1440,
+      "file_bytes": 1089029,
+      "bpp": 0.39389069733796295,
+      "alt": null
+    },
+    "body_findings": [
+      {
+        "kind": "body",
+        "path_ref": "https://japan-pop-now.com/wp-content/uploads/2026/04/chainsaw-man-merch-2026.jpg",
+        "resolved": null,
+        "exists": false,
+        "width": null,
+        "height": null,
+        "file_bytes": null,
+        "bpp": null,
+        "alt": "Anime merchandise and figures displayed at a Tokyo shop for tourists"
+      },
+      {
+        "kind": "body",
+        "path_ref": "https://japan-pop-now.com/wp-content/uploads/2026/04/anime-goods-store-shelves.jpg",
+        "resolved": null,
+        "exists": false,
+        "width": null,
+        "height": null,
+        "file_bytes": null,
+        "bpp": null,
+        "alt": "Rows of anime goods at a Japanese store"
+      }
+    ],
+    "body_image_count": 2,
+    "body_density_per_1k": 0.62,
+    "fatals": [],
+    "warns": [
+      "HERO_DIMS_OFF: 1920x1440 (target 1200x720)",
+      "BODY_REMOTE_IMG: https://japan-pop-now.com/wp-content/uploads/2026/04/chainsaw-man-merch-2026.jpg",
+      "BODY_REMOTE_IMG: https://japan-pop-now.com/wp-content/uploads/2026/04/anime-goods-store-shelves.jpg",
+      "BODY_DENSITY_LOW: 0.62/1k words (target >= 1.0)"
+    ],
+    "priority": "P2"
+  },
+  {
+    "slug": "anime-pilgrimage-spots-tokyo",
+    "file": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\content\\articles\\anime-pilgrimage-spots-tokyo.md",
+    "title": "10 Anime Pilgrimage Spots in Tokyo You Can Visit Today",
+    "word_count": 2376,
+    "hero_ref": "/images/articles/anime-pilgrimage-spots-tokyo/featured.jpg",
+    "hero": {
+      "kind": "hero",
+      "path_ref": "/images/articles/anime-pilgrimage-spots-tokyo/featured.jpg",
+      "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\anime-pilgrimage-spots-tokyo\\featured.jpg",
+      "exists": true,
+      "width": 1200,
+      "height": 525,
+      "file_bytes": 91930,
+      "bpp": 0.14592063492063492,
+      "alt": null
+    },
+    "body_findings": [
+      {
+        "kind": "body",
+        "path_ref": "https://japan-pop-now.com/wp-content/uploads/2026/04/jjk-sweets-paradise-cafe-2026.jpg",
+        "resolved": null,
+        "exists": false,
+        "width": null,
+        "height": null,
+        "file_bytes": null,
+        "bpp": null,
+        "alt": "Jujutsu Kaisen collaboration cafe in Tokyo \u2014 themed sweets and character-inspired menu \u2014 where fans recreate Your Name"
+      }
+    ],
+    "body_image_count": 1,
+    "body_density_per_1k": 0.42,
+    "fatals": [],
+    "warns": [
+      "HERO_DIMS_OFF: 1200x525 (target 1200x720)",
+      "BODY_REMOTE_IMG: https://japan-pop-now.com/wp-content/uploads/2026/04/jjk-sweets-paradise-cafe-2026.jpg",
+      "BODY_DENSITY_LOW: 0.42/1k words (target >= 1.0)"
+    ],
+    "priority": "P2"
+  },
+  {
+    "slug": "animejapan-2026-guide-international-visitors",
+    "file": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\content\\articles\\animejapan-2026-guide-international-visitors.md",
+    "title": "AnimeJapan 2026 Guide for International Visitors: Tickets, Access, Family Anime Festa & What to Do Nearby",
+    "word_count": 1391,
+    "hero_ref": "/images/articles/animejapan-2026-guide-international-visitors/featured.jpg",
+    "hero": {
+      "kind": "hero",
+      "path_ref": "/images/articles/animejapan-2026-guide-international-visitors/featured.jpg",
+      "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\animejapan-2026-guide-international-visitors\\featured.jpg",
+      "exists": true,
+      "width": 1920,
+      "height": 1440,
+      "file_bytes": 1072333,
+      "bpp": 0.3878519241898148,
+      "alt": null
+    },
+    "body_findings": [
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/animejapan-2026-guide-international-visitors/1.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\animejapan-2026-guide-international-visitors\\1.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 241368,
+        "bpp": 0.16761666666666666,
+        "alt": "Why AnimeJapan 2026 matters for overseas visitors \u2014 AnimeJapan 2026 Guide for International Visitors"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/animejapan-2026-guide-international-visitors/2.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\animejapan-2026-guide-international-visitors\\2.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 346954,
+        "bpp": 0.24094027777777777,
+        "alt": "How to get to AnimeJapan 2026 \u2014 AnimeJapan 2026 Guide for International Visitors"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/animejapan-2026-guide-international-visitors/3.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\animejapan-2026-guide-international-visitors\\3.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 193598,
+        "bpp": 0.13444305555555555,
+        "alt": "What to do near AnimeJapan 2026 \u2014 AnimeJapan 2026 Guide for International Visitors"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/animejapan-2026-guide-international-visitors/4.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\animejapan-2026-guide-international-visitors\\4.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 247848,
+        "bpp": 0.17211666666666667,
+        "alt": "Where to go next on Japan Pop Now \u2014 AnimeJapan 2026 Guide for International Visitors"
+      }
+    ],
+    "body_image_count": 4,
+    "body_density_per_1k": 2.88,
+    "fatals": [],
+    "warns": [
+      "HERO_DIMS_OFF: 1920x1440 (target 1200x720)"
+    ],
+    "priority": "P2"
+  },
+  {
+    "slug": "animejapan-comiket-2026-guide",
+    "file": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\content\\articles\\animejapan-comiket-2026-guide.md",
+    "title": "AnimeJapan & Comiket 2026: Foreigner\u2019s Survival Guide",
+    "word_count": 1048,
+    "hero_ref": "/images/articles/animejapan-comiket-2026-guide/featured.jpg",
+    "hero": {
+      "kind": "hero",
+      "path_ref": "/images/articles/animejapan-comiket-2026-guide/featured.jpg",
+      "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\animejapan-comiket-2026-guide\\featured.jpg",
+      "exists": true,
+      "width": 1920,
+      "height": 1440,
+      "file_bytes": 871305,
+      "bpp": 0.31514214409722224,
+      "alt": null
+    },
+    "body_findings": [
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/animejapan-comiket-2026-guide/1.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\animejapan-comiket-2026-guide\\1.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 270967,
+        "bpp": 0.18817152777777776,
+        "alt": "AnimeJapan: The Official Convention for Industry & Fans \u2014 AnimeJapan & Comiket 2026"
+      }
+    ],
+    "body_image_count": 1,
+    "body_density_per_1k": 0.95,
+    "fatals": [],
+    "warns": [
+      "HERO_DIMS_OFF: 1920x1440 (target 1200x720)",
+      "BODY_DENSITY_LOW: 0.95/1k words (target >= 1.0)"
+    ],
+    "priority": "P2"
+  },
+  {
+    "slug": "apothecary-diaries-oshi-tabi-osaka-shinkansen-2026",
+    "file": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\content\\articles\\apothecary-diaries-oshi-tabi-osaka-shinkansen-2026.mdx",
+    "title": "Apothecary Diaries Shinkansen Trip 2026: Osaka Oshi-Tabi Guide",
+    "word_count": 2594,
+    "hero_ref": "/images/articles/apothecary-diaries-oshi-tabi-osaka-shinkansen-2026/hero.webp",
+    "hero": {
+      "kind": "hero",
+      "path_ref": "/images/articles/apothecary-diaries-oshi-tabi-osaka-shinkansen-2026/hero.webp",
+      "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\apothecary-diaries-oshi-tabi-osaka-shinkansen-2026\\hero.webp",
+      "exists": false,
+      "width": null,
+      "height": null,
+      "file_bytes": null,
+      "bpp": null,
+      "alt": null
+    },
+    "body_findings": [
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/apothecary-diaries-oshi-tabi-osaka-shinkansen-2026/hero.webp",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\apothecary-diaries-oshi-tabi-osaka-shinkansen-2026\\hero.webp",
+        "exists": false,
+        "width": null,
+        "height": null,
+        "file_bytes": null,
+        "bpp": null,
+        "alt": "A Tokaido Shinkansen N700S pulling into Shin-Osaka Station with Apothecary Diaries poster visible on the platform wall, afternoon light"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/apothecary-diaries-oshi-tabi-osaka-shinkansen-2026/doshomachi-sukunahikona.webp",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\apothecary-diaries-oshi-tabi-osaka-shinkansen-2026\\doshomachi-sukunahikona.webp",
+        "exists": false,
+        "width": null,
+        "height": null,
+        "file_bytes": null,
+        "bpp": null,
+        "alt": "Osaka's Doshomachi pharmacy district street view near Sukunahikona Shrine, with herb apothecary signage"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/apothecary-diaries-oshi-tabi-osaka-shinkansen-2026/animate-umeda.webp",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\apothecary-diaries-oshi-tabi-osaka-shinkansen-2026\\animate-umeda.webp",
+        "exists": false,
+        "width": null,
+        "height": null,
+        "file_bytes": null,
+        "bpp": null,
+        "alt": "Animate Umeda storefront in Chayamachi with Apothecary Diaries campaign poster in the window"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/apothecary-diaries-oshi-tabi-osaka-shinkansen-2026/box-cafe-interior.webp",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\apothecary-diaries-oshi-tabi-osaka-shinkansen-2026\\box-cafe-interior.webp",
+        "exists": false,
+        "width": null,
+        "height": null,
+        "file_bytes": null,
+        "bpp": null,
+        "alt": "BOX cafe & space interior during a previous anime collaboration, showing themed menu cards and branded coasters on wood tables"
+      }
+    ],
+    "body_image_count": 4,
+    "body_density_per_1k": 1.54,
+    "fatals": [
+      "HERO_FILE_MISSING: C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\apothecary-diaries-oshi-tabi-osaka-shinkansen-2026\\hero.webp",
+      "BODY_BROKEN_IMG: /images/articles/apothecary-diaries-oshi-tabi-osaka-shinkansen-2026/hero.webp (resolved to C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\apothecary-diaries-oshi-tabi-osaka-shinkansen-2026\\hero.webp)",
+      "BODY_BROKEN_IMG: /images/articles/apothecary-diaries-oshi-tabi-osaka-shinkansen-2026/doshomachi-sukunahikona.webp (resolved to C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\apothecary-diaries-oshi-tabi-osaka-shinkansen-2026\\doshomachi-sukunahikona.webp)",
+      "BODY_BROKEN_IMG: /images/articles/apothecary-diaries-oshi-tabi-osaka-shinkansen-2026/animate-umeda.webp (resolved to C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\apothecary-diaries-oshi-tabi-osaka-shinkansen-2026\\animate-umeda.webp)",
+      "BODY_BROKEN_IMG: /images/articles/apothecary-diaries-oshi-tabi-osaka-shinkansen-2026/box-cafe-interior.webp (resolved to C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\apothecary-diaries-oshi-tabi-osaka-shinkansen-2026\\box-cafe-interior.webp)"
+    ],
+    "warns": [],
+    "priority": "P1"
+  },
+  {
+    "slug": "best-anime-tours-tokyo-2026",
+    "file": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\content\\articles\\best-anime-tours-tokyo-2026.md",
+    "title": "Best Anime Tours in Tokyo 2026: Klook vs Viator vs Local Guides Compared",
+    "word_count": 4495,
+    "hero_ref": "/images/articles/best-anime-tours-tokyo-2026/featured.jpg",
+    "hero": {
+      "kind": "hero",
+      "path_ref": "/images/articles/best-anime-tours-tokyo-2026/featured.jpg",
+      "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\best-anime-tours-tokyo-2026\\featured.jpg",
+      "exists": true,
+      "width": 1920,
+      "height": 1280,
+      "file_bytes": 548254,
+      "bpp": 0.22308512369791667,
+      "alt": null
+    },
+    "body_findings": [
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/best-anime-tours-tokyo-2026/body3.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\best-anime-tours-tokyo-2026\\body3.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 2400,
+        "file_bytes": 1244677,
+        "bpp": 0.32413463541666665,
+        "alt": "Small tour group walking through Akihabara Electric Town at dusk"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/best-anime-tours-tokyo-2026/body4.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\best-anime-tours-tokyo-2026\\body4.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 1067,
+        "file_bytes": 233034,
+        "bpp": 0.13650070290534208,
+        "alt": "Tour guide pointing out a pilgrimage location to visitors in Tokyo"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/best-anime-tours-tokyo-2026/body5.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\best-anime-tours-tokyo-2026\\body5.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 1041,
+        "file_bytes": 271477,
+        "bpp": 0.1629905139289145,
+        "alt": "Hands-on cosplay or manga workshop in a Tokyo studio with instructor and participants"
+      }
+    ],
+    "body_image_count": 3,
+    "body_density_per_1k": 0.67,
+    "fatals": [],
+    "warns": [
+      "HERO_DIMS_OFF: 1920x1280 (target 1200x720)",
+      "BODY_DENSITY_LOW: 0.67/1k words (target >= 1.0)"
+    ],
+    "priority": "P2"
+  },
+  {
+    "slug": "blue-lock-tokyo-skytree-cafe-2026",
+    "file": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\content\\articles\\blue-lock-tokyo-skytree-cafe-2026.md",
+    "title": "Blue Lock Tokyo 2026: Skytree, Cafe & Exhibition Guide",
+    "word_count": 2381,
+    "hero_ref": "/images/articles/blue-lock-tokyo-skytree-cafe-2026/featured.jpg",
+    "hero": {
+      "kind": "hero",
+      "path_ref": "/images/articles/blue-lock-tokyo-skytree-cafe-2026/featured.jpg",
+      "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\blue-lock-tokyo-skytree-cafe-2026\\featured.jpg",
+      "exists": true,
+      "width": 3900,
+      "height": 1121,
+      "file_bytes": 550481,
+      "bpp": 0.12591344724261763,
+      "alt": null
+    },
+    "body_findings": [
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/blue-lock-tokyo-skytree-cafe-2026/featured.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\blue-lock-tokyo-skytree-cafe-2026\\featured.jpg",
+        "exists": true,
+        "width": 3900,
+        "height": 1121,
+        "file_bytes": 550481,
+        "bpp": 0.12591344724261763,
+        "alt": "Official BLUE LOCK EPISODE SKY promotional key visual for the Tokyo Skytree collaboration event"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/blue-lock-tokyo-skytree-cafe-2026/body-1.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\blue-lock-tokyo-skytree-cafe-2026\\body-1.jpg",
+        "exists": true,
+        "width": 1920,
+        "height": 1440,
+        "file_bytes": 704060,
+        "bpp": 0.2546513310185185,
+        "alt": "Official BLUE LOCK EGOIST Exhibition key visual for the Shibuya finale"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/blue-lock-tokyo-skytree-cafe-2026/body-2.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\blue-lock-tokyo-skytree-cafe-2026\\body-2.jpg",
+        "exists": true,
+        "width": 1200,
+        "height": 675,
+        "file_bytes": 478922,
+        "bpp": 0.5912617283950617,
+        "alt": "Official Blue Lock x Collabo Cafe Honpo Honey Lemon Cafe promotional image"
+      }
+    ],
+    "body_image_count": 3,
+    "body_density_per_1k": 1.26,
+    "fatals": [
+      "HERO_PANORAMIC: aspect 3.48 exceeds 3:1"
+    ],
+    "warns": [],
+    "priority": "P1"
+  },
+  {
+    "slug": "blue-lock-tokyo-skytree-cafe-2026.mdx",
+    "file": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\content\\articles\\blue-lock-tokyo-skytree-cafe-2026.mdx.deprecated",
+    "title": "Blue Lock Tokyo 2026: Skytree, Cafe & Exhibition Guide",
+    "word_count": 2110,
+    "hero_ref": "/images/articles/blue-lock-tokyo-skytree-cafe-2026/featured.jpg",
+    "hero": {
+      "kind": "hero",
+      "path_ref": "/images/articles/blue-lock-tokyo-skytree-cafe-2026/featured.jpg",
+      "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\blue-lock-tokyo-skytree-cafe-2026\\featured.jpg",
+      "exists": true,
+      "width": 3900,
+      "height": 1121,
+      "file_bytes": 550481,
+      "bpp": 0.12591344724261763,
+      "alt": null
+    },
+    "body_findings": [
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/blue-lock-tokyo-skytree-cafe-2026/featured.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\blue-lock-tokyo-skytree-cafe-2026\\featured.jpg",
+        "exists": true,
+        "width": 3900,
+        "height": 1121,
+        "file_bytes": 550481,
+        "bpp": 0.12591344724261763,
+        "alt": "Official key visual for BLUE LOCK EPISODE SKY collaboration at Tokyo Skytree"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/blue-lock-tokyo-skytree-cafe-2026/body-1.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\blue-lock-tokyo-skytree-cafe-2026\\body-1.jpg",
+        "exists": true,
+        "width": 1920,
+        "height": 1440,
+        "file_bytes": 704060,
+        "bpp": 0.2546513310185185,
+        "alt": "Official key visual for Blue Lock EGOIST Exhibition -Extra Time- in Shibuya"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/blue-lock-tokyo-skytree-cafe-2026/body-2.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\blue-lock-tokyo-skytree-cafe-2026\\body-2.jpg",
+        "exists": true,
+        "width": 1200,
+        "height": 675,
+        "file_bytes": 478922,
+        "bpp": 0.5912617283950617,
+        "alt": "Official key visual for Blue Lock x Collabo Cafe Honpo Honey Lemon Cafe in Akihabara"
+      }
+    ],
+    "body_image_count": 3,
+    "body_density_per_1k": 1.42,
+    "fatals": [
+      "HERO_PANORAMIC: aspect 3.48 exceeds 3:1"
+    ],
+    "warns": [],
+    "priority": "P1"
+  },
+  {
+    "slug": "book-japan-anime-events-overseas-2026",
+    "file": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\content\\articles\\book-japan-anime-events-overseas-2026.md",
+    "title": "How to Book Japan Anime Events from Overseas (2026 Guide)",
+    "word_count": 2439,
+    "hero_ref": "/images/articles/book-japan-anime-events-overseas-2026/featured.jpg",
+    "hero": {
+      "kind": "hero",
+      "path_ref": "/images/articles/book-japan-anime-events-overseas-2026/featured.jpg",
+      "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\book-japan-anime-events-overseas-2026\\featured.jpg",
+      "exists": true,
+      "width": 1920,
+      "height": 1283,
+      "file_bytes": 395922,
+      "bpp": 0.16072437646141854,
+      "alt": null
+    },
+    "body_findings": [],
+    "body_image_count": 0,
+    "body_density_per_1k": 0.0,
+    "fatals": [
+      "BODY_NO_IMAGES: article has 2439 words but zero body images"
+    ],
+    "warns": [
+      "HERO_DIMS_OFF: 1920x1283 (target 1200x720)"
+    ],
+    "priority": "P1"
+  },
+  {
+    "slug": "chainsaw-man-pilgrimage-tokyo",
+    "file": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\content\\articles\\chainsaw-man-pilgrimage-tokyo.md",
+    "title": "Chainsaw Man Tokyo Pilgrimage Guide 2026: Every Reze Arc Location in Jinbocho",
+    "word_count": 2521,
+    "hero_ref": "/images/articles/chainsaw-man-pilgrimage-tokyo/featured.jpg",
+    "hero": {
+      "kind": "hero",
+      "path_ref": "/images/articles/chainsaw-man-pilgrimage-tokyo/featured.jpg",
+      "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\chainsaw-man-pilgrimage-tokyo\\featured.jpg",
+      "exists": true,
+      "width": 1920,
+      "height": 1440,
+      "file_bytes": 664164,
+      "bpp": 0.24022135416666668,
+      "alt": null
+    },
+    "body_findings": [
+      {
+        "kind": "body",
+        "path_ref": "https://japan-pop-now.com/wp-content/uploads/2026/04/chainsaw-man-merch-2026.jpg",
+        "resolved": null,
+        "exists": false,
+        "width": null,
+        "height": null,
+        "file_bytes": null,
+        "bpp": null,
+        "alt": "Chainsaw Man merchandise and promotional goods in Tokyo \u2014 collectibles for fans visiting pilgrimage locations"
+      }
+    ],
+    "body_image_count": 1,
+    "body_density_per_1k": 0.4,
+    "fatals": [],
+    "warns": [
+      "HERO_DIMS_OFF: 1920x1440 (target 1200x720)",
+      "BODY_REMOTE_IMG: https://japan-pop-now.com/wp-content/uploads/2026/04/chainsaw-man-merch-2026.jpg",
+      "BODY_DENSITY_LOW: 0.4/1k words (target >= 1.0)"
+    ],
+    "priority": "P2"
+  },
+  {
+    "slug": "chiikawa-bakery-harajuku-guide-2026",
+    "file": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\content\\articles\\chiikawa-bakery-harajuku-guide-2026.md",
+    "title": "Chiikawa Bakery Harajuku 2026: Real Visitor Guide",
+    "word_count": 2379,
+    "hero_ref": "/images/articles/chiikawa-bakery-harajuku-guide-2026/featured.jpg",
+    "hero": {
+      "kind": "hero",
+      "path_ref": "/images/articles/chiikawa-bakery-harajuku-guide-2026/featured.jpg",
+      "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\chiikawa-bakery-harajuku-guide-2026\\featured.jpg",
+      "exists": true,
+      "width": 1200,
+      "height": 900,
+      "file_bytes": 157713,
+      "bpp": 0.14603055555555555,
+      "alt": null
+    },
+    "body_findings": [
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/chiikawa-bakery-harajuku-guide-2026/featured.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\chiikawa-bakery-harajuku-guide-2026\\featured.jpg",
+        "exists": true,
+        "width": 1200,
+        "height": 900,
+        "file_bytes": 157713,
+        "bpp": 0.14603055555555555,
+        "alt": "Inside Chiikawa Bakery Harajuku showing the main counter with character-shaped breads, a large Chiikawa plush figure, and visitors browsing the display"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/chiikawa-bakery-harajuku-guide-2026/07.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\chiikawa-bakery-harajuku-guide-2026\\07.jpg",
+        "exists": true,
+        "width": 1200,
+        "height": 900,
+        "file_bytes": 234660,
+        "bpp": 0.21727777777777776,
+        "alt": "Chiikawa Bakery entrance with the brown tile logo wall and \"\u5165\u53e3\" sign at Tokyu Plaza Omotesando 3F in Harajuku"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/chiikawa-bakery-harajuku-guide-2026/queue-entry.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\chiikawa-bakery-harajuku-guide-2026\\queue-entry.jpg",
+        "exists": true,
+        "width": 1200,
+        "height": 1500,
+        "file_bytes": 317075,
+        "bpp": 0.17615277777777777,
+        "alt": "Visitors lining up at the Chiikawa Bakery entrance queue inside Tokyu Plaza Omotesando Harajuku"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/chiikawa-bakery-harajuku-guide-2026/04.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\chiikawa-bakery-harajuku-guide-2026\\04.jpg",
+        "exists": true,
+        "width": 1200,
+        "height": 900,
+        "file_bytes": 190457,
+        "bpp": 0.17634907407407407,
+        "alt": "Chiikawa Bakery menu board showing character breads, drinks, and prices with a Chiikawa plush figure on top"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/chiikawa-bakery-harajuku-guide-2026/05.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\chiikawa-bakery-harajuku-guide-2026\\05.jpg",
+        "exists": true,
+        "width": 1200,
+        "height": 900,
+        "file_bytes": 203679,
+        "bpp": 0.18859166666666666,
+        "alt": "Character-shaped breads displayed inside a brick-oven-style showcase with Chiikawa, Hachiware, and Usagi figure decorations at Chiikawa Bakery Harajuku"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/chiikawa-bakery-harajuku-guide-2026/moe-body.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\chiikawa-bakery-harajuku-guide-2026\\moe-body.jpg",
+        "exists": true,
+        "width": 1200,
+        "height": 1600,
+        "file_bytes": 292233,
+        "bpp": 0.1522046875,
+        "alt": "Moe from Japan Pop Now holding a matcha cupcake next to a large Chiikawa character figure at the Ro Ramen bread counter inside the bakery"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/chiikawa-bakery-harajuku-guide-2026/06.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\chiikawa-bakery-harajuku-guide-2026\\06.jpg",
+        "exists": true,
+        "width": 1200,
+        "height": 900,
+        "file_bytes": 213465,
+        "bpp": 0.1976527777777778,
+        "alt": "Chiikawa Bakery merchandise area showing packaged rusks, coffee beans, and character accessories on wooden display shelves"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/chiikawa-bakery-harajuku-guide-2026/02.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\chiikawa-bakery-harajuku-guide-2026\\02.jpg",
+        "exists": true,
+        "width": 1200,
+        "height": 900,
+        "file_bytes": 166143,
+        "bpp": 0.15383611111111112,
+        "alt": "Chiikawa Bakery iced caf\u00e9 latte in a branded logo cup photographed on an outdoor bench near Tokyu Plaza Omotesando"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/chiikawa-bakery-harajuku-guide-2026/01.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\chiikawa-bakery-harajuku-guide-2026\\01.jpg",
+        "exists": true,
+        "width": 1200,
+        "height": 900,
+        "file_bytes": 204487,
+        "bpp": 0.18933981481481482,
+        "alt": "Giant Usagi and Hachiware character plush figures sitting in oversized woven baskets hanging from the ceiling of Chiikawa Bakery Harajuku"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/chiikawa-bakery-harajuku-guide-2026/03.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\chiikawa-bakery-harajuku-guide-2026\\03.jpg",
+        "exists": true,
+        "width": 1200,
+        "height": 900,
+        "file_bytes": 125170,
+        "bpp": 0.11589814814814815,
+        "alt": "Two Chiikawa Bakery drinks \u2014 iced tea and iced caf\u00e9 latte \u2014 held up at the ordering counter showing the branded cups and character coasters"
+      }
+    ],
+    "body_image_count": 10,
+    "body_density_per_1k": 4.2,
+    "fatals": [],
+    "warns": [
+      "HERO_DIMS_OFF: 1200x900 (target 1200x720)"
+    ],
+    "priority": "P2"
+  },
+  {
+    "slug": "cosplay-experience-tokyo-2026",
+    "file": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\content\\articles\\cosplay-experience-tokyo-2026.md",
+    "title": "Cosplay Experience Tokyo 2026: Rental Studios, Photo Spots & Events",
+    "word_count": 1778,
+    "hero_ref": "/images/articles/cosplay-experience-tokyo-2026/featured.jpg",
+    "hero": {
+      "kind": "hero",
+      "path_ref": "/images/articles/cosplay-experience-tokyo-2026/featured.jpg",
+      "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\cosplay-experience-tokyo-2026\\featured.jpg",
+      "exists": true,
+      "width": 1920,
+      "height": 1280,
+      "file_bytes": 493033,
+      "bpp": 0.20061564127604167,
+      "alt": null
+    },
+    "body_findings": [
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/cosplay-experience-tokyo-2026/3.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\cosplay-experience-tokyo-2026\\3.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 320053,
+        "bpp": 0.22225902777777778,
+        "alt": "Where Can You Wear Cosplay in Public in Tokyo? \u2014 Cosplay Experience Tokyo 2026"
+      }
+    ],
+    "body_image_count": 1,
+    "body_density_per_1k": 0.56,
+    "fatals": [],
+    "warns": [
+      "HERO_DIMS_OFF: 1920x1280 (target 1200x720)",
+      "BODY_DENSITY_LOW: 0.56/1k words (target >= 1.0)"
+    ],
+    "priority": "P2"
+  },
+  {
+    "slug": "demon-slayer-pilgrimage-tokyo",
+    "file": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\content\\articles\\demon-slayer-pilgrimage-tokyo.md",
+    "title": "Demon Slayer Pilgrimage Tokyo \u2014 Every Real Location from Kimetsu no Yaiba You Can Visit (2026)",
+    "word_count": 2005,
+    "hero_ref": "/images/articles/demon-slayer-pilgrimage-tokyo/featured.jpg",
+    "hero": {
+      "kind": "hero",
+      "path_ref": "/images/articles/demon-slayer-pilgrimage-tokyo/featured.jpg",
+      "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\demon-slayer-pilgrimage-tokyo\\featured.jpg",
+      "exists": true,
+      "width": 1920,
+      "height": 1280,
+      "file_bytes": 830792,
+      "bpp": 0.33805013020833335,
+      "alt": null
+    },
+    "body_findings": [
+      {
+        "kind": "body",
+        "path_ref": "https://japan-pop-now.com/wp-content/uploads/2026/04/demon-slayer-capsule-merch-2026.jpg",
+        "resolved": null,
+        "exists": false,
+        "width": null,
+        "height": null,
+        "file_bytes": null,
+        "bpp": null,
+        "alt": "Demon Slayer themed capsule toys and merchandise available across Tokyo \u2014 collectibles for fans visiting pilgrimage spots"
+      }
+    ],
+    "body_image_count": 1,
+    "body_density_per_1k": 0.5,
+    "fatals": [],
+    "warns": [
+      "HERO_DIMS_OFF: 1920x1280 (target 1200x720)",
+      "BODY_REMOTE_IMG: https://japan-pop-now.com/wp-content/uploads/2026/04/demon-slayer-capsule-merch-2026.jpg",
+      "BODY_DENSITY_LOW: 0.5/1k words (target >= 1.0)"
+    ],
+    "priority": "P2"
+  },
+  {
+    "slug": "demon-slayer-rerun-cafe-ufotable-2026",
+    "file": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\content\\articles\\demon-slayer-rerun-cafe-ufotable-2026.mdx",
+    "title": "Demon Slayer Rerun Cafe ufotable 2026: Menu & Booking",
+    "word_count": 2509,
+    "hero_ref": "/images/articles/demon-slayer-rerun-cafe-ufotable-2026/featured.jpg",
+    "hero": {
+      "kind": "hero",
+      "path_ref": "/images/articles/demon-slayer-rerun-cafe-ufotable-2026/featured.jpg",
+      "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\demon-slayer-rerun-cafe-ufotable-2026\\featured.jpg",
+      "exists": true,
+      "width": 1200,
+      "height": 720,
+      "file_bytes": 428799,
+      "bpp": 0.4962951388888889,
+      "alt": null
+    },
+    "body_findings": [
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/demon-slayer-rerun-cafe-ufotable-2026/featured.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\demon-slayer-rerun-cafe-ufotable-2026\\featured.jpg",
+        "exists": true,
+        "width": 1200,
+        "height": 720,
+        "file_bytes": 428799,
+        "bpp": 0.4962951388888889,
+        "alt": "ufotable Cafe Demon Slayer Rerun Commemoration collaboration cafe exterior"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/demon-slayer-rerun-cafe-ufotable-2026/body-1.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\demon-slayer-rerun-cafe-ufotable-2026\\body-1.jpg",
+        "exists": true,
+        "width": 800,
+        "height": 500,
+        "file_bytes": 216509,
+        "bpp": 0.5412725,
+        "alt": "Demon Slayer collaboration food menu items at ufotable Cafe"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/demon-slayer-rerun-cafe-ufotable-2026/body-2.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\demon-slayer-rerun-cafe-ufotable-2026\\body-2.jpg",
+        "exists": true,
+        "width": 800,
+        "height": 500,
+        "file_bytes": 229466,
+        "bpp": 0.573665,
+        "alt": "Reservation flow diagram for ufotable Cafe Demon Slayer collaboration"
+      }
+    ],
+    "body_image_count": 3,
+    "body_density_per_1k": 1.2,
+    "fatals": [],
+    "warns": [],
+    "priority": "OK"
+  },
+  {
+    "slug": "detective-conan-cafe-2026-japan-guide",
+    "file": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\content\\articles\\detective-conan-cafe-2026-japan-guide.md",
+    "title": "Detective Conan Cafe 2026 in Japan: Best Tokyo and Osaka Locations, Dates, Menu & Travel Tips",
+    "word_count": 1531,
+    "hero_ref": "/images/articles/detective-conan-cafe-2026-japan-guide/featured.jpg",
+    "hero": {
+      "kind": "hero",
+      "path_ref": "/images/articles/detective-conan-cafe-2026-japan-guide/featured.jpg",
+      "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\detective-conan-cafe-2026-japan-guide\\featured.jpg",
+      "exists": true,
+      "width": 1920,
+      "height": 1280,
+      "file_bytes": 639456,
+      "bpp": 0.2601953125,
+      "alt": null
+    },
+    "body_findings": [
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/detective-conan-cafe-2026-japan-guide/1.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\detective-conan-cafe-2026-japan-guide\\1.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 276980,
+        "bpp": 0.19234722222222222,
+        "alt": "Why Detective Conan Cafe 2026 is especially useful for international visitors \u2014 Detective Conan Cafe 2026 in Japan"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/detective-conan-cafe-2026-japan-guide/2.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\detective-conan-cafe-2026-japan-guide\\2.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 209687,
+        "bpp": 0.14561597222222222,
+        "alt": "Which Tokyo location is best? \u2014 Detective Conan Cafe 2026 in Japan"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/detective-conan-cafe-2026-japan-guide/3.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\detective-conan-cafe-2026-japan-guide\\3.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 168047,
+        "bpp": 0.11669930555555555,
+        "alt": "What can you expect from the menu and goods? \u2014 Detective Conan Cafe 2026 in Japan"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/detective-conan-cafe-2026-japan-guide/4.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\detective-conan-cafe-2026-japan-guide\\4.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 233947,
+        "bpp": 0.16246319444444443,
+        "alt": "Practical tips before you go \u2014 Detective Conan Cafe 2026 in Japan"
+      }
+    ],
+    "body_image_count": 4,
+    "body_density_per_1k": 2.61,
+    "fatals": [],
+    "warns": [
+      "HERO_DIMS_OFF: 1920x1280 (target 1200x720)"
+    ],
+    "priority": "P2"
+  },
+  {
+    "slug": "detective-conan-pilgrimage-events-2026",
+    "file": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\content\\articles\\detective-conan-pilgrimage-events-2026.md",
+    "title": "Detective Conan Pilgrimage & Events 2026: 30th Anniversary Guide",
+    "word_count": 2263,
+    "hero_ref": "/images/articles/detective-conan-pilgrimage-events-2026/featured.jpg",
+    "hero": {
+      "kind": "hero",
+      "path_ref": "/images/articles/detective-conan-pilgrimage-events-2026/featured.jpg",
+      "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\detective-conan-pilgrimage-events-2026\\featured.jpg",
+      "exists": true,
+      "width": 1920,
+      "height": 1080,
+      "file_bytes": 554455,
+      "bpp": 0.2673876350308642,
+      "alt": null
+    },
+    "body_findings": [
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/detective-conan-pilgrimage-events-2026/1.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\detective-conan-pilgrimage-events-2026\\1.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 269207,
+        "bpp": 0.18694930555555556,
+        "alt": "What Conan Events Are Happening in 2026? \u2014 Detective Conan Pilgrimage & Events 2026"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/detective-conan-pilgrimage-events-2026/6.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\detective-conan-pilgrimage-events-2026\\6.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 317319,
+        "bpp": 0.22036041666666667,
+        "alt": "What About USJ\u2019s Detective Conan World in Osaka? \u2014 Detective Conan Pilgrimage & Events 2026"
+      }
+    ],
+    "body_image_count": 2,
+    "body_density_per_1k": 0.88,
+    "fatals": [],
+    "warns": [
+      "HERO_DIMS_OFF: 1920x1080 (target 1200x720)",
+      "BODY_DENSITY_LOW: 0.88/1k words (target >= 1.0)"
+    ],
+    "priority": "P2"
+  },
+  {
+    "slug": "familymart-anime-collab-stores-2026",
+    "file": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\content\\articles\\familymart-anime-collab-stores-2026.md",
+    "title": "FamilyMart Anime Collab Stores: Japan\u2019s Newest Trend (2026)",
+    "word_count": 956,
+    "hero_ref": "/images/articles/familymart-anime-collab-stores-2026/featured.jpg",
+    "hero": {
+      "kind": "hero",
+      "path_ref": "/images/articles/familymart-anime-collab-stores-2026/featured.jpg",
+      "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\familymart-anime-collab-stores-2026\\featured.jpg",
+      "exists": true,
+      "width": 1280,
+      "height": 960,
+      "file_bytes": 244071,
+      "bpp": 0.19862548828125,
+      "alt": null
+    },
+    "body_findings": [
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/familymart-anime-collab-stores-2026/1.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\familymart-anime-collab-stores-2026\\1.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 180903,
+        "bpp": 0.12562708333333333,
+        "alt": "What Is a FamilyMart Anime Collab Store? \u2014 FamilyMart Anime Collab Stores"
+      }
+    ],
+    "body_image_count": 1,
+    "body_density_per_1k": 1.05,
+    "fatals": [],
+    "warns": [
+      "HERO_DIMS_OFF: 1280x960 (target 1200x720)"
+    ],
+    "priority": "P2"
+  },
+  {
+    "slug": "first-timers-japan-playbook-anime-fans-2026",
+    "file": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\content\\articles\\first-timers-japan-playbook-anime-fans-2026.md",
+    "title": "",
+    "word_count": 2565,
+    "hero_ref": null,
+    "hero": null,
+    "body_findings": [
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/first-timers-japan-playbook-anime-fans-2026/featured.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\first-timers-japan-playbook-anime-fans-2026\\featured.jpg",
+        "exists": true,
+        "width": 1920,
+        "height": 1246,
+        "file_bytes": 820626,
+        "bpp": 0.34302518057784914,
+        "alt": "First-time anime fan arriving in Tokyo with luggage, IC card and eSIM ready"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/first-timers-japan-playbook-anime-fans-2026/body1.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\first-timers-japan-playbook-anime-fans-2026\\body1.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 1233,
+        "file_bytes": 257373,
+        "bpp": 0.13046076642335766,
+        "alt": "Shinkansen bullet train pulling into a Tokyo platform \u2014 the first full Japan Rail experience most anime fans have after landing"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/first-timers-japan-playbook-anime-fans-2026/body2.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\first-timers-japan-playbook-anime-fans-2026\\body2.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 1068,
+        "file_bytes": 409734,
+        "bpp": 0.23977879213483147,
+        "alt": "Japanese yen banknotes and coins fanned out on a konbini counter \u2014 cash is still king at small shrines and old-school shops"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/first-timers-japan-playbook-anime-fans-2026/body3.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\first-timers-japan-playbook-anime-fans-2026\\body3.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 1067,
+        "file_bytes": 481220,
+        "bpp": 0.2818767572633552,
+        "alt": "Quiet Tokyo residential alley at dusk with soft streetlamps \u2014 the slice-of-life aesthetic anime fans recognize instantly"
+      }
+    ],
+    "body_image_count": 4,
+    "body_density_per_1k": 1.56,
+    "fatals": [
+      "HERO_MISSING: no heroImage/featuredImage in frontmatter"
+    ],
+    "warns": [],
+    "priority": "P1"
+  },
+  {
+    "slug": "gachapon-guide-japan",
+    "file": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\content\\articles\\gachapon-guide-japan.md",
+    "title": "Gachapon Guide Japan 2026: Where to Find, How to Use & 7 Best Machines",
+    "word_count": 2334,
+    "hero_ref": "/images/articles/gachapon-guide-japan/featured.jpg",
+    "hero": {
+      "kind": "hero",
+      "path_ref": "/images/articles/gachapon-guide-japan/featured.jpg",
+      "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\gachapon-guide-japan\\featured.jpg",
+      "exists": true,
+      "width": 1280,
+      "height": 720,
+      "file_bytes": 102623,
+      "bpp": 0.11135308159722222,
+      "alt": null
+    },
+    "body_findings": [
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/gachapon-guide-japan/body1.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\gachapon-guide-japan\\body1.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 1071,
+        "file_bytes": 194048,
+        "bpp": 0.11323996265172735,
+        "alt": "Rows of colorful gachapon capsule vending machines lining a Tokyo shop wall"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/gachapon-guide-japan/body2.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\gachapon-guide-japan\\body2.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 1200,
+        "file_bytes": 403837,
+        "bpp": 0.21033177083333332,
+        "alt": "Close-up of someone turning the crank on a gachapon machine to dispense a capsule"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/gachapon-guide-japan/body3.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\gachapon-guide-japan\\body3.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 1067,
+        "file_bytes": 264624,
+        "bpp": 0.15500468603561388,
+        "alt": "Assortment of anime character gachapon capsule figures displayed on a counter"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/gachapon-guide-japan/body4.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\gachapon-guide-japan\\body4.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 1200,
+        "file_bytes": 288974,
+        "bpp": 0.15050729166666665,
+        "alt": "Wide view of Gachapon no Mori shop interior with hundreds of capsule machines"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/gachapon-guide-japan/body5.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\gachapon-guide-japan\\body5.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 2133,
+        "file_bytes": 516182,
+        "bpp": 0.15124882794186592,
+        "alt": "Pile of opened gachapon capsules and their miniature figure contents on a desk"
+      }
+    ],
+    "body_image_count": 5,
+    "body_density_per_1k": 2.14,
+    "fatals": [],
+    "warns": [
+      "HERO_DIMS_OFF: 1280x720 (target 1200x720)"
+    ],
+    "priority": "P2"
+  },
+  {
+    "slug": "game-centers-arcades-japan",
+    "file": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\content\\articles\\game-centers-arcades-japan.md",
+    "title": "The Complete Guide to Japanese Game Centers & Arcades (2026) \u2014 Crane Games, Rhythm Games & More",
+    "word_count": 3021,
+    "hero_ref": "/images/articles/game-centers-arcades-japan/featured.jpg",
+    "hero": {
+      "kind": "hero",
+      "path_ref": "/images/articles/game-centers-arcades-japan/featured.jpg",
+      "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\game-centers-arcades-japan\\featured.jpg",
+      "exists": true,
+      "width": 1920,
+      "height": 1272,
+      "file_bytes": 664727,
+      "bpp": 0.27217922890461216,
+      "alt": null
+    },
+    "body_findings": [],
+    "body_image_count": 0,
+    "body_density_per_1k": 0.0,
+    "fatals": [
+      "BODY_NO_IMAGES: article has 3021 words but zero body images"
+    ],
+    "warns": [
+      "HERO_DIMS_OFF: 1920x1272 (target 1200x720)"
+    ],
+    "priority": "P1"
+  },
+  {
+    "slug": "gaming-tokyo-2026",
+    "file": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\content\\articles\\gaming-tokyo-2026.md",
+    "title": "Gaming Tokyo 2026: Pokemon Center, Nintendo Store & 8 More",
+    "word_count": 1657,
+    "hero_ref": "/images/articles/gaming-tokyo-2026/featured.jpg",
+    "hero": {
+      "kind": "hero",
+      "path_ref": "/images/articles/gaming-tokyo-2026/featured.jpg",
+      "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\gaming-tokyo-2026\\featured.jpg",
+      "exists": true,
+      "width": 1920,
+      "height": 1440,
+      "file_bytes": 932339,
+      "bpp": 0.33721752025462964,
+      "alt": null
+    },
+    "body_findings": [],
+    "body_image_count": 0,
+    "body_density_per_1k": 0.0,
+    "fatals": [
+      "BODY_NO_IMAGES: article has 1657 words but zero body images"
+    ],
+    "warns": [
+      "HERO_DIMS_OFF: 1920x1440 (target 1200x720)"
+    ],
+    "priority": "P1"
+  },
+  {
+    "slug": "ghibli-park-complete-guide-2026",
+    "file": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\content\\articles\\ghibli-park-complete-guide-2026.md",
+    "title": "Ghibli Park Complete Guide 2026: Tickets, Access & Tips",
+    "word_count": 2728,
+    "hero_ref": "/images/articles/ghibli-park-complete-guide-2026/featured.jpg",
+    "hero": {
+      "kind": "hero",
+      "path_ref": "/images/articles/ghibli-park-complete-guide-2026/featured.jpg",
+      "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\ghibli-park-complete-guide-2026\\featured.jpg",
+      "exists": true,
+      "width": 1920,
+      "height": 1440,
+      "file_bytes": 827237,
+      "bpp": 0.29920319733796297,
+      "alt": null
+    },
+    "body_findings": [
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/ghibli-park-complete-guide-2026/1.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\ghibli-park-complete-guide-2026\\1.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 366738,
+        "bpp": 0.2546791666666667,
+        "alt": "How Much Do Ghibli Park Tickets Cost in 2026? \u2014 Ghibli Park Complete Guide 2026"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/ghibli-park-complete-guide-2026/2.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\ghibli-park-complete-guide-2026\\2.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 308684,
+        "bpp": 0.21436388888888888,
+        "alt": "How Do You Book Ghibli Park Tickets from Overseas? \u2014 Ghibli Park Complete Guide 2026"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/ghibli-park-complete-guide-2026/3.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\ghibli-park-complete-guide-2026\\3.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 288634,
+        "bpp": 0.2004402777777778,
+        "alt": "What Are the 5 Areas and Which Should You Prioritize? \u2014 Ghibli Park Complete Guide 2026"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/ghibli-park-complete-guide-2026/4.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\ghibli-park-complete-guide-2026\\4.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 228730,
+        "bpp": 0.1588402777777778,
+        "alt": "How Do You Get to Ghibli Park from Tokyo and Nagoya? \u2014 Ghibli Park Complete Guide 2026"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/ghibli-park-complete-guide-2026/5.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\ghibli-park-complete-guide-2026\\5.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 238777,
+        "bpp": 0.16581736111111112,
+        "alt": "Can You See Everything in One Day? \u2014 Ghibli Park Complete Guide 2026"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/ghibli-park-complete-guide-2026/6.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\ghibli-park-complete-guide-2026\\6.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 206653,
+        "bpp": 0.14350902777777777,
+        "alt": "Where Should You Stay? Hotels Near Ghibli Park \u2014 Ghibli Park Complete Guide 2026"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/ghibli-park-complete-guide-2026/7.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\ghibli-park-complete-guide-2026\\7.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 318527,
+        "bpp": 0.22119930555555556,
+        "alt": "Never Miss a Cafe Opening or Anime Event \u2014 Ghibli Park Complete Guide 2026"
+      }
+    ],
+    "body_image_count": 7,
+    "body_density_per_1k": 2.57,
+    "fatals": [],
+    "warns": [
+      "HERO_DIMS_OFF: 1920x1440 (target 1200x720)"
+    ],
+    "priority": "P2"
+  },
+  {
+    "slug": "golden-week-2026-anime-events-complete-guide",
+    "file": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\content\\articles\\golden-week-2026-anime-events-complete-guide.mdx",
+    "title": "Golden Week 2026 Anime Events Japan: Complete English Guide",
+    "word_count": 1684,
+    "hero_ref": "/images/articles/golden-week-2026-anime-events-complete-guide/featured.jpg",
+    "hero": {
+      "kind": "hero",
+      "path_ref": "/images/articles/golden-week-2026-anime-events-complete-guide/featured.jpg",
+      "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\golden-week-2026-anime-events-complete-guide\\featured.jpg",
+      "exists": true,
+      "width": 1920,
+      "height": 1440,
+      "file_bytes": 732065,
+      "bpp": 0.26478045428240743,
+      "alt": null
+    },
+    "body_findings": [
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/golden-week-2026-anime-events-complete-guide/featured.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\golden-week-2026-anime-events-complete-guide\\featured.jpg",
+        "exists": true,
+        "width": 1920,
+        "height": 1440,
+        "file_bytes": 732065,
+        "bpp": 0.26478045428240743,
+        "alt": "Spring 2026 anime collab cafe storefront in Tokyo with Golden Week queue forming"
+      }
+    ],
+    "body_image_count": 1,
+    "body_density_per_1k": 0.59,
+    "fatals": [],
+    "warns": [
+      "HERO_DIMS_OFF: 1920x1440 (target 1200x720)",
+      "BODY_DENSITY_LOW: 0.59/1k words (target >= 1.0)"
+    ],
+    "priority": "P2"
+  },
+  {
+    "slug": "how-to-book-anime-collab-cafe-japan",
+    "file": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\content\\articles\\how-to-book-anime-collab-cafe-japan.md",
+    "title": "How to Book an Anime Collab Cafe in Japan [2026] \u2014 Step-by-Step Lottery and Walk-In Guide",
+    "word_count": 2831,
+    "hero_ref": "/images/articles/how-to-book-anime-collab-cafe-japan/featured.jpg",
+    "hero": {
+      "kind": "hero",
+      "path_ref": "/images/articles/how-to-book-anime-collab-cafe-japan/featured.jpg",
+      "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\how-to-book-anime-collab-cafe-japan\\featured.jpg",
+      "exists": true,
+      "width": 1920,
+      "height": 1280,
+      "file_bytes": 180245,
+      "bpp": 0.07334187825520834,
+      "alt": null
+    },
+    "body_findings": [
+      {
+        "kind": "body",
+        "path_ref": "https://japan-pop-now.com/wp-content/uploads/2026/04/conan-cafe-food-menu-02.jpg",
+        "resolved": null,
+        "exists": false,
+        "width": null,
+        "height": null,
+        "file_bytes": null,
+        "bpp": null,
+        "alt": "Anime collab cafe themed desserts and character drinks \u2014 what to expect at your first collab cafe visit"
+      },
+      {
+        "kind": "body",
+        "path_ref": "https://japan-pop-now.com/wp-content/uploads/2026/04/blue-lock-cafe-2026.jpg",
+        "resolved": null,
+        "exists": false,
+        "width": null,
+        "height": null,
+        "file_bytes": null,
+        "bpp": null,
+        "alt": "Blue Lock anime collaboration cafe 2026 with character-themed menu items and cafe interior"
+      },
+      {
+        "kind": "body",
+        "path_ref": "https://japan-pop-now.com/wp-content/uploads/2026/04/conan-namco-campaign-2026.jpg",
+        "resolved": null,
+        "exists": false,
+        "width": null,
+        "height": null,
+        "file_bytes": null,
+        "bpp": null,
+        "alt": "Detective Conan x Namco campaign 2026 featuring anime character prizes and collab merchandise"
+      },
+      {
+        "kind": "body",
+        "path_ref": "https://japan-pop-now.com/wp-content/uploads/2026/04/natsume-popup-store-2026.jpg",
+        "resolved": null,
+        "exists": false,
+        "width": null,
+        "height": null,
+        "file_bytes": null,
+        "bpp": null,
+        "alt": "Natsume Yuujinchou anime pop-up store 2026 with exclusive character goods and merchandise display"
+      },
+      {
+        "kind": "body",
+        "path_ref": "https://japan-pop-now.com/wp-content/uploads/2026/04/conan-cafe-food-menu-01.jpg",
+        "resolved": null,
+        "exists": false,
+        "width": null,
+        "height": null,
+        "file_bytes": null,
+        "bpp": null,
+        "alt": "Anime collab cafe themed food and drinks \u2014 character latte art and decorated dessert plates"
+      }
+    ],
+    "body_image_count": 5,
+    "body_density_per_1k": 1.77,
+    "fatals": [],
+    "warns": [
+      "HERO_DIMS_OFF: 1920x1280 (target 1200x720)",
+      "HERO_LOW_BPP: 0.073 (<0.08 may indicate over-compression)",
+      "BODY_REMOTE_IMG: https://japan-pop-now.com/wp-content/uploads/2026/04/conan-cafe-food-menu-02.jpg",
+      "BODY_REMOTE_IMG: https://japan-pop-now.com/wp-content/uploads/2026/04/blue-lock-cafe-2026.jpg",
+      "BODY_REMOTE_IMG: https://japan-pop-now.com/wp-content/uploads/2026/04/conan-namco-campaign-2026.jpg",
+      "BODY_REMOTE_IMG: https://japan-pop-now.com/wp-content/uploads/2026/04/natsume-popup-store-2026.jpg",
+      "BODY_REMOTE_IMG: https://japan-pop-now.com/wp-content/uploads/2026/04/conan-cafe-food-menu-01.jpg"
+    ],
+    "priority": "P2"
+  },
+  {
+    "slug": "ikebukuro-anime-guide-2026",
+    "file": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\content\\articles\\ikebukuro-anime-guide-2026.md",
+    "title": "Ikebukuro Anime Guide (2026): Animate, Otome Road, Gashapon & Collab Cafes \u2014 The Complete Walking Tour",
+    "word_count": 2268,
+    "hero_ref": "/images/articles/ikebukuro-anime-guide-2026/featured.jpg",
+    "hero": {
+      "kind": "hero",
+      "path_ref": "/images/articles/ikebukuro-anime-guide-2026/featured.jpg",
+      "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\ikebukuro-anime-guide-2026\\featured.jpg",
+      "exists": true,
+      "width": 1920,
+      "height": 1440,
+      "file_bytes": 797354,
+      "bpp": 0.28839482060185184,
+      "alt": null
+    },
+    "body_findings": [
+      {
+        "kind": "body",
+        "path_ref": "https://japan-pop-now.com/wp-content/uploads/2026/04/natsume-popup-store-2026.jpg",
+        "resolved": null,
+        "exists": false,
+        "width": null,
+        "height": null,
+        "file_bytes": null,
+        "bpp": null,
+        "alt": "Ikebukuro Sunshine City building complex with anime shops and collab cafes in Tokyo"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/ikebukuro-anime-guide-2026/body3.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\ikebukuro-anime-guide-2026\\body3.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 1067,
+        "file_bytes": 481220,
+        "bpp": 0.2818767572633552,
+        "alt": "Sunshine City mall interior with anime pop-up shops and event signage in Ikebukuro"
+      },
+      {
+        "kind": "body",
+        "path_ref": "https://japan-pop-now.com/wp-content/uploads/2026/04/spy-family-animate-fair-2026.jpeg",
+        "resolved": null,
+        "exists": false,
+        "width": null,
+        "height": null,
+        "file_bytes": null,
+        "bpp": null,
+        "alt": "Tokyo street with neon lights and anime advertisements near Ikebukuro station"
+      }
+    ],
+    "body_image_count": 3,
+    "body_density_per_1k": 1.32,
+    "fatals": [],
+    "warns": [
+      "HERO_DIMS_OFF: 1920x1440 (target 1200x720)",
+      "BODY_REMOTE_IMG: https://japan-pop-now.com/wp-content/uploads/2026/04/natsume-popup-store-2026.jpg",
+      "BODY_REMOTE_IMG: https://japan-pop-now.com/wp-content/uploads/2026/04/spy-family-animate-fair-2026.jpeg"
+    ],
+    "priority": "P2"
+  },
+  {
+    "slug": "japan-esim-pocket-wifi-sim-card",
+    "file": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\content\\articles\\japan-esim-pocket-wifi-sim-card.md",
+    "title": "Japan eSIM vs Pocket WiFi vs SIM Card \u2014 The Complete Comparison Guide for Tourists (2026)",
+    "word_count": 2963,
+    "hero_ref": "/images/articles/japan-esim-pocket-wifi-sim-card/featured.jpg",
+    "hero": {
+      "kind": "hero",
+      "path_ref": "/images/articles/japan-esim-pocket-wifi-sim-card/featured.jpg",
+      "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\japan-esim-pocket-wifi-sim-card\\featured.jpg",
+      "exists": true,
+      "width": 1920,
+      "height": 1280,
+      "file_bytes": 488754,
+      "bpp": 0.19887451171875,
+      "alt": null
+    },
+    "body_findings": [
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/japan-esim-pocket-wifi-sim-card/body5.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\japan-esim-pocket-wifi-sim-card\\body5.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 1067,
+        "file_bytes": 160060,
+        "bpp": 0.09375585754451733,
+        "alt": "Smartphone displaying eSIM activation QR code next to a pocket WiFi device for comparison"
+      }
+    ],
+    "body_image_count": 1,
+    "body_density_per_1k": 0.34,
+    "fatals": [],
+    "warns": [
+      "HERO_DIMS_OFF: 1920x1280 (target 1200x720)",
+      "BODY_DENSITY_LOW: 0.34/1k words (target >= 1.0)"
+    ],
+    "priority": "P2"
+  },
+  {
+    "slug": "japan-ic-card-transit-guide",
+    "file": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\content\\articles\\japan-ic-card-transit-guide.md",
+    "title": "Japan IC Card & Transit Guide for Anime Fans (2026)",
+    "word_count": 2760,
+    "hero_ref": "/images/articles/japan-ic-card-transit-guide/featured.jpg",
+    "hero": {
+      "kind": "hero",
+      "path_ref": "/images/articles/japan-ic-card-transit-guide/featured.jpg",
+      "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\japan-ic-card-transit-guide\\featured.jpg",
+      "exists": true,
+      "width": 1920,
+      "height": 1280,
+      "file_bytes": 451125,
+      "bpp": 0.183563232421875,
+      "alt": null
+    },
+    "body_findings": [
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/japan-ic-card-transit-guide/1.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\japan-ic-card-transit-guide\\1.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 255406,
+        "bpp": 0.17736527777777777,
+        "alt": "What Is an IC Card? \u2014 Japan IC Card & Transit Guide for Anime Fans (2026)"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/japan-ic-card-transit-guide/3.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\japan-ic-card-transit-guide\\3.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 175205,
+        "bpp": 0.12167013888888889,
+        "alt": "How to Use Your IC Card \u2014 Japan IC Card & Transit Guide for Anime Fans (2026)"
+      }
+    ],
+    "body_image_count": 2,
+    "body_density_per_1k": 0.72,
+    "fatals": [],
+    "warns": [
+      "HERO_DIMS_OFF: 1920x1280 (target 1200x720)",
+      "BODY_DENSITY_LOW: 0.72/1k words (target >= 1.0)"
+    ],
+    "priority": "P2"
+  },
+  {
+    "slug": "japan-luggage-forwarding-2026",
+    "file": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\content\\articles\\japan-luggage-forwarding-2026.md",
+    "title": "Japan Luggage Forwarding 2026: Ship Bags for \u00a52,000",
+    "word_count": 2353,
+    "hero_ref": "/images/articles/japan-luggage-forwarding-2026/featured.jpg",
+    "hero": {
+      "kind": "hero",
+      "path_ref": "/images/articles/japan-luggage-forwarding-2026/featured.jpg",
+      "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\japan-luggage-forwarding-2026\\featured.jpg",
+      "exists": true,
+      "width": 1476,
+      "height": 916,
+      "file_bytes": 373374,
+      "bpp": 0.27616093300670996,
+      "alt": null
+    },
+    "body_findings": [
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/japan-luggage-forwarding-2026/4.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\japan-luggage-forwarding-2026\\4.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 285832,
+        "bpp": 0.19849444444444445,
+        "alt": "The Anime Merch Haul Strategy (Ship Purchases Home Mid-Trip) \u2014 Japan Luggage Forwarding 2026"
+      }
+    ],
+    "body_image_count": 1,
+    "body_density_per_1k": 0.42,
+    "fatals": [],
+    "warns": [
+      "HERO_DIMS_OFF: 1476x916 (target 1200x720)",
+      "BODY_DENSITY_LOW: 0.42/1k words (target >= 1.0)"
+    ],
+    "priority": "P2"
+  },
+  {
+    "slug": "japan-proxy-shopping-2026",
+    "file": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\content\\articles\\japan-proxy-shopping-2026.md",
+    "title": "Japan Proxy Shopping 2026: Buy Anime Figures & Merch Online",
+    "word_count": 2768,
+    "hero_ref": "/images/articles/japan-proxy-shopping-2026/featured.jpg",
+    "hero": {
+      "kind": "hero",
+      "path_ref": "/images/articles/japan-proxy-shopping-2026/featured.jpg",
+      "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\japan-proxy-shopping-2026\\featured.jpg",
+      "exists": true,
+      "width": 1920,
+      "height": 1440,
+      "file_bytes": 830325,
+      "bpp": 0.3003200954861111,
+      "alt": null
+    },
+    "body_findings": [],
+    "body_image_count": 0,
+    "body_density_per_1k": 0.0,
+    "fatals": [
+      "BODY_NO_IMAGES: article has 2768 words but zero body images"
+    ],
+    "warns": [
+      "HERO_DIMS_OFF: 1920x1440 (target 1200x720)"
+    ],
+    "priority": "P1"
+  },
+  {
+    "slug": "japan-rail-pass-2026-guide",
+    "file": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\content\\articles\\japan-rail-pass-2026-guide.md",
+    "title": "Japan Rail Pass 2026: Worth \u00a550,000? Calculator Inside",
+    "word_count": 3293,
+    "hero_ref": "/images/articles/japan-rail-pass-2026-guide/featured.jpg",
+    "hero": {
+      "kind": "hero",
+      "path_ref": "/images/articles/japan-rail-pass-2026-guide/featured.jpg",
+      "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\japan-rail-pass-2026-guide\\featured.jpg",
+      "exists": true,
+      "width": 1200,
+      "height": 800,
+      "file_bytes": 189478,
+      "bpp": 0.19737291666666668,
+      "alt": null
+    },
+    "body_findings": [
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/japan-rail-pass-2026-guide/1.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\japan-rail-pass-2026-guide\\1.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 195932,
+        "bpp": 0.1360638888888889,
+        "alt": "The Price Increase Reality Check \u2014 Japan Rail Pass 2026"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/japan-rail-pass-2026-guide/2.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\japan-rail-pass-2026-guide\\2.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 161047,
+        "bpp": 0.11183819444444444,
+        "alt": "JR Pass Break-Even Calculator (Use This) \u2014 Japan Rail Pass 2026"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/japan-rail-pass-2026-guide/5.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\japan-rail-pass-2026-guide\\5.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 166983,
+        "bpp": 0.11596041666666666,
+        "alt": "The IC Card (Suica/Pasmo) Combo: JR Pass Doesn\u2019t Cover Everything \u2014 Japan Rail Pass 2026"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/japan-rail-pass-2026-guide/7.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\japan-rail-pass-2026-guide\\7.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 395459,
+        "bpp": 0.27462430555555556,
+        "alt": "Realistic 10-Day Itinerary with JR Pass (Break-Even Example) \u2014 Japan Rail Pass 2026"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/japan-rail-pass-2026-guide/8.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\japan-rail-pass-2026-guide\\8.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 349833,
+        "bpp": 0.24293958333333332,
+        "alt": "Related Guides \u2014 Japan Rail Pass 2026"
+      }
+    ],
+    "body_image_count": 5,
+    "body_density_per_1k": 1.52,
+    "fatals": [],
+    "warns": [
+      "HERO_DIMS_OFF: 1200x800 (target 1200x720)"
+    ],
+    "priority": "P2"
+  },
+  {
+    "slug": "japan-rail-pass-guide-anime-fans",
+    "file": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\content\\articles\\japan-rail-pass-guide-anime-fans.md",
+    "title": "Japan Rail Pass Guide for Anime Fans: Is It Worth It? (2026)",
+    "word_count": 2070,
+    "hero_ref": "/images/articles/japan-rail-pass-guide-anime-fans/featured.jpg",
+    "hero": {
+      "kind": "hero",
+      "path_ref": "/images/articles/japan-rail-pass-guide-anime-fans/featured.jpg",
+      "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\japan-rail-pass-guide-anime-fans\\featured.jpg",
+      "exists": true,
+      "width": 1200,
+      "height": 800,
+      "file_bytes": 154919,
+      "bpp": 0.16137395833333334,
+      "alt": null
+    },
+    "body_findings": [
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/japan-rail-pass-guide-anime-fans/1.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\japan-rail-pass-guide-anime-fans\\1.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 125337,
+        "bpp": 0.08703958333333334,
+        "alt": "What Is the Japan Rail Pass? \u2014 Japan Rail Pass Guide for Anime Fans"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/japan-rail-pass-guide-anime-fans/2.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\japan-rail-pass-guide-anime-fans\\2.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 209159,
+        "bpp": 0.14524930555555557,
+        "alt": "Is a JR Pass Worth It for Anime Fans? \u2014 Japan Rail Pass Guide for Anime Fans"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/japan-rail-pass-guide-anime-fans/3.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\japan-rail-pass-guide-anime-fans\\3.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 105458,
+        "bpp": 0.07323472222222223,
+        "alt": "Cost Breakdown: JR Pass vs Individual Tickets \u2014 Japan Rail Pass Guide for Anime Fans"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/japan-rail-pass-guide-anime-fans/4.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\japan-rail-pass-guide-anime-fans\\4.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 184574,
+        "bpp": 0.12817638888888888,
+        "alt": "Best JR Pass Routes for Anime Pilgrimage \u2014 Japan Rail Pass Guide for Anime Fans"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/japan-rail-pass-guide-anime-fans/5.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\japan-rail-pass-guide-anime-fans\\5.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 415362,
+        "bpp": 0.28844583333333335,
+        "alt": "JR Pass + IC Card: Using Both Together \u2014 Japan Rail Pass Guide for Anime Fans"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/japan-rail-pass-guide-anime-fans/6.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\japan-rail-pass-guide-anime-fans\\6.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 102672,
+        "bpp": 0.0713,
+        "alt": "Practical Tips & Common Mistakes \u2014 Japan Rail Pass Guide for Anime Fans"
+      }
+    ],
+    "body_image_count": 6,
+    "body_density_per_1k": 2.9,
+    "fatals": [],
+    "warns": [
+      "HERO_DIMS_OFF: 1200x800 (target 1200x720)",
+      "BODY_LOW_BPP: /images/articles/japan-rail-pass-guide-anime-fans/3.jpg bpp=0.073",
+      "BODY_LOW_BPP: /images/articles/japan-rail-pass-guide-anime-fans/6.jpg bpp=0.071"
+    ],
+    "priority": "P2"
+  },
+  {
+    "slug": "japan-travel-insurance-2026",
+    "file": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\content\\articles\\japan-travel-insurance-2026.md",
+    "title": "Japan Travel Insurance 2026: Best Plans Compared (from $45)",
+    "word_count": 2780,
+    "hero_ref": "/images/articles/japan-travel-insurance-2026/featured.jpg",
+    "hero": {
+      "kind": "hero",
+      "path_ref": "/images/articles/japan-travel-insurance-2026/featured.jpg",
+      "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\japan-travel-insurance-2026\\featured.jpg",
+      "exists": true,
+      "width": 1920,
+      "height": 1280,
+      "file_bytes": 675756,
+      "bpp": 0.2749658203125,
+      "alt": null
+    },
+    "body_findings": [
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/japan-travel-insurance-2026/1.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\japan-travel-insurance-2026\\1.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 274154,
+        "bpp": 0.19038472222222222,
+        "alt": "Why You Need Travel Insurance for Japan (The Real Costs) \u2014 Japan Travel Insurance 2026"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/japan-travel-insurance-2026/2.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\japan-travel-insurance-2026\\2.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 129522,
+        "bpp": 0.08994583333333334,
+        "alt": "World Nomads \u2014 Best for Activities & Adventure \u2014 Japan Travel Insurance 2026"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/japan-travel-insurance-2026/3.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\japan-travel-insurance-2026\\3.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 210418,
+        "bpp": 0.1461236111111111,
+        "alt": "Allianz \u2014 Best Comprehensive Coverage \u2014 Japan Travel Insurance 2026"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/japan-travel-insurance-2026/4.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\japan-travel-insurance-2026\\4.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 214429,
+        "bpp": 0.14890902777777779,
+        "alt": "Japan-Specific Considerations \u2014 Japan Travel Insurance 2026"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/japan-travel-insurance-2026/5.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\japan-travel-insurance-2026\\5.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 242135,
+        "bpp": 0.16814930555555554,
+        "alt": "Free Alternatives (And Why They\u2019re Not Enough) \u2014 Japan Travel Insurance 2026"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/japan-travel-insurance-2026/6.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\japan-travel-insurance-2026\\6.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 112056,
+        "bpp": 0.07781666666666667,
+        "alt": "My Personal Recommendation \u2014 Japan Travel Insurance 2026"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/japan-travel-insurance-2026/7.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\japan-travel-insurance-2026\\7.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 131381,
+        "bpp": 0.09123680555555555,
+        "alt": "Common Questions \u2014 Japan Travel Insurance 2026"
+      }
+    ],
+    "body_image_count": 7,
+    "body_density_per_1k": 2.52,
+    "fatals": [],
+    "warns": [
+      "HERO_DIMS_OFF: 1920x1280 (target 1200x720)",
+      "BODY_LOW_BPP: /images/articles/japan-travel-insurance-2026/6.jpg bpp=0.078"
+    ],
+    "priority": "P2"
+  },
+  {
+    "slug": "japan-trip-checklist-anime-fans-2026",
+    "file": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\content\\articles\\japan-trip-checklist-anime-fans-2026.md",
+    "title": "Japan Trip Checklist for Anime Fans: Everything to Book Before You Go (2026)",
+    "word_count": 4361,
+    "hero_ref": "/images/articles/japan-trip-checklist-anime-fans-2026/featured.jpg",
+    "hero": {
+      "kind": "hero",
+      "path_ref": "/images/articles/japan-trip-checklist-anime-fans-2026/featured.jpg",
+      "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\japan-trip-checklist-anime-fans-2026\\featured.jpg",
+      "exists": true,
+      "width": 1920,
+      "height": 1280,
+      "file_bytes": 293071,
+      "bpp": 0.11925089518229166,
+      "alt": null
+    },
+    "body_findings": [
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/japan-trip-checklist-anime-fans-2026/body3.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\japan-trip-checklist-anime-fans-2026\\body3.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 1067,
+        "file_bytes": 481220,
+        "bpp": 0.2818767572633552,
+        "alt": "Calendar and travel documents spread on a desk for Japan trip planning"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/japan-trip-checklist-anime-fans-2026/body4.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\japan-trip-checklist-anime-fans-2026\\body4.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 1148,
+        "file_bytes": 441191,
+        "bpp": 0.2401954486062718,
+        "alt": "eSIM QR code and travel insurance documents for Japan trip preparation"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/japan-trip-checklist-anime-fans-2026/body5.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\japan-trip-checklist-anime-fans-2026\\body5.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 1038,
+        "file_bytes": 592117,
+        "bpp": 0.35652516859344896,
+        "alt": "Suitcase with folded clothes and anime merch packing essentials laid out on a bed"
+      }
+    ],
+    "body_image_count": 3,
+    "body_density_per_1k": 0.69,
+    "fatals": [],
+    "warns": [
+      "HERO_DIMS_OFF: 1920x1280 (target 1200x720)",
+      "BODY_DENSITY_LOW: 0.69/1k words (target >= 1.0)"
+    ],
+    "priority": "P2"
+  },
+  {
+    "slug": "jr-pass-anime-pilgrimage-routes-2026",
+    "file": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\content\\articles\\jr-pass-anime-pilgrimage-routes-2026.md",
+    "title": "JR Pass for Anime Pilgrimages: Is It Worth It? Routes, Calculator & 2026 Prices",
+    "word_count": 2701,
+    "hero_ref": "/images/articles/jr-pass-anime-pilgrimage-routes-2026/featured.jpg",
+    "hero": {
+      "kind": "hero",
+      "path_ref": "/images/articles/jr-pass-anime-pilgrimage-routes-2026/featured.jpg",
+      "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\jr-pass-anime-pilgrimage-routes-2026\\featured.jpg",
+      "exists": true,
+      "width": 1280,
+      "height": 720,
+      "file_bytes": 186440,
+      "bpp": 0.20230034722222223,
+      "alt": null
+    },
+    "body_findings": [
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/jr-pass-anime-pilgrimage-routes-2026/body3.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\jr-pass-anime-pilgrimage-routes-2026\\body3.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 2400,
+        "file_bytes": 925476,
+        "bpp": 0.241009375,
+        "alt": "Shinkansen bullet train pulling into a Tokyo station platform"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/jr-pass-anime-pilgrimage-routes-2026/body4.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\jr-pass-anime-pilgrimage-routes-2026\\body4.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 1734,
+        "file_bytes": 377557,
+        "bpp": 0.13608600057670128,
+        "alt": "JR Pass physical ticket and passport laid on a table for verification at exchange counter"
+      }
+    ],
+    "body_image_count": 2,
+    "body_density_per_1k": 0.74,
+    "fatals": [],
+    "warns": [
+      "HERO_DIMS_OFF: 1280x720 (target 1200x720)",
+      "BODY_DENSITY_LOW: 0.74/1k words (target >= 1.0)"
+    ],
+    "priority": "P2"
+  },
+  {
+    "slug": "jujutsu-kaisen-cafes-japan-2026-guide",
+    "file": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\content\\articles\\jujutsu-kaisen-cafes-japan-2026-guide.md",
+    "title": "Jujutsu Kaisen Cafes in Japan 2026: Tokyo vs Osaka vs Other Cities for Anime Travelers",
+    "word_count": 1410,
+    "hero_ref": "/images/articles/jujutsu-kaisen-cafes-japan-2026-guide/featured.jpg",
+    "hero": {
+      "kind": "hero",
+      "path_ref": "/images/articles/jujutsu-kaisen-cafes-japan-2026-guide/featured.jpg",
+      "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\jujutsu-kaisen-cafes-japan-2026-guide\\featured.jpg",
+      "exists": true,
+      "width": 1920,
+      "height": 1080,
+      "file_bytes": 958846,
+      "bpp": 0.46240644290123456,
+      "alt": null
+    },
+    "body_findings": [
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/jujutsu-kaisen-cafes-japan-2026-guide/2.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\jujutsu-kaisen-cafes-japan-2026-guide\\2.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 168047,
+        "bpp": 0.11669930555555555,
+        "alt": "Is Tokyo or Osaka the better choice? \u2014 Jujutsu Kaisen Cafes in Japan 2026"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/jujutsu-kaisen-cafes-japan-2026-guide/3.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\jujutsu-kaisen-cafes-japan-2026-guide\\3.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 238702,
+        "bpp": 0.16576527777777778,
+        "alt": "What can you expect from the cafe itself? \u2014 Jujutsu Kaisen Cafes in Japan 2026"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/jujutsu-kaisen-cafes-japan-2026-guide/4.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\jujutsu-kaisen-cafes-japan-2026-guide\\4.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 337717,
+        "bpp": 0.23452569444444443,
+        "alt": "Practical tips before you go \u2014 Jujutsu Kaisen Cafes in Japan 2026"
+      }
+    ],
+    "body_image_count": 3,
+    "body_density_per_1k": 2.13,
+    "fatals": [],
+    "warns": [
+      "HERO_DIMS_OFF: 1920x1080 (target 1200x720)"
+    ],
+    "priority": "P2"
+  },
+  {
+    "slug": "jujutsu-kaisen-shibuya-locations-2026",
+    "file": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\content\\articles\\jujutsu-kaisen-shibuya-locations-2026.md",
+    "title": "Jujutsu Kaisen Shibuya Locations: Complete 2026 Guide",
+    "word_count": 3445,
+    "hero_ref": "/images/articles/jujutsu-kaisen-shibuya-locations-2026/featured.jpg",
+    "hero": {
+      "kind": "hero",
+      "path_ref": "/images/articles/jujutsu-kaisen-shibuya-locations-2026/featured.jpg",
+      "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\jujutsu-kaisen-shibuya-locations-2026\\featured.jpg",
+      "exists": true,
+      "width": 1200,
+      "height": 525,
+      "file_bytes": 110264,
+      "bpp": 0.17502222222222222,
+      "alt": null
+    },
+    "body_findings": [],
+    "body_image_count": 0,
+    "body_density_per_1k": 0.0,
+    "fatals": [
+      "BODY_NO_IMAGES: article has 3445 words but zero body images"
+    ],
+    "warns": [
+      "HERO_DIMS_OFF: 1200x525 (target 1200x720)"
+    ],
+    "priority": "P1"
+  },
+  {
+    "slug": "krispy-kreme-mario-galaxy-shibuya-2026",
+    "file": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\content\\articles\\krispy-kreme-mario-galaxy-shibuya-2026.mdx",
+    "title": "Krispy Kreme x Mario Galaxy Donuts 2026: Shibuya Guide",
+    "word_count": 1480,
+    "hero_ref": "/images/articles/krispy-kreme-mario-galaxy-shibuya-2026/hero.webp",
+    "hero": {
+      "kind": "hero",
+      "path_ref": "/images/articles/krispy-kreme-mario-galaxy-shibuya-2026/hero.webp",
+      "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\krispy-kreme-mario-galaxy-shibuya-2026\\hero.webp",
+      "exists": true,
+      "width": 1200,
+      "height": 720,
+      "file_bytes": 280966,
+      "bpp": 0.3251921296296296,
+      "alt": null
+    },
+    "body_findings": [
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/krispy-kreme-mario-galaxy-shibuya-2026/hero.webp",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\krispy-kreme-mario-galaxy-shibuya-2026\\hero.webp",
+        "exists": true,
+        "width": 1200,
+        "height": 720,
+        "file_bytes": 280966,
+        "bpp": 0.3251921296296296,
+        "alt": "Krispy Kreme x Super Mario Galaxy Movie collab donuts at Shibuya Cine Tower store"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/krispy-kreme-mario-galaxy-shibuya-2026/body-kids-doughnuts-day.webp",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\krispy-kreme-mario-galaxy-shibuya-2026\\body-kids-doughnuts-day.webp",
+        "exists": true,
+        "width": 1200,
+        "height": 800,
+        "file_bytes": 313048,
+        "bpp": 0.32609166666666667,
+        "alt": "Krispy Kreme Japan Kids Doughnuts Day signage promoting the Super Mario Galaxy Movie collab donuts and 550 yen kids-day value set"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/krispy-kreme-mario-galaxy-shibuya-2026/body-donut-lineup.webp",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\krispy-kreme-mario-galaxy-shibuya-2026\\body-donut-lineup.webp",
+        "exists": true,
+        "width": 1200,
+        "height": 800,
+        "file_bytes": 319160,
+        "bpp": 0.33245833333333336,
+        "alt": "In-store pricing menu at Shibuya Cine Tower showing 3-piece, 6-piece, and 12-piece Galaxy Box options alongside the Super Mario Galaxy Movie promotional poster"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/krispy-kreme-mario-galaxy-shibuya-2026/body-galaxy-donut-closeup.webp",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\krispy-kreme-mario-galaxy-shibuya-2026\\body-galaxy-donut-closeup.webp",
+        "exists": true,
+        "width": 1200,
+        "height": 800,
+        "file_bytes": 252560,
+        "bpp": 0.26308333333333334,
+        "alt": "A single Luma and Blueberry Galaxy donut in close-up with the rainbow character pick topper showing all five pick designs from the Super Mario Galaxy Movie collab"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/krispy-kreme-mario-galaxy-shibuya-2026/body-merch.webp",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\krispy-kreme-mario-galaxy-shibuya-2026\\body-merch.webp",
+        "exists": true,
+        "width": 1200,
+        "height": 800,
+        "file_bytes": 142898,
+        "bpp": 0.14885208333333333,
+        "alt": "Question Block collab box packaging from the Krispy Kreme x Super Mario Galaxy Movie limited-edition release"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/krispy-kreme-mario-galaxy-shibuya-2026/body-moe-tasting.webp",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\krispy-kreme-mario-galaxy-shibuya-2026\\body-moe-tasting.webp",
+        "exists": true,
+        "width": 1200,
+        "height": 800,
+        "file_bytes": 266578,
+        "bpp": 0.2776854166666667,
+        "alt": "Japan Pop Now editor seated at the Shibuya Cine Tower Krispy Kreme with the pink O-shaped photo prop, ordering the full Mario Galaxy set for tasting"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/krispy-kreme-mario-galaxy-shibuya-2026/body-shibuya-store.webp",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\krispy-kreme-mario-galaxy-shibuya-2026\\body-shibuya-store.webp",
+        "exists": true,
+        "width": 1200,
+        "height": 800,
+        "file_bytes": 323522,
+        "bpp": 0.3370020833333333,
+        "alt": "Krispy Kreme Galaxy Box and Galaxy Dozen Half open boxes displayed in the Shibuya Cine Tower store case, showing the full lineup of Mario Galaxy Movie donuts with character pick toppers attached"
+      }
+    ],
+    "body_image_count": 7,
+    "body_density_per_1k": 4.73,
+    "fatals": [],
+    "warns": [],
+    "priority": "OK"
+  },
+  {
+    "slug": "kyoto-anime-guide-2026",
+    "file": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\content\\articles\\kyoto-anime-guide-2026.md",
+    "title": "Kyoto Anime Guide 2026: Pilgrimages, Studios, and Otaku Culture in the Ancient Capital",
+    "word_count": 3443,
+    "hero_ref": "/images/articles/kyoto-anime-guide-2026/featured.jpg",
+    "hero": {
+      "kind": "hero",
+      "path_ref": "/images/articles/kyoto-anime-guide-2026/featured.jpg",
+      "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\kyoto-anime-guide-2026\\featured.jpg",
+      "exists": true,
+      "width": 1920,
+      "height": 1280,
+      "file_bytes": 511826,
+      "bpp": 0.20826253255208332,
+      "alt": null
+    },
+    "body_findings": [],
+    "body_image_count": 0,
+    "body_density_per_1k": 0.0,
+    "fatals": [
+      "BODY_NO_IMAGES: article has 3443 words but zero body images"
+    ],
+    "warns": [
+      "HERO_DIMS_OFF: 1920x1280 (target 1200x720)"
+    ],
+    "priority": "P1"
+  },
+  {
+    "slug": "lawson-ticket-anime-cafe-booking",
+    "file": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\content\\articles\\lawson-ticket-anime-cafe-booking.md",
+    "title": "Lawson Ticket & Loppi Machine Guide \u2014 How to Book Anime Cafes and Events in Japan (2026)",
+    "word_count": 2146,
+    "hero_ref": "/images/articles/lawson-ticket-anime-cafe-booking/featured.jpg",
+    "hero": {
+      "kind": "hero",
+      "path_ref": "/images/articles/lawson-ticket-anime-cafe-booking/featured.jpg",
+      "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\lawson-ticket-anime-cafe-booking\\featured.jpg",
+      "exists": true,
+      "width": 1920,
+      "height": 1080,
+      "file_bytes": 546872,
+      "bpp": 0.26373070987654323,
+      "alt": null
+    },
+    "body_findings": [
+      {
+        "kind": "body",
+        "path_ref": "https://japan-pop-now.com/wp-content/uploads/2026/04/blue-lock-cafe-2026.jpg",
+        "resolved": null,
+        "exists": false,
+        "width": null,
+        "height": null,
+        "file_bytes": null,
+        "bpp": null,
+        "alt": "Anime event exhibition hall in Japan with colorful character banners and fans queuing for entry"
+      }
+    ],
+    "body_image_count": 1,
+    "body_density_per_1k": 0.47,
+    "fatals": [],
+    "warns": [
+      "HERO_DIMS_OFF: 1920x1080 (target 1200x720)",
+      "BODY_REMOTE_IMG: https://japan-pop-now.com/wp-content/uploads/2026/04/blue-lock-cafe-2026.jpg",
+      "BODY_DENSITY_LOW: 0.47/1k words (target >= 1.0)"
+    ],
+    "priority": "P2"
+  },
+  {
+    "slug": "luvlab-harajuku-diy-accessory-experience",
+    "file": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\content\\articles\\luvlab-harajuku-diy-accessory-experience.md",
+    "title": "",
+    "word_count": 2009,
+    "hero_ref": null,
+    "hero": null,
+    "body_findings": [
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/luvlab-harajuku/keycap-wall.webp",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\luvlab-harajuku\\keycap-wall.webp",
+        "exists": true,
+        "width": 1200,
+        "height": 857,
+        "file_bytes": 246160,
+        "bpp": 0.2393621159082069,
+        "alt": "Colorful mechanical keycaps organized in display trays at LuvLab Harajuku"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/luvlab-harajuku/product-overview.webp",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\luvlab-harajuku\\product-overview.webp",
+        "exists": true,
+        "width": 1080,
+        "height": 864,
+        "file_bytes": 137164,
+        "bpp": 0.14699502743484225,
+        "alt": "Overview of all LuvLab craftable items \u2014 Italian charm watches, snake bracelets, keychains, and lip chains"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/luvlab-harajuku/product-italian-charm.webp",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\luvlab-harajuku\\product-italian-charm.webp",
+        "exists": true,
+        "width": 1014,
+        "height": 716,
+        "file_bytes": 44168,
+        "bpp": 0.06083545447533415,
+        "alt": "Italian charm watch with multiple decorative charms"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/luvlab-harajuku/product-snake-bracelet.webp",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\luvlab-harajuku\\product-snake-bracelet.webp",
+        "exists": true,
+        "width": 891,
+        "height": 630,
+        "file_bytes": 42536,
+        "bpp": 0.07577717207346837,
+        "alt": "Snake bracelet showing detailed charm arrangement"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/luvlab-harajuku/product-keyboard.webp",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\luvlab-harajuku\\product-keyboard.webp",
+        "exists": true,
+        "width": 1132,
+        "height": 801,
+        "file_bytes": 25690,
+        "bpp": 0.028332517215671222,
+        "alt": "Custom keyboard keychain displaying colorful mechanical keycaps"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/luvlab-harajuku/product-lipchain.webp",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\luvlab-harajuku\\product-lipchain.webp",
+        "exists": true,
+        "width": 1083,
+        "height": 766,
+        "file_bytes": 48574,
+        "bpp": 0.058552661714751354,
+        "alt": "Lip chain accessory with detailed charms"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/luvlab-harajuku/interior-full.webp",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\luvlab-harajuku\\interior-full.webp",
+        "exists": true,
+        "width": 1108,
+        "height": 1477,
+        "file_bytes": 212692,
+        "bpp": 0.1299663431338282,
+        "alt": "LuvLab Harajuku wide interior shot with crafting stations"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/luvlab-harajuku/interior-neon.webp",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\luvlab-harajuku\\interior-neon.webp",
+        "exists": true,
+        "width": 1200,
+        "height": 900,
+        "file_bytes": 233074,
+        "bpp": 0.21580925925925926,
+        "alt": "Store interior showing neon accents and atmospheric lighting"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/luvlab-harajuku/interior-table.webp",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\luvlab-harajuku\\interior-table.webp",
+        "exists": true,
+        "width": 1105,
+        "height": 829,
+        "file_bytes": 188066,
+        "bpp": 0.20530214127035243,
+        "alt": "Crafting workspace and pegboard display"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/luvlab-harajuku/keycap-wall.webp",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\luvlab-harajuku\\keycap-wall.webp",
+        "exists": true,
+        "width": 1200,
+        "height": 857,
+        "file_bytes": 246160,
+        "bpp": 0.2393621159082069,
+        "alt": "Wall of colorful custom keycaps at LuvLab"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/luvlab-harajuku/keyboard-hand.webp",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\luvlab-harajuku\\keyboard-hand.webp",
+        "exists": true,
+        "width": 1200,
+        "height": 857,
+        "file_bytes": 97572,
+        "bpp": 0.09487747957993,
+        "alt": "Choosing custom keyboard keycaps from the display"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/luvlab-harajuku/keyboard-trays.webp",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\luvlab-harajuku\\keyboard-trays.webp",
+        "exists": true,
+        "width": 1200,
+        "height": 857,
+        "file_bytes": 134488,
+        "bpp": 0.13077401789187088,
+        "alt": "Finished custom keyboard keychains in heart-shaped trays"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/luvlab-harajuku/bracelet-hand.webp",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\luvlab-harajuku\\bracelet-hand.webp",
+        "exists": true,
+        "width": 1110,
+        "height": 793,
+        "file_bytes": 89164,
+        "bpp": 0.10129625211592425,
+        "alt": "Handmade snake bracelets held up to show detail"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/luvlab-harajuku/bracelet-matching.webp",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\luvlab-harajuku\\bracelet-matching.webp",
+        "exists": true,
+        "width": 1109,
+        "height": 831,
+        "file_bytes": 201680,
+        "bpp": 0.21884179218493477,
+        "alt": "Two friends wearing custom snake bracelets at LuvLab"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/luvlab-harajuku/bracelet-harajuku.webp",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\luvlab-harajuku\\bracelet-harajuku.webp",
+        "exists": true,
+        "width": 1200,
+        "height": 857,
+        "file_bytes": 97254,
+        "bpp": 0.09456826137689615,
+        "alt": "Snake bracelets held up with Harajuku Takeshita Street in the background"
+      }
+    ],
+    "body_image_count": 15,
+    "body_density_per_1k": 7.47,
+    "fatals": [
+      "HERO_MISSING: no heroImage/featuredImage in frontmatter"
+    ],
+    "warns": [
+      "BODY_LOW_BPP: /images/articles/luvlab-harajuku/product-italian-charm.webp bpp=0.061",
+      "BODY_LOW_BPP: /images/articles/luvlab-harajuku/product-snake-bracelet.webp bpp=0.076",
+      "BODY_LOW_BPP: /images/articles/luvlab-harajuku/product-keyboard.webp bpp=0.028",
+      "BODY_LOW_BPP: /images/articles/luvlab-harajuku/product-lipchain.webp bpp=0.059"
+    ],
+    "priority": "P1"
+  },
+  {
+    "slug": "my-hero-academia-cafe-tokyo-2026",
+    "file": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\content\\articles\\my-hero-academia-cafe-tokyo-2026.md",
+    "title": "My Hero Academia Cafe Tokyo 2026: Ikebukuro Guide for Anime Travelers",
+    "word_count": 1416,
+    "hero_ref": "/images/articles/my-hero-academia-cafe-tokyo-2026/featured.jpg",
+    "hero": {
+      "kind": "hero",
+      "path_ref": "/images/articles/my-hero-academia-cafe-tokyo-2026/featured.jpg",
+      "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\my-hero-academia-cafe-tokyo-2026\\featured.jpg",
+      "exists": true,
+      "width": 1920,
+      "height": 1280,
+      "file_bytes": 742392,
+      "bpp": 0.302080078125,
+      "alt": null
+    },
+    "body_findings": [
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/my-hero-academia-cafe-tokyo-2026/3.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\my-hero-academia-cafe-tokyo-2026\\3.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 96166,
+        "bpp": 0.06678194444444445,
+        "alt": "How to build a better Ikebukuro day around the cafe \u2014 My Hero Academia Cafe Tokyo 2026"
+      }
+    ],
+    "body_image_count": 1,
+    "body_density_per_1k": 0.71,
+    "fatals": [],
+    "warns": [
+      "HERO_DIMS_OFF: 1920x1280 (target 1200x720)",
+      "BODY_LOW_BPP: /images/articles/my-hero-academia-cafe-tokyo-2026/3.jpg bpp=0.067",
+      "BODY_DENSITY_LOW: 0.71/1k words (target >= 1.0)"
+    ],
+    "priority": "P2"
+  },
+  {
+    "slug": "nakano-broadway-guide",
+    "file": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\content\\articles\\nakano-broadway-guide.md",
+    "title": "Nakano Broadway Guide 2026 \u2014 Tokyo\u2019s Best-Kept Anime Shopping Secret",
+    "word_count": 2199,
+    "hero_ref": "/images/articles/nakano-broadway-guide/featured.jpg",
+    "hero": {
+      "kind": "hero",
+      "path_ref": "/images/articles/nakano-broadway-guide/featured.jpg",
+      "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\nakano-broadway-guide\\featured.jpg",
+      "exists": true,
+      "width": 1920,
+      "height": 1274,
+      "file_bytes": 656344,
+      "bpp": 0.26832482993197276,
+      "alt": null
+    },
+    "body_findings": [
+      {
+        "kind": "body",
+        "path_ref": "https://japan-pop-now.com/wp-content/uploads/2026/04/conan-namco-campaign-2026.jpg",
+        "resolved": null,
+        "exists": false,
+        "width": null,
+        "height": null,
+        "file_bytes": null,
+        "bpp": null,
+        "alt": "Colorful soft serve ice cream tower with multiple flavors stacked high \u2014 famous treat at Nakano Broadway"
+      }
+    ],
+    "body_image_count": 1,
+    "body_density_per_1k": 0.45,
+    "fatals": [],
+    "warns": [
+      "HERO_DIMS_OFF: 1920x1274 (target 1200x720)",
+      "BODY_REMOTE_IMG: https://japan-pop-now.com/wp-content/uploads/2026/04/conan-namco-campaign-2026.jpg",
+      "BODY_DENSITY_LOW: 0.45/1k words (target >= 1.0)"
+    ],
+    "priority": "P2"
+  },
+  {
+    "slug": "naruto-tokyo-pilgrimage-2026",
+    "file": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\content\\articles\\naruto-tokyo-pilgrimage-2026.md",
+    "title": "Naruto Tokyo Pilgrimage: A Complete Guide to Shinobi Locations",
+    "word_count": 2483,
+    "hero_ref": "/images/articles/naruto-tokyo-pilgrimage-2026/featured.jpg",
+    "hero": {
+      "kind": "hero",
+      "path_ref": "/images/articles/naruto-tokyo-pilgrimage-2026/featured.jpg",
+      "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\naruto-tokyo-pilgrimage-2026\\featured.jpg",
+      "exists": true,
+      "width": 1920,
+      "height": 1280,
+      "file_bytes": 332526,
+      "bpp": 0.13530517578125,
+      "alt": null
+    },
+    "body_findings": [
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/naruto-tokyo-pilgrimage-2026/1.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\naruto-tokyo-pilgrimage-2026\\1.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 169975,
+        "bpp": 0.11803819444444444,
+        "alt": "Anime Exhibition Halls & Official Spaces \u2014 Naruto Tokyo Pilgrimage"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/naruto-tokyo-pilgrimage-2026/4.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\naruto-tokyo-pilgrimage-2026\\4.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 234085,
+        "bpp": 0.16255902777777778,
+        "alt": "Practical Tokyo Pilgrimage Route \u2014 Naruto Tokyo Pilgrimage"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/naruto-tokyo-pilgrimage-2026/5.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\naruto-tokyo-pilgrimage-2026\\5.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 486305,
+        "bpp": 0.3377118055555556,
+        "alt": "Collaboration Calendar Strategy \u2014 Naruto Tokyo Pilgrimage"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/naruto-tokyo-pilgrimage-2026/7.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\naruto-tokyo-pilgrimage-2026\\7.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 301133,
+        "bpp": 0.2091201388888889,
+        "alt": "Follow the Pilgrimage \u2014 Naruto Tokyo Pilgrimage"
+      }
+    ],
+    "body_image_count": 4,
+    "body_density_per_1k": 1.61,
+    "fatals": [],
+    "warns": [
+      "HERO_DIMS_OFF: 1920x1280 (target 1200x720)"
+    ],
+    "priority": "P2"
+  },
+  {
+    "slug": "one-piece-cafe-gene-shibuya-guide-2026",
+    "file": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\content\\articles\\one-piece-cafe-gene-shibuya-guide-2026.md",
+    "title": "One Piece Cafe GENE Shibuya 2026: Real Visitor Guide",
+    "word_count": 2884,
+    "hero_ref": "/images/articles/one-piece-cafe-gene-shibuya-guide-2026/moe-hero.jpg",
+    "hero": {
+      "kind": "hero",
+      "path_ref": "/images/articles/one-piece-cafe-gene-shibuya-guide-2026/moe-hero.jpg",
+      "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\one-piece-cafe-gene-shibuya-guide-2026\\moe-hero.jpg",
+      "exists": true,
+      "width": 1200,
+      "height": 400,
+      "file_bytes": 109096,
+      "bpp": 0.22728333333333334,
+      "alt": null
+    },
+    "body_findings": [
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/one-piece-cafe-gene-shibuya-guide-2026/moe-table-spread.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\one-piece-cafe-gene-shibuya-guide-2026\\moe-table-spread.jpg",
+        "exists": true,
+        "width": 1200,
+        "height": 2133,
+        "file_bytes": 356845,
+        "bpp": 0.13941436161900297,
+        "alt": "Moe from Japan Pop Now with full table spread at One Piece Cafe GENE Shibuya \u2014 skull bowl ramen, crepe bowl, two character drinks, Luffy standee, and Straw Hat Crew placemat"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/one-piece-cafe-gene-shibuya-guide-2026/food-menu.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\one-piece-cafe-gene-shibuya-guide-2026\\food-menu.jpg",
+        "exists": true,
+        "width": 1200,
+        "height": 1600,
+        "file_bytes": 360764,
+        "bpp": 0.18789791666666666,
+        "alt": "Food menu board at One Piece Cafe GENE showing Straw Hat Salt Ramen, Zoro Spicy Keema Curry, Shabondy Bread Gratin, and Nakama Wrap Sandwich Plate with prices"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/one-piece-cafe-gene-shibuya-guide-2026/skull-bowl-ramen.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\one-piece-cafe-gene-shibuya-guide-2026\\skull-bowl-ramen.jpg",
+        "exists": true,
+        "width": 1200,
+        "height": 2133,
+        "file_bytes": 216802,
+        "bpp": 0.08470151586185341,
+        "alt": "Skull bowl ramen being served at One Piece Cafe GENE \u2014 staff lifting the Trafalgar Law Jolly Roger lid to reveal salt ramen inside"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/one-piece-cafe-gene-shibuya-guide-2026/dessert-menu.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\one-piece-cafe-gene-shibuya-guide-2026\\dessert-menu.jpg",
+        "exists": true,
+        "width": 1200,
+        "height": 1600,
+        "file_bytes": 396992,
+        "bpp": 0.20676666666666665,
+        "alt": "Dessert menu board at One Piece Cafe GENE showing Jinbe Cake, Parfait, Crepe Bowl, and Law and Corazon Memory Sweets Plate with prices"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/one-piece-cafe-gene-shibuya-guide-2026/thousand-sunny-drink.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\one-piece-cafe-gene-shibuya-guide-2026\\thousand-sunny-drink.jpg",
+        "exists": true,
+        "width": 1200,
+        "height": 2133,
+        "file_bytes": 178261,
+        "bpp": 0.06964408501328333,
+        "alt": "Thousand Sunny drink held up in front of the One Piece Cafe GENE red logo wall \u2014 blue and yellow layered drink with skull Jolly Roger topper"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/one-piece-cafe-gene-shibuya-guide-2026/moe-luffy-standee.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\one-piece-cafe-gene-shibuya-guide-2026\\moe-luffy-standee.jpg",
+        "exists": true,
+        "width": 1200,
+        "height": 2133,
+        "file_bytes": 354367,
+        "bpp": 0.13844624160025004,
+        "alt": "Moe from Japan Pop Now holding a Luffy cardboard standee at One Piece Cafe GENE with skull bowl ramen, character drinks, and birthday cards spread across the table"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/one-piece-cafe-gene-shibuya-guide-2026/moe-eating-ramen.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\one-piece-cafe-gene-shibuya-guide-2026\\moe-eating-ramen.jpg",
+        "exists": true,
+        "width": 1200,
+        "height": 2133,
+        "file_bytes": 338957,
+        "bpp": 0.13242576965150804,
+        "alt": "Moe from Japan Pop Now eating Straw Hat Salt Ramen with chopsticks at One Piece Cafe GENE, with Luffy character standee and colorful One Piece posters in the background"
+      }
+    ],
+    "body_image_count": 7,
+    "body_density_per_1k": 2.43,
+    "fatals": [],
+    "warns": [
+      "HERO_DIMS_OFF: 1200x400 (target 1200x720)",
+      "BODY_LOW_BPP: /images/articles/one-piece-cafe-gene-shibuya-guide-2026/thousand-sunny-drink.jpg bpp=0.070"
+    ],
+    "priority": "P2"
+  },
+  {
+    "slug": "one-piece-kumamoto-statue-tour",
+    "file": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\content\\articles\\one-piece-kumamoto-statue-tour.md",
+    "title": "One Piece Kumamoto Statue Tour 2026 \u2014 All 10 Straw Hat Statues, Locations, and Itinerary",
+    "word_count": 2331,
+    "hero_ref": "/images/articles/one-piece-kumamoto-statue-tour/featured.jpg",
+    "hero": {
+      "kind": "hero",
+      "path_ref": "/images/articles/one-piece-kumamoto-statue-tour/featured.jpg",
+      "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\one-piece-kumamoto-statue-tour\\featured.jpg",
+      "exists": true,
+      "width": 1920,
+      "height": 1280,
+      "file_bytes": 1041993,
+      "bpp": 0.423988037109375,
+      "alt": null
+    },
+    "body_findings": [
+      {
+        "kind": "body",
+        "path_ref": "https://japan-pop-now.com/wp-content/uploads/2026/04/one-piece-cafe-gene-parco-2026.jpg",
+        "resolved": null,
+        "exists": false,
+        "width": null,
+        "height": null,
+        "file_bytes": null,
+        "bpp": null,
+        "alt": "One Piece Cafe GENE at PARCO \u2014 themed restaurant celebrating the anime, a perfect stop after touring Kumamoto statues"
+      }
+    ],
+    "body_image_count": 1,
+    "body_density_per_1k": 0.43,
+    "fatals": [],
+    "warns": [
+      "HERO_DIMS_OFF: 1920x1280 (target 1200x720)",
+      "BODY_REMOTE_IMG: https://japan-pop-now.com/wp-content/uploads/2026/04/one-piece-cafe-gene-parco-2026.jpg",
+      "BODY_DENSITY_LOW: 0.43/1k words (target >= 1.0)"
+    ],
+    "priority": "P2"
+  },
+  {
+    "slug": "one-piece-tokyo-guide-2026",
+    "file": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\content\\articles\\one-piece-tokyo-guide-2026.md",
+    "title": "One Piece Tokyo Guide 2026: Where to Find Every Straw Hat Experience",
+    "word_count": 3537,
+    "hero_ref": "/images/articles/one-piece-tokyo-guide-2026/featured.jpg",
+    "hero": {
+      "kind": "hero",
+      "path_ref": "/images/articles/one-piece-tokyo-guide-2026/featured.jpg",
+      "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\one-piece-tokyo-guide-2026\\featured.jpg",
+      "exists": true,
+      "width": 1920,
+      "height": 1446,
+      "file_bytes": 526874,
+      "bpp": 0.1897742335177501,
+      "alt": null
+    },
+    "body_findings": [
+      {
+        "kind": "body",
+        "path_ref": "https://japan-pop-now.com/wp-content/uploads/2026/04/one-piece-cafe-gene-parco-2026.jpg",
+        "resolved": null,
+        "exists": false,
+        "width": null,
+        "height": null,
+        "file_bytes": null,
+        "bpp": null,
+        "alt": "One Piece Cafe GENE at PARCO \u2014 the premier One Piece themed dining experience in Tokyo"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/one-piece-tokyo-guide-2026/1.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\one-piece-tokyo-guide-2026\\1.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 205005,
+        "bpp": 0.14236458333333332,
+        "alt": "One Piece Base Shop Shinjuku \u2014 One Piece Tokyo Guide 2026"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/one-piece-tokyo-guide-2026/2.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\one-piece-tokyo-guide-2026\\2.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 200247,
+        "bpp": 0.13906041666666666,
+        "alt": "Mugiwara Store Locations Across Tokyo \u2014 One Piece Tokyo Guide 2026"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/one-piece-tokyo-guide-2026/5.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\one-piece-tokyo-guide-2026\\5.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 164136,
+        "bpp": 0.11398333333333334,
+        "alt": "Recommended Shopping Route \u2014 One Piece Tokyo Guide 2026"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/one-piece-tokyo-guide-2026/6.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\one-piece-tokyo-guide-2026\\6.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 151673,
+        "bpp": 0.10532847222222222,
+        "alt": "Timing Your Visit: April 2026 Events \u2014 One Piece Tokyo Guide 2026"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/one-piece-tokyo-guide-2026/8.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\one-piece-tokyo-guide-2026\\8.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 485059,
+        "bpp": 0.3368465277777778,
+        "alt": "Never Miss a Cafe Opening or Anime Event \u2014 One Piece Tokyo Guide 2026"
+      }
+    ],
+    "body_image_count": 6,
+    "body_density_per_1k": 1.7,
+    "fatals": [],
+    "warns": [
+      "HERO_DIMS_OFF: 1920x1446 (target 1200x720)",
+      "BODY_REMOTE_IMG: https://japan-pop-now.com/wp-content/uploads/2026/04/one-piece-cafe-gene-parco-2026.jpg"
+    ],
+    "priority": "P2"
+  },
+  {
+    "slug": "osaka-anime-collab-cafes-pop-culture-2026",
+    "file": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\content\\articles\\osaka-anime-collab-cafes-pop-culture-2026.md",
+    "title": "Osaka Anime & Collab Cafes 2026: Den Den Town, Namba & Beyond",
+    "word_count": 1733,
+    "hero_ref": "/images/articles/osaka-anime-collab-cafes-pop-culture-2026/featured.jpg",
+    "hero": {
+      "kind": "hero",
+      "path_ref": "/images/articles/osaka-anime-collab-cafes-pop-culture-2026/featured.jpg",
+      "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\osaka-anime-collab-cafes-pop-culture-2026\\featured.jpg",
+      "exists": true,
+      "width": 1920,
+      "height": 1384,
+      "file_bytes": 733349,
+      "bpp": 0.2759773151493256,
+      "alt": null
+    },
+    "body_findings": [
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/osaka-anime-collab-cafes-pop-culture-2026/1.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\osaka-anime-collab-cafes-pop-culture-2026\\1.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 327391,
+        "bpp": 0.2273548611111111,
+        "alt": "Which Anime Collab Cafes Are Open in Osaka Right Now? \u2014 Osaka Anime & Collab Cafes 2026"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/osaka-anime-collab-cafes-pop-culture-2026/2.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\osaka-anime-collab-cafes-pop-culture-2026\\2.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 193569,
+        "bpp": 0.13442291666666667,
+        "alt": "Where Are the Best Osaka Anime Shopping Spots? \u2014 Osaka Anime & Collab Cafes 2026"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/osaka-anime-collab-cafes-pop-culture-2026/3.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\osaka-anime-collab-cafes-pop-culture-2026\\3.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 212518,
+        "bpp": 0.14758194444444445,
+        "alt": "How Does Osaka\u2019s Anime Scene Compare to Tokyo\u2019s? \u2014 Osaka Anime & Collab Cafes 2026"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/osaka-anime-collab-cafes-pop-culture-2026/4.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\osaka-anime-collab-cafes-pop-culture-2026\\4.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 242161,
+        "bpp": 0.1681673611111111,
+        "alt": "Can You Do Osaka + USJ Anime Events in One Trip? \u2014 Osaka Anime & Collab Cafes 2026"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/osaka-anime-collab-cafes-pop-culture-2026/5.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\osaka-anime-collab-cafes-pop-culture-2026\\5.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 313179,
+        "bpp": 0.21748541666666665,
+        "alt": "How Do You Get from Tokyo to Osaka? \u2014 Osaka Anime & Collab Cafes 2026"
+      }
+    ],
+    "body_image_count": 5,
+    "body_density_per_1k": 2.89,
+    "fatals": [],
+    "warns": [
+      "HERO_DIMS_OFF: 1920x1384 (target 1200x720)"
+    ],
+    "priority": "P2"
+  },
+  {
+    "slug": "osaka-anime-guide-den-den-town",
+    "file": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\content\\articles\\osaka-anime-guide-den-den-town.md",
+    "title": "Osaka Anime Guide 2026: Den Den Town, Collab Cafes & Beyond",
+    "word_count": 3034,
+    "hero_ref": "/images/articles/osaka-anime-guide-den-den-town/featured.jpg",
+    "hero": {
+      "kind": "hero",
+      "path_ref": "/images/articles/osaka-anime-guide-den-den-town/featured.jpg",
+      "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\osaka-anime-guide-den-den-town\\featured.jpg",
+      "exists": true,
+      "width": 2064,
+      "height": 1300,
+      "file_bytes": 531064,
+      "bpp": 0.19792188431723315,
+      "alt": null
+    },
+    "body_findings": [],
+    "body_image_count": 0,
+    "body_density_per_1k": 0.0,
+    "fatals": [
+      "BODY_NO_IMAGES: article has 3034 words but zero body images"
+    ],
+    "warns": [
+      "HERO_DIMS_OFF: 2064x1300 (target 1200x720)"
+    ],
+    "priority": "P1"
+  },
+  {
+    "slug": "pokemon-karaoke-manekineko-30th-anniversary-2026",
+    "file": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\content\\articles\\pokemon-karaoke-manekineko-30th-anniversary-2026.mdx",
+    "title": "Pokemon Karaoke Manekineko 30th Anniversary 2026 Guide",
+    "word_count": 2451,
+    "hero_ref": "/images/articles/pokemon-karaoke-manekineko-30th-anniversary-2026/hero.webp",
+    "hero": {
+      "kind": "hero",
+      "path_ref": "/images/articles/pokemon-karaoke-manekineko-30th-anniversary-2026/hero.webp",
+      "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\pokemon-karaoke-manekineko-30th-anniversary-2026\\hero.webp",
+      "exists": false,
+      "width": null,
+      "height": null,
+      "file_bytes": null,
+      "bpp": null,
+      "alt": null
+    },
+    "body_findings": [
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/pokemon-karaoke-manekineko-30th-anniversary-2026/hero.webp",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\pokemon-karaoke-manekineko-30th-anniversary-2026\\hero.webp",
+        "exists": false,
+        "width": null,
+        "height": null,
+        "file_bytes": null,
+        "bpp": null,
+        "alt": "Pokemon 30th Anniversary Karaoke Manekineko collab room entrance with Meowth and Sprigatito artwork at a Japanese store, 2026 nationwide campaign"
+      }
+    ],
+    "body_image_count": 1,
+    "body_density_per_1k": 0.41,
+    "fatals": [
+      "HERO_FILE_MISSING: C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\pokemon-karaoke-manekineko-30th-anniversary-2026\\hero.webp",
+      "BODY_BROKEN_IMG: /images/articles/pokemon-karaoke-manekineko-30th-anniversary-2026/hero.webp (resolved to C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\pokemon-karaoke-manekineko-30th-anniversary-2026\\hero.webp)"
+    ],
+    "warns": [
+      "BODY_DENSITY_LOW: 0.41/1k words (target >= 1.0)"
+    ],
+    "priority": "P1"
+  },
+  {
+    "slug": "pokepark-kanto-tokyo-2026",
+    "file": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\content\\articles\\pokepark-kanto-tokyo-2026.md",
+    "title": "Pok\u00e9Park Kanto Complete Guide 2026: Tickets, Areas & Tips",
+    "word_count": 2543,
+    "hero_ref": "/images/articles/pokepark-kanto-tokyo-2026/featured.jpg",
+    "hero": {
+      "kind": "hero",
+      "path_ref": "/images/articles/pokepark-kanto-tokyo-2026/featured.jpg",
+      "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\pokepark-kanto-tokyo-2026\\featured.jpg",
+      "exists": true,
+      "width": 1920,
+      "height": 1440,
+      "file_bytes": 494846,
+      "bpp": 0.17898075810185185,
+      "alt": null
+    },
+    "body_findings": [
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/pokepark-kanto-tokyo-2026/1.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\pokepark-kanto-tokyo-2026\\1.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 170311,
+        "bpp": 0.11827152777777777,
+        "alt": "How Much Do Pok\u00e9Park Kanto Tickets Cost? \u2014 Pok\u00e9Park Kanto Complete Guide 2026"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/pokepark-kanto-tokyo-2026/2.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\pokepark-kanto-tokyo-2026\\2.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 243929,
+        "bpp": 0.16939513888888888,
+        "alt": "How Do You Buy Tickets from Overseas? \u2014 Pok\u00e9Park Kanto Complete Guide 2026"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/pokepark-kanto-tokyo-2026/3.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\pokepark-kanto-tokyo-2026\\3.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 245286,
+        "bpp": 0.1703375,
+        "alt": "What Are the 3 Areas Inside Pok\u00e9Park Kanto? \u2014 Pok\u00e9Park Kanto Complete Guide 2026"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/pokepark-kanto-tokyo-2026/4.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\pokepark-kanto-tokyo-2026\\4.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 324488,
+        "bpp": 0.2253388888888889,
+        "alt": "How Do You Get to Pok\u00e9Park Kanto from Central Tokyo? \u2014 Pok\u00e9Park Kanto Complete Guide 2026"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/pokepark-kanto-tokyo-2026/5.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\pokepark-kanto-tokyo-2026\\5.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 268661,
+        "bpp": 0.18657013888888888,
+        "alt": "What\u2019s the Best Route to See Everything in One Day? \u2014 Pok\u00e9Park Kanto Complete Guide 2026"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/pokepark-kanto-tokyo-2026/6.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\pokepark-kanto-tokyo-2026\\6.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 193790,
+        "bpp": 0.1345763888888889,
+        "alt": "Where Should You Stay Near Pok\u00e9Park Kanto? \u2014 Pok\u00e9Park Kanto Complete Guide 2026"
+      }
+    ],
+    "body_image_count": 6,
+    "body_density_per_1k": 2.36,
+    "fatals": [],
+    "warns": [
+      "HERO_DIMS_OFF: 1920x1440 (target 1200x720)"
+    ],
+    "priority": "P2"
+  },
+  {
+    "slug": "rilakkuma-cafe-tokyo-osaka-2026",
+    "file": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\content\\articles\\rilakkuma-cafe-tokyo-osaka-2026.mdx",
+    "title": "Rilakkuma Cafe Tokyo 2026: Shibuya 109 Booking & Menu Guide",
+    "word_count": 2809,
+    "hero_ref": "/images/articles/rilakkuma-cafe-tokyo-osaka-2026/hero.webp",
+    "hero": {
+      "kind": "hero",
+      "path_ref": "/images/articles/rilakkuma-cafe-tokyo-osaka-2026/hero.webp",
+      "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\rilakkuma-cafe-tokyo-osaka-2026\\hero.webp",
+      "exists": false,
+      "width": null,
+      "height": null,
+      "file_bytes": null,
+      "bpp": null,
+      "alt": null
+    },
+    "body_findings": [
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/rilakkuma-cafe-tokyo-osaka-2026/hero.webp",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\rilakkuma-cafe-tokyo-osaka-2026\\hero.webp",
+        "exists": false,
+        "width": null,
+        "height": null,
+        "file_bytes": null,
+        "bpp": null,
+        "alt": "Rilakkuma Cafe Relaxing Dream Trip storefront at SHIBUYA 109 basement with the forest afternoon tea set on display, 2026 tour opening"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/rilakkuma-cafe-tokyo-osaka-2026/body-menu.webp",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\rilakkuma-cafe-tokyo-osaka-2026\\body-menu.webp",
+        "exists": false,
+        "width": null,
+        "height": null,
+        "file_bytes": null,
+        "bpp": null,
+        "alt": "Forest afternoon tea set plate with three side items and a Rilakkuma character main cake, from the Rilakkuma Cafe 2026 tour at SHIBUYA 109"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/rilakkuma-cafe-tokyo-osaka-2026/body-goods.webp",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\rilakkuma-cafe-tokyo-osaka-2026\\body-goods.webp",
+        "exists": false,
+        "width": null,
+        "height": null,
+        "file_bytes": null,
+        "bpp": null,
+        "alt": "Rilakkuma Cafe 2026 merchandise counter with twin acrylic keychains featuring the new anime characters Awawaneko and Yobee, plus can magnets and tea spoons, at SHIBUYA 109"
+      }
+    ],
+    "body_image_count": 3,
+    "body_density_per_1k": 1.07,
+    "fatals": [
+      "HERO_FILE_MISSING: C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\rilakkuma-cafe-tokyo-osaka-2026\\hero.webp",
+      "BODY_BROKEN_IMG: /images/articles/rilakkuma-cafe-tokyo-osaka-2026/hero.webp (resolved to C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\rilakkuma-cafe-tokyo-osaka-2026\\hero.webp)",
+      "BODY_BROKEN_IMG: /images/articles/rilakkuma-cafe-tokyo-osaka-2026/body-menu.webp (resolved to C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\rilakkuma-cafe-tokyo-osaka-2026\\body-menu.webp)",
+      "BODY_BROKEN_IMG: /images/articles/rilakkuma-cafe-tokyo-osaka-2026/body-goods.webp (resolved to C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\rilakkuma-cafe-tokyo-osaka-2026\\body-goods.webp)"
+    ],
+    "warns": [],
+    "priority": "P1"
+  },
+  {
+    "slug": "shibuya-harajuku-pop-culture-guide",
+    "file": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\content\\articles\\shibuya-harajuku-pop-culture-guide.md",
+    "title": "Shibuya & Harajuku Pop Culture Guide 2026 \u2014 Gaming Flagships, Kawaii Shopping, and the Best Walking Route",
+    "word_count": 2465,
+    "hero_ref": "/images/articles/shibuya-harajuku-pop-culture-guide/featured.jpg",
+    "hero": {
+      "kind": "hero",
+      "path_ref": "/images/articles/shibuya-harajuku-pop-culture-guide/featured.jpg",
+      "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\shibuya-harajuku-pop-culture-guide\\featured.jpg",
+      "exists": true,
+      "width": 1920,
+      "height": 1275,
+      "file_bytes": 719880,
+      "bpp": 0.2940686274509804,
+      "alt": null
+    },
+    "body_findings": [],
+    "body_image_count": 0,
+    "body_density_per_1k": 0.0,
+    "fatals": [
+      "BODY_NO_IMAGES: article has 2465 words but zero body images"
+    ],
+    "warns": [
+      "HERO_DIMS_OFF: 1920x1275 (target 1200x720)"
+    ],
+    "priority": "P1"
+  },
+  {
+    "slug": "ship-anime-figures-merch-home-japan",
+    "file": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\content\\articles\\ship-anime-figures-merch-home-japan.md",
+    "title": "How to Ship Anime Figures & Merch Home from Japan: Complete Guide (2026)",
+    "word_count": 3953,
+    "hero_ref": "/images/articles/ship-anime-figures-merch-home-japan/featured.jpg",
+    "hero": {
+      "kind": "hero",
+      "path_ref": "/images/articles/ship-anime-figures-merch-home-japan/featured.jpg",
+      "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\ship-anime-figures-merch-home-japan\\featured.jpg",
+      "exists": true,
+      "width": 1920,
+      "height": 1446,
+      "file_bytes": 885093,
+      "bpp": 0.3188007866528354,
+      "alt": null
+    },
+    "body_findings": [
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/ship-anime-figures-merch-home-japan/body3.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\ship-anime-figures-merch-home-japan\\body3.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 1067,
+        "file_bytes": 263753,
+        "bpp": 0.1544944939081537,
+        "alt": "Japan Post shipping boxes stacked at a convenience store counter"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/ship-anime-figures-merch-home-japan/body4.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\ship-anime-figures-merch-home-japan\\body4.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 1067,
+        "file_bytes": 215993,
+        "bpp": 0.12651886129334583,
+        "alt": "Anime figure being wrapped in bubble wrap and placed in a padded shipping box"
+      }
+    ],
+    "body_image_count": 2,
+    "body_density_per_1k": 0.51,
+    "fatals": [],
+    "warns": [
+      "HERO_DIMS_OFF: 1920x1446 (target 1200x720)",
+      "BODY_DENSITY_LOW: 0.51/1k words (target >= 1.0)"
+    ],
+    "priority": "P2"
+  },
+  {
+    "slug": "slam-dunk-kamakura-pilgrimage-2026",
+    "file": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\content\\articles\\slam-dunk-kamakura-pilgrimage-2026.md",
+    "title": "Slam Dunk Kamakura Pilgrimage 2026: The Famous Crossing & Beyond",
+    "word_count": 2782,
+    "hero_ref": "/images/articles/slam-dunk-kamakura-pilgrimage-2026/featured.jpg",
+    "hero": {
+      "kind": "hero",
+      "path_ref": "/images/articles/slam-dunk-kamakura-pilgrimage-2026/featured.jpg",
+      "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\slam-dunk-kamakura-pilgrimage-2026\\featured.jpg",
+      "exists": true,
+      "width": 1920,
+      "height": 1280,
+      "file_bytes": 649169,
+      "bpp": 0.2641475423177083,
+      "alt": null
+    },
+    "body_findings": [
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/slam-dunk-kamakura-pilgrimage-2026/1.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\slam-dunk-kamakura-pilgrimage-2026\\1.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 254625,
+        "bpp": 0.17682291666666666,
+        "alt": "Where Is the Famous Slam Dunk Train Crossing? \u2014 Slam Dunk Kamakura Pilgrimage 2026"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/slam-dunk-kamakura-pilgrimage-2026/2.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\slam-dunk-kamakura-pilgrimage-2026\\2.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 159720,
+        "bpp": 0.11091666666666666,
+        "alt": "What Other Slam Dunk Locations Can You Visit in Kamakura? \u2014 Slam Dunk Kamakura Pilgrimage 2026"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/slam-dunk-kamakura-pilgrimage-2026/3.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\slam-dunk-kamakura-pilgrimage-2026\\3.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 169154,
+        "bpp": 0.11746805555555556,
+        "alt": "How Do You Get to Kamakura from Tokyo? \u2014 Slam Dunk Kamakura Pilgrimage 2026"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/slam-dunk-kamakura-pilgrimage-2026/4.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\slam-dunk-kamakura-pilgrimage-2026\\4.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 323828,
+        "bpp": 0.22488055555555556,
+        "alt": "What\u2019s the Best Half-Day Pilgrimage Route? \u2014 Slam Dunk Kamakura Pilgrimage 2026"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/slam-dunk-kamakura-pilgrimage-2026/5.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\slam-dunk-kamakura-pilgrimage-2026\\5.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 155350,
+        "bpp": 0.10788194444444445,
+        "alt": "Is the Crossing Still Crowded in 2026? \u2014 Slam Dunk Kamakura Pilgrimage 2026"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/slam-dunk-kamakura-pilgrimage-2026/6.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\slam-dunk-kamakura-pilgrimage-2026\\6.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 353847,
+        "bpp": 0.24572708333333335,
+        "alt": "What Should You Know About Etiquette and Local Rules? \u2014 Slam Dunk Kamakura Pilgrimage 2026"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/slam-dunk-kamakura-pilgrimage-2026/7.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\slam-dunk-kamakura-pilgrimage-2026\\7.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 357589,
+        "bpp": 0.24832569444444444,
+        "alt": "Never Miss a Cafe Opening or Anime Event \u2014 Slam Dunk Kamakura Pilgrimage 2026"
+      }
+    ],
+    "body_image_count": 7,
+    "body_density_per_1k": 2.52,
+    "fatals": [],
+    "warns": [
+      "HERO_DIMS_OFF: 1920x1280 (target 1200x720)"
+    ],
+    "priority": "P2"
+  },
+  {
+    "slug": "spy-family-tokyo-fan-day-2026",
+    "file": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\content\\articles\\spy-family-tokyo-fan-day-2026.md",
+    "title": "SPY\u00d7FAMILY Tokyo Fan Day: Events, Shops & Cafes (2026)",
+    "word_count": 1425,
+    "hero_ref": "/images/articles/spy-family-tokyo-fan-day-2026/featured.jpg",
+    "hero": {
+      "kind": "hero",
+      "path_ref": "/images/articles/spy-family-tokyo-fan-day-2026/featured.jpg",
+      "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\spy-family-tokyo-fan-day-2026\\featured.jpg",
+      "exists": true,
+      "width": 1920,
+      "height": 1280,
+      "file_bytes": 470976,
+      "bpp": 0.191640625,
+      "alt": null
+    },
+    "body_findings": [
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/spy-family-tokyo-fan-day-2026/1.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\spy-family-tokyo-fan-day-2026\\1.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 199704,
+        "bpp": 0.13868333333333333,
+        "alt": "WAKUWAKU PARK: The Flagship Fan Experience \u2014 SPY\u00d7FAMILY Tokyo Fan Day"
+      }
+    ],
+    "body_image_count": 1,
+    "body_density_per_1k": 0.7,
+    "fatals": [],
+    "warns": [
+      "HERO_DIMS_OFF: 1920x1280 (target 1200x720)",
+      "BODY_DENSITY_LOW: 0.7/1k words (target >= 1.0)"
+    ],
+    "priority": "P2"
+  },
+  {
+    "slug": "tokyo-anime-collab-cafes-spring-2026",
+    "file": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\content\\articles\\tokyo-anime-collab-cafes-spring-2026.md",
+    "title": "Tokyo Anime Collab Cafes Spring 2026: 12 Open Now [With Map & Booking Tips]",
+    "word_count": 3692,
+    "hero_ref": "/images/articles/tokyo-anime-collab-cafes-spring-2026/featured.jpg",
+    "hero": {
+      "kind": "hero",
+      "path_ref": "/images/articles/tokyo-anime-collab-cafes-spring-2026/featured.jpg",
+      "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\tokyo-anime-collab-cafes-spring-2026\\featured.jpg",
+      "exists": true,
+      "width": 1920,
+      "height": 1440,
+      "file_bytes": 732065,
+      "bpp": 0.26478045428240743,
+      "alt": null
+    },
+    "body_findings": [
+      {
+        "kind": "body",
+        "path_ref": "https://japan-pop-now.com/wp-content/uploads/2026/04/spy-family-animate-fair-2026.jpeg",
+        "resolved": null,
+        "exists": false,
+        "width": null,
+        "height": null,
+        "file_bytes": null,
+        "bpp": null,
+        "alt": "SPY\u00d7FAMILY anime fair at Animate \u2014 Spring 2026 collab cafe and merchandise event in Tokyo"
+      },
+      {
+        "kind": "body",
+        "path_ref": "https://japan-pop-now.com/wp-content/uploads/2026/04/conan-cafe-food-menu-01.jpg",
+        "resolved": null,
+        "exists": false,
+        "width": null,
+        "height": null,
+        "file_bytes": null,
+        "bpp": null,
+        "alt": "Themed food and character desserts at an anime collaboration cafe in Tokyo \u2014 what to expect inside"
+      },
+      {
+        "kind": "body",
+        "path_ref": "https://japan-pop-now.com/wp-content/uploads/2026/04/one-piece-cafe-gene-parco-2026.jpg",
+        "resolved": null,
+        "exists": false,
+        "width": null,
+        "height": null,
+        "file_bytes": null,
+        "bpp": null,
+        "alt": "One Piece Cafe GENE at Shibuya PARCO \u2014 one of Tokyo"
+      },
+      {
+        "kind": "body",
+        "path_ref": "https://japan-pop-now.com/wp-content/uploads/2026/04/jjk-sweets-paradise-cafe-2026.jpg",
+        "resolved": null,
+        "exists": false,
+        "width": null,
+        "height": null,
+        "file_bytes": null,
+        "bpp": null,
+        "alt": "Jujutsu Kaisen 5th Anniversary \u00d7 Sweets Paradise collab cafe \u2014 limited-time anime dining event in 2026"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/tokyo-anime-collab-cafes-spring-2026/body5.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\tokyo-anime-collab-cafes-spring-2026\\body5.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 1071,
+        "file_bytes": 194048,
+        "bpp": 0.11323996265172735,
+        "alt": "Anime fans browsing limited edition merchandise at a Tokyo collab cafe checkout counter"
+      }
+    ],
+    "body_image_count": 5,
+    "body_density_per_1k": 1.35,
+    "fatals": [],
+    "warns": [
+      "HERO_DIMS_OFF: 1920x1440 (target 1200x720)",
+      "BODY_REMOTE_IMG: https://japan-pop-now.com/wp-content/uploads/2026/04/spy-family-animate-fair-2026.jpeg",
+      "BODY_REMOTE_IMG: https://japan-pop-now.com/wp-content/uploads/2026/04/conan-cafe-food-menu-01.jpg",
+      "BODY_REMOTE_IMG: https://japan-pop-now.com/wp-content/uploads/2026/04/one-piece-cafe-gene-parco-2026.jpg",
+      "BODY_REMOTE_IMG: https://japan-pop-now.com/wp-content/uploads/2026/04/jjk-sweets-paradise-cafe-2026.jpg"
+    ],
+    "priority": "P2"
+  },
+  {
+    "slug": "tokyo-anime-collab-cafes-summer-2026",
+    "file": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\content\\articles\\tokyo-anime-collab-cafes-summer-2026.md",
+    "title": "Tokyo Anime Collab Cafes Summer 2026: What\u2019s Open & How to Book",
+    "word_count": 2587,
+    "hero_ref": "/images/articles/tokyo-anime-collab-cafes-summer-2026/featured.jpg",
+    "hero": {
+      "kind": "hero",
+      "path_ref": "/images/articles/tokyo-anime-collab-cafes-summer-2026/featured.jpg",
+      "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\tokyo-anime-collab-cafes-summer-2026\\featured.jpg",
+      "exists": true,
+      "width": 1920,
+      "height": 1437,
+      "file_bytes": 612828,
+      "bpp": 0.22211638830897704,
+      "alt": null
+    },
+    "body_findings": [
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/tokyo-anime-collab-cafes-summer-2026/1.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\tokyo-anime-collab-cafes-summer-2026\\1.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 201039,
+        "bpp": 0.13961041666666665,
+        "alt": "Which Anime Collab Cafes Are Open in Tokyo This Summer? \u2014 Tokyo Anime Collab Cafes Summer 2026"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/tokyo-anime-collab-cafes-summer-2026/2.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\tokyo-anime-collab-cafes-summer-2026\\2.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 102380,
+        "bpp": 0.07109722222222223,
+        "alt": "Which Cafes Need Reservations and How Do You Book? \u2014 Tokyo Anime Collab Cafes Summer 2026"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/tokyo-anime-collab-cafes-summer-2026/3.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\tokyo-anime-collab-cafes-summer-2026\\3.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 157792,
+        "bpp": 0.10957777777777777,
+        "alt": "What Are the Best Summer 2026 Cafes? \u2014 Tokyo Anime Collab Cafes Summer 2026"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/tokyo-anime-collab-cafes-summer-2026/4.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\tokyo-anime-collab-cafes-summer-2026\\4.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 202731,
+        "bpp": 0.14078541666666666,
+        "alt": "How Much Does a Collab Cafe Visit Typically Cost? \u2014 Tokyo Anime Collab Cafes Summer 2026"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/tokyo-anime-collab-cafes-summer-2026/5.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\tokyo-anime-collab-cafes-summer-2026\\5.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 168047,
+        "bpp": 0.11669930555555555,
+        "alt": "Can You Visit Multiple Cafes in One Day? \u2014 Tokyo Anime Collab Cafes Summer 2026"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/tokyo-anime-collab-cafes-summer-2026/6.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\tokyo-anime-collab-cafes-summer-2026\\6.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 286668,
+        "bpp": 0.199075,
+        "alt": "Never Miss a Cafe Opening or Anime Event \u2014 Tokyo Anime Collab Cafes Summer 2026"
+      }
+    ],
+    "body_image_count": 6,
+    "body_density_per_1k": 2.32,
+    "fatals": [],
+    "warns": [
+      "HERO_DIMS_OFF: 1920x1437 (target 1200x720)",
+      "BODY_LOW_BPP: /images/articles/tokyo-anime-collab-cafes-summer-2026/2.jpg bpp=0.071"
+    ],
+    "priority": "P2"
+  },
+  {
+    "slug": "tokyo-anime-district-guide",
+    "file": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\content\\articles\\tokyo-anime-district-guide.md",
+    "title": "Tokyo Anime Neighborhoods Guide 2026 \u2014 Akihabara, Nakano, Ikebukuro and 5 Districts",
+    "word_count": 2432,
+    "hero_ref": "/images/articles/tokyo-anime-district-guide/featured.jpg",
+    "hero": {
+      "kind": "hero",
+      "path_ref": "/images/articles/tokyo-anime-district-guide/featured.jpg",
+      "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\tokyo-anime-district-guide\\featured.jpg",
+      "exists": true,
+      "width": 1920,
+      "height": 1280,
+      "file_bytes": 662409,
+      "bpp": 0.269534912109375,
+      "alt": null
+    },
+    "body_findings": [
+      {
+        "kind": "body",
+        "path_ref": "https://japan-pop-now.com/wp-content/uploads/2026/04/one-piece-cafe-gene-parco-2026.jpg",
+        "resolved": null,
+        "exists": false,
+        "width": null,
+        "height": null,
+        "file_bytes": null,
+        "bpp": null,
+        "alt": "Tokyo Tower and cityscape at dusk \u2014 the city is home to multiple anime districts each with its own specialty and culture"
+      }
+    ],
+    "body_image_count": 1,
+    "body_density_per_1k": 0.41,
+    "fatals": [],
+    "warns": [
+      "HERO_DIMS_OFF: 1920x1280 (target 1200x720)",
+      "BODY_REMOTE_IMG: https://japan-pop-now.com/wp-content/uploads/2026/04/one-piece-cafe-gene-parco-2026.jpg",
+      "BODY_DENSITY_LOW: 0.41/1k words (target >= 1.0)"
+    ],
+    "priority": "P2"
+  },
+  {
+    "slug": "universal-cool-japan-2026-guide",
+    "file": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\content\\articles\\universal-cool-japan-2026-guide.md",
+    "title": "Universal Cool Japan 2026 Guide: Best Franchises, Dates & Is It Worth Adding to Your Osaka Trip?",
+    "word_count": 1425,
+    "hero_ref": "/images/articles/universal-cool-japan-2026-guide/featured.jpg",
+    "hero": {
+      "kind": "hero",
+      "path_ref": "/images/articles/universal-cool-japan-2026-guide/featured.jpg",
+      "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\universal-cool-japan-2026-guide\\featured.jpg",
+      "exists": true,
+      "width": 1920,
+      "height": 1440,
+      "file_bytes": 743304,
+      "bpp": 0.2688454861111111,
+      "alt": null
+    },
+    "body_findings": [
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/universal-cool-japan-2026-guide/1.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\universal-cool-japan-2026-guide\\1.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 178466,
+        "bpp": 0.12393472222222222,
+        "alt": "Why Universal Cool Japan 2026 stands out \u2014 Universal Cool Japan 2026 Guide"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/universal-cool-japan-2026-guide/2.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\universal-cool-japan-2026-guide\\2.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 209549,
+        "bpp": 0.1455201388888889,
+        "alt": "Which franchises are included? \u2014 Universal Cool Japan 2026 Guide"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/universal-cool-japan-2026-guide/3.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\universal-cool-japan-2026-guide\\3.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 193373,
+        "bpp": 0.13428680555555556,
+        "alt": "Universal Cool Japan vs Tokyo anime events \u2014 Universal Cool Japan 2026 Guide"
+      },
+      {
+        "kind": "body",
+        "path_ref": "/images/articles/universal-cool-japan-2026-guide/4.jpg",
+        "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\universal-cool-japan-2026-guide\\4.jpg",
+        "exists": true,
+        "width": 1600,
+        "height": 900,
+        "file_bytes": 193790,
+        "bpp": 0.1345763888888889,
+        "alt": "Where to go next on Japan Pop Now \u2014 Universal Cool Japan 2026 Guide"
+      }
+    ],
+    "body_image_count": 4,
+    "body_density_per_1k": 2.81,
+    "fatals": [],
+    "warns": [
+      "HERO_DIMS_OFF: 1920x1440 (target 1200x720)"
+    ],
+    "priority": "P2"
+  },
+  {
+    "slug": "weathering-with-you-locations-tokyo",
+    "file": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\content\\articles\\weathering-with-you-locations-tokyo.md",
+    "title": "Weathering With You Locations Tokyo \u2014 Every Real Spot from Tenki no Ko You Can Visit (2026)",
+    "word_count": 2108,
+    "hero_ref": "/images/articles/weathering-with-you-locations-tokyo/featured.jpg",
+    "hero": {
+      "kind": "hero",
+      "path_ref": "/images/articles/weathering-with-you-locations-tokyo/featured.jpg",
+      "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\weathering-with-you-locations-tokyo\\featured.jpg",
+      "exists": true,
+      "width": 1920,
+      "height": 1274,
+      "file_bytes": 980056,
+      "bpp": 0.40066391941391943,
+      "alt": null
+    },
+    "body_findings": [
+      {
+        "kind": "body",
+        "path_ref": "https://japan-pop-now.com/wp-content/uploads/2026/04/conan-cafe-2026-key-visual.jpg",
+        "resolved": null,
+        "exists": false,
+        "width": null,
+        "height": null,
+        "file_bytes": null,
+        "bpp": null,
+        "alt": "Detective Conan collaboration cafe key visual \u2014 anime-themed experiences throughout Tokyo"
+      }
+    ],
+    "body_image_count": 1,
+    "body_density_per_1k": 0.47,
+    "fatals": [],
+    "warns": [
+      "HERO_DIMS_OFF: 1920x1274 (target 1200x720)",
+      "BODY_REMOTE_IMG: https://japan-pop-now.com/wp-content/uploads/2026/04/conan-cafe-2026-key-visual.jpg",
+      "BODY_DENSITY_LOW: 0.47/1k words (target >= 1.0)"
+    ],
+    "priority": "P2"
+  },
+  {
+    "slug": "wonder-festival-figure-events-japan-2026",
+    "file": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\content\\articles\\wonder-festival-figure-events-japan-2026.md",
+    "title": "Wonder Festival & Figure Events Japan 2026: Tickets, Tips & Shipping",
+    "word_count": 1850,
+    "hero_ref": "/images/articles/wonder-festival-figure-events-japan-2026/featured.jpg",
+    "hero": {
+      "kind": "hero",
+      "path_ref": "/images/articles/wonder-festival-figure-events-japan-2026/featured.jpg",
+      "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\wonder-festival-figure-events-japan-2026\\featured.jpg",
+      "exists": true,
+      "width": 1920,
+      "height": 1080,
+      "file_bytes": 343681,
+      "bpp": 0.16574122299382715,
+      "alt": null
+    },
+    "body_findings": [],
+    "body_image_count": 0,
+    "body_density_per_1k": 0.0,
+    "fatals": [
+      "BODY_NO_IMAGES: article has 1850 words but zero body images"
+    ],
+    "warns": [
+      "HERO_DIMS_OFF: 1920x1080 (target 1200x720)"
+    ],
+    "priority": "P1"
+  },
+  {
+    "slug": "your-name-pilgrimage-tokyo",
+    "file": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\content\\articles\\your-name-pilgrimage-tokyo.md",
+    "title": "Your Name Pilgrimage Tokyo: Every Real-Life Location (With Walking Route)",
+    "word_count": 1955,
+    "hero_ref": "/images/articles/your-name-pilgrimage-tokyo/featured.jpg",
+    "hero": {
+      "kind": "hero",
+      "path_ref": "/images/articles/your-name-pilgrimage-tokyo/featured.jpg",
+      "resolved": "C:\\Users\\user\\OneDrive\\\u30c9\u30ad\u30e5\u30e1\u30f3\u30c8\\GitHub\\japan-pop-now\\public\\images\\articles\\your-name-pilgrimage-tokyo\\featured.jpg",
+      "exists": true,
+      "width": 1920,
+      "height": 1440,
+      "file_bytes": 1783334,
+      "bpp": 0.645013744212963,
+      "alt": null
+    },
+    "body_findings": [
+      {
+        "kind": "body",
+        "path_ref": "https://japan-pop-now.com/wp-content/uploads/2026/04/trigun-chugai-grace-cafe-2026.jpg",
+        "resolved": null,
+        "exists": false,
+        "width": null,
+        "height": null,
+        "file_bytes": null,
+        "bpp": null,
+        "alt": "Anime collaboration cafe in Tokyo \u2014 themed dining experiences near popular pilgrimage locations \u2014 where fans recreate Your Name"
+      }
+    ],
+    "body_image_count": 1,
+    "body_density_per_1k": 0.51,
+    "fatals": [],
+    "warns": [
+      "HERO_DIMS_OFF: 1920x1440 (target 1200x720)",
+      "BODY_REMOTE_IMG: https://japan-pop-now.com/wp-content/uploads/2026/04/trigun-chugai-grace-cafe-2026.jpg",
+      "BODY_DENSITY_LOW: 0.51/1k words (target >= 1.0)"
+    ],
+    "priority": "P2"
+  }
+]
