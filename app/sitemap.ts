@@ -63,12 +63,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.5,
       lastModified: new Date('2026-04-17'),
     },
-    {
-      url: `${baseUrl}/search`,
-      changeFrequency: 'monthly',
-      priority: 0.3,
-      lastModified: new Date('2026-04-10'),
-    },
+    // /search intentionally excluded — SERPs should never index per Google
+    // guidance, and the page itself now returns robots=noindex (see
+    // app/search/layout.tsx).
   ];
 
   // Article pages — use actual lastUpdated or date from frontmatter
@@ -79,19 +76,25 @@ export default function sitemap(): MetadataRoute.Sitemap {
     lastModified: new Date(article.lastUpdated || article.date),
   }));
 
-  // Category pages — use latest article date in that category
-  const categoryPages: MetadataRoute.Sitemap = CATEGORIES.map((category) => {
-    const categoryArticles = articles.filter((a) => a.category === category.slug);
-    const latestInCategory = categoryArticles.length > 0
-      ? new Date(Math.max(...categoryArticles.map((a) => new Date(a.lastUpdated || a.date).getTime())))
-      : new Date('2026-04-10');
-    return {
-      url: `${baseUrl}/category/${category.slug}`,
-      changeFrequency: 'weekly' as const,
-      priority: 0.7,
-      lastModified: latestInCategory,
-    };
-  });
+  // Category pages — use latest article date in that category.
+  // Empty categories (events / culture) are excluded from the sitemap AND
+  // robots=noindex (see app/category/[slug]/page.tsx) until they have at
+  // least one article. Keeps thin hubs out of Google's index attempts.
+  const categoryPages: MetadataRoute.Sitemap = CATEGORIES
+    .map((category) => {
+      const categoryArticles = articles.filter((a) => a.category === category.slug);
+      if (categoryArticles.length === 0) return null;
+      const latestInCategory = new Date(
+        Math.max(...categoryArticles.map((a) => new Date(a.lastUpdated || a.date).getTime()))
+      );
+      return {
+        url: `${baseUrl}/category/${category.slug}`,
+        changeFrequency: 'weekly' as const,
+        priority: 0.7,
+        lastModified: latestInCategory,
+      };
+    })
+    .filter((entry): entry is NonNullable<typeof entry> => entry !== null);
 
   // Guide hub pages — use latest article date overall
   const hubTopics = [

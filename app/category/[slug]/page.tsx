@@ -91,13 +91,21 @@ export async function generateMetadata({
   const articles = getArticlesByCategory(slug);
   const firstWithImage = articles.find((a) => a.featuredImage);
 
+  // Empty categories (events / culture currently) are thin-content liabilities
+  // for AdSense and dilute impressions when Google indexes them. Flip to
+  // noindex until at least one article lands in the category. follow=true so
+  // breadcrumb + Explore Other Categories internal links still pass.
+  const categoryIsThin = articles.length === 0;
+
   return {
     title: `${category.label} — Japan Pop Now`,
     description: category.description || `Explore all articles about ${category.label.toLowerCase()} on Japan Pop Now.`,
     alternates: {
       canonical: categoryUrl,
     },
-    robots: { index: true, follow: true },
+    robots: categoryIsThin
+      ? { index: false, follow: true, googleBot: { index: false, follow: true } }
+      : { index: true, follow: true },
     openGraph: {
       title: `${category.label} — Japan Pop Now`,
       description: category.description || `Explore all articles about ${category.label.toLowerCase()} on Japan Pop Now.`,
