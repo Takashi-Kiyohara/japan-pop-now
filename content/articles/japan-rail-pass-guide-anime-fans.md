@@ -1,6 +1,6 @@
 ---
 title: "Japan Rail Pass Guide for Anime Fans: Is It Worth It? (2026)"
-description: "Last updated: April 2026. If you’re planning an anime pilgrimage across Japan — hitting collab cafes in Tokyo, One Piece statues in Kumamoto, and Den Den Town..."
+description: "Japan Rail Pass guide for anime fans (2026): collab cafes in Tokyo, One Piece statues in Kumamoto, Den Den Town — route, cost, and activation tips."
 date: "2026-04-01"
 lastUpdated: "2026-04-01"
 category: "experiences"

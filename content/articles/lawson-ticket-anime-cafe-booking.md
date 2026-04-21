@@ -17,7 +17,7 @@ featuredImageAlt: "Lawson convenience store exterior in Japan for Loppi ticket b
 heroImageAlt: "Lawson convenience store exterior in Japan for Loppi ticket booking"
 imageCredit: "Photo: Unsplash (CC0)"
 keywords: ["lawson ticket booking 2026", "anime cafe reservation english", "how to book anime cafe japan", "loppi machine guide", "l-tike.com english"]
-description: "Book an anime cafe in Japan through Lawson Ticket in 2026 with this step-by-step English guide — Loppi machine walkthrough, QR code pickup, cash payment, and 5 FAQs."
+description: "Book an anime cafe via Lawson Ticket, 2026: step-by-step Loppi machine walkthrough, QR code pickup, cash payment rules, and 5 common FAQs."
 excerpt: "Last updated: April 2026. Step-by-step English guide to booking anime cafes through Lawson Ticket (l-tike.com) and Loppi machines — 6-step flow, phone-number workarounds, and the 5 questions foreign visitors ask most."
 relatedSlugs: ["tokyo-anime-collab-cafes-spring-2026", "demon-slayer-rerun-cafe-ufotable-2026", "apothecary-diaries-oshi-tabi-osaka-shinkansen-2026", "ouran-host-club-20th-anniversary-cafes-2026", "osaka-anime-cafes-complete-guide-2026"]
 reading_time: 9

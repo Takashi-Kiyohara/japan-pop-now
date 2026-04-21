@@ -1,6 +1,6 @@
 ---
 title: "Naruto Tokyo Pilgrimage: A Complete Guide to Shinobi Locations"
-description: "Discover real-world Naruto pilgrimage spots across Tokyo, from Jump Shop to anime exhibition halls. Visit where ninjas train, eat ramen, and experience seichi junrei."
+description: "Real-world Naruto pilgrimage spots across Tokyo: Jump Shop, exhibition halls, and seichi junrei stops — plus where to eat ramen on the route."
 date: "2026-04-08"
 lastUpdated: "2026-04-08"
 category: "destinations"

@@ -1,6 +1,6 @@
 ---
 title: "SPY×FAMILY Tokyo Fan Day: Events, Shops & Cafes (2026)"
-description: "Last updated: April 2026 SPY×FAMILY Tokyo Fan Day: Events, Shops & Cafes SPY×FAMILY is everywhere in Tokyo right now. The anime has crossed over from obsessed..."
+description: "SPY×FAMILY Tokyo fan day: current events, merch shops, and collab cafes in one plan — where to go, what to buy, and how to line up the day."
 date: "2026-04-03"
 lastUpdated: "2026-04-03"
 category: "experiences"
