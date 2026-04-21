@@ -1,6 +1,6 @@
 ---
 title: "Jujutsu Kaisen Shibuya Locations: Complete 2026 Guide"
-description: "Jujutsu Kaisen Shibuya Pilgrimage Guide: Location Matching & Walking Routes Last updated: April 2026 Shibuya in 2024 became the epicenter of Jujutsu Kaisen’s..."
+description: "Jujutsu Kaisen Shibuya pilgrimage guide 2026: Shibuya Incident arc locations, walking routes, and where the show's scenes actually map onto real streets."
 date: "2026-04-03"
 lastUpdated: "2026-04-03"
 category: "destinations"
