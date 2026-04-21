@@ -247,6 +247,13 @@ Booking the platform is step one. What to actually do next depends on your Tokyo
 - [Osaka Anime Cafes Complete Guide 2026](/osaka-anime-cafes-complete-guide-2026/) — Osaka-specific booking tactics
 - [Tokyo Anime District Guide](/tokyo-anime-collab-cafes-spring-2026/) — where the cafes cluster (Ikebukuro, Shibuya, Akihabara)
 
+
+## Related Articles
+
+- [How to Book an Anime Collab Cafe](/articles/how-to-book-anime-collab-cafe-japan)
+- [Animate Cafe Guide Japan](/articles/animate-cafe-guide-japan)
+- [Tokyo Anime Collab Cafes Spring 2026](/articles/tokyo-anime-collab-cafes-spring-2026)
+
 ## Image Credits
 
 - Hero image: Unsplash (CC0)

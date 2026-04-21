@@ -152,3 +152,9 @@ Follow for weekly collab cafe updates & Japan pop culture content.
 
 ### Explore by Area
 [ Tokyo](/tag/tokyo/)[ Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[ Shibuya](/shibuya-anime-spots-guide/)[ Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[ Osaka](/osaka-anime-guide-2025/) Kyoto (Coming Soon)
+
+## Related Articles
+
+- [Golden Week 2026 Anime Events Complete Guide](/articles/golden-week-2026-anime-events-complete-guide)
+- [Osaka Anime Cafes Complete Guide 2026](/articles/osaka-anime-cafes-complete-guide-2026)
+- [Osaka Anime Guide: Den Den Town](/articles/osaka-anime-guide-den-den-town)

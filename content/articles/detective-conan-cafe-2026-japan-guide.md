@@ -180,3 +180,9 @@ Follow for weekly collab cafe updates & Japan pop culture content.
 
 ### Explore by Area
 [ Tokyo](/tag/tokyo/)[ Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[ Shibuya](/shibuya-anime-spots-guide/)[ Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[ Osaka](/osaka-anime-guide-2025/) Kyoto (Coming Soon)
+
+## Related Articles
+
+- [Detective Conan Cafe Tokyo & Osaka 3-Venue 2026](/articles/detective-conan-cafe-tokyo-osaka-3venue-2026)
+- [Detective Conan Pilgrimage Events 2026](/articles/detective-conan-pilgrimage-events-2026)
+- [How to Book an Anime Collab Cafe](/articles/how-to-book-anime-collab-cafe-japan)

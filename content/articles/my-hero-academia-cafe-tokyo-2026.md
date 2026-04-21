@@ -149,3 +149,8 @@ Follow for weekly collab cafe updates & Japan pop culture content.
 
 ### Explore by Area
 [ Tokyo](/tag/tokyo/)[ Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[ Shibuya](/shibuya-anime-spots-guide/)[ Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[ Osaka](/osaka-anime-guide-2025/) Kyoto (Coming Soon)
+
+## Related Articles
+
+- [My Hero Academia Waffle Diner Ikebukuro 2026](/articles/my-hero-academia-waffle-diner-ikebukuro-2026)
+- [Ikebukuro Anime Guide 2026](/articles/ikebukuro-anime-guide-2026)
