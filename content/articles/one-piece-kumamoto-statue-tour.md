@@ -80,6 +80,9 @@ The remaining five statues are spread across different towns in Kumamoto Prefect
 
 **Jinbe** (Uto City) — The last statue completed (July 2022), standing at Sumiyoshi Kaigan Park on the coast. Jinbe, as the crew’s helmsman and former fishman pirate, watches over the sea. Bus connections from Kumamoto Station exist but require planning.
 
+![Kumamoto Castle, the iconic prefectural landmark that anchors most visitor day trips around the Straw Hat statue route](/images/articles/one-piece-kumamoto-statue-tour/body-wikimedia.webp)
+*Kumamoto Castle — the natural visual anchor for a Straw Hat statue day trip, within walking distance of the Luffy statue at Kumamoto Prefectural Government Office. Photo: 663highland / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kumamoto_Castle_02n3200.jpg), CC BY 2.5.*
+
 ## How to See All 10: Transportation Options
 ### Option 1: Rental Car (Recommended)
 This is the most practical way to see all ten statues. The statues are spread across roughly 200 kilometers of the prefecture, and five of them are in locations with limited public transport. A rental car lets you see all ten in 1.5 to 2 days at a comfortable pace.
