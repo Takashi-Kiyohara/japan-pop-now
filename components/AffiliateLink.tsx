@@ -59,12 +59,21 @@ export default function AffiliateLink({
 
   const affiliateUrl = buildAffiliateUrl(href, category);
 
+  let destinationHost = '';
+  try {
+    destinationHost = new URL(affiliateUrl).hostname;
+  } catch {
+    destinationHost = '';
+  }
+
   const handleClick = () => {
     // GA4 event tracking for affiliate clicks
     if (typeof window !== 'undefined' && typeof window.gtag === 'function') {
       window.gtag('event', 'affiliate_click', {
         affiliate_program: program,
         affiliate_url: affiliateUrl,
+        affiliate_category: category,
+        affiliate_destination: destinationHost,
       });
     }
   };
@@ -75,6 +84,10 @@ export default function AffiliateLink({
       target="_blank"
       rel="nofollow sponsored noopener noreferrer"
       onClick={handleClick}
+      data-cta-program={program}
+      data-cta-category={category}
+      data-cta-destination={destinationHost}
+      data-cta-variant="inline-link"
       className={`inline-flex items-center gap-1 font-semibold transition-opacity hover:opacity-80 ${className}`}
       style={{ color: '#ea580c', borderBottom: '1px dashed rgba(234, 88, 12, 0.4)' }}
     >

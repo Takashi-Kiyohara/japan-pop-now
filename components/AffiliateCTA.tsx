@@ -36,13 +36,29 @@ function buildAffiliateUrl(baseUrl: string, category: string = 'general'): strin
   }
 }
 
-function trackClick(program: string, title: string, url: string) {
+function trackClick(
+  program: string,
+  title: string,
+  url: string,
+  category?: string,
+  variant?: string,
+) {
   if (typeof window !== 'undefined' && typeof window.gtag === 'function') {
     window.gtag('event', 'affiliate_cta_click', {
       affiliate_program: program,
       cta_title: title,
       affiliate_url: url,
+      affiliate_category: category ?? 'general',
+      cta_variant: variant ?? 'mid',
     });
+  }
+}
+
+function hostOf(url: string): string {
+  try {
+    return new URL(url).hostname;
+  } catch {
+    return '';
   }
 }
 
@@ -81,7 +97,12 @@ export default function AffiliateCTA({
         href={affiliateUrl}
         target="_blank"
         rel="nofollow sponsored noopener noreferrer"
-        onClick={() => trackClick(program, title, affiliateUrl)}
+        onClick={() => trackClick(program, title, affiliateUrl, category, 'inline')}
+        data-cta-program={program}
+        data-cta-category={category}
+        data-cta-destination={hostOf(affiliateUrl)}
+        data-cta-variant="inline"
+        data-cta-title={title}
         style={{
           background: '#fff7ed',
           color: '#9a3412',
@@ -145,7 +166,12 @@ export default function AffiliateCTA({
               href={affiliateUrl}
               target="_blank"
               rel="nofollow sponsored noopener noreferrer"
-              onClick={() => trackClick(program, title, affiliateUrl)}
+              onClick={() => trackClick(program, title, affiliateUrl, category, 'end')}
+              data-cta-program={program}
+              data-cta-category={category}
+              data-cta-destination={hostOf(affiliateUrl)}
+              data-cta-variant="end"
+              data-cta-title={title}
               className="inline-flex items-center gap-2 px-6 py-3 rounded-lg text-sm font-semibold text-white hover:opacity-90 transition-opacity"
               style={{ background: '#f97316' }}
             >
@@ -199,7 +225,12 @@ export default function AffiliateCTA({
                 href={affiliateUrl}
                 target="_blank"
                 rel="nofollow sponsored noopener noreferrer"
-                onClick={() => trackClick(program, title, affiliateUrl)}
+                onClick={() => trackClick(program, title, affiliateUrl, category, 'mid')}
+                data-cta-program={program}
+                data-cta-category={category}
+                data-cta-destination={hostOf(affiliateUrl)}
+                data-cta-variant="mid"
+                data-cta-title={title}
                 className="inline-flex items-center gap-2 px-5 py-2.5 rounded-lg text-sm font-semibold text-white transition-opacity hover:opacity-90"
                 style={{ background: '#f97316' }}
               >
