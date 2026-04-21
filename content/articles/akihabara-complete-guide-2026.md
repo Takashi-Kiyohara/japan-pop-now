@@ -35,6 +35,9 @@ Akihabara is compact â everything fits within a 10-minute walking radius fr
 
 On Sundays and public holidays (1:00 PM â 6:00 PM, until 5:00 PM OctoberâMarch), Chuo Dori closes to traffic and becomes a pedestrian zone called Hokousha Tengoku (æ­©è¡èå¤©å½). This is when cosplayers come out, street performers set up, and the entire street becomes a walkable festival. It’s the most photogenic time to visit, but the worst time for serious shopping â the crowds make browsing difficult.
 
+![Akihabara Station Electric Town south entrance, the starting point most visitors use for the Akihabara otaku district](/images/articles/akihabara-complete-guide-2026/body-wikimedia.webp)
+*Akihabara Station Electric Town exit — the Atre Akihabara 1 facade that anchors the entire shopping grid. Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Akihabara_Station_Electric_Town_south_entrance_below_the_Atr%C3%A9_Akihabara_1_(2010-10-15_17.53.19).jpg), CC BY 3.0.*
+
 ## The Essential Stops
 
 Start here on your first visit. These are the landmarks that orient you.
