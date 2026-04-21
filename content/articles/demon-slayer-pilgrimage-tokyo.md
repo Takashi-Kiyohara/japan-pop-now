@@ -26,6 +26,9 @@ The most significant Demon Slayer location in Tokyo. Asakusa and its iconic Sens
 
 The match between anime and reality is strong. Senso-ji’s Nakamise Shopping Street, the traditional architecture, the lanterns — the atmosphere of old Tokyo is exactly what the Demon Slayer team was referencing. One historical detail the anime gets right: the Kaminarimon (Thunder Gate) at the entrance to Senso-ji is notably absent from the anime’s Taisho-era scenes, because the real gate burned down in 1865 and wasn’t rebuilt until 1960.
 
+![Kaminarimon (Thunder Gate) at Senso-ji Temple in Asakusa, the landmark that opens the Taisho-era streets referenced throughout Demon Slayer](/images/articles/demon-slayer-pilgrimage-tokyo/body-kaminarimon.webp)
+*Kaminarimon at Senso-ji, Asakusa — the gate that anchors the Demon Slayer Tokyo pilgrimage route. Photo: Daderot / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kaminarimon_%28outer_gate%29%2C_Sensoji_Temple%2C_Akakusa%2C_Tokyo.jpg), Public domain.*
+
 | **Location** | Senzoku 4-chome, Taito-ku, Tokyo (former Yoshiwara) |
 | --- | --- |
 | **Station** | Tawaramachi Station (Ginza Line) or walk from Asakusa — 15-20 min |
