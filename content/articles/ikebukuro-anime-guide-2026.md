@@ -22,6 +22,9 @@ Image: Collabo Cafe
 ## Why Ikebukuro Is Tokyo’s Best-Kept Anime Secret
 Most first-time visitors head straight to Akihabara for their anime fix. That’s fine — Akihabara is great. But Ikebukuro is where Tokyo’s anime culture actually thrives in 2026, and it offers something Akihabara can’t: a complete pop culture experience that goes beyond just shopping.
 
+![Ikebukuro Station East Exit, the primary gateway into the Otome Road and Animate flagship district](/images/articles/ikebukuro-anime-guide-2026/body-wikimedia.webp)
+*Ikebukuro Station East Exit — drop here for Animate, Otome Road, and Sunshine City. Photo: MaedaAkihiko / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ikebukuro-STA_East.jpg), CC BY-SA 4.0.*
+
 Ikebukuro’s east side is home to the world’s largest Animate store, the massive Gashapon Department Store, multiple game centers, and a concentration of collab cafes that runs 3–5 different anime collaborations simultaneously on any given day. The west side has Otome Road — Japan’s premier destination for female-oriented anime and manga culture. And Sunshine City, a mega-complex attached to the station, regularly hosts anime exhibitions, pop-up events, and merchandise fairs.
 
 The district is also just easier to find your way around than Akihabara. It’s more compact, less overwhelming for first-timers, and better connected to the rest of Tokyo via the Yamanote, Marunouchi, Fukutoshin, and Seibu/Tobu lines. You can cover Ikebukuro’s entire anime scene in a focused half-day, or spread it across a leisurely full day with meals and cafe visits.
