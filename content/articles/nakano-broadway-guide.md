@@ -13,6 +13,9 @@ relatedSlugs: []
 wpPostId: 204
 ---
 
+![Mandarake storefront inside Nakano Broadway — the anchor tenant that drives collector traffic through the building](/images/articles/nakano-broadway-guide/body-wikimedia.webp)
+*Mandarake at Nakano Broadway — one of 25+ specialty branches inside the building, each tuned to a different fandom. Photo: LeLaisserPasserA38 / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:MandarakeNakano2.jpg), CC0.*
+
 *Last updated: March 2026. Covers all floors, Mandarake locations, Daily Chico soft serve, opening hours, and a practical comparison with Akihabara.*
 
 Everybody knows Akihabara. It’s loud, it’s neon, and every travel guide on the internet will send you there for anime shopping. But the people who actually collect — the ones hunting first-edition manga, vintage Gundam kits, and figures that haven’t been in production for 20 years — they go to Nakano Broadway.
