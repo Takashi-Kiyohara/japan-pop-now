@@ -22,6 +22,9 @@ This guide covers every major visitable location from the film, organized into w
 ## Koenji: Japan’s Only Weather Shrine
 The most thematically perfect Weathering With You pilgrimage stop. Koenji Hikawa Shrine houses the **Kisho Shrine** (気象神社) — literally “Weather Shrine” — the only shrine in Japan dedicated to weather. In a film about a girl who can control the weather, this is as on-the-nose as it gets.
 
+![Shinjuku neon signs at dusk — the districts Hodaka crosses through repeatedly during Weathering With You](/images/articles/weathering-with-you-locations-tokyo/body-wikimedia.webp)
+*Shinjuku at blue hour — the neon-lit district that appears throughout Hodaka's storyline in Weathering With You. Photo: Basile Morin / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Buildings_with_colorful_neon_street_signs_at_blue_hour,_Shinjuku,_Tokyo.jpg), CC BY-SA 4.0.*
+
 The shrine sells wooden geta (traditional clog) shaped prayer plaques, and you can buy a “clear weather charm” (晴守り / hare-mamori) for ¥800 — a popular souvenir among Weathering With You fans who want to channel their inner sunshine girl.
 
 | **Location** | Koenji Hikawa Shrine (高円寺氷川神社), 4-44-19 Koenji-Minami, Suginami-ku, Tokyo |
