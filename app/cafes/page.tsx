@@ -254,13 +254,61 @@ function CafeCard({ cafe, dimmed = false }: { cafe: Cafe; dimmed?: boolean }) {
           {cafe.title_en}
         </h3>
         {venue ? (
-          <p style={{ fontSize: '0.82rem', color: '#78716c', margin: 0 }}>
-            {venue.district}, {venue.city} · {venue.dates.start} to {venue.dates.end}
-          </p>
+          <>
+            <p style={{ fontSize: '0.82rem', color: '#78716c', margin: '0 0 4px' }}>
+              {venue.district}, {venue.city} · {venue.dates.start} to {venue.dates.end}
+            </p>
+            <div
+              style={{
+                display: 'flex',
+                flexWrap: 'wrap',
+                gap: '6px',
+                fontSize: '0.72rem',
+                color: '#57534e',
+                marginTop: '4px',
+              }}
+            >
+              <span
+                style={{
+                  padding: '2px 8px',
+                  borderRadius: '999px',
+                  background: '#f5f5f4',
+                  fontWeight: 600,
+                  textTransform: 'capitalize',
+                }}
+              >
+                {reservationLabel(venue.reservation)}
+              </span>
+              {venue.station ? (
+                <span style={{ padding: '2px 4px' }}>{venue.station}</span>
+              ) : null}
+              {cafe.venues.length > 1 ? (
+                <span
+                  style={{
+                    padding: '2px 8px',
+                    borderRadius: '999px',
+                    background: '#f5f5f4',
+                    fontWeight: 600,
+                  }}
+                >
+                  {cafe.venues.length} venues
+                </span>
+              ) : null}
+            </div>
+          </>
         ) : null}
       </div>
     </Link>
   );
+}
+
+function reservationLabel(r: string | null | undefined): string {
+  if (!r) return 'Check site';
+  if (r === 'walk_in') return 'Walk-in';
+  if (r === 'required') return 'Reservation required';
+  if (r === 'lottery') return 'Lottery';
+  if (r === 'optional') return 'Reservation optional';
+  return r;
 }
 
 function EmptyState() {
