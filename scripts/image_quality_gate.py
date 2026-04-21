@@ -6,7 +6,7 @@ Runs 5 checks on MDX articles + companion images:
   C1. All referenced images exist as files (path scan + disk check)
   C2. No unfilled placeholder refs (empty src, TODO, {image_url})
   C3. Image bpp (bits per pixel) >= 0.12 via Pillow read
-  C4. Image density >= 2.5 per 1000 words
+  C4. Image density >= 1.0 per 1000 words (matches CLAUDE.md article-quality rule)
   C5. Duplicate hero_image across articles (brand stock blur)
 
 Exit codes:
@@ -24,7 +24,7 @@ Usage:
 Environment:
   REPO_ROOT  — repo root (default: current git rev-parse)
   MIN_BPP    — override bpp threshold (default: 0.12)
-  MIN_DENS   — override density /1000w threshold (default: 2.5)
+  MIN_DENS   — override density /1000w threshold (default: 1.0)
 """
 import argparse
 import os
@@ -41,7 +41,7 @@ except ImportError:
     PIL_AVAILABLE = False
 
 MIN_BPP = float(os.environ.get("MIN_BPP", "0.12"))
-MIN_DENSITY = float(os.environ.get("MIN_DENS", "2.5"))
+MIN_DENSITY = float(os.environ.get("MIN_DENS", "1.0"))
 
 # Image ref regex — MDX markdown + JSX Image
 IMG_RE = re.compile(
