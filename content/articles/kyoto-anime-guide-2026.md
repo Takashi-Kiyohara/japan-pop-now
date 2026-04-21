@@ -26,6 +26,9 @@ This guide covers everything: the KyoAni connection, specific pilgrimage routes 
 
 ## Table of Contents
 
+![Kyoto Station modern glass-and-steel concourse, the transit hub for most Kyoto anime-pilgrimage day trips](/images/articles/kyoto-anime-guide-2026/body-wikimedia.webp)
+*Kyoto Station — the starting point for almost every Kyoto anime-pilgrimage route. Photo: Martin Falbisoner / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kyoto_Station_November_2016_-03.jpg), CC BY-SA 4.0.*
+
 - [The KyoAni Connection: History and Location](#kyoani-connection)
 - [Hibike Euphonium Pilgrimage in Uji](#hibike-pilgrimage)
 - [K-On! Filming Locations](#kyon-locations)
