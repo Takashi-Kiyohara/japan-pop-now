@@ -156,7 +156,7 @@ After this guide, read one of these next:
 - [**If you want more seasonal options:** Tokyo Anime Collab Cafes Spring 2026](/articles/tokyo-anime-collab-cafes-spring-2026)
 - [**If you want to build a wider fan itinerary:** Ikebukuro Anime Guide 2026](/ikebukuro-anime-guide/)
 
-## Frequently Asked Questions
+## FAQ: Frequently Asked Questions
 **How far in advance should I book a collab cafe?**
 
 For lottery-based reservations (Animate Cafe opening week): apply as soon as the lottery opens, usually 2 weeks before the collab starts. For open-seat reservations: 3-7 days in advance is usually sufficient. For walk-in cafes: no booking needed, just show up and queue.

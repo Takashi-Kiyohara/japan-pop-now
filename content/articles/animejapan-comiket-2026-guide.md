@@ -136,3 +136,19 @@ Follow for weekly collab cafe updates & Japan pop culture content.
 
 ### Explore by Area
 [ Tokyo](/tag/tokyo/)[ Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[ Shibuya](/shibuya-anime-spots-guide/)[ Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[ Osaka](/osaka-anime-guide-2025/) Kyoto (Coming Soon)
+
+
+
+## FAQ: Frequently Asked Questions
+
+### What is the difference between AnimeJapan and Comiket?
+
+AnimeJapan (Big Sight, March) is industry-led — studios, streamers, merch brands. Comiket (Big Sight, August and December) is fan-led — doujinshi, cosplay, and small-circle goods. You can attend both in one trip.
+
+### Do I need a ticket to attend Comiket?
+
+Yes as of 2026. Comiket sells paid wristbands in advance via Circle.ms. Tickets sell out 4–6 weeks before the event, so book your Tokyo dates and tickets at the same time.
+
+### Is English support available at these events?
+
+AnimeJapan offers English signage and some English staff. Comiket is mostly Japanese-only — bring a translation app for circle hunting. Both events publish English maps on their official sites.

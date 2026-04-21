@@ -228,3 +228,19 @@ Follow for weekly collab cafe updates & Japan pop culture content.
 
 ### Explore by Area
 [ Tokyo](/tag/tokyo/)[ Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[ Shibuya](/shibuya-anime-spots-guide/)[ Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[ Osaka](/osaka-anime-guide-2025/) Kyoto (Coming Soon)
+
+
+
+## FAQ: Frequently Asked Questions
+
+### Which IC card should I buy — Suica or Pasmo?
+
+It does not matter for tourists. Both work on every train, bus, and vending machine that accepts IC. Pick whichever machine is closest when you arrive — the Welcome Suica airport version expires in 28 days.
+
+### Can I use my phone as an IC card?
+
+Yes. iPhone (Apple Wallet → Add Card → Suica) and Android (Google Pay Suica) both work without a Japanese phone number. Top up with a foreign credit card — Visa and Mastercard are both supported.
+
+### What happens to the deposit when I leave Japan?
+
+Return the physical card at any JR East green window and you get the 500-yen deposit plus any remaining balance back in cash. Mobile Suica balances cannot be refunded — spend them before departure.

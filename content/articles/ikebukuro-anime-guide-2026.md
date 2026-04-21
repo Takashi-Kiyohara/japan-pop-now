@@ -146,7 +146,7 @@ Ikebukuro station has dozens of hotels within 5 minutes walk. Staying here puts 
 
 **Follow [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)** for daily Tokyo pop culture updates.
 
-## Frequently Asked Questions
+## FAQ: Frequently Asked Questions
 ### Is Ikebukuro better than Akihabara for anime?
 It depends on what you want. Akihabara has more stores overall and is better for electronics, figures, and male-oriented series. Ikebukuro is better for female-oriented goods (BL, otome, Animate flagship), collab cafes, and newer shonen series merch.
 

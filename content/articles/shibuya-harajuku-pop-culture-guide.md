@@ -158,7 +158,7 @@ Shibuya and Harajuku are about 15 minutes apart on foot, or one stop on the JR Y
 
 **The walk from Shibuya to Harajuku via Cat Street is the best option.** It takes 15 minutes and passes through one of Tokyo’s most interesting streetwear neighborhoods. Taking the train saves you only 10 minutes and you miss the best part of the route.
 
-## Frequently Asked Questions
+## FAQ: Frequently Asked Questions
 **Is Shibuya PARCO 6F worth it if I’m going to Akihabara?**
 
 Yes. The Nintendo, Pokémon, and Capcom stores here are official flagship locations — the merchandise selection is different from what you’ll find in Akihabara. Akihabara is better for third-party and secondhand goods. PARCO is better for official, exclusive items.

@@ -109,7 +109,7 @@ WonFes is the biggest, but not the only figure event worth knowing about:
 
 **Treasure Festa:** A garage kit event similar to WonFes but smaller, held several times a year at various venues. Less crowded, more relaxed atmosphere. Good alternative if you can’t make WonFes dates.
 
-## Frequently Asked Questions
+## FAQ: Frequently Asked Questions
 **Do I need to speak Japanese to navigate WonFes?**
 
 Not necessarily. The event is visual — you see figures, you point, you pay cash. Prices are displayed on signs. For corporate booths, staff sometimes speak basic English. For amateur dealers, the transaction is simple: point at what you want, hand over cash, receive item. A translation app helps for asking about limited quantities or pricing.

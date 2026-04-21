@@ -147,7 +147,7 @@ Nikko Toshogu Shrine — a UNESCO World Heritage site — has visual connections
 
 Nikko is the trip where the JR Pass makes the most dramatic difference. Without the pass, it’s the most expensive day trip on this list. With the pass, it’s the cheapest (transport is free).
 
-## Frequently Asked Questions
+## FAQ: Frequently Asked Questions
 **Which day trip is best for someone who isn’t a big anime fan?**
 
 Nikko or Kamakura. Both have world-class non-anime attractions (Toshogu Shrine and the Great Buddha, respectively) that justify the trip on their own merits. The anime connections are a bonus, not the sole reason to go.

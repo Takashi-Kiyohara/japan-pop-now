@@ -344,3 +344,19 @@ Follow for weekly collab cafe updates & Japan pop culture content.
 
 ### Explore by Area
 [ Tokyo](/tag/tokyo/)[ Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[ Shibuya](/shibuya-anime-spots-guide/)[ Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[ Osaka](/osaka-anime-guide-2025/) Kyoto (Coming Soon)
+
+
+
+## FAQ: Frequently Asked Questions
+
+### Which Shibuya spots directly appear in Jujutsu Kaisen?
+
+Shibuya Scramble Square and the Shibuya 109 intersection feature in the Shibuya Incident arc. The underground Toyoko Line platforms also appear in multiple episodes — quieter than the crossing itself.
+
+### Is it safe to photograph around Shibuya Scramble at night?
+
+Yes, Shibuya is well-lit and patrolled. Avoid standing still in the middle of the scramble for long shots — Tokyo police actively move crowds during peak hours.
+
+### Are there current Jujutsu Kaisen pop-ups in Shibuya?
+
+Rotating. Check the Shibuya Jump Shop and PARCO 6F event space — both run JJK-themed pop-ups 3–4 times a year. Dates appear on the official Jump Shop X account.

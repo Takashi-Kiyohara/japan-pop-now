@@ -159,7 +159,7 @@ Tokyo’s anime landscape extends beyond the five main districts. A few other sp
 
 **Mitaka** — The Studio Ghibli Museum. Requires advance reservations (months ahead for popular dates). A pilgrimage destination for Ghibli fans, but not a shopping district.
 
-## Frequently Asked Questions
+## FAQ: Frequently Asked Questions
 **Which anime district should I visit if I only have time for one?**
 
 Akihabara. It has the broadest selection, the most shops, and the full “anime district” atmosphere that you came to Tokyo to experience. Every other district excels at something specific, but Akihabara covers the most ground.

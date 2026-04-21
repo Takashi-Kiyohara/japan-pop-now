@@ -176,7 +176,7 @@ Animate Cafe’s lottery system can be frustrating, especially if you don’t re
 
 **Don’t show up without a reservation.** Animate Cafe will not seat walk-ins under any circumstances. This is different from some other collab cafes that hold back walk-in slots. At Animate Cafe, no reservation = no entry. Period.
 
-## Frequently Asked Questions
+## FAQ: Frequently Asked Questions
 **Can I enter the lottery from outside Japan?**
 
 Yes. The Club Animate website is accessible worldwide. You need an email address and a web browser — no Japanese phone number required for the lottery itself.

@@ -280,3 +280,19 @@ Follow for weekly collab cafe updates & Japan pop culture content.
 
 ### Explore by Area
 [ Tokyo](/tag/tokyo/)[ Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[ Shibuya](/shibuya-anime-spots-guide/)[ Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[ Osaka](/osaka-anime-guide-2025/) Kyoto (Coming Soon)
+
+
+
+## FAQ: Frequently Asked Questions
+
+### How much does luggage forwarding cost in Japan?
+
+2,000–3,000 yen per suitcase for same-country forwarding (Tokyo → Osaka). International forwarding runs 8,000–15,000 yen depending on size and destination country.
+
+### How far in advance should I arrange luggage forwarding?
+
+For hotel-to-hotel inside Japan, drop off 1 day before your travel day. For airport forwarding, book 3 days ahead — some airports (Haneda, Kansai) accept same-day drop-offs before noon.
+
+### Which service is most English-friendly?
+
+Yamato Transport (Kuroneko) runs the largest English support line and accepts online bookings. Sagawa is cheaper but has fewer English-capable counters.

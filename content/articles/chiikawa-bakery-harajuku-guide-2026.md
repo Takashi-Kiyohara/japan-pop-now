@@ -165,7 +165,7 @@ That emotional layer is why the bakery functions as a quiet pilgrimage, not just
 ![Giant Usagi and Hachiware character plush figures sitting in oversized woven baskets hanging from the ceiling of Chiikawa Bakery Harajuku](/images/articles/chiikawa-bakery-harajuku-guide-2026/01.jpg)
 *Usagi and Hachiware in ceiling baskets — the kind of detail that turns a bakery into a pilgrimage site. Photo: Japan Pop Now*
 
-## Frequently Asked Questions
+## FAQ: Frequently Asked Questions
 
 <div className="jpn-faq">
 

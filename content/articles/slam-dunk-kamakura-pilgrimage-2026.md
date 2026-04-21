@@ -179,7 +179,7 @@ If Slam Dunk is your first stop, use the hub below to compare Tokyo city routes,
 - [**Comparing Kamakura with Tokyo routes?** Use the quick filters to see which guide fits a half-day better](/category/destinations)
 - [**Planning a bigger anime itinerary?** Use the hub FAQ and series list to stack your next stop](/category/destinations)
 
-## Frequently Asked Questions
+## FAQ: Frequently Asked Questions
 **Is the Slam Dunk crossing free to visit?**
 
 Yes. It’s a public railroad crossing on a regular road â there’s no admission fee or ticket required. The Enoden train fare to get there is the only cost (Â¥200 from Kamakura Station, or free with the Â¥800 day pass).

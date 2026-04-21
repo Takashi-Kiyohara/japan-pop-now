@@ -241,7 +241,7 @@ The location inside Shibuya PARCO's anime-dedicated 6th floor amplifies the atmo
 
 </div>
 
-## Frequently Asked Questions
+## FAQ: Frequently Asked Questions
 
 <div className="jpn-faq">
 

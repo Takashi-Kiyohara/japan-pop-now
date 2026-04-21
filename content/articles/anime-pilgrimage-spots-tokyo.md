@@ -211,3 +211,19 @@ Follow for weekly collab cafe updates & Japan pop culture content.
 
 ### Explore by Area
 [ Tokyo](/tag/tokyo/)[ Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[ Shibuya](/shibuya-anime-spots-guide/)[ Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[ Osaka](/osaka-anime-guide-2025/) Kyoto (Coming Soon)
+
+
+
+## FAQ: Frequently Asked Questions
+
+### What is seichi junrei and how should I behave at pilgrimage spots?
+
+Seichi junrei (聖地巡礼) means visiting real places tied to an anime. Keep voices low, obey posted no-photography signs, and never block roads or crossings — residents actively complain to local councils when fans behave poorly.
+
+### Which Tokyo anime pilgrimage is best for first-time visitors?
+
+Yotsuya for Your Name and Shinjuku for Weathering With You. Both are easy to reach on JR lines, include multiple spots within 30 minutes of walking, and do not require a day trip out of the city.
+
+### Do I need a guide for Tokyo anime pilgrimages?
+
+Not for the main spots. Our walking routes and Google Maps cover everything. A paid guide only makes sense for full-day Chichibu or Kamakura trips where train timings matter.

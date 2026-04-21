@@ -164,7 +164,7 @@ Kumamoto’s tram system is the most useful public transport for the city-center
 
 **The combined tram + bus day pass is excellent value.** At ¥900 for the wakuwaku 1day pass, you’d break even after just 5 rides. If you’re spending a full day in Kumamoto city visiting the Luffy and Chopper statues, the castle, and downtown shopping, you’ll easily exceed that.
 
-## Frequently Asked Questions
+## FAQ: Frequently Asked Questions
 **Can I visit all 10 statues in one day?**
 
 By car, yes — but it’s a long day (8-10 hours of driving and stops). Two days is much more enjoyable. By public transport, realistically no — plan for 3-4 days.

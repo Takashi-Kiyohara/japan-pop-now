@@ -127,7 +127,7 @@ Leave **Shinjuku by 6:00 AM**. JR Chuo Line to Tachikawa, JR Ome Line to Okutama
 
 **Transit cost:** About ¥3,000-4,000 round trip (covered by JR Pass if you have one).
 
-## Frequently Asked Questions
+## FAQ: Frequently Asked Questions
 **Do I need to be a hardcore fan to enjoy these spots?**
 
 Senso-ji and Asakusa are must-visits regardless of Demon Slayer. The shrines are beautiful even without the anime connection. Only Mt. Kumotori is specifically a “fan pilgrimage” — it’s a challenging hike with no anime theming on-site. The connection is purely the knowledge that you’re standing where Tanjiro lived.

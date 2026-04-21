@@ -162,3 +162,19 @@ Follow for weekly collab cafe updates & Japan pop culture content.
 
 ### Explore by Area
 [ Tokyo](/tag/tokyo/)[ Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[ Shibuya](/shibuya-anime-spots-guide/)[ Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[ Osaka](/osaka-anime-guide-2025/) Kyoto (Coming Soon)
+
+
+
+## FAQ: Frequently Asked Questions
+
+### How much time do I need for a Tokyo Spy×Family fan day?
+
+6–8 hours covers merch shops, one themed cafe, and two pop-up stores. Add 2 hours if you include the Odaiba exhibition (when running) or a second cafe.
+
+### Can I visit Spy×Family spots on a budget?
+
+Merch shops and the Shibuya Jump Shop are free to browse. A full fan day (cafe + merch + exhibition) realistically runs 6,000–12,000 yen per person.
+
+### Are Spy×Family pop-ups worth the detour?
+
+Yes if you want photo ops and exclusive merch. Skip them if you only care about the series — regular Jump Shops stock the core merch lineup year-round.

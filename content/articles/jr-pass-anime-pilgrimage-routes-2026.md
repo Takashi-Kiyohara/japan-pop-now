@@ -238,3 +238,19 @@ Follow for weekly collab cafe updates & Japan pop culture content.
 
 ### Explore by Area
 [ Tokyo](/tag/tokyo/)[ Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[ Shibuya](/shibuya-anime-spots-guide/)[ Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[ Osaka](/osaka-anime-guide-2025/) Kyoto (Coming Soon)
+
+
+
+## FAQ: Frequently Asked Questions
+
+### Which anime pilgrimage routes make a JR Pass pay off?
+
+Tokyo → Kumamoto (One Piece statues), Tokyo → Kyoto → Osaka (multiple cafes), and Tokyo → Chichibu → Tokyo day trips in a single week. A 7-day pass saves 15,000–25,000 yen on these itineraries.
+
+### Do Enoden and other scenic anime lines accept the JR Pass?
+
+No. Enoden (Slam Dunk), Odakyu Romancecar (Chichibu), and Keio lines need separate day passes. Factor in an extra 2,000–3,000 yen per day for these.
+
+### Is the Regional Pass cheaper than the nationwide JR Pass?
+
+Yes for focused trips. A 3-day Hakone-Kamakura Pass covers most Slam Dunk and Evangelion spots at a fraction of the national price.

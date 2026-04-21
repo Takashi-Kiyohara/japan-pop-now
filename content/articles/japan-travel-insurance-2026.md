@@ -345,3 +345,19 @@ Follow for weekly collab cafe updates & Japan pop culture content.
 
 ### Explore by Area
 [ Tokyo](/tag/tokyo/)[ Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[ Shibuya](/shibuya-anime-spots-guide/)[ Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[ Osaka](/osaka-anime-guide-2025/) Kyoto (Coming Soon)
+
+
+
+## FAQ: Frequently Asked Questions
+
+### Is travel insurance required for Japan?
+
+Not legally, but strongly recommended. Japanese ER visits run 30,000–100,000 yen up front before insurance reimbursement, and cash-only clinics are common outside Tokyo.
+
+### Which insurance policies work best for anime-focused trips?
+
+Look for policies covering lost merchandise, event cancellations, and bicycle rental accidents. SafetyWing and World Nomads both cover these at reasonable rates.
+
+### Does my credit card's free travel insurance cover Japan?
+
+Most premium cards (Sapphire Reserve, Amex Platinum) offer basic medical and trip cancellation coverage. Read the policy document before you rely on it — crowded-event injuries are often excluded.

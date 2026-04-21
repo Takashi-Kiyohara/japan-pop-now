@@ -182,7 +182,7 @@ If PokéPark is one stop in a bigger Japan trip, use the hub below to compare To
 - [**Comparing a Tokyo day with a regional pilgrimage?** Use the quick route finder to narrow it down in one minute](/category/destinations)
 - [**Still deciding where Pokémon fits?** Use the FAQ and filters to build the rest of your itinerary](/category/destinations)
 
-## Frequently Asked Questions
+## FAQ: Frequently Asked Questions
 
 ### Can You Buy PokéPark Kanto Tickets at the Gate on the Day?
 

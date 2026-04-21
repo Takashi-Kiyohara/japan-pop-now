@@ -214,7 +214,7 @@ Japan runs on *benri* (便利, convenience) culture, and Lawson Ticket is the ph
 
 **Carry a little cash just in case.** Most Loppi pickups accept credit cards (Visa / Mastercard / JCB), IC cards (Suica / PASMO / ICOCA), and Apple Pay via QUICPay. A small number of specific events are **cash-only**, usually small venue indie anime screenings. Carry **¥3,000 in yen** as a safety buffer.
 
-## Frequently Asked Questions
+## FAQ: Frequently Asked Questions
 
 **Can foreigners without a Japanese phone number book through Lawson Ticket?**
 

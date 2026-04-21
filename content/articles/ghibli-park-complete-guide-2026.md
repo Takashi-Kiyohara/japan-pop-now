@@ -157,7 +157,7 @@ Ghibli Park is in Nagakute, a suburban area east of Nagoya. There aren’t luxur
 
 If you’re visiting for two days, staying near Fujigaoka makes the logistics significantly easier. For a single day visit as part of a broader trip, staying at Nagoya Station gives you better shinkansen access for your next destination.
 
-## Frequently Asked Questions
+## FAQ: Frequently Asked Questions
 **When are Ghibli Park tickets released?**
 
 On the 10th of each month at 14:00 JST, for dates two months ahead. April 10 opens June dates. Mark your calendar and be online exactly at 14:00 — weekend dates sell out within hours.

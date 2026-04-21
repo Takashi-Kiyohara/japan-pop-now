@@ -328,3 +328,19 @@ Follow for weekly collab cafe updates & Japan pop culture content.
 
 ### Explore by Area
 [ Tokyo](/tag/tokyo/)[ Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[ Shibuya](/shibuya-anime-spots-guide/)[ Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[ Osaka](/osaka-anime-guide-2025/) Kyoto (Coming Soon)
+
+
+
+## FAQ: Frequently Asked Questions
+
+### How does Japan proxy shopping work?
+
+You give the proxy a product URL or store details. They buy it, consolidate with other orders, and ship it to you. Fees run 300–1,000 yen per item plus international shipping.
+
+### Which proxy service is best for anime merch?
+
+Buyee integrates directly with Mandarake, Surugaya, and Yahoo Auctions. Tenso is cheapest for simple forwarding but does not buy on your behalf.
+
+### Can proxies ship figures and large merch?
+
+Yes, but check EMS and DHL size limits — 1/4 scale figures often need custom crating that adds 3,000–5,000 yen. Most proxies disclose oversize fees before you confirm.

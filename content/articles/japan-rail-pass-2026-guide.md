@@ -431,3 +431,19 @@ Follow for weekly collab cafe updates & Japan pop culture content.
 
 ### Explore by Area
 [ Tokyo](/tag/tokyo/)[ Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[ Shibuya](/shibuya-anime-spots-guide/)[ Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[ Osaka](/osaka-anime-guide-2025/) Kyoto (Coming Soon)
+
+
+
+## FAQ: Frequently Asked Questions
+
+### Is the JR Pass still worth it after the 2023 price hike?
+
+Only if you take two or more long Shinkansen trips in a week. A single Tokyo–Kyoto round trip is cheaper on a regular Nozomi ticket — the pass wins at Tokyo–Kyoto–Hiroshima or longer.
+
+### Can I use the JR Pass on the Nozomi?
+
+Since 2023 you can, but with a surcharge (about 4,000 yen one-way Tokyo–Shin-Osaka). Hikari and Kodama remain included in the base pass price.
+
+### Where should I activate the JR Pass?
+
+Any JR ticket office inside Narita or Haneda airport, or at the first major JR station you reach. Activation sets the start date — do not activate if you are spending your first 2 days only in Tokyo.

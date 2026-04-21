@@ -290,3 +290,19 @@ Follow for weekly collab cafe updates & Japan pop culture content.
 
 ### Explore by Area
 [ Tokyo](/tag/tokyo/)[ Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[ Shibuya](/shibuya-anime-spots-guide/)[ Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[ Osaka](/osaka-anime-guide-2025/) Kyoto (Coming Soon)
+
+
+
+## FAQ: Frequently Asked Questions
+
+### How far in advance should I start booking?
+
+6–8 weeks for collab cafes and hotels, 3–4 weeks for JR Pass and activities, 1–2 weeks for restaurants. Earlier for Golden Week, obon, and New Year travel windows.
+
+### What is the one thing most anime-focused visitors forget?
+
+Cash. Small anime shops, second-hand figure stores, and most capsule machines still want 100-yen coins. Carry at least 10,000 yen in cash on any merch-heavy day.
+
+### Do I need to book collab cafes before my flight?
+
+For high-demand IPs (Jujutsu Kaisen, Haikyuu, Spy×Family) yes — the cafes sell out 30 days ahead. Smaller collabs often have day-of walk-in slots.

@@ -167,7 +167,7 @@ LuvLab sits at the intersection of two movements: the Italian charm boom and the
 
 </div>
 
-## Frequently Asked Questions
+## FAQ: Frequently Asked Questions
 
 **Do I need to book a reservation at LuvLab Harajuku?**
 No reservation is needed. LuvLab is walk-in only. The store rarely has long waits since each crafting station accommodates multiple visitors at once. Weekday afternoons are the quietest if you want the most space.

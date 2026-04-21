@@ -135,3 +135,19 @@ Follow for weekly collab cafe updates & Japan pop culture content.
 
 ### Explore by Area
 [ Tokyo](/tag/tokyo/)[ Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[ Shibuya](/shibuya-anime-spots-guide/)[ Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[ Osaka](/osaka-anime-guide-2025/) Kyoto (Coming Soon)
+
+
+
+## FAQ: Frequently Asked Questions
+
+### How long do FamilyMart anime collab stores stay open?
+
+Most run for 4–6 weeks. Popular IPs like Chiikawa and Spy×Family sell through stock in 1–2 weeks — arrive within the first 10 days if you want character goods, not just foods.
+
+### Can I buy collab merch at any FamilyMart branch?
+
+Only at designated themed branches, which FamilyMart announces on X the week before launch. Check the campaign page for the specific store list — regular branches stock foods but not goods.
+
+### Do FamilyMart collab stores ship overseas?
+
+Not directly. Use a Japan proxy-shopping service like Buyee or Tenso to forward goods home. Coffee- and snack-based merch usually cannot ship internationally.

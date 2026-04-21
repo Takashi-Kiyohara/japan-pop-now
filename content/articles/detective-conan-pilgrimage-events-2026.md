@@ -133,7 +133,7 @@ Universal Studios Japan runs Detective Conan World as part of its annual Univers
 
 USJ park admission starts at ¥8,600 (~$59) for a 1-day pass, with date-based pricing going up to ¥10,400 (~$71) on peak days. The Conan attractions require additional Express Passes or separate tickets. Book through [Klook](https://affiliate.klook.com/redirect?aid=117469&aff_adid=1251547&k_site=https%3A%2F%2Fwww.klook.com%2F) for occasional bundle deals, or directly at usj.co.jp. The 2026 Cool Japan event also features Jujutsu Kaisen, Frieren, and Monster Hunter — you can combine multiple IPs in one park visit.
 
-## Frequently Asked Questions
+## FAQ: Frequently Asked Questions
 **What’s the best single Conan event if I can only visit one?**
 
 For accessibility and value, the Sunshine City collaboration in Ikebukuro. It’s mostly free, doesn’t require advance booking, runs through June 7, and you can combine it with the Conan Cafe in Ikebukuro for a full half-day. For a more immersive experience, USJ’s The Escape is the best single attraction — but it requires being in Osaka and buying park admission.

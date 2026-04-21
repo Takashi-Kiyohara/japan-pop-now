@@ -172,3 +172,19 @@ Follow for weekly collab cafe updates & Japan pop culture content.
 
 ### Explore by Area
 [ Tokyo](/tag/tokyo/)[ Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[ Shibuya](/shibuya-anime-spots-guide/)[ Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[ Osaka](/osaka-anime-guide-2025/) Kyoto (Coming Soon)
+
+
+
+## FAQ: Frequently Asked Questions
+
+### How long does the Your Name Tokyo walking route take?
+
+4–5 hours for the 5 main spots plus a shrine visit. Start at Yotsuya 13:00, finish at Roppongi around 18:00 with time for late-afternoon light at Suga Shrine.
+
+### Are the Suga Shrine stairs free to visit?
+
+Yes, the stairs are a public residential road open 24 hours. The shrine itself opens 9:00–17:00 and collects optional 500-yen goshuin (shrine seal) fees.
+
+### Do I need to visit Hida/Takayama to complete the Your Name pilgrimage?
+
+Not on a Tokyo-only trip. Hida Furukawa is a 4-hour Shinkansen plus train ride away and makes more sense as a separate 1-night side trip.

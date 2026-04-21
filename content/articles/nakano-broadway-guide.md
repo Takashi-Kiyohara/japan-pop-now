@@ -130,7 +130,7 @@ Found rare figures at Mandarake but worried about luggage space? Amazon Japan an
 
 **Combine with Shinjuku.** Since Nakano is one stop from Shinjuku, a natural itinerary is: morning in Shinjuku (Kabukicho Tower, Godzilla Head, Golden Gai for photos) → afternoon at Nakano Broadway → evening back in Shinjuku for dinner. The Chuo Line makes this effortless.
 
-## Frequently Asked Questions
+## FAQ: Frequently Asked Questions
 **Is Nakano Broadway worth visiting if I’m not a collector?**
 
 Yes. Even if you don’t plan to buy anything, the sheer density and variety of what’s on display makes it fascinating. The Daily Chico ice cream alone is worth the trip. And once you start browsing, you’ll probably find something — a ¥200 manga volume, a keychain of your favorite character, a weird vintage toy you can’t resist.

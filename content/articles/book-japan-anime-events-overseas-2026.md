@@ -131,7 +131,7 @@ Is it worth the fee? For events you can book yourself (theme parks with English 
 
 The real calculation: consider the proxy fee against the cost of your entire trip. If you’re spending ¥200,000+ (~$1,360) on flights and hotels, an extra ¥3,000 (~$20) to lock in the experiences you actually came for is a rounding error.
 
-## Frequently Asked Questions
+## FAQ: Frequently Asked Questions
 **Can I use a VPN to access Japanese-only booking sites?**
 
 A VPN can get you past geo-blocks on websites, but it doesn’t solve the real problems: Japanese phone number requirements, Loppi kiosk access, or Japanese credit card verification. A VPN alone won’t help you book Loppi-exclusive events.

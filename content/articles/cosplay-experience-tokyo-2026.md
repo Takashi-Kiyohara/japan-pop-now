@@ -105,7 +105,7 @@ Things to know about bringing costumes through Japanese customs: standard cospla
 
 Rental studios also welcome customers who bring their own costumes and just want to use the studio and photographer. Studio Crown charges ¥1,700-2,400 for studio time only, without costume rental. This is a good option if you have your own outfit but want professional photos in a controlled lighting environment.
 
-## Frequently Asked Questions
+## FAQ: Frequently Asked Questions
 **Do I need to book a studio in advance?**
 
 Recommended but not always required. Studio Crown accepts walk-ins on weekdays if they’re not fully booked. Weekends and holidays fill up — book at least 3-5 days ahead. Cosset in Ikebukuro requires advance reservation through their booking platform.

@@ -228,3 +228,19 @@ Follow for weekly collab cafe updates & Japan pop culture content.
 
 ### Explore by Area
 [ Tokyo](/tag/tokyo/)[ Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[ Shibuya](/shibuya-anime-spots-guide/)[ Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[ Osaka](/osaka-anime-guide-2025/) Kyoto (Coming Soon)
+
+
+
+## FAQ: Frequently Asked Questions
+
+### What is the cheapest way to ship figures home from Japan?
+
+Japan Post SAL (surface-air lifted) if your country still accepts it — 3–6 weeks delivery at roughly half the EMS price. EMS is fastest (5–7 days) with full tracking.
+
+### Do I need to declare anime figures at customs?
+
+Yes. Declare them as 'collectible figures' at their fair retail value. Most countries clear under the de-minimis threshold (typically $200–800) duty-free.
+
+### Can I use hotel staff to arrange luggage forwarding to the airport?
+
+Yes at most 3-star and above hotels. Drop your box at reception before 10:00 AM the day before departure — most partner with Yamato or Sagawa and print the air waybill for you.

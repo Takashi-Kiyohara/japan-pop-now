@@ -392,3 +392,19 @@ Many anime locations are just a short train ride away. Explore [Jujutsu Kaisen l
 undefined
 
 undefined
+
+
+
+## FAQ: Frequently Asked Questions
+
+### How long should I spend in Akihabara?
+
+A full day (6–8 hours) is right for first-time visitors. Half a day only covers the main strip; a full day lets you explore Kanda-Myojin, the side streets, and at least one themed cafe without rushing.
+
+### Is Akihabara still the best place for anime in Tokyo in 2026?
+
+It is still the biggest, but Ikebukuro has caught up for collab cafes and female-oriented otaku culture. Use Akihabara for retro games, electronics, and figure shopping; use Ikebukuro for cafe-heavy trips.
+
+### Which day of the week is best to visit Akihabara?
+
+Sunday 13:00–18:00 if you want the pedestrian zone (chuo-dori closes to cars). Weekday afternoons if you prefer quieter stores and shorter lines at themed cafes.

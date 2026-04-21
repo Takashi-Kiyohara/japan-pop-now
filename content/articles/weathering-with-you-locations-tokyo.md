@@ -136,7 +136,7 @@ If you’re doing both Shinkai pilgrimages, these spots overlap:
 - **Shinjuku area** — Both films use Shinjuku extensively, though different specific locations.
 - **Suga Shrine stairs** — Not in Weathering With You, but a 30-minute detour from the Shinjuku locations. See our [Your Name pilgrimage guide](https://japan-pop-now.com/your-name-pilgrimage-tokyo/) for the full route.
 
-## Frequently Asked Questions
+## FAQ: Frequently Asked Questions
 **Can I see the rooftop shrine from the film?**
 
 The original building (Yoyogi Kaikan) was demolished in 2020. However, Asahi Inari Shrine in Ginza — the real-world rooftop shrine that inspired the design — is still open and accessible by elevator. It’s a small shrine on top of an office building with a torii gate on the roof. It’s not identical to the film but captures the same feeling.

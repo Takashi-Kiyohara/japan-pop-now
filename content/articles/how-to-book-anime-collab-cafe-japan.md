@@ -180,7 +180,7 @@ Image: Collabo Cafe
 | mottocafé | Dress-Up Darling, FMA, various | First-come | Japanese | Varies |
 | EPARK | Various smaller cafes | First-come | Japanese | Yes |
 
-## Frequently Asked Questions
+## FAQ: Frequently Asked Questions
 
 ![Anime collab cafe themed food and drinks — character latte art and decorated dessert plates](https://japan-pop-now.com/wp-content/uploads/2026/04/conan-cafe-food-menu-01.jpg)
 Shibuya Scramble Crossing — the world-famous intersection featured in countless anime

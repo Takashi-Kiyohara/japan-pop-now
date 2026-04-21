@@ -151,7 +151,7 @@ With thousands of machines to choose from, here are five categories that consist
 Missed your favorite series at the machines? Amazon Japan carries many of the same gachapon sets and ships internationally. Great for completing a set after your trip.
 
 [Browse Gachapon on Amazon Japan](https://www.amazon.co.jp/-/en/s?k=gachapon+capsule+toy)
-## Frequently Asked Questions
+## FAQ: Frequently Asked Questions
 ### Can I use credit cards or IC cards at gachapon machines?
 Most gachapon machines are coin-only and require 100-yen coins. However, a growing number of digital machines in major shops like Gachapon no Mori in Akihabara now accept IC cards (Suica, PASMO, ICOCA). Dedicated gachapon shops always have change machines nearby.
 

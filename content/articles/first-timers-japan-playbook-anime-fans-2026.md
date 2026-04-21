@@ -181,7 +181,7 @@ That is why I think the first Japan trip hits anime fans harder than any other k
 
 </div>
 
-## Frequently Asked Questions
+## FAQ: Frequently Asked Questions
 
 **Q: How much cash should I bring for my first week in Japan as an anime fan?**
 
