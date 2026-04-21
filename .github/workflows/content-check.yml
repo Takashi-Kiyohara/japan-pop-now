@@ -1,14 +1,19 @@
 name: Content Check
 
 on:
+  workflow_dispatch:
   pull_request:
     paths:
       - 'content/articles/*.md'
+      - 'content/articles/*.mdx'
+      - 'scripts/validate-articles.ts'
   push:
     branches:
       - main
     paths:
       - 'content/articles/*.md'
+      - 'content/articles/*.mdx'
+      - 'scripts/validate-articles.ts'
 
 jobs:
   validate:
