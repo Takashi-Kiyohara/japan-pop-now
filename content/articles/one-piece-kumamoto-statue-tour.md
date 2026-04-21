@@ -1,5 +1,5 @@
 ---
-title: "One Piece Kumamoto Statue Tour 2026 — All 10 Straw Hat Statues, Locations, and Itinerary"
+title: "One Piece Kumamoto 2026: All 10 Straw Hat Statues & Itinerary"
 description: "Last updated: March 2026. Covers all 10 Straw Hat crew statues, maps, transportation, Kumamoto Castle, and a recommended 2-day itinerary for visiting every..."
 date: "2026-03-28"
 lastUpdated: "2026-03-28"

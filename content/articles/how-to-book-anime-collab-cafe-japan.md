@@ -1,5 +1,5 @@
 ---
-title: "How to Book an Anime Collab Cafe in Japan [2026] — Step-by-Step Lottery and Walk-In Guide"
+title: "Book an Anime Collab Cafe Japan 2026: Lottery & Walk-In Guide"
 description: "Book anime collab cafes in Tokyo, 2026: Lawson Ticket, lottery systems, walk-in tips, and how to reserve even when every slot shows sold out."
 date: "2026-03-24"
 lastUpdated: "2026-03-24"

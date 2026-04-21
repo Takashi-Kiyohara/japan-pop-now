@@ -1,5 +1,5 @@
 ---
-title: "The Complete Guide to Japanese Game Centers & Arcades (2026) — Crane Games, Rhythm Games & the 70-Floor Tower"
+title: "Japanese Game Centers & Arcades 2026: Crane, Rhythm, 70F Tower"
 slug: "game-centers-arcades-japan"
 description: "Updated April 2026. Tokyo game centers, the 70-floor tower at RED° TOKYO TOWER, crane games, rhythm games, and Round1 Ikebukuro 24h arcade guide."
 date: "2026-03-28"

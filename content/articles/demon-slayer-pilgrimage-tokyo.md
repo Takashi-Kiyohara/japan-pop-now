@@ -1,5 +1,5 @@
 ---
-title: "Demon Slayer Pilgrimage Tokyo — Every Real Location from Kimetsu no Yaiba You Can Visit (2026)"
+title: "Demon Slayer Pilgrimage Tokyo 2026: Every Real Kimetsu Location"
 description: "Last updated: March 2026. All locations verified as publicly accessible. Covers Tokyo shrines, Asakusa, Mt. Kumotori, and the best Demon Slayer merchandise..."
 date: "2026-03-28"
 lastUpdated: "2026-03-28"

@@ -1,5 +1,5 @@
 ---
-title: "Weathering With You Locations Tokyo — Every Real Spot from Tenki no Ko You Can Visit (2026)"
+title: "Weathering With You Locations Tokyo 2026: Every Real Tenki Spot"
 description: "Last updated: March 2026. All locations verified as publicly accessible unless noted. Includes walking routes optimized for a half-day or full-day visit...."
 date: "2026-03-28"
 lastUpdated: "2026-03-28"

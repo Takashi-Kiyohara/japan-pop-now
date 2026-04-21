@@ -1,5 +1,5 @@
 ---
-title: "How to Ship Anime Figures & Merch Home from Japan: Complete Guide (2026)"
+title: "How to Ship Anime Figures & Merch Home from Japan (2026)"
 description: "Ship anime figures home from Japan 2026: Japan Post EMS/SAL, Yamato hotel pickup, in-store shipping, proxy services, and how to pack so nothing breaks."
 date: "2026-04-02"
 lastUpdated: "2026-04-02"
