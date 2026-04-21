@@ -89,6 +89,9 @@ Time to spend: 10-15 minutes for exterior photos. If you want to shop, add 30+ m
 ### 3. Shibuya Scramble Crossing — The Battle Stage
 Shibuya Scramble Crossing is the world’s most crowded pedestrian crossing, handling roughly 3,000 people per crossing cycle during peak hours. In the anime, it appears as an open arena where major battles unfold. Several episodes show character confrontations happening across the crossing itself—where in reality, 3,000 people would be walking.
 
+![Shibuya Scramble Crossing at dusk — the real-world stage for the JJK Shibuya Incident arc battle scenes](/images/articles/jujutsu-kaisen-shibuya-locations-2026/body-wikimedia.webp)
+*Shibuya Scramble Crossing at night — the main intersection used as the combat stage during the JJK Shibuya Incident arc. Photo: Benh LIEU SONG / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tokyo_Shibuya_Scramble_Crossing_2018-10-09.jpg), CC BY-SA 2.0.*
+
 The crossing sits directly in front of Shibuya Station, accessible from the Hachiko exit by crossing the main street. The anime depicts it from above (drone/aerial perspective) and from ground level. The aerial shots are accurate to actual crossing geometry. The ground-level shots show specific building facades in the background that you can match with current-day Shibuya.
 
 For photo matching: the crossing is busiest midday (11am-8pm). For empty-crossing photos, come at 6:30am on a weekday. You’ll have the entire crossing to yourself for roughly 30 minutes. Shibuya crossing even has different energy at that hour—fewer staff, less ambient noise, and clear sight lines to every corner building.
