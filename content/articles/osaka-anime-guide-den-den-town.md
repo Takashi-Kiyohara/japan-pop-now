@@ -95,6 +95,9 @@ For serious retro collectors: check the glass cases near the register for rare i
 
 Located on the 6th floor of Namba Parks, this is one of the largest gashapon collections in the Kansai region. Over 600 machines line the walls, covering everything from Sanrio to Jujutsu Kaisen to weirdly specific Japanese humor capsules (tiny replicas of convenience store rice balls, anyone?).
 
+![Gundam plastic-model recycling box outside Namco Nipponbashi, a signature Den Den Town street detail for Gunpla collectors](/images/articles/osaka-anime-guide-den-den-town/body-wikimedia-2.webp)
+*Gundam plastic-model recycling bin at Namco Nipponbashi — a Den Den Town detail that gives a sense of how deep the hobby-shop culture runs on the strip. Photo: Mr.ちゅらさん / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gundam_Plasticmodel_Recycle_Box_at_Namco_Nipponbashi.jpg), CC BY-SA 4.0.*
+
 The layout groups machines by category: character goods, animals, miniature food, gag items, and seasonal specials. New machines rotate in weekly, and the staff posts a “new arrivals” board near the entrance so you can spot what just dropped.
 
 Most machines take 100-yen coins (some are 200 or 300 yen). There’s a change machine inside, but it only accepts 500-yen coins and 1,000-yen bills — bring smaller bills if you can. For a deeper dive into how gashapon machines work and where to find them across Japan, check out our [complete Gachapon Guide](https://japan-pop-now.com/gachapon-guide-japan/).
@@ -125,6 +128,9 @@ A Den Den Town institution. Athena has been running game floors in Nipponbashi f
 
 ## Collab Cafes in Osaka
 Osaka’s collab cafe scene is growing fast. While Tokyo still dominates with volume, Osaka gets many of the same collaborations — sometimes with exclusive menu items or merchandise that aren’t available at the Tokyo locations.
+
+![Idolmaster concert-costume display at a Den Den Town shop, the idol-fandom merchandise that fills Nipponbashi storefronts](/images/articles/osaka-anime-guide-den-den-town/body-wikimedia-3.webp)
+*Idolmaster concert costumes on display in Den Den Town — a window onto the idol-anime fandom that shares the strip with Gundam, maid cafes, and doujinshi shops. Photo: Cloud668 / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Idolmaster_concert_costumes.JPG), CC BY-SA 3.0.*
 
 ### Key Collab Cafe Venues
 **Collabo Cafe Honpo Osaka** — A dedicated collaboration cafe space in Nipponbashi that rotates themes every 2-4 weeks. This is the most convenient option if you’re already in Den Den Town. Check their Twitter/X for the current collaboration before visiting.
