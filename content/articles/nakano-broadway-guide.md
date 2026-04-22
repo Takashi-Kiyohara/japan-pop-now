@@ -27,6 +27,9 @@ This guide covers how to get there, what’s on each floor, which shops matter, 
 ## How to Get to Nakano Broadway
 Take the **JR Chuo Line** (orange, rapid service) from Shinjuku Station. Nakano is the first stop — five minutes, ¥200. Trains run every few minutes throughout the day.
 
+![Nakano Broadway entrance signage, the façade most visitors use to confirm they have arrived at the correct building](/images/articles/nakano-broadway-guide/body-wikimedia-2.webp)
+*Nakano Broadway entrance — the façade signage that confirms you have arrived. Photo: User:Kentin / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nakano_broadway_entrance.JPG), CC BY-SA 3.0.*
+
 At Nakano Station, take the **North Exit**. Walk straight ahead and you’ll enter **Nakano Sun Mall**, a covered shopping arcade that runs for about 225 meters. Follow it all the way to the end. The arcade deposits you directly at the entrance of Nakano Broadway. The whole walk from the station takes about five minutes.
 
 **Don’t skip Nakano Sun Mall.** This covered arcade has been here since 1966 and has over 100 shops — ramen joints, izakayas, pharmacies, watch dealers. It’s worth a slow walk through, especially for lunch before or after you hit Broadway.
