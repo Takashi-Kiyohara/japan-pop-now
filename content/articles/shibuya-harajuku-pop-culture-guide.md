@@ -78,6 +78,9 @@ Cross into Harajuku and the energy shifts completely. Shibuya is about buying sp
 ### Takeshita Street (Takeshita-dori)
 A 350-meter pedestrian street packed with roughly 130 shops. Crepe stands, kawaii fashion boutiques, character goods stores, and capsule toy machines spilling out onto the sidewalk. It’s chaotic, it’s colorful, and it’s been the epicenter of Japanese youth culture for decades.
 
+![Daiso shop on Takeshita Street in Harajuku, the budget-goods flagship among the crowd-packed kawaii fashion storefronts](/images/articles/shibuya-harajuku-pop-culture-guide/body-wikimedia.webp)
+*Takeshita Street, Harajuku — the Daiso flagship sits among the kawaii fashion shops that define the street. Photo: Guilhem Vellut / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Daiso_shop_%40_Takeshita-Dori_%289235293803%29.jpg), CC BY 2.0.*
+
 For anime and pop culture fans specifically, look for:
 
 **Sanrio Kawaii Factory Store & Cafe** — Opened December 2025. Harajuku-exclusive merchandise and a themed cafe serving character-themed drinks and food. If you’re into Hello Kitty, My Melody, Cinnamoroll, or any Sanrio character, this is the destination.
