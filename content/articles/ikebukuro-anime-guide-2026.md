@@ -47,6 +47,9 @@ Directly operated by Animate, this cafe runs anime collaboration themes that cha
 ### K-BOOKS & Other Specialty Shops
 **K-BOOKS** operates multiple specialty stores near Animate, each focused on a different niche — one for female-oriented doujinshi, another for figures and character goods, another for idol merchandise. They’re good for finding items not stocked at Animate, especially secondhand and fan-made goods.
 
+![K-BOOKS storefront in Ikebukuro with male-oriented manga and doujinshi signage, one of the anchor shops on Otome Road's specialty strip](/images/articles/ikebukuro-anime-guide-2026/body-wikimedia-2.webp)
+*K-BOOKS Ikebukuro — one of several specialty branches that K-BOOKS runs across the Otome Road area. Photo: Luis Villa del Campo / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bookshelves_with_manga_(2).jpg), CC BY 2.0.*
+
 **Lashinbang** is another secondhand anime goods chain with an Ikebukuro location. Prices are generally lower than Mandarake but the selection is more hit-or-miss. Worth checking if you’re looking for older merchandise or budget-friendly finds.
 
 ### Gashapon Department Store (Sunshine City)
