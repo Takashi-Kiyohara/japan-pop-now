@@ -77,6 +77,9 @@ The area around Shinanomachi Station on the JR Sobu Line appears in several scen
 ## Location 4: National Art Center, Tokyo (Roppongi)
 The distinctive undulating glass facade of the National Art Center appears in the film as a background element. The building itself — designed by architect Kisho Kurokawa — is architecturally stunning regardless of its anime connection. The interior cafe (on an elevated cone-shaped platform) offers one of the best views in Roppongi.
 
+![National Art Center Tokyo, the undulating glass facade designed by Kisho Kurokawa that appears in Your Name's Roppongi scenes](/images/articles/your-name-pilgrimage-tokyo/body-wikimedia-2.webp)
+*National Art Center, Tokyo — the Roppongi glass facade referenced in the film's backgrounds. Photo: Kakidai / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2018_National_Art_Center,_Tokyo_2.jpg), CC BY-SA 4.0.*
+
 | **Address** | 7-22-2 Roppongi, Minato-ku, Tokyo 106-8558 |
 | --- | --- |
 | **Access** | Nogizaka Station (Tokyo Metro Chiyoda Line) Exit 6 → direct connection. Or Roppongi Station (Hibiya Line) Exit 7 → 5 min walk. |
