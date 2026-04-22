@@ -39,6 +39,9 @@ This is *seichi junrei* (聖地巡礼) — “holy land pilgrimage.” The pract
 ![Anime collaboration cafe in Tokyo — themed dining experiences near popular pilgrimage locations — where fans recreate Your Name](https://japan-pop-now.com/wp-content/uploads/2026/04/trigun-chugai-grace-cafe-2026.jpg)
 Tokyo residential stairway — the kind of everyday scenery that Makoto Shinkai captures in his films
 
+![Suga Shrine torii gate in Yotsuya, the shrine above the famous staircase from the Your Name climax](/images/articles/your-name-pilgrimage-tokyo/body-wikimedia.webp)
+*Suga Shrine (Suga-jinja), Yotsuya — the torii gate at the top of the stairs where Taki and Mitsuha finally meet in Your Name's final scene. Photo: Monado / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Suga_jinja.jpg), CC BY-SA 2.5.*
+
 This is the pilgrimage’s centerpiece. The staircase where Taki and Mitsuha finally meet again in the film’s climactic final scene. Shinkai’s team captured the location with near-photographic precision: the red handrails, the surrounding residential buildings, the way light falls across the steps in the late afternoon.
 
 A traditional shrine gate in Tokyo — quiet sanctuaries tucked away between modern buildings
