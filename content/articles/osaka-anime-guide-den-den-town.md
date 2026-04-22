@@ -34,6 +34,9 @@ This guide covers everything you need for a full day (or two) of anime shopping,
 - [Sample Day Trip Itinerary](#day-trip-itinerary)
 - [Practical Info: Transport, IC Cards & Tips](#practical-info)
 
+![Animate flagship store exterior at Osaka Nipponbashi, the largest female-oriented anime retailer in Den Den Town](/images/articles/osaka-anime-guide-den-den-town/body-wikimedia.webp)
+*Animate Osaka Nipponbashi — the Den Den Town anchor store for anime merchandise, doujinshi, and Animate Cafe lottery signups. Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Animate_Osaka_Nippombashi.jpg), CC0.*
+
 ## Getting to Den Den Town
 
 Den Den Town sits between Namba and Nipponbashi stations, which means you’ve got multiple access points depending on where you’re coming from.
