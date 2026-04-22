@@ -42,6 +42,9 @@ On Sundays and public holidays (1:00 PM â 6:00 PM, until 5:00 PM Octoberâ�
 
 Start here on your first visit. These are the landmarks that orient you.
 
+![Akihabara storefront at night with bright signage, the visual signature of the Electric Town commercial strip](/images/articles/akihabara-complete-guide-2026/body-wikimedia-2.webp)
+*Akihabara by night — the layered signage that defines the Electric Town strip from Chuo Dori down the side streets. Photo: Guilhem Vellut / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Akihabara_(8972824139).jpg), CC BY 2.0.*
+
 ### Radio Kaikan (ã©ã¸ãªä¼é¤¨)
 The building with the bright yellow facade directly facing the Electric Town exit. Originally built in 1962 for electronics component shops, it was rebuilt in 2014 and now houses multiple floors of anime goods, figures, trading cards, and collectibles. It’s the first building most visitors enter, and it’s a reliable introduction to what Akihabara offers.
 
@@ -121,6 +124,9 @@ Budget Â¥1,000-2,000 and accept that you’ll probably spend more. It’s addi
 ### Akiba Cultures Zone
 A multi-floor building where each level is a completely different subculture. Idol performance spaces, doujinshi shops, cosplay photography studios, trading card battle arenas, and more â all in one building. It’s a condensed version of everything Akihabara represents, and it demonstrates the breadth of Japanese fan culture in a way that no single shop can.
 
+![Akiba ICHI retail complex in Akihabara, one of the newer layered shopping buildings along the Chuo Dori strip](/images/articles/akihabara-complete-guide-2026/body-wikimedia-3.webp)
+*Akiba ICHI — a layered retail frontage along Akihabara's main strip. Photo: Guilhem Vellut / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Akiba_ICHI_@_Akihabara_(9477044339).jpg), CC BY 2.0.*
+
 **Address:** 1-7-6 Sotokanda, Chiyoda-ku, Tokyo
 
 **Hours:** Varies by floor/shop
@@ -190,6 +196,9 @@ Gratte stand at Animate Akihabara ANNEX (rotating themes, no reservation â 
 Final Fantasy Eorzea Cafe â ãã»ã©ãªã¾ã¼ãAKIBAãã«ãã¨ã³ã¿ã¼ãã¤ã³ã¡ã³ã2F (permanent, reservations via TableCheck)
 
 For the full list of collab cafes across Tokyo, see our [Tokyo Anime Collab Cafe Guide for Spring 2026](/articles/tokyo-anime-collab-cafes-spring-2026).
+
+![Itasha (anime-decorated sports cars) parked on display in Akihabara, an otaku subculture artifact](/images/articles/akihabara-complete-guide-2026/body-wikimedia-4.webp)
+*Itasha (痛車) — fan-decorated sports cars parked on display in Akihabara. One of the otaku subcultures that still plays out in public in the district. Photo: Dick Thomas Johnson / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Akihabara_(53152265880).jpg), CC BY 2.0.*
 
 ## Maid Cafes: What Actually Happens Inside (and How to Avoid Scams)
 
