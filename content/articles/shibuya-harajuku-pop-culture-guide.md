@@ -121,6 +121,9 @@ The 4th floor is the highlight for anime fans — Studio Ghibli goods, Sanrio, a
 ## Cat Street (Ura-Harajuku) — Vintage and Streetwear
 Cat Street runs about one kilometer between Shibuya and Harajuku, following the path of a former river. It’s the quieter, more hand-picked alternative to Takeshita Street — independent boutiques, vintage shops, and streetwear flagships replacing the chaotic kawaii energy with something more refined.
 
+![Advertising billboard in Harajuku, the neighborhood's street-culture commercial landscape that flows from Takeshita Street into Cat Street](/images/articles/shibuya-harajuku-pop-culture-guide/body-wikimedia-2.webp)
+*Harajuku street scene near Takeshita — the commercial fabric that bleeds into Cat Street's quieter boutique district. Photo: Guilhem Vellut / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%22Advertising_wanted%22_@_Harajuku_(9165033473).jpg), CC BY 2.0.*
+
 For pop culture fans, Cat Street offers a different angle. The vintage shops carry secondhand anime-adjacent fashion — band tees from anime franchise concerts, vintage Harajuku streetwear brands like A Bathing Ape (which started in this exact neighborhood in the 1990s), and the kind of retro finds that connect anime aesthetics to real-world Japanese street culture.
 
 **RAGTAG** is the anchor vintage shop — over 5,000 items from trendy to luxury brands. For pure anime merchandise, you’re better off in Akihabara. But for the fashion influence side of Japanese pop culture — the clothes and aesthetics that anime draws from — Cat Street is the source.
