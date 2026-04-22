@@ -2,7 +2,7 @@
 title: "Book an Anime Collab Cafe Japan 2026: Lottery & Walk-In Guide"
 description: "Book anime collab cafes in Tokyo, 2026: Lawson Ticket, lottery systems, walk-in tips, and how to reserve even when every slot shows sold out."
 date: "2026-03-24"
-lastUpdated: "2026-03-24"
+lastUpdated: "2026-04-22"
 category: "experiences"
 tags: []
 featuredImage: "/images/articles/how-to-book-anime-collab-cafe-japan/featured.jpg"
@@ -14,7 +14,7 @@ relatedSlugs: []
 wpPostId: 100
 ---
 
-*Last updated: March 2026. Covers all major booking platforms currently used by collab cafes in Tokyo.*
+*Last updated: April 22, 2026. Covers all major booking platforms currently used by collab cafes in Tokyo.*
 
 ![Anime collab cafe themed desserts and character drinks — what to expect at your first collab cafe visit](https://japan-pop-now.com/wp-content/uploads/2026/04/conan-cafe-food-menu-02.jpg)
 Shibuya street scene near PARCO — the heart of Tokyo’s pop culture shopping district
@@ -27,6 +27,10 @@ This is the single most common frustration international anime fans face when vi
 But it’s doable. This guide walks through every step of the process, from finding out about a cafe to sitting down at your table. It covers the three main booking systems used by Tokyo’s collab cafes, the lottery system that some high-demand cafes use, and what to do when everything is sold out.
 
 **Booking an anime collab cafe in Japan typically requires advance online reservation through platforms like Lawson Loppi, e+ (eplus), or the cafe’s own website, often 2 to 4 weeks before your visit date.** High-demand collaborations for series like Jujutsu Kaisen and SPY×FAMILY use a lottery system (chuusen) where you apply during a window period and are randomly selected. Walk-in seats are sometimes available on weekday afternoons, but reservations are strongly recommended for any weekend or holiday visit.
+
+*Refresh: April 22, 2026 — Lawson Ticket, e+ (eplus), and Animate Cafe Reserve all remain the dominant platforms, and the lottery model on high-demand titles (SPY×FAMILY, Jujutsu Kaisen, Demon Slayer ufotable rerun) still opens 2-3 weeks before each cafe's run. No major platform rule changes since our last audit.*
+
+
 
 ## Table of Contents
 
@@ -57,7 +61,7 @@ The information flow for collab cafes in Japan works like this: the announcement
 
 **To stay ahead, follow these sources:**
 
-**Our guide:** [Japan Pop Now’s Tokyo Anime Collab Cafe Guide](https://japan-pop-now.com/tokyo-anime-collab-cafes-spring-2026/) is updated weekly with every current and upcoming collab cafe in Tokyo, translated into English with all the booking details.
+**Our guide:** [Japan Pop Now’s Tokyo Anime Collab Cafe Guide](/articles/tokyo-anime-collab-cafes-spring-2026) is updated weekly with every current and upcoming collab cafe in Tokyo, translated into English with all the booking details.
 
 **X (Twitter) accounts to follow for announcements:**
 
@@ -206,7 +210,7 @@ It’s improved significantly over the past few years. Five years ago, collab ca
 
 Yes — collab cafes are just one piece of Tokyo’s pop culture scene. [Akihabara](https://japan-pop-now.com/akihabara-complete-guide-2026/) has permanent anime shops, retro game stores, and maid cafes. [Ikebukuro](https://japan-pop-now.com/ikebukuro-anime-guide-2026/) has Animate (Japan’s largest anime store), Otome Road, and Sunshine City events. Shibuya PARCO has the Jump Shop and Nintendo TOKYO year-round.
 
-For the latest on what’s open right now, check our [Tokyo Anime Collab Cafe Guide for Spring 2026](https://japan-pop-now.com/tokyo-anime-collab-cafes-spring-2026/), updated weekly.
+For the latest on what’s open right now, check our [Tokyo Anime Collab Cafe Guide for Spring 2026](/articles/tokyo-anime-collab-cafes-spring-2026), updated weekly.
 
 ### Planning Your Tokyo Anime Trip?
 Beyond collab cafes, Tokyo has anime districts, pilgrimage spots, and exclusive merch shops. Get a discounted activity pass to cover multiple attractions.
@@ -217,7 +221,7 @@ Beyond collab cafes, Tokyo has anime districts, pilgrimage spots, and exclusive 
 - [Animate Cafe Guide Japan — Lottery Booking, Gratte, DECOTTO & All Locations](https://japan-pop-now.com/animate-cafe-guide-japan/)
 - [Lawson Ticket & Loppi Machine Guide — How to Book Anime Cafes and Events in Japan](https://japan-pop-now.com/lawson-ticket-loppi-guide/)
 
-**See what’s open right now:** Check our [Anime Collab Cafe Calendar](https://japan-pop-now.com/tokyo-anime-collab-cafes-spring-2026/) for a real-time list of every collaboration cafe currently running in Japan. Updated every Monday.
+**See what’s open right now:** Check our [Anime Collab Cafe Calendar](/articles/tokyo-anime-collab-cafes-spring-2026) for a real-time list of every collaboration cafe currently running in Japan. Updated every Monday.
 
 ### Collab Cafe Guides
 
