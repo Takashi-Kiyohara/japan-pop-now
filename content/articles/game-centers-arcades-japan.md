@@ -196,7 +196,7 @@ Japanese crane games are built to be winnable — the business model relies on r
 
 **Anywhere with a train station:** Even small cities will have at least one game center near the main station. Round1 in particular has locations nationwide, often attached to shopping malls.
 
-## FAQ
+## FAQ: Frequently Asked Questions
 **Do I need to speak Japanese to play?**
 
 No. Most games are intuitive — insert coins, play. Rhythm games show visual cues. Crane games are self-explanatory. Menu screens on some games are in Japanese, but you can figure them out by tapping through. Staff at major chains in tourist areas often speak basic English.

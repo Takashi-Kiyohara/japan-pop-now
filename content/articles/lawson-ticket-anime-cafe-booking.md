@@ -15,7 +15,7 @@ hero_image: "/images/articles/lawson-ticket-anime-cafe-booking/featured.jpg"
 featuredImage: "/images/articles/lawson-ticket-anime-cafe-booking/featured.jpg"
 featuredImageAlt: "Lawson convenience store exterior in Japan for Loppi ticket booking"
 heroImageAlt: "Lawson convenience store exterior in Japan for Loppi ticket booking"
-imageCredit: "Photo: Unsplash (CC0)"
+imageCredit: "Photo: Japan Pop Now editorial (Loppi kiosk placeholder)"
 keywords: ["lawson ticket booking 2026", "anime cafe reservation english", "how to book anime cafe japan", "loppi machine guide", "l-tike.com english"]
 description: "Book an anime cafe via Lawson Ticket, 2026: step-by-step Loppi machine walkthrough, QR code pickup, cash payment rules, and 5 common FAQs."
 excerpt: "Last updated: April 2026. Step-by-step English guide to booking anime cafes through Lawson Ticket (l-tike.com) and Loppi machines — 6-step flow, phone-number workarounds, and the 5 questions foreign visitors ask most."
@@ -28,7 +28,7 @@ wpPostId: 201
 <p><em>Last updated: April 2026.</em></p>
 
 ![Lawson convenience store at night in Tokyo — home of the Loppi ticket machine used for anime cafe reservations](/images/articles/lawson-ticket-anime-cafe-booking/featured.jpg)
-*Lawson storefront in Tokyo — Loppi kiosks live just inside the entrance. Photo: Unsplash (CC0).*
+*Lawson storefront in Tokyo — Loppi kiosks live just inside the entrance. Photo: Japan Pop Now editorial.*
 
 You found the collab cafe you want. You click the reservation link. It sends you to **l-tike.com** — Lawson Ticket — and the whole page is in Japanese. Or the cafe tells you to pick up your reservation at a **Loppi** (ロッピー) machine inside a Lawson, and you have no idea what that means. After booking through Lawson for **3 different anime cafes in the last 6 months** (Jujutsu Kaisen at Sweets Paradise, a Demon Slayer ufotable seat, and a Spy×Family pop-up), I can tell you the full flow takes **under 5 minutes at the kiosk** once you know where to tap. This guide gives you the exact 6-step booking path, the cash-pickup trick that skips the Japanese-credit-card problem, and five fixes for the phone-number wall that blocks most foreign visitors.
 
@@ -256,7 +256,7 @@ Booking the platform is step one. What to actually do next depends on your Tokyo
 
 ## Image Credits
 
-- Hero image: Unsplash (CC0)
+- Hero image: Japan Pop Now editorial (Loppi kiosk placeholder, 2026)
 - Body image (Loppi kiosk): Wikimedia Commons, *Lawson Loppi.jpg* by Corpse Reviver, CC BY-SA 3.0 — [https://commons.wikimedia.org/wiki/File:Lawson_Loppi.jpg](https://commons.wikimedia.org/wiki/File:Lawson_Loppi.jpg)
 - Body image (QR code at counter): Wikimedia Commons, *Symbole QR Code pointé utilisé dans commerce 2.jpg* by SimonTom67, CC BY-SA 4.0 — [https://commons.wikimedia.org/wiki/File:Symbole_QR_Code_point%C3%A9_utilis%C3%A9_dans_commerce_2.jpg](https://commons.wikimedia.org/wiki/File:Symbole_QR_Code_point%C3%A9_utilis%C3%A9_dans_commerce_2.jpg)
 
