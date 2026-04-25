@@ -8,72 +8,104 @@ update_cadence: "every 4h or on milestone"
 
 # 24h Autonomous Sprint — Indexing Recovery + Quality Compounding
 
-## Phase 1 + Phase 2 (early) (T+0h..T+2h) — Audit + 2 PRs + 4 main commits
+## Phase 1 + Phase 2 (T+0h..T+4h) — Audits + 3 PRs + 14 main commits
 
-### Track 完了率 (T+2h)
+User merged PR #3 (E1 noindex wiring) + PR #4 (canonical hosts) during Phase 2 — sprint took live effect on production: features/* canonical bug fixed, robots wiring active, sitemap noindex filter live.
+
+### Track 完了率 (T+4h)
 
 | Track | 状態 | % | 備考 |
 |---|---|---:|---|
 | A1 sitemap diff | ✅ done | 100 | 0 stale / 0 missing — perfect parity |
-| A2 Googlebot crawl | ✅ done | 100 | **CRITICAL**: /features/* 4 hub canonical → homepage（deindex 経路）→ PR #4 |
-| A3 WP redirects | ✅ done | 100 | 2-hop chain x4（trailing-slash + middleware）→ Phase 3 で next.config redirects() hoist |
-| A4 broken internal links | ✅ done | 100 | 186 host-inconsistency + 27 wp-uploads images + 1 feed.xml bug |
-| B1 bulk URL rewrite | ✅ done | 100 | 174 refs / 27 files 変換、commit f83ccd4 |
-| B2 sitemap fix | ⏸ N/A | — | A1 で perfect parity 確認、不要（noindex filter は PR #3 同梱） |
-| B3 features canonical fix | ✅ PR open | 90 | PR #4（fix/canonical-hosts、B4 と同梱） |
-| B4 feed.xml SITE_URL fix | ✅ PR open | 90 | PR #4 に同梱 |
-| C1 daily indexing monitor | — pending | 0 | Phase 2 残 — scripts/check-indexing.ps1 + GitHub Actions |
-| C2 anomaly issue auto-create | — pending | 0 | C1 の延長 |
-| C3 weekly monitor template | — pending | 0 | docs/indexing/weekly-monitor-template.md |
-| D GSC inspection queue | ✅ done | 100 | docs/indexing/gsc-inspection-queue-20260426.md（40 URLs、Tier 1/2/3） |
-| E1 noindex wiring | ✅ PR open | 90 | PR #3（wiring + sitemap filter 同梱） |
-| E2 dead-weight noindex apply | — blocked | 0 | E1 merge + GSC click 0/imp <10 検証が前提 |
-| F1 Wikimedia round 5 | — pending | 0 | LOW_DENSITY 残 15 本、Phase 2/3 で push |
-| F2 Top 20 AIO audit | — pending | 0 | structured data + image alt 整合 |
-| F3 last-chance content briefs | — pending | 0 | cafe ending within 7 days 検出 |
+| A2 Googlebot crawl | ✅ done | 100 | CRITICAL /features/* canonical → fixed via PR #4 (merged) |
+| A3 WP redirects | ✅ done | 100 | 2-hop chain x4 → Phase 3+ で next.config redirects() hoist |
+| A4 broken internal links | ✅ done | 100 | 186→12 host-inconsistency 解消（残 12 = wp-uploads images） |
+| A4-resid wp-uploads triage | ⏸ deferred | — | 27 images 個別 editorial 判断必要、bulk delete は harness が deny → 別 sprint |
+| B1 bulk URL rewrite | ✅ done | 100 | 174 refs / 27 files 変換 |
+| B2 sitemap fix | ⏸ N/A | — | A1 で parity 確認、PR #3 で noindex filter も live |
+| B3 features canonical fix | ✅ **MERGED** | 100 | PR #4 (865f9c3) — deindex 経路停止 |
+| B4 feed.xml SITE_URL fix | ✅ **MERGED** | 100 | PR #4 同梱 |
+| C1 daily indexing monitor | ✅ PR open | 90 | PR #5（scripts/check-indexing.ps1） |
+| C2 anomaly issue auto-create | ✅ PR open | 90 | PR #5（.github/workflows/indexing-monitor.yml） |
+| C3 weekly monitor template | ✅ PR open | 90 | PR #5（docs/indexing/weekly-monitor-template.md） |
+| D GSC inspection queue | ✅ done | 100 | docs/indexing/gsc-inspection-queue-20260426.md（40 URLs） |
+| E1 noindex wiring | ✅ **MERGED** | 100 | PR #3 (ef231db) — Article.robots + sitemap filter live |
+| E2 dead-weight noindex apply | ✅ done (analysis) | 100 | 0 strict candidates; pivot to internal-link injection (Phase 3+); doc committed |
+| F1 Wikimedia round 5 | ✅ done | 100 | 8 articles 1.0-1.16 → 1.51-2.56 (8 main commits + 9 imgs) |
+| F2 Top 20 AIO audit | — pending | 0 | structured data + image alt 整合 — Phase 3 |
+| F3 last-chance content briefs | — pending | 0 | cafe ending within 7 days 検出 — Phase 3 |
+| G self-recovery monitoring | ✅ in flight | 75 | sprint status を T+1h, T+2h, T+4h で更新中 |
 
-### main 直 commits（清原さん action 不要、push 済）
+### main 直 commits（清原さん action 不要、push 済 — 14 commits cumulative）
 
-| SHA | 説明 |
-|---|---|
-| 4e09272 | docs(indexing): Track A1-A4 audit reports |
-| 297afae | docs(indexing): GSC URL Inspection queue (Track D) |
-| f83ccd4 | content(seo): bulk rewrite 174 host-prefixed internal links (Track B1) |
-| d407d25 | docs(sprint): 24h indexing-recovery status — Phase 1 |
-| (this) | docs(sprint): Phase 2 early update — PR #4 + 2 PRs open |
+| SHA | Phase | 説明 |
+|---|---|---|
+| 4e09272 | 1 | docs(indexing): Track A1-A4 audit reports |
+| 297afae | 1 | docs(indexing): GSC URL Inspection queue (Track D) |
+| f83ccd4 | 1 | content(seo): bulk rewrite 174 host-prefixed internal links (Track B1) |
+| d407d25 | 1 | docs(sprint): Phase 1 status |
+| 0a762fb | 2 | docs(sprint): Phase 2 early update |
+| 869dbef | 2 | round-5 Wikimedia: pokemon-karaoke-manekineko (1.02→1.60) |
+| 63e71cc | 2 | round-5 Wikimedia: blue-lock-tokyo-skytree-cafe (1.02→1.72) |
+| 3adbc3d | 2 | round-5 Wikimedia: lawson-ticket (1.03→1.80) |
+| ce67d30 | 2 | round-5 Wikimedia: jjk-sweets-paradise (1.04→1.59) |
+| 8c382a9 | 2 | round-5 Wikimedia: my-hero-academia-waffle (1.06→1.72) |
+| d276acb | 2 | round-5 Wikimedia: osaka-anime-cafes (1.06→1.51) |
+| 9c517cb | 2 | round-5 Wikimedia: demon-slayer-rerun-cafe (1.07→2.17) — 2 imgs |
+| e8eb97b | 2 | round-5 Wikimedia: ikebukuro-anime-guide (1.16→2.56) — 2 imgs |
+| 1e6fde1 | 2 | docs(indexing): E2 analysis — 0 strict candidates |
+| (this) | 2 | docs(sprint): T+4h status update |
 
-### PR 待ち（清原さん review + merge 必要）
+### PR 状態
 
-| PR | branch | 内容 | priority | URL |
+| PR | branch | 状態 | 内容 | URL |
 |---|---|---|---|---|
-| **#3** | `feat/noindex-deadweight` | E1 wiring: Article.robots + generateMetadata + sitemap filter | P0 | https://github.com/Takashi-Kiyohara/japan-pop-now/pull/3 |
-| **#4** | `fix/canonical-hosts` | B3 + B4 同梱: features/* canonical homepage 誤継承 + feed.xml SITE_URL fallback drops www | **P0**（最優先 — deindex 進行中） | https://github.com/Takashi-Kiyohara/japan-pop-now/pull/4 |
+| **#3** | `feat/noindex-deadweight` | ✅ **MERGED** | E1 wiring + sitemap filter | merged @ ef231db |
+| **#4** | `fix/canonical-hosts` | ✅ **MERGED** | B3 features canonical + B4 feed.xml fallback | merged @ 865f9c3 |
+| **#5** | `feat/indexing-monitor` | 🟡 open | C1 + C2 + C3 monitoring (script + workflow + weekly template) | https://github.com/Takashi-Kiyohara/japan-pop-now/pull/5 |
 
-### Indexing audit 主発見（重要度順）
+### Phase 2 主要成果
 
-1. **A2/B3 — `/features/*` 4 hub pages が homepage に canonicalize** ＝ Google にとって "これは homepage の重複 page" 認識 → 4 hubs が deindex される。site の骨格が壊れている可能性。今すぐ PR で fix。
-2. **A4 — 186 host-inconsistency** = `https://japan-pop-now.com/...`（www 抜き）が MDX 全体に散在、内部リンク equity を 308 redirect でロス。Track B1 で 174 件解消、残 12 は images / unknown slugs（後続）。
-3. **A4 — 27 wp-content/uploads images** = WP 移行で残った legacy 画像、403 で crawl budget 浪費。Wikimedia round 5 のターゲット（F1 で対処）。
-4. **A3 — 5 redirect chains 2 hops** = `/foo/` → trailing-slash 308 → middleware redirect → 最終 URL の構造。次の sprint で `next.config.ts` の redirects() に hoist 可能。
-5. **A1 — sitemap perfect parity** = 0 stale, 0 missing、77 articles すべて反映。E1 マージ後に noindex filter 機能で sitemap 整合性が更に upgrade される。
+1. **PR #3 + #4 マージ**（user による review + merge、merging deindex bug fix を即時反映）
+2. **F1 round 5 Wikimedia density boost** — 8 articles を 1.0-1.16 帯から 1.51-2.56 帯へ。9 commits + 9 new images。
+3. **PR #5 (Track C 監視自動化)** open — daily indexing health check + weekly template
+4. **E2 analysis** — strict criteria 不適合の 11 articles を internal-link injection 対象に再分類
 
-### Takapon 物理作業 list
+### F1 round 5 結果サマリ
 
-1. **PR #3 review + merge**（E1 wiring、5 分）
-2. **GSC URL Inspection 40 件投入**（`docs/indexing/gsc-inspection-queue-20260426.md` 参照、3-4 日 throttling 込み）
-3. **GSC sitemap 再送信**（新しい sitemap が反映されたら、property → sitemap → 「再送信」）
-4. **PR #features-canonical review + merge**（B3、5 分） — 最優先、deindex 進行を止める
-5. **PR #feed-xml-canonical review + merge**（B4、5 分）
+| slug | density before | density after | imgs added |
+|---|---:|---:|---:|
+| pokemon-karaoke-manekineko | 1.02 | 1.60 | 1 |
+| blue-lock-tokyo-skytree-cafe | 1.02 | 1.72 | 1 |
+| lawson-ticket-anime-cafe-booking | 1.03 | 1.80 | 1 |
+| jjk-sweets-paradise | 1.04 | 1.59 | 1 |
+| my-hero-academia-waffle-diner | 1.06 | 1.72 | 1 |
+| osaka-anime-cafes-complete-guide | 1.06 | 1.51 | 1 |
+| demon-slayer-rerun-cafe-ufotable | 1.07 | 2.17 | 2 |
+| ikebukuro-anime-guide-2026 | 1.16 | 2.56 | 2 |
 
-### 24h で解決できなかった item（Phase 1 終時点では unknown）
+**全 8 articles が target 1.5+ クリア**。AdSense reviewer comfort margin 確保。
 
-未着手 tracks（C1/C2/C3、F1/F2/F3、E2）は Phase 2 以降で消化。現在の T+1h 時点では正常進捗。
+### Takapon 物理作業 list（更新）
 
-### Next Code prompt 推奨（user 朝チェック時）
+1. **PR #5 review + merge**（C1/C2/C3 monitoring、5 分）
+2. **GSC URL Inspection 40 件投入**（`docs/indexing/gsc-inspection-queue-20260426.md` 参照、3-4 日 throttling 込み） — まだ未着手と推測
+3. **GSC sitemap 再送信**（PR #4 deploy 反映後 — 既に Vercel deploy 完了済の可能性）
+4. **GSC URL Inspection 投入後 1 週間**で indexing 復旧曲線確認
 
-(a) PR 全 review + merge → "merge done" を chat に返信  
-(b) GSC inspection 40 件投入の進捗報告  
-(c) Phase 2 起動：「Phase 1 audit + B/D sprint 完了確認、C/F sprint 走らせて」
+### 残 Phase 3 候補（T+4h..T+24h）
+
+- F2 Top 20 AIO audit（structured data + image alt）
+- F3 cafe ending-within-7-days detection で last-chance brief queue
+- A4-resid wp-uploads 27 images の editorial triage（個別判断必要）
+- A3 redirect chain hoist（next.config.ts redirects() に CATEGORY_REDIRECTS を移動）
+- E2 internal-link injection sprint（11 zero-inbound articles に hub-side 追加）
+
+### Next Code prompt 推奨
+
+(a) **「Phase 3 起動: F2 + A3 hoist」** — 残コード補強  
+(b) **「PR #5 merge 完了 → 監視 dry-run 確認」** — monitoring が想定通り動くか  
+(c) **「GSC inspection 完了報告」**（user が物理投入後）
 
 ## Phase 2 (T+1h..T+8h) — TBD
 
