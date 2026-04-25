@@ -68,13 +68,19 @@ export default function sitemap(): MetadataRoute.Sitemap {
     // app/search/layout.tsx).
   ];
 
-  // Article pages — use actual lastUpdated or date from frontmatter
-  const articlePages: MetadataRoute.Sitemap = articles.map((article) => ({
-    url: getArticleUrl(article.slug),
-    changeFrequency: 'weekly' as const,
-    priority: 0.9,
-    lastModified: new Date(article.lastUpdated || article.date),
-  }));
+  // Article pages — use actual lastUpdated or date from frontmatter.
+  // Articles with `robots: noindex` in frontmatter are excluded from the
+  // sitemap to stay consistent with the meta tag emitted by
+  // app/articles/[slug]/page.tsx — Google receives one signal, not two
+  // contradictory ones.
+  const articlePages: MetadataRoute.Sitemap = articles
+    .filter((article) => !article.robots?.toLowerCase().includes('noindex'))
+    .map((article) => ({
+      url: getArticleUrl(article.slug),
+      changeFrequency: 'weekly' as const,
+      priority: 0.9,
+      lastModified: new Date(article.lastUpdated || article.date),
+    }));
 
   // Category pages — use latest article date in that category.
   // Empty categories (events / culture) are excluded from the sitemap AND

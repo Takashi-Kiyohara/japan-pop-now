@@ -26,6 +26,7 @@ export type Article = {
   content: string
   excerpt: string
   relatedSlugs?: string[]
+  robots?: string
 }
 
 export type ArticleMeta = Omit<Article, 'content'>
@@ -76,6 +77,7 @@ export function getArticleBySlug(slug: string): Article | null {
     content,
     excerpt: data.excerpt || content.slice(0, 160).replace(/\n/g, ' '),
     relatedSlugs: data.relatedSlugs || [],
+    robots: typeof data.robots === 'string' ? data.robots : undefined,
   }
 }
 

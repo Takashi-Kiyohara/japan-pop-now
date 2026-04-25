@@ -55,9 +55,18 @@ export async function generateMetadata({
 
   const url = getArticleUrl(slug);
 
+  const robotsRaw = article.robots?.toLowerCase() ?? '';
+  const robotsMeta = robotsRaw
+    ? {
+        index: !robotsRaw.includes('noindex'),
+        follow: !robotsRaw.includes('nofollow'),
+      }
+    : undefined;
+
   return {
     title: article.title,
     description: article.description,
+    robots: robotsMeta,
     alternates: {
       canonical: url,
       languages: {
