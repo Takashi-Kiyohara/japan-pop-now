@@ -207,6 +207,9 @@ If an event offers both Lawson and eplus, **pick eplus**. If it's Lawson-only, f
 
 Japan runs on *benri* (便利, convenience) culture, and Lawson Ticket is the physical expression of that value. The idea that you can walk into any of 14,000 corner stores at 2 AM, tap through a kiosk, and walk out 4 minutes later with a concert ticket in your hand feels obvious to locals — it's how Japan has handled ticketing since the early 2000s. The cash-at-counter step, which feels archaic to foreigners used to Apple Pay, is actually the feature that makes the system trustworthy: no credit card fraud, no chargeback risk, no mystery foreign-currency fees. For a country where roughly **40% of small transactions still happen in cash** (Bank of Japan, 2025), Loppi is perfectly tuned to everyday life.
 
+![Current-generation Loppi self-service kiosk inside a Lawson convenience store, with red signage and Japanese touchscreen menu](/images/articles/lawson-ticket-anime-cafe-booking/body-wikimedia-2.webp)
+*Current-generation Loppi kiosk inside a Lawson store — illustrative chain venue interior, the same model you tap through to redeem an L-code or scan a QR. Photo: Rebirth10 / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Loppi_2019,04.jpg), CC BY-SA 4.0.*
+
 ## Common Mistakes and How to Avoid Them
 
 **Don't wait until the last minute.** Popular collab cafe reservations sell out within **5-10 minutes of opening**. Set an alarm for the exact moment booking opens — the date and time always appear in advance on the cafe's official X (Twitter) account.
