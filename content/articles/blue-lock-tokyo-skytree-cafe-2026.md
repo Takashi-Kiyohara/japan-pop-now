@@ -97,6 +97,9 @@ I've tested this route and it works. Start early, end at Skytree for the night l
 
 **18:30 — Skytree Night Lighting.** The character-themed exterior illumination runs nightly during the event period. Six main characters each get their own lighting pattern in approximately 5-minute loops. Best viewed from the Soramachi terrace below.
 
+![Tokyo Skytree at night — venue exterior view from street level, host site of the 2026 BLUE LOCK EPISODE SKY event](/images/articles/blue-lock-tokyo-skytree-cafe-2026/body-wikimedia-1.webp)
+*Tokyo Skytree at night — venue hosting the 2026 BLUE LOCK EPISODE SKY event (the character-themed illumination overlays change nightly during the campaign). Photo: VaneTrz20 / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tokyo_Skytree_at_night_view.jpg), CC0.*
+
 ![Official Blue Lock x Collabo Cafe Honpo Honey Lemon Cafe promotional image](/images/articles/blue-lock-tokyo-skytree-cafe-2026/body-2.jpg)
 *Blue Lock x Collabo Cafe Honpo official announcement — Image: collabocafe-honpo.co.jp*
 
