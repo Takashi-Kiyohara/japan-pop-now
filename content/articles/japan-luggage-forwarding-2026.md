@@ -208,6 +208,9 @@ You land at Narita or Haneda. You want your bag at your Tokyo hotel by 6 PM so y
 
 **Real cost analysis:** Airport → hotel Yamato (¥3,000) vs. Taxi (¥8,000-15,000 from Narita). Yamato saves ¥5,000-12,000. Worth it.
 
+![Yamato Transport (Kuroneko) walk-through delivery van at Haneda Airport's Chronogate logistics hub — the same fleet that handles airport-to-hotel takkyubin shipments](/images/articles/japan-luggage-forwarding-2026/body-wikimedia-1.webp)
+*Yamato Transport walk-through van at Haneda Chronogate — Kuroneko's airport logistics hub that processes the same-day airport-to-hotel takkyubin deliveries described above. Photo: Comyu / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Yamato_Transport_A0050_Walk-through_Van_at_Haneda_Chronogate.jpg), CC BY-SA 4.0.*
+
 ## When Luggage Forwarding Pays for Itself vs Doesn’t
 ### Luggage Forwarding Makes Sense If You’re:
 
