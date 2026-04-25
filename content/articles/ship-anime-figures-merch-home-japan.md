@@ -57,6 +57,9 @@ You’ll fill out a customs declaration form (CN22 for parcels under 2kg, CN23 f
 
 The post office will give you a tracking number. Use it. You’ll be able to see your package move from Tokyo to the sorting facility, then to an airport, then to your destination country’s customs, then to your local postal service. It’s therapeutic watching a box of anime merch travel the world.
 
+![Japan Post yuyu-madoguchi (extended-hours after-hours service window) where international parcels and EMS shipments are dropped off](/images/articles/ship-anime-figures-merch-home-japan/body-wikimedia-1.webp)
+*A Japan Post yuyu-madoguchi (after-hours service counter) — the dedicated window where you hand over EMS or SAL parcels and a CN22/CN23 customs form for your figure shipments. Photo: oddstranger / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2014_%E3%82%86%E3%81%86%E3%82%86%E3%81%86%E7%AA%93%E5%8F%A3_(14657154946).jpg), CC BY-SA 2.0.*
+
 ## Option 2: Kuroneko Yamato / Sagawa (Speed & Reliability)
 Kuroneko Yamato (the black cat delivery company) and Sagawa are Japan’s major domestic and international couriers. Think of them as UPS or DHL equivalents. They’re faster and more reliable than Japan Post but cost more.
 
