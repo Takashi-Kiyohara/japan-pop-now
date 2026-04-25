@@ -8,46 +8,46 @@ update_cadence: "every 4h or on milestone"
 
 # 24h Autonomous Sprint — Indexing Recovery + Quality Compounding
 
-## Phase 1 (T+0h..T+1h) — Audit + first PR + first main-direct fix
+## Phase 1 + Phase 2 (early) (T+0h..T+2h) — Audit + 2 PRs + 4 main commits
 
-### Track 完了率 (T+1h)
+### Track 完了率 (T+2h)
 
 | Track | 状態 | % | 備考 |
 |---|---|---:|---|
 | A1 sitemap diff | ✅ done | 100 | 0 stale / 0 missing — perfect parity |
-| A2 Googlebot crawl | ✅ done | 100 | **CRITICAL**: /features/* 4 hub canonical → homepage（deindex 経路） |
-| A3 WP redirects | ✅ done | 100 | 2-hop chain x4（trailing-slash + middleware）、wp-content/uploads は 403（→ 410 化要） |
+| A2 Googlebot crawl | ✅ done | 100 | **CRITICAL**: /features/* 4 hub canonical → homepage（deindex 経路）→ PR #4 |
+| A3 WP redirects | ✅ done | 100 | 2-hop chain x4（trailing-slash + middleware）→ Phase 3 で next.config redirects() hoist |
 | A4 broken internal links | ✅ done | 100 | 186 host-inconsistency + 27 wp-uploads images + 1 feed.xml bug |
-| B1 bulk URL rewrite | ✅ done | 100 | 174 refs / 27 files 変換、main 直 commit 済 |
-| B2 sitemap fix | — pending | 0 | A1 perfect parity のため不要、ただし noindex filter は E1 PR に同梱済 |
-| B3 features canonical fix | 🟡 in flight | 50 | A2 で発覚、PR 化準備中 |
-| B4 feed.xml SITE_URL fix | 🟡 in flight | 50 | A4b で発覚、PR 化準備中 |
-| C1 daily indexing monitor | — pending | 0 | scripts/check-indexing.ps1 + GitHub Actions |
+| B1 bulk URL rewrite | ✅ done | 100 | 174 refs / 27 files 変換、commit f83ccd4 |
+| B2 sitemap fix | ⏸ N/A | — | A1 で perfect parity 確認、不要（noindex filter は PR #3 同梱） |
+| B3 features canonical fix | ✅ PR open | 90 | PR #4（fix/canonical-hosts、B4 と同梱） |
+| B4 feed.xml SITE_URL fix | ✅ PR open | 90 | PR #4 に同梱 |
+| C1 daily indexing monitor | — pending | 0 | Phase 2 残 — scripts/check-indexing.ps1 + GitHub Actions |
 | C2 anomaly issue auto-create | — pending | 0 | C1 の延長 |
 | C3 weekly monitor template | — pending | 0 | docs/indexing/weekly-monitor-template.md |
 | D GSC inspection queue | ✅ done | 100 | docs/indexing/gsc-inspection-queue-20260426.md（40 URLs、Tier 1/2/3） |
-| E1 noindex wiring | ✅ PR open | 90 | PR #3 待機（wiring + sitemap filter 同梱） |
+| E1 noindex wiring | ✅ PR open | 90 | PR #3（wiring + sitemap filter 同梱） |
 | E2 dead-weight noindex apply | — blocked | 0 | E1 merge + GSC click 0/imp <10 検証が前提 |
-| F1 Wikimedia round 2 | — pending | 0 | LOW_DENSITY 残 15 本のうち 1.0+ 引き上げ余地あり |
+| F1 Wikimedia round 5 | — pending | 0 | LOW_DENSITY 残 15 本、Phase 2/3 で push |
 | F2 Top 20 AIO audit | — pending | 0 | structured data + image alt 整合 |
 | F3 last-chance content briefs | — pending | 0 | cafe ending within 7 days 検出 |
 
-### main 直 commits（清原さん action 不要）
+### main 直 commits（清原さん action 不要、push 済）
 
 | SHA | 説明 |
 |---|---|
-| (queued) | docs(indexing): consolidate Track A1-A4 audit reports |
-| (queued) | docs(indexing): GSC inspection queue 40 URLs (Track D) |
-| (queued) | content(seo): bulk rewrite 174 host-prefixed internal links to canonical paths (Track B1) |
-| (queued) | docs(sprint): 24h indexing-recovery status — Phase 1 |
+| 4e09272 | docs(indexing): Track A1-A4 audit reports |
+| 297afae | docs(indexing): GSC URL Inspection queue (Track D) |
+| f83ccd4 | content(seo): bulk rewrite 174 host-prefixed internal links (Track B1) |
+| d407d25 | docs(sprint): 24h indexing-recovery status — Phase 1 |
+| (this) | docs(sprint): Phase 2 early update — PR #4 + 2 PRs open |
 
 ### PR 待ち（清原さん review + merge 必要）
 
-| PR | branch | 内容 | priority |
-|---|---|---|---|
-| **#3** | `feat/noindex-deadweight` | E1 wiring: Article.robots + generateMetadata + sitemap filter | P0 |
-| (queued) | `fix/features-canonical` | B3 A2 critical fix: 4 hub pages canonicalize to homepage → deindex 経路 | **P0**（最優先） |
-| (queued) | `fix/feed-xml-canonical` | B4 SITE_URL fallback drops www in app/feed.xml/route.ts:15 | P1 |
+| PR | branch | 内容 | priority | URL |
+|---|---|---|---|---|
+| **#3** | `feat/noindex-deadweight` | E1 wiring: Article.robots + generateMetadata + sitemap filter | P0 | https://github.com/Takashi-Kiyohara/japan-pop-now/pull/3 |
+| **#4** | `fix/canonical-hosts` | B3 + B4 同梱: features/* canonical homepage 誤継承 + feed.xml SITE_URL fallback drops www | **P0**（最優先 — deindex 進行中） | https://github.com/Takashi-Kiyohara/japan-pop-now/pull/4 |
 
 ### Indexing audit 主発見（重要度順）
 
