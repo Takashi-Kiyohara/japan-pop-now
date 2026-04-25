@@ -12,7 +12,7 @@ function escapeXml(str: string): string {
 export const dynamic = 'force-dynamic';
 
 export async function GET() {
-  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://japan-pop-now.com';
+  const baseUrl = process.env.NEXT_PUBLIC_SITE_URL || 'https://www.japan-pop-now.com';
   const articles = getAllArticles();
 
   const sorted = articles.sort(

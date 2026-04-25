@@ -35,11 +35,15 @@ export async function generateMetadata({
     : 'https://www.japan-pop-now.com/og-default.jpg';
 
   return {
-    title: `${feature.title} | Japan Pop Now`,
+    title: feature.title,
     description: feature.description,
+    alternates: {
+      canonical: `https://www.japan-pop-now.com/features/${slug}`,
+    },
     openGraph: {
       title: feature.title,
       description: feature.description,
+      url: `https://www.japan-pop-now.com/features/${slug}`,
       images: [{ url: ogImage }],
     },
   };
