@@ -44,7 +44,7 @@ Akihabara is the world’s most famous anime district for a reason. The concentr
 
 **The catch:** Akihabara is a major tourist destination, and prices reflect that. Shops on the main street know that tourists will pay a premium. For better deals on secondhand goods, the side streets and upper floors are where the value hides.
 
-Read the full guide: [Akihabara Complete Guide 2026](https://japan-pop-now.com/akihabara-complete-guide-2026/)
+Read the full guide: [Akihabara Complete Guide 2026](/articles/akihabara-complete-guide-2026/)
 
 | **Station** | JR Akihabara Station (Yamanote Line, Chuo-Sobu Line) — Electric Town Exit |
 | --- | --- |
@@ -65,7 +65,7 @@ But Ikebukuro isn’t only for female fans. It’s also home to:
 
 **Otome Road shops** — K-Books, Lashinbang, Animate Cafe Ikebukuro, and the cluster of BL/otome specialty stores that make this street unique in the world.
 
-Read the full guide: [Ikebukuro Anime Guide 2026](https://japan-pop-now.com/ikebukuro-anime-guide-2026/)
+Read the full guide: [Ikebukuro Anime Guide 2026](/articles/ikebukuro-anime-guide-2026/)
 
 | **Station** | JR Ikebukuro Station (Yamanote Line) — East Exit for Otome Road, Sunshine City |
 | --- | --- |
@@ -81,7 +81,7 @@ Five minutes from Shinjuku on the JR Chuo Line, Nakano Broadway is a vertical sh
 
 The atmosphere is the opposite of Akihabara. Quiet corridors, local neighborhood feel, and a crowd that’s mostly Japanese collectors rather than tourists. The building’s basement has a local food market and the famous Daily Chico soft serve stand (eight flavors, ¥1,000, spectacularly photogenic).
 
-Read the full guide: [Nakano Broadway Guide — Tokyo’s Best-Kept Anime Secret](https://japan-pop-now.com/nakano-broadway-guide/)
+Read the full guide: [Nakano Broadway Guide — Tokyo’s Best-Kept Anime Secret](/articles/nakano-broadway-guide/)
 
 | **Station** | JR Nakano Station (Chuo Line), North Exit — 5 min walk through Nakano Sun Mall |
 | --- | --- |
@@ -97,7 +97,7 @@ Beyond PARCO, Shibuya offers MEGA Don Quijote’s 24-hour cosplay and anime good
 
 Shibuya doesn’t feel like an “anime district” the way Akihabara does. It feels like a normal shopping neighborhood that happens to contain some of the best official gaming and anime retail in the city. That’s part of its appeal — if you’re traveling with people who aren’t into anime, Shibuya gives everyone something to do.
 
-Read the full guide: [Shibuya & Harajuku Pop Culture Guide](https://japan-pop-now.com/shibuya-harajuku-pop-culture-guide/)
+Read the full guide: [Shibuya & Harajuku Pop Culture Guide](/articles/shibuya-harajuku-pop-culture-guide/)
 
 | **Station** | JR Shibuya Station (Yamanote Line) — Hachiko Exit |
 | --- | --- |
@@ -110,7 +110,7 @@ For anime fans, Harajuku offers **Kiddy Land** (four floors of character goods i
 
 Cat Street — the kilometer-long path connecting Harajuku to Shibuya — adds vintage streetwear shops and the neighborhood where brands like A Bathing Ape were born. It’s the fashion side of the culture that produces anime.
 
-Read the full guide: [Shibuya & Harajuku Pop Culture Guide](https://japan-pop-now.com/shibuya-harajuku-pop-culture-guide/)
+Read the full guide: [Shibuya & Harajuku Pop Culture Guide](/articles/shibuya-harajuku-pop-culture-guide/)
 
 | **Station** | JR Harajuku Station (Yamanote Line) — Takeshita Exit |
 | --- | --- |
@@ -166,11 +166,11 @@ Akihabara. It has the broadest selection, the most shops, and the full “anime 
 
 **Which district has the cheapest prices?**
 
-[Nakano Broadway](https://japan-pop-now.com/nakano-broadway-guide/) for secondhand goods. Smaller shops, less tourist markup, and Mandarake’s pricing is generally fair. For new items, prices are fairly consistent across all districts — the same figure costs roughly the same at Animate in Akihabara and Animate in Ikebukuro.
+[Nakano Broadway](/articles/nakano-broadway-guide/) for secondhand goods. Smaller shops, less tourist markup, and Mandarake’s pricing is generally fair. For new items, prices are fairly consistent across all districts — the same figure costs roughly the same at Animate in Akihabara and Animate in Ikebukuro.
 
 **Are any of these districts good for anime collab cafes?**
 
-Yes. Ikebukuro has Animate Cafe and multiple collab cafes in Sunshine City. Akihabara has themed cafes throughout. Shibuya hosts box cafes at SHIBUYA109. Check our [anime collab cafe booking guide](https://japan-pop-now.com/how-to-book-anime-collab-cafe-japan/) for what’s currently running and how to reserve.
+Yes. Ikebukuro has Animate Cafe and multiple collab cafes in Sunshine City. Akihabara has themed cafes throughout. Shibuya hosts box cafes at SHIBUYA109. Check our [anime collab cafe booking guide](/articles/how-to-book-anime-collab-cafe-japan/) for what’s currently running and how to reserve.
 
 **I’m traveling with someone who doesn’t care about anime. Which district works for both of us?**
 
@@ -186,16 +186,16 @@ A guided anime district tour hits Akihabara, Ikebukuro, and Nakano in a single d
 [See Multi-District Tours on GetYourGuide](https://www.getyourguide.com/tokyo-l193/?q=anime+district+tour&partner_id=R7OISH9&utm_medium=online_publisher)
 ## Related Guides
 
-- [Akihabara Complete Guide 2026](https://japan-pop-now.com/akihabara-complete-guide-2026/)
-- [Ikebukuro Anime Guide 2026](https://japan-pop-now.com/ikebukuro-anime-guide-2026/)
-- [Nakano Broadway Guide — Tokyo’s Best-Kept Anime Secret](https://japan-pop-now.com/nakano-broadway-guide/)
-- [Shibuya & Harajuku Pop Culture Guide — Beyond the Tourist Surface](https://japan-pop-now.com/shibuya-harajuku-pop-culture-guide/)
-- [How to Book an Anime Collab Cafe in Japan](https://japan-pop-now.com/how-to-book-anime-collab-cafe-japan/)
-- [10 Anime Pilgrimage Spots in Tokyo You Can Visit Today](https://japan-pop-now.com/anime-pilgrimage-spots-tokyo/)
-- [Osaka](https://japan-pop-now.com/osaka-anime-guide-den-den-town/) Anime Guide: Den Den Town, Collab Cafes & Beyond
-- [Osaka Anime Guide: Den Den Town, Collab Cafes & Beyond](https://japan-pop-now.com/osaka-anime-guide-den-den-town/)
-- [Osaka Anime Guide: Den Den Town, Collab Cafes & Beyond](https://japan-pop-now.com/osaka-anime-guide-den-den-town/)
-- [Osaka Anime Guide: Den Den Town, Collab Cafes & Beyond](https://japan-pop-now.com/osaka-anime-guide-den-den-town/)
+- [Akihabara Complete Guide 2026](/articles/akihabara-complete-guide-2026/)
+- [Ikebukuro Anime Guide 2026](/articles/ikebukuro-anime-guide-2026/)
+- [Nakano Broadway Guide — Tokyo’s Best-Kept Anime Secret](/articles/nakano-broadway-guide/)
+- [Shibuya & Harajuku Pop Culture Guide — Beyond the Tourist Surface](/articles/shibuya-harajuku-pop-culture-guide/)
+- [How to Book an Anime Collab Cafe in Japan](/articles/how-to-book-anime-collab-cafe-japan/)
+- [10 Anime Pilgrimage Spots in Tokyo You Can Visit Today](/articles/anime-pilgrimage-spots-tokyo/)
+- [Osaka](/articles/osaka-anime-guide-den-den-town/) Anime Guide: Den Den Town, Collab Cafes & Beyond
+- [Osaka Anime Guide: Den Den Town, Collab Cafes & Beyond](/articles/osaka-anime-guide-den-den-town/)
+- [Osaka Anime Guide: Den Den Town, Collab Cafes & Beyond](/articles/osaka-anime-guide-den-den-town/)
+- [Osaka Anime Guide: Den Den Town, Collab Cafes & Beyond](/articles/osaka-anime-guide-den-den-town/)
 
 ### Related Guides
 

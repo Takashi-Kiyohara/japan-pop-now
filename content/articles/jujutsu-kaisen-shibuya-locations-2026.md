@@ -296,11 +296,11 @@ Website: omotesando-koffee.com
 
 ## Combining with Other Anime Pilgrimages
 
-If you’re doing a multi-day anime tourism trip to Tokyo, Shibuya fits logically with several other locations. [Shibuya and Harajuku share overlapping geography](https://japan-pop-now.com/shibuya-harajuku-pop-culture-guide/)—Meiji-dori connects them directly, and you can walk between the two neighborhoods in about 20 minutes. If you’re combining pilgrimage spots, consider doing Shibuya in the morning and Harajuku in the afternoon.
+If you’re doing a multi-day anime tourism trip to Tokyo, Shibuya fits logically with several other locations. [Shibuya and Harajuku share overlapping geography](/articles/shibuya-harajuku-pop-culture-guide/)—Meiji-dori connects them directly, and you can walk between the two neighborhoods in about 20 minutes. If you’re combining pilgrimage spots, consider doing Shibuya in the morning and Harajuku in the afternoon.
 
-If you’re interested in broader anime location tourism, [Tokyo anime pilgrimage spots](https://japan-pop-now.com/anime-pilgrimage-spots-tokyo/) covers locations across the city. Shibuya is one of the densest zones (roughly 10 significant locations in 3 square kilometers), which makes it ideal for a single morning or afternoon session.
+If you’re interested in broader anime location tourism, [Tokyo anime pilgrimage spots](/articles/anime-pilgrimage-spots-tokyo/) covers locations across the city. Shibuya is one of the densest zones (roughly 10 significant locations in 3 square kilometers), which makes it ideal for a single morning or afternoon session.
 
-For anime cafe tourism, [booking anime collaboration cafes](https://japan-pop-now.com/how-to-book-anime-collab-cafe-japan/) requires advance planning (many require reservations). If you’re visiting Shibuya in 2026 and want to combine location hunting with themed food experiences, check [Tokyo anime collaboration cafes for Spring 2026](https://japan-pop-now.com/tokyo-anime-collab-cafes-spring-2026/) to see if any JJK collaborations are running. As of April 2026, most major Shibuya anime cafes rotate collaborations quarterly.
+For anime cafe tourism, [booking anime collaboration cafes](/articles/how-to-book-anime-collab-cafe-japan/) requires advance planning (many require reservations). If you’re visiting Shibuya in 2026 and want to combine location hunting with themed food experiences, check [Tokyo anime collaboration cafes for Spring 2026](/articles/tokyo-anime-collab-cafes-spring-2026/) to see if any JJK collaborations are running. As of April 2026, most major Shibuya anime cafes rotate collaborations quarterly.
 
 ## Practical Timing Notes
 **Best season:** April-May and September-October offer cool temperatures and decent light without intense summer heat or winter chill. Shibuya in August is brutal (35°C+, high humidity), making a 2-3 hour walking route uncomfortable.

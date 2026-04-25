@@ -204,7 +204,7 @@ Tied to the new movie “The One-Eyed Remnant” (隻眼の残像), the annual C
 An interactive concept where the dishes change based on your choices — mirroring Black Jack’s medical decision-making themes. A creative departure from the standard collab cafe format.
 
 ## How to Get a Reservation
-This is the part that trips up most international visitors. Here’s the condensed version (we have a [full step-by-step guide with screenshots](https://japan-pop-now.com/how-to-book-anime-collab-cafe-japan/) in a separate article):
+This is the part that trips up most international visitors. Here’s the condensed version (we have a [full step-by-step guide with screenshots](/articles/how-to-book-anime-collab-cafe-japan/) in a separate article):
 
 1. **Find out when booking opens.** Follow the cafe’s X (Twitter) account. Reservations typically open 2-4 weeks before the cafe starts. The announcement will include the exact date, time, and URL.
 2. **Prepare before booking day.** Open the booking URL in advance, set Google Chrome to auto-translate, and have your details ready (name, email, preferred date/time, group size).
@@ -224,7 +224,7 @@ This is the part that trips up most international visitors. Here’s the condens
 | Station | Akihabara: JR Akihabara Electric Town Exit, 5 min / Osaka: Nipponbashi Station Exit 5, 3 min |
 | English menu | Photo menu |
 
-Collabo Cafe Honpo is a dedicated collab cafe space — smaller and more intimate than chain venues. No reservation needed, just walk in. The Blue Lock collab features character-themed dishes from the hit football anime. The Akihabara location is right in the heart of the otaku district — combine it with your [Akihabara shopping trip](https://japan-pop-now.com/akihabara-complete-guide-2026/). Also available in [Osaka’s Den Den Town](https://japan-pop-now.com/osaka-anime-guide-den-den-town/).
+Collabo Cafe Honpo is a dedicated collab cafe space — smaller and more intimate than chain venues. No reservation needed, just walk in. The Blue Lock collab features character-themed dishes from the hit football anime. The Akihabara location is right in the heart of the otaku district — combine it with your [Akihabara shopping trip](/articles/akihabara-complete-guide-2026/). Also available in [Osaka’s Den Den Town](/articles/osaka-anime-guide-den-den-town/).
 
 ### Skip the Hassle: Book a Guided Anime Cafe Tour
 Reservation systems for collab cafes can be confusing, especially in Japanese. A guided tour makes the most sense when your trip dates are fixed, you are traveling with a group, or you want to avoid navigating Japanese-only booking flows.
@@ -268,11 +268,11 @@ These are things you won’t find on the official cafe websites, from someone wh
 ## Where to Find Collab Cafes: Tokyo Neighborhood Guide
 Tokyo’s collab cafes cluster in three neighborhoods. Here’s where to focus based on what you’re interested in:
 
-**Ikebukuro** — The collab cafe capital. Animate cafes (4 locations), mottocafé, BOX cafe&space Grandscape, plus Animate main store, Otome Road, and Sunshine City for anime shopping and events. If you only have time for one neighborhood, start here. [→ Read our Ikebukuro anime guide](https://japan-pop-now.com/ikebukuro-anime-guide-2026/)
+**Ikebukuro** — The collab cafe capital. Animate cafes (4 locations), mottocafé, BOX cafe&space Grandscape, plus Animate main store, Otome Road, and Sunshine City for anime shopping and events. If you only have time for one neighborhood, start here. [→ Read our Ikebukuro anime guide](/articles/ikebukuro-anime-guide-2026/)
 
 **Shibuya** — Shibuya PARCO 6F is a pop culture hub: THE GUEST cafe&diner (One Piece, rotating collabs), Jump Shop, Nintendo TOKYO, and CAPCOM STORE all in one building. Loft Shibuya and BOX cafe&space GEMS Shibuya are nearby.
 
-**Akihabara** — More permanent themed cafes (Eorzea Cafe, Square Enix Cafe) than rotating collabs, but Animate Akihabara ANNEX has a Gratte stand, and various pop-up shops appear regularly. [→ Read our Akihabara guide](https://japan-pop-now.com/akihabara-complete-guide-2026/)
+**Akihabara** — More permanent themed cafes (Eorzea Cafe, Square Enix Cafe) than rotating collabs, but Animate Akihabara ANNEX has a Gratte stand, and various pop-up shops appear regularly. [→ Read our Akihabara guide](/articles/akihabara-complete-guide-2026/)
 
 ## Budget Guide: How Much Will You Spend?
 Here’s a realistic breakdown for a single collab cafe visit:
@@ -304,10 +304,10 @@ For the fastest updates, follow **[@japan_pop_now on Instagram](https://www.inst
 
 *Related guides:*
 
-- [How to Book an Anime Collab Cafe in Japan — Complete Step-by-Step Guide](https://japan-pop-now.com/how-to-book-anime-collab-cafe-japan/)
-- [Akihabara Deep Dive: The Real Otaku Guide for 2026](https://japan-pop-now.com/akihabara-complete-guide-2026/)
-- [Ikebukuro for Anime Fans: Animate, Otome Road & Beyond](https://japan-pop-now.com/ikebukuro-anime-guide-2026/)
-- [10 Anime Pilgrimage Spots in Tokyo You Can Visit Today](https://japan-pop-now.com/anime-pilgrimage-spots-tokyo/)
+- [How to Book an Anime Collab Cafe in Japan — Complete Step-by-Step Guide](/articles/how-to-book-anime-collab-cafe-japan/)
+- [Akihabara Deep Dive: The Real Otaku Guide for 2026](/articles/akihabara-complete-guide-2026/)
+- [Ikebukuro for Anime Fans: Animate, Otome Road & Beyond](/articles/ikebukuro-anime-guide-2026/)
+- [10 Anime Pilgrimage Spots in Tokyo You Can Visit Today](/articles/anime-pilgrimage-spots-tokyo/)
 
 **Planning beyond spring?** Check our [Live Collab Cafe Calendar](/collab-cafe-calendar/) for all current collaborations, updated every Monday. Visiting Osaka? See the [Osaka Anime Collab Cafe Guide](/articles/osaka-anime-collab-cafes-pop-culture-2026).
 

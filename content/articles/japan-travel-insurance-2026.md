@@ -295,8 +295,8 @@ For a 2-week trip where I’m hiking Hokkaido, visiting hot springs, and booked 
 
 ## Related Guides
 
-- [Japan eSIM, Pocket Wi-Fi & SIM Cards 2026: Best Options & Costs](https://japan-pop-now.com/japan-esim-pocket-wifi-sim-card/)
-- [Japan IC Card Guide: Suica, Pasmo, and Transit in Tokyo & Osaka](https://japan-pop-now.com/japan-ic-card-transit-guide/)
+- [Japan eSIM, Pocket Wi-Fi & SIM Cards 2026: Best Options & Costs](/articles/japan-esim-pocket-wifi-sim-card/)
+- [Japan IC Card Guide: Suica, Pasmo, and Transit in Tokyo & Osaka](/articles/japan-ic-card-transit-guide/)
 
 ## Common Questions
 

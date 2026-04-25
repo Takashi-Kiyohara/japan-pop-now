@@ -66,7 +66,7 @@ Tokyo works especially well if your schedule already includes other spring anime
 - you want to reduce pressure on your Tokyo days,
 - or you are combining cafe travel with bigger western Japan experiences.
 
-Osaka is often the smarter choice for travelers who are already considering **[Universal Cool Japan 2026](https://japan-pop-now.com/universal-cool-japan-2026-guide/)** or a longer regional trip.
+Osaka is often the smarter choice for travelers who are already considering **[Universal Cool Japan 2026](/articles/universal-cool-japan-2026-guide/)** or a longer regional trip.
 
 ## What about Kyoto, Nagoya, or Fukuoka?
 These branches are useful because they make the event more flexible for travelers who are **not** building a Tokyo-first trip.
@@ -122,7 +122,7 @@ If you are already in Tokyo or Osaka, it is tempting to overpack the day. In pra
 If you are undecided between Tokyo and Osaka, this event can actually help you decide where to spend more time. The city where you can secure a reservation may become the smarter anchor.
 
 ### 3. Connect it to franchise-based travel planning
-If Jujutsu Kaisen is one of your top series, use our **[Find by Anime](https://japan-pop-now.com/category/destinations)** hub next so the cafe becomes part of a larger themed itinerary, not just an isolated booking.
+If Jujutsu Kaisen is one of your top series, use our **[Find by Anime](/category/destinations)** hub next so the cafe becomes part of a larger themed itinerary, not just an isolated booking.
 
 ## Practical tips before you go
 
@@ -156,9 +156,9 @@ It depends on your route. Tokyo is better for a Tokyo-only anime trip, while Osa
 ## Where to go next on Japan Pop Now
 After this guide, the most useful next reads are:
 
-- **[Universal Cool Japan 2026 Guide](https://japan-pop-now.com/universal-cool-japan-2026-guide/)** if you are also planning Osaka anime experiences
-- **[Tokyo Anime Collab Cafes Spring 2026](https://japan-pop-now.com/tokyo-anime-collab-cafes-spring-2026/)** if you want to compare more spring cafe options
-- **[Find by Anime in Japan 2026](https://japan-pop-now.com/category/destinations)** if you want a broader franchise-first itinerary
+- **[Universal Cool Japan 2026 Guide](/articles/universal-cool-japan-2026-guide/)** if you are also planning Osaka anime experiences
+- **[Tokyo Anime Collab Cafes Spring 2026](/articles/tokyo-anime-collab-cafes-spring-2026/)** if you want to compare more spring cafe options
+- **[Find by Anime in Japan 2026](/category/destinations)** if you want a broader franchise-first itinerary
 
 ## Sources
 

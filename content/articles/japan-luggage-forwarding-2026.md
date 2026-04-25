@@ -252,9 +252,9 @@ The best luggage strategy is having less luggage. If you travel with just a carr
 
 ## Related Guides
 
-- [Japan IC Card Transit Guide: SUICA, PASMO, and Why You Need One](https://japan-pop-now.com/japan-ic-card-transit-guide/)
-- [Anime Merch Shopping Guide: Akihabara, Ikebukuro, Shibuya 2026](https://japan-pop-now.com/anime-merch-shopping-guide/)
-- [Akihabara Complete Guide 2026: Shops, Restaurants, Anime Cafes](https://japan-pop-now.com/akihabara-complete-guide-2026/)
+- [Japan IC Card Transit Guide: SUICA, PASMO, and Why You Need One](/articles/japan-ic-card-transit-guide/)
+- [Anime Merch Shopping Guide: Akihabara, Ikebukuro, Shibuya 2026](/articles/anime-merch-shopping-guide-japan/)
+- [Akihabara Complete Guide 2026: Shops, Restaurants, Anime Cafes](/articles/akihabara-complete-guide-2026/)
 
 ## Final Word
 Takuhaibin is one of Japan’s best-kept travel secrets. It’s cheap (¥2,000-3,000), reliable (99% on-time delivery), and it solves a real problem: carrying heavy bags on trains. Use it if you’re moving between cities. Skip it if you’re staying put. Either way, now you know how.

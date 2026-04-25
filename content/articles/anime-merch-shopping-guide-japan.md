@@ -265,12 +265,12 @@ New merchandise launches align with anime seasons (January, April, July, October
 
 ## More Shopping & Practical Guides
 
-- [Akihabara Guide 2026: 30+ Shops, Cafes & Hidden Spots](https://japan-pop-now.com/akihabara-complete-guide-2026/)
-- [Ikebukuro Anime Guide: Animate, Otome Road & Walking Route](https://japan-pop-now.com/ikebukuro-anime-guide-2026/)
-- [Nakano Broadway Guide: 100+ Vintage Anime & Manga Shops](https://japan-pop-now.com/nakano-broadway-guide/)
-- [Gachapon Guide: Where to Find, How to Use & What to Collect](https://japan-pop-now.com/gachapon-guide-japan/)
-- [Game Centers Guide: Crane Games, Rhythm & Retro Arcades](https://japan-pop-now.com/game-centers-arcades-japan/)
-- [Tokyo Anime District Guide: Which Neighborhood Matches Your Fandom](https://japan-pop-now.com/tokyo-anime-district-guide/)
+- [Akihabara Guide 2026: 30+ Shops, Cafes & Hidden Spots](/articles/akihabara-complete-guide-2026/)
+- [Ikebukuro Anime Guide: Animate, Otome Road & Walking Route](/articles/ikebukuro-anime-guide-2026/)
+- [Nakano Broadway Guide: 100+ Vintage Anime & Manga Shops](/articles/nakano-broadway-guide/)
+- [Gachapon Guide: Where to Find, How to Use & What to Collect](/articles/gachapon-guide-japan/)
+- [Game Centers Guide: Crane Games, Rhythm & Retro Arcades](/articles/game-centers-arcades-japan/)
+- [Tokyo Anime District Guide: Which Neighborhood Matches Your Fandom](/articles/tokyo-anime-district-guide/)
 
 **Follow [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)** for daily Tokyo pop culture updates.
 

@@ -392,9 +392,9 @@ Go to the ticket counter before you travel. Show your pass. Say which train you 
 
 Complete your Japan trip planning with these guides:
 
-- [Japan IC Card Transit Guide: SUICA, PASMO, and Why You Need One](https://japan-pop-now.com/japan-ic-card-transit-guide/) — Covers the non-JR transit you’ll need alongside the JR Pass.
-- [Japan eSIM vs Pocket WiFi 2026: Which Saves Money](https://japan-pop-now.com/japan-esim-pocket-wifi-sim-card/) — Stay connected while you’re using your JR Pass between cities.
-- [Osaka Anime Guide: Den-Den Town, Shops, Cafes 2026](https://japan-pop-now.com/osaka-anime-guide-den-den-town/) — Maximize your Shinkansen trip to Osaka with anime district intel.
+- [Japan IC Card Transit Guide: SUICA, PASMO, and Why You Need One](/articles/japan-ic-card-transit-guide/) — Covers the non-JR transit you’ll need alongside the JR Pass.
+- [Japan eSIM vs Pocket WiFi 2026: Which Saves Money](/articles/japan-esim-pocket-wifi-sim-card/) — Stay connected while you’re using your JR Pass between cities.
+- [Osaka Anime Guide: Den-Den Town, Shops, Cafes 2026](/articles/osaka-anime-guide-den-den-town/) — Maximize your Shinkansen trip to Osaka with anime district intel.
 
 ## The Honest Verdict
 Is the JR Pass worth ¥50,000 in 2026? It depends on three things:

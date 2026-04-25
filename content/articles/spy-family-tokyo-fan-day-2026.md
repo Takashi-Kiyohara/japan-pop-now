@@ -57,7 +57,7 @@ October event includes a photo booth setup (¥1,500 for 8 photos, themed sets wi
 ## SPY×FAMILY Collab Cafes: What’s Open Now
 Multiple cafes across Tokyo run limited SPY×FAMILY collaboration menus (usually 4–8 weeks). Typical setup: themed drinks (Anya-themed hot chocolate, Loid-themed coffee), seasonal food, and exclusive acrylic coasters as takeaway items. Pricing: ¥1,500–¥2,500 per person.
 
-Check our [guide to booking anime collab cafes](https://japan-pop-now.com/how-to-book-anime-collab-cafe-japan/) and [Spring 2026 collab cafe list](https://japan-pop-now.com/tokyo-anime-collab-cafes-spring-2026/).
+Check our [guide to booking anime collab cafes](/articles/how-to-book-anime-collab-cafe-japan/) and [Spring 2026 collab cafe list](/articles/tokyo-anime-collab-cafes-spring-2026/).
 
 ## Tokyo Character Street & Jump Shop
 
@@ -133,10 +133,10 @@ The items themselves are cheap (¥150–¥600 for the qualifying purchase) but t
 
 ## Related Reading
 
-- [How to book anime collab cafes](https://japan-pop-now.com/how-to-book-anime-collab-cafe-japan/)
-- [Tokyo collab cafes: Spring 2026](https://japan-pop-now.com/tokyo-anime-collab-cafes-spring-2026/)
-- [Anime merch shopping guide](https://japan-pop-now.com/anime-merch-shopping-guide/)
-- [Ikebukuro anime guide 2026](https://japan-pop-now.com/ikebukuro-anime-guide-2026/)
+- [How to book anime collab cafes](/articles/how-to-book-anime-collab-cafe-japan/)
+- [Tokyo collab cafes: Spring 2026](/articles/tokyo-anime-collab-cafes-spring-2026/)
+- [Anime merch shopping guide](/articles/anime-merch-shopping-guide-japan/)
+- [Ikebukuro anime guide 2026](/articles/ikebukuro-anime-guide-2026/)
 
 ### More Anime Location Guides
 

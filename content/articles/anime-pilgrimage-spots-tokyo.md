@@ -54,7 +54,7 @@ Nearly a decade after the film’s release, you’ll still find fans visiting ev
 | **Best time** | Late afternoon (3:00–5:00 PM) for golden hour light that matches the film |
 | **Cost** | Free |
 
-[→ Read our complete Your Name pilgrimage guide with all Tokyo locations and a walking route](https://japan-pop-now.com/your-name-pilgrimage-tokyo/)
+[→ Read our complete Your Name pilgrimage guide with all Tokyo locations and a walking route](/articles/your-name-pilgrimage-tokyo/)
 
 ## 2. Shibuya Crossing — [Weathering With You](/articles/weathering-with-you-locations-tokyo) / [Jujutsu Kaisen](/articles/jujutsu-kaisen-shibuya-locations-2026)
 
@@ -93,7 +93,7 @@ What makes this pilgrimage special: unlike locations from period pieces or fanta
 | **Key spots** | Radio Kaikan exterior, UDX Building, streets between them |
 | **Access** | JR Akihabara Station, Electric Town Exit |
 
-[→ Read our complete Akihabara guide for everything else to do in the area](https://japan-pop-now.com/akihabara-complete-guide-2026/)
+[→ Read our complete Akihabara guide for everything else to do in the area](/articles/akihabara-complete-guide-2026/)
 
 ## 5. [Ikebukuro](/articles/ikebukuro-anime-guide-2026) — Durarara!!
 The supernatural action series Durarara!! is set in Ikebukuro, and the neighborhood’s real layout is faithfully reproduced. Sunshine 60 Dori (the main street from the East Exit), Ikebukuro West Gate Park, and specific intersections all appear in the anime. Walking through Ikebukuro after watching Durarara!! gives the neighborhood a layer of cool, slightly dangerous energy that enhances the real experience.
@@ -103,7 +103,7 @@ The supernatural action series Durarara!! is set in Ikebukuro, and the neighborh
 | **Key spots** | Sunshine 60 Dori, Ikebukuro West Gate Park, East Exit area |
 | **Access** | JR Ikebukuro Station, East Exit |
 
-[→ Read our Ikebukuro anime guide for the full otaku experience in this neighborhood](https://japan-pop-now.com/ikebukuro-anime-guide-2026/)
+[→ Read our Ikebukuro anime guide for the full otaku experience in this neighborhood](/articles/ikebukuro-anime-guide-2026/)
 
 ## 6. Takadanobaba Station — Astro Boy (Tetsuwan Atom)
 A small but delightful pilgrimage: Takadanobaba Station plays the Astro Boy theme melody as its train departure jingle — one of only a few stations in Tokyo with an anime-themed sound. The area around the station features Astro Boy murals on building walls, and the character appears on local signage. The whole visit takes 15-20 minutes, making it an easy addition to a Yamanote Line day.
@@ -175,21 +175,21 @@ Visiting anime filming locations is more fun with a local guide who knows the ex
 
 *Related guides:*
 
-- [Your Name Pilgrimage Tokyo: Every Location With Walking Route](https://japan-pop-now.com/your-name-pilgrimage-tokyo/)
-- [Tokyo Anime Collab Cafes — Spring 2026 Guide](https://japan-pop-now.com/tokyo-anime-collab-cafes-spring-2026/)
-- [Akihabara: The Complete Pop Culture Guide for 2026](https://japan-pop-now.com/akihabara-complete-guide-2026/)
-- [Ikebukuro for Anime Fans: Animate, Otome Road & Beyond](https://japan-pop-now.com/ikebukuro-anime-guide-2026/)
+- [Your Name Pilgrimage Tokyo: Every Location With Walking Route](/articles/your-name-pilgrimage-tokyo/)
+- [Tokyo Anime Collab Cafes — Spring 2026 Guide](/articles/tokyo-anime-collab-cafes-spring-2026/)
+- [Akihabara: The Complete Pop Culture Guide for 2026](/articles/akihabara-complete-guide-2026/)
+- [Ikebukuro for Anime Fans: Animate, Otome Road & Beyond](/articles/ikebukuro-anime-guide-2026/)
 
 *Japan Pop Now is a Tokyo-based English-language media covering Japanese pop culture for international visitors. We specialize in information that’s usually only available in Japanese — collab cafes, anime events, limited-edition merchandise, and the spots that guidebooks don’t cover.*
 
 ## Related Guides
 
-- [Demon Slayer Pilgrimage Tokyo — Every Real Location from Kimetsu no Yaiba](https://japan-pop-now.com/demon-slayer-pilgrimage-tokyo/)
-- [Weathering With You Locations Tokyo — Every Real Spot from Tenki no Ko](https://japan-pop-now.com/weathering-with-you-locations-tokyo/)
-- [JR Pass Anime Pilgrimages 2026 — Routes, Prices & Whether It Saves You Money](https://japan-pop-now.com/jr-pass-anime-pilgrimage-routes-2026/)
-- [Best Anime Tours Tokyo 2026 — Klook vs Viator Compared](https://japan-pop-now.com/best-anime-tours-tokyo-2026/)
-- [Japan Trip Checklist for Anime Fans 2026](https://japan-pop-now.com/japan-trip-checklist-anime-fans-2026/)
-- [One Piece Kumamoto Statue Tour — All 10 Straw Hat Statues](https://japan-pop-now.com/one-piece-kumamoto-statue-tour/)
+- [Demon Slayer Pilgrimage Tokyo — Every Real Location from Kimetsu no Yaiba](/articles/demon-slayer-pilgrimage-tokyo/)
+- [Weathering With You Locations Tokyo — Every Real Spot from Tenki no Ko](/articles/weathering-with-you-locations-tokyo/)
+- [JR Pass Anime Pilgrimages 2026 — Routes, Prices & Whether It Saves You Money](/articles/jr-pass-anime-pilgrimage-routes-2026/)
+- [Best Anime Tours Tokyo 2026 — Klook vs Viator Compared](/articles/best-anime-tours-tokyo-2026/)
+- [Japan Trip Checklist for Anime Fans 2026](/articles/japan-trip-checklist-anime-fans-2026/)
+- [One Piece Kumamoto Statue Tour — All 10 Straw Hat Statues](/articles/one-piece-kumamoto-statue-tour/)
 
 **Follow [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)** for daily Tokyo pop culture updates.
 

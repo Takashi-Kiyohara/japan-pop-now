@@ -49,7 +49,7 @@ Check the [Animate Cafe official site](https://cafe.animate.co.jp/) or their X (
 - The results announcement date
 - The collaboration run dates
 
-Follow the [Tokyo Anime Collab Cafe Guide](https://japan-pop-now.com/tokyo-anime-collab-cafes-spring-2026/) — we track all current and upcoming Animate Cafe collaborations with dates translated into English.
+Follow the [Tokyo Anime Collab Cafe Guide](/articles/tokyo-anime-collab-cafes-spring-2026/) — we track all current and upcoming Animate Cafe collaborations with dates translated into English.
 
 ### 3. Enter the Lottery
 During the entry window, log into your Club Animate account and browse to the collaboration lottery page. Select:
@@ -139,7 +139,7 @@ Lost the lottery? Don’t want to deal with the booking process? Animate has two
 - **Sendai:** Animate Sendai
 - **Okayama:** Animate Okayama
 
-Gratte is the easiest Animate cafe experience for international visitors. No Japanese language needed, no account required, and the drinks are photogenic enough for Instagram. If you’re visiting [Akihabara](https://japan-pop-now.com/akihabara-complete-guide-2026/) or [Ikebukuro](https://japan-pop-now.com/ikebukuro-anime-guide-2026/) anyway, stop by.
+Gratte is the easiest Animate cafe experience for international visitors. No Japanese language needed, no account required, and the drinks are photogenic enough for Instagram. If you’re visiting [Akihabara](/articles/akihabara-complete-guide-2026/) or [Ikebukuro](/articles/ikebukuro-anime-guide-2026/) anyway, stop by.
 
 ### DECOTTO by Animate Cafe — Character Donuts
 DECOTTO is Animate Cafe’s take-out donut shop. The concept: donuts decorated with character designs from rotating anime collaborations, packaged for takeaway. Located in the Animate Cafe Ikebukuro building.
@@ -161,7 +161,7 @@ Tokyo has several collab cafe operators. Here’s how Animate Cafe compares:
 | **THE GUEST cafe&diner** | First-come online booking. Shibuya PARCO permanent location. Higher food quality. Best for: combining with Shibuya shopping. |
 | **Permanent themed cafes** | Walk-in or easy booking. Fixed themes year-round (Eorzea Cafe, Square Enix Cafe). Best for: zero-planning visits. |
 
-The biggest practical difference: Animate Cafe’s lottery system means you need to plan 2-4 weeks ahead. Other chains let you book days before — or even walk in. If you’re visiting Japan soon and haven’t entered a lottery yet, look at our [complete booking guide](https://japan-pop-now.com/how-to-book-anime-collab-cafe-japan/) for the other systems.
+The biggest practical difference: Animate Cafe’s lottery system means you need to plan 2-4 weeks ahead. Other chains let you book days before — or even walk in. If you’re visiting Japan soon and haven’t entered a lottery yet, look at our [complete booking guide](/articles/how-to-book-anime-collab-cafe-japan/) for the other systems.
 
 ![Busy shopping street in Ikebukuro Tokyo near Animate headquarters and Sunshine City](https://japan-pop-now.com/wp-content/uploads/2026/04/haikyu-popup-store-2026.jpeg)
 
@@ -201,7 +201,7 @@ Check the lottery schedule 3-4 weeks before your trip. Most lottery entry period
 
 **What’s the best Animate Cafe location?**
 
-Ikebukuro Main. Largest space, best kitchen, gets every collaboration, and it’s surrounded by the rest of Ikebukuro’s anime district — Animate flagship store, Otome Road, and Sunshine City are all within walking distance. See our [Ikebukuro Anime Guide](https://japan-pop-now.com/ikebukuro-anime-guide-2026/) for the full picture.
+Ikebukuro Main. Largest space, best kitchen, gets every collaboration, and it’s surrounded by the rest of Ikebukuro’s anime district — Animate flagship store, Otome Road, and Sunshine City are all within walking distance. See our [Ikebukuro Anime Guide](/articles/ikebukuro-anime-guide-2026/) for the full picture.
 
 ## More Collab Cafe Guides
 

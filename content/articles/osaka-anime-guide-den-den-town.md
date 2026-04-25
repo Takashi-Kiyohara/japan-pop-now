@@ -100,7 +100,7 @@ Located on the 6th floor of Namba Parks, this is one of the largest gashapon col
 
 The layout groups machines by category: character goods, animals, miniature food, gag items, and seasonal specials. New machines rotate in weekly, and the staff posts a “new arrivals” board near the entrance so you can spot what just dropped.
 
-Most machines take 100-yen coins (some are 200 or 300 yen). There’s a change machine inside, but it only accepts 500-yen coins and 1,000-yen bills — bring smaller bills if you can. For a deeper dive into how gashapon machines work and where to find them across Japan, check out our [complete Gachapon Guide](https://japan-pop-now.com/gachapon-guide-japan/).
+Most machines take 100-yen coins (some are 200 or 300 yen). There’s a change machine inside, but it only accepts 500-yen coins and 1,000-yen bills — bring smaller bills if you can. For a deeper dive into how gashapon machines work and where to find them across Japan, check out our [complete Gachapon Guide](/articles/gachapon-guide-japan/).
 
 | Location | Namba Parks 6F, 2-10-70 Nanbanaka, Naniwa-ku, Osaka |
 | --- | --- |
@@ -115,7 +115,7 @@ This massive entertainment complex operates 24 hours a day, which makes it the p
 
 Round1 Stadium is more than just an arcade — there’s also bowling, karaoke, billiards, and a sports area. But if you’re here for the games, head straight to floors 3-5. The crane game prizes here rotate faster than at smaller arcades, so you’ll often find anime merchandise that’s exclusive to Round1 locations.
 
-For more on Japan’s arcade culture, crane game strategies, and other game center chains across the country, see our [Japan Game Centers & Arcades Guide](https://japan-pop-now.com/game-centers-arcades-japan/).
+For more on Japan’s arcade culture, crane game strategies, and other game center chains across the country, see our [Japan Game Centers & Arcades Guide](/articles/game-centers-arcades-japan/).
 
 | Address | 2-7-22 Sennichimae, Chuo-ku, Osaka |
 | --- | --- |
@@ -139,7 +139,7 @@ Osaka’s collab cafe scene is growing fast. While Tokyo still dominates with vo
 
 **My Charaful** — A permanent character cafe concept with rotating anime themes. Located in the Shinsaibashi area, it’s walkable from Den Den Town in about 15 minutes.
 
-For booking tips, what to expect at your first collab cafe, and a calendar of current collaborations, check our [How to Book an Anime Collab Cafe](https://japan-pop-now.com/how-to-book-anime-collab-cafe-japan/) guide and the [Spring 2026 Collab Cafe Calendar](https://japan-pop-now.com/tokyo-anime-collab-cafes-spring-2026/).
+For booking tips, what to expect at your first collab cafe, and a calendar of current collaborations, check our [How to Book an Anime Collab Cafe](/articles/how-to-book-anime-collab-cafe-japan/) guide and the [Spring 2026 Collab Cafe Calendar](/articles/tokyo-anime-collab-cafes-spring-2026/).
 
 **Osaka booking tip:** Collab cafes in Osaka are generally easier to book than Tokyo — especially for weekday slots. If a Tokyo collab sold out instantly, check whether the same collaboration is running in Osaka. Many national chains (like PARCO collab cafes) run simultaneous events in both cities.
 
@@ -217,17 +217,17 @@ If you’re visiting Den Den Town as a day trip, use the coin lockers at Namba S
 | Tax-free | Most major shops offer tax-free shopping for purchases over 5,000 yen (bring passport) |
 
 ### Tokyo to Osaka: Save with a JR Pass
-If you’re combining Tokyo and Osaka on your anime trip, a Japan Rail Pass covers the Shinkansen round trip and all local JR trains. Check if it saves you money on our [JR Pass Guide](https://japan-pop-now.com/japan-rail-pass-guide-anime-fans/).
+If you’re combining Tokyo and Osaka on your anime trip, a Japan Rail Pass covers the Shinkansen round trip and all local JR trains. Check if it saves you money on our [JR Pass Guide](/articles/japan-rail-pass-guide-anime-fans/).
 
 [Check JR Pass Prices on Klook](https://affiliate.klook.com/redirect?aid=117469&aff_adid=1251547&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US/search/?query=japan+rail+pass&aid=1117469)
 ## More Anime Shopping & Culture Guides
 
-- [Anime Merch Shopping Guide: Best Stores, Budget Tips & What to Buy](https://japan-pop-now.com/anime-merch-shopping-guide/)
-- [Gachapon Guide Japan: Where to Find & How to Use Capsule Toy Machines](https://japan-pop-now.com/gachapon-guide-japan/)
-- [Game Centers & Arcades Guide: Crane Games, Rhythm Games & Tips](https://japan-pop-now.com/game-centers-arcades-japan/)
-- [Akihabara Complete Guide: The Tokyo Otaku District](https://japan-pop-now.com/akihabara-complete-guide-2026/)
-- [How to Book an Anime Collab Cafe in Japan](https://japan-pop-now.com/how-to-book-anime-collab-cafe-japan/)
-- [Tokyo Anime Districts Guide: Akihabara, Ikebukuro, Nakano & More](https://japan-pop-now.com/tokyo-anime-district-guide/)
+- [Anime Merch Shopping Guide: Best Stores, Budget Tips & What to Buy](/articles/anime-merch-shopping-guide-japan/)
+- [Gachapon Guide Japan: Where to Find & How to Use Capsule Toy Machines](/articles/gachapon-guide-japan/)
+- [Game Centers & Arcades Guide: Crane Games, Rhythm Games & Tips](/articles/game-centers-arcades-japan/)
+- [Akihabara Complete Guide: The Tokyo Otaku District](/articles/akihabara-complete-guide-2026/)
+- [How to Book an Anime Collab Cafe in Japan](/articles/how-to-book-anime-collab-cafe-japan/)
+- [Tokyo Anime Districts Guide: Akihabara, Ikebukuro, Nakano & More](/articles/tokyo-anime-district-guide/)
 
 **Follow [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)** for daily Tokyo pop culture updates.
 

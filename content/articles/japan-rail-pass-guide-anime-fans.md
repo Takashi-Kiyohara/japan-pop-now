@@ -61,7 +61,7 @@ The short answer: **if you’re leaving Tokyo for at least two cities, almost ce
 **Day trips from Tokyo.** Kamakura (Slam Dunk filming location), Hakone (Evangelion), Nikko, or Yokohama (Gundam Factory) — each costs 2,000-4,000 yen round trip on JR. Three or more day trips plus one Shinkansen ride, and the pass pays for itself.
 
 ### When to SKIP the JR Pass:
-**Tokyo-only trips.** Most Tokyo anime spots (Akihabara, Ikebukuro, Nakano, Shibuya) are on the Metro and private rail lines that the JR Pass doesn’t cover. You’d be paying 50,000 yen for a pass that saves you maybe 3,000 yen. Get an IC card instead — see our [IC Card Guide for Anime Fans](https://japan-pop-now.com/japan-ic-card-transit-guide/).
+**Tokyo-only trips.** Most Tokyo anime spots (Akihabara, Ikebukuro, Nakano, Shibuya) are on the Metro and private rail lines that the JR Pass doesn’t cover. You’d be paying 50,000 yen for a pass that saves you maybe 3,000 yen. Get an IC card instead — see our [IC Card Guide for Anime Fans](/articles/japan-ic-card-transit-guide/).
 
 **Short trips with one destination.** Flying Tokyo-Osaka on Peach or Jetstar can cost 5,000-8,000 yen one-way. If you’re only doing Tokyo and Osaka, a budget airline might beat the JR Pass on price.
 
@@ -154,7 +154,7 @@ Covers: Your Name spots (Tokyo), Slam Dunk crossing, Kyoto temples (featured in 
 
 Covers: Gundam Factory Yokohama, Evangelion Hakone spots, and Osaka’s Universal Studios anime zones. The Hakone leg alone is worth it as a Shinkansen test ride.
 
-All three routes link up with our area guides: [Akihabara Guide](https://japan-pop-now.com/akihabara-complete-guide-2026/), [Ikebukuro Guide](https://japan-pop-now.com/ikebukuro-anime-guide-2026/), [Osaka Anime Guide](https://japan-pop-now.com/osaka-anime-guide-den-den-town/), and [One Piece Kumamoto Statue Tour](https://japan-pop-now.com/one-piece-kumamoto-statue-tour/).
+All three routes link up with our area guides: [Akihabara Guide](/articles/akihabara-complete-guide-2026/), [Ikebukuro Guide](/articles/ikebukuro-anime-guide-2026/), [Osaka Anime Guide](/articles/osaka-anime-guide-den-den-town/), and [One Piece Kumamoto Statue Tour](/articles/one-piece-kumamoto-statue-tour/).
 
 ## JR Pass + IC Card: Using Both Together
 
@@ -168,7 +168,7 @@ A JR Pass covers JR lines, but many Tokyo anime spots require Metro or private r
 
 My setup on every trip: JR Pass for all train travel between cities + Suica for everything else. Load about 3,000-5,000 yen onto your IC card per week.
 
-For the full guide on IC cards: [Japan IC Card & Transit Guide for Anime Fans](https://japan-pop-now.com/japan-ic-card-transit-guide/).
+For the full guide on IC cards: [Japan IC Card & Transit Guide for Anime Fans](/articles/japan-ic-card-transit-guide/).
 
 ## Practical Tips & Common Mistakes
 

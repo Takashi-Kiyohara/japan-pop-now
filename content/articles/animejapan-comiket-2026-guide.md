@@ -107,10 +107,10 @@ Download the official Comiket catalog PDF (comiket.co.jp, 2 weeks before event).
 
 Stay in Shinjuku, Shibuya, or Shimbashi for best access (20-35 minutes to Big Sight). Budget hotels ¥4,000–8,000/night. Book early for Comiket weekends.
 
-For [anime-themed stays](https://japan-pop-now.com/how-to-book-anime-collab-cafe-japan/), some capsule hotels in Akihabara have character themes.
+For [anime-themed stays](/articles/how-to-book-anime-collab-cafe-japan/), some capsule hotels in Akihabara have character themes.
 
 ## Related Activities
-[Akihabara complete guide](https://japan-pop-now.com/akihabara-complete-guide-2026/) | [Collab cafe guide](https://japan-pop-now.com/tokyo-anime-collab-cafes-spring-2026/) | [Anime merch shopping guide](https://japan-pop-now.com/anime-merch-shopping-guide/)
+[Akihabara complete guide](/articles/akihabara-complete-guide-2026/) | [Collab cafe guide](/articles/tokyo-anime-collab-cafes-spring-2026/) | [Anime merch shopping guide](/articles/anime-merch-shopping-guide-japan/)
 
 ### Related Guides
 

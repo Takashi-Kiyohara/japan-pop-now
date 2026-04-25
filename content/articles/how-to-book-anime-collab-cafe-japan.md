@@ -208,7 +208,7 @@ It’s improved significantly over the past few years. Five years ago, collab ca
 
 **I missed everything. Is it still worth visiting Ikebukuro/Akihabara/Shibuya?**
 
-Yes — collab cafes are just one piece of Tokyo’s pop culture scene. [Akihabara](https://japan-pop-now.com/akihabara-complete-guide-2026/) has permanent anime shops, retro game stores, and maid cafes. [Ikebukuro](https://japan-pop-now.com/ikebukuro-anime-guide-2026/) has Animate (Japan’s largest anime store), Otome Road, and Sunshine City events. Shibuya PARCO has the Jump Shop and Nintendo TOKYO year-round.
+Yes — collab cafes are just one piece of Tokyo’s pop culture scene. [Akihabara](/articles/akihabara-complete-guide-2026/) has permanent anime shops, retro game stores, and maid cafes. [Ikebukuro](/articles/ikebukuro-anime-guide-2026/) has Animate (Japan’s largest anime store), Otome Road, and Sunshine City events. Shibuya PARCO has the Jump Shop and Nintendo TOKYO year-round.
 
 For the latest on what’s open right now, check our [Tokyo Anime Collab Cafe Guide for Spring 2026](/articles/tokyo-anime-collab-cafes-spring-2026), updated weekly.
 
@@ -218,8 +218,8 @@ Beyond collab cafes, Tokyo has anime districts, pilgrimage spots, and exclusive 
 [Browse Tokyo Activities on GetYourGuide](https://www.getyourguide.com/tokyo-l193/?q=anime&partner_id=R7OISH9&utm_medium=online_publisher)
 ## Related Guides
 
-- [Animate Cafe Guide Japan — Lottery Booking, Gratte, DECOTTO & All Locations](https://japan-pop-now.com/animate-cafe-guide-japan/)
-- [Lawson Ticket & Loppi Machine Guide — How to Book Anime Cafes and Events in Japan](https://japan-pop-now.com/lawson-ticket-loppi-guide/)
+- [Animate Cafe Guide Japan — Lottery Booking, Gratte, DECOTTO & All Locations](/articles/animate-cafe-guide-japan/)
+- [Lawson Ticket & Loppi Machine Guide — How to Book Anime Cafes and Events in Japan](/articles/lawson-ticket-anime-cafe-booking/)
 
 **See what’s open right now:** Check our [Anime Collab Cafe Calendar](/articles/tokyo-anime-collab-cafes-spring-2026) for a real-time list of every collaboration cafe currently running in Japan. Updated every Monday.
 

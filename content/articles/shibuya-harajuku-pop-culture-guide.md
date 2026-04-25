@@ -179,7 +179,7 @@ Physically possible, but you’ll be rushing everything. Shibuya + Harajuku fill
 
 **How does Shibuya compare to Akihabara and Ikebukuro for anime shopping?**
 
-Akihabara has the widest selection and the “anime district” atmosphere. [Ikebukuro](https://japan-pop-now.com/ikebukuro-anime-guide-2026/) is strongest for female-oriented fandoms (BL, otome, Animate headquarters). Shibuya fills a different niche: official gaming flagship stores, mainstream pop culture brands, and a more polished, less otaku-specific shopping experience. They complement each other rather than competing.
+Akihabara has the widest selection and the “anime district” atmosphere. [Ikebukuro](/articles/ikebukuro-anime-guide-2026/) is strongest for female-oriented fandoms (BL, otome, Animate headquarters). Shibuya fills a different niche: official gaming flagship stores, mainstream pop culture brands, and a more polished, less otaku-specific shopping experience. They complement each other rather than competing.
 
 ## More Area Guides
 

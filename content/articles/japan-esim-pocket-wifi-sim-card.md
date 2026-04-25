@@ -91,7 +91,7 @@ Pocket WiFi also works with any device — laptops, tablets, older phones, Ninte
 ### Pocket WiFi downsides
 Battery life is the main headache. Most devices last 8-12 hours, which sounds fine until you’re on hour 10 of exploring Akihabara and your Maps dies right when you need it. I always carry a power bank when using pocket WiFi — it’s essentially mandatory for long days out.
 
-You also need to keep the device with you. If your group splits up for the afternoon (one person at [Nakano Broadway](https://japan-pop-now.com/nakano-broadway-guide/), another at [Harajuku](https://japan-pop-now.com/shibuya-harajuku-pop-culture-guide/)), only the person carrying the device has internet. And if you forget to charge it overnight, your morning starts with no connection.
+You also need to keep the device with you. If your group splits up for the afternoon (one person at [Nakano Broadway](/articles/nakano-broadway-guide/), another at [Harajuku](/articles/shibuya-harajuku-pop-culture-guide/)), only the person carrying the device has internet. And if you forget to charge it overnight, your morning starts with no connection.
 
 Return logistics add a small hassle too. Most rentals require you to drop the device at an airport counter or designated return box before your departure flight. Miss the return and you’ll get charged.
 
@@ -140,13 +140,13 @@ My recommendation: **don’t rely on free WiFi as your primary connection**. Use
 | **Saily** | SoftBank | 1GB / $3.99 | Budget option by NordVPN team |
 
 ### My pick: Ubigi for coverage, Airalo for budget
-**Ubigi** runs on NTT Docomo’s network, which has the best coverage in rural Japan. If your itinerary includes anything outside Tokyo-Osaka — say, the [One Piece statues in Kumamoto](https://japan-pop-now.com/one-piece-kumamoto-statue-tour/) or mountain onsen towns — Docomo’s network won’t drop you. Ubigi also supports 5G in major cities, and their 3GB/30-day plan at $9 gives solid value.
+**Ubigi** runs on NTT Docomo’s network, which has the best coverage in rural Japan. If your itinerary includes anything outside Tokyo-Osaka — say, the [One Piece statues in Kumamoto](/articles/one-piece-kumamoto-statue-tour/) or mountain onsen towns — Docomo’s network won’t drop you. Ubigi also supports 5G in major cities, and their 3GB/30-day plan at $9 gives solid value.
 
 **Airalo** uses SoftBank, which covers Tokyo, Osaka, Kyoto, and all major tourist cities perfectly well. Their plans start at just $4.50 for 1GB/7 days — enough for a long weekend of Maps navigation and translation apps. For a 2-week trip, their 5GB/30-day plan at $16 is hard to beat on price.
 
 **Holafly** is the “don’t think about it” option. Unlimited data means no stress about running out, but it costs significantly more ($25 for 7 days). The 500MB/day hotspot cap is worth mentioning — you can share data with another device, but not much.
 
-You can also grab a [Japan eSIM directly through Klook](https://affiliate.klook.com/redirect?aid=117469&aff_adid=1251547&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US/activity/109393-japan-esim-high-speed-internet-qr-code-voucher/?aid=1117469) starting from $1.50, with flexible plan options from 1GB to unlimited daily data. Klook often bundles eSIM deals with activity bookings, so check for combo discounts if you’re also booking [collab cafe reservations](https://japan-pop-now.com/how-to-book-anime-collab-cafe-japan/) or tours.
+You can also grab a [Japan eSIM directly through Klook](https://affiliate.klook.com/redirect?aid=117469&aff_adid=1251547&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US/activity/109393-japan-esim-high-speed-internet-qr-code-voucher/?aid=1117469) starting from $1.50, with flexible plan options from 1GB to unlimited daily data. Klook often bundles eSIM deals with activity bookings, so check for combo discounts if you’re also booking [collab cafe reservations](/articles/how-to-book-anime-collab-cafe-japan/) or tours.
 
 ### Ready to get your Japan eSIM?
 Grab a Japan eSIM through Klook from just $1.50 — activate before your flight and land connected. Flexible data plans from 1GB to unlimited daily.

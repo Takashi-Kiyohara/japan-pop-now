@@ -132,7 +132,7 @@ An otaku-guide walking tour covers Animate flagship, Otome Road hidden shops, an
 
 **Nearby attractions:** Sunshine 60 observation deck, Sunshine Aquarium, PARCO Ikebukuro (shopping + collab cafe).
 
-[Japan IC Card & Transit Guide for Anime Fans](https://japan-pop-now.com/japan-ic-card-transit-guide/)
+[Japan IC Card & Transit Guide for Anime Fans](/articles/japan-ic-card-transit-guide/)
 
 ![Tokyo street with neon lights and anime advertisements near Ikebukuro station](https://japan-pop-now.com/wp-content/uploads/2026/04/spy-family-animate-fair-2026.jpeg)Neon-lit streets near Ikebukuro station
 Image: Collabo Cafe
@@ -143,12 +143,12 @@ Ikebukuro station has dozens of hotels within 5 minutes walk. Staying here puts 
 [Explore Ikebukuro Activities](https://www.getyourguide.com/tokyo-l193/?q=ikebukuro&partner_id=R7OISH9&utm_medium=online_publisher)
 ## More Tokyo Area Guides
 
-- [Tokyo Anime District Guide: Which Neighborhood Matches Your Fandom](https://japan-pop-now.com/tokyo-anime-district-guide/)
-- [Akihabara Guide 2026: 30+ Shops, Cafes & Hidden Spots](https://japan-pop-now.com/akihabara-complete-guide-2026/)
-- [Nakano Broadway Guide: 100+ Vintage Anime & Manga Shops](https://japan-pop-now.com/nakano-broadway-guide/)
-- [Shibuya & Harajuku Pop Culture Guide: Nintendo, PARCO & More](https://japan-pop-now.com/shibuya-harajuku-pop-culture-guide/)
-- [Tokyo Collab Cafes Spring 2026: Currently Open](https://japan-pop-now.com/tokyo-anime-collab-cafes-spring-2026/)
-- [Anime Merch Shopping Guide: Where to Buy & How to Save](https://japan-pop-now.com/anime-merch-shopping-guide/)
+- [Tokyo Anime District Guide: Which Neighborhood Matches Your Fandom](/articles/tokyo-anime-district-guide/)
+- [Akihabara Guide 2026: 30+ Shops, Cafes & Hidden Spots](/articles/akihabara-complete-guide-2026/)
+- [Nakano Broadway Guide: 100+ Vintage Anime & Manga Shops](/articles/nakano-broadway-guide/)
+- [Shibuya & Harajuku Pop Culture Guide: Nintendo, PARCO & More](/articles/shibuya-harajuku-pop-culture-guide/)
+- [Tokyo Collab Cafes Spring 2026: Currently Open](/articles/tokyo-anime-collab-cafes-spring-2026/)
+- [Anime Merch Shopping Guide: Where to Buy & How to Save](/articles/anime-merch-shopping-guide-japan/)
 
 **Follow [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)** for daily Tokyo pop culture updates.
 

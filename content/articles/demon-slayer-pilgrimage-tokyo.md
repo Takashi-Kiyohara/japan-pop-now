@@ -90,10 +90,10 @@ Tokyo regularly hosts Demon Slayer themed food events and pop-ups. These rotate 
 ufotable is the animation studio behind Demon Slayer, and they operate their own themed cafes in Tokyo. The menu rotates with ufotable’s current and past works, and Demon Slayer features frequently. The cafe is small and popular — lottery reservations are often required for peak collaborations.
 
 ### Kimetsu Food Hall (きめつ食堂)
-A pop-up food event that returns periodically to major department stores in Tokyo (recent location: Yurakucho Marui). Character-themed dishes, exclusive merchandise, and ufotable artwork. Entry sometimes requires a LINE lottery pass during high-demand periods. Check the [Tokyo Anime Collab Cafe Guide](https://japan-pop-now.com/tokyo-anime-collab-cafes-spring-2026/) for current dates.
+A pop-up food event that returns periodically to major department stores in Tokyo (recent location: Yurakucho Marui). Character-themed dishes, exclusive merchandise, and ufotable artwork. Entry sometimes requires a LINE lottery pass during high-demand periods. Check the [Tokyo Anime Collab Cafe Guide](/articles/tokyo-anime-collab-cafes-spring-2026/) for current dates.
 
 ### Sweets Paradise Collaborations
-Sweets Paradise — a buffet-style dessert restaurant chain — regularly runs Demon Slayer collaborations at multiple locations across Japan. These typically require advance reservation through [Lawson Ticket](https://japan-pop-now.com/lawson-ticket-loppi-guide/). The advantage: Sweets Paradise has locations in Shinjuku, Ikebukuro, Shibuya, and beyond, so you have more venue options.
+Sweets Paradise — a buffet-style dessert restaurant chain — regularly runs Demon Slayer collaborations at multiple locations across Japan. These typically require advance reservation through [Lawson Ticket](/articles/lawson-ticket-anime-cafe-booking/). The advantage: Sweets Paradise has locations in Shinjuku, Ikebukuro, Shibuya, and beyond, so you have more venue options.
 
 ![Demon Slayer themed capsule toys and merchandise available across Tokyo — collectibles for fans visiting pilgrimage spots](https://japan-pop-now.com/wp-content/uploads/2026/04/demon-slayer-capsule-merch-2026.jpg)
 
@@ -102,7 +102,7 @@ You don’t need a special event to buy Demon Slayer merchandise. Tokyo’s anim
 
 ### Ikebukuro
 
-- **Animate Ikebukuro** — Japan’s largest anime store. Multiple floors, extensive Demon Slayer section. For the full Ikebukuro experience, see our [Ikebukuro Anime Guide](https://japan-pop-now.com/ikebukuro-anime-guide-2026/).
+- **Animate Ikebukuro** — Japan’s largest anime store. Multiple floors, extensive Demon Slayer section. For the full Ikebukuro experience, see our [Ikebukuro Anime Guide](/articles/ikebukuro-anime-guide-2026/).
 - **Sunshine City** — Hosts rotating Demon Slayer collaboration shops and photo zones tied to movie releases and events.
 - **Jump Shop Ikebukuro** — Official Shueisha store with Demon Slayer Jump merchandise.
 
@@ -110,7 +110,7 @@ You don’t need a special event to buy Demon Slayer merchandise. Tokyo’s anim
 
 - **Animate Akihabara** — Multi-floor store with dedicated Demon Slayer merchandise.
 - **Radio Kaikan** — Multiple specialty shops including K-Books for figures and collectibles.
-- **Kotobukiya Akihabara** — Premium figure displays and sales. Check our [Akihabara Complete Guide](https://japan-pop-now.com/akihabara-complete-guide-2026/).
+- **Kotobukiya Akihabara** — Premium figure displays and sales. Check our [Akihabara Complete Guide](/articles/akihabara-complete-guide-2026/).
 
 ### Shibuya
 
@@ -156,18 +156,18 @@ A local guide takes you to every Kimetsu no Yaiba filming location in Tokyo, exp
 [Find Demon Slayer Tours on Klook](https://affiliate.klook.com/redirect?aid=117469&aff_adid=1251547&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US/search/?query=demon+slayer+tokyo+tour&aid=1117469)
 ## More Anime Pilgrimages
 
-- [10 Anime Pilgrimage Spots in Tokyo You Can Visit Today](https://japan-pop-now.com/anime-pilgrimage-spots-tokyo/)
-- [Your Name Pilgrimage Tokyo: Every Real Location + Walking Route](https://japan-pop-now.com/your-name-pilgrimage-tokyo/)
-- [Akihabara Complete Guide 2026](https://japan-pop-now.com/akihabara-complete-guide-2026/)
+- [10 Anime Pilgrimage Spots in Tokyo You Can Visit Today](/articles/anime-pilgrimage-spots-tokyo/)
+- [Your Name Pilgrimage Tokyo: Every Real Location + Walking Route](/articles/your-name-pilgrimage-tokyo/)
+- [Akihabara Complete Guide 2026](/articles/akihabara-complete-guide-2026/)
 
 ### More Anime Pilgrimages
 
-- [Jujutsu Kaisen Shibuya Pilgrimage Guide](https://japan-pop-now.com/jujutsu-kaisen-shibuya-locations-2026/) — Walk the real Shibuya locations from JJK
-- [Weathering With You Locations Tokyo](https://japan-pop-now.com/weathering-with-you-locations-tokyo/) — Another Shinkai masterpiece pilgrimage
-- [SPY×FAMILY Tokyo Fan Day Guide](https://japan-pop-now.com/spy-family-tokyo-fan-day-2026/) — Visit real Tokyo spots from SPY×FAMILY
-- [One Piece Kumamoto Statue Tour](https://japan-pop-now.com/one-piece-kumamoto-statue-tour/) — A day trip pilgrimage for One Piece fans
+- [Jujutsu Kaisen Shibuya Pilgrimage Guide](/articles/jujutsu-kaisen-shibuya-locations-2026/) — Walk the real Shibuya locations from JJK
+- [Weathering With You Locations Tokyo](/articles/weathering-with-you-locations-tokyo/) — Another Shinkai masterpiece pilgrimage
+- [SPY×FAMILY Tokyo Fan Day Guide](/articles/spy-family-tokyo-fan-day-2026/) — Visit real Tokyo spots from SPY×FAMILY
+- [One Piece Kumamoto Statue Tour](/articles/one-piece-kumamoto-statue-tour/) — A day trip pilgrimage for One Piece fans
 - [Anime Collab Cafe Calendar](https://japan-pop-now.com/collab-cafe-calendar/) — Check for Demon Slayer collabs during your visit
-- [Japan IC Card & Transit Guide](https://japan-pop-now.com/japan-ic-card-transit-guide/) — Navigate between pilgrimage spots easily
+- [Japan IC Card & Transit Guide](/articles/japan-ic-card-transit-guide/) — Navigate between pilgrimage spots easily
 
 **Follow [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)** for anime pilgrimage location guides, collab cafe updates, and Tokyo pop culture coverage.
 

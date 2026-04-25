@@ -51,7 +51,7 @@ Price range: ¥500–¥8,000 for merch; food ¥600–¥1,500
 
 Duration: Typically 4–8 weeks (check dates)
 
-**Why Durarara!! + Ikebukuro matters:** Walking into an anime-themed convenience store located in the actual geographic setting of that anime creates cognitive alignment. After grabbing merch here, many fans head to [Akihabara](https://japan-pop-now.com/akihabara-complete-guide-2026/) or [other major anime merch districts](https://japan-pop-now.com/anime-merch-shopping-guide/) to complete their haul.
+**Why Durarara!! + Ikebukuro matters:** Walking into an anime-themed convenience store located in the actual geographic setting of that anime creates cognitive alignment. After grabbing merch here, many fans head to [Akihabara](/articles/akihabara-complete-guide-2026/) or [other major anime merch districts](/articles/anime-merch-shopping-guide-japan/) to complete their haul.
 
 ## How the Collab Store Model Works
 **1. Announcement (2–3 weeks prior):** FamilyMart announces via Twitter and official press releases.
@@ -85,7 +85,7 @@ Duration: Typically 4–8 weeks (check dates)
 - **Reddit r/anime and r/animemerch**
 
 ## Lawson vs. FamilyMart
-Lawson runs smaller collabs (2–3 weeks, focus on food items, less store redesign). FamilyMart collabs are full-scale (4–8 weeks, larger merch selection, more visual impact). For serious collectors, FamilyMart is where you’ll find the action. Lawson is decent for [Loppi ticket purchases](https://japan-pop-now.com/lawson-ticket-loppi-guide/).
+Lawson runs smaller collabs (2–3 weeks, focus on food items, less store redesign). FamilyMart collabs are full-scale (4–8 weeks, larger merch selection, more visual impact). For serious collectors, FamilyMart is where you’ll find the action. Lawson is decent for [Loppi ticket purchases](/articles/lawson-ticket-anime-cafe-booking/).
 
 ## One-Day Itinerary: Durarara!! Store + Ikebukuro
 
@@ -93,11 +93,11 @@ Lawson runs smaller collabs (2–3 weeks, focus on food items, less store redesi
 
 **9:30–11:00 AM:** Durarara!! FamilyMart (¥2,000–¥5,000).
 
-**11:15 AM:** Ikebukuro anime spots — Sunshine City, Animate, Mandarake (1–2 hours). See [our Ikebukuro guide](https://japan-pop-now.com/ikebukuro-anime-guide-2026/).
+**11:15 AM:** Ikebukuro anime spots — Sunshine City, Animate, Mandarake (1–2 hours). See [our Ikebukuro guide](/articles/ikebukuro-anime-guide-2026/).
 
 **1:00 PM:** Lunch (¥1,200–¥1,800).
 
-**2:00–5:00 PM:** More Ikebukuro or head to Shibuya. For capsule toys, check our [gachapon guide](https://japan-pop-now.com/gachapon-guide-japan/).
+**2:00–5:00 PM:** More Ikebukuro or head to Shibuya. For capsule toys, check our [gachapon guide](/articles/gachapon-guide-japan/).
 
 **Total: ¥8,000–¥16,000 (USD $55–$110)**
 
@@ -106,10 +106,10 @@ Lawson runs smaller collabs (2–3 weeks, focus on food items, less store redesi
 
 ## Related Resources
 
-- [How to book anime collab cafes](https://japan-pop-now.com/how-to-book-anime-collab-cafe-japan/)
-- [Ikebukuro anime guide 2026](https://japan-pop-now.com/ikebukuro-anime-guide-2026/)
-- [Tokyo collab cafes: Spring 2026](https://japan-pop-now.com/tokyo-anime-collab-cafes-spring-2026/)
-- [Anime merch shopping guide](https://japan-pop-now.com/anime-merch-shopping-guide/)
+- [How to book anime collab cafes](/articles/how-to-book-anime-collab-cafe-japan/)
+- [Ikebukuro anime guide 2026](/articles/ikebukuro-anime-guide-2026/)
+- [Tokyo collab cafes: Spring 2026](/articles/tokyo-anime-collab-cafes-spring-2026/)
+- [Anime merch shopping guide](/articles/anime-merch-shopping-guide-japan/)
 
 ### More Collab Cafe & Event Guides
 

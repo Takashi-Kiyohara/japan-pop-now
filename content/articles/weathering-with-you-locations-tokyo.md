@@ -15,7 +15,7 @@ wpPostId: 203
 
 *Last updated: March 2026. All locations verified as publicly accessible unless noted. Includes walking routes optimized for a half-day or full-day visit.*
 
-Makoto Shinkai’s Weathering With You is a love letter to rainy Tokyo. Almost every frame is drawn from a real place — convenience stores, train stations, rooftop shrines, and specific slopes and intersections that you can walk through today. If you’ve already done the [Your Name pilgrimage](https://japan-pop-now.com/your-name-pilgrimage-tokyo/), this film’s locations are spread across a different set of neighborhoods, with a few overlapping spots that Shinkai fans will recognize from both films.
+Makoto Shinkai’s Weathering With You is a love letter to rainy Tokyo. Almost every frame is drawn from a real place — convenience stores, train stations, rooftop shrines, and specific slopes and intersections that you can walk through today. If you’ve already done the [Your Name pilgrimage](/articles/your-name-pilgrimage-tokyo/), this film’s locations are spread across a different set of neighborhoods, with a few overlapping spots that Shinkai fans will recognize from both films.
 
 This guide covers every major visitable location from the film, organized into walking routes so you can hit multiple spots in a single trip rather than zigzagging across Tokyo.
 
@@ -128,7 +128,7 @@ The park where Suga, Hina, and Hodaka spend time together. Shiba Park — one of
 **Transit cost:** About ¥800-1,000 total (IC card). Plus ¥2,000 for Roppongi Hills admission.
 
 ### Route B: Half-Day Yamanote Line Focus (3-4 hours)
-**Start at Tabata Station** (Yamanote Line). Walk the South Exit slope. One stop south to Nishi-Nippori or two stops to Ikebukuro area for Nozoki-zaka. Continue on Yamanote Line to Mejiro (walk to Nozoki-zaka, 15 min). End at Ikebukuro for anime shopping at [Animate and Sunshine City](https://japan-pop-now.com/ikebukuro-anime-guide-2026/).
+**Start at Tabata Station** (Yamanote Line). Walk the South Exit slope. One stop south to Nishi-Nippori or two stops to Ikebukuro area for Nozoki-zaka. Continue on Yamanote Line to Mejiro (walk to Nozoki-zaka, 15 min). End at Ikebukuro for anime shopping at [Animate and Sunshine City](/articles/ikebukuro-anime-guide-2026/).
 
 **Transit cost:** About ¥300-500 total.
 
@@ -140,7 +140,7 @@ If you’re doing both Shinkai pilgrimages, these spots overlap:
 
 - **Roppongi Hills Tokyo City View** — Your Name: Taki’s date. Weathering With You: Hina’s sunset prayer.
 - **Shinjuku area** — Both films use Shinjuku extensively, though different specific locations.
-- **Suga Shrine stairs** — Not in Weathering With You, but a 30-minute detour from the Shinjuku locations. See our [Your Name pilgrimage guide](https://japan-pop-now.com/your-name-pilgrimage-tokyo/) for the full route.
+- **Suga Shrine stairs** — Not in Weathering With You, but a 30-minute detour from the Shinjuku locations. See our [Your Name pilgrimage guide](/articles/your-name-pilgrimage-tokyo/) for the full route.
 
 ## FAQ: Frequently Asked Questions
 **Can I see the rooftop shrine from the film?**
@@ -161,9 +161,9 @@ The Your Name pilgrimage is more concentrated (most spots are in Shinjuku/Yotsuy
 
 ## More Anime Pilgrimages
 
-- [10 Anime Pilgrimage Spots in Tokyo You Can Visit Today](https://japan-pop-now.com/anime-pilgrimage-spots-tokyo/)
-- [Your Name Pilgrimage Tokyo — Every Real Location + Walking Route](https://japan-pop-now.com/your-name-pilgrimage-tokyo/)
-- [Demon Slayer Real Locations in Tokyo — Complete Pilgrimage Guide](https://japan-pop-now.com/demon-slayer-pilgrimage-tokyo/)
+- [10 Anime Pilgrimage Spots in Tokyo You Can Visit Today](/articles/anime-pilgrimage-spots-tokyo/)
+- [Your Name Pilgrimage Tokyo — Every Real Location + Walking Route](/articles/your-name-pilgrimage-tokyo/)
+- [Demon Slayer Real Locations in Tokyo — Complete Pilgrimage Guide](/articles/demon-slayer-pilgrimage-tokyo/)
 
 ### Makoto Shinkai Film Locations Tour
 A walking tour covering both Your Name and Weathering With You locations in one afternoon. A guide points out the exact camera angles and scene references.

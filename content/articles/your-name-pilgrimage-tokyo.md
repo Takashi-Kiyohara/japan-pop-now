@@ -126,12 +126,12 @@ It’s a full day trip from Tokyo: approximately 4 hours by Shinkansen (Tokyo �
 
 **Respect the neighborhood.** This is critical. The Suga Shrine area is a residential neighborhood where people live their daily lives. Keep noise to a minimum, don’t block sidewalks for extended photo sessions, don’t climb walls or fences for angles, and don’t enter private property. The residents have been remarkably patient with the years of fan visitors — return that patience with courtesy.
 
-*Want more anime pilgrimage ideas? Read our [guide to 10 anime pilgrimage spots in Tokyo](https://japan-pop-now.com/anime-pilgrimage-spots-tokyo/). For other pop culture activities, check our [Akihabara guide](https://japan-pop-now.com/akihabara-complete-guide-2026/) and [anime collab cafe guide](https://japan-pop-now.com/tokyo-anime-collab-cafes-spring-2026/).*
+*Want more anime pilgrimage ideas? Read our [guide to 10 anime pilgrimage spots in Tokyo](/articles/anime-pilgrimage-spots-tokyo/). For other pop culture activities, check our [Akihabara guide](/articles/akihabara-complete-guide-2026/) and [anime collab cafe guide](/articles/tokyo-anime-collab-cafes-spring-2026/).*
 
 ## More Anime Pilgrimages
 
-- [10 Anime Pilgrimage Spots in Tokyo](https://japan-pop-now.com/anime-pilgrimage-spots-tokyo/) — includes Shibuya, Asakusa, Odaiba and more
-- [Akihabara Complete Guide](https://japan-pop-now.com/akihabara-complete-guide-2026/) — the Steins;Gate pilgrimage district
+- [10 Anime Pilgrimage Spots in Tokyo](/articles/anime-pilgrimage-spots-tokyo/) — includes Shibuya, Asakusa, Odaiba and more
+- [Akihabara Complete Guide](/articles/akihabara-complete-guide-2026/) — the Steins;Gate pilgrimage district
 
 ### Your Name Walking Tour with a Guide
 A local guide takes you to every filming location from Your Name, explains the scene references, and helps you recreate the iconic photos. The walking route covers Suga Shrine, Shinjuku, and Yotsuya in about 2.5 hours.
@@ -139,17 +139,17 @@ A local guide takes you to every filming location from Your Name, explains the s
 [Find Your Name Tours on GetYourGuide](https://www.getyourguide.com/tokyo-l193/?q=your+name+anime&partner_id=R7OISH9&utm_medium=online_publisher)
 ## Related Guides
 
-- [Weathering With You Locations Tokyo — Every Real Spot from Tenki no Ko](https://japan-pop-now.com/weathering-with-you-locations-tokyo/)
-- [Demon Slayer Pilgrimage Tokyo — Every Real Location from Kimetsu no Yaiba](https://japan-pop-now.com/demon-slayer-pilgrimage-tokyo/)
-- [One Piece Kumamoto Statue Tour — All 10 Straw Hat Statues](https://japan-pop-now.com/one-piece-kumamoto-statue-tour/)
+- [Weathering With You Locations Tokyo — Every Real Spot from Tenki no Ko](/articles/weathering-with-you-locations-tokyo/)
+- [Demon Slayer Pilgrimage Tokyo — Every Real Location from Kimetsu no Yaiba](/articles/demon-slayer-pilgrimage-tokyo/)
+- [One Piece Kumamoto Statue Tour — All 10 Straw Hat Statues](/articles/one-piece-kumamoto-statue-tour/)
 
 ### More Anime Pilgrimages
 
-- [Jujutsu Kaisen Shibuya Pilgrimage Guide](https://japan-pop-now.com/jujutsu-kaisen-shibuya-locations-2026/) — Walk the real Shibuya locations from JJK
-- [SPY×FAMILY Tokyo Fan Day Guide](https://japan-pop-now.com/spy-family-tokyo-fan-day-2026/) — Another great pilgrimage through Tokyo
-- [Shibuya & Harajuku Pop Culture Guide](https://japan-pop-now.com/shibuya-harajuku-pop-culture-guide/) — Explore the area around Suga Shrine
-- [Ikebukuro Anime Guide 2026](https://japan-pop-now.com/ikebukuro-anime-guide-2026/) — Continue your anime tour in Ikebukuro
-- [Japan IC Card & Transit Guide](https://japan-pop-now.com/japan-ic-card-transit-guide/) — Navigate between pilgrimage spots easily
+- [Jujutsu Kaisen Shibuya Pilgrimage Guide](/articles/jujutsu-kaisen-shibuya-locations-2026/) — Walk the real Shibuya locations from JJK
+- [SPY×FAMILY Tokyo Fan Day Guide](/articles/spy-family-tokyo-fan-day-2026/) — Another great pilgrimage through Tokyo
+- [Shibuya & Harajuku Pop Culture Guide](/articles/shibuya-harajuku-pop-culture-guide/) — Explore the area around Suga Shrine
+- [Ikebukuro Anime Guide 2026](/articles/ikebukuro-anime-guide-2026/) — Continue your anime tour in Ikebukuro
+- [Japan IC Card & Transit Guide](/articles/japan-ic-card-transit-guide/) — Navigate between pilgrimage spots easily
 - [Anime Collab Cafe Calendar](https://japan-pop-now.com/collab-cafe-calendar/) — Check for Your Name or Shinkai collabs during your visit
 
 **Follow [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)** for daily Tokyo pop culture updates.

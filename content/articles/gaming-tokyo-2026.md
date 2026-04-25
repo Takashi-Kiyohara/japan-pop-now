@@ -140,7 +140,7 @@ Cover: ¥1,500–¥2,000 (includes one drink)
 
 Website: Dragon Quest themed gaming bar
 
-For more on Akihabara gaming culture, see [our Akihabara guide](https://japan-pop-now.com/akihabara-complete-guide-2026/).
+For more on Akihabara gaming culture, see [our Akihabara guide](/articles/akihabara-complete-guide-2026/).
 
 ## Super Nintendo World (Brief Mention)
 Located at Universal Studios Japan (Osaka, 2.5 hours from Tokyo by train). Full Nintendo theme park experience: Mario Kart ride, themed dining, exclusive merch. A day trip if you’re in Osaka; not worth the train ride from Tokyo unless you’re a hardcore Nintendo fan. ¥8,000–¥12,000 entry.
@@ -202,12 +202,12 @@ Ask staff what’s selling out fastest. Usually: new Pokemon card sets, Nintendo
 
 Use Suica card (rechargeable IC card). Buy at any train station for ¥2,000 (¥1,500 balance, ¥500 deposit). No fumbling for coins, works on subways, trains, and convenience store purchases. Most gaming stores are within 5–10 minutes of major stations.
 
-See our [Akihabara complete guide](https://japan-pop-now.com/akihabara-complete-guide-2026/), [Ikebukuro anime guide](https://japan-pop-now.com/ikebukuro-anime-guide-2026/), and [anime merch shopping guide](https://japan-pop-now.com/anime-merch-shopping-guide/) for more area-specific recommendations.
+See our [Akihabara complete guide](/articles/akihabara-complete-guide-2026/), [Ikebukuro anime guide](/articles/ikebukuro-anime-guide-2026/), and [anime merch shopping guide](/articles/anime-merch-shopping-guide-japan/) for more area-specific recommendations.
 
 ## Staying Longer? Deep Dives
 
-- [Gaming centers & arcades in Japan](https://japan-pop-now.com/game-centers-arcades-japan/)
-- [Anime merch shopping guide](https://japan-pop-now.com/anime-merch-shopping-guide/)
+- [Gaming centers & arcades in Japan](/articles/game-centers-arcades-japan/)
+- [Anime merch shopping guide](/articles/anime-merch-shopping-guide-japan/)
 
 ### More Tokyo Anime & Gaming Guides
 

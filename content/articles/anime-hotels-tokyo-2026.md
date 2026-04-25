@@ -184,7 +184,7 @@ The Sunshine City Prince Hotel partnered with several anime studios to create IK
 ### Asakusa (Anime Hostels & Mid-Range)
 Asakusa is Tokyo’s oldest neighborhood and the backpacker hub. Hotels here: Anime Hostel Astro Station, Hotel Tavinos. Best if you want to walk to anime shops, temples, and street food. Vibe: touristy but authentic. The street behind Senso-ji Temple is packed with anime shops selling everything from vintage manga to modern figures.
 
-[Read our full Asakusa anime guide](https://japan-pop-now.com/akihabara-complete-guide-2026/) for shops and restaurants.
+[Read our full Asakusa anime guide](/articles/akihabara-complete-guide-2026/) for shops and restaurants.
 
 ### Jimbocho (Manga District)
 If you care about manga specifically, Jimbocho is where you stay. Manga Art Hotel is literally in the middle of dozens of vintage manga bookstores, rare print shops, and used anime shops. Vibe: indie, artsy, less touristy than Asakusa. The neighborhood is small but walkable. You’ll see old manga shops run by people who’ve been there 20+ years.
@@ -195,7 +195,7 @@ Shinjuku is where anime meets modern Tokyo. Hotel Gracery is here. You’re step
 ### Ikebukuro (Anime & Manga Fans)
 Ikebukuro is the #2 anime tourism hub after Akihabara (which doesn’t have good anime hotels). The Sunshine City Anime Store is here, Mandarake has another location, and there are smaller manga cafes throughout. Vibe: slightly less touristy than Shinjuku, more focused on serious anime fans. Hotel Gracery location is Sunshine City Prince—the obvious choice if you’re staying here.
 
-[See our Ikebukuro anime tourism guide](https://japan-pop-now.com/ikebukuro-anime-guide-2026/) for specific shops and galleries.
+[See our Ikebukuro anime tourism guide](/articles/ikebukuro-anime-guide-2026/) for specific shops and galleries.
 
 ## Budget vs. Splurge: What You’re Actually Paying For
 **¥3,000–5,000/night (Budget):** You’re paying for location and a bed. Shared bathrooms, no privacy, but you meet other travelers and save money for experiences. Best if you’re under 30, travel solo, and prefer spending on food and activities.
@@ -244,9 +244,9 @@ The manga cafe option isn’t comfortable, but it’s very Tokyo and very cheap.
 
 ## Related Guides
 
-- [Akihabara Complete Guide 2026: Anime, Gaming & Merch](https://japan-pop-now.com/akihabara-complete-guide-2026/)
-- [Ikebukuro Anime Tourism: Manga Stores, Galleries & Cafes](https://japan-pop-now.com/ikebukuro-anime-guide-2026/)
-- [Shibuya & Harajuku Pop Culture Guide: Fashion, Gaming & Trends](https://japan-pop-now.com/shibuya-harajuku-pop-culture-guide/)
+- [Akihabara Complete Guide 2026: Anime, Gaming & Merch](/articles/akihabara-complete-guide-2026/)
+- [Ikebukuro Anime Tourism: Manga Stores, Galleries & Cafes](/articles/ikebukuro-anime-guide-2026/)
+- [Shibuya & Harajuku Pop Culture Guide: Fashion, Gaming & Trends](/articles/shibuya-harajuku-pop-culture-guide/)
 
 ## Bottom Line
 The best anime hotel for you depends on your budget and what you actually want from the experience. If you want to meet people and save money: Astro Station. If you want to sleep in the manga district: Manga Art Hotel. If you want a proper hotel with anime vibes: Tavinos. If you want photos for Instagram: Gracery. If you want the full premium anime experience with official collabs: Sunshine City Prince.

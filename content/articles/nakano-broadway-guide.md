@@ -104,7 +104,7 @@ Both. But if you’re forced to choose, here’s how to think about it:
 
 Akihabara is the better choice if you want current-season goods, maid cafes, arcades, and the full “Electric Town” experience. It’s a spectacle. Nakano Broadway is the better choice if you’re looking for specific items from older series, want to browse without fighting crowds, or if you’re the kind of person who finds more joy in digging through bins than walking into a flagship store.
 
-A common pattern among repeat Tokyo visitors: first trip, Akihabara. Second trip, Nakano Broadway. Third trip, both — plus [Ikebukuro](https://japan-pop-now.com/ikebukuro-anime-guide-2026/).
+A common pattern among repeat Tokyo visitors: first trip, Akihabara. Second trip, Nakano Broadway. Third trip, both — plus [Ikebukuro](/articles/ikebukuro-anime-guide-2026/).
 
 ## Price Guide: What Things Actually Cost
 Prices vary wildly depending on rarity and condition, but here’s a rough guide so you know what to expect:
@@ -143,7 +143,7 @@ Yes. Even if you don’t plan to buy anything, the sheer density and variety of 
 
 **Can I find current-season anime merchandise here?**
 
-Some, but it’s not the focus. If you want the latest Jujutsu Kaisen or Spy×Family goods from this season, Akihabara or [Ikebukuro’s Animate flagship](https://japan-pop-now.com/ikebukuro-anime-guide-2026/) will have better selection. Nakano Broadway’s strength is everything that came before — the back catalog, the out-of-print, the rare.
+Some, but it’s not the focus. If you want the latest Jujutsu Kaisen or Spy×Family goods from this season, Akihabara or [Ikebukuro’s Animate flagship](/articles/ikebukuro-anime-guide-2026/) will have better selection. Nakano Broadway’s strength is everything that came before — the back catalog, the out-of-print, the rare.
 
 **How long should I spend here?**
 

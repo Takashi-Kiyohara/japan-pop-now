@@ -281,9 +281,9 @@ If you’re buying multiple items, consolidation saves money. Three shipments of
 
 ## Related Guides
 
-- [Anime Merchandise Shopping Guide: Where to Buy & What’s Worth It](https://japan-pop-now.com/anime-merch-shopping-guide/)
-- [Gachapon Guide 2026: Capsule Toy Hunting in Tokyo](https://japan-pop-now.com/gachapon-guide-japan/)
-- [Akihabara Complete Guide 2026: Anime Shops, Gaming & Arcades](https://japan-pop-now.com/akihabara-complete-guide-2026/)
+- [Anime Merchandise Shopping Guide: Where to Buy & What’s Worth It](/articles/anime-merch-shopping-guide-japan/)
+- [Gachapon Guide 2026: Capsule Toy Hunting in Tokyo](/articles/gachapon-guide-japan/)
+- [Akihabara Complete Guide 2026: Anime Shops, Gaming & Arcades](/articles/akihabara-complete-guide-2026/)
 
 ## Common Questions
 
