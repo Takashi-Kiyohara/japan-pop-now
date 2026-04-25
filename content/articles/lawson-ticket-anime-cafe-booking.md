@@ -68,6 +68,9 @@ You found the collab cafe you want. You click the reservation link. It sends you
 
 The two work as a pair: you reserve online at l-tike.com, you walk into any Lawson, you tap through a few Loppi screens, the kiosk prints a paper slip, you take that slip to the cashier, you pay in cash, and the cashier hands you your ticket. Start to finish at the store: **3-5 minutes** once you know which button to press.
 
+![Exterior of a Lawson convenience store in Japan with the blue-and-white storefront sign anime fans walk past to reach a Loppi kiosk](/images/articles/lawson-ticket-anime-cafe-booking/body-wikimedia-1.webp)
+*A typical Lawson exterior — any of the 14,000+ stores in this style has a Loppi kiosk inside the entrance. Photo: DXR / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lawson_convenience_store,_Fujikawaguchiko,_Yamanashi_20130813_1.jpg), CC BY-SA 4.0.*
+
 ## Before You Start: The Phone Number Problem
 
 Here's the part nobody tells you upfront: creating a Lawson Ticket account requires a **Japanese phone number** for SMS verification. Foreign phone numbers don't work for registration. This single requirement blocks roughly 80% of foreign visitors on their first try.
