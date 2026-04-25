@@ -67,6 +67,9 @@ Ikebukuro’s East Exit area has several game centers worth visiting. **Round1 S
 ## West Side: Otome Road
 Otome Road is a stretch of shops along the west side of Sunshine 60-dori that caters specifically to female anime and manga fans. While the name means “Maiden Road,” it welcomes everyone — the focus is simply on genres popular with women: BL (boys’ love), otome games, josei manga, and series with strong male character appeal (Haikyuu!!, Jujutsu Kaisen, Twisted Wonderland, Hypnosis Mic).
 
+![Otome Road in Ikebukuro lined with female-oriented anime, manga, and doujinshi shops](/images/articles/ikebukuro-anime-guide-2026/body-wikimedia-3.webp)
+*Otome Road, Ikebukuro — the 200-meter strip that anchors the female-oriented otaku scene, west of Sunshine City. Photo: Boyfriendback / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Otome_road_in_Ikebukuro,_Tokyo,_Japan.jpg), Public domain.*
+
 ### What You’ll Find on Otome Road
 **Animate Ikebukuro Otome Road Branch** — A second Animate store focused specifically on BL, otome, and josei titles. Separate from the main Animate store. Carries doujinshi, drama CDs, and merchandise for female-oriented franchises that get less shelf space at the main store.
 
@@ -81,6 +84,9 @@ Even if BL and otome aren’t your thing, Otome Road is culturally significant. 
 
 ![Sunshine City mall interior with anime pop-up shops and event signage in Ikebukuro](/images/articles/ikebukuro-anime-guide-2026/body3.jpg)
 *Sunshine City's event floors rotate monthly — check the Sunshine City X account before you visit.*
+
+![Sunshine City complex exterior in Higashi-Ikebukuro, home to Pokemon Center Mega Tokyo, Gashapon Department Store, and Namco Namja Town](/images/articles/ikebukuro-anime-guide-2026/body-wikimedia-4.webp)
+*Sunshine City, Ikebukuro — the mega-complex housing Pokemon Center Mega Tokyo, Bandai's Gashapon Department Store, and rotating anime exhibition floors. Photo: Maplestrip / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sunshine_City_Tokyo.jpg), CC BY 3.0.*
 
 ## Sunshine City: Events, Exhibitions & Shopping
 **Sunshine City** is a massive commercial complex connected to Ikebukuro Station’s east side. For anime fans, it’s relevant in several ways:
