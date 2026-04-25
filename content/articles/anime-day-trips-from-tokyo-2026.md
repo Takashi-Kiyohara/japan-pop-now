@@ -92,6 +92,9 @@ Hakone is the real-world model for NERV’s fortress city in Evangelion — and 
 
 **What to do:** Eva-ya shop at Hakone Yumoto (30 min) → Hakone Ropeway over volcanic valleys (45 min) → Lake Ashi pirate ship cruise (30 min) → onsen hot spring soak (60-90 min). The landscape — volcanic mountains, misty lake, dense forest — legitimately feels like the anime’s setting, especially on overcast days.
 
+![Pirate-themed sightseeing cruise on Lake Ashi in Hakone, the volcanic-lake landscape that inspired Evangelion's Tokyo-3 setting](/images/articles/anime-day-trips-from-tokyo-2026/body-wikimedia-1.webp)
+*A pirate-themed cruise crosses Lake Ashi in Hakone — one of the day-trip stops that gives Evangelion fans the same volcanic-mountain atmosphere seen in the anime. Photo: Joli Rumi / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pirate-themed_sightseeing_Cruise_at_Lake_Ashi,_Hakone,_Japan.jpg), CC BY-SA 4.0.*
+
 **Getting there:** Odakyu Romance Car from Shinjuku, 85 minutes, ¥2,470 one way. Or JR to Odawara (¥1,520, covered by JR Pass) then Odakyu local to Hakone Yumoto (15 min, ¥310).
 
 **Cost:** Transport ¥5,000 round trip + Hakone Free Pass activities + onsen ¥800-1,500 = ~¥7,000-8,000 for a full day.
