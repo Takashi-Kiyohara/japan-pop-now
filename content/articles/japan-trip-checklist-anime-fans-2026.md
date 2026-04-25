@@ -53,6 +53,9 @@ However: if you’re staying in Tokyo and Kyoto for the full trip, calculate you
 
 Book your JR Pass exchange voucher through authorized dealers—I’ve used [JR East Official](https://www.jreast.co.jp) and [Klook](https://www.klook.com) (which sometimes has discounts of 5-10%). You’ll receive a voucher code to exchange at airports when you arrive. The pass only activates when you exchange it, so you can arrive and decide the timing.
 
+![A physical Japan Rail Pass card showing the layout and printed validity dates anime fans receive after airport exchange](/images/articles/japan-trip-checklist-anime-fans-2026/body-wikimedia-1.webp)
+*A real JR Rail Pass after exchange — the voucher you buy abroad gets swapped for a card like this at any major JR ticket office. Photo: DragonFury / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:JR_Rail_Pass_2023.jpg), CC BY-SA 4.0.*
+
 ### Enter Anime Event Lotteries
 This is the non-negotiable step that separates prepared fans from disappointed ones. Three major events require lottery entries submitted 60 days in advance:
 
