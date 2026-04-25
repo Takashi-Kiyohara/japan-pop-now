@@ -85,6 +85,9 @@ The **Ikebukuro Main location** is the largest and gets every collaboration. Aki
 
 **If your trip includes Nagoya or Osaka:** Enter the lottery for those locations too. The same collaboration runs simultaneously across cities, but far fewer people enter the Nagoya and Osaka lotteries. Your chances of winning jump considerably.
 
+![Animate Ikebukuro storefront — illustrative chain venue exterior, not specific to any 2026 collaboration](/images/articles/animate-cafe-guide-japan/body-wikimedia-1.webp)
+*Animate Ikebukuro flagship storefront — illustrative chain venue. Photo: Itasan / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:ANIMATE-Ikebukuro.JPG), CC BY-SA 3.0.*
+
 ## What to Expect: Menu, Prices, and Bonus Items
 ![Japanese themed cafe interior with warm lighting — similar to the atmosphere inside Animate Cafe collaboration events](https://japan-pop-now.com/wp-content/uploads/2026/04/conan-cafe-2026-key-visual.jpg)
 
@@ -173,6 +176,9 @@ Animate Cafe’s lottery system can be frustrating, especially if you don’t re
 **Check for second-round availability.** After the main lottery, unclaimed slots sometimes go to first-come-first-served. Check the booking page 3-5 days before the collaboration starts.
 
 **Use Gratte as your backup plan.** Even if you lose the lottery, you can still experience an Animate collaboration for ¥700-900 at a Gratte stand. Same exclusive artwork, same bonus coasters, no reservation needed.
+
+![Otome Road in Ikebukuro — the wider anime shopping district surrounding Animate flagship and the cafe](/images/articles/animate-cafe-guide-japan/body-wikimedia-2.webp)
+*Otome Road in Ikebukuro, the anime shopping street near Animate flagship — illustrative neighborhood context. Photo: Boyfriendback / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Otome_road_in_Ikebukuro,_Tokyo,_Japan.jpg), Public domain.*
 
 **Don’t show up without a reservation.** Animate Cafe will not seat walk-ins under any circumstances. This is different from some other collab cafes that hold back walk-in slots. At Animate Cafe, no reservation = no entry. Period.
 
