@@ -120,6 +120,9 @@ The world’s best-selling manga gets a full collab cafe that takes an unusually
 
  **Important:** Period 2 is now running (April 1 – May 18) with a completely new menu. This is a great time to visit — the new menu launched April 1 with fresh scene-recreation dishes and new collectible items.
 
+![Shibuya PARCO exterior — illustrative venue building exterior, home to THE GUEST cafe&diner on the 6th floor](/images/articles/tokyo-anime-collab-cafes-spring-2026/body-wikimedia-1.webp)
+*Shibuya PARCO exterior — illustrative venue building (THE GUEST cafe&diner sits on the 6th floor). Photo: Syced / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Shibuya_PARCO_2.jpg), CC0.*
+
 ### 3. My Dress-Up Darling Season 2 Cafe — mottocafé Ikebukuro
 With Season 2 currently airing and generating massive international buzz, this collab cafe at mottocafé Ikebukuro captures Marin Kitagawa’s colorful cosplay aesthetic through its menu and decorations. The exclusive merchandise features new Season 2 artwork that isn’t available at any other retailer or online store.
 
@@ -258,6 +261,9 @@ These are things you won’t find on the official cafe websites, from someone wh
 **Check for “after-cafe” online merch sales.** Some cafes sell leftover exclusive merchandise online after the physical cafe closes. Follow the cafe’s X account for announcements — you might be able to buy items you missed even after leaving Japan.
 
 **The last time slot of the day is underrated.** Everyone wants the first or middle slots. The final slot (often 19:00 or 20:00) is frequently the easiest to book and the most relaxed — the cafe is winding down, staff are less rushed, and you’ll often get a few extra minutes.
+
+![Shibuya PARCO Hulic Building — illustrative venue exterior view of the Shibuya pop culture shopping complex](/images/articles/tokyo-anime-collab-cafes-spring-2026/body-wikimedia-2.webp)
+*Shibuya PARCO Hulic Building — illustrative venue exterior view. Photo: 稲妻ノ歯鯨 / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Shibuya_Parco_Hulic_Building.jpg), CC BY-SA 4.0.*
 
 ## Where to Find Collab Cafes: Tokyo Neighborhood Guide
 Tokyo’s collab cafes cluster in three neighborhoods. Here’s where to focus based on what you’re interested in:
