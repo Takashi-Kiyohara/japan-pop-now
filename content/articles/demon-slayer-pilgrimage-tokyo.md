@@ -66,6 +66,9 @@ Mt. Kumotori (雲取山, 2,017m) is the highest peak in Tokyo and the official h
 
 This is not a casual Tokyo sightseeing stop. Mt. Kumotori is a serious full-day mountain hike (7-8 hours round trip from the main trailhead) in the Chichibu-Tama-Kai National Park. It’s physically demanding and requires proper hiking gear. But for fans who want the most authentic Demon Slayer pilgrimage experience possible, nothing else comes close.
 
+![View from the summit of Mt. Kumotori in western Tokyo, the canonical mountain home of Tanjiro and Nezuko Kamado in Demon Slayer](/images/articles/demon-slayer-pilgrimage-tokyo/body-wikimedia-1.webp)
+*The summit of Mt. Kumotori (2,017 m) — the highest peak in Tokyo and the in-canon home of the Kamado family. The remote ridgeline matches the snowy mountain Tanjiro descends in Episode 1. Photo: Guilhem Vellut / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Summit_of_Mount_Kumotori_(11169742263).jpg), CC BY 2.0.*
+
 | **Location** | Okutama, western Tokyo (border of Tokyo/Saitama/Yamanashi) |
 | --- | --- |
 | **Main trailhead** | Kamonosawa (鴨沢) bus stop |
