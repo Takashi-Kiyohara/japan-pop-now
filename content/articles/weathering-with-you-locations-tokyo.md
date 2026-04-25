@@ -27,6 +27,9 @@ The most thematically perfect Weathering With You pilgrimage stop. Koenji Hikawa
 
 The shrine sells wooden geta (traditional clog) shaped prayer plaques, and you can buy a “clear weather charm” (晴守り / hare-mamori) for ¥800 — a popular souvenir among Weathering With You fans who want to channel their inner sunshine girl.
 
+![Main hall of Koenji Hikawa Shrine in Suginami, the Tokyo shrine that houses Japan's only weather shrine and inspires the Weathering With You pilgrimage](/images/articles/weathering-with-you-locations-tokyo/body-wikimedia-2.webp)
+*Koenji Hikawa Shrine in Suginami ward — the grounds host Kisho Shrine, Japan's only shrine dedicated to weather and the most thematically perfect Weathering With You pilgrimage stop. Photo: Kentin / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hikawa_jinja_koenjiminami_suginami_tokyo.JPG), CC BY-SA 3.0.*
+
 | **Location** | Koenji Hikawa Shrine (高円寺氷川神社), 4-44-19 Koenji-Minami, Suginami-ku, Tokyo |
 | --- | --- |
 | **Station** | JR Koenji Station (South Exit) — 2 min walk. Chuo Line or Sobu Line from [Shinjuku](/articles/tokyo-anime-district-guide) (10 min). |
