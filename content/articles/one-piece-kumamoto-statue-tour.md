@@ -67,6 +67,9 @@ Three statues are in the Aso area — the volcanic caldera region northeast of K
 
 **The Aso caldera is worth the trip even without the statues.** The volcanic landscape, Mount Aso’s smoking crater, the Kusasenri grasslands, and the hot springs make this one of Kyushu’s most spectacular natural areas. Plan to spend a full day combining the statues with the scenery.
 
+![Mount Aso and its sweeping caldera in Kumamoto Prefecture, the volcanic landscape that frames the Usopp, Franky, and Robin statues on the One Piece statue tour](/images/articles/one-piece-kumamoto-statue-tour/body-wikimedia-2.webp)
+*Mount Aso and the surrounding caldera — the dramatic volcanic backdrop for three of the Straw Hat statues (Usopp at Aso Station, Franky near Takamori, Robin at the Earthquake Memorial Museum). Photo: Miya.m / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mt.Aso_and_caldera01.jpg), CC BY-SA 3.0.*
+
 ## The Scattered Statues — Zoro, Sanji, Nami, Brook, Jinbe
 The remaining five statues are spread across different towns in Kumamoto Prefecture. Each was placed in a community severely affected by the earthquake:
 
