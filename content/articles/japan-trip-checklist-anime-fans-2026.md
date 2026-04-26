@@ -84,8 +84,8 @@ Pro tip: The biggest collab cafes have waiting lists. Even if you lose the lotte
 
 A month out is the sweet spot for locking in connectivity and travel insurance
 
-![Calendar and travel documents spread on a desk for Japan trip planning](/images/articles/japan-trip-checklist-anime-fans-2026/body3.jpg)
-*Three months out is the sweet spot for flights, JR Pass purchase, and collab cafe lottery registrations.*
+![Haneda Airport International Terminal departure lobby with check-in counters and overhead signage typical of an anime fan's first arrival in Tokyo](/images/articles/japan-trip-checklist-anime-fans-2026/body-wikimedia-2.webp)
+*Haneda Airport International Terminal departure lobby — book flights into Haneda or Narita 8–12 weeks ahead for the best fares. Photo: Daniel L. Lu (user:dllu) / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Departure_Lobby_of_Haneda_Airport_International_Terminal_dllu.jpg), CC BY-SA 4.0.*
 
 ## 1 Month Before: Connectivity & Insurance
 Now that the big stuff is booked, focus on making sure you can actually function in Japan. This means internet, communication, money, and the unglamorous stuff like travel insurance that you’ll only care about if something goes wrong.
@@ -131,8 +131,8 @@ Download and set up these apps before you travel. They work even without interne
 - **Twitter/X:** Follow anime shops, collab cafe announcements, and event organizers. Most breaking news about limited merch restocks or event changes hits Twitter first, sometimes hours before official channels.
 - **Manga Up or Comixology:** If you’re reading manga on transit, load up digital versions before you go. The manga reading experience in Japan feels different knowing you’re literally in the country where it’s published.
 
-![eSIM QR code and travel insurance documents for Japan trip preparation](/images/articles/japan-trip-checklist-anime-fans-2026/body4.jpg)
-*Lock eSIM, travel insurance, and IC card setup one month out — all can be activated the moment you land.*
+![Welcome Suica IC card with sakura cherry-blossom design issued to short-term visitors at JR ticket counters](/images/articles/japan-trip-checklist-anime-fans-2026/body-wikimedia-3.webp)
+*The Welcome Suica is the visitor-only version of Japan's main IC card — pick one up alongside your eSIM activation when you land. Photo: Ravi Dwivedi / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Welcome_Suica.jpg), CC BY-SA 4.0.*
 
 ## 2 Weeks Before: Collab Cafe & Event Prep
 With two weeks to go, you’re in the homestretch. Now you’re confirming details and making backup plans.
@@ -164,8 +164,8 @@ None of these are easy to access for casual visitors, which is why the Ghibli Mu
 
 Getting your bookings locked in early means less stress and more time at the anime spots
 
-![Suitcase with folded clothes and anime merch packing essentials laid out on a bed](/images/articles/japan-trip-checklist-anime-fans-2026/body5.jpg)
-*Leave 30% suitcase space for merch — anime shopping in Tokyo fills a carry-on fast.*
+![Akihabara Electric Town Sotokanda block at night lit up with anime billboards and arcade signage](/images/articles/japan-trip-checklist-anime-fans-2026/body-wikimedia-4.webp)
+*Akihabara's Sotokanda block at night — pack a foldable duffel because this is where your suitcase fills with merch. Photo: Phineyes / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sotokanda,_Akihabara_Electric_Town_at_night_20231114.png), CC0.*
 
 ## 1 Week Before: Packing for Anime Fans
 Packing for an anime trip is different than regular travel. You’re going to buy merch. Plan accordingly.
