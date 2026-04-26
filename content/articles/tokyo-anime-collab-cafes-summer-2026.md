@@ -41,7 +41,8 @@ Plan your collab cafe day faster:
 
 ## Which Anime Collab Cafes Are Open in Tokyo This Summer?
 
-![Which Anime Collab Cafes Are Open in Tokyo This Summer? — Tokyo Anime Collab Cafes Summer 2026](/images/articles/tokyo-anime-collab-cafes-summer-2026/1.jpg)
+![Sunshine City entrance in Ikebukuro Tokyo, home to multiple summer collab cafe pop-ups](/images/articles/tokyo-anime-collab-cafes-summer-2026/body-wikimedia-1.webp)
+*Photo: Maplestrip / Wikimedia Commons, CC BY 3.0*
 
 This list covers confirmed cafes running during June-August 2026. I’ll update it as new cafes are announced â collab cafes typically confirm dates 2-4 weeks before opening, so check back regularly.
 
@@ -60,7 +61,8 @@ The best real-time source for cafe announcements is [collabo-cafe.com](https://c
 
 ## Which Cafes Need Reservations and How Do You Book?
 
-![Which Cafes Need Reservations and How Do You Book? — Tokyo Anime Collab Cafes Summer 2026](/images/articles/tokyo-anime-collab-cafes-summer-2026/2.jpg)
+![Animate Akihabara storefront in Tokyo, the chain that runs the largest collab cafe reservation system](/images/articles/tokyo-anime-collab-cafes-summer-2026/body-wikimedia-2.webp)
+*Photo: Tofeiku / Wikimedia Commons, CC0*
 
 Each major cafe chain uses a different booking system. Here’s how they work for international visitors:
 
@@ -101,7 +103,8 @@ Not every collab cafe requires a reservation. Several permanent or semi-permanen
 
 ## What Are the Best Summer 2026 Cafes?
 
-![What Are the Best Summer 2026 Cafes? — Tokyo Anime Collab Cafes Summer 2026](/images/articles/tokyo-anime-collab-cafes-summer-2026/3.jpg)
+![Tokyo Solamachi at Tokyo Skytree, a key venue cluster for seasonal collab cafe events](/images/articles/tokyo-anime-collab-cafes-summer-2026/body-wikimedia-3.webp)
+*Photo: Kakidai / Wikimedia Commons, CC BY-SA 3.0*
 
 Based on past collab quality, IP popularity among international fans, and booking accessibility, here are my top picks for summer 2026:
 
@@ -132,7 +135,8 @@ The real spending trap is merchandise. Every collab cafe sells exclusive goods �
 
 ## Can You Visit Multiple Cafes in One Day?
 
-![Can You Visit Multiple Cafes in One Day? — Tokyo Anime Collab Cafes Summer 2026](/images/articles/tokyo-anime-collab-cafes-summer-2026/5.jpg)
+![Hareza Ikebukuro complex in Toshima ward Tokyo, the multi-venue hub for Ikebukuro collab cafe routes](/images/articles/tokyo-anime-collab-cafes-summer-2026/body-wikimedia-5.webp)
+*Photo: Skebakebake / Wikimedia Commons, CC BY-SA 4.0*
 
 Yes, and Ikebukuro makes it easiest. Within a 10-minute walking radius around Ikebukuro Station, you’ll find Animate Cafe (multiple locations), My Charaful Cafe, Collabo Cafe Honpo Ikebukuro, and several rotating pop-up cafes in Sunshine City. On a good day, you could hit three different collab cafes between 11:00 and 18:00.
 
