@@ -5,8 +5,9 @@ date: "2026-04-03"
 lastUpdated: "2026-04-03"
 category: "experiences"
 tags: []
-featuredImage: "/images/articles/japan-luggage-forwarding-2026/featured.jpg"
-featuredImageAlt: "Yamato Transport Kuroneko delivery boxes in various sizes for luggage forwarding"
+featuredImage: "/images/articles/japan-luggage-forwarding-2026/featured.webp"
+featuredImageAlt: "Sagawa Express delivery truck parked on a Japanese street, ready for takkyubin pickup"
+imageCredit: "Photo: Syced / Wikimedia Commons, CC0"
 author: "Takapon"
 excerpt: "Skip the heavy suitcase shuffle. Here is exactly how takkyubin (Japanese luggage forwarding) works, costs ¥2,000-3,000 per bag, and how to use it so you can enjoy your trip hands-free between Tokyo, Kyoto, Osaka and beyond."
 relatedSlugs: []
