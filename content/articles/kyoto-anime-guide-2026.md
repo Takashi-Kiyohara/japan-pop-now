@@ -42,6 +42,9 @@ This guide covers everything: the KyoAni connection, specific pilgrimage routes 
 
 ## The KyoAni Connection: History and Location
 
+![Kyoto Animation head office building in Uji — the working studio behind Haruhi, K-On!, Hibike Euphonium, and Violet Evergarden](/images/articles/kyoto-anime-guide-2026/body-wikimedia-6.webp)
+*Kyoto Animation head office in Uji — the working studio behind Haruhi, K-On! and Hibike Euphonium. Photo: Konomi / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kyoto_Animation_head_office_20101010.jpg) (public domain).*
+
 Kyoto Animation has been the studio behind some of the most iconic anime of the past 20 years. When I looked up their facility locations, I found that the main studio is located in Uji, about 30 kilometers south of central Kyoto. This wasn’t arbitraryâKyoAni chose Uji specifically because of its natural beauty and traditional atmosphere.
 
 The studio produced Haruhi Suzumiya, one of the most influential anime of the 2000s. They also created K-On!, which launched the entire genre of music-school slice-of-life shows. Violet Evergarden, Hibike Euphonium, A Silent Voice, and Free! all came from KyoAni’s studios. These shows didn’t just get popularâthey fundamentally shaped anime production values and storytelling techniques.
@@ -60,9 +63,15 @@ When you arrive in Uji, you’ll understand why the studio thrived here. The tow
 
 ## Hibike Euphonium Pilgrimage in Uji
 
+![Phoenix Hall (Hoodo) of Byodo-in temple in Uji, Kyoto — the iconic Hibike Euphonium pilgrimage anchor](/images/articles/kyoto-anime-guide-2026/body-wikimedia-2.webp)
+*Phoenix Hall at Byodo-in, Uji — the visual anchor of Hibike Euphonium and a UNESCO World Heritage temple. Photo: Martin Falbisoner / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Phoenix_Hall,_Byodo-in,_November_2016_-01.jpg), CC BY-SA 4.0.*
+
 Hibike Euphonium is arguably KyoAni’s most detailed location-based anime. Nearly every major location in the series corresponds to actual places in Uji. I spent an entire day visiting these locations with a location guide, and the accuracy is stunning. The animators visited each site multiple times and drew them with photographic precision.
 
 The pilgrimage starts at Byodo-in Temple, the most iconic location. In the anime, it appears in numerous episodes and serves as a visual anchor for the story. The temple itself is one of Japan’s most beautiful structures, with its famous Phoenix Hall reflected in a mirror pond. I visited at 9 AM to avoid crowds, and the early morning light made the temple stunning.
+
+![Ujigami Shrine main hall in Uji — National Treasure and Hibike Euphonium pilgrimage site](/images/articles/kyoto-anime-guide-2026/body-wikimedia-3.webp)
+*Ujigami Shrine, Uji — the National Treasure haiden featured throughout Hibike Euphonium. Photo: 663highland / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ujigami_jinja08s3s4500.jpg), CC BY-SA 3.0.*
 
 From Byodo-in, I walked to Ujigami Shrine, which appears frequently in the anime. It’s just a short walk across a bridge, and locals told me that anime fans visit this route constantly. The shrine sits peacefully beside the river, and in spring, cherry blossoms frame the approach paths perfectly.
 
@@ -79,6 +88,9 @@ The third major location is Uji Shrine itself, which appears in character introd
 When you walk the Keage Incline, bring water and comfortable shoes. The path is mostly flat, following the old railway line through quiet neighborhoods and along the canal. Several spots show vending machines and small shops, but it’s better to prepare in advance. I took 90 minutes to walk the full length, stopping to photograph locations and compare them with anime screenshots.
 
 ## K-On! Filming Locations
+
+![Tetsugaku no Michi (Philosopher's Path) in Kyoto with cherry blossoms along the canal — a recurring K-On!-era scenery anchor](/images/articles/kyoto-anime-guide-2026/body-wikimedia-7.webp)
+*Tetsugaku no Michi (Philosopher's Path), Sakyo-ku, Kyoto — cherry-tree-lined canal walk on the route from Takaragaike toward Ginkakuji. Photo: Reggaeman / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tetsugaku_no_Michi_01.JPG), CC BY-SA 3.0.*
 
 K-On! is set in the fictional Sakuragaoka High School, but the real locations are spread across Kyoto and southern areas. The most famous location is the Suirokaku Aqueduct (also called the Keage Canal), which I visited multiple times. The arched stone aqueduct appears in countless anime scenes, and standing there, looking at the exact angle where the characters stood, feels surreal.
 
@@ -97,6 +109,10 @@ Walking from Takaragaike Park down the Philosopher’s Path toward Ginkakuji Tem
 I recommend visiting the K-On! locations in late March or early April when cherry blossoms peak. The Philosopher’s Path is particularly stunning during this season, and you’ll understand exactly why the anime made such effective use of spring imagery. Bring a camera, because every few steps offers another screenshot-worthy view.
 
 ## Fushimi Inari Taisha and Anime Connections
+
+![Senbon-torii path at Fushimi Inari Taisha — vermillion torii tunnel featured in Inari Konkon and Fruits Basket](/images/articles/kyoto-anime-guide-2026/body-wikimedia-4.webp)
+*Senbon-torii at Fushimi Inari Taisha — the tunnel of vermillion gates seen in Inari Konkon and Fruits Basket. Photo: Jason Zhang / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Fushimi_Inari-taisha_senbon-torii,_August_2019.jpg), CC BY-SA 3.0.*
+
 Fushimi Inari Taisha is probably Kyoto’s most famous shrine, with millions of visitors annually. It’s renowned for thousands of vermillion torii gates creating tunnel-like pathways up the mountain. But beyond its historical significance, it has appeared in multiple anime productions.
 
 The shrine served as a primary location in Inari Konkon, a comedy anime about fox spirits and shrine life. The show captures the daily operations of the shrine with surprising accuracy. I watched the anime first, then visited, and found that key locations matched the animation. The main shrine building, the gate structures, and the surrounding forest all appeared in the show.
@@ -118,6 +134,9 @@ The entire shrine complex has multiple levels. The main sanctuary sits at the ba
 One practical note: wear comfortable shoes if you plan to hike the mountain. The paths are uneven stone and dirt, and during rainy season (June) the ground becomes muddy. I visited in spring and had an excellent experience, but I’ve heard from visitors who went in summer and struggled with humidity and crowds.
 
 ## Studio Parks and Filming Facilities
+
+![Toei Kyoto Studio Park (Uzumasa Eigamura) Edo-period set streets viewed from above](/images/articles/kyoto-anime-guide-2026/body-wikimedia-5.webp)
+*Toei Kyoto Studio Park (now Uzumasa Kyoto Village) in Ukyo-ku — Edo-period film set streets used for jidaigeki and live-action Rurouni Kenshin. Photo: Maksym Grinenko / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Toei_Kyoto_Studio_Park_from_above.jpg), CC BY-SA 4.0.*
 
 Toei Kyoto Studio Park, a major attraction, was renamed to Uzumasa Kyoto Village on March 28, 2026. This facility is unique because it maintains actual historic sets and allows visitors to walk through working film locations. While primarily focused on live-action period dramas and films, the facility also hosts anime-related events and exhibitions.
 

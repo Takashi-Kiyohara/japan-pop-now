@@ -15,7 +15,8 @@ wpPostId: 206
 
 *Last updated: March 2026. The complete guide to every anime and pop culture neighborhood in Tokyo — where to go, what to buy, and how to plan your route across all districts.*
 
-![Tokyo Tower and cityscape at dusk — the city is home to multiple anime districts each with its own specialty and culture](https://japan-pop-now.com/wp-content/uploads/2026/04/one-piece-cafe-gene-parco-2026.jpg)
+![Akihabara Electric Town claw-crane arcade with kawaii plushies — Tokyo is home to multiple anime districts each with its own specialty and culture](/images/articles/tokyo-anime-district-guide/body-akihabara.webp)
+*Photo: Basile Morin / Wikimedia Commons, CC BY-SA 4.0*
 
 Tokyo doesn’t have one anime district. It has at least five, and each one serves a completely different type of fan.
 
@@ -55,6 +56,9 @@ Read the full guide: [Akihabara Complete Guide 2026](/articles/akihabara-complet
 ## Ikebukuro — The Other Capital
 **[Read our complete Ikebukuro guide →](/articles/ikebukuro-anime-guide-2026)**
 
+![Ikebukuro skyline from Sunshine 60 Observatory — the Sunshine City and Otome Road area is the heart of female-oriented anime fandom in Tokyo](/images/articles/tokyo-anime-district-guide/body-ikebukuro.webp)
+*Photo: Guilhem Vellut / Wikimedia Commons, CC BY 2.0*
+
 If Akihabara leans male-oriented (shonen, mecha, figure collecting), Ikebukuro is its counterpart. **Otome Road** — a stretch of shops along the east side of Sunshine 60 Street — is the heart of Japan’s female fandom scene. BL (boys’ love), otome games, voice actor goods, idol merchandise, and doujinshi for every ship imaginable.
 
 But Ikebukuro isn’t only for female fans. It’s also home to:
@@ -75,6 +79,9 @@ Read the full guide: [Ikebukuro Anime Guide 2026](/articles/ikebukuro-anime-guid
 ## Nakano Broadway — The Collector’s Sanctuary
 **[Read our Nakano Broadway guide →](/articles/nakano-broadway-guide)**
 
+![Nakano Broadway entrance signage — the vertical shopping complex housing the Mandarake secondhand anime empire across four floors](/images/articles/tokyo-anime-district-guide/body-nakano.webp)
+*Photo: User:Kentin / Wikimedia Commons, CC BY-SA 3.0*
+
 Five minutes from Shinjuku on the JR Chuo Line, Nakano Broadway is a vertical shopping complex with over 300 shops across four floors. This is where Mandarake — the world’s largest secondhand anime retailer — was born in 1980, and where they operate **over 30 individual specialty stores** under one roof.
 
 **What Nakano Broadway does best:** rare and vintage. First-edition manga for ¥100. Discontinued figures from series that ended a decade ago. Animation cels from classic anime. Vintage Sentai toys still in their original packaging. If it’s out of print and someone in Tokyo is selling it, there’s a good chance it’s here.
@@ -91,6 +98,9 @@ Read the full guide: [Nakano Broadway Guide — Tokyo’s Best-Kept Anime Secret
 ## Shibuya — The Gaming and Mainstream Hub
 **[Read our Shibuya & Harajuku guide →](/articles/shibuya-harajuku-pop-culture-guide)**
 
+![Shibuya night-life street near Shibuya PARCO — the building's 6th floor concentrates Nintendo TOKYO, Pokemon Center Shibuya, Jump Shop, Capcom Store and Godzilla Store in one place](/images/articles/tokyo-anime-district-guide/body-shibuya-parco.webp)
+*Photo: Syced / Wikimedia Commons, CC0*
+
 Shibuya’s pop culture identity has crystallized around **Shibuya PARCO**, where the entire 6th floor — branded “Cyberspace SHIBUYA” — houses Nintendo TOKYO, Pokémon Center Shibuya, Jump Shop, Capcom Store, and Godzilla Store, all in one place. It’s the most efficient single-floor anime/gaming shopping experience in Tokyo.
 
 Beyond PARCO, Shibuya offers MEGA Don Quijote’s 24-hour cosplay and anime goods floor, Tower Records’ anime music section with rotating pop-up collaborations, and MAGNET by SHIBUYA109’s gacha-gacha paradise and anime collab stores.
@@ -104,6 +114,10 @@ Read the full guide: [Shibuya & Harajuku Pop Culture Guide](/articles/shibuya-ha
 | **Key destination** | Shibuya PARCO 6F — 7 min walk uphill from the station |
 
 ## Harajuku — Where Kawaii Culture Lives
+
+![Takeshita Street kawaii banner in Harajuku Tokyo — the visual source code of Japanese pop culture and home to Kiddy Land and Sanrio Kawaii Factory](/images/articles/tokyo-anime-district-guide/body-harajuku.webp)
+*Photo: Syced / Wikimedia Commons, CC0*
+
 Harajuku is the visual source code of Japanese pop culture. The kawaii aesthetic, the street fashion, the character goods obsession — the visual language that anime uses constantly was developed here, on Takeshita Street and in the surrounding neighborhoods.
 
 For anime fans, Harajuku offers **Kiddy Land** (four floors of character goods including Studio Ghibli, Pokémon, and Sanrio), the new **Kawaii Monster Land** (an immersive underground kawaii theme park opened in 2026), the **Sanrio Kawaii Factory Store & Cafe**, and **Design Festa Gallery** (free art exhibitions with heavy anime and manga influence).

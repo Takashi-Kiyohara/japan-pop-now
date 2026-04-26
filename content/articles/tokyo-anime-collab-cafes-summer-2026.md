@@ -41,8 +41,8 @@ Plan your collab cafe day faster:
 
 ## Which Anime Collab Cafes Are Open in Tokyo This Summer?
 
-![Sunshine City entrance in Ikebukuro Tokyo, home to multiple summer collab cafe pop-ups](/images/articles/tokyo-anime-collab-cafes-summer-2026/body-wikimedia-1.webp)
-*Photo: Maplestrip / Wikimedia Commons, CC BY 3.0*
+![Ikebukuro skyline view from Sunshine 60 Observatory — Ikebukuro hosts the densest cluster of summer collab cafe pop-ups across Animate Cafe, My Charaful Cafe and Sunshine City venues](/images/articles/tokyo-anime-collab-cafes-summer-2026/body-wikimedia-1.webp)
+*Photo: Guilhem Vellut / Wikimedia Commons, CC BY 2.0*
 
 This list covers confirmed cafes running during June-August 2026. I’ll update it as new cafes are announced â collab cafes typically confirm dates 2-4 weeks before opening, so check back regularly.
 
@@ -116,7 +116,8 @@ Based on past collab quality, IP popularity among international fans, and bookin
 
 ## How Much Does a Collab Cafe Visit Typically Cost?
 
-![How Much Does a Collab Cafe Visit Typically Cost? — Tokyo Anime Collab Cafes Summer 2026](/images/articles/tokyo-anime-collab-cafes-summer-2026/4.jpg)
+![Akihabara Electric Town arcade and storefronts at night — the Akihabara cluster includes Collabo Cafe Honpo and GiGO collab cafes operating multiple summer 2026 anime tie-ins](/images/articles/tokyo-anime-collab-cafes-summer-2026/body-akihabara-collabocafe.webp)
+*Photo: Basile Morin / Wikimedia Commons, CC BY-SA 4.0*
 
 Collab cafes aren’t cheap compared to regular restaurants, but you’re paying for the experience and exclusive merchandise as much as the food. Here’s what to expect:
 
@@ -135,8 +136,8 @@ The real spending trap is merchandise. Every collab cafe sells exclusive goods �
 
 ## Can You Visit Multiple Cafes in One Day?
 
-![Hareza Ikebukuro complex in Toshima ward Tokyo, the multi-venue hub for Ikebukuro collab cafe routes](/images/articles/tokyo-anime-collab-cafes-summer-2026/body-wikimedia-5.webp)
-*Photo: Skebakebake / Wikimedia Commons, CC BY-SA 4.0*
+![Hareza Ikebukuro complex in Toshima ward Tokyo — the multi-venue hub housing Animate Cafe Hareza Ikebukuro and other summer collab cafe venues](/images/articles/tokyo-anime-collab-cafes-summer-2026/body-wikimedia-5.webp)
+*Photo: スケトウダラ / Wikimedia Commons, CC BY-SA 4.0*
 
 Yes, and Ikebukuro makes it easiest. Within a 10-minute walking radius around Ikebukuro Station, you’ll find Animate Cafe (multiple locations), My Charaful Cafe, Collabo Cafe Honpo Ikebukuro, and several rotating pop-up cafes in Sunshine City. On a good day, you could hit three different collab cafes between 11:00 and 18:00.
 

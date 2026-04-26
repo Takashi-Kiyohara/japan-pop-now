@@ -21,6 +21,10 @@ Tokyo is built for gamers. Whether you’re hunting for exclusive Pokemon mercha
 ## The Big Three: Pokemon Center MEGA, Nintendo TOKYO & Beyond
 
 ### Pokemon Center MEGA ([Ikebukuro](/articles/ikebukuro-anime-guide-2026))
+
+![Pokemon Center MEGA Tokyo flagship storefront inside Sunshine City Ikebukuro — the largest Pokemon retail location in Japan](/images/articles/gaming-tokyo-2026/body-pokemon-center-mega.webp)
+*Photo: Maplestrip / Wikimedia Commons, CC BY 3.0*
+
 Start here. Pokemon Center MEGA is the flagship store and it’s enormous. We’re talking 650 square meters, 2,500+ items, and crowds that rival theme park queues on weekends. The store spans multiple floors with dedicated zones for clothing, figures, plushies, trading cards, and region-exclusive merchandise you won’t find elsewhere.
 
 The top floor has a photo zone where you can take pictures with life-sized Pokemon displays. Ground floor has the newest releases. The real gold: limited-edition Ikebukuro exclusive items, often sold out by afternoon.
@@ -73,6 +77,10 @@ Website: [Pokemon official](https://www.pokemon.co.jp/)
 
 ## Nintendo TOKYO & Gaming Stores
 ### Nintendo TOKYO (Shibuya PARCO 6F)
+
+![Nintendo TOKYO interior inside Shibuya PARCO 6F — Japan's flagship Nintendo retail location with exclusive Switch consoles and apparel](/images/articles/gaming-tokyo-2026/body-nintendo-tokyo.webp)
+*Photo: IagoQnsi / Wikimedia Commons, CC BY 4.0*
+
 Japan’s flagship Nintendo store is sleek, well-designed, and packed with merch you can’t find online. The 6th floor of Shibuya PARCO is dedicated to Nintendo—think Switch consoles in colors exclusive to Japan, retro merchandise, apparel, and collaborative items with Tokyo designers.
 
 Staff speak English. The store stocks limited runs frequently, so what’s there today might be gone tomorrow. The back corner has a “play station” where you can test new Switch games before buying.
@@ -115,6 +123,9 @@ Website: [Square Enix official](https://www.squareenix.co.jp/)
 
 ## Arcades & Gaming Centers
 
+![GiGO Akihabara arcade storefront at night — Tokyo's biggest arcade chains stock crane games, rhythm cabinets and retro gaming machines on every block of Akihabara](/images/articles/gaming-tokyo-2026/body-akihabara-arcades.webp)
+*Photo: Stephen Kelly / Wikimedia Commons, CC BY 2.0*
+
 Tokyo has gaming arcades on every block. The big ones:
 
 - **Sega World Shinjuku:** 8 floors, rhythm games, crane games, racing sims. ¥500–¥1,000 per game.
@@ -124,6 +135,10 @@ Tokyo has gaming arcades on every block. The big ones:
 Bring coins. Most machines take ¥100 coins. Credit cards rarely work in arcades.
 
 ## Bandai Namco & Specialty Stores
+
+![Shinjuku Toho Building viewed from Godzilla Street — the Shinjuku entertainment district hosts the Bandai Namco Cross Store and JUMP SHOP Shinjuku within walking distance](/images/articles/gaming-tokyo-2026/body-shinjuku-bandai-namco.webp)
+*Photo: Kakidai / Wikimedia Commons, CC BY-SA 4.0*
+
 **Bandai Namco Cross Store (Shinjuku):** Combines Bandai, Namco, and Gundam merchandise. Gundam figures dominate, but also One Piece, Pac-Man, Tamagotchi. Not just gaming, but gaming-adjacent pop culture. 3 floors, worth 30-45 minutes.
 
 **Luida’s Bar ([Akihabara](/articles/akihabara-complete-guide-2026)):** Underground gaming bar themed around Dragon Quest. Play original NES/SNES games while drinking. Casual vibe, low cover charge (¥1,500–¥2,000 with one drink), and a great way to decompress after shopping.
