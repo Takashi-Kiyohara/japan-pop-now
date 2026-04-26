@@ -45,6 +45,9 @@ AnimeJapan 2026 will take place at **Tokyo Big Sight**, Tokyo’s best-known con
 
 That scale matters. It means you should not treat AnimeJapan like a quick stop between other plans. If there are multiple franchises or stage programs you care about, it is better to think of this as a **main event day**.
 
+![Tokyo Big Sight main entrance with the venue signage, the daytime view most AnimeJapan visitors see when arriving for the event](/images/articles/animejapan-2026-guide-international-visitors/body-wikimedia-3.webp)
+*The signed main entrance of Tokyo Big Sight in Ariake — the daytime arrival view for visitors entering the East Halls and conference tower used during AnimeJapan. Photo: Masahiko OHKUBO / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tokyo_Big_Sight_exterior_2024-02-12.jpg), CC BY 2.0.*
+
 ## How to get to AnimeJapan 2026
 
 ![How to get to AnimeJapan 2026 — AnimeJapan 2026 Guide for International Visitors](/images/articles/animejapan-2026-guide-international-visitors/2.jpg)
