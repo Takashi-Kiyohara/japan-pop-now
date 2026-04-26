@@ -60,6 +60,9 @@ For travelers, it means: you drop your suitcase at a hotel, convenience store, o
 
 **Delivery speed:** Same-day delivery available Tokyo → Kyoto (by 4 PM if dropped before noon). Most deliveries next business day.
 
+![Sagawa Express Isuzu Elf delivery truck parked on a Sapporo street with the company's blue chevron livery — the same fleet used for Kansai-region takkyubin runs described below](/images/articles/japan-luggage-forwarding-2026/body-wikimedia-2.webp)
+*A Sagawa Express Isuzu Elf truck in Sapporo — the budget alternative to Yamato for Kansai-route luggage forwarding. Photo: Ominae / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Isuzu_Elf_Sagawa_truck_in_Sapporo.jpg), CC BY-SA 4.0.*
+
 ### Sagawa Express (佐川急便) — The Budget Alternative
 **Strengths:**
 
@@ -107,6 +110,10 @@ Or hand them this phrase: **“明日、別のホテルに荷物を送りたい�
 They’ll almost always have Yamato. Some nicer hotels offer both Yamato and Sagawa.
 
 ### Step 2: Fill Out the Shipping Slip (English or Japanese)
+
+![Yamato Transport takkyubin compact shipping slip with sender, recipient, and time-window fields — the actual form Japanese hotel front desks hand you](/images/articles/japan-luggage-forwarding-2026/body-wikimedia-3.webp)
+*A Yamato Transport (クロネコヤマト) Takkyubin Compact shipping slip — the form you fill out at the hotel front desk for hotel-to-hotel forwarding. Photo: TAKA@P.P.R.S / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%E5%AE%85%E6%80%A5%E4%BE%BF%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88_2015_(21895527629).jpg), CC BY-SA 2.0.*
+
 The front desk will give you a form. It looks more intimidating than it is.
 
 **Fields to fill:**
@@ -166,6 +173,9 @@ Payment is usually at checkout or billed to your room. Hand your suitcase to sta
 | Coin Locker | ¥300-800/day ($2-5) | Day trips, short storage | Cheap, instant, no admin | Fills up, no overnight |
 | ecbo cloak App | ¥600-1,500/day ($4-10) | A few hours between hotels | More locations, app-based | No overnight, must use app |
 | Hotel Luggage Storage | ¥1,000-2,000/day | Early checkout, late arrival | Current hotel, no shipping | Expensive, must pick up |
+
+![Yamato Transport Kuroneko-branded corrugated cardboard delivery boxes shaped like the company's signature green takkyubin trucks, with the kuroneko (black cat) logo stamped on each side](/images/articles/japan-luggage-forwarding-2026/body-wikimedia-4.webp)
+*Yamato Transport's signature kuroneko (black cat) corrugated cardboard boxes — the same packaging your luggage and merch get tagged with for hotel-to-hotel forwarding. Photo: jmv (Flickr) / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kuroneko_Yamato_Transport%27s_corrugated_cardboards.jpg), CC BY 2.0.*
 
 ## Where To Drop Off Luggage (Beyond Hotels)
 ### 7-Eleven and FamilyMart

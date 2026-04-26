@@ -65,6 +65,9 @@ Here’s how the top providers compare on price, data, and convenience — with 
 
 ## Option 1: eSIM — Best for Solo Travelers
 
+![Bunch of eUICC (eSIM) chips packaged in a 4FF carrier card next to a SIM tray, illustrating how the embedded SIM technology compares to physical cards](/images/articles/japan-esim-pocket-wifi-sim-card/body-wikimedia-1.webp)
+*Embedded eUICC (eSIM) chips packaged in 4FF carrier boards. Photo: Perillamint / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:4FF_eUICC_(eSIM)_cards_2024.jpg), CC BY-SA 4.0.*
+
 eSIMs let you activate a Japan data plan before you even board the plane.
 An eSIM is a digital SIM card built into your phone. No physical card to swap, no device to carry, no airport counter to find. You buy it online, scan a QR code, and you’re connected before your plane even lands at Narita or Haneda.
 
@@ -97,6 +100,9 @@ Return logistics add a small hassle too. Most rentals require you to drop the de
 
 ## Option 3: Physical SIM Card — Best for Older Phones
 
+![Nano SIM card next to its phone tray with a ruler showing centimeter and inch scale — the typical setup for swapping a Japan prepaid SIM into an unlocked phone](/images/articles/japan-esim-pocket-wifi-sim-card/body-wikimedia-2.webp)
+*A nano SIM card and ejector tray — the same swap procedure used at Narita/Haneda SIM counters. Photo: BwDraco / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nano_SIM_card_and_tray.jpg), CC BY-SA 3.0.*
+
 Physical SIM cards are still the go-to for phones that don’t support eSIM.
 A physical prepaid SIM card works like your regular SIM but with a Japan data plan. You buy one at the airport, pop it into your phone, and go.
 
@@ -128,6 +134,9 @@ My recommendation: **don’t rely on free WiFi as your primary connection**. Use
 
 ![Smartphone displaying eSIM activation QR code next to a pocket WiFi device for comparison](/images/articles/japan-esim-pocket-wifi-sim-card/body5.jpg)
 *eSIM activates in minutes via QR code — no physical SIM swap needed for modern iPhones and Pixels.*
+
+![Rakuten Mobile multi-cut SIM card with mini SIM, micro SIM, and nano SIM punch-outs — the same flexible SIM format Japan carriers issue to international travelers](/images/articles/japan-esim-pocket-wifi-sim-card/body-wikimedia-3.webp)
+*A Rakuten Mobile multi-cut SIM showing the standard, micro, and nano sizes — Japan’s domestic carrier SIMs typically ship in this layout. Photo: Project Kei / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Multi-cut_SIM_Rakuten_Mobile.jpg), CC BY-SA 4.0.*
 
 ## Top eSIM Providers for Japan (2026)
 
@@ -174,6 +183,9 @@ Unlimited data, airport pickup, 10-20% cheaper than direct booking. great for fa
 [Compare Pocket WiFi Rentals on Klook](https://affiliate.klook.com/redirect?aid=117469&aff_adid=1251547&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US/wifi-sim-card/?region=26-Japan&aid=1117469)
 
 Free cancellation available. Pick up at Narita, Haneda, or Kansai airport.
+
+![Close-up of a Nokia-branded SIM card on a wooden surface showing the gold contact pads — the same physical card you swap into your phone at a Japan airport SIM counter](/images/articles/japan-esim-pocket-wifi-sim-card/body-wikimedia-4.webp)
+*A standard prepaid SIM card up close — the format used by IIJmio Travel SIM and other Japan tourist plans. Photo: CS104 2014 10 / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nokia_SIM_card_with_wood_background.jpg), CC BY-SA 4.0.*
 
 ## Step-by-Step Setup Guide
 ### eSIM setup (do this before your flight)

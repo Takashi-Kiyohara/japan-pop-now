@@ -5,8 +5,8 @@ date: "2026-04-03"
 lastUpdated: "2026-04-03"
 category: "experiences"
 tags: []
-featuredImage: "/images/articles/japan-proxy-shopping-2026/featured.jpg"
-featuredImageAlt: "Anime figures and collectibles display at Akihabara shop for proxy shopping"
+featuredImage: "/images/articles/japan-proxy-shopping-2026/featured.webp"
+featuredImageAlt: "Anime figure and Nendoroid display at an Akihabara shop — the kind of merchandise typically purchased through proxy services like Buyee, ZenMarket, and FROM JAPAN"
 author: "Takapon"
 excerpt: "Mercari Japan has the anime figure you've been hunting for three months. Yahoo Auctions has the doujinshi. You are in Portland. Proxy services fix this — I have used five over two years buying figures, vintage manga, rare gacha items, and here is the honest breakdown."
 relatedSlugs: []
@@ -25,6 +25,9 @@ I’ve used five proxy services over two years to buy anime figures, vintage man
 
 ## What Is a Proxy Service? (30-Second Primer)
 
+![Aisles of gachapon (capsule toy) machines stacked floor-to-ceiling at a specialty shop in Akihabara, Tokyo — a typical destination for proxy buyers hunting limited capsule figures](/images/articles/japan-proxy-shopping-2026/body-wikimedia-1.webp)
+*Gachapon capsule machines lining a shop in Akihabara — the same vending toys proxy buyers chase via Mercari and Yahoo Auctions. Photo: Ubahnverleih / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gashapon_Shop_in_Akihabara,_Tokyo,_Japan.jpg), CC0 public domain.*
+
 A proxy service gives you a Japanese address. You use that address to buy on Japanese sites (Mercari, Yahoo Auctions, Amazon Japan). The service buys it, stores it at their warehouse, and ships it to your real address. You pay: item price + proxy fee (usually ¥300/item or flat rate) + shipping to your country.
 
 ## Quick Comparison Table
@@ -36,6 +39,9 @@ A proxy service gives you a Japanese address. You use that address to buy on Jap
 | OneMall | ¥200–300/item | Mercari, Yahoo, general shopping | 80+ stores | EMS, DHL, Flat-rate box | High |
 | FROM JAPAN | ¥400/item | Rare/vintage items, Yahoo Auctions | 60+ stores | EMS, DHL, SAL | Medium |
 | Neokyo | ¥250/item | European buyers, competitive shipping | 90+ stores | Various (EU-optimized) | High |
+
+![Mandarake Akihabara complex storefront with the company's red and black banners — a key source of vintage anime collectibles bought through proxy services](/images/articles/japan-proxy-shopping-2026/body-wikimedia-2.webp)
+*Mandarake Complex in Akihabara — the eight-story used anime-collectibles store proxy buyers source vintage figures from. Photo: 正和 / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:MANDARAKE_COMPLEX_AKIHABARA.JPG), CC BY-SA 3.0.*
 
 ## 1. Buyee — Most Popular, Best for Auctions
 
@@ -140,6 +146,9 @@ OneMall is the newest major proxy service (launched 2023). The killer feature: t
 
 [Visit OneMall](https://onemall.jp/)
 
+![Rows of manga and used media organized on bright yellow shelves inside a Mandarake store in Akihabara — typical inventory proxy services photograph for warehouse confirmations](/images/articles/japan-proxy-shopping-2026/body-wikimedia-3.webp)
+*Inside Mandarake Akihabara — labeled shelves of used manga and collectibles, the kind of inventory proxy services photograph for buyers. Photo: PhilaSiti / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Interiors_of_Mandarake,_Akibahara.jpg), CC BY-SA 4.0.*
+
 ## 4. FROM JAPAN — Best for Rare/Vintage Items
 **Proxy fee:** ¥400/item
 
@@ -202,6 +211,9 @@ If you’re in Europe, Neokyo has the best shipping rates. The company is Europe
 
 [Visit Neokyo](https://neokyo.com/)
 
+![Suruga-ya Akihabara honten storefront with stacked blue floor-by-floor signage — a major Japanese second-hand chain proxy buyers source figures, games, and trading cards from](/images/articles/japan-proxy-shopping-2026/body-wikimedia-4.webp)
+*Suruga-ya's Akihabara flagship — a popular Japanese resale chain proxy buyers source figures, doujinshi, and trading cards from. Photo: Qurren / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:A-too_Suruga-ya_Akihabara.jpg), CC BY-SA 4.0.*
+
 ## Step-by-Step: How to Buy from Mercari Japan Using ZenMarket
 **Why ZenMarket?** Cleanest UI, best for Mercari. This walkthrough works for most proxy services with slight variations.
 
@@ -257,6 +269,9 @@ This is critical. Proxy services won’t refund you for counterfeits.
 **Seller history:** Check their reviews. Do they sell 100 figures a month at suspiciously low prices? Bootlegger. Do they have a few sales, 4.8 stars, and seem like a real person selling their collection? Probably legit.
 
 **Ask the seller:** Before buying, message them in Japanese (use Google Translate). Ask “Is this original/official? (これは正規品ですか？)” Legitimate sellers respond. Bootleggers ignore you or get defensive.
+
+![Customers gathered at a Sofmap Akihabara PC Game and Anime Museum shop counter at night, with promotional posters lining the entrance — a typical late-evening figure-hunting scene proxy buyers ask shops to ship from](/images/articles/japan-proxy-shopping-2026/body-wikimedia-5.webp)
+*A Sofmap Akihabara anime shop counter at night — proxy services often arrange ship-from-shop for late-night Akiba purchases. Photo: Ryo FUKAsawa / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sofmap_Akihabara_PC_Game_Anime_Museum_shop_Rewrite_launch_poster_presents_evening_session.jpg), CC BY 2.0.*
 
 ## Shipping Cost Reality Check
 Expect to pay:
