@@ -11,6 +11,8 @@ author: "Takapon"
 excerpt: "Last updated: April 2026. The Kamakurakokomae No.1 Railroad Crossing â Slam Dunk’s most iconic real-world location, with the Shonan coast stretching behind..."
 relatedSlugs: []
 wpPostId: 751
+robots: "noindex,follow"
+canonical: "https://www.japan-pop-now.com/articles/kamakura-slam-dunk-pilgrimage-2026"
 ---
 
 *Last updated: April 2026.*
