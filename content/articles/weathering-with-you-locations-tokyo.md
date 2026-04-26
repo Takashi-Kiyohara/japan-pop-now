@@ -6,7 +6,7 @@ lastUpdated: "2026-03-28"
 category: "destinations"
 tags: []
 featuredImage: "/images/articles/weathering-with-you-locations-tokyo/featured.jpg"
-featuredImageAlt: "Tokyo city night skyline reminiscent of Weathering With You anime"
+featuredImageAlt: "NTT Docomo Yoyogi Building clock tower at twilight — the Yoyogi-area landmark visible across the rainy Tokyo skyline of Weathering With You"
 author: "Takapon"
 excerpt: "Last updated: March 2026. All locations verified as publicly accessible unless noted. Includes walking routes optimized for a half-day or full-day visit...."
 relatedSlugs: []
@@ -37,8 +37,14 @@ The shrine sells wooden geta (traditional clog) shaped prayer plaques, and you c
 | **Admission** | Free. Clear weather charm: ¥800. Geta ema (prayer plaque): ¥500. |
 | **Time needed** | 20-30 minutes |
 
+![Yoyogi Park in spring with cherry blossoms in full bloom — the green expanse adjacent to the Sendagaya / Hatonomori area where Weathering With You's rooftop and shrine scenes are set](/images/articles/weathering-with-you-locations-tokyo/body-wikimedia-3.webp)
+*Yoyogi Park during cherry blossom season — the wide green space adjacent to the Sendagaya neighborhood and Hatonomori Hachiman shrine area that Shinkai used as visual reference for several Weathering With You scenes. Photo: 663highland / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sakura_in_Yoyogi_Park_Tokyo_20170403.jpg), CC0.*
+
 ## Tabata: Hina’s Neighborhood
 Tabata is one of the Yamanote Line’s quietest stations — no tourist attractions, no famous landmarks, just a residential neighborhood that most visitors never see. In the film, this is where Hina lives with her younger brother Nagi. It’s also where the final reunion scene takes place in the film’s 2024 ending sequence.
+
+![JR Tabata Station exterior — the Yamanote Line stop where Hina lives in Weathering With You](/images/articles/weathering-with-you-locations-tokyo/body-wikimedia-4.webp)
+*JR Tabata Station — the Yamanote Line stop nearest Hina's apartment in Weathering With You. The South Exit slope, just below this station, matches the film's depiction. Photo: Wikimedia contributor / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tabata_station.jpg), CC0.*
 
 The key location is the **steep slope below Tabata Station’s South Exit**. In the film, this slope is where the weather shifts dramatically and where several emotionally charged scenes play out. The real slope is just as steep as the anime depicts — the advertising billboards along the road match what Shinkai drew.
 
@@ -104,6 +110,9 @@ The observation deck at Roppongi Hills Mori Tower (52nd floor) is where Hina wat
 ## Shiba Park & Tokyo Tower Views
 The park where Suga, Hina, and Hodaka spend time together. Shiba Park — one of Japan’s oldest parks, established in 1873 — offers a postcard-perfect view of Tokyo Tower framed by trees. The specific bench where characters sit in the film is against the stone wall of Shiba Tosho-gu Shrine, within the park grounds.
 
+![Tokyo Tower viewed from Shiba Park — the postcard angle that frames the bench scene with Suga, Hina, and Hodaka in Weathering With You](/images/articles/weathering-with-you-locations-tokyo/body-wikimedia-5.webp)
+*Tokyo Tower as seen from Shiba Park — the exact framing that appears in Weathering With You's bench scene with Suga, Hina, and Hodaka. The bench sits against the stone wall of Shiba Tosho-gu Shrine within the park. Photo: Wikimedia contributor / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tokyo_Tower_seen_from_Shiba_Park.jpg), CC BY-SA 4.0.*
+
 | **Location** | Shiba Park (芝公園), Minato-ku, Tokyo |
 | --- | --- |
 | **Station** | Shibakoen Station (Toei Mita Line) — 2 min walk. Or Onarimon Station — 2 min walk. |
@@ -114,6 +123,9 @@ The park where Suga, Hina, and Hodaka spend time together. Shiba Park — one of
 **Odaiba Marine Park** is where Hodaka and Hina take their first “sunshine girl” assignment — clearing the weather for a flea market. The observation area near the Statue of Liberty replica, with the Rainbow Bridge in the background, is the exact spot.
 
 **Takeshiba Pier** (竹芝桟橋) is where Hodaka first arrives in Tokyo by ferry at the beginning of the film. The marine passenger terminal is a public space with ocean views. The ferry route from the Izu Islands that Hodaka takes is still operated by Tokai Kisen (large passenger ships depart nightly, jet ferries run during daytime), so you can actually arrive in Tokyo the same way Hodaka did. The pier’s observation deck also offers great ocean views.
+
+![Takeshiba Pier waterfront in Tokyo — the marine terminal where Hodaka first arrives in Weathering With You's opening scenes](/images/articles/weathering-with-you-locations-tokyo/body-wikimedia-6.webp)
+*Takeshiba Pier (竹芝桟橋) — the marine passenger terminal where Hodaka arrives in Tokyo from the Izu Islands at the start of Weathering With You. The Tokai Kisen ferry route depicted in the film still operates from this pier. Photo: Wikimedia contributor / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Takeshiba_Pier_2.jpg), CC0.*
 
 ![Detective Conan collaboration cafe key visual — anime-themed experiences throughout Tokyo](https://japan-pop-now.com/wp-content/uploads/2026/04/conan-cafe-2026-key-visual.jpg)
 

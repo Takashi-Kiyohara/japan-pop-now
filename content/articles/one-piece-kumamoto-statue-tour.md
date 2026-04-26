@@ -6,7 +6,7 @@ lastUpdated: "2026-03-28"
 category: "destinations"
 tags: []
 featuredImage: "/images/articles/one-piece-kumamoto-statue-tour/featured.jpg"
-featuredImageAlt: "Kumamoto Castle in Japan near One Piece character statues"
+featuredImageAlt: "Kumamoto Prefectural Government Office building — the location of the Monkey D. Luffy bronze statue, the first installed of Eiichiro Oda's Straw Hat statues"
 author: "Takapon"
 excerpt: "Last updated: March 2026. Covers all 10 Straw Hat crew statues, maps, transportation, Kumamoto Castle, and a recommended 2-day itinerary for visiting every..."
 relatedSlugs: []
@@ -39,6 +39,9 @@ This guide covers every statue, how to reach them, and the most practical way to
 ## The Luffy Statue — Kumamoto City
 The Luffy statue is the most visited of the ten and the easiest to reach. It stands at the entrance promenade of the Kumamoto Prefectural Government Office, surrounded by ginkgo trees. Luffy’s got his arm raised — the classic pose — and at the base you’ll find a cast of Eiichiro Oda’s actual hand print and his signature.
 
+![Kumamoto Prefectural Government Office building — the entrance promenade in front of this building is where the Monkey D. Luffy bronze statue, the first of the ten Straw Hat statues, was installed in November 2018](/images/articles/one-piece-kumamoto-statue-tour/featured.jpg)
+*Kumamoto Prefectural Government Office — the Luffy bronze statue (174 cm, the canonical height of the character) stands on the entrance promenade visible in front of this building, surrounded by ginkgo trees. Photo: Wikimedia contributor / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kumamoto_Prefectural_office_2022-6-4.jpg), CC BY-SA 4.0.*
+
 The statue is 174 centimeters tall (Luffy’s canonical height) and made of bronze. There’s almost always someone taking photos with it. Visit early morning or late afternoon for the best light and fewer crowds.
 
 | **Location** | Kumamoto Prefectural Government Office, 6-18-1 Suizenji, Chuo-ku, Kumamoto |
@@ -61,7 +64,13 @@ Three statues are in the Aso area — the volcanic caldera region northeast of K
 
 **Usopp** stands right in front of Aso Station — making him the easiest Aso statue to visit by public transport. The station itself was damaged in the earthquakes and rebuilt, and Usopp’s pose captures that spirit of rebuilding with optimism (and characteristic exaggeration).
 
+![Aso Station building in Kumamoto Prefecture — the Usopp statue stands directly in front of this rebuilt station](/images/articles/one-piece-kumamoto-statue-tour/body-wikimedia-3.webp)
+*Aso Station — the rebuilt JR Hohi Line station that hosts the Usopp statue out front. The station was damaged in the 2016 Kumamoto earthquakes and reopened after reconstruction. Photo: Wikimedia contributor / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kumamoto-Aso-station-building2020.jpg), CC BY-SA 4.0.*
+
 **Franky** is near Takamori Station at the opposite end of the Aso area. Takamori is a small town known for its tunnel spring water and rural atmosphere. The station is the terminus of the Minami-Aso Railway, which was itself severely damaged in 2016 and has since been restored — another reconstruction story.
+
+![Takamori Station in southern Aso, Kumamoto — the Minami-Aso Railway terminus that hosts the Franky statue nearby](/images/articles/one-piece-kumamoto-statue-tour/body-wikimedia-5.webp)
+*Takamori Station — terminus of the Minami-Aso Railway in southern Kumamoto Prefecture. The Franky statue stands a short walk from this rebuilt station, in another community heavily affected by the 2016 earthquakes. Photo: Wikimedia contributor / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Takamori_station,_Minami-Aso_Railway_station_building.jpg), CC BY-SA 4.0.*
 
 **Nico Robin** stands at the Kumamoto Earthquake Memorial Museum, which is the former Tokai University Aso Campus. The campus was abandoned after the earthquake, and the damaged buildings have been preserved as a memorial. Robin — the crew’s archaeologist who preserves history — guards the entrance. It’s the most emotionally resonant statue location of the ten.
 
@@ -74,6 +83,9 @@ Three statues are in the Aso area — the volcanic caldera region northeast of K
 The remaining five statues are spread across different towns in Kumamoto Prefecture. Each was placed in a community severely affected by the earthquake:
 
 **Zoro** (Ozu Town) — Near Higo-Ozu Station, walkable from the platform. One of the more accessible outlying statues.
+
+![Higo-Ozu Station in Ozu Town, Kumamoto — the JR Hohi Line stop within walking distance of the Zoro Straw Hat statue](/images/articles/one-piece-kumamoto-statue-tour/body-wikimedia-4.webp)
+*Higo-Ozu Station — JR Hohi Line stop in Ozu Town. The Zoro statue stands in a nearby park, walkable from the station platform. Photo: Wikimedia contributor / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Higo-Ozu_Station_20171002.jpg), CC BY-SA 4.0.*
 
 **Sanji** (Mashiki Town) — At the Mashiki Gymnasium area. Mashiki was the epicenter of the earthquake, and the town’s reconstruction has been one of the prefecture’s biggest projects. Getting here requires a bus or car.
 
@@ -154,6 +166,9 @@ The connection between the castle’s reconstruction and the One Piece statues i
 Several shops in Kumamoto sell statue-related merchandise and Kumamoto-exclusive One Piece goods:
 
 **Sakuramachi Shopping Center (B1)** — A One Piece souvenir shop with Kumamoto-exclusive items, including Kumamon plush toys dressed in Luffy’s outfit. Located in the basement level of the city’s main bus terminal building.
+
+![Sakuramachi Kumamoto shopping and bus terminal complex — basement level B1 hosts the One Piece souvenir shop with Kumamoto-exclusive merchandise](/images/articles/one-piece-kumamoto-statue-tour/body-wikimedia-6.webp)
+*SAKURAMACHI Kumamoto — the bus terminal and shopping complex in central Kumamoto City. The basement level (B1) hosts a One Piece souvenir shop selling Kumamoto-exclusive merchandise, including Luffy-outfit Kumamon plush. Photo: Wikimedia contributor / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:SAKURA-MACHI-Kumamoto.jpg), CC0.*
 
 **Mugiwara Store Kumamoto** — Inside Kumamoto Station’s shopping area. The standard Mugiwara Store lineup plus some Kumamoto-exclusive goods.
 
