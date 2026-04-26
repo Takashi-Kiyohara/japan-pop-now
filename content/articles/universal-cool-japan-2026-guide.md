@@ -17,7 +17,8 @@ If you are planning an anime-focused Japan trip in 2026 and can include Osaka, *
 
 ## Why Universal Cool Japan 2026 stands out
 
-![Why Universal Cool Japan 2026 stands out — Universal Cool Japan 2026 Guide](/images/articles/universal-cool-japan-2026-guide/1.jpg)
+![Universal Studios Japan main entrance gate in Osaka, the venue for Universal Cool Japan 2026](/images/articles/universal-cool-japan-2026-guide/body-wikimedia-1.webp)
+*Photo: Tokumeigakarinoaoshima / Wikimedia Commons, CC0*
 
 For international visitors, the biggest advantage of Universal Cool Japan is not just that it is themed. It turns anime and Japanese entertainment brands into **park-scale experiences**: 4-D attractions, story rides, immersive theater, mystery restaurant experiences, and themed dining.[1]
 
@@ -128,7 +129,8 @@ They serve different purposes. Universal Cool Japan is better if you want a larg
 
 ## Where to go next on Japan Pop Now
 
-![Where to go next on Japan Pop Now — Universal Cool Japan 2026 Guide](/images/articles/universal-cool-japan-2026-guide/4.jpg)
+![Hollywood Dream – The Ride coaster at Universal Studios Japan, a signature USJ attraction](/images/articles/universal-cool-japan-2026-guide/body-wikimedia-4.webp)
+*Photo: Flickr user via Wikimedia Commons, CC BY 2.0*
 
 - **Find by Anime in Japan 2026** if you want to build the rest of your trip around one franchise
 - **Anime Merch Shopping Guide in Japan** if your next priority is merch and anime retail strategy
