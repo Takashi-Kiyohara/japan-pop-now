@@ -5,8 +5,8 @@ date: "2026-04-02"
 lastUpdated: "2026-04-02"
 category: "destinations"
 tags: []
-featuredImage: "/images/articles/chainsaw-man-pilgrimage-tokyo/featured.jpg"
-featuredImageAlt: "Secondhand bookstores in Jinbocho district Tokyo featured in Chainsaw Man"
+featuredImage: "/images/articles/chainsaw-man-pilgrimage-tokyo/featured.webp"
+featuredImageAlt: "Otokozaka stone staircase in Sarugakucho Tokyo — sister staircase to Onnazaka featured in Chainsaw Man Reze Arc"
 author: "Takapon"
 excerpt: "Last updated: April 2026. The quiet backstreets of Jinbocho â the real-world setting behind Chainsaw Man’s Reze Arc. The Chainsaw Man..."
 relatedSlugs: []
@@ -39,9 +39,13 @@ If you’re planning an anime-heavy trip to Tokyo, you can pair this route with 
 
 ## Reze Arc Movie Locations
 
+![Secondhand bookstores in Kanda-Jinbocho district Tokyo — backdrop for Chainsaw Man Reze Arc pilgrimage](/images/articles/chainsaw-man-pilgrimage-tokyo/body-wikimedia-2.webp)
+
 Every major location from the Reze Arc movie sits within a tight cluster around Jinbocho (ç¥ä¿çº), Tokyo’s famous used-bookstore district. The area’s Showa-era architecture, narrow slopes, and quiet side streets clearly influenced the film’s visual design â and walking through it, you’ll immediately feel why the animators chose these specific spots.
 
 All five locations below are within a 10-minute walk of each other. I’d suggest starting from Suidobashi Station’s East Exit and working your way south toward Jinbocho Station. The whole route takes about 2-3 hours if you stop for photos and coffee.
+
+![JR Suidobashi Station east exit Tokyo — gateway to the Chainsaw Man Reze Arc pilgrimage route in Jinbocho](/images/articles/chainsaw-man-pilgrimage-tokyo/body-wikimedia-3.webp)
 
 ## The Phone Booth â Where Denji Meets Reze
 
@@ -58,6 +62,8 @@ Go in the late afternoon if you want the same lighting as the movie scene. The s
 | Best Time to Visit | Late afternoon (4:00-5:00 PM) for movie-accurate lighting |
 | Cost | Free (outdoor location) |
 
+![Ochanomizu Station JR Tokyo at night — neighbouring station for Chainsaw Man Reze Arc Sarugakucho route](/images/articles/chainsaw-man-pilgrimage-tokyo/body-wikimedia-4.webp)
+
 ## Aoi Building â Reze’s Walking Scene
 The Aoi Building (èµãã«) appears as the background in the scene where Reze walks to her part-time cafe job. It’s a Showa-era office building with a distinctive facade that stands out against the newer construction around it â the kind of building that’s disappearing from Tokyo year by year.
 
@@ -71,6 +77,8 @@ This is a working office building, so stay on the sidewalk and don’t enter. Fa
 | GPS | 35.7001, 139.7582 |
 | Best Time to Visit | Afternoon for the best facade lighting |
 | Cost | Free (exterior viewing only) |
+
+![Otokozaka stone staircase in Sarugakucho Tokyo — sister staircase to Onnazaka in the Chainsaw Man Reze Arc](/images/articles/chainsaw-man-pilgrimage-tokyo/body-wikimedia-1.webp)
 
 ## Onnazaka Stairs â The Iconic Staircase
 
@@ -86,6 +94,8 @@ The stairs are public and accessible 24 hours, but I’d recommend avoiding visi
 | GPS | 35.7003, 139.7585 |
 | Best Time to Visit | Sunset (around 5:00-6:00 PM) for movie-matching atmosphere |
 | Cost | Free (public staircase) |
+
+![Sanseido Bookstore Building in Jinbocho Tokyo — landmark of the Chainsaw Man Reze Arc neighbourhood](/images/articles/chainsaw-man-pilgrimage-tokyo/body-wikimedia-5.webp)
 
 ## Cafe Vale â The Real-Life Model for Reze’s Cafe
 
@@ -103,6 +113,8 @@ A word of caution: these are small businesses, not tourist attractions. Order so
 | Nearest Station | Suidobashi Station (East Exit) or Jinbocho Station (A5 Exit) â both 5 minutes |
 | Typical Hours | 8:00 AM – 6:00 PM (varies; closed Sundays at some) |
 | Budget | Coffee: ~Â¥500-800 |
+
+![Akihabara Electric Town Tokyo — one stop from Jinbocho on the JR Sobu Line for Chainsaw Man merch](/images/articles/chainsaw-man-pilgrimage-tokyo/body-wikimedia-6.webp)
 
 ## Season 1 Tokyo Locations
 Season 1 of Chainsaw Man is set broadly across Tokyo, but specific identifiable locations are harder to pin down than the Reze Arc spots. The anime uses a somewhat fictionalized version of the city â recognizable as Tokyo, but with enough changes that exact matches are rare.
