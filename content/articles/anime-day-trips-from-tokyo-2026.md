@@ -114,6 +114,9 @@ Hakone is the real-world model for NERV’s fortress city in Evangelion — and 
 
 **Best for:** Fans of the series will find the pilgrimage deeply moving — the town embraced the anime warmly and the locations are beautifully maintained. Casual visitors might find it quiet — Chichibu is a genuine countryside town, not a theme park. That’s part of the appeal if you want a break from Tokyo’s intensity.
 
+![Chichibu Bridge (Chichibubashi) — the iconic Anohana pilgrimage location overlooking the Arakawa River valley, about 80 minutes from Ikebukuro by Seibu Express](/images/articles/anime-day-trips-from-tokyo-2026/body-wikimedia-5.webp)
+*Chichibu Bridge (秩父橋) — the most recognized scene location from "Anohana: The Flower We Saw That Day," reachable by local bus from Seibu-Chichibu Station. Photo: I_LOVE_WIKI / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Anohana_chichibubashi.jpg), CC BY-SA 3.0.*
+
 ## Kawaguchiko: Yuru Camp Lakeside
 
 The Yuru Camp (*Yuru Camp*, ゆるキャン△) anime is set around the Fuji Five Lakes area, and Kawaguchiko is the most accessible of the five from Tokyo. Kouan Campground (浩庵キャンプ場) at Lake Motosuko — where the protagonist characters first meet — is about 25 minutes by car from Kawaguchiko Station. The lake also appears on the reverse of the ¥1,000 bill, with Mt. Fuji reflected in its surface.
@@ -126,6 +129,9 @@ The Yuru Camp (*Yuru Camp*, ゆるキャン△) anime is set around the Fuji Fiv
 
 **Important:** Mt. Fuji visibility is weather-dependent. Clear mornings (especially in winter and early spring) offer the best views. Summer afternoons are frequently cloudy. Check the webcam at fujisan-net.jp before committing to the trip.
 
+![Mt. Fuji viewed across Lake Kawaguchi from the Fujikawaguchiko township shoreline, the lakeside used in Yuru Camp scenes](/images/articles/anime-day-trips-from-tokyo-2026/body-wikimedia-4.webp)
+*Mt. Fuji and Lake Kawaguchi — the most accessible Fuji Five Lakes location, paired with multiple Yuru Camp scene references in and around the basin. Photo: Suicasmo / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mount_Fuji_from_Lake_Kawaguchi_20170206.jpg), CC BY-SA 4.0.*
+
 ## Oarai: Girls und Panzer Town
 Oarai might be the most successful anime-town collaboration in Japan. Over 60 shops in the town’s shopping district display Girls und Panzer character panels, the local shrine (Oarai Isomaki Shrine) hosts anime-themed *ema* prayer boards, and annual GuP events draw 30,000-155,000 fans. The town didn’t just tolerate the anime connection — they built their entire tourism strategy around it.
 
@@ -136,6 +142,9 @@ Oarai might be the most successful anime-town collaboration in Japan. Over 60 sh
 **Cost:** ¥4,000-4,200 transport + ¥340 tower + lunch = ~¥5,500-6,000.
 
 **Events to know:** The Ankou Festival (あんこう祭, mid-November) is the biggest GuP event of the year — 155,000 visitors in 2025. If you’re in Japan in November, it’s worth planning around. The Kairaku Festival (海楽フェスタ, late March) draws about 30,000.
+
+![Oarai Isosaki Shrine entrance gate — the seaside Ibaraki shrine that hosts Girls und Panzer ema prayer boards from fans nationwide](/images/articles/anime-day-trips-from-tokyo-2026/body-wikimedia-6.webp)
+*Oarai Isosaki Shrine — the seaside shrine that gathers Girls und Panzer fan ema (絵馬) and acts as the spiritual hub of the GuP collaboration day trip from Tokyo. Photo: Σ64 / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Oarai_Isosaki_Shrine_03.jpg), CC BY 3.0.*
 
 ## Nikko: Demon Slayer Connections
 
@@ -150,6 +159,9 @@ Nikko Toshogu Shrine — a UNESCO World Heritage site — has visual connections
 **Cost without JR Pass:** ¥10,960 transport + ¥1,300 + lunch = ~¥14,000-18,000.
 
 Nikko is the trip where the JR Pass makes the most dramatic difference. Without the pass, it’s the most expensive day trip on this list. With the pass, it’s the cheapest (transport is free).
+
+![Yomeimon Gate at Nikko Toshogu Shrine — a UNESCO World Heritage carved facade often compared to scenes from Demon Slayer's mountain spirit world](/images/articles/anime-day-trips-from-tokyo-2026/body-wikimedia-3.webp)
+*The Yomeimon Gate (陽明門) at Nikko Toshogu — the elaborate carved facade and mountain setting that Demon Slayer fans often compare to the anime's Ubuyashiki estate and forested training grounds. Photo: Jpatokal / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nikko_Toshogu_Yomeimon_Gate_2024.jpg), CC BY-SA 4.0.*
 
 ## FAQ: Frequently Asked Questions
 **Which day trip is best for someone who isn’t a big anime fan?**
