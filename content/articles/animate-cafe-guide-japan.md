@@ -85,8 +85,11 @@ The **Ikebukuro Main location** is the largest and gets every collaboration. Aki
 
 **If your trip includes Nagoya or Osaka:** Enter the lottery for those locations too. The same collaboration runs simultaneously across cities, but far fewer people enter the Nagoya and Osaka lotteries. Your chances of winning jump considerably.
 
-![Animate Ikebukuro storefront — illustrative chain venue exterior, not specific to any 2026 collaboration](/images/articles/animate-cafe-guide-japan/body-wikimedia-1.webp)
-*Animate Ikebukuro flagship storefront — illustrative chain venue. Photo: Itasan / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:ANIMATE-Ikebukuro.JPG), CC BY-SA 3.0.*
+![Animate Osaka Nipponbashi storefront — Osaka anime district branch with separate Animate Cafe lottery pool](/images/articles/animate-cafe-guide-japan/body-wikimedia-3.webp)
+*Animate Osaka Nipponbashi — Osaka's flagship Animate, hosting the Osaka Animate Cafe lottery pool. Photo: トレインファン / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Animate_Osaka_Nippombashi.jpg) (CC0).*
+
+![Animate Akihabara storefront on a busy Saturday — Animate Cafe collaborations also run from this AKIBA Cultures ZONE branch](/images/articles/animate-cafe-guide-japan/body-wikimedia-1.webp)
+*Animate Akihabara — the Akihabara branch where many Animate Cafe lottery collabs are hosted. Photo: Dick Thomas Johnson / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Animate_Akihabara_(53443771814).jpg), CC BY 2.0.*
 
 ## What to Expect: Menu, Prices, and Bonus Items
 ![Japanese themed cafe interior with warm lighting — similar to the atmosphere inside Animate Cafe collaboration events](https://japan-pop-now.com/wp-content/uploads/2026/04/conan-cafe-2026-key-visual.jpg)
@@ -136,6 +139,9 @@ Lost the lottery? Don’t want to deal with the booking process? Animate has two
 - **Yokohama:** Animate Yokohama Vivre
 - **Nagoya:** Animate Nagoya
 - **Osaka:** Animate Osaka Nihonbashi, Animate Umeda
+
+![Animate Umeda storefront in Osaka — Gratte stand location and one of Animate Cafe's regional lottery pools](/images/articles/animate-cafe-guide-japan/body-wikimedia-4.webp)
+*Animate Umeda, Osaka — a Gratte stand location and one of the Kansai-region Animate retail anchors. Photo: Tokumeigakarinoaoshima / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Animate_Umeda.jpg) (CC0).*
 - **Sendai:** Animate Sendai
 - **Okayama:** Animate Okayama
 
