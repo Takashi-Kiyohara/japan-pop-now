@@ -306,6 +306,11 @@ JR Pass covers JR trains. But Tokyo also has Tokyo Metro (not JR), Osaka has Mid
 You arrived at Narita. You have a PDF voucher in your email.
 
 ### Step 2: Exchange at Airport JR Office
+
+![JR East Travel Service Center storefront — the kind of counter where you exchange a JR Pass voucher for the actual pass](/images/articles/japan-rail-pass-2026-guide/body-wikimedia-6.webp)
+
+*Photo: 掬茶 / Wikimedia Commons (CC BY-SA 4.0) — JR East Travel Service Center at Morioka Station; airport branches at Narita and Haneda look similar.*
+
 Walk to the JR East Travel Service Centers at:
 
 - **Narita Terminal 1:** B1F basement, near train platforms
