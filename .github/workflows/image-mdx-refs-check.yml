@@ -1,0 +1,52 @@
+name: Image MDX refs check
+
+# Pre-commit-class safeguard: every /images/articles/... reference inside
+# content/articles/*.{md,mdx} must resolve to an actual file under
+# public/images/articles/. Catches the failure mode that produced the
+# 2026-04-26 P0 incident (4 missing blue-lock body-wikimedia webps).
+#
+# Triggers on every push and pull_request that touches MDX or images,
+# but it's cheap enough (sub-second python regex) to run on every event.
+
+on:
+  push:
+    paths:
+      - 'content/articles/**'
+      - 'public/images/articles/**'
+      - 'scripts/check-image-mdx-refs.py'
+      - '.github/workflows/image-mdx-refs-check.yml'
+  pull_request:
+    paths:
+      - 'content/articles/**'
+      - 'public/images/articles/**'
+      - 'scripts/check-image-mdx-refs.py'
+      - '.github/workflows/image-mdx-refs-check.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Run check-image-mdx-refs.py
+        run: python3 scripts/check-image-mdx-refs.py
+
+      - name: JSON report (artifact)
+        if: always()
+        run: python3 scripts/check-image-mdx-refs.py --json > /tmp/refs-report.json || true
+
+      - name: Upload JSON report
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: image-mdx-refs-report-${{ github.run_id }}
+          path: /tmp/refs-report.json
+          retention-days: 30
