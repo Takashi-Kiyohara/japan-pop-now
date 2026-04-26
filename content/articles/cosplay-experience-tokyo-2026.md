@@ -30,6 +30,9 @@ Cosplay rental is one of those Tokyo experiences that sounds intimidating but is
 - [Can You Bring Your Own Costume to Japan?](#bring-own)
 - [Frequently Asked Questions](#faq)
 
+![Cosplayer in Akihabara on a Tokyo street, illustrating cosplay rental walking experience](/images/articles/cosplay-experience-tokyo-2026/body-wikimedia-1.webp)
+*Cosplayer photographed on an Akihabara side street — many studios offer outdoor walking permission so renters can shoot in the neighborhood after their session. Photo: Wikimedia Commons (CC BY-SA)*
+
 ## How Much Does Cosplay Rental Cost in Tokyo?
 
 Prices vary by studio and how much is included. Here’s a realistic breakdown:
@@ -41,6 +44,9 @@ Prices vary by studio and how much is included. Here’s a realistic breakdown:
 | **Premium** | ¥12,000-15,000 (~$82-102) | Full costume + wig + professional makeup + photographer + more photos | Serious cosplay experience |
 
 Additional costs to budget for: extra digital photo downloads (¥500-1,000 per set), outdoor walking permission at some studios (¥1,000-1,500 surcharge), and studio rental extension (¥500-800 per extra 30 minutes). Most studios accept both cash and credit cards.
+
+![Akihabara cosplay sales corner displaying packaged maid and anime character costumes](/images/articles/cosplay-experience-tokyo-2026/body-wikimedia-2.webp)
+*Akihabara cosplay sales corner — packaged maid and anime character costumes line the walls at shops like Cospa and ACOS. Pricing tiers above mirror what rental studios stock. Photo: Wikimedia Commons (CC BY-SA)*
 
 ## Which Studios Offer English Support?
 
@@ -67,7 +73,8 @@ Hours: 11:00-20:00. Rental reception runs 11:00-18:00 with returns by 20:00. The
 
 ## Where Can You Wear Cosplay in Public in Tokyo?
 
-![Where Can You Wear Cosplay in Public in Tokyo? — Cosplay Experience Tokyo 2026](/images/articles/cosplay-experience-tokyo-2026/3.jpg)
+![Madoka Kaname cosplayer photographed in Akihabara — a typical street cosplay scene in Tokyo](/images/articles/cosplay-experience-tokyo-2026/body-wikimedia-5.webp)
+*Madoka Kaname cosplayer photographed on an Akihabara street — Akihabara is the most cosplay-tolerant neighborhood in Tokyo. Photo: Wikimedia Commons (CC BY-SA)*
 
 Tokyo is more cosplay-tolerant than most cities, but there are still unwritten rules about where it’s appropriate:
 
@@ -80,6 +87,9 @@ Tokyo is more cosplay-tolerant than most cities, but there are still unwritten r
 **Where to avoid:** Business districts (Marunouchi, Otemachi), residential neighborhoods, rush-hour trains, and formal cultural sites (shrines and temples) aren’t appropriate for cosplay. Common sense applies: if the setting is professional or sacred, change first.
 
 **Public transport in cosplay:** Technically no rule against it, but it attracts stares and can make fellow commuters uncomfortable — especially during rush hours. If you’re walking from a studio to a nearby photo spot, fine. If you’re taking the Yamanote Line across town, consider changing at your destination.
+
+![Cosplayers gathered at the Comiket cosplay area outside Tokyo Big Sight exhibition halls](/images/articles/cosplay-experience-tokyo-2026/body-wikimedia-3.webp)
+*Cosplayers gathered at the Comiket designated cosplay area outside the Tokyo Big Sight exhibition halls — registration and changing-room rules apply at all major Japanese anime events. Photo: Wikimedia Commons (CC BY-SA)*
 
 ## What Are the Rules for Cosplay at Events?
 
@@ -96,6 +106,9 @@ Cosplay is welcome. Same basic etiquette: use changing rooms, ask before photogr
 
 ### General Etiquette for All Events
 Ask before photographing anyone in cosplay — a simple gesture toward your camera and a raised eyebrow works across all languages. Don’t touch costumes or props without permission. Don’t follow cosplayers after they leave the photography area. If someone declines a photo request, move on without arguing.
+
+![Akihabara cosplay outfit rack displaying themed costumes and goth-lolita inspired pieces](/images/articles/cosplay-experience-tokyo-2026/body-wikimedia-4.webp)
+*Akihabara cosplay outfit rack — many of the same themed costumes available for rental can also be bought outright at shops in Den Den Town and around Akihabara Station. Photo: Wikimedia Commons (CC BY-SA)*
 
 ## Can You Bring Your Own Costume to Japan?
 

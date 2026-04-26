@@ -5,8 +5,9 @@ date: "2026-04-05"
 lastUpdated: "2026-04-05"
 category: "experiences"
 tags: []
-featuredImage: "/images/articles/wonder-festival-figure-events-japan-2026/featured.jpg"
-featuredImageAlt: "Makuhari Messe convention hall for Wonder Festival figure events"
+featuredImage: "/images/articles/wonder-festival-figure-events-japan-2026/featured.webp"
+featuredImageAlt: "Makuhari Messe convention hall in Chiba — Wonder Festival venue for figure events"
+imageCredit: "Photo: Wikimedia Commons (CC BY-SA)"
 author: "Takapon"
 excerpt: "Wonder Festival 2026 Summer takes place July 26 at Makuhari Messe — the world's largest figure and garage kit event with 2,000+ dealer booths. Tickets ¥3,500 in advance, 10:00-17:00 single-day event, popular items sell out by early afternoon. If you collect figures, this is the single best event in Japan."
 relatedSlugs: []
@@ -30,6 +31,9 @@ If you collect anime figures or have any interest in the craftsmanship behind th
 - [What Other Figure Events Happen in Japan?](#other-events)
 - [Frequently Asked Questions](#faq)
 
+![Makuhari Messe North Hall exterior — the venue that hosts Wonder Festival twice a year](/images/articles/wonder-festival-figure-events-japan-2026/body-wikimedia-1.webp)
+*Makuhari Messe North Hall in Chiba — the WonFes venue, a 30-minute train ride from Tokyo Station via the JR Keiyo Line. Photo: Wikimedia Commons (CC BY-SA)*
+
 ## What Is Wonder Festival and When Is It?
 
 Wonder Festival (ワンダーフェスティバル, commonly shortened to WonFes or WF) is a biannual figure and garage kit event held at Makuhari Messe in Chiba. It’s been running since 1984 and happens twice a year — once in winter (February) and once in summer (July). The 2026 Summer edition is confirmed for July 26.
@@ -47,6 +51,9 @@ Wonder Festival (ワンダーフェスティバル, commonly shortened to WonFes
 The event has two halves. **The dealer hall** is where individual artists and small circles sell their original garage kits — handmade resin figures, often unpainted, produced in limited quantities of 10-200 pieces. These are the items that sell out fast and can’t be found anywhere else. **The corporate zone** is where major manufacturers like Good Smile Company, Kotobukiya, Max Factory, and Bandai display upcoming commercial releases and exclusive event-limited figures.
 
 WonFes 2026 Summer features two special exhibitions: the Hiroshi Yokoyama Exhibition 2026 (centered on Maschinen Krieger — the first exhibition since 2016) and Imaginary Creatures WonderFes, a showcase of original monster and yokai-themed works.
+
+![View of Makuhari Messe approach from Messe-Ohashi Bridge — typical access route for WonFes attendees](/images/articles/wonder-festival-figure-events-japan-2026/body-wikimedia-2.webp)
+*Makuhari Messe approach from Messe-Ohashi Bridge — most attendees walk this elevated pedestrian route from Kaihin-Makuhari Station. Photo: Wikimedia Commons (CC BY-SA)*
 
 ## How Do You Get Tickets as an International Visitor?
 
@@ -78,6 +85,9 @@ WonFes operates differently from a normal shopping experience. Here’s what wor
 
 **Bring a bag and packing materials.** Garage kits are fragile resin pieces. Bring a sturdy bag, bubble wrap, and newspaper or towels to cushion your purchases for the train ride home. Some dealers provide basic packaging, but most hand you a bare kit in a plastic bag.
 
+![Good Smile Company corporate booth display with Nendoroid figures at a major exhibition](/images/articles/wonder-festival-figure-events-japan-2026/body-wikimedia-3.webp)
+*Good Smile Company corporate booth display — the same manufacturer runs a flagship booth at WonFes with prototype Nendoroids and event-limited figures. Photo: Wikimedia Commons (CC BY-SA)*
+
 ## How Do You Ship Figures Home?
 Getting your WonFes haul back to your home country takes some planning. Here are your options:
 
@@ -98,6 +108,9 @@ Most amateur garage kits are produced in tiny quantities and sell out at the eve
 **Artist online stores:** Some WonFes dealers later sell remaining stock or made-to-order versions through their own websites or Booth.pm (a Japanese creator marketplace). Follow your favorite artists on X (Twitter) for announcements.
 
 **Corporate exclusives:** Event-limited figures from major manufacturers occasionally get wider releases months later, but this isn’t guaranteed. If you see something you want at a corporate booth, buy it there.
+
+![Good Smile Company Nendoroid Number 1000 Celebration banner at the manufacturer booth](/images/articles/wonder-festival-figure-events-japan-2026/body-wikimedia-4.webp)
+*Good Smile Company's Nendoroid 1000 milestone celebration — the kind of corporate-zone display you'll see at WonFes alongside prototype reveals from Max Factory and Kotobukiya. Photo: Wikimedia Commons (CC BY-SA)*
 
 ## What Other Figure Events Happen in Japan?
 
