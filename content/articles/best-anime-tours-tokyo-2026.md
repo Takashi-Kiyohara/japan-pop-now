@@ -183,8 +183,8 @@ This works if you’re anime-curious rather than anime-focused, or if you’re b
 
 **Book on:** [Klook](https://www.klook.com), [Viator](https://www.viator.com), or [GetYourGuide](https://www.getyourguide.com)
 
-![Tour guide pointing out a pilgrimage location to visitors in Tokyo](/images/articles/best-anime-tours-tokyo-2026/body4.jpg)
-*Pilgrimage tours add context that Google Maps can't — the real-world filming locations explained by locals.*
+![Sunshine City atrium in Ikebukuro with multi-storey shops and fountain — a typical Tokyo anime tour mall stop](/images/articles/best-anime-tours-tokyo-2026/body-wikimedia-2.webp)
+*Sunshine City atrium in Ikebukuro — Pokemon Center, Animate, and Sunshine 60 sit inside this complex, a regular stop on Tokyo otaku tours. Photo: Dick Thomas Johnson / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sunshine_City_Atrium_201206.jpg), CC BY 2.0.*
 
 ## Best Otaku Culture + Food Tours
 These are newer offerings, and honestly, they’re where the real value sits right now. Anime tourism is increasingly paired with food experiences, which makes sense because Tokyo’s food culture is inseparable from pop culture neighborhoods.
@@ -280,8 +280,8 @@ You show up, try on costumes, work with a photographer and stylist who understan
 
 **Book directly:** [Tokyo Cosplay Studio](https://www.tokyocosplaystudio.jp)
 
-![Hands-on cosplay or manga workshop in a Tokyo studio with instructor and participants](/images/articles/best-anime-tours-tokyo-2026/body5.jpg)
-*Workshop experiences usually cap at 4-8 participants — book at least 2 weeks ahead in peak season.*
+![JR Shinjuku Station East exit plaza with billboards and crowds — a common meet-up point for Tokyo anime tour groups](/images/articles/best-anime-tours-tokyo-2026/body-wikimedia-3.webp)
+*JR Shinjuku Station East exit — many Tokyo anime walking tours and pilgrimage routes meet at the East exit before riding to Akihabara, Ikebukuro, or Harajuku. Photo: RuinDig/Yuki Uchida / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:JR-Shinjuku-Station-East---2024-03-27_10.jpg), CC BY 4.0.*
 
 ## DIY vs Guided: When Is a Tour Actually Worth It?
 Here’s the honest assessment: you do not need a tour to experience anime in Tokyo. But certain conditions make tours valuable rather than just convenient.
