@@ -5,9 +5,9 @@ date: "2026-04-01"
 lastUpdated: "2026-04-01"
 category: "experiences"
 tags: []
-featuredImage: "/images/articles/japan-esim-pocket-wifi-sim-card/featured.jpg"
-featuredImageAlt: "Tourist using smartphone with WiFi connectivity over Tokyo cityscape"
-imageCredit: "Photo: © JNTO"
+featuredImage: "/images/articles/japan-esim-pocket-wifi-sim-card/featured.webp"
+featuredImageAlt: "Self-service SIM card vending machine at a travel hub for international visitors"
+imageCredit: "Photo: Z thomas / Wikimedia Commons, CC BY-SA 4.0"
 author: "Takapon"
 excerpt: "Last updated: April 2026. All prices and plan details verified against provider websites. You just booked your flight to Japan. Now comes the question every..."
 relatedSlugs: []
