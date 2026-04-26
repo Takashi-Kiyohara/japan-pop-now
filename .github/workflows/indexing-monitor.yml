@@ -1,0 +1,82 @@
+name: Indexing monitor
+
+# Runs scripts/check-indexing.ps1 daily, archives the JSON log as a build
+# artifact, and opens a GitHub Issue if any anomalies are detected.
+#
+# Why pwsh on ubuntu-latest: the script uses standard PowerShell Core 7+
+# features and Invoke-WebRequest; ubuntu has pwsh preinstalled and is the
+# cheapest runner. No Windows-specific dependencies in the script.
+
+on:
+  schedule:
+    - cron: '0 6 * * *'   # daily 06:00 UTC = 15:00 JST
+  workflow_dispatch:       # allow manual trigger from Actions UI
+
+permissions:
+  contents: read
+  issues: write
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Run check-indexing.ps1
+        id: monitor
+        shell: pwsh
+        run: ./scripts/check-indexing.ps1
+        continue-on-error: true
+
+      - name: Upload run log artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: indexing-monitor-${{ github.run_id }}
+          path: .tmp/indexing-monitor/*.json
+          retention-days: 30
+
+      - name: Create issue on anomalies
+        if: steps.monitor.outcome == 'failure'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const path = require('path');
+            const dir = '.tmp/indexing-monitor';
+            const files = fs.readdirSync(dir).filter(f => f.endsWith('.json')).sort().reverse();
+            if (files.length === 0) {
+              core.setFailed('check-indexing reported failure but no JSON log was produced.');
+              return;
+            }
+            const latest = JSON.parse(fs.readFileSync(path.join(dir, files[0]), 'utf8'));
+            const lines = latest.anomalies.map(a => {
+              const detail = JSON.stringify(a, null, 0).replace(/[`]/g, '\\`');
+              return `- **${a.type}** \`${a.url}\` — \`${detail}\``;
+            }).join('\n');
+            const date = latest.timestamp.split('T')[0];
+            const body = [
+              '## Indexing anomalies detected',
+              '',
+              `Run timestamp: \`${latest.timestamp}\``,
+              `URLs checked: ${latest.urls_checked}`,
+              `Anomaly count: ${latest.anomaly_count}`,
+              '',
+              '### Anomalies',
+              lines || '(no detail captured)',
+              '',
+              '### Next steps',
+              '1. Inspect the [run artifact](https://github.com/' + context.repo.owner + '/' + context.repo.repo + '/actions/runs/' + context.runId + ') for the full per-URL JSON log.',
+              '2. Compare with previous run: anomalies that persist across 2+ runs are real bugs; one-off blips are usually edge / transient.',
+              '3. If the cause is a deploy regression, revert or PR a fix.',
+              '4. If the cause is intentional (e.g. legitimate noindex on a stub), add the URL to an allow-list in `scripts/check-indexing.ps1` and document the exception.',
+              '5. Close this issue once anomalies are explained or resolved.',
+            ].join('\n');
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `[indexing-monitor] ${latest.anomaly_count} anomalies on ${date}`,
+              body: body,
+              labels: ['indexing', 'monitor', 'auto'],
+            });
