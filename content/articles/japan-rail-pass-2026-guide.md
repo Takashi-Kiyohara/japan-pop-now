@@ -5,8 +5,9 @@ date: "2026-04-03"
 lastUpdated: "2026-04-03"
 category: "experiences"
 tags: []
-featuredImage: "/images/articles/japan-rail-pass-2026-guide/featured.jpg"
-featuredImageAlt: "Shinkansen bullet train speeding through Japanese countryside"
+featuredImage: "/images/articles/japan-rail-pass-2026-guide/hero-wikimedia.webp"
+featuredImageAlt: "Shinkansen N700S bullet train arriving at Tokyo Station Shinkansen platform"
+imageCredit: "Photo: Syced / Wikimedia Commons (CC0)"
 author: "Takapon"
 excerpt: "The JR Pass costs ¥50,000 for 7 days in 2026 — up from ¥29,650 in 2022. After JR East's 70% price hike in October 2023, the math changed completely. This guide breaks down exactly when it still saves money, when regional passes win, and how to calculate your own trip before you buy."
 relatedSlugs: []
@@ -21,7 +22,9 @@ The JR Pass costs ¥50,000 ($330) for 7 days in 2026 — up from ¥29,650 in 202
 
 ## The Price Increase Reality Check
 
-![The Price Increase Reality Check — Japan Rail Pass 2026](/images/articles/japan-rail-pass-2026-guide/1.jpg)
+![Tokyo Station Shinkansen platform with N700-series train at Track 18 — illustrative reference for current JR Pass coverage](/images/articles/japan-rail-pass-2026-guide/body-wikimedia-1.webp)
+
+*Photo: N509FZ / Wikimedia Commons (CC BY-SA 4.0) — N700S Shinkansen leaving Shinagawa Station.*
 
 In October 2023, JR East raised JR Pass prices by 70%. They said it was to match “current market conditions” and “increased operating costs.” Travelers heard: the JR Pass got way more expensive overnight.
 
@@ -87,7 +90,9 @@ The honest answer: **It still pays for itself on a typical 10-day trip. But bare
 
 ## JR Pass Break-Even Calculator (Use This)
 
-![JR Pass Break-Even Calculator (Use This) — Japan Rail Pass 2026](/images/articles/japan-rail-pass-2026-guide/2.jpg)
+![Japan Rail Pass paper tickets on a table next to a Japan rail map — used to illustrate the physical pass exchanged at JR offices](/images/articles/japan-rail-pass-2026-guide/body-wikimedia-2.webp)
+
+*Photo: Emile Donzel / Wikimedia Commons (CC BY-SA 4.0) — Japan Rail Pass exchange tickets shown for reference; pricing in image is from a previous year.*
 
 Before you buy a JR Pass, calculate your actual trip. Use these Shinkansen prices (as of April 2026):
 
@@ -263,7 +268,9 @@ Honest answer: Only if you’re on the Shinkansen 4+ hours per day AND you hate 
 
 ## The IC Card (Suica/Pasmo) Combo: JR Pass Doesn’t Cover Everything
 
-![The IC Card (Suica/Pasmo) Combo: JR Pass Doesn’t Cover Everything — Japan Rail Pass 2026](/images/articles/japan-rail-pass-2026-guide/5.jpg)
+![JR East E235 series Yamanote Line train at Tokyo Station — typical local JR rolling stock the pass covers in Tokyo](/images/articles/japan-rail-pass-2026-guide/body-wikimedia-3.webp)
+
+*Photo: aqz-tmin / Wikimedia Commons (CC0) — JR East E235 Yamanote Line set at Tokyo Station.*
 
 JR Pass covers JR trains. But Tokyo also has Tokyo Metro (not JR), Osaka has Midosuji Line (not JR), etc.
 
@@ -332,7 +339,9 @@ Go to the ticket counter before you travel. Show your pass. Say which train you 
 
 ## Realistic 10-Day Itinerary with JR Pass (Break-Even Example)
 
-![Realistic 10-Day Itinerary with JR Pass (Break-Even Example) — Japan Rail Pass 2026](/images/articles/japan-rail-pass-2026-guide/7.jpg)
+![JR Central ticket gate at Kyoto Station — where you tap or show the JR Pass on the Kansai leg of a typical itinerary](/images/articles/japan-rail-pass-2026-guide/body-wikimedia-4.webp)
+
+*Photo: Tokumeigakarinoaoshima / Wikimedia Commons (CC BY-SA 4.0) — JR Central ticket gate at Kyoto Station.*
 
 **Days 1-2: Tokyo (no pass activation)**
 
@@ -388,7 +397,9 @@ Go to the ticket counter before you travel. Show your pass. Say which train you 
 
 ## Related Guides
 
-![Related Guides — Japan Rail Pass 2026](/images/articles/japan-rail-pass-2026-guide/8.jpg)
+![JR Central Nagoya Station central-north ticket gate — another major JR hub frequently used on multi-city JR Pass routes](/images/articles/japan-rail-pass-2026-guide/body-wikimedia-5.webp)
+
+*Photo: MaedaAkihiko / Wikimedia Commons (CC BY-SA 4.0) — JR Nagoya Station Central-North Gate.*
 
 Complete your Japan trip planning with these guides:
 
