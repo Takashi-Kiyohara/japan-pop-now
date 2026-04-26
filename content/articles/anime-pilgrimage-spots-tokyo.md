@@ -40,8 +40,8 @@ Here are 10 locations you can visit today. No tickets, no reservations, no plann
 
 ## 1. Suga Shrine Stairs — Your Name (Kimi no Na wa)
 
-![Jujutsu Kaisen collaboration cafe in Tokyo — themed sweets and character-inspired menu — where fans recreate Your Name](https://japan-pop-now.com/wp-content/uploads/2026/04/jjk-sweets-paradise-cafe-2026.jpg)
-Tokyo residential stairway — the kind of everyday scenery that Makoto Shinkai captures in his films
+![Suga Shrine stairs in Yotsuya, the staircase from the closing scene of Your Name (Kimi no Na wa)](/images/articles/anime-pilgrimage-spots-tokyo/body-wikimedia-1.webp)
+*Suga Shrine stairs in Yotsuya — the staircase where Taki and Mitsuha reunite at the close of Makoto Shinkai's 2016 film. Photo: Hisagi / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Suga_Shrine_stairs_high-angle_20161113-064236.jpg), CC BY-SA 4.0.*
 
 The most famous anime pilgrimage spot in the world. The staircase leading up to Suga Shrine in Yotsuya is where Taki and Mitsuha finally reunite in the closing moments of Makoto Shinkai’s 2016 masterpiece. The red handrails, the surrounding buildings, the afternoon light — every detail matches.
 
@@ -58,7 +58,8 @@ Nearly a decade after the film’s release, you’ll still find fans visiting ev
 
 ## 2. Shibuya Crossing — [Weathering With You](/articles/weathering-with-you-locations-tokyo) / [Jujutsu Kaisen](/articles/jujutsu-kaisen-shibuya-locations-2026)
 
-Shibuya Crossing from above — one of the most recognizable locations in anime
+![Aerial view of Shibuya Scramble Crossing at night, a location featured in Weathering With You and the Jujutsu Kaisen Shibuya Incident arc](/images/articles/anime-pilgrimage-spots-tokyo/body-wikimedia-2.webp)
+*Shibuya scramble crossing from above — the recognizable backdrop for Weathering With You and the Jujutsu Kaisen Shibuya Incident arc. Photo: David Kernan / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Shibuya_Crossing,_Aerial.jpg), CC BY 4.0.*
 
 Shibuya’s famous scramble crossing appears in dozens of anime, but two make it a genuine pilgrimage destination. Shinkai’s “Weathering With You” (2019) uses the crossing and surrounding streets in multiple key scenes — including rain-soaked sequences that are particularly evocative during Tokyo’s actual rainy season. And Jujutsu Kaisen’s “Shibuya Incident” arc transforms the entire neighborhood into a supernatural battlefield, making every street and station exit recognizable to fans.
 
@@ -70,9 +71,11 @@ The experience of walking through Shibuya after watching either series is notice
 | **Best angle** | For the aerial view: Shibuya Sky observation deck, 47F of Shibuya Scramble Square (¥2,200 online / ¥2,500 walk-up). For the street-level crossing experience: stand at the Hachiko exit and wait for the light to turn. |
 
 ## 3. Sensoji Temple, Asakusa — Demon Slayer (Kimetsu no Yaiba)
-Sensoji — Tokyo’s oldest temple, founded in 645 AD — evokes the Taisho-era (1912-1926) aesthetic that forms the backdrop of Demon Slayer. The temple has hosted official Demon Slayer collaboration events, including life-size character statues and themed photo spots. Even without a specific event running, the traditional architecture and Nakamise shopping street transport you to the world of the series.
 
-Sensoji Temple in Asakusa — Tokyo’s oldest temple and a Demon Slayer pilgrimage spot
+![Sensoji Temple Hozomon Gate in Asakusa, the Taisho-era temple grounds that match the Demon Slayer aesthetic](/images/articles/anime-pilgrimage-spots-tokyo/body-wikimedia-3.webp)
+*Sensoji's Hozomon Gate in Asakusa — Tokyo's oldest temple and a Demon Slayer pilgrimage spot. Photo: LMP 2001 / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sensoji_Temple_Asakusa_Tokyo_2024-12-02.jpg), CC BY-SA 4.0.*
+
+Sensoji — Tokyo’s oldest temple, founded in 645 AD — evokes the Taisho-era (1912-1926) aesthetic that forms the backdrop of Demon Slayer. The temple has hosted official Demon Slayer collaboration events, including life-size character statues and themed photo spots. Even without a specific event running, the traditional architecture and Nakamise shopping street transport you to the world of the series.
 
 | **Anime** | Demon Slayer / 鬼滅の刃 (2019–) |
 | --- | --- |
@@ -84,6 +87,10 @@ Sensoji Temple in Asakusa — Tokyo’s oldest temple and a Demon Slayer pilgrim
  **Local tip:** Visit at dusk (around 17:00–18:00) when the temple and Nakamise street are illuminated. The crowds thin out and the atmosphere shifts to something closer to the historical setting of Demon Slayer.
 
 ## 4. Akihabara — Steins;Gate
+
+![Akihabara Radio Kaikan exterior, the building that appears throughout Steins;Gate and the Electric Town skyline](/images/articles/anime-pilgrimage-spots-tokyo/body-wikimedia-4.webp)
+*Akihabara Radio Kaikan facade — the Electric Town landmark Suzuha falls past in the Steins;Gate opening, faithfully reproduced in the anime. Photo: Yuukokusya / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:AKIHABARA_New_Radio_Kaikan.jpg), CC BY-SA 4.0.*
+
 The science-fiction thriller Steins;Gate is set almost entirely in Akihabara, and the real neighborhood is reproduced with documentary-level accuracy. Radio Kaikan (the yellow-facade building at the Electric Town exit — see our [complete Akihabara guide](/articles/akihabara-complete-guide-2026) for floor-by-floor details), the UDX building, and specific street corners and side alleys all appear in the anime exactly as they look in real life.
 
 What makes this pilgrimage special: unlike locations from period pieces or fantasy anime, Akihabara hasn’t changed much since Steins;Gate aired. Walking through the neighborhood with screenshots on your phone produces an uncanny sense of inhabiting the show — the buildings, signs, and street layouts match almost perfectly.
@@ -96,6 +103,10 @@ What makes this pilgrimage special: unlike locations from period pieces or fanta
 [→ Read our complete Akihabara guide for everything else to do in the area](/articles/akihabara-complete-guide-2026/)
 
 ## 5. [Ikebukuro](/articles/ikebukuro-anime-guide-2026) — Durarara!!
+
+![Sunshine 60 Street in Ikebukuro, the main avenue from the Durarara!! anime, lined with shops and signage](/images/articles/anime-pilgrimage-spots-tokyo/body-wikimedia-5.webp)
+*Sunshine 60 Street in Ikebukuro — the main avenue running east from the station that anchors most Durarara!! key scenes. Photo: Asanagi / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sunshine_60_Street_2020-04-19.jpg), CC0.*
+
 The supernatural action series Durarara!! is set in Ikebukuro, and the neighborhood’s real layout is faithfully reproduced. Sunshine 60 Dori (the main street from the East Exit), Ikebukuro West Gate Park, and specific intersections all appear in the anime. Walking through Ikebukuro after watching Durarara!! gives the neighborhood a layer of cool, slightly dangerous energy that enhances the real experience.
 
 | **Anime** | Durarara!! / デュラララ!! (2010–2016) |
@@ -106,6 +117,10 @@ The supernatural action series Durarara!! is set in Ikebukuro, and the neighborh
 [→ Read our Ikebukuro anime guide for the full otaku experience in this neighborhood](/articles/ikebukuro-anime-guide-2026/)
 
 ## 6. Takadanobaba Station — Astro Boy (Tetsuwan Atom)
+
+![JR Takadanobaba Station exterior on the Yamanote Line, where the Astro Boy theme plays as the departure jingle](/images/articles/anime-pilgrimage-spots-tokyo/body-wikimedia-6.webp)
+*JR Takadanobaba Station — the Yamanote Line stop where the Astro Boy theme plays as the train departure jingle. Photo: Tokumeigakarinoaoshima / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Takadanobaba_Station_2019a.jpg), CC BY-SA 4.0.*
+
 A small but delightful pilgrimage: Takadanobaba Station plays the Astro Boy theme melody as its train departure jingle — one of only a few stations in Tokyo with an anime-themed sound. The area around the station features Astro Boy murals on building walls, and the character appears on local signage. The whole visit takes 15-20 minutes, making it an easy addition to a Yamanote Line day.
 
 | **Anime** | Astro Boy / 鉄腕アトム (1963/2003) |
@@ -115,6 +130,10 @@ A small but delightful pilgrimage: Takadanobaba Station plays the Astro Boy them
 | **Time needed** | 15–20 minutes |
 
 ## 7. Inokashira Park, Kichijoji — Various Anime & Ghibli
+
+![Red torii gate at Inokashira Park in Kichijoji, the slice-of-life anime backdrop near the Ghibli Museum](/images/articles/anime-pilgrimage-spots-tokyo/body-wikimedia-7.webp)
+*Inokashira Park in Kichijoji — the central pond, torii gate, and tree-lined paths that appear in countless slice-of-life anime, a short walk from the Ghibli Museum. Photo: Guilhem Vellut / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Inokashira_Park_@_Kichijoji_(9434339020).jpg), CC BY 2.0.*
+
 Inokashira Park appears in numerous anime as a archetypal Tokyo park setting. It’s also adjacent to the neighborhood of Mitaka, where the Ghibli Museum is located. The park itself — with its central pond, swan boats, and tree-lined paths — is the kind of “everyday beautiful” location that slice-of-life anime captures so well.
 
 | **Address** | 1-18-31 Gotenyama, Musashino-shi, Tokyo |
@@ -126,6 +145,10 @@ Inokashira Park appears in numerous anime as a archetypal Tokyo park setting. It
  **Combine with:** The Ghibli Museum in nearby Mitaka (15 min walk from the park, or 1 stop on the JR Chuo Line). Note: Ghibli Museum requires advance tickets — sold on the 10th of each month for the following month via Lawson Ticket (sells out fast for weekends).
 
 ## 8. Odaiba — Various (Gundam, Digimon)
+
+![Life-sized Unicorn Gundam statue at DiverCity Tokyo Plaza in Odaiba, an iconic anime landmark](/images/articles/anime-pilgrimage-spots-tokyo/body-wikimedia-8.webp)
+*Life-sized Unicorn Gundam statue at DiverCity Tokyo Plaza in Odaiba — the headline pilgrimage draw, with scheduled transformation shows throughout the day. Photo: Pelpinosas R. Justin James / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Life-Sized_Unicorn_Gundam_Statue.jpg), CC0.*
+
 Odaiba’s waterfront area appears in multiple anime as a futuristic Tokyo setting. The most visible pilgrimage draw: the life-size Unicorn Gundam statue standing in front of DiverCity Tokyo Plaza. At scheduled times throughout the day, the statue transforms between its Unicorn and Destroy modes with sound and light effects. It’s impressive even if you’ve never watched Gundam.
 
 Odaiba also served as a key location in Digimon Adventure, and the Rainbow Bridge appears in countless anime as an iconic Tokyo backdrop.
@@ -138,7 +161,8 @@ Odaiba also served as a key location in Digimon Adventure, and the Rainbow Bridg
 
 ## 9. Kamakura (Day Trip) — Slam Dunk
 
-Enoshima Electric Railway — the coastal train line near the famous Slam Dunk railroad crossing
+![Kamakura Koko-mae Station entrance on the Enoshima Electric Railway, the access point for the famous Slam Dunk crossing](/images/articles/anime-pilgrimage-spots-tokyo/body-wikimedia-9.webp)
+*Kamakura Koko-mae Station on the Enoshima Electric Railway — the coastal stop next to the world-famous Slam Dunk opening-credits railroad crossing. Photo: Dick Thomas Johnson / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kamakura_Koko_mae_Station_(53149810226).jpg), CC BY 2.0.*
 
 Technically outside Tokyo, but reachable in about an hour by train. The Kamakura Koko-mae (鎌倉高校前) railroad crossing — where the Enoshima Electric Railway passes with the Pacific Ocean shimmering in the background — is one of the most iconic images in anime history. The opening credits of the Slam Dunk anime made this crossing world-famous, and it remains one of Japan’s most-visited pilgrimage spots.
 
