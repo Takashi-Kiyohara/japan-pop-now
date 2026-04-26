@@ -5,9 +5,9 @@ date: "2026-04-03"
 lastUpdated: "2026-04-03"
 category: "experiences"
 tags: []
-featuredImage: "/images/articles/japan-travel-insurance-2026/featured.jpg"
-featuredImageAlt: "Tokyo Station historic red-brick building illuminated at night"
-imageCredit: "Photo: © JNTO"
+featuredImage: "/images/articles/japan-travel-insurance-2026/hero-wikimedia.webp"
+featuredImageAlt: "Traveller's Insurance vending machines at Haneda Airport Terminal 3 — Tokio Marine, MS&AD, and AIG Sonpo kiosks selling overseas travel insurance"
+imageCredit: "Photo: Momiji.Takinogawa / Wikimedia Commons (CC BY-SA 4.0)"
 author: "Takapon"
 excerpt: "You are in Tokyo, 3 AM, something hurts. The bill for three hours and some antibiotics is ¥45,000 without insurance. Japan's healthcare is excellent but expensive for tourists — I have talked to travelers who skipped insurance and ended up paying more for medical than their airfare."
 relatedSlugs: []
@@ -28,7 +28,9 @@ Here’s what you actually need to know about travel insurance for Japan, based 
 
 ## Why You Need Travel Insurance for Japan (The Real Costs)
 
-![Why You Need Travel Insurance for Japan (The Real Costs) — Japan Travel Insurance 2026](/images/articles/japan-travel-insurance-2026/1.jpg)
+![Tokyo Medical University Hospital exterior in Shinjuku — illustrative reference for a major Tokyo hospital where uninsured ER bills run ¥30,000–¥50,000](/images/articles/japan-travel-insurance-2026/body-wikimedia-1.webp)
+
+*Photo: 江戸村のとくぞう / Wikimedia Commons (CC BY-SA 4.0) — Tokyo Medical University Hospital, 2019.*
 
 **Medical costs without insurance in Japan:**
 
@@ -55,7 +57,9 @@ The evacuation cost is why insurance matters. If you have a serious accident or 
 
 ## 1. World Nomads — Best for Activities & Adventure
 
-![World Nomads — Best for Activities & Adventure — Japan Travel Insurance 2026](/images/articles/japan-travel-insurance-2026/2.jpg)
+![St. Luke's International Hospital in Tsukiji, Tokyo — one of the major English-friendly hospitals where insurance direct-billing is most likely to work](/images/articles/japan-travel-insurance-2026/body-wikimedia-2.webp)
+
+*Photo: PontiacAurora / Wikimedia Commons (CC BY-SA 4.0) — St. Luke's International Hospital, 2022.*
 
 **Medical coverage:** $100,000
 
@@ -135,7 +139,9 @@ SafetyWing is absurdly cheap. $45 for a full month of medical coverage that incl
 
 ## 3. Allianz — Best Comprehensive Coverage
 
-![Allianz — Best Comprehensive Coverage — Japan Travel Insurance 2026](/images/articles/japan-travel-insurance-2026/3.jpg)
+![Welcia drugstore at Honmachi, Osaka — typical Japanese drugstore chain where tax-free OTC medication is sold](/images/articles/japan-travel-insurance-2026/body-wikimedia-3.webp)
+
+*Photo: Mr.ちゅらさん / Wikimedia Commons (CC BY-SA 4.0) — Welcia Honmachi Osaka.*
 
 **Medical coverage:** $500,000
 
@@ -213,7 +219,9 @@ AIG Travel Guard is the premium insurance. Highest medical coverage, highest tri
 
 ## Japan-Specific Considerations
 
-![Japan-Specific Considerations — Japan Travel Insurance 2026](/images/articles/japan-travel-insurance-2026/4.jpg)
+![Matsumotokiyoshi drugstore at Shinsaibashi, Osaka — Japan's largest drugstore chain, where many travelers buy OTC pain meds and cold medicine](/images/articles/japan-travel-insurance-2026/body-wikimedia-4.webp)
+
+*Photo: Tokumeigakarinoaoshima / Wikimedia Commons (CC BY-SA 4.0) — Matsumotokiyoshi Shinsaibashi shop.*
 
 ### Language Barrier at Hospitals
 Japanese hospitals in major cities (Tokyo, Osaka, Kyoto) have English-speaking staff. Rural hospitals don’t. Your insurance should cover translation services if needed. World Nomads and Allianz have 24/7 lines where you can talk to an English-speaking coordinator who helps communicate with Japanese doctors. SafetyWing doesn’t.
@@ -259,7 +267,9 @@ Your bag is lost at Narita. Report it to the airline immediately (get a report n
 
 ## Free Alternatives (And Why They’re Not Enough)
 
-![Free Alternatives (And Why They’re Not Enough) — Japan Travel Insurance 2026](/images/articles/japan-travel-insurance-2026/5.jpg)
+![Japanese ambulance responding in Dotonbori, Osaka — a reminder that emergency call costs are zero, but the ER bill that follows is not](/images/articles/japan-travel-insurance-2026/body-wikimedia-5.webp)
+
+*Photo: Mr.ちゅらさん / Wikimedia Commons (CC BY-SA 4.0) — Osaka City Fire Bureau ambulance at Dotonbori. Calling 119 is free; transport is free for residents and tourists. The hospital bill that follows is not.*
 
 **Credit card travel insurance:** Covers basic medical and trip cancellation. Doesn’t cover evacuation (the expensive part). Good as a backup, not sufficient alone.
 
@@ -280,7 +290,9 @@ Your bag is lost at Narita. Report it to the airline immediately (get a report n
 
 ## My Personal Recommendation
 
-![My Personal Recommendation — Japan Travel Insurance 2026](/images/articles/japan-travel-insurance-2026/6.jpg)
+![Narita International Airport Terminal 3 interior — where many travelers buy a last-minute travel insurance plan from the kiosks before departure](/images/articles/japan-travel-insurance-2026/body-wikimedia-6.webp)
+
+*Photo: Calistemon / Wikimedia Commons (CC BY-SA 4.0) — Narita International Airport Terminal 3, April 2023.*
 
 For a typical 1–2 week Japan trip:
 
@@ -300,7 +312,9 @@ For a 2-week trip where I’m hiking Hokkaido, visiting hot springs, and booked 
 
 ## Common Questions
 
-![Common Questions — Japan Travel Insurance 2026](/images/articles/japan-travel-insurance-2026/7.jpg)
+![Tokyo Metropolitan Hiroo Hospital — a designated emergency-medical-care hospital in Minato that handles many tourist cases](/images/articles/japan-travel-insurance-2026/body-wikimedia-7.webp)
+
+*Photo: Q-vi / Wikimedia Commons (CC BY-SA 3.0) — Tokyo Metropolitan Hiroo Hospital, Minato.*
 
 **Can I buy insurance after I arrive in Japan?** Technically, some policies allow you to buy within your first week. But you’ll have a waiting period for coverage. Don’t risk it. Buy before you leave home.
 
