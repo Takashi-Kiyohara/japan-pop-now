@@ -5,9 +5,9 @@ date: "2026-04-05"
 lastUpdated: "2026-04-05"
 category: "experiences"
 tags: []
-featuredImage: "/images/articles/cosplay-experience-tokyo-2026/featured.jpg"
-featuredImageAlt: "Cosplayers at the World Cosplay Summit event at a Japanese temple"
-imageCredit: "Photo: © JNTO"
+featuredImage: "/images/articles/cosplay-experience-tokyo-2026/featured.webp"
+featuredImageAlt: "Cosplayers gathered for Shibuya Halloween street celebrations in Tokyo"
+imageCredit: "Photo: Dick Thomas Johnson / Wikimedia Commons, CC BY 2.0"
 author: "Takapon"
 excerpt: "Rent a full cosplay outfit in Tokyo for ¥3,000–12,000 at English-friendly studios in Akihabara and Ikebukuro — wig, accessories, and photo studio time included."
 relatedSlugs: []
