@@ -17,8 +17,8 @@ description: "Visit 3 Blue Lock events in Tokyo: Skytree collab (Apr 9-Jul 6), A
 <p><em>Last updated: April 2026.</em></p>
 
 
-![Official BLUE LOCK EPISODE SKY promotional key visual for the Tokyo Skytree collaboration event](/images/articles/blue-lock-tokyo-skytree-cafe-2026/featured.jpg)
-*BLUE LOCK EPISODE SKY official key visual — Image: TOKYO SKYTREE / Kodansha*
+![Tokyo Skytree viewed from its ground-level base, host venue of the 2026 BLUE LOCK EPISODE SKY event in Sumida ward](/images/articles/blue-lock-tokyo-skytree-cafe-2026/featured.webp)
+*Tokyo Skytree from the ground-level base — host venue of the 2026 BLUE LOCK EPISODE SKY collaboration. Photo: Ruthsic / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tokyo_Skytree_from_base.jpg), CC BY-SA 4.0.*
 
 **Three separate Blue Lock events are running in Tokyo at the same time this spring** — a 450-meter Skytree takeover with character lighting and a dedicated cafe (April 9 through July 6), a Honey Lemon themed collab cafe in Akihabara (April 15 through May 24), and the final stop of the EGOIST Exhibition in Shibuya (April 24 through May 10). After spending a full day running between all three, I can confirm they're worth the trip — but only if you plan your route right. Total damage: around **12,000 to 15,000 yen** depending on how much merch you grab. This guide covers exact prices, reservation tricks, and a time-efficient route that starts at the exhibition and ends 450 meters above the city.
 
@@ -44,8 +44,8 @@ Tokyo doesn't usually get three events from the same franchise running at once. 
 
 **3. Blue Lock Exhibition EGOIST EXHIBITION -Extra Time-** is the Shibuya finale at Seibu Shibuya Movida Building, 6th and 7th floors. April 24 through May 10 only. This one has the tightest window — just 17 days — so prioritize it if you're choosing which to skip.
 
-![Official BLUE LOCK EGOIST Exhibition key visual for the Shibuya finale](/images/articles/blue-lock-tokyo-skytree-cafe-2026/body-1.jpg)
-*EGOIST Exhibition official key visual — Image: bluelockegoistexhibition.com*
+![Tokyo Skytree rising above Tokyo Solamachi shopping complex — base entrance of the BLUE LOCK EPISODE SKY event venue](/images/articles/blue-lock-tokyo-skytree-cafe-2026/body-wikimedia-2.webp)
+*Tokyo Skytree above Tokyo Solamachi — the EGOIST Exhibition merch shop and the Skytree event entrance share this Sumida-ward complex. Photo: Kakidai / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tokyo_Skytree_%26_Tokyo_Solamachi_20120608.jpg), CC BY-SA 3.0.*
 
 ## How Much Do Tickets Cost?
 
@@ -100,8 +100,11 @@ I've tested this route and it works. Start early, end at Skytree for the night l
 ![Tokyo Skytree at night — venue exterior view from street level, host site of the 2026 BLUE LOCK EPISODE SKY event](/images/articles/blue-lock-tokyo-skytree-cafe-2026/body-wikimedia-1.webp)
 *Tokyo Skytree at night — venue hosting the 2026 BLUE LOCK EPISODE SKY event (the character-themed illumination overlays change nightly during the campaign). Photo: VaneTrz20 / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tokyo_Skytree_at_night_view.jpg), CC0.*
 
-![Official Blue Lock x Collabo Cafe Honpo Honey Lemon Cafe promotional image](/images/articles/blue-lock-tokyo-skytree-cafe-2026/body-2.jpg)
-*Blue Lock x Collabo Cafe Honpo official announcement — Image: collabocafe-honpo.co.jp*
+![Tokyo Skytree daytime view from Asakusa across the Sumida River, the same vantage point used for free public viewing of the BLUE LOCK lighting](/images/articles/blue-lock-tokyo-skytree-cafe-2026/body-wikimedia-3.webp)
+*View of Tokyo Skytree from Asakusa — the Sumida riverside is the recommended free vantage for the nightly Blue Lock character illumination. Photo: DXR / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:View_of_Tokyo_Skytree_from_Asakusa_20190420_1.jpg), CC BY-SA 4.0.*
+
+![Tokyo Skytree from Sumida Park — recommended free viewing zone for the Blue Lock evening illumination](/images/articles/blue-lock-tokyo-skytree-cafe-2026/body-wikimedia-4.webp)
+*Tokyo Skytree seen from Sumida Park — a 5-minute walk from Asakusa Station and a popular free viewing point for the Skytree exterior. Photo: Dick Thomas Johnson / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tokyo_Skytree_@_Sumida_Park_(12638138453).jpg), CC BY 2.0.*
 
 ## What to Eat at the Skytree Cafe (Floor 340)
 
@@ -228,6 +231,9 @@ Blue Lock isn't just another sports anime — it inverted the entire genre formu
 - [Anime Day Trips from Tokyo 2026](/articles/anime-day-trips-from-tokyo-2026) — full-day itineraries combining multiple events
 - [Japan IC Card Transit Guide](/articles/japan-ic-card-transit-guide) — how to use Suica/PASMO to get between all 3 venues
 - [Japan Anime Experiences Hub](/guides/japan-anime-experiences/) — every bookable anime experience in Japan right now
+
+![Tokyo Skytree across the Sumida River near Asakusa with the Asahi Beer headquarters in the foreground](/images/articles/blue-lock-tokyo-skytree-cafe-2026/body-wikimedia-5.webp)
+*Sumida River vantage point with Tokyo Skytree and the Asahi Beer Hall — the riverside walk between Asakusa and Oshiage stations passes all of the listed Blue Lock event hotel zones. Photo: Dick Thomas Johnson / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sumida_River_%2B_Tokyo_Skytree_@_Asakusa_(13824463095).jpg), CC BY 2.0.*
 
 ## Where to Stay Near All 3 Venues
 
