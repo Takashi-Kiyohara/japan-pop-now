@@ -5,8 +5,8 @@ date: "2026-04-04"
 lastUpdated: "2026-04-04"
 category: "destinations"
 tags: []
-featuredImage: "/images/articles/detective-conan-pilgrimage-events-2026/featured.jpg"
-featuredImageAlt: "Entrance to Gosho Aoyama Manga Factory museum for Detective Conan fans"
+featuredImage: "/images/articles/detective-conan-pilgrimage-events-2026/featured.webp"
+featuredImageAlt: "Yura Conan Station in Hokuei Tottori — JR Sanin Main Line stop themed for Detective Conan creator Gosho Aoyama’s hometown"
 author: "Takapon"
 excerpt: "Detective Conan is running more events in 2026 than any other anime IP in Japan. The 30th anniversary exhibition tours 12 cities, the 29th movie opens April 10, Conan Cafe serves 6 cities, Sunshine City hosts the 8th Conan collab, and USJ's Detective Conan World runs through June 30."
 relatedSlugs: []
@@ -32,7 +32,7 @@ Conan also has one of the deepest pilgrimage networks of any anime: real-world l
 
 ## What Conan Events Are Happening in 2026?
 
-![What Conan Events Are Happening in 2026? — Detective Conan Pilgrimage & Events 2026](/images/articles/detective-conan-pilgrimage-events-2026/1.jpg)
+![Yura Conan Station JR Sanin Main Line in Hokuei Tottori — Detective Conan creator hometown stop](/images/articles/detective-conan-pilgrimage-events-2026/body-wikimedia-1.webp)
 
 Here’s everything running or confirmed as of April 2026:
 
@@ -44,6 +44,8 @@ Here’s everything running or confirmed as of April 2026:
 | **Conan Cafe 2026** | 6 cities, 8 venues | Apr 10 – Aug 2 | ~¥2,000-3,500 per visit (~$14-24) |
 | **USJ Detective Conan World** | Osaka | Jan 30 – Jun 30 | Park admission + attraction fees |
 | **Gosho Aoyama Museum (special exhibit)** | Tottori | Ongoing | ~¥1,000 (~$7) |
+
+![Yokohama Minato Mirai 21 waterfront — setting of Detective Conan 29th movie Highway’s Fallen Angel](/images/articles/detective-conan-pilgrimage-events-2026/body-wikimedia-5.webp)
 
 ### The 29th Movie: Highway’s Fallen Angel (ハイウェイの堕天使)
 Opening April 10, the 29th Conan theatrical film features Hagiwara Chihaya — nicknamed the “Wind Goddess” — in her big-screen debut. The setting is Yokohama Minato Mirai, built around a motorcycle festival that turns into a high-speed chase through the city. For pilgrimage fans, this means Yokohama gets a fresh batch of Conan-related real-world locations to visit. The movie’s Yokohama connections overlap with existing attractions like the Cup Noodles Museum and Cosmo Clock 21 Ferris wheel — all within the Minato Mirai waterfront area.
@@ -66,6 +68,8 @@ Tickets are available through Lawson Ticket (l-tike.com) and Seven Ticket (7tick
 
 ## Where Are the Best Conan Pilgrimage Spots in Tokyo?
 
+![Tokyo Tower at night — appears as Toto Tower in Detective Conan series](/images/articles/detective-conan-pilgrimage-events-2026/body-wikimedia-3.webp)
+
 Detective Conan is set in the fictional Beika City (米花町), but the Tokyo landmarks that appear throughout the series are very real:
 
 **Tokyo Tower:** Appears as “Toto Tower” (東都タワー) in the series and features in multiple cases and movie climaxes. The observation deck at 150m costs ¥1,200 for adults. It’s most atmospheric at night — the tower’s orange illumination matches the series’ dramatic evening scenes.
@@ -77,6 +81,8 @@ Detective Conan is set in the fictional Beika City (米花町), but the Tokyo la
 **Sunshine City, Ikebukuro:** Currently hosting the 8th Conan collaboration event (through June 7, 2026). The observation deck “Tenbo Park” at the top of Sunshine 60 and the Sunshine Aquarium are both participating venues. Mystery-solving rally events run in two phases with different storylines. A Detective Conan Plaza pop-up store sells exclusive merchandise on the observation deck floor.
 
 ## How Do You Get Tickets for the Sunshine City Conan Event?
+
+![Sunshine City Ikebukuro Tokyo — venue for the 8th Detective Conan collaboration event 2026](/images/articles/detective-conan-pilgrimage-events-2026/body-wikimedia-2.webp)
 
 The Sunshine City collaboration (April 8 – June 7, 2026) is one of the most accessible Conan events for international visitors because most of it is free:
 
@@ -121,7 +127,7 @@ If you’re making the trip, combine it with Tottori Sand Dunes (Japan’s large
 
 ## What About USJ’s Detective Conan World in Osaka?
 
-![What About USJ’s Detective Conan World in Osaka? — Detective Conan Pilgrimage & Events 2026](/images/articles/detective-conan-pilgrimage-events-2026/6.jpg)
+![Universal Studios Japan main entrance Osaka — venue for Detective Conan World Universal Cool Japan 2026](/images/articles/detective-conan-pilgrimage-events-2026/body-wikimedia-4.webp)
 
 Universal Studios Japan runs Detective Conan World as part of its annual Universal Cool Japan event. The 2026 edition (January 30 – June 30) features three attractions:
 
