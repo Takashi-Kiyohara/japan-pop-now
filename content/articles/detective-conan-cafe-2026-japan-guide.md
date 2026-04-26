@@ -19,7 +19,8 @@ If you are a **Detective Conan fan visiting Japan in spring or summer 2026**, th
 
 ## Why Detective Conan Cafe 2026 is especially useful for international visitors
 
-![Why Detective Conan Cafe 2026 is especially useful for international visitors — Detective Conan Cafe 2026 in Japan](/images/articles/detective-conan-cafe-2026-japan-guide/1.jpg)
+![Tokyo Solamachi at the base of Tokyo Skytree, one of the host venues for Detective Conan Cafe 2026](/images/articles/detective-conan-cafe-2026-japan-guide/body-wikimedia-2.webp)
+*Tokyo Solamachi, one of the multi-city host venues. Photo: Kakidai / Wikimedia Commons, CC BY-SA 3.0.*
 
 A lot of anime cafes in Japan are great for locals but hard for short-term travelers because they are too small, too brief, or too limited to one city. Conan Cafe 2026 is different for two reasons.
 
@@ -46,7 +47,8 @@ That is a major advantage for international visitors because it allows you to ch
 
 ## Which Tokyo location is best?
 
-![Which Tokyo location is best? — Detective Conan Cafe 2026 in Japan](/images/articles/detective-conan-cafe-2026-japan-guide/2.jpg)
+![Conan's House and Beika Shopping Street in Hokuei, Tottori — official Detective Conan pilgrimage site](/images/articles/detective-conan-cafe-2026-japan-guide/body-wikimedia-5.webp)
+*Conan's House and Beika Shopping Street, Hokuei, Tottori — a Detective Conan IP location useful for fans extending the cafe trip. Photo: Hsu Tzu-hsun / Wikimedia Commons, CC BY-SA 4.0.*
 
 If your trip includes Tokyo, the most practical comparison is between **Shibuya**, **Ikebukuro**, and **Tokyo Solamachi**.
 
@@ -86,7 +88,8 @@ That matters because it changes not only the visuals but also the overall appeal
 
 ## What can you expect from the menu and goods?
 
-![What can you expect from the menu and goods? — Detective Conan Cafe 2026 in Japan](/images/articles/detective-conan-cafe-2026-japan-guide/3.jpg)
+![HEP FIVE red Ferris wheel in Umeda, Osaka — landmark near the Osaka Detective Conan Cafe 2026 venue](/images/articles/detective-conan-cafe-2026-japan-guide/body-wikimedia-3.webp)
+*HEP FIVE Ferris wheel in Umeda, Osaka — landmark anchoring the Kansai branch area. Photo: Mstyslav Chernov / Wikimedia Commons, CC BY-SA 3.0.*
 
 The event coverage notes that the menu changes between the **first and second halves** of the event, with featured items such as a **Wind Beef Stew Hamburger**, **Detective Mixed Fry**, and movie-linked menu items like **Chihaya Hagiwara’s Lemon Mizore Pasta** and the **Angel vs. Fallen Angel Drink**.[1]
 
@@ -130,7 +133,11 @@ If you are traveling because Conan is one of your top series, the cafe becomes m
 
 ## Practical tips before you go
 
-![Practical tips before you go — Detective Conan Cafe 2026 in Japan](/images/articles/detective-conan-cafe-2026-japan-guide/4.jpg)
+![Conan Train at JR Yonago Station — official Detective Conan-themed train operating in Tottori](/images/articles/detective-conan-cafe-2026-japan-guide/body-wikimedia-6.webp)
+*The official Conan-themed JR train at Yonago Station — useful context for fans planning a wider Conan-in-Japan itinerary. Photo: Tzu-hsun Hsu / Wikimedia Commons, CC BY-SA 4.0.*
+
+![Detective Conan-themed shop near Yurigahama, Hokuei, Tottori](/images/articles/detective-conan-cafe-2026-japan-guide/body-wikimedia-4.webp)
+*A Detective Conan-themed shop near the Yurigahama Conan area in Hokuei, Tottori. Photo: Hsu Tzu-hsun / Wikimedia Commons, CC BY-SA 4.0.*
 
 ### Check city and date details before fixing your route
 Because cities do not all open and close at the same time, your best branch depends on travel dates, not just preference.
