@@ -24,7 +24,8 @@ Here’s the honest breakdown of where to sleep if you want your hotel to be par
 
 ## Quick Comparison Table
 
-![Quick Comparison Table — Best Anime Hotels Tokyo 2026](/images/articles/anime-hotels-tokyo-2026/1.jpg)
+![Hotel Gracery Shinjuku tower with TOHO Cinemas signage and the Shinjuku Kabukicho streetscape — a featured Tokyo anime-themed hotel](/images/articles/anime-hotels-tokyo-2026/body-wikimedia-1.webp)
+*Hotel Gracery Shinjuku — the pop-culture hotel famous for the Godzilla head perched on its podium roof. The TOHO Cinemas / Hotel Gracery tower sits in the heart of Shinjuku Kabukicho. Photo: Another Believer / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hotel_Gracery_in_Shinjuku,_Tokyo,_2019_-_015.jpg), CC BY-SA 4.0.*
 
 | Hotel | Vibe | Price Range | Location | Best For |
 | --- | --- | --- | --- | --- |
@@ -33,6 +34,9 @@ Here’s the honest breakdown of where to sleep if you want your hotel to be par
 | Hotel Tavinos Asakusa | Festival-themed, retro | ¥8,000–12,000 (~$56–84) | Asakusa | Families, couples |
 | Hotel Gracery Shinjuku | Pop culture, Instagram | ¥12,000–20,000 (~$84–140) | Shinjuku | First-time visitors, Instagram |
 | Sunshine City Prince Hotel (IKEPRI25) | Official anime collab | ¥15,000–28,000 (~$105–196) | Ikebukuro | Collectors, anime fans |
+
+![APA Hotel Asakusa Tawaramachi exterior — a typical mid-range Tokyo hotel building near Tawaramachi Station in the Asakusa anime-shopping district](/images/articles/anime-hotels-tokyo-2026/body-wikimedia-4.webp)
+*APA Hotel Asakusa Tawaramachi — illustrative example of the Asakusa hotel cluster around Tawaramachi Station, the same neighborhood where Anime Hostel Astro Station and Hotel Tavinos Asakusa sit (1–2 minute walk to the station). Photo: Abasaa / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:APA_Hotel_Asakusa_Tawaramachi_Ekimae.JPG), Public domain.*
 
 ## 1. Anime Hostel Astro Station — Best Budget Pick
 **Price:** ¥3,000–5,000/night (~$21–35)
@@ -150,6 +154,9 @@ Hotel Gracery Shinjuku is famous for one reason: a giant Godzilla head sits on i
 
 [Check availability on Booking.com](https://www.booking.com/searchresults.html?ss=Hotel+Gracery+Shinjuku&utm_source=japan-pop-now&utm_medium=article&utm_campaign=anime-hotels-tokyo-2026) | [View on Agoda](https://agoda.com/en/hotel-gracery-shinjuku)
 
+![Sunshine City complex entrance in Ikebukuro with the green "sunshine city" signage above sliding glass doors](/images/articles/anime-hotels-tokyo-2026/body-wikimedia-2.webp)
+*Sunshine City complex in Ikebukuro — the mixed-use tower that hosts the Sunshine City Prince Hotel and the Sunshine City Anime Store, the home of the IKEPRI25 anime-collab guest floors. Photo: Maplestrip / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sunshine_City_Tokyo.jpg), CC BY 3.0.*
+
 ## 5. Sunshine City Prince Hotel IKEPRI25 — Best Official Anime Collab
 **Price:** ¥15,000–28,000/night (~$105–196)
 
@@ -179,6 +186,9 @@ The Sunshine City Prince Hotel partnered with several anime studios to create IK
 
 [Check availability on Booking.com](https://www.booking.com/searchresults.html?ss=Sunshine+City+Prince+Hotel&utm_source=japan-pop-now&utm_medium=article&utm_campaign=anime-hotels-tokyo-2026) | [View on Agoda](https://agoda.com/en/sunshine-city-prince-hotel)
 
+![IKEBUS bus stop signage outside Sunshine City Prince Hotel in Ikebukuro on a rainy day](/images/articles/anime-hotels-tokyo-2026/body-wikimedia-3.webp)
+*Sunshine City Prince Hotel bus-stop frontage in Ikebukuro — the IKEBUS shuttle drops anime tourists right outside the hotel that hosts IKEPRI25 anime-collab floors, a one-minute walk from Ikebukuro Station east exit. Photo: Comyu / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sunshine_City_Prince_Hotel_Bus_Stop_2019.jpg), CC BY-SA 4.0.*
+
 ## Neighborhood Guide: Which Anime District Should You Stay In?
 
 ### Asakusa (Anime Hostels & Mid-Range)
@@ -191,6 +201,9 @@ If you care about manga specifically, Jimbocho is where you stay. Manga Art Hote
 
 ### Shinjuku (Pop Culture & Gaming)
 Shinjuku is where anime meets modern Tokyo. Hotel Gracery is here. You’re steps from Yodobashi Camera (8 floors of anime and gaming), Mandarake (massive anime store), and tons of arcades. Vibe: loud, busy, young. If you’re 20–35 and want nightlife, this is the spot. The area around Shinjuku Station is where most tourists end up anyway.
+
+![Sunshine City Atrium interior in Ikebukuro with a circular fountain and a school group on a checkerboard floor](/images/articles/anime-hotels-tokyo-2026/body-wikimedia-7.webp)
+*Sunshine City Atrium — the central courtyard of the Ikebukuro complex that connects the Prince Hotel, Sunshine 60 tower, and the Sunshine City Anime Store. The atrium's fountain plaza is on the same building campus as the hotel. Photo: Dick Thomas Johnson / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sunshine_City_Atrium_201206.jpg), CC BY 2.0.*
 
 ### Ikebukuro (Anime & Manga Fans)
 Ikebukuro is the #2 anime tourism hub after Akihabara (which doesn’t have good anime hotels). The Sunshine City Anime Store is here, Mandarake has another location, and there are smaller manga cafes throughout. Vibe: slightly less touristy than Shinjuku, more focused on serious anime fans. Hotel Gracery location is Sunshine City Prince—the obvious choice if you’re staying here.
@@ -236,6 +249,12 @@ Honest take: ¥8,000–12,000 hotels offer the best value-to-experience ratio. Y
 - **Download the hotel’s app or save the Wi-Fi password immediately.** Tokyo Wi-Fi is good but can be spotty in older buildings. Ask for a printed QR code if you need it.
 - **Ask the front desk for anime shop recommendations.** This is their actual job in anime-themed hotels. They know which shops get shipments on which days and which areas are less touristy.
 - **Eat breakfast at the hotel if it’s included.** Japanese hotel breakfasts are underrated—miso soup, rice, grilled fish, pickles. It’s actually good, not just continental.
+
+![Yellow capsule pods stacked two-high inside Capsule Inn Akihabara, with sliding shutters and numbered doors](/images/articles/anime-hotels-tokyo-2026/body-wikimedia-5.webp)
+*Capsule Inn Akihabara — example of the Akihabara-area capsule hotel format mentioned in the budget alternatives section. Capsules typically cost ¥4,000–6,000/night and offer private sleeping pods rather than dorm beds. Photo: Peter Van den Bossche / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Capsules_-_Capsule_In_Akihabara.jpg), CC BY-SA 2.0.*
+
+![Akihabara Electric Town main street in daytime with anime billboards on the Bic Camera and surrounding buildings](/images/articles/anime-hotels-tokyo-2026/body-wikimedia-6.webp)
+*Akihabara Electric Town main street — the otaku-shopping district one Yamanote-line stop from Hotel Gracery (Shinjuku) and walkable from the Akihabara capsule hotels. None of the reviewed Tokyo anime hotels sit inside Akihabara itself, but most are within a 10–20 minute train ride. Photo: Zairon / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Akihabara_Electric_Town_08.jpg), CC BY-SA 4.0.*
 
 ## Free Alternatives to Anime Hotels
 If budget is tight or you want to mix it up: Airbnb in Asakusa or Ikebukuro often has manga-themed apartments for ¥5,000–8,000/night. Capsule hotels (like Nine Hours) offer private capsules for ¥4,000–6,000/night—not anime-themed but very Tokyo and cheaper than hotels. Manga cafes (manga-kissa) let you sleep in a booth for ¥3,000–5,000/night, though you share the space with manga readers and people playing video games.

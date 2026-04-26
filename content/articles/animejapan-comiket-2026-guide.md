@@ -20,7 +20,8 @@ If you’re timing a trip around Japan’s biggest anime events, you need to kno
 
 ## AnimeJapan: The Official Convention for Industry & Fans
 
-![AnimeJapan: The Official Convention for Industry & Fans — AnimeJapan & Comiket 2026](/images/articles/animejapan-comiket-2026-guide/1.jpg)
+![Tokyo Big Sight Conference Tower entrance canopy under blue sky — the AnimeJapan 2026 venue in Ariake, Koto-ku](/images/articles/animejapan-comiket-2026-guide/body-wikimedia-1.webp)
+*Tokyo Big Sight (東京ビッグサイト) — the inverted-pyramid convention center in Ariake, Koto-ku that hosts AnimeJapan every March in its East Halls. Photo: Guilhem Vellut / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tokyo_Big_Sight_@_Ariake_(9654319240).jpg), CC BY 2.0.*
 
 ### When It Happens & How to Get Tickets
 AnimeJapan 2026 runs March 28-31, but public attendance is only March 28-29. Industry and media get March 30-31. Unless you work in anime production or have media credentials, you’re attending the public days.
@@ -58,6 +59,9 @@ Cosplay is heavy on Saturday, lighter on Sunday. Photography is allowed in desig
 
 ## Comiket: 500,000 People Buying Doujinshi & Fanworks
 
+![Comiket attendees streaming under the TOKYO BIG SIGHT signage at the venue entrance with luggage and shopping bags](/images/articles/animejapan-comiket-2026-guide/body-wikimedia-2.webp)
+*Comiket 83 attendees at the Tokyo Big Sight main entrance — the same venue hosts Summer Comiket (August) and Winter Comiket (December) twice a year. Photo: Taichi / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Comiket_83_-_Tokyo_Big_Sight_entrance.JPG), CC BY-SA 3.0.*
+
 ### What Is Comiket, Exactly?
 Comiket (Comic Market) is a doujinshi market—a massive gathering where independent creators sell self-published manga, art books, music, and merchandise. It happens twice yearly: Summer Comiket (August) and Winter Comiket (December). Both at Tokyo Big Sight, 10:00 AM to 4:00 PM.
 
@@ -75,6 +79,9 @@ Do I need Japanese to buy stuff? Absolutely not. Cash payment, no conversation n
 | Parking | Nonexistent (use Yurikamome or Rinkai Line) |
 
 Download the official Comiket catalog PDF (comiket.co.jp, 2 weeks before event). Identify 15-20 circles you want to visit and map a route.
+
+![Massive indoor crowd of Comiket attendees at tables inside the Tokyo Big Sight East Hall during Summer Comiket](/images/articles/animejapan-comiket-2026-guide/body-wikimedia-3.webp)
+*Summer Comiket 84 inside Tokyo Big Sight — the rest area packed with attendees catching their breath between circle hunts. Body heat and the glass roof push interior temperatures into the 28–30 °C range during August. Photo: Guilhem Vellut / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Crowd_@_Comiket_84_-_Summer_2013_@_Tokyo_Big_Sight_(9490344463).jpg), CC BY 2.0.*
 
 ### Summer vs. Winter Comiket
 **Winter Comiket (December):** Weather is tolerable (10-15°C), lines start forming around 6:00 AM. Entry lines can last 2+ hours.
@@ -102,6 +109,9 @@ Download the official Comiket catalog PDF (comiket.co.jp, 2 weeks before event).
 **AnimeJapan (one day):** ¥7,500–20,000+ depending on shopping.
 
 **Comiket (one day):** ¥7,800–35,000+ depending on shopping.
+
+![Makuhari Messe convention center exterior in Chiba — the long arched roof of an alternative anime event venue](/images/articles/animejapan-comiket-2026-guide/body-wikimedia-4.webp)
+*Makuhari Messe (幕張メッセ) in Chiba — sometimes used as an alternative venue for large anime events when Tokyo Big Sight is unavailable, and home to events like Tokyo Game Show. Note this is a different venue from Tokyo Big Sight; AnimeJapan and Comiket 2026 are both at Tokyo Big Sight, not here. Photo: 掬茶 / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Makuhari_Messe,_North_hall_1.jpg), CC BY-SA 3.0.*
 
 ## Hotels & Timing
 
