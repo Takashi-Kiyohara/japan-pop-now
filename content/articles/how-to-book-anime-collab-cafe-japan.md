@@ -7,7 +7,7 @@ category: "experiences"
 tags: []
 featuredImage: "/images/articles/how-to-book-anime-collab-cafe-japan/featured.webp"
 featuredImageAlt: "Lawson Loppi kiosk in Japan — the red touchscreen terminal used to book most anime collab cafes"
-imageCredit: "Photo: Rebirth10 / Wikimedia Commons (CC BY-SA 4.0). Body images: Corpse Reviver (CC BY-SA 3.0); Dick Thomas Johnson via Flickr (CC BY 2.0); Wikimedia contributors (CC BY 4.0, CC BY-SA 4.0)."
+imageCredit: "Featured photo: Corpse Reviver / Wikimedia Commons (CC BY-SA 3.0) — Lawson Loppi terminal. Body images: Corpse Reviver (CC BY-SA 3.0); Dick Thomas Johnson via Flickr (CC BY 2.0); Wikimedia contributors (CC BY 4.0, CC BY-SA 4.0)."
 author: "Takapon"
 excerpt: "Complete guide to booking anime collaboration cafes in Tokyo. Covers Lawson Ticket, lottery systems, walk-in tips, and what to expect at your first collab cafe..."
 relatedSlugs: []
