@@ -22,6 +22,9 @@ A lot of anime cafes in Tokyo are appealing in isolation but awkward in real tra
 
 This one is different because it is in **Ikebukuro**.
 
+![Sunshine City Ikebukuro entrance — the closest major shopping complex to the My Hero Academia Cafe at DECOTTO](/images/articles/my-hero-academia-cafe-tokyo-2026/body-wikimedia-1.webp)
+*Sunshine City, Ikebukuro — the main retail anchor near the MHA pop-up cafe (Photo: Maplestrip / Wikimedia Commons, CC BY 3.0)*
+
 For international visitors, that changes everything. Ikebukuro is one of the best districts in Tokyo for turning a single cafe booking into a **half-day anime plan**. You can pair a timed cafe visit with Animate, character-goods shopping, other seasonal collab cafes, and general department-store browsing without needing complicated transport.
 
 That makes this event much more practical than a standalone “go for the photo and leave” stop.
@@ -54,6 +57,12 @@ Ikebukuro is one of the strongest neighborhoods in Tokyo for anime-oriented trav
 - Animate visits,
 - other temporary collaboration events,
 - and easy indoor exploration even if the weather is poor.
+
+![Animate Annex and Lashinbang Ikebukuro Main Store — anchor anime retail near the MHA cafe](/images/articles/my-hero-academia-cafe-tokyo-2026/body-wikimedia-3.webp)
+*Animate Annex and Lashinbang Main Store, Ikebukuro — within a 10-minute walk of the DECOTTO cafe venue (Photo: Wikimedia Commons, CC BY 2.0)*
+
+![Sunshine 60 Street, Ikebukuro — the main pedestrian corridor anime visitors take from the station to Sunshine City](/images/articles/my-hero-academia-cafe-tokyo-2026/body-wikimedia-2.webp)
+*Sunshine 60 Street — Ikebukuro's main shopping spine connecting the station to Sunshine City and Otome Road (Photo: Wikimedia Commons, CC0)*
 
 In practical terms, this means the cafe works best as the centerpiece of an **Ikebukuro anime half day**, not as a detached side quest.
 
@@ -99,6 +108,9 @@ If you want to combine neighborhoods, keep it realistic. Ikebukuro and Akihabara
 
 This is useful because not every traveler should choose the same kind of anime experience. My Hero Academia Cafe is best for **compact Tokyo planning**, not for people who want one giant convention-scale day.
 
+![Universal Studios Japan entrance globe — the larger-scale alternative for fans wanting a destination MHA day via USJ Universal Cool Japan](/images/articles/my-hero-academia-cafe-tokyo-2026/body-wikimedia-4.webp)
+*Universal Studios Japan entrance — USJ has historically hosted large-scale My Hero Academia attractions through Universal Cool Japan (Photo: Wikimedia Commons, CC BY-SA 4.0)*
+
 ## Practical tips before you go
 ### Treat the cafe as part of an Ikebukuro plan, not a standalone destination
 This is the easiest way to get more value out of the visit.
@@ -135,6 +147,13 @@ After this guide, the most helpful next reads are **[Tokyo Anime Collab Cafes Sp
 
 1. Essential Japan, “My Hero Academia ‘Diner’ Themed Pop Up Cafe at DECOT Animate Cafe Ikebukuro 2026” — https://essential-japan.com/events/my-hero-academia-diner-themed-pop-up-cafe-at-decot-animate-cafe-ikebukuro-2026/
 2. The Japan Times, “Perfect Japan posts spark Gen Z social media backlash” — https://www.japantimes.co.jp/news/2026/03/26/japan/society/gen-z-perfect-japan-social-media-posts/
+
+## Image Credits
+
+- Sunshine City Ikebukuro entrance: Wikimedia Commons — [File:Sunshine City Tokyo (2).jpg](https://commons.wikimedia.org/wiki/File:Sunshine_City_Tokyo_(2).jpg), CC BY 3.0
+- Sunshine 60 Street: Wikimedia Commons — [File:Sunshine 60 Street 2020-04-19.jpg](https://commons.wikimedia.org/wiki/File:Sunshine_60_Street_2020-04-19.jpg), CC0
+- Animate Annex and Lashinbang Ikebukuro: Wikimedia Commons — [File:Animate Annex and Lashinbang Ikebukuro Main Store (52857684578).jpg](https://commons.wikimedia.org/wiki/File:Animate_Annex_and_Lashinbang_Ikebukuro_Main_Store_(52857684578).jpg), CC BY 2.0
+- Universal Studios Japan entrance: Wikimedia Commons — [File:Universal Studios Japan entrance.jpg](https://commons.wikimedia.org/wiki/File:Universal_Studios_Japan_entrance.jpg), CC BY-SA 4.0
 
 Planning a trip to Tokyo?
 
