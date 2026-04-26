@@ -5,9 +5,9 @@ date: "2026-03-24"
 lastUpdated: "2026-04-22"
 category: "experiences"
 tags: []
-featuredImage: "/images/articles/how-to-book-anime-collab-cafe-japan/featured.jpg"
-featuredImageAlt: "Colorful interior of the Fujiko F. Fujio (Doraemon) Museum in Kawasaki"
-imageCredit: "Photo: © JNTO"
+featuredImage: "/images/articles/how-to-book-anime-collab-cafe-japan/featured.webp"
+featuredImageAlt: "Lawson Loppi kiosk in Japan — the red touchscreen terminal used to book most anime collab cafes"
+imageCredit: "Photo: Rebirth10 / Wikimedia Commons (CC BY-SA 4.0). Body images: Corpse Reviver (CC BY-SA 3.0); Dick Thomas Johnson via Flickr (CC BY 2.0); Wikimedia contributors (CC BY 4.0, CC BY-SA 4.0)."
 author: "Takapon"
 excerpt: "Complete guide to booking anime collaboration cafes in Tokyo. Covers Lawson Ticket, lottery systems, walk-in tips, and what to expect at your first collab cafe..."
 relatedSlugs: []
@@ -16,9 +16,9 @@ wpPostId: 100
 
 *Last updated: April 22, 2026. Covers all major booking platforms currently used by collab cafes in Tokyo.*
 
-![Anime collab cafe themed desserts and character drinks — what to expect at your first collab cafe visit](https://japan-pop-now.com/wp-content/uploads/2026/04/conan-cafe-food-menu-02.jpg)
-Shibuya street scene near PARCO — the heart of Tokyo’s pop culture shopping district
-Image: Collabo Cafe
+![Lawson Loppi multimedia kiosk — the red touchscreen terminal where you print anime collab cafe reservations and tickets](/images/articles/how-to-book-anime-collab-cafe-japan/body-wikimedia-1.webp)
+Lawson Loppi kiosk — the dominant booking terminal for anime collab cafes in Japan
+Image: Corpse Reviver / Wikimedia Commons (CC BY-SA 3.0)
 
 You’ve found the perfect anime collaboration cafe. The themed menu looks incredible. The exclusive merchandise is exactly what you want. You check the booking page and — it’s entirely in Japanese, asks for information you don’t know how to provide, and every time slot already says 満席 (full).
 
@@ -131,9 +131,9 @@ If dealing with Japanese lottery systems and Lawson Loppi machines sounds overwh
 [See Guided Cafe Tours on Klook](https://affiliate.klook.com/redirect?aid=117469&aff_adid=1251547&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US/search/?query=anime+cafe+tokyo&aid=1117469)From ~$50/person. Includes reservation, guide, and transit directions.
 ## What to Do When Everything Is Sold Out
 
-![Blue Lock anime collaboration cafe 2026 with character-themed menu items and cafe interior](https://japan-pop-now.com/wp-content/uploads/2026/04/blue-lock-cafe-2026.jpg)
-Ikebukuro skyline — home to Sunshine City, Animate, and Tokyo’s densest anime shopping district
-Image: Collabo Cafe
+![Animate Annex storefront in Ikebukuro — anchor of the Otome Road anime shopping district where many collab cafes pop up](/images/articles/how-to-book-anime-collab-cafe-japan/body-wikimedia-2.webp)
+Animate Annex Ikebukuro — the chain that runs Animate Cafe lottery bookings
+Image: Wikimedia Commons via Flickr (CC BY 2.0)
 
 Don’t give up. You have three realistic options:
 
@@ -145,9 +145,9 @@ Don’t give up. You have three realistic options:
 
 ## Step 3: Day of Your Visit — What to Expect
 
-![Detective Conan x Namco campaign 2026 featuring anime character prizes and collab merchandise](https://japan-pop-now.com/wp-content/uploads/2026/04/conan-namco-campaign-2026.jpg)
-Anime merchandise display — the colorful world of character goods found across Tokyo’s otaku shops
-Image: Collabo Cafe
+![DECOTTO by animate cafe storefront with collab merch displays, banners, and standees in front of the entrance](/images/articles/how-to-book-anime-collab-cafe-japan/body-wikimedia-3.webp)
+DECOTTO by animate cafe — collab merch displays at the cafe entrance
+Image: Wikimedia Commons (CC BY 4.0)
 
 **Arrive on time.** Collab cafes operate on strict time slots. Your 80-90 minute window starts at the scheduled time regardless of when you check in. Being 10 minutes late means 10 fewer minutes at the cafe — and some cafes will cancel your reservation entirely for no-shows past 15 minutes. Aim to arrive 5-10 minutes early.
 
@@ -172,9 +172,9 @@ If the entire booking process is more planning than you want to do, these altern
 
 ## Platform-by-Platform Quick Reference
 
-![Natsume Yuujinchou anime pop-up store 2026 with exclusive character goods and merchandise display](https://japan-pop-now.com/wp-content/uploads/2026/04/natsume-popup-store-2026.jpg)
-Tokyo neon streets at night — the lively atmosphere of neighborhoods like Akihabara and Shinjuku
-Image: Collabo Cafe
+![Crowd of anime fans queueing in front of Animate Akihabara on the day of a new collab cafe opening](/images/articles/how-to-book-anime-collab-cafe-japan/body-wikimedia-4.webp)
+Animate Akihabara on a busy collab day — typical Saturday queue
+Image: Wikimedia Commons via Flickr (CC BY 2.0)
 
 | **Platform** | **Cafes that use it** | **System** | **Language** | **Needs account?** |
 | --- | --- | --- | --- | --- |
@@ -186,9 +186,9 @@ Image: Collabo Cafe
 
 ## FAQ: Frequently Asked Questions
 
-![Anime collab cafe themed food and drinks — character latte art and decorated dessert plates](https://japan-pop-now.com/wp-content/uploads/2026/04/conan-cafe-food-menu-01.jpg)
-Shibuya Scramble Crossing — the world-famous intersection featured in countless anime
-Image: Collabo Cafe
+![Inside an anime collaboration cafe — character standees, merch displays, and the queue rail with red rope barriers leading to the order counter](/images/articles/how-to-book-anime-collab-cafe-japan/body-wikimedia-5.webp)
+Anime collab cafe interior — character standees, merch wall, and the numbered-ticket queue rail
+Image: Wikimedia Commons (CC BY-SA 4.0)
 
 **Can I book from outside Japan?**
 
