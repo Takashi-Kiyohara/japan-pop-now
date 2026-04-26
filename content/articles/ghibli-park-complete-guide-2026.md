@@ -34,7 +34,8 @@ This guide covers ticket types and prices, how to buy from overseas, what each a
 
 ## How Much Do Ghibli Park Tickets Cost in 2026?
 
-![How Much Do Ghibli Park Tickets Cost in 2026? — Ghibli Park Complete Guide 2026](/images/articles/ghibli-park-complete-guide-2026/1.jpg)
+![Mononoke Village (Princess Mononoke area) at Ghibli Park, Aichi](/images/articles/ghibli-park-complete-guide-2026/body-wikimedia-1.webp)
+*Photo: Kyu3a / Wikimedia Commons, CC BY-SA 4.0*
 
 Ghibli Park uses a tiered ticket system. There are three main options, and prices differ between weekdays and weekends/holidays:
 
@@ -52,7 +53,8 @@ My recommendation: if you’re coming from overseas and this is likely your only
 
 ## How Do You Book Ghibli Park Tickets from Overseas?
 
-![How Do You Book Ghibli Park Tickets from Overseas? — Ghibli Park Complete Guide 2026](/images/articles/ghibli-park-complete-guide-2026/2.jpg)
+![Elevator Tower in Hill of Youth, the Castle in the Sky / Howl-inspired area at Ghibli Park](/images/articles/ghibli-park-complete-guide-2026/body-wikimedia-2.webp)
+*Photo: Kyu3a / Wikimedia Commons, CC BY-SA 4.0*
 
 Tickets go on sale on the 10th of each month at 14:00 JST (Japan Standard Time) for dates two months later. So April 10 at 2 p.m. JST opens June dates, May 10 opens July dates, and so on. They sell out fast — popular weekends can be gone within hours.
 
@@ -73,7 +75,8 @@ One purchase limit applies: maximum 6 tickets per transaction, and you’re limi
 
 ## What Are the 5 Areas and Which Should You Prioritize?
 
-![What Are the 5 Areas and Which Should You Prioritize? — Ghibli Park Complete Guide 2026](/images/articles/ghibli-park-complete-guide-2026/3.jpg)
+![Entrance gate to Mononoke Village, one of the 5 areas of Ghibli Park](/images/articles/ghibli-park-complete-guide-2026/body-wikimedia-3.webp)
+*Photo: Kyu3a / Wikimedia Commons, CC BY-SA 4.0*
 
 Each area has a different atmosphere and draws from different Ghibli films. Here’s what you’ll find in each:
 
@@ -106,7 +109,8 @@ If you only have one day: prioritize Grand Warehouse and Valley of Witches, then
 
 ## How Do You Get to Ghibli Park from Tokyo and Nagoya?
 
-![How Do You Get to Ghibli Park from Tokyo and Nagoya? — Ghibli Park Complete Guide 2026](/images/articles/ghibli-park-complete-guide-2026/4.jpg)
+![Linimo train at Yakusa Station with Ghibli Park signage on the access route to the park](/images/articles/ghibli-park-complete-guide-2026/body-wikimedia-4.webp)
+*Photo: Kyu3a / Wikimedia Commons, CC BY-SA 4.0*
 
 ### From Tokyo: Shinkansen + Subway + Linimo (about 2.5 hours total)
 There’s no direct train from Tokyo to Ghibli Park. The fastest route goes through Nagoya:
@@ -127,7 +131,8 @@ Take the Higashiyama Line (yellow line) from Nagoya Station toward Fujigaoka. At
 
 ## Can You See Everything in One Day?
 
-![Can You See Everything in One Day? — Ghibli Park Complete Guide 2026](/images/articles/ghibli-park-complete-guide-2026/5.jpg)
+![Howl's Moving Castle replica in the Valley of Witches area of Ghibli Park](/images/articles/ghibli-park-complete-guide-2026/body-wikimedia-5.webp)
+*Photo: Kyu3a / Wikimedia Commons, CC BY-SA 4.0*
 
 Short answer: not comfortably. The five areas together need 9-12 hours of walking time, and the park closes at 5 p.m. (weekdays open at 10 a.m., weekends at 9 a.m.). That gives you 7-8 hours, minus lunch, bathroom breaks, and gift shop time.
 
@@ -143,7 +148,8 @@ If you’re only visiting once and you chose the Premium Pass, my suggestion: st
 
 ## Where Should You Stay? Hotels Near Ghibli Park
 
-![Where Should You Stay? Hotels Near Ghibli Park — Ghibli Park Complete Guide 2026](/images/articles/ghibli-park-complete-guide-2026/6.jpg)
+![Satsuki and Mei's House (My Neighbor Totoro) seen from afar at Ghibli Park, Nagakute Aichi](/images/articles/ghibli-park-complete-guide-2026/body-wikimedia-6.webp)
+*Photo: Kyu3a / Wikimedia Commons, CC BY-SA 4.0*
 
 Ghibli Park is in Nagakute, a suburban area east of Nagoya. There aren’t luxury resorts next door — your options are practical business hotels near transit stations, or staying in central Nagoya with more dining and nightlife options.
 
@@ -207,7 +213,8 @@ Planning a trip to Tokyo?
 
 ## Never Miss a Cafe Opening or Anime Event
 
-![Never Miss a Cafe Opening or Anime Event — Ghibli Park Complete Guide 2026](/images/articles/ghibli-park-complete-guide-2026/7.jpg)
+![Panoramic view of Mononoke Village at Ghibli Park in Aichi Prefecture](/images/articles/ghibli-park-complete-guide-2026/body-wikimedia-7.webp)
+*Photo: Kyu3a / Wikimedia Commons, CC BY-SA 4.0*
 
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.
 
