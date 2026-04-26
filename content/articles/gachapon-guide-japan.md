@@ -39,8 +39,8 @@ Japan has an estimated 600,000+ gachapon machines nationwide. The market hit 610
 
 The key difference from Western vending machines: Japanese gachapon almost always come in themed sets of 4 to 6 designs. Each capsule is random, so you might not get the one you want on the first try. Some machines show the complete lineup on a printed card attached to the front. That lineup card is your best friend — check it before you insert coins.
 
-![Rows of colorful gachapon capsule vending machines lining a Tokyo shop wall](/images/articles/gachapon-guide-japan/body1.jpg)
-*A typical gachapon wall in Akihabara — each machine is a themed set of 4-6 designs.*
+![Aisle of capsule toy gachapon machines lining the walls of a Gashapon shop in Akihabara, Tokyo](/images/articles/gachapon-guide-japan/body-wikimedia-1.webp)
+*A gashapon shop aisle in Akihabara — each machine is a themed set of 4-6 designs. Photo: Ubahnverleih / Wikimedia Commons (CC0).*
 
 ## How to Use a Gachapon Machine (Step by Step)
 Using a gachapon machine takes about 15 seconds once you know the process.
@@ -53,8 +53,8 @@ Using a gachapon machine takes about 15 seconds once you know the process.
 
 **Important:** These machines do not give change. If the price is 300 yen, you need exactly three 100-yen coins. Bring a bag of 100-yen coins or use the change machines that every dedicated gachapon shop provides. Convenience store cashiers won’t break bills just for change, but buying a drink first makes the request easier.
 
-![Close-up of someone turning the crank on a gachapon machine to dispense a capsule](/images/articles/gachapon-guide-japan/body2.jpg)
-*Turn the crank clockwise after inserting coins — capsule drops into the bottom tray.*
+![Close-up of capsule toy machine cranks, coin slots and price stickers on a row of gachapon dispensers in Japan](/images/articles/gachapon-guide-japan/body-wikimedia-2.webp)
+*Close-up of the cranks and coin slots — turn clockwise after inserting coins and the capsule drops into the bottom tray. Photo: Ka23 13 / Wikimedia Commons (CC BY 4.0).*
 
 ## Price Guide: What to Expect in 2026
 Gachapon prices have crept up over the past few years as figure quality has improved. Here’s what the current market looks like:
@@ -68,8 +68,8 @@ Gachapon prices have crept up over the past few years as figure quality has impr
 
 Budget tip: Decide on a spending limit before you start. 1,000 yen (about $6.60) gets you 2 to 5 capsules depending on the machine. It adds up fast when every machine has something interesting.
 
-![Assortment of anime character gachapon capsule figures displayed on a counter](/images/articles/gachapon-guide-japan/body3.jpg)
-*Typical 300-400 yen capsule figure quality — detailed miniatures from popular series.*
+![Stacked capsule toy vending machines loaded with colorful gachapon capsules at a streetside storefront](/images/articles/gachapon-guide-japan/body-wikimedia-3.webp)
+*Coin-operated capsule toy machines stacked at a storefront — the classic gachapon format you can spot all over Japan. Photo: 元 / Wikimedia Commons (CC BY 2.0).*
 
 ## Where to Find Gachapon in Tokyo
 Gachapon machines are everywhere in Japan, but some locations are worth making a trip for. Here are the spots with the best selection.
@@ -98,8 +98,8 @@ Gachapon machines are everywhere in Japan, but some locations are worth making a
 You don’t need to visit a specialty shop. Gachapon machines appear in everyday locations across Japan. Keep an eye out at train station concourses (especially JR stations), shopping mall entrances, convenience store entrances (especially FamilyMart and Lawson), airport departure lounges (Narita and Haneda both have machines in the duty-free area), and the basement floors of department stores.
 
 Collectible figures from gachapon machines
-![Wide view of Gachapon no Mori shop interior with hundreds of capsule machines](/images/articles/gachapon-guide-japan/body4.jpg)
-*Gachapon no Mori in Akihabara — 500+ machines across multiple floors.*
+![Shoppers browsing a wall of gachapon capsule toy machines at a dedicated gashapon shop in Ueno Station, Tokyo](/images/articles/gachapon-guide-japan/body-wikimedia-4.webp)
+*Shoppers browsing a wall of gashapon machines inside JR Ueno Station — dedicated shops like this stock hundreds of machines side by side. Photo: Ka23 13 / Wikimedia Commons (CC BY 4.0).*
 
 ## Best Series and Brands to Look For
 Not all gachapon are created equal. These brands and series consistently deliver quality worth your coins.
@@ -129,8 +129,8 @@ With thousands of machines to choose from, here are five categories that consist
 
 **Budget guide:** Bring 2,000 yen in 100-yen coins for a satisfying gachapon session. That gets you 4-6 capsules across different machines — enough variety without overspending.
 
-![Pile of opened gachapon capsules and their miniature figure contents on a desk](/images/articles/gachapon-guide-japan/body5.jpg)
-*Haul after a typical 1,000-yen session — 3-5 capsules depending on price point.*
+![Pile of opened gachapon capsules with character figures and stickers visible inside](/images/articles/gachapon-guide-japan/body-wikimedia-5.webp)
+*A typical gachapon haul — capsules pop open to reveal small figures, stickers and accessories. Photo: Charles Nguyen / Wikimedia Commons (CC BY-SA 4.0).*
 
 ## Tips From a Capsule Toy Addict
 **Bring a coin purse full of 100-yen coins.** This is the single most important tip. Most gachapon machines still only accept 100-yen coins. Bank ATMs dispense 1,000-yen bills, which you’ll need to break. Dedicated gachapon shops always have change machines, but street-side machines do not.
