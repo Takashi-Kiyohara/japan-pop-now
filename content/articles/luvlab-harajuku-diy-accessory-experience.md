@@ -30,8 +30,8 @@ spotlightExpiry: "2026-05-15"
 
 ## What Can You Make at LuvLab Harajuku?
 
-![Overview of all LuvLab craftable items — Italian charm watches, snake bracelets, keychains, and lip chains](/images/articles/luvlab-harajuku/product-overview.webp)
-*The five main craft categories at LuvLab: Italian charm watches, bracelets, Apple Watch bands, custom keyboard keychains, and lip chains.*
+![Takeshita Street entrance gateway in Harajuku with crowds heading toward the famous shopping street where LuvLab Harajuku is located](/images/articles/luvlab-harajuku/body-wikimedia-1.webp)
+*Takeshita Street's iconic flower-shaped gateway near JR Harajuku Station — LuvLab Harajuku sits a 2-minute walk from this entrance. Photo: Syced / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Takeshita_Street_entrance_on_Meiji_Avenue_side.jpg), CC0.*
 
 LuvLab offers 5 core experiences, each with a different price point and time commitment. The sweet spot for most visitors is the custom keyboard keychain — fast to make, easy to understand without Japanese, and one of the lowest entry prices. Whether you want a matching set with your travel partner, a gift in your best friend's favorite colors, an *oshi-katsu* accessory decked out in your favorite character's theme, or just a one-of-a-kind Harajuku souvenir for yourself, there is a craft here for it.
 
@@ -136,6 +136,9 @@ Snake bracelets are the Harajuku-exclusive item and the one that draws the most 
 
 ![Snake bracelets held up with Harajuku Takeshita Street in the background](/images/articles/luvlab-harajuku/bracelet-harajuku.webp)
 *Fresh out of LuvLab — bracelets against the Takeshita Street backdrop, about 30 seconds from the store.*
+
+![Cat Street in Harajuku at night with boutique storefronts and quiet pedestrian flow](/images/articles/luvlab-harajuku/body-wikimedia-2.webp)
+*Cat Street in Harajuku — the calmer side street that runs parallel to Takeshita and Omotesando, lined with boutiques and a natural extension of any LuvLab visit. Photo: Rs1421 / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Harajuku-Cat-street-05.jpg), CC BY-SA 3.0.*
 
 ## Why This Is Trending Right Now
 
