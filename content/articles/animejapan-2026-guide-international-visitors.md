@@ -17,7 +17,8 @@ If you are visiting Japan in late March and want the biggest anime event of the 
 
 ## Why AnimeJapan 2026 matters for overseas visitors
 
-![Why AnimeJapan 2026 matters for overseas visitors — AnimeJapan 2026 Guide for International Visitors](/images/articles/animejapan-2026-guide-international-visitors/1.jpg)
+![Tokyo Big Sight at night, the inverted-pyramid convention venue where AnimeJapan 2026 will be held](/images/articles/animejapan-2026-guide-international-visitors/body-wikimedia-1.webp)
+*Tokyo Big Sight at night — the iconic inverted-pyramid silhouette of the venue that hosts AnimeJapan in its East and South halls. Photo: Masato Ohta / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tokyo_Big_Sight_at_Night.jpg), CC BY 2.0.*
 
 AnimeJapan is not just another fan event. It is one of the few places in Tokyo where major anime studios, streaming platforms, merch brands, stage programs, family-friendly activities, and industry buzz all come together in one place. For overseas visitors, that makes it valuable in three different ways.
 
@@ -133,7 +134,8 @@ Most travelers will have a better experience if they do **AnimeJapan and Akihaba
 
 ## Where to go next on Japan Pop Now
 
-![Where to go next on Japan Pop Now — AnimeJapan 2026 Guide for International Visitors](/images/articles/animejapan-2026-guide-international-visitors/4.jpg)
+![Tokyo Big Sight viewed from the Yurikamome elevated railway approaching the venue](/images/articles/animejapan-2026-guide-international-visitors/body-wikimedia-2.webp)
+*The view of Tokyo Big Sight from the Yurikamome line — the elevated railway that drops most AnimeJapan visitors at Tokyo Big Sight Station, about a 3-minute walk from the entrance. Photo: 先従隗始 / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tokyo_International_Exhibition_Center_20221216.jpg), CC0.*
 
 - **Tokyo Anime Collab Cafes Spring 2026** for seasonal cafe planning
 - **Find by Anime in Japan 2026** if you want to build your itinerary around a specific series
