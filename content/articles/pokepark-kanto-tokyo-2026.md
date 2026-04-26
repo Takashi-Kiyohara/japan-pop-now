@@ -5,8 +5,8 @@ date: "2026-04-05"
 lastUpdated: "2026-04-05"
 category: "experiences"
 tags: []
-featuredImage: "/images/articles/pokepark-kanto-tokyo-2026/featured.jpg"
-featuredImageAlt: "PokePark Kanto attraction in Tokyo"
+featuredImage: "/images/articles/pokepark-kanto-tokyo-2026/hero-wikimedia.webp"
+featuredImageAlt: "Aerial view of Yomiuriland in Inagi, Tokyo — host venue of PokePark Kanto opened February 2026"
 author: "Takapon"
 excerpt: "PokéPark Kanto opened February 5, 2026 inside Yomiuriland — the world's first permanent outdoor Pokémon theme park. Dynamic-pricing tickets from ¥4,700 to ¥14,000+, advance-only reservations, and three zones across 2.6 hectares. Visitors who spend 5 hours still miss parts of Pokémon Forest."
 relatedSlugs: []
@@ -15,7 +15,9 @@ wpPostId: 780
 
 *Last updated: April 2026.*
 
-PokéPark Kanto opened in February 2026 inside Yomiuriland, bringing Pokémon’s first permanent outdoor theme park to Tokyo. Photo: Japan Pop Now
+![Aerial view of Yomiuriland in Inagi, western Tokyo — the host venue where PokéPark Kanto opened on February 5, 2026](/images/articles/pokepark-kanto-tokyo-2026/hero-wikimedia.webp)
+
+PokéPark Kanto opened in February 2026 inside Yomiuriland, bringing Pokémon’s first permanent outdoor theme park to Tokyo.
 PokéPark Kanto opened on February 5, 2026 inside Yomiuriland in western Tokyo — the first permanent outdoor Pokémon theme park anywhere in the world. Tickets use dynamic pricing and come in three tiers: Elite Trainers Pass at ¥14,000+ (~$95), Trainers Pass at ¥7,900+ (~$54), and Town Pass at ¥4,700+ (~$32, available from May 2026). Every ticket requires advance online reservation. There are no walk-in sales, and popular weekends sell out fast.
 
 The park covers 2.6 hectares across three distinct zones: Pokémon Forest (an outdoor trail where you spot 600+ Pokémon species in wooded terrain), Kayatsuri Town (rides, shows, shops, and dining), and the Entrance Square. It’s not a traditional roller-coaster park — it’s closer to an immersive nature walk crossed with a Pokémon Center on steroids. I’ve talked to visitors who spent 5+ hours and still didn’t see everything in Pokémon Forest.
@@ -42,7 +44,7 @@ Plan your PokéPark day faster:
 
 ## How Much Do PokéPark Kanto Tickets Cost?
 
-![How Much Do PokéPark Kanto Tickets Cost? — PokéPark Kanto Complete Guide 2026](/images/articles/pokepark-kanto-tokyo-2026/1.jpg)
+![Pokémon Center Mega Tokyo entrance in Sunshine City, Ikebukuro — the largest Pokémon Center in Japan and the closest analog to PokéPark Kanto's themed retail experience](/images/articles/pokepark-kanto-tokyo-2026/body-wikimedia-1.webp)
 
 PokéPark Kanto uses dynamic pricing — costs fluctuate based on predicted crowd levels, so weekdays are generally cheaper than weekends and holidays. The prices below are base rates; actual prices on your selected date may be higher.
 
@@ -61,7 +63,7 @@ My recommendation for international visitors: get the Elite Trainers Pass. The �
 
 ## How Do You Buy Tickets from Overseas?
 
-![How Do You Buy Tickets from Overseas? — PokéPark Kanto Complete Guide 2026](/images/articles/pokepark-kanto-tokyo-2026/2.jpg)
+![Pokémon Center Mega Tokyo interior — Pokémon merchandise display similar in scale to what visitors will find at PokéPark Kanto's Kayatsuri Town shops](/images/articles/pokepark-kanto-tokyo-2026/body-wikimedia-2.webp)
 
 This is where PokéPark Kanto is genuinely better than most Japanese attractions for international visitors. There’s a dedicated English-language booking portal specifically for overseas guests — no Japanese phone number, no SMS verification, no membership registration required.
 
@@ -85,7 +87,7 @@ If your dates are still open, book the official English site immediately. If the
 
 ## What Are the 3 Areas Inside PokéPark Kanto?
 
-![What Are the 3 Areas Inside PokéPark Kanto? — PokéPark Kanto Complete Guide 2026](/images/articles/pokepark-kanto-tokyo-2026/3.jpg)
+![Pokémon Center Mega Tokyo plush and figure displays — comparable themed retail to PokéPark's Entrance Square exhibits](/images/articles/pokepark-kanto-tokyo-2026/body-wikimedia-3.webp)
 
 PokéPark Kanto is divided into three zones, each with a completely different feel. Here’s what to expect in each:
 
@@ -110,7 +112,7 @@ The entry zone with photo spots, an introductory exhibit, and additional shops. 
 
 ## How Do You Get to PokéPark Kanto from Central Tokyo?
 
-![How Do You Get to PokéPark Kanto from Central Tokyo? — PokéPark Kanto Complete Guide 2026](/images/articles/pokepark-kanto-tokyo-2026/4.jpg)
+![Pokémon Center Mega Tokyo entrance area — the central Tokyo Pokémon shopping anchor before the Keio Line ride to Yomiuriland](/images/articles/pokepark-kanto-tokyo-2026/body-wikimedia-4.webp)
 
 PokéPark Kanto is inside Yomiuriland, located in Inagi City on the western edge of Tokyo. It’s about 40-60 minutes from central Tokyo depending on your route.
 
@@ -129,7 +131,7 @@ Take the Odakyu Line from Shinjuku to **Shin-Yurigaoka Station** (新百合ヶ�
 **JR Pass note:** Neither the Keio Line nor the Odakyu Line is covered by the Japan Rail Pass. If you have a JR Pass, the most efficient approach is to use it for your day trip transportation to the Shinjuku area, then pay the Keio/Odakyu fare separately. See our [JR Pass guide](/articles/japan-rail-pass-2026-guide) for which trips are covered.
 ## What’s the Best Route to See Everything in One Day?
 
-![What’s the Best Route to See Everything in One Day? — PokéPark Kanto Complete Guide 2026](/images/articles/pokepark-kanto-tokyo-2026/5.jpg)
+![Pokémon Center Mega Tokyo merchandise wares — exclusive Pokémon goods comparable to PokéPark Kanto's Kayatsuri Town shop floor](/images/articles/pokepark-kanto-tokyo-2026/body-wikimedia-5.webp)
 
 One day is enough for PokéPark Kanto if you arrive at opening. Here’s the route that maximizes your time:
 
@@ -148,7 +150,7 @@ Trainers Pass holders: since you only get one timed forest entry, I’d recommen
 
 ## Where Should You Stay Near PokéPark Kanto?
 
-![Where Should You Stay Near PokéPark Kanto? — PokéPark Kanto Complete Guide 2026](/images/articles/pokepark-kanto-tokyo-2026/6.jpg)
+![Yomiuriland park grounds with the wooden coaster and cherry blossoms — the broader Yomiuriland complex surrounding PokéPark Kanto](/images/articles/pokepark-kanto-tokyo-2026/body-wikimedia-6.webp)
 
 Most visitors to PokéPark Kanto are staying in central Tokyo and making a day trip. But if you want to be close to the park — especially for an early morning arrival — here are the best options:
 
