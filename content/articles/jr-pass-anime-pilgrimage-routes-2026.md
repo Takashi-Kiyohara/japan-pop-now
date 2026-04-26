@@ -114,8 +114,8 @@ One note: I’ve done this route twice now (once in 2024, once in early 2026). T
 
 A Japan Rail station platform — understanding the network is key to planning pilgrimage routes
 
-![Shinkansen bullet train pulling into a Tokyo station platform](/images/articles/jr-pass-anime-pilgrimage-routes-2026/body3.jpg)
-*The JR Pass covers most Shinkansen routes — core value is Tokyo-Kyoto-Osaka-Hiroshima for pilgrimage circuits.*
+![Shinkansen N700 series bullet train pulling into Hakata Station Sanyo Shinkansen platform](/images/articles/jr-pass-anime-pilgrimage-routes-2026/body-wikimedia-1.webp)
+*A Shinkansen N700 entering Hakata Station — the Tokyo–Hakata Sanyo Shinkansen run is exactly the kind of long-haul leg that makes a JR Pass pay off. Photo: ERIC SALARD / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Shinkansen_N700_at_Hakata_Station.jpg), CC BY-SA 2.0.*
 
 ## Anime Pilgrimage Route 4: Tokyo → Chichibu → Kawagoe (Anohana + Aqours)
 Anohana’s pilgrimage site is Chichibu (Saitama Prefecture), about 60 kilometers north of Tokyo. Aqours, the Love Live Sunshine group, has activities and locations in Numazu (about 150 kilometers southwest), but there’s also Kawagoe (30 kilometers west of Tokyo) which offers period architecture similar to Edo-era settings that appeal to anime fans generally.
@@ -149,8 +149,8 @@ Tokyo internal transit: 1,500 yen.
 
 This route doesn’t work for a JR Pass because the distances are short (you’re staying within Tokyo’s metro orbit) and the private Chichibu Railway doesn’t honor the pass. If you’re only hitting Anohana sites in Chichibu, just buy tickets. If you were adding Numazu (Aqours), that would be a different story, pushing the route toward a 14-day pass consideration, but even then you’d need to calculate carefully.
 
-![JR Pass physical ticket and passport laid on a table for verification at exchange counter](/images/articles/jr-pass-anime-pilgrimage-routes-2026/body4.jpg)
-*Bring passport + exchange order when activating the JR Pass — most stations have a dedicated foreign-traveler counter.*
+![Two physical Japan Rail Pass cards on a table beside a Japan railway map and a tea cup, the kind anime fans receive after exchanging their voucher](/images/articles/jr-pass-anime-pilgrimage-routes-2026/body-wikimedia-2.webp)
+*Two physical Japan Rail Pass cards next to a railway map — what your exchange voucher turns into at the JR ticket office. Photo: Emile Donzel / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Japan_Rail_Pass.jpg), CC BY-SA 4.0.*
 
 ## How to Buy a JR Pass in 2026
 There are two pathways to getting a JR Pass: exchange voucher (purchased before arrival) and direct purchase at Japanese JR offices.
