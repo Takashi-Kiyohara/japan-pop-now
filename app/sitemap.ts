@@ -27,12 +27,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.5,
       lastModified: new Date('2026-04-10'),
     },
-    {
-      url: `${baseUrl}/contact`,
-      changeFrequency: 'monthly',
-      priority: 0.4,
-      lastModified: new Date('2026-04-10'),
-    },
+    // /contact intentionally excluded — robots=noindex per app/contact/page.tsx
+    // (boilerplate utility, kept out of GSC's "low-value" count). Listing it
+    // would be a sitemap × meta-tag contradiction for Googlebot.
     {
       url: `${baseUrl}/privacy`,
       changeFrequency: 'monthly',
@@ -52,6 +49,12 @@ export default function sitemap(): MetadataRoute.Sitemap {
       lastModified: latestArticleDate,
     },
     {
+      url: `${baseUrl}/cafes`,
+      changeFrequency: 'daily',
+      priority: 0.9,
+      lastModified: latestArticleDate,
+    },
+    {
       url: `${baseUrl}/calendar`,
       changeFrequency: 'daily',
       priority: 0.9,
@@ -66,6 +69,8 @@ export default function sitemap(): MetadataRoute.Sitemap {
     // /search intentionally excluded — SERPs should never index per Google
     // guidance, and the page itself now returns robots=noindex (see
     // app/search/layout.tsx).
+    // /menu intentionally excluded — navigation aid with thin content; no
+    // standalone search value, discovery happens via the global header.
   ];
 
   // Article pages — use actual lastUpdated or date from frontmatter.
