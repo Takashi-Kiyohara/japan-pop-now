@@ -35,7 +35,8 @@ I’ve organized these six destinations by travel time from central Tokyo, with 
 
 ## Which Anime Day Trips from Tokyo Are Worth It?
 
-![Which Anime Day Trips from Tokyo Are Worth It? — 7 Anime Day Trips from Tokyo](/images/articles/anime-day-trips-from-tokyo-2026/1.jpg)
+![The Great Buddha of Kamakura Kotoku-in temple, a key stop on the Kamakura Slam Dunk pilgrimage day trip from Tokyo](/images/articles/anime-day-trips-from-tokyo-2026/body-wikimedia-2.webp)
+*The Great Buddha (Daibutsu) at Kotoku-in in Kamakura — one of the highlights of the easiest anime day trip from Tokyo, paired with the Slam Dunk crossing on the Enoden line. Photo: Suicasmo / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kamakura_Daibutsu_20170210.jpg), CC BY-SA 4.0.*
 
 Each destination offers something different. Here’s the quick comparison:
 
