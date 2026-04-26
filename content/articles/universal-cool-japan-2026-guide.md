@@ -39,7 +39,8 @@ It is also one of the clearest ways to connect anime travel with the broader shi
 
 ## Which franchises are included?
 
-![Which franchises are included? — Universal Cool Japan 2026 Guide](/images/articles/universal-cool-japan-2026-guide/2.jpg)
+![Universal Studios Japan park skyline at sunset showing themed buildings and rides](/images/articles/universal-cool-japan-2026-guide/body-wikimedia-2.webp)
+*Photo: jetsun / Wikimedia Commons, CC BY-SA 3.0*
 
 According to the official USJ page, the 2026 lineup includes the following major experiences:[1]
 
@@ -81,7 +82,8 @@ In other words, the event works best when Osaka is a real part of your itinerary
 
 ## Universal Cool Japan vs Tokyo anime events
 
-![Universal Cool Japan vs Tokyo anime events — Universal Cool Japan 2026 Guide](/images/articles/universal-cool-japan-2026-guide/3.jpg)
+![Hollywood-themed area at Universal Studios Japan with retail and dining facades](/images/articles/universal-cool-japan-2026-guide/body-wikimedia-3.webp)
+*Photo: Wikimedia Commons, CC BY-SA 4.0*
 
 | **If you want…** | **Better choice** |
 | --- | --- |
@@ -94,6 +96,9 @@ In other words, the event works best when Osaka is a real part of your itinerary
 This comparison matters because travelers often try to mix too many formats into one trip. In practice, **park-scale anime** and **city-scale anime** are different products.
 
 ## How much time should you plan?
+
+![Minion Park themed area at Universal Studios Japan illuminated at night](/images/articles/universal-cool-japan-2026-guide/body-wikimedia-5.webp)
+*Photo: Wikimedia Commons, CC BY-SA 4.0*
 
 - a **full day** if USJ is one of the major highlights of your trip,
 - a **priority half day plus general park time** if you only care about one or two anime experiences,
