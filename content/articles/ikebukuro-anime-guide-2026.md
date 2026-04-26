@@ -82,8 +82,8 @@ Otome Road is a stretch of shops along the west side of Sunshine 60-dori that ca
 ### Why Otome Road Matters for All Anime Fans
 Even if BL and otome aren’t your thing, Otome Road is culturally significant. It represents the female side of otaku culture that’s often overlooked in English-language guides. The energy and enthusiasm here rival Akihabara, and the fan-driven economy (doujinshi, fan goods, character cafes) gives you a fuller picture of how anime fandom works in Japan.
 
-![Sunshine City mall interior with anime pop-up shops and event signage in Ikebukuro](/images/articles/ikebukuro-anime-guide-2026/body3.jpg)
-*Sunshine City's event floors rotate monthly — check the Sunshine City X account before you visit.*
+![Pokemon Center Mega Tokyo storefront inside Sunshine City Ikebukuro, with the iconic Poke Ball entrance display](/images/articles/ikebukuro-anime-guide-2026/body-wikimedia-5.webp)
+*Pokemon Center Mega Tokyo, Sunshine City's anchor anime tenant — Sunshine City's event floors and shops rotate monthly, so check the Sunshine City X account before you visit. Photo: Maplestrip / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mega_Tokyo_Pok%C3%A9mon_Center_1.jpg), CC BY 3.0.*
 
 ![Sunshine City complex exterior in Higashi-Ikebukuro, home to Pokemon Center Mega Tokyo, Gashapon Department Store, and Namco Namja Town](/images/articles/ikebukuro-anime-guide-2026/body-wikimedia-4.webp)
 *Sunshine City, Ikebukuro — the mega-complex housing Pokemon Center Mega Tokyo, Bandai's Gashapon Department Store, and rotating anime exhibition floors. Photo: Maplestrip / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sunshine_City_Tokyo.jpg), CC BY 3.0.*
