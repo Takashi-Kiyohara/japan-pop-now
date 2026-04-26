@@ -64,7 +64,7 @@ For the best recreation of that shot, position yourself on the ocean side of the
 
 ## What Other Slam Dunk Locations Can You Visit in Kamakura?
 
-![What Other Slam Dunk Locations Can You Visit in Kamakura? — Slam Dunk Kamakura Pilgrimage 2026](/images/articles/slam-dunk-kamakura-pilgrimage-2026/2.jpg)
+![Shichirigahama beach with Enoshima island in the distance — the Shonan coast featured in Slam Dunk's Enoden line scenes](/images/articles/slam-dunk-kamakura-pilgrimage-2026/2.webp)
 
 The crossing gets all the attention, but there are several other Slam Dunk-connected spots along the Enoden line and Shonan coast:
 
@@ -82,7 +82,7 @@ While not a specific Slam Dunk location, Enoshima island is visible from the fam
 
 ## How Do You Get to Kamakura from Tokyo?
 
-![How Do You Get to Kamakura from Tokyo? — Slam Dunk Kamakura Pilgrimage 2026](/images/articles/slam-dunk-kamakura-pilgrimage-2026/3.jpg)
+![Enoden 1251 train at Kamakura Station — the private railway connecting JR Kamakura to Kamakura-Koko-Mae and the Slam Dunk crossing](/images/articles/slam-dunk-kamakura-pilgrimage-2026/3.webp)
 
 Two main routes, both straightforward:
 
@@ -109,7 +109,7 @@ Both routes are covered by the [Japan Rail Pass](/articles/japan-rail-pass-2026-
 
 ## What’s the Best Half-Day Pilgrimage Route?
 
-![What’s the Best Half-Day Pilgrimage Route? — Slam Dunk Kamakura Pilgrimage 2026](/images/articles/slam-dunk-kamakura-pilgrimage-2026/4.jpg)
+![Enoden train arriving at Hase Station, Kamakura — a key stop on the Slam Dunk pilgrimage route to Kotoku-in](/images/articles/slam-dunk-kamakura-pilgrimage-2026/4.webp)
 
 Here’s my recommended 3-4 hour route that covers the key spots without backtracking:
 
