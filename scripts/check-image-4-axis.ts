@@ -21,7 +21,7 @@
  *     - alt MUST NOT match illustration|schematic|diagram|generated|ai-generated|render
  *
  *   軸4 real-photo heuristic via filename:
- *     - filename MUST NOT match illustration|schematic|diagram|generated|ai-
+ *     - filename MUST NOT match illustration|schematic|diagram|generated|\bai-
  *
  * Usage:
  *   npx tsx scripts/check-image-4-axis.ts
@@ -55,7 +55,7 @@ const ONLY_SLUG = SLUG_ARG ? SLUG_ARG.split('=')[1] : null;
 // --- regexes -------------------------------------------------------------
 const STOCK_RE = /unsplash|getty|shutterstock|stock-photo/i;
 const NON_PHOTO_ALT_RE = /illustration|schematic|diagram|generated|ai-generated|render/i;
-const NON_PHOTO_FILE_RE = /illustration|schematic|diagram|generated|ai-/i;
+const NON_PHOTO_FILE_RE = /illustration|schematic|diagram|generated|\bai-/i;
 
 // markdown image:  ![alt](path)
 const MD_IMG_RE = /!\[([^\]]*)\]\(([^)\s]+)(?:\s+"[^"]*")?\)/g;
