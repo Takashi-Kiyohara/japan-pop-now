@@ -2,11 +2,18 @@ import { Metadata } from 'next';
 import { Coffee } from 'lucide-react';
 
 export const metadata: Metadata = {
-  title: 'Support Japan Pop Now — Buy Us a Coffee',
+  title: { absolute: 'Support Japan Pop Now — Buy Us a Coffee' },
   description:
-    'Japan Pop Now is independently run and ad-supported. If our guides saved you time planning your Japan trip, you can chip in to help keep the site free and ad-light.',
+    'Japan Pop Now is independently run. If our guides saved you time planning your Japan trip, chip in to help keep the site free and ad-light.',
   alternates: {
     canonical: 'https://www.japan-pop-now.com/support',
+  },
+  openGraph: {
+    title: 'Support Japan Pop Now — Buy Us a Coffee',
+    description:
+      'Japan Pop Now is independently run. If our guides saved you time planning your Japan trip, chip in to help keep the site free and ad-light.',
+    url: 'https://www.japan-pop-now.com/support',
+    type: 'website',
   },
 };
 
