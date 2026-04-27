@@ -8,6 +8,13 @@ export const metadata: Metadata = {
   alternates: {
     canonical: 'https://www.japan-pop-now.com/contact',
   },
+  openGraph: {
+    title: 'Contact Us | Japan Pop Now',
+    description:
+      'Get in touch with the Japan Pop Now team — tips, corrections, partnership inquiries, and more.',
+    url: 'https://www.japan-pop-now.com/contact',
+    type: 'website',
+  },
   // Contact page is a boilerplate utility, not search-competitive content.
   // noindex keeps GSC "low-value" count down without blocking crawler access.
   robots: {
