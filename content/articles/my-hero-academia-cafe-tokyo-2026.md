@@ -7,6 +7,7 @@ category: "cafes"
 tags: []
 featuredImage: "/images/articles/my-hero-academia-cafe-tokyo-2026/featured.jpg"
 featuredImageAlt: "Kabukicho neon street at night in Shinjuku Tokyo anime district"
+imageNote: "exhausted-permanent — DECOTTO Animate Cafe collab ended 2026-04-26; retroactive Takapon photoshoot impossible. Wikimedia venue photos with caption disclosure are the permanent state. Audit doc: docs/audit/collab-image-exhausted-20260427.md"
 author: "Takapon"
 excerpt: "Planning to visit the My Hero Academia Cafe in Ikebukuro in 2026? This practical guide explains the dates, why Ikebukuro is the best base, and how to turn the..."
 relatedSlugs: []
