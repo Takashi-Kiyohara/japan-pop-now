@@ -5,8 +5,11 @@ date: "2026-04-04"
 lastUpdated: "2026-04-04"
 category: "destinations"
 tags: []
-featuredImage: "/images/articles/detective-conan-pilgrimage-events-2026/featured.webp"
-featuredImageAlt: "Yura Conan Station in Hokuei Tottori — JR Sanin Main Line stop themed for Detective Conan creator Gosho Aoyama’s hometown"
+featuredImage: "/images/articles/detective-conan-pilgrimage-events-2026/hero.webp"
+featuredImageAlt: "Yura Conan Station in Hokuei Tottori — JR Sanin Main Line stop themed for Detective Conan creator Gosho Aoyama's hometown"
+heroImage: "/images/articles/detective-conan-pilgrimage-events-2026/hero.webp"
+heroImageAlt: "Yura Conan Station — JR Sanin Main Line stop in Hokuei, Tottori, themed for Detective Conan creator Gosho Aoyama's hometown with character signage at the entrance"
+imageCredit: "Photo: Hsu Tzu-hsun / Wikimedia Commons, CC BY-SA 4.0"
 author: "Takapon"
 excerpt: "Detective Conan is running more events in 2026 than any other anime IP in Japan. The 30th anniversary exhibition tours 12 cities, the 29th movie opens April 10, Conan Cafe serves 6 cities, Sunshine City hosts the 8th Conan collab, and USJ's Detective Conan World runs through June 30."
 relatedSlugs: []

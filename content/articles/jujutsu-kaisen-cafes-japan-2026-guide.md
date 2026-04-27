@@ -5,8 +5,11 @@ date: "2026-04-06"
 lastUpdated: "2026-04-06"
 category: "cafes"
 tags: []
-featuredImage: "/images/articles/jujutsu-kaisen-cafes-japan-2026-guide/featured.jpg"
-featuredImageAlt: "Shibuya Crossing aerial view Tokyo featured in Jujutsu Kaisen anime"
+featuredImage: "/images/articles/jujutsu-kaisen-cafes-japan-2026-guide/hero.webp"
+featuredImageAlt: "Sweets Paradise Umeda storefront in Osaka — host venue for the Jujutsu Kaisen 5th Anniversary Cafe 2026, with the JJK collab key visual posted on the entrance"
+heroImage: "/images/articles/jujutsu-kaisen-cafes-japan-2026-guide/hero.webp"
+heroImageAlt: "Sweets Paradise Umeda storefront in Osaka with the Jujutsu Kaisen 5th Anniversary Cafe collab poster visible at the entrance"
+imageCredit: "Photo: Asanagi / Wikimedia Commons, CC BY-SA 4.0"
 author: "Takapon"
 excerpt: "Looking for the best Jujutsu Kaisen cafe in Japan in 2026? This practical guide compares Tokyo, Osaka, and other cities, with dates, reservation rules, and..."
 relatedSlugs: []
