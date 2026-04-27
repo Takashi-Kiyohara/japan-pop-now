@@ -24,25 +24,57 @@ export default function AffiliateDisclosure() {
       </h1>
       <div className="prose">
         <p>
-          Japan Pop Now is a participant in several affiliate programs, including
-          the Amazon Associates Program, Klook Affiliate Program, the Awin
-          network (which includes a number of Japan travel and retail advertisers),
-          and the GetYourGuide Partner Program.
+          <strong>Last updated: April 27, 2026.</strong> Japan Pop Now is a participant in
+          several affiliate programs, including the Amazon Associates Program, the Klook
+          Affiliate Program, the Agoda Partner Program, Booking.com Affiliate Partner
+          Program, the GetYourGuide Partner Program, the Viator Affiliate Network, and the
+          Awin network (which includes a number of Japan travel, retail, and lifestyle
+          advertisers). We are also working toward Google AdSense participation; that
+          relationship, when active, will be governed by AdSense&apos;s own policies in
+          addition to the rules we describe here.
         </p>
         <p>
-          This means we may earn a commission when you click on links to these
-          services and make a purchase or booking. This comes at no additional
-          cost to you and helps support the creation of free content on this site.
+          When you click an affiliate link on this site and complete a qualifying purchase
+          or booking, we may earn a small commission. This commission is paid by the
+          merchant or platform — it does not increase the price you pay, and it does not
+          change the products or experiences available to you. Commissions help fund the
+          on-the-ground reporting, photography, fact-checking, and hosting costs that keep
+          Japan Pop Now free for readers worldwide.
         </p>
+        <h2 style={{ fontFamily: 'var(--font-display), "Playfair Display", Georgia, serif', fontSize: '1.3rem', fontWeight: 700, color: '#14213d', marginTop: '24px', marginBottom: '8px' }}>
+          How we choose what to recommend
+        </h2>
         <p>
-          We only recommend products and services that we genuinely believe will
-          be helpful to anime fans and Japan travelers. Our editorial content is
-          not influenced by our affiliate partnerships.
+          Editorial integrity is non-negotiable. We only recommend products, hotels,
+          activities, and services that we have either personally used, verified against
+          official operator sources, or believe will genuinely help anime fans and pop
+          culture travelers in Japan. We do not accept payment in exchange for positive
+          coverage, and our editorial team reserves the right to mention competing
+          products, decline to feature a sponsor, or update guidance when conditions
+          change. If a recommendation no longer holds up — for example, a collab cafe
+          ends, a tour operator&apos;s rating drops, or a hotel&apos;s service quality
+          falls — we update or remove the affiliate link, even if it costs us revenue.
         </p>
+        <h2 style={{ fontFamily: 'var(--font-display), "Playfair Display", Georgia, serif', fontSize: '1.3rem', fontWeight: 700, color: '#14213d', marginTop: '24px', marginBottom: '8px' }}>
+          How affiliate links are marked
+        </h2>
         <p>
-          Affiliate links on this site are marked with a small badge or noted
-          in the surrounding text. If you have any questions about our affiliate
-          relationships, please contact us.
+          Affiliate links on this site are clearly marked. We add a short notice at the top
+          of every article that contains affiliate links, we use the
+          <code> rel=&quot;sponsored nofollow noopener&quot;</code> attribute on outbound
+          affiliate URLs, and we open them in a new tab. This is consistent with the U.S.
+          Federal Trade Commission&apos;s endorsement guidelines, the UK Advertising
+          Standards Authority CAP code, and Japan&apos;s Consumer Affairs Agency
+          (消費者庁) stealth-marketing rules that took effect in October 2023.
+        </p>
+        <h2 style={{ fontFamily: 'var(--font-display), "Playfair Display", Georgia, serif', fontSize: '1.3rem', fontWeight: 700, color: '#14213d', marginTop: '24px', marginBottom: '8px' }}>
+          Questions or concerns
+        </h2>
+        <p>
+          If you have any questions about our affiliate relationships, want to report a
+          broken or outdated link, or believe a piece of content is missing a disclosure,
+          please <a href="/contact" style={{ color: '#f97316', textDecoration: 'underline' }}>contact us</a>
+          {' '}— we read every message and update guidance promptly.
         </p>
       </div>
     </div>
