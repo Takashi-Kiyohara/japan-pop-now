@@ -44,7 +44,8 @@ Plan your Kamakura pilgrimage faster:
 
 ## Where Is the Famous Slam Dunk Train Crossing?
 
-![Where Is the Famous Slam Dunk Train Crossing? — Slam Dunk Kamakura Pilgrimage 2026](/images/articles/slam-dunk-kamakura-pilgrimage-2026/1.jpg)
+![Tourists photographing the Enoden 305 train at Kamakurakokomae No.1 Railroad Crossing — the famous Slam Dunk pilgrimage spot in Kamakura](/images/articles/slam-dunk-kamakura-pilgrimage-2026/1.jpg)
+*Photo: Yuya Tamai / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Level_crossing_near_the_Kamakura-K%C5%8Dk%C5%8D-Mae_Station_01.jpg), CC BY 2.0.*
 
 The crossing that launched a million pilgrimages is officially named Kamakurakokomae No.1 Railroad Crossing (éåé«æ ¡å1å·è¸å), located at Koegoe 1-1-25, Kamakura City, Kanagawa Prefecture. It sits where the Enoden railway line crosses a residential road with the Pacific Ocean directly behind it â that combination of train tracks, road, and open ocean is what makes the composition so recognizable from the anime’s opening credits.
 
