@@ -9,6 +9,7 @@ tags: ["blue-lock", "tokyo-skytree", "collab-cafe", "anime-exhibition", "2026-sp
 featuredImage: "/images/articles/blue-lock-tokyo-skytree-cafe-2026/featured.webp"
 featuredImageAlt: "Tokyo Skytree viewed from its ground-level base looking upward on a sunny day, Sumida ward"
 imageCredit: "Photo: Ruthsic via Wikimedia Commons (CC BY-SA 4.0)"
+imageNote: "Images show host venue Tokyo Skytree from public viewing angles — Blue Lock EPISODE SKY character lighting overlay + Akihabara Cafe Honpo themed interior + Shibuya EGOIST Exhibition photography pending. See docs/audit/collab-image-exhausted-20260427.md."
 relatedSlugs: ["tokyo-anime-collab-cafes-spring-2026", "how-to-book-anime-collab-cafe-japan", "akihabara-complete-guide-2026", "anime-day-trips-from-tokyo-2026"]
 excerpt: "Three Blue Lock events are running simultaneously in Tokyo right now — a Skytree observation deck takeover, an Akihabara collab cafe, and the EGOIST Exhibition finale in Shibuya. Here's how to hit all three in one day without wasting time or money."
 description: "Visit 3 Blue Lock events in Tokyo: Skytree collab (Apr 9-Jul 6), Akihabara cafe (Apr 15-May 24), and Shibuya exhibition (Apr 24-May 10). Tickets, menus, and ..."

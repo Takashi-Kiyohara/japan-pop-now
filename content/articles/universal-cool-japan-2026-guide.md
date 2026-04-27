@@ -7,6 +7,7 @@ category: "experiences"
 tags: []
 featuredImage: "/images/articles/universal-cool-japan-2026-guide/featured.jpg"
 featuredImageAlt: "Universal Studios Japan entrance area in Osaka"
+imageNote: "Body images show USJ general park areas — Cool Japan 2026 IP zone (Kimetsu/JJK/Frieren/Monster Hunter/Masquerade) photography pending. See docs/audit/collab-image-exhausted-20260427.md."
 author: "Takapon"
 excerpt: "Trying to decide whether Universal Cool Japan 2026 is worth adding to your Japan trip? This guide explains the lineup, event periods, and which experiences..."
 relatedSlugs: []

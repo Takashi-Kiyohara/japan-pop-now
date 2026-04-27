@@ -7,6 +7,7 @@ category: "experiences"
 tags: []
 featuredImage: "/images/articles/pokepark-kanto-tokyo-2026/hero-wikimedia.webp"
 featuredImageAlt: "Aerial view of Yomiuriland in Inagi, Tokyo — host venue of PokePark Kanto opened February 2026"
+imageNote: "Hero is aerial of Yomiuriland (host venue, but PokéPark gate not visible at scale); body images use Pokemon Center Mega Tokyo as visual proxy for Pokemon IP retail. PokéPark-specific photography pending Takapon visit. See docs/audit/collab-image-exhausted-20260427.md."
 author: "Takapon"
 excerpt: "PokéPark Kanto opened February 5, 2026 inside Yomiuriland — the world's first permanent outdoor Pokémon theme park. Dynamic-pricing tickets from ¥4,700 to ¥14,000+, advance-only reservations, and three zones across 2.6 hectares. Visitors who spend 5 hours still miss parts of Pokémon Forest."
 relatedSlugs: []

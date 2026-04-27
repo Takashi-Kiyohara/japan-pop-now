@@ -7,6 +7,7 @@ category: "experiences"
 tags: []
 featuredImage: "/images/articles/spy-family-tokyo-fan-day-2026/featured.jpg"
 featuredImageAlt: "Tokyo Skytree tower for SPY x FAMILY events and shops nearby"
+imageNote: "Hero & body show host venues (Skytree/Solamachi/Sunshine City) — collab-specific photography pending. See docs/audit/collab-image-exhausted-20260427.md."
 author: "Takapon"
 excerpt: "Last updated: April 2026 SPY×FAMILY Tokyo Fan Day: Events, Shops & Cafes SPY×FAMILY is everywhere in Tokyo right now. The anime has crossed over from obsessed..."
 relatedSlugs: []
