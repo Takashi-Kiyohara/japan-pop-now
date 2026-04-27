@@ -11,7 +11,7 @@ import { AUTHOR } from '@/lib/author';
 export const revalidate = 3600;
 
 export const metadata: Metadata = {
-  title: 'Anime Events & Collab Cafe Calendar Japan 2026 | Japan Pop Now',
+  title: { absolute: 'Anime Events & Collab Cafe Calendar Japan 2026 | Japan Pop Now' },
   description:
     'Browse every anime collab cafe, pop-up and themed event open across Japan in 2026. Filter by franchise, genre and city — direct links to official booking pages.',
   openGraph: {

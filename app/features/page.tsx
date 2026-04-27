@@ -4,11 +4,18 @@ import { FEATURES, type Feature } from '@/lib/features';
 import { getAllArticles } from '@/lib/articles';
 
 export const metadata: Metadata = {
-  title: 'Feature Series | Japan Pop Now',
+  title: { absolute: 'Feature Series | Japan Pop Now' },
   description:
     'Curated article series covering collab cafes, pilgrimage routes, Tokyo districts, and travel essentials for Japan pop culture fans.',
   alternates: {
     canonical: 'https://www.japan-pop-now.com/features',
+  },
+  openGraph: {
+    title: 'Feature Series | Japan Pop Now',
+    description:
+      'Curated article series covering collab cafes, pilgrimage routes, Tokyo districts, and travel essentials for Japan pop culture fans.',
+    url: 'https://www.japan-pop-now.com/features',
+    type: 'website',
   },
 };
 

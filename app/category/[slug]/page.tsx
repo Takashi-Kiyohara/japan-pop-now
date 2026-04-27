@@ -98,7 +98,7 @@ export async function generateMetadata({
   const categoryIsThin = articles.length === 0;
 
   return {
-    title: `${category.label} — Japan Pop Now`,
+    title: { absolute: `${category.label} — Japan Pop Now` },
     description: category.description || `Explore all articles about ${category.label.toLowerCase()} on Japan Pop Now.`,
     alternates: {
       canonical: categoryUrl,

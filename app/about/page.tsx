@@ -5,11 +5,18 @@ import { getAuthorSchema } from '@/lib/structured-data';
 import ArticleCard from '@/components/ArticleCard';
 
 export const metadata: Metadata = {
-  title: 'About Us — Meet the Japan Pop Now Team',
+  title: { absolute: 'About Us — Meet the Japan Pop Now Team' },
   description:
     'Learn about the team behind Japan Pop Now — your trusted guide to anime collab cafes, pilgrimage spots, and pop culture travel in Japan.',
   alternates: {
     canonical: 'https://www.japan-pop-now.com/about',
+  },
+  openGraph: {
+    title: 'About Us — Meet the Japan Pop Now Team',
+    description:
+      'Learn about the team behind Japan Pop Now — your trusted guide to anime collab cafes, pilgrimage spots, and pop culture travel in Japan.',
+    url: 'https://www.japan-pop-now.com/about',
+    type: 'website',
   },
 };
 

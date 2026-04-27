@@ -6,9 +6,15 @@ import type { Metadata } from 'next';
 // Google search and then seeing *our* search SERP is a bad loop.
 // Keep follow=true so crawlers still trace outbound article links.
 export const metadata: Metadata = {
-  title: 'Search — Japan Pop Now',
+  title: { absolute: 'Search — Japan Pop Now' },
   description: 'Search for anime collab cafes, pop culture events, destination guides, and experiences on Japan Pop Now.',
   alternates: { canonical: 'https://www.japan-pop-now.com/search' },
+  openGraph: {
+    title: 'Search — Japan Pop Now',
+    description: 'Search for anime collab cafes, pop culture events, destination guides, and experiences on Japan Pop Now.',
+    url: 'https://www.japan-pop-now.com/search',
+    type: 'website',
+  },
   robots: {
     index: false,
     follow: true,
