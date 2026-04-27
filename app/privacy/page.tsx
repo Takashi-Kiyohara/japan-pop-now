@@ -6,6 +6,12 @@ export const metadata: Metadata = {
   alternates: {
     canonical: 'https://www.japan-pop-now.com/privacy',
   },
+  openGraph: {
+    title: 'Privacy Policy | Japan Pop Now',
+    description: 'Privacy Policy for Japan Pop Now — how we collect, use, and protect your data.',
+    url: 'https://www.japan-pop-now.com/privacy',
+    type: 'website',
+  },
 };
 
 export default function PrivacyPage() {

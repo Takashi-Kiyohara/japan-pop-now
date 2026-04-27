@@ -6,6 +6,12 @@ export const metadata: Metadata = {
   alternates: {
     canonical: 'https://www.japan-pop-now.com/affiliate-disclosure',
   },
+  openGraph: {
+    title: 'Affiliate Disclosure | Japan Pop Now',
+    description: 'Affiliate disclosure for Japan Pop Now — how we earn commissions through affiliate partnerships.',
+    url: 'https://www.japan-pop-now.com/affiliate-disclosure',
+    type: 'website',
+  },
 };
 
 export default function AffiliateDisclosure() {
