@@ -1,0 +1,131 @@
+name: AI detection gate
+
+# Bucket C5 of v3 adoption — runs `scripts/ai-detection/check-article.ts`
+# on every changed `content/articles/*.mdx` in a PR. Fails the job (and
+# blocks the PR if this check is required in branch protection) when any
+# changed article scores composite >= 30.
+#
+# Threshold 30 is the SHIP / FIX_LAYER boundary defined in
+# `.claude/skills/jpn-anti-ai-detection/SKILL.md`. Re-tune after Bucket
+# C3 baseline calibration lands at `docs/research/human-baseline-20260428.json`.
+
+on:
+  pull_request:
+    branches: [main]
+    paths:
+      - 'content/articles/**'
+      - 'scripts/ai-detection/**'
+      - '.github/workflows/ai-detection-gate.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pull-requests: write
+
+jobs:
+  detect:
+    name: AI-detection score gate
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          fetch-depth: 0  # need merge-base for git diff against origin/main
+
+      - name: Setup Node
+        uses: actions/setup-node@39370e3970a6d050c480ffad4ff0ed4d3fdee5af # v4.1.0
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Find changed articles
+        id: changed
+        run: |
+          set -euo pipefail
+          # Compute merge-base against the PR's base branch (main).
+          BASE_SHA=$(git merge-base origin/main HEAD)
+          CHANGED=$(git diff --name-only --diff-filter=AMR "${BASE_SHA}" HEAD -- 'content/articles/*.mdx' 'content/articles/*.md' || true)
+          if [ -z "${CHANGED}" ]; then
+            echo "No article changes detected — gate is a no-op."
+            echo "files=" >> "${GITHUB_OUTPUT}"
+            exit 0
+          fi
+          echo "Articles to score:"
+          echo "${CHANGED}"
+          # Multi-line output via heredoc syntax
+          {
+            echo 'files<<EOF'
+            echo "${CHANGED}"
+            echo 'EOF'
+          } >> "${GITHUB_OUTPUT}"
+
+      - name: Score changed articles
+        if: steps.changed.outputs.files != ''
+        env:
+          THRESHOLD: '30'
+        run: |
+          set -uo pipefail
+          THRESHOLD="${THRESHOLD:-30}"
+          FAIL=0
+          REPORT_LINES=()
+          REPORT_LINES+=("# AI-detection gate report")
+          REPORT_LINES+=("")
+          REPORT_LINES+=("Threshold: composite >= ${THRESHOLD} fails the gate.")
+          REPORT_LINES+=("")
+          REPORT_LINES+=("| Article | Composite | Verdict | Dominant | L1 | L2 | L3 | L4 | L5 |")
+          REPORT_LINES+=("| --- | ---: | --- | --- | ---: | ---: | ---: | ---: | ---: |")
+
+          while IFS= read -r f; do
+            [ -z "$f" ] && continue
+            slug="$(basename "$f" | sed -E 's/\.(mdx|md)$//')"
+            # The script accepts either path or slug; pass the slug.
+            JSON=$(npx tsx scripts/ai-detection/check-article.ts "${slug}" --json 2>&1) || {
+              echo "::error file=${f}::Score script failed for ${slug}"
+              echo "${JSON}"
+              FAIL=1
+              continue
+            }
+            COMP=$(echo "${JSON}" | jq -r '.composite')
+            VERD=$(echo "${JSON}" | jq -r '.verdict')
+            DOM=$(echo "${JSON}" | jq -r '.dominantLayer')
+            L1=$(echo "${JSON}" | jq -r '.layer1.score')
+            L2=$(echo "${JSON}" | jq -r '.layer2.score')
+            L3=$(echo "${JSON}" | jq -r '.layer3.score')
+            L4=$(echo "${JSON}" | jq -r '.layer4.score')
+            L5=$(echo "${JSON}" | jq -r '.layer5.score')
+            REPORT_LINES+=("| ${slug} | ${COMP} | ${VERD} | L${DOM} | ${L1} | ${L2} | ${L3} | ${L4} | ${L5} |")
+            if [ "${COMP}" -ge "${THRESHOLD}" ]; then
+              echo "::warning file=${f}::AI-detection composite ${COMP} >= ${THRESHOLD} (verdict: ${VERD}, dominant L${DOM})"
+              FAIL=1
+            else
+              echo "${slug}: composite ${COMP} (${VERD}) — pass."
+            fi
+          done <<< "${{ steps.changed.outputs.files }}"
+
+          {
+            for line in "${REPORT_LINES[@]}"; do
+              echo "${line}"
+            done
+          } > ai-detection-report.md
+          echo "----- ai-detection-report.md -----"
+          cat ai-detection-report.md
+          echo "----- end report -----"
+
+          if [ "${FAIL}" -ne 0 ]; then
+            echo "::error::One or more changed articles failed the AI-detection gate (composite >= ${THRESHOLD})."
+            echo "::error::See ai-detection-report.md artifact and the per-article warnings above. Re-run after fixing the dominant layer."
+            exit 1
+          fi
+          echo "All changed articles passed the AI-detection gate."
+
+      - name: Upload report
+        if: always() && steps.changed.outputs.files != ''
+        uses: actions/upload-artifact@b4b15b8c7c6ac21ea08fcf65892d2ee8f75cf882 # v4.4.3
+        with:
+          name: ai-detection-report
+          path: ai-detection-report.md
+          if-no-files-found: ignore
+          retention-days: 14
