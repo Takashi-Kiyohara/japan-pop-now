@@ -35,7 +35,7 @@ Gachapon machines lined up at a Tokyo arcade
 ## What Is Gachapon? A Quick Primer
 The word *gachapon* comes from two sounds: *gacha* (the crank turning) and *pon* (the capsule dropping). You’ll also see it written as *gashapon* (Bandai’s trademark version) or just *gacha*. They all mean the same thing — coin-operated capsule toy dispensers.
 
-Japan has an estimated 600,000+ gachapon machines nationwide. The market hit 610 billion yen in 2023 and shows no sign of slowing down. What started as cheap toys for kids in the 1960s has evolved into a serious collectibles market. Today you’ll find gachapon featuring licensed anime characters, museum-quality miniature food replicas, functional phone accessories, and art pieces from independent designers.
+Japan has an estimated 600,000+ gachapon machines nationwide. The market hit 610 billion yen in 2023 and shows no sign of slowing down. What started as cheap toys for kids in the 1960s has evolved into a serious collectibles market. Today you’ll find gachapon featuring licensed anime characters, museum-quality miniature food replicas, functional phone accessories, and art pieces from independent designers. The two dominant brands behind these machines are [Bandai Gashapon](https://gashapon.jp/) — Bandai’s capsule toy division — and [Takara Tomy Arts](https://www.takaratomy-arts.co.jp/), whose gashapon line is currently observing its 60th anniversary with new collaboration product runs.
 
 The key difference from Western vending machines: Japanese gachapon almost always come in themed sets of 4 to 6 designs. Each capsule is random, so you might not get the one you want on the first try. Some machines show the complete lineup on a printed card attached to the front. That lineup card is your best friend — check it before you insert coins.
 
@@ -105,9 +105,9 @@ Collectible figures from gachapon machines
 Not all gachapon are created equal. These brands and series consistently deliver quality worth your coins.
 
 ### Top Gachapon Brands
-**Bandai (Gashapon)** — The biggest name in the game. Bandai’s capsule toy division produces most of the anime-licensed figures you’ll see. Their HG (High Grade) and Gashapon Collection lines are particularly good. If it’s a Jump manga character, Bandai probably has a gashapon version.
+**Bandai (Gashapon)** — The biggest name in the game. Bandai’s capsule toy division produces most of the anime-licensed figures you’ll see. Their HG (High Grade) and Gashapon Collection lines are particularly good. If it’s a Jump manga character, Bandai probably has a gashapon version. The full lineup with monthly release calendars lives at the [official Gashapon site](https://gashapon.jp/).
 
-**Takara Tomy Arts** — Known for clever, functional items. Their miniature appliance series (tiny working fans, miniature vending machines) went viral internationally. Also produces excellent animal figurine lines.
+**Takara Tomy Arts** — Known for clever, functional items. Their miniature appliance series (tiny working fans, miniature vending machines) went viral internationally. Also produces excellent animal figurine lines. See the official [Takara Tomy Arts gashapon portal](https://www.takaratomy-arts.co.jp/) for the current lineup, including the Panda’s Hole, Capsule Plarail, and PERIHAPI! brand strands.
 
 **Qualia** — The premium indie brand. Qualia makes miniature food replicas that are almost uncomfortably realistic. Their sushi and ramen lines are display-worthy. Typically 400-500 yen, but the quality justifies it.
 

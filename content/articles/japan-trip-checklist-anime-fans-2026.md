@@ -59,9 +59,9 @@ Book your JR Pass exchange voucher through authorized dealers—I’ve used [JR 
 ### Enter Anime Event Lotteries
 This is the non-negotiable step that separates prepared fans from disappointed ones. Three major events require lottery entries submitted 60 days in advance:
 
-**Comiket (Comic Market):** The world’s largest comic and anime convention, held in December and August. August 2026 Comiket runs August 9-11 at Tokyo Big Sight. Lottery entries for circle applications close in early June for August Comiket. Visitor registration is free but helps avoid lines. If you’re specifically coming to buy doujinshi (fan comics), submit your circle wishlist early so you can plan your booth route.
+**Comiket (Comic Market):** The world’s largest comic and anime convention, held in December and August. Comic Market 108 is scheduled for August 15-16, 2026 at Tokyo Big Sight, with Comic Market 109 following December 29-31, 2026 ([source: Comiket official site](https://www.comiket.co.jp/)). Lottery entries for circle applications close in early June for August Comiket. Visitor registration is free but helps avoid lines. If you’re specifically coming to buy doujinshi (fan comics), submit your circle wishlist early so you can plan your booth route.
 
-**AnimeJapan 2026:** Held March 21-24, 2026 at Odaiba (Tokyo Big Sight). This one has already passed for spring 2026, but for future trips, advance tickets are 2,500 yen (about 17 USD) and day-of tickets are 3,000 yen. Presale opens usually 4-6 weeks ahead. Get tickets through [Anime Japan’s official site](https://anime-japan.jp) or [PIA ticketing](https://ticket.pia.jp).
+**AnimeJapan 2026:** Held March 28-29, 2026 at Tokyo Big Sight ([source: AnimeJapan official EN site](https://www.anime-japan.jp/en/)). This one has already passed for spring 2026, but for future trips, advance tickets are 2,500 yen (about 17 USD) and day-of tickets are 3,000 yen. Presale opens usually 4-6 weeks ahead. Get tickets through [AnimeJapan’s official site](https://www.anime-japan.jp/en/) or [PIA ticketing](https://ticket.pia.jp). Note: AnimeJapan 2027 has been announced to relocate to Osaka — a first for the event ([source: AnimeJapan official EN site](https://www.anime-japan.jp/en/)).
 
 **Anime Japan Regional Events:** Throughout the year, smaller anime expos pop up in Osaka, Nagoya, and Fukuoka. Check the official event calendar to see if anything aligns with your dates. These are less crowded than Comiket and AnimeJapan.
 
@@ -152,7 +152,7 @@ Beyond collab cafes, Tokyo has restaurants specifically decorated with anime the
 I recommend making reservations for any themed restaurant where ambiance is half the appeal, but being flexible for casual ramen shops.
 
 ### Book Studio Tours
-Ghibli Museum in Mitaka (30 minutes west of central Tokyo) is the most popular anime studio tour, and it requires advance tickets. Tickets go on sale the first of every month for visits 4-6 weeks ahead, and they sell out within 1-3 days. The museum was closed for renovation until March 2026 and is operating at reduced capacity through mid-2026, so book the moment tickets release. Tickets are 1,000 yen for adults (about 7 USD) and only available through [the official Ghibli Museum site](https://www.ghibli.jp) (Japanese-only, but straightforward to get around).
+Ghibli Museum in Mitaka (30 minutes west of central Tokyo) is the most popular anime studio tour, and it requires advance tickets. Tickets go on sale the first of every month for visits 4-6 weeks ahead, and they sell out within 1-3 days. The museum was closed for renovation until March 2026 and is operating at reduced capacity through mid-2026, so book the moment tickets release. Tickets are 1,000 yen for adults (about 7 USD) and only available through [the official Ghibli Museum site](https://www.ghibli-museum.jp/en/) ([source: Ghibli Museum official EN site](https://www.ghibli-museum.jp/en/)).
 
 Alternative studio tours with better availability:
 

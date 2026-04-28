@@ -3,6 +3,7 @@ title: "My Hero Academia Cafe Tokyo 2026: Ikebukuro Guide for Anime Travelers"
 description: "My Hero Academia Cafe Ikebukuro 2026 guide: dates, why Ikebukuro is the best base, and how to turn the visit into a full hero-themed day."
 date: "2026-04-06"
 lastUpdated: "2026-04-06"
+validUntil: "2026-04-27"
 category: "cafes"
 tags: []
 featuredImage: "/images/articles/my-hero-academia-cafe-tokyo-2026/featured.jpg"

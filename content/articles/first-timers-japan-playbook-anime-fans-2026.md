@@ -51,7 +51,7 @@ This playbook is what I wish someone had handed me on my first Tokyo trip. It co
 
 Here is the exact order I give friends landing at either airport:
 
-1. **Immigration and baggage claim (30-50 min).** Have your QR code from Visit Japan Web ready on your phone. The paper arrival card is being phased out.
+1. **Immigration and baggage claim (30-50 min).** Have your QR code from [Visit Japan Web](https://www.digital.go.jp/en/) ready on your phone — the [Digital Agency](https://www.digital.go.jp/en/) operates this entry portal as the official immigration and customs declaration channel. The paper arrival card is being phased out.
 2. **ATM before you exit the arrivals hall (5 min).** Pull 30,000 to 50,000 yen from a 7-Bank or Japan Post ATM. Both accept foreign cards. Airport currency-exchange counters give you a worse rate.
 3. **SIM or pocket wifi pickup (10 min).** If you pre-ordered an eSIM you are done in 2 minutes. If you booked pocket wifi, pick up at the Ninja WiFi or Japan Wireless counter.
 4. **IC card (10 min).** Buy a Welcome Suica or PASMO Passport at the JR East Travel Service Center. Or enable a mobile Suica on your phone at your seat before you even stand up — this takes 90 seconds in the Apple Wallet or Google Wallet and skips every queue.
@@ -70,7 +70,7 @@ Here is the seven-item booking list I send friends two to four weeks before they
 
 - **Accommodation in the right neighborhood.** For anime fans, the winners are Akihabara, Ikebukuro, Shibuya, and Shinjuku. Sleeping in Asakusa or Ginza is pretty but puts 25 minutes of commute between you and every shop or cafe you came for.
 - **eSIM or pocket wifi.** An eSIM is faster. See our [eSIM and pocket wifi comparison](/articles/japan-esim-pocket-wifi-sim-card) for the three plans I actually recommend.
-- **JR Pass — only if it pays off.** The 7-day JR Pass was 50,000 yen as of November 2024. It only pays off if you are doing a Tokyo to Kyoto round trip plus Osaka, or heavy anime pilgrimage travel. Our [JR Pass 2026 guide](/articles/japan-rail-pass-2026-guide) has a break-even calculator.
+- **JR Pass — only if it pays off.** The 7-day JR Pass was 50,000 yen as of November 2024 per [japanrailpass.net](https://www.japanrailpass.net/en/). It only pays off if you are doing a Tokyo to Kyoto round trip plus Osaka, or heavy anime pilgrimage travel. Our [JR Pass 2026 guide](/articles/japan-rail-pass-2026-guide) has a break-even calculator.
 - **Collab cafe reservations.** Most Tokyo anime collab cafes open bookings 2 to 4 weeks ahead and fill up in under an hour. The Japanese-only reservation flow is the single biggest blocker for international fans. See our [collab cafe booking guide](/articles/how-to-book-anime-collab-cafe-japan).
 - **Airport transfer (optional).** Narita Express ticket in advance if you do not have a JR Pass. Skyliner tickets are cheaper through Klook.
 - **Theme park tickets.** Tokyo Disney, USJ (for Universal Cool Japan), Ghibli Park — all sell out the popular dates. Ghibli Park in particular releases a month out at 2 PM JST.
@@ -120,7 +120,7 @@ The biggest lie told about Japan online is that it is suddenly a cashless countr
 I keep this as a single list because it is exactly what I paste to every friend before they fly:
 
 - Valid passport with 6+ months remaining
-- Visit Japan Web QR code ready
+- [Visit Japan Web](https://www.digital.go.jp/en/) QR code ready
 - eSIM installed but not activated (activate on arrival)
 - Accommodation confirmations printed and saved offline
 - Collab cafe reservations with confirmation codes on a single page

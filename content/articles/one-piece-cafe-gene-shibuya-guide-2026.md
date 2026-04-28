@@ -3,6 +3,7 @@ title: "One Piece Cafe GENE Shibuya 2026: Real Visitor Guide"
 description: "One Piece Cafe GENE at Shibuya PARCO — reservation, Phase 2 menu with prices, skull bowl ramen, birthday cards, and tips for international visitors."
 date: "2026-04-14"
 lastUpdated: "2026-04-14"
+validUntil: "2026-05-19"
 category: "cafes"
 tags: ["one-piece", "shibuya", "2026-spring", "limited-time"]
 featuredImage: "/images/articles/one-piece-cafe-gene-shibuya-guide-2026/moe-featured.jpg"

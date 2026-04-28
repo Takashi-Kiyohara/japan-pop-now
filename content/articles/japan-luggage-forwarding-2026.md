@@ -31,7 +31,7 @@ Takuhaibin is the third option. It’s Japan’s domestic luggage forwarding sys
 But here’s the honest part: if you’re staying in one place the whole trip, or you’re only visiting Tokyo for 3 days, luggage forwarding probably costs more than it saves. We’ll show you exactly when to use it and when to just manage your bags.
 
 ## What Is Takuhaibin, Exactly?
-Takuhaibin (宅配便, literally “home delivery convenience”) is Japan’s parcel delivery system. Yamato Transport (Kuroneko, the black cat company) controls about 40% of the market. Sagawa Express and Japan Post are the other big players.
+Takuhaibin (宅配便, literally “home delivery convenience”) is Japan’s parcel delivery system. [Yamato Transport](https://www.kuronekoyamato.co.jp/en/) (Kuroneko, the black cat company) controls about 40% of the market. [Sagawa Express](https://www.sagawa-exp.co.jp/english/) and Japan Post are the other big players. Yamato's English site lists "Hands-Free Travel" as one of three main service categories ([source: Yamato Transport English site](https://www.kuronekoyamato.co.jp/en/)) — a tourist-targeted program built around the takkyubin process described below.
 
 For travelers, it means: you drop your suitcase at a hotel, convenience store, or train station. It gets picked up, sorted, and delivered to your next hotel by tomorrow or the next morning. Cost per suitcase: ¥2,000-3,000 ($13-20). Simple, reliable, no customs nonsense (domestic only).
 
@@ -41,7 +41,7 @@ For travelers, it means: you drop your suitcase at a hotel, convenience store, o
 ## The Main Players: Yamato, Sagawa, JAL ABC
 
 ### Yamato Transport (Kuroneko/クロネコヤマト) — The Default Choice
-**Market share:** ~40% of Japan’s parcel market. Easiest to recognize (black cat logo). Available at most hotels, train stations, and convenience stores.
+**Market share:** ~40% of Japan’s parcel market. Easiest to recognize (black cat logo). Available at most hotels, train stations, and convenience stores ([source: Yamato Transport official site](https://www.kuronekoyamato.co.jp/en/)).
 
 **Strengths:**
 
@@ -64,6 +64,8 @@ For travelers, it means: you drop your suitcase at a hotel, convenience store, o
 *A Sagawa Express Isuzu Elf truck in Sapporo — the budget alternative to Yamato for Kansai-route luggage forwarding. Photo: Ominae / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Isuzu_Elf_Sagawa_truck_in_Sapporo.jpg), CC BY-SA 4.0.*
 
 ### Sagawa Express (佐川急便) — The Budget Alternative
+[Sagawa Express](https://www.sagawa-exp.co.jp/english/) is the second-largest takuhaibin carrier and offers an English-language service portal for package tracking and pickup ([source: Sagawa Express English site](https://www.sagawa-exp.co.jp/english/)).
+
 **Strengths:**
 
 - Often ¥200-500 cheaper than Yamato for long distances
@@ -156,8 +158,8 @@ Payment is usually at checkout or billed to your room. Hand your suitcase to sta
 
 **Cons:** Lockers fill up fast during peak hours. Not available for multi-day storage.
 
-### Luggage Storage Apps (ecbo cloak, Carely) — ¥500-1,500/day
-**What they do:** Partner with local businesses (hotels, restaurants, shops) to store luggage in their back room. You book via app, drop off, and pick up later.
+### Luggage Storage Apps ([ecbo cloak](https://cloak.ecbo.io/en), Carely) — ¥500-1,500/day
+**What they do:** Partner with local businesses (hotels, restaurants, shops) to store luggage in their back room. You book via app, drop off, and pick up later ([source: ecbo cloak official site](https://cloak.ecbo.io/en)).
 
 **Best for:** Storing bags for just a few hours while you explore a city before checking into your next hotel.
 

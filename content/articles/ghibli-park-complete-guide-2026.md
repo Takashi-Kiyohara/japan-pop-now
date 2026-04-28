@@ -61,15 +61,15 @@ Tickets go on sale on the 10th of each month at 14:00 JST (Japan Standard Time) 
 You have three booking options as an international visitor:
 
 ### Option 1: Official International Booking Site (Free)
-Ghibli Park’s official site has an English-language overseas purchase page at ghibli-park.jp/en/ticket/. You’ll need a valid passport number at booking, and you’ll show that passport at the gate. The overseas page typically offers fewer time slots than the domestic version — usually two entry windows per day rather than the hourly slots available to Japanese residents. International credit cards are accepted.
+Ghibli Park’s official site has an English-language overseas purchase page at [ghibli-park.jp/en/ticket/](https://ghibli-park.jp/en/ticket/) ([source: official Ghibli Park English ticket page](https://ghibli-park.jp/en/ticket/)). You’ll need a valid passport number at booking, and you’ll show that passport at the gate. The overseas page typically offers fewer time slots than the domestic version — usually two entry windows per day rather than the hourly slots available to Japanese residents. International credit cards are accepted.
 
-The catch: this page opens at the same 14:00 JST window as domestic tickets, and competition is fierce. If you’re in a timezone where 14:00 JST is the middle of the night, set an alarm. I’ve seen weekend dates sell out in under 90 minutes.
+The catch: this page opens at the same 14:00 JST window as domestic tickets, and competition is fierce. The official site’s recent notice confirms this cadence: "Reservations for July 2026 will go on sale May 10th 2026 at 2 p.m. (Japan standard time)" ([source: Ghibli Park official EN site](https://ghibli-park.jp/en/)). If you’re in a timezone where 14:00 JST is the middle of the night, set an alarm. I’ve seen weekend dates sell out in under 90 minutes.
 
 ### Option 2: Klook (Affiliate Partner — Sometimes Available When Official Is Sold Out)
 [Klook](https://affiliate.klook.com/redirect?aid=117469&aff_adid=1251547&k_site=https%3A%2F%2Fwww.klook.com%2F) sells Ghibli Park tickets as part of package deals, sometimes including round-trip transport from Nagoya Station. Packages run around ¥27,000 (~$184) including tickets and transport. The main advantage: Klook sometimes has availability for dates that show sold out on the official site, because they hold a separate allocation. Booking is in English with full international card support.
 
 ### Option 3: Boo-Woo Ticket / Lawson Ticket (Japanese System)
-The domestic ticketing platform at l-tike.com handles the bulk of ticket sales. It works with some international credit cards (Mastercard has the best success rate in my experience), but the interface is in Japanese. If you’re comfortable with browser auto-translate and have tried the other options first, this can be a last resort. You can also buy through Loppi kiosks at any Lawson convenience store in Japan — but only after you’ve arrived.
+The domestic ticketing platform at [l-tike.com](https://l-tike.com/) ([source: Lawson Ticket](https://l-tike.com/)) handles the bulk of ticket sales. It works with some international credit cards (Mastercard has the best success rate in my experience), but the interface is in Japanese. If you’re comfortable with browser auto-translate and have tried the other options first, this can be a last resort. You can also buy through Loppi kiosks at any Lawson convenience store in Japan — but only after you’ve arrived.
 
 One purchase limit applies: maximum 6 tickets per transaction, and you’re limited to one purchase per month per ticket type.
 
@@ -124,7 +124,7 @@ There’s no direct train from Tokyo to Ghibli Park. The fastest route goes thro
 
 The JR Pass covers the shinkansen leg (Tokyo to Nagoya), which saves you ¥22,600 on the round trip alone. If you’re visiting Ghibli Park as part of a broader Japan trip, the [Japan Rail Pass](/articles/japan-rail-pass-2026-guide) pays for itself on this route. The subway and Linimo portions aren’t covered by JR Pass — use your [IC card](/articles/japan-ic-card-transit-guide) for those.
 
-A direct bus also runs from Nagoya Station’s Meitetsu Bus Center (4th floor, Platform 24) to the park, taking about 40 minutes. There are 7-10 departures daily — check schedules at the bus center or Meitetsu’s website.
+A direct bus also runs from Nagoya Station’s Meitetsu Bus Center (4th floor, Platform 24) to the park, taking about 40 minutes. The official directions page lists 9 weekday departures and 10 on weekends/holidays ([source: Ghibli Park official directions](https://ghibli-park.jp/en/directions/)) — check schedules at the bus center or Meitetsu’s website.
 
 ### From Nagoya Station: Subway + Linimo (about 45 minutes)
 Take the Higashiyama Line (yellow line) from Nagoya Station toward Fujigaoka. At Fujigaoka, transfer to the Linimo (an elevated maglev train) and ride it to Ai-Chikyuhaku-Kinen-Koen Station (愛・地球博記念公園駅). Total cost: ¥630. Linimo runs every 10-15 minutes during the day. The park entrance is a short walk from the station.

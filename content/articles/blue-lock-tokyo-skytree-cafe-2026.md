@@ -3,6 +3,7 @@ title: "Blue Lock Tokyo 2026: Skytree, Cafe & Exhibition Guide"
 slug: "blue-lock-tokyo-skytree-cafe-2026"
 date: "2026-04-22"
 lastUpdated: "2026-04-22"
+validUntil: "2026-07-07"
 author: "Takapon"
 category: "experiences"
 tags: ["blue-lock", "tokyo-skytree", "collab-cafe", "anime-exhibition", "2026-spring", "akihabara", "shibuya"]

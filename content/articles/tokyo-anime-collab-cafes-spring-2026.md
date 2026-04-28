@@ -2,7 +2,12 @@
 title: "Tokyo Anime Collab Cafes Spring 2026: 12 Open, Map & Booking"
 description: "Updated weekly. Every anime collaboration cafe in Tokyo for Spring 2026: JJK PLAZA, One Piece Cafe GENE, My Dress-Up Darling, and more. Dates, locations,..."
 date: "2026-03-25"
+<<<<<<< HEAD
 lastUpdated: "2026-04-29"
+=======
+lastUpdated: "2026-03-25"
+validUntil: "2026-05-31"
+>>>>>>> 70980b3 (content(v3 phase 3): B1 Tier A citation + B2 validUntil sweep)
 category: "cafes"
 tags: []
 featuredImage: "/images/articles/tokyo-anime-collab-cafes-spring-2026/featured.jpg"
