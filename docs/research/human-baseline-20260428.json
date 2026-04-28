@@ -1,0 +1,1417 @@
+{
+  "computedAt": "2026-04-28",
+  "corpus": {
+    "file": ".tmp/pre-ai-corpus/*.txt",
+    "sourceListDoc": "docs/research/pre-ai-corpus-20260428.md",
+    "articleCount": 131,
+    "totalWords": 299544,
+    "sourceBreakdown": {
+      "atlas-obscura": 16,
+      "natgeo": 11,
+      "wayback": 10,
+      "wikivoyage": 93,
+      "other": 1
+    }
+  },
+  "methodology": {
+    "direction": "For sentence-length CV / MATTR-50 / burstiness / paragraph-length CV: HIGHER = more human-like (variance, lexical diversity). For 4-gram repetition: HIGHER = more AI-like.",
+    "thresholds": "AI-flag at 2σ from human mean (in the AI-direction); borderline at 1σ; human-target straddles the mean.",
+    "caveat": "Travel-writing register only. Calibrate separately for academic prose, journalism, technical writing."
+  },
+  "distributions": {
+    "sentenceLengthCV": {
+      "n": 131,
+      "mean": 0.5088,
+      "std": 0.1006,
+      "min": 0,
+      "max": 1.1786,
+      "p10": 0.4237,
+      "p50": 0.4978,
+      "p90": 0.6024
+    },
+    "mattr50": {
+      "n": 131,
+      "mean": 0.8992,
+      "std": 0.0268,
+      "min": 0.8469,
+      "max": 0.9758,
+      "p10": 0.8629,
+      "p50": 0.8957,
+      "p90": 0.9388
+    },
+    "fourGramRepeatsPer1500": {
+      "n": 131,
+      "mean": 3.7649,
+      "std": 8.5778,
+      "min": 0,
+      "max": 81.6435,
+      "p10": 0,
+      "p50": 1.6216,
+      "p90": 7.4875
+    },
+    "burstiness": {
+      "n": 131,
+      "mean": 50.8767,
+      "std": 10.0643,
+      "min": 0,
+      "max": 117.8586,
+      "p10": 42.3712,
+      "p50": 49.7828,
+      "p90": 60.2416
+    },
+    "paragraphLengthCV": {
+      "n": 131,
+      "mean": 0.5746,
+      "std": 0.15,
+      "min": 0,
+      "max": 1.0962,
+      "p10": 0.3978,
+      "p50": 0.5828,
+      "p90": 0.7495
+    }
+  },
+  "calibratedThresholds": {
+    "sentenceLengthCV": {
+      "ai": 0.3076,
+      "borderline": 0.4082,
+      "humanMin": 0.4585,
+      "humanMax": 0.6597
+    },
+    "mattr50": {
+      "ai": 0.8456,
+      "borderline": 0.8724,
+      "humanMin": 0.8858,
+      "humanMax": 0.9394
+    },
+    "burstiness": {
+      "ai": 30.7481,
+      "borderline": 40.8124,
+      "humanMin": 45.8445,
+      "humanMax": 65.9732
+    },
+    "paragraphLengthCV": {
+      "ai": 0.2746,
+      "borderline": 0.4246,
+      "humanMin": 0.4996,
+      "humanMax": 0.7996
+    },
+    "fourGramRepeatsPer1500": {
+      "humanMin": -9.1018,
+      "humanMax": 8.0538,
+      "borderline": 12.3427,
+      "ai": 20.9205
+    }
+  },
+  "perArticle": [
+    {
+      "filename": "atlas-obscura-ainu-restaurants-tokyo.txt",
+      "wordCount": 1248,
+      "sentenceCount": 45,
+      "sentenceLengthCV": 0.5891956722964806,
+      "mattr50": 0.91821862348178,
+      "fourGramRepeatsPer1500": 0,
+      "burstiness": 58.91956722964806,
+      "paragraphLengthCV": 0.26910681682345633
+    },
+    {
+      "filename": "atlas-obscura-american-ancients-ten-united-states-archaeological-mysteries.txt",
+      "wordCount": 1100,
+      "sentenceCount": 47,
+      "sentenceLengthCV": 0.4281996949576468,
+      "mattr50": 0.9337931034482762,
+      "fourGramRepeatsPer1500": 0,
+      "burstiness": 42.81996949576468,
+      "paragraphLengthCV": 0.3236048669496859
+    },
+    {
+      "filename": "atlas-obscura-ancient-sudan-archaeology-tombos.txt",
+      "wordCount": 847,
+      "sentenceCount": 40,
+      "sentenceLengthCV": 0.4745714803807929,
+      "mattr50": 0.9397160243407687,
+      "fourGramRepeatsPer1500": 0,
+      "burstiness": 47.45714803807929,
+      "paragraphLengthCV": 0.4131056415496781
+    },
+    {
+      "filename": "atlas-obscura-can-you-visit-inaccessible-island.txt",
+      "wordCount": 1629,
+      "sentenceCount": 73,
+      "sentenceLengthCV": 0.5725343243145501,
+      "mattr50": 0.8903696098562672,
+      "fourGramRepeatsPer1500": 0,
+      "burstiness": 57.25343243145501,
+      "paragraphLengthCV": 0.41000558128867054
+    },
+    {
+      "filename": "atlas-obscura-hell-steaming.txt",
+      "wordCount": 1284,
+      "sentenceCount": 43,
+      "sentenceLengthCV": 0.6557173009595876,
+      "mattr50": 0.925760197775033,
+      "fourGramRepeatsPer1500": 1,
+      "burstiness": 65.57173009595876,
+      "paragraphLengthCV": 0.3239189350270644
+    },
+    {
+      "filename": "atlas-obscura-how-to-build-island.txt",
+      "wordCount": 1082,
+      "sentenceCount": 50,
+      "sentenceLengthCV": 0.596069338693577,
+      "mattr50": 0.9488958009331279,
+      "fourGramRepeatsPer1500": 0,
+      "burstiness": 59.606933869357704,
+      "paragraphLengthCV": 0.2711613187293203
+    },
+    {
+      "filename": "atlas-obscura-remote-sensing-archaeology-irish-fort.txt",
+      "wordCount": 488,
+      "sentenceCount": 17,
+      "sentenceLengthCV": 0.5427426687026249,
+      "mattr50": 0.9247843137254895,
+      "fourGramRepeatsPer1500": 0,
+      "burstiness": 54.27426687026249,
+      "paragraphLengthCV": 0.7812122225625334
+    },
+    {
+      "filename": "atlas-obscura-ruins-worth-the-trip.txt",
+      "wordCount": 500,
+      "sentenceCount": 22,
+      "sentenceLengthCV": 0.4692129146934987,
+      "mattr50": 0.9224999999999992,
+      "fourGramRepeatsPer1500": 0,
+      "burstiness": 46.92129146934987,
+      "paragraphLengthCV": 0.742285166544752
+    },
+    {
+      "filename": "atlas-obscura-south-americas-hidden-wonders-revisited.txt",
+      "wordCount": 440,
+      "sentenceCount": 17,
+      "sentenceLengthCV": 0.5992541151710872,
+      "mattr50": 0.9183111111111104,
+      "fourGramRepeatsPer1500": 2,
+      "burstiness": 59.92541151710872,
+      "paragraphLengthCV": 0.573669241649134
+    },
+    {
+      "filename": "atlas-obscura-taxes-gifts.txt",
+      "wordCount": 670,
+      "sentenceCount": 34,
+      "sentenceLengthCV": 0.5728788831405722,
+      "mattr50": 0.9372750642673519,
+      "fourGramRepeatsPer1500": 0,
+      "burstiness": 57.28788831405722,
+      "paragraphLengthCV": 0.35759113888787336
+    },
+    {
+      "filename": "atlas-obscura-the-texas-archaeological-discovery-that-reframed-human-history.txt",
+      "wordCount": 748,
+      "sentenceCount": 24,
+      "sentenceLengthCV": 0.35711655570595785,
+      "mattr50": 0.9316431924882621,
+      "fourGramRepeatsPer1500": 2,
+      "burstiness": 35.71165557059579,
+      "paragraphLengthCV": 0.2996336407738003
+    },
+    {
+      "filename": "atlas-obscura-three-obscure-days-in-los-angeles.txt",
+      "wordCount": 1345,
+      "sentenceCount": 59,
+      "sentenceLengthCV": 0.36828268400495734,
+      "mattr50": 0.9388958594730277,
+      "fourGramRepeatsPer1500": 0,
+      "burstiness": 36.82826840049573,
+      "paragraphLengthCV": 0.3403734383363025
+    },
+    {
+      "filename": "atlas-obscura-train-food.txt",
+      "wordCount": 459,
+      "sentenceCount": 20,
+      "sentenceLengthCV": 0.45622167726597185,
+      "mattr50": 0.9171942446043169,
+      "fourGramRepeatsPer1500": 0,
+      "burstiness": 45.62216772659718,
+      "paragraphLengthCV": 0.3848141381734419
+    },
+    {
+      "filename": "atlas-obscura-tristan-da-cunha-marine-protected-area.txt",
+      "wordCount": 1081,
+      "sentenceCount": 42,
+      "sentenceLengthCV": 0.5646136917782046,
+      "mattr50": 0.9331066460587304,
+      "fourGramRepeatsPer1500": 2,
+      "burstiness": 56.461369177820465,
+      "paragraphLengthCV": 0.4017945926881951
+    },
+    {
+      "filename": "atlas-obscura-what-makes-an-island.txt",
+      "wordCount": 626,
+      "sentenceCount": 28,
+      "sentenceLengthCV": 0.6709776580556479,
+      "mattr50": 0.9232047477744781,
+      "fourGramRepeatsPer1500": 0,
+      "burstiness": 67.09776580556479,
+      "paragraphLengthCV": 0.26387506257933574
+    },
+    {
+      "filename": "atlas-obscura-wild-israel-nature-in-unexpected-places.txt",
+      "wordCount": 452,
+      "sentenceCount": 20,
+      "sentenceLengthCV": 0.3649009202257195,
+      "mattr50": 0.9291914893617008,
+      "fourGramRepeatsPer1500": 12,
+      "burstiness": 36.49009202257195,
+      "paragraphLengthCV": 0.6818480554682911
+    },
+    {
+      "filename": "natgeo-5-pandemic-tech-innovations-that-will-change-travel-forever.txt",
+      "wordCount": 1526,
+      "sentenceCount": 63,
+      "sentenceLengthCV": 0.5728908188700863,
+      "mattr50": 0.9437412935323444,
+      "fourGramRepeatsPer1500": 0,
+      "burstiness": 57.28908188700863,
+      "paragraphLengthCV": 0.5420530560759762
+    },
+    {
+      "filename": "natgeo-best-food-tours-around-world.txt",
+      "wordCount": 1208,
+      "sentenceCount": 54,
+      "sentenceLengthCV": 0.5881039166253355,
+      "mattr50": 0.9413123359580069,
+      "fourGramRepeatsPer1500": 1,
+      "burstiness": 58.81039166253355,
+      "paragraphLengthCV": 0.6254607792315164
+    },
+    {
+      "filename": "natgeo-best-of-the-world-2021.txt",
+      "wordCount": 2891,
+      "sentenceCount": 112,
+      "sentenceLengthCV": 0.6067510939898431,
+      "mattr50": 0.9436791443850512,
+      "fourGramRepeatsPer1500": 0.781657113079729,
+      "burstiness": 60.675109398984304,
+      "paragraphLengthCV": 0.6366831867052541
+    },
+    {
+      "filename": "natgeo-best-of-the-world-2022.txt",
+      "wordCount": 2908,
+      "sentenceCount": 122,
+      "sentenceLengthCV": 0.47629449993195033,
+      "mattr50": 0.9392158859470684,
+      "fourGramRepeatsPer1500": 0.7451564828614009,
+      "burstiness": 47.62944999319503,
+      "paragraphLengthCV": 0.3657943146402929
+    },
+    {
+      "filename": "natgeo-best-trips-2020-1.txt",
+      "wordCount": 2952,
+      "sentenceCount": 119,
+      "sentenceLengthCV": 0.48960334635593644,
+      "mattr50": 0.9403933434190808,
+      "fourGramRepeatsPer1500": 14.763779527559056,
+      "burstiness": 48.96033463559365,
+      "paragraphLengthCV": 0.8716380275165785
+    },
+    {
+      "filename": "natgeo-classic-tips-travel-smarter-almanac.txt",
+      "wordCount": 566,
+      "sentenceCount": 30,
+      "sentenceLengthCV": 0.5008147407541699,
+      "mattr50": 0.9409150326797381,
+      "fourGramRepeatsPer1500": 0,
+      "burstiness": 50.081474075416985,
+      "paragraphLengthCV": 0.49910932656759394
+    },
+    {
+      "filename": "natgeo-how-to-travel-sustainably-in-new-year.txt",
+      "wordCount": 2770,
+      "sentenceCount": 139,
+      "sentenceLengthCV": 0.5256091147605362,
+      "mattr50": 0.9622805970149445,
+      "fourGramRepeatsPer1500": 0,
+      "burstiness": 52.56091147605362,
+      "paragraphLengthCV": 0.3977896840114226
+    },
+    {
+      "filename": "natgeo-meals-food-eat-around-the-world.txt",
+      "wordCount": 1321,
+      "sentenceCount": 69,
+      "sentenceLengthCV": 0.5257897601992547,
+      "mattr50": 0.9171283354510807,
+      "fourGramRepeatsPer1500": 0,
+      "burstiness": 52.57897601992547,
+      "paragraphLengthCV": 0.6960596669783768
+    },
+    {
+      "filename": "natgeo-sustainable-travel-coronavirus.txt",
+      "wordCount": 1617,
+      "sentenceCount": 82,
+      "sentenceLengthCV": 0.5264092691951373,
+      "mattr50": 0.9104944500504573,
+      "fourGramRepeatsPer1500": 0,
+      "burstiness": 52.64092691951373,
+      "paragraphLengthCV": 0.581869144213955
+    },
+    {
+      "filename": "natgeo-top-travel-trends-in-2020.txt",
+      "wordCount": 1645,
+      "sentenceCount": 61,
+      "sentenceLengthCV": 0.617347927667082,
+      "mattr50": 0.930047125353441,
+      "fourGramRepeatsPer1500": 2,
+      "burstiness": 61.7347927667082,
+      "paragraphLengthCV": 0.6587117688759155
+    },
+    {
+      "filename": "natgeo-worlds-best-food-destinations.txt",
+      "wordCount": 2930,
+      "sentenceCount": 97,
+      "sentenceLengthCV": 0.5742703273830035,
+      "mattr50": 0.9735593220339129,
+      "fourGramRepeatsPer1500": 0.751503006012024,
+      "burstiness": 57.427032738300355,
+      "paragraphLengthCV": 0.3354649782638471
+    },
+    {
+      "filename": "wayback-alexinwanderland-four-years.txt",
+      "wordCount": 2526,
+      "sentenceCount": 133,
+      "sentenceLengthCV": 0.6024161720586877,
+      "mattr50": 0.9341966759002919,
+      "fourGramRepeatsPer1500": 0,
+      "burstiness": 60.24161720586877,
+      "paragraphLengthCV": 0.4668641357839016
+    },
+    {
+      "filename": "wayback-alexinwanderland-promise-land.txt",
+      "wordCount": 2835,
+      "sentenceCount": 123,
+      "sentenceLengthCV": 0.7119504050600448,
+      "mattr50": 0.9428762949421244,
+      "fourGramRepeatsPer1500": 0.8875739644970414,
+      "burstiness": 71.19504050600447,
+      "paragraphLengthCV": 0.6307549377287368
+    },
+    {
+      "filename": "wayback-alexinwanderland-travel-plans-2020.txt",
+      "wordCount": 2122,
+      "sentenceCount": 83,
+      "sentenceLengthCV": 0.6067967415306748,
+      "mattr50": 0.9309273182957473,
+      "fourGramRepeatsPer1500": 0,
+      "burstiness": 60.679674153067474,
+      "paragraphLengthCV": 0.44255313882016145
+    },
+    {
+      "filename": "wayback-japanstartshere-about.txt",
+      "wordCount": 576,
+      "sentenceCount": 21,
+      "sentenceLengthCV": 0.4100179000957157,
+      "mattr50": 0.8807189542483651,
+      "fourGramRepeatsPer1500": 1,
+      "burstiness": 41.00179000957157,
+      "paragraphLengthCV": 0.45736058123637147
+    },
+    {
+      "filename": "wayback-legalnomads-japan-reading-2020.txt",
+      "wordCount": 707,
+      "sentenceCount": 26,
+      "sentenceLengthCV": 1.1785857723570965,
+      "mattr50": 0.9011702127659554,
+      "fourGramRepeatsPer1500": 0,
+      "burstiness": 117.85857723570965,
+      "paragraphLengthCV": 0.8563436746310581
+    },
+    {
+      "filename": "wayback-nomadicmatt-japan-2019.txt",
+      "wordCount": 1180,
+      "sentenceCount": 86,
+      "sentenceLengthCV": 0.5669169104651006,
+      "mattr50": 0.8996449704142008,
+      "fourGramRepeatsPer1500": 1,
+      "burstiness": 56.69169104651006,
+      "paragraphLengthCV": 0.5087689032935395
+    },
+    {
+      "filename": "wayback-shootingstar-7-years-travel-2020.txt",
+      "wordCount": 1927,
+      "sentenceCount": 109,
+      "sentenceLengthCV": 0.5678943648785448,
+      "mattr50": 0.9275826086956581,
+      "fourGramRepeatsPer1500": 30,
+      "burstiness": 56.78943648785448,
+      "paragraphLengthCV": 0.5230307579570828
+    },
+    {
+      "filename": "wayback-shootingstar-japan-firsttime.txt",
+      "wordCount": 2769,
+      "sentenceCount": 141,
+      "sentenceLengthCV": 0.5462122535053963,
+      "mattr50": 0.8909037558685577,
+      "fourGramRepeatsPer1500": 38.50541928123217,
+      "burstiness": 54.621225350539625,
+      "paragraphLengthCV": 0.6245769163432117
+    },
+    {
+      "filename": "wayback-shootingstar-responsible-travel.txt",
+      "wordCount": 2748,
+      "sentenceCount": 116,
+      "sentenceLengthCV": 0.5950187046413009,
+      "mattr50": 0.9345801072066918,
+      "fourGramRepeatsPer1500": 0.8680555555555556,
+      "burstiness": 59.50187046413009,
+      "paragraphLengthCV": 1.096208115013618
+    },
+    {
+      "filename": "wayback-youcouldtravel-japan-blog.txt",
+      "wordCount": 2748,
+      "sentenceCount": 163,
+      "sentenceLengthCV": 0.43913417272275374,
+      "mattr50": 0.8967175106772564,
+      "fourGramRepeatsPer1500": 2.665876777251185,
+      "burstiness": 43.913417272275375,
+      "paragraphLengthCV": 0.40200937396124325
+    },
+    {
+      "filename": "wikivoyage-amsterdam-2022.txt",
+      "wordCount": 2848,
+      "sentenceCount": 148,
+      "sentenceLengthCV": 0.37567150761132245,
+      "mattr50": 0.8768311085316259,
+      "fourGramRepeatsPer1500": 9.311512415349886,
+      "burstiness": 37.56715076113225,
+      "paragraphLengthCV": 0.43723238718301566
+    },
+    {
+      "filename": "wikivoyage-athens-2022.txt",
+      "wordCount": 2814,
+      "sentenceCount": 124,
+      "sentenceLengthCV": 0.6117861581543027,
+      "mattr50": 0.8973129251700735,
+      "fourGramRepeatsPer1500": 0.8273579702151131,
+      "burstiness": 61.17861581543027,
+      "paragraphLengthCV": 0.5965287811796935
+    },
+    {
+      "filename": "wikivoyage-auckland-2022.txt",
+      "wordCount": 2808,
+      "sentenceCount": 143,
+      "sentenceLengthCV": 0.4508392578303169,
+      "mattr50": 0.8559888268156481,
+      "fourGramRepeatsPer1500": 3.2626427406199023,
+      "burstiness": 45.083925783031695,
+      "paragraphLengthCV": 0.6178438947136738
+    },
+    {
+      "filename": "wikivoyage-bali-2022.txt",
+      "wordCount": 2724,
+      "sentenceCount": 116,
+      "sentenceLengthCV": 0.49782843916861763,
+      "mattr50": 0.9125865102639471,
+      "fourGramRepeatsPer1500": 0.855188141391106,
+      "burstiness": 49.782843916861765,
+      "paragraphLengthCV": 0.5173882997103837
+    },
+    {
+      "filename": "wikivoyage-bangkok-2022.txt",
+      "wordCount": 2791,
+      "sentenceCount": 127,
+      "sentenceLengthCV": 0.6215769066556238,
+      "mattr50": 0.8969983507421808,
+      "fourGramRepeatsPer1500": 3.2119914346895073,
+      "burstiness": 62.157690665562384,
+      "paragraphLengthCV": 0.4949147191388887
+    },
+    {
+      "filename": "wikivoyage-barcelona-2022.txt",
+      "wordCount": 2845,
+      "sentenceCount": 154,
+      "sentenceLengthCV": 0.5671303479793183,
+      "mattr50": 0.8781969026548728,
+      "fourGramRepeatsPer1500": 0.8077544426494346,
+      "burstiness": 56.713034797931826,
+      "paragraphLengthCV": 0.6823929067635313
+    },
+    {
+      "filename": "wikivoyage-beijing-2022.txt",
+      "wordCount": 2806,
+      "sentenceCount": 138,
+      "sentenceLengthCV": 0.4410105190346673,
+      "mattr50": 0.8871279069767566,
+      "fourGramRepeatsPer1500": 2.5438100621820237,
+      "burstiness": 44.10105190346673,
+      "paragraphLengthCV": 0.5912962325331717
+    },
+    {
+      "filename": "wikivoyage-berlin-2022.txt",
+      "wordCount": 2801,
+      "sentenceCount": 119,
+      "sentenceLengthCV": 0.4880115431941335,
+      "mattr50": 0.9040542133176389,
+      "fourGramRepeatsPer1500": 0,
+      "burstiness": 48.80115431941335,
+      "paragraphLengthCV": 0.593073462386501
+    },
+    {
+      "filename": "wikivoyage-boston-2022.txt",
+      "wordCount": 2831,
+      "sentenceCount": 156,
+      "sentenceLengthCV": 0.3897722458330273,
+      "mattr50": 0.9388476454293782,
+      "fourGramRepeatsPer1500": 0.8090614886731392,
+      "burstiness": 38.97722458330273,
+      "paragraphLengthCV": 0.3781626715410185
+    },
+    {
+      "filename": "wikivoyage-budapest-2022.txt",
+      "wordCount": 2791,
+      "sentenceCount": 131,
+      "sentenceLengthCV": 0.6028761813467324,
+      "mattr50": 0.9165926748057798,
+      "fourGramRepeatsPer1500": 0.8103727714748784,
+      "burstiness": 60.28761813467324,
+      "paragraphLengthCV": 0.7893339033571424
+    },
+    {
+      "filename": "wikivoyage-buenos-aires-2022.txt",
+      "wordCount": 2825,
+      "sentenceCount": 151,
+      "sentenceLengthCV": 0.4904524026274905,
+      "mattr50": 0.8748969359331514,
+      "fourGramRepeatsPer1500": 4.880694143167028,
+      "burstiness": 49.045240262749054,
+      "paragraphLengthCV": 0.7510279162774104
+    },
+    {
+      "filename": "wikivoyage-cairo-2022.txt",
+      "wordCount": 2789,
+      "sentenceCount": 140,
+      "sentenceLengthCV": 0.47310868884437907,
+      "mattr50": 0.8863847045191288,
+      "fourGramRepeatsPer1500": 3.380281690140845,
+      "burstiness": 47.31086888443791,
+      "paragraphLengthCV": 0.6843056238356714
+    },
+    {
+      "filename": "wikivoyage-cape-town-2022.txt",
+      "wordCount": 2777,
+      "sentenceCount": 134,
+      "sentenceLengthCV": 0.4303293677026775,
+      "mattr50": 0.8793329499712612,
+      "fourGramRepeatsPer1500": 0.8389261744966443,
+      "burstiness": 43.032936770267746,
+      "paragraphLengthCV": 0.6718841189663155
+    },
+    {
+      "filename": "wikivoyage-chiang-mai-2022.txt",
+      "wordCount": 2866,
+      "sentenceCount": 130,
+      "sentenceLengthCV": 0.5157228491219633,
+      "mattr50": 0.8825715829281588,
+      "fourGramRepeatsPer1500": 22.894736842105264,
+      "burstiness": 51.57228491219633,
+      "paragraphLengthCV": 0.6399031921821172
+    },
+    {
+      "filename": "wikivoyage-chicago-2022.txt",
+      "wordCount": 2812,
+      "sentenceCount": 125,
+      "sentenceLengthCV": 0.4962789940986605,
+      "mattr50": 0.9173820224719204,
+      "fourGramRepeatsPer1500": 0,
+      "burstiness": 49.627899409866046,
+      "paragraphLengthCV": 0.43993377728277117
+    },
+    {
+      "filename": "wikivoyage-copenhagen-2022.txt",
+      "wordCount": 2776,
+      "sentenceCount": 113,
+      "sentenceLengthCV": 0.5123063038449697,
+      "mattr50": 0.9167645429363045,
+      "fourGramRepeatsPer1500": 1.6181229773462784,
+      "burstiness": 51.23063038449697,
+      "paragraphLengthCV": 0.6069963463607011
+    },
+    {
+      "filename": "wikivoyage-delhi-2022.txt",
+      "wordCount": 2794,
+      "sentenceCount": 141,
+      "sentenceLengthCV": 0.45480375199852513,
+      "mattr50": 0.8987224157956002,
+      "fourGramRepeatsPer1500": 1.693958215697346,
+      "burstiness": 45.48037519985251,
+      "paragraphLengthCV": 0.6802284935111074
+    },
+    {
+      "filename": "wikivoyage-dublin-2022.txt",
+      "wordCount": 2809,
+      "sentenceCount": 128,
+      "sentenceLengthCV": 0.4846048852104183,
+      "mattr50": 0.8601824401368278,
+      "fourGramRepeatsPer1500": 7.487520798668886,
+      "burstiness": 48.460488521041825,
+      "paragraphLengthCV": 0.6466292890097265
+    },
+    {
+      "filename": "wikivoyage-edinburgh-2022.txt",
+      "wordCount": 2742,
+      "sentenceCount": 132,
+      "sentenceLengthCV": 0.46139647698593017,
+      "mattr50": 0.9011001100110158,
+      "fourGramRepeatsPer1500": 15.265131226566686,
+      "burstiness": 46.139647698593016,
+      "paragraphLengthCV": 0.6451572608559427
+    },
+    {
+      "filename": "wikivoyage-florence-2022.txt",
+      "wordCount": 2730,
+      "sentenceCount": 140,
+      "sentenceLengthCV": 0.5914935435595746,
+      "mattr50": 0.8933990719257634,
+      "fourGramRepeatsPer1500": 0.8460236886632826,
+      "burstiness": 59.14935435595746,
+      "paragraphLengthCV": 0.6039152307163889
+    },
+    {
+      "filename": "wikivoyage-fukuoka-2022.txt",
+      "wordCount": 2835,
+      "sentenceCount": 134,
+      "sentenceLengthCV": 0.5394720921486553,
+      "mattr50": 0.8862513661202359,
+      "fourGramRepeatsPer1500": 2.3948908994145826,
+      "burstiness": 53.94720921486553,
+      "paragraphLengthCV": 0.6218653333352586
+    },
+    {
+      "filename": "wikivoyage-hakone-2022.txt",
+      "wordCount": 1243,
+      "sentenceCount": 58,
+      "sentenceLengthCV": 0.45332966180151235,
+      "mattr50": 0.8537164750957824,
+      "fourGramRepeatsPer1500": 6,
+      "burstiness": 45.33296618015123,
+      "paragraphLengthCV": 0.47584254355409905
+    },
+    {
+      "filename": "wikivoyage-hanoi-2022.txt",
+      "wordCount": 2833,
+      "sentenceCount": 134,
+      "sentenceLengthCV": 0.5089396538018434,
+      "mattr50": 0.9050793650793787,
+      "fourGramRepeatsPer1500": 2.4820739106453393,
+      "burstiness": 50.89396538018433,
+      "paragraphLengthCV": 0.5410692812403108
+    },
+    {
+      "filename": "wikivoyage-havana-2022.txt",
+      "wordCount": 2843,
+      "sentenceCount": 138,
+      "sentenceLengthCV": 0.6127418156715712,
+      "mattr50": 0.9082062534284323,
+      "fourGramRepeatsPer1500": 1.6025641025641026,
+      "burstiness": 61.274181567157115,
+      "paragraphLengthCV": 0.6592507122317274
+    },
+    {
+      "filename": "wikivoyage-helsinki-2022.txt",
+      "wordCount": 2808,
+      "sentenceCount": 134,
+      "sentenceLengthCV": 0.5369606883241208,
+      "mattr50": 0.8879634911580131,
+      "fourGramRepeatsPer1500": 0.832408435072142,
+      "burstiness": 53.69606883241208,
+      "paragraphLengthCV": 0.662679953717378
+    },
+    {
+      "filename": "wikivoyage-hiking-2022.txt",
+      "wordCount": 2796,
+      "sentenceCount": 126,
+      "sentenceLengthCV": 0.4936875968170002,
+      "mattr50": 0.8863039621525791,
+      "fourGramRepeatsPer1500": 0.8620689655172414,
+      "burstiness": 49.36875968170002,
+      "paragraphLengthCV": 0.6450524940991086
+    },
+    {
+      "filename": "wikivoyage-hiroshima-2022.txt",
+      "wordCount": 2815,
+      "sentenceCount": 127,
+      "sentenceLengthCV": 0.42371174180451054,
+      "mattr50": 0.8917122141662202,
+      "fourGramRepeatsPer1500": 4.071661237785016,
+      "burstiness": 42.37117418045106,
+      "paragraphLengthCV": 0.4472324384380152
+    },
+    {
+      "filename": "wikivoyage-ho-chi-minh-city-2022.txt",
+      "wordCount": 2837,
+      "sentenceCount": 133,
+      "sentenceLengthCV": 0.47466666183003375,
+      "mattr50": 0.8804238706079378,
+      "fourGramRepeatsPer1500": 8.143322475570033,
+      "burstiness": 47.466666183003376,
+      "paragraphLengthCV": 0.6126198178742106
+    },
+    {
+      "filename": "wikivoyage-hoi-an-2022.txt",
+      "wordCount": 2834,
+      "sentenceCount": 136,
+      "sentenceLengthCV": 0.4992364700930954,
+      "mattr50": 0.898525604952181,
+      "fourGramRepeatsPer1500": 4.928806133625411,
+      "burstiness": 49.92364700930954,
+      "paragraphLengthCV": 0.6149823704424527
+    },
+    {
+      "filename": "wikivoyage-hokkaido-2022.txt",
+      "wordCount": 2436,
+      "sentenceCount": 122,
+      "sentenceLengthCV": 0.47975592841958686,
+      "mattr50": 0.9012452830188691,
+      "fourGramRepeatsPer1500": 0,
+      "burstiness": 47.97559284195869,
+      "paragraphLengthCV": 0.4997798382787275
+    },
+    {
+      "filename": "wikivoyage-hong-kong-2022.txt",
+      "wordCount": 2773,
+      "sentenceCount": 115,
+      "sentenceLengthCV": 0.3657854612130716,
+      "mattr50": 0.895234782608704,
+      "fourGramRepeatsPer1500": 3.3821871476888385,
+      "burstiness": 36.57854612130716,
+      "paragraphLengthCV": 0.45174239084052026
+    },
+    {
+      "filename": "wikivoyage-istanbul-2022.txt",
+      "wordCount": 2834,
+      "sentenceCount": 125,
+      "sentenceLengthCV": 0.47551124120060606,
+      "mattr50": 0.9019640852974226,
+      "fourGramRepeatsPer1500": 0.8192244675040962,
+      "burstiness": 47.55112412006061,
+      "paragraphLengthCV": 0.5717802797534769
+    },
+    {
+      "filename": "wikivoyage-jakarta-2022.txt",
+      "wordCount": 2821,
+      "sentenceCount": 122,
+      "sentenceLengthCV": 0.4686995156960169,
+      "mattr50": 0.888809788654066,
+      "fourGramRepeatsPer1500": 5.68489442338928,
+      "burstiness": 46.86995156960169,
+      "paragraphLengthCV": 0.5537578265246204
+    },
+    {
+      "filename": "wikivoyage-jerusalem-2022.txt",
+      "wordCount": 2806,
+      "sentenceCount": 134,
+      "sentenceLengthCV": 0.4326845234343649,
+      "mattr50": 0.8696450704225392,
+      "fourGramRepeatsPer1500": 4.934210526315789,
+      "burstiness": 43.26845234343649,
+      "paragraphLengthCV": 0.5155556927479642
+    },
+    {
+      "filename": "wikivoyage-kanazawa-2022.txt",
+      "wordCount": 2439,
+      "sentenceCount": 127,
+      "sentenceLengthCV": 0.456252397441713,
+      "mattr50": 0.8997570332480923,
+      "fourGramRepeatsPer1500": 3.7197768133911966,
+      "burstiness": 45.625239744171296,
+      "paragraphLengthCV": 0.4889118390142444
+    },
+    {
+      "filename": "wikivoyage-kathmandu-2022.txt",
+      "wordCount": 2711,
+      "sentenceCount": 148,
+      "sentenceLengthCV": 0.448414997766711,
+      "mattr50": 0.8856361474435246,
+      "fourGramRepeatsPer1500": 0,
+      "burstiness": 44.8414997766711,
+      "paragraphLengthCV": 0.6689991874362732
+    },
+    {
+      "filename": "wikivoyage-kobe-2022.txt",
+      "wordCount": 2035,
+      "sentenceCount": 102,
+      "sentenceLengthCV": 0.44649174603050384,
+      "mattr50": 0.872120754716985,
+      "fourGramRepeatsPer1500": 6,
+      "burstiness": 44.64917460305038,
+      "paragraphLengthCV": 0.5256523534598893
+    },
+    {
+      "filename": "wikivoyage-kuala-lumpur-2022.txt",
+      "wordCount": 2796,
+      "sentenceCount": 130,
+      "sentenceLengthCV": 0.43174538139352614,
+      "mattr50": 0.8629444444444476,
+      "fourGramRepeatsPer1500": 5.678745267712277,
+      "burstiness": 43.17453813935261,
+      "paragraphLengthCV": 0.6111144448567662
+    },
+    {
+      "filename": "wikivoyage-kyoto-2022.txt",
+      "wordCount": 2839,
+      "sentenceCount": 128,
+      "sentenceLengthCV": 0.4588231612384713,
+      "mattr50": 0.8676541850220276,
+      "fourGramRepeatsPer1500": 2.4128686327077746,
+      "burstiness": 45.882316123847126,
+      "paragraphLengthCV": 0.5247484844185828
+    },
+    {
+      "filename": "wikivoyage-kyushu-2022.txt",
+      "wordCount": 1066,
+      "sentenceCount": 46,
+      "sentenceLengthCV": 0.3926333608285455,
+      "mattr50": 0.8532810047095748,
+      "fourGramRepeatsPer1500": 1,
+      "burstiness": 39.26333608285455,
+      "paragraphLengthCV": 0.58278347364698
+    },
+    {
+      "filename": "wikivoyage-lima-2022.txt",
+      "wordCount": 2716,
+      "sentenceCount": 131,
+      "sentenceLengthCV": 0.6133842485874419,
+      "mattr50": 0.8895042321644647,
+      "fourGramRepeatsPer1500": 4.403992953611274,
+      "burstiness": 61.33842485874419,
+      "paragraphLengthCV": 0.5374736608278978
+    },
+    {
+      "filename": "wikivoyage-lisbon-2022.txt",
+      "wordCount": 2822,
+      "sentenceCount": 119,
+      "sentenceLengthCV": 0.5639951901029613,
+      "mattr50": 0.923566318106785,
+      "fourGramRepeatsPer1500": 2.4115755627009645,
+      "burstiness": 56.39951901029613,
+      "paragraphLengthCV": 0.748083287699257
+    },
+    {
+      "filename": "wikivoyage-london-2022.txt",
+      "wordCount": 2829,
+      "sentenceCount": 130,
+      "sentenceLengthCV": 0.5123565650850193,
+      "mattr50": 0.8737790368272033,
+      "fourGramRepeatsPer1500": 1.6538037486218302,
+      "burstiness": 51.235656508501926,
+      "paragraphLengthCV": 0.6206694552544637
+    },
+    {
+      "filename": "wikivoyage-los-angeles-2022.txt",
+      "wordCount": 2811,
+      "sentenceCount": 115,
+      "sentenceLengthCV": 0.5378775933310768,
+      "mattr50": 0.8768523836875409,
+      "fourGramRepeatsPer1500": 0.8379888268156425,
+      "burstiness": 53.78775933310768,
+      "paragraphLengthCV": 0.4171392913166531
+    },
+    {
+      "filename": "wikivoyage-madrid-2022.txt",
+      "wordCount": 2814,
+      "sentenceCount": 129,
+      "sentenceLengthCV": 0.4702696827721602,
+      "mattr50": 0.892938547486047,
+      "fourGramRepeatsPer1500": 0.8156606851549756,
+      "burstiness": 47.02696827721602,
+      "paragraphLengthCV": 0.6772370601710935
+    },
+    {
+      "filename": "wikivoyage-manila-2022.txt",
+      "wordCount": 2773,
+      "sentenceCount": 110,
+      "sentenceLengthCV": 0.5727963296738475,
+      "mattr50": 0.894789227166291,
+      "fourGramRepeatsPer1500": 1.707455890722823,
+      "burstiness": 57.27963296738475,
+      "paragraphLengthCV": 0.5359460724912611
+    },
+    {
+      "filename": "wikivoyage-marrakech-2022.txt",
+      "wordCount": 2832,
+      "sentenceCount": 135,
+      "sentenceLengthCV": 0.5015809629055795,
+      "mattr50": 0.8957434733257807,
+      "fourGramRepeatsPer1500": 3.3130866924351188,
+      "burstiness": 50.15809629055795,
+      "paragraphLengthCV": 0.6234850682094558
+    },
+    {
+      "filename": "wikivoyage-melbourne-2022.txt",
+      "wordCount": 2825,
+      "sentenceCount": 132,
+      "sentenceLengthCV": 0.4250000555444974,
+      "mattr50": 0.8585448577680517,
+      "fourGramRepeatsPer1500": 1.5982951518380393,
+      "burstiness": 42.500005554449736,
+      "paragraphLengthCV": 0.6465890839122161
+    },
+    {
+      "filename": "wikivoyage-mexico-city-2022.txt",
+      "wordCount": 2816,
+      "sentenceCount": 132,
+      "sentenceLengthCV": 0.5216654073248529,
+      "mattr50": 0.8891814539210188,
+      "fourGramRepeatsPer1500": 2.505567928730512,
+      "burstiness": 52.16654073248529,
+      "paragraphLengthCV": 0.46362886665154074
+    },
+    {
+      "filename": "wikivoyage-montreal-2022.txt",
+      "wordCount": 2779,
+      "sentenceCount": 139,
+      "sentenceLengthCV": 0.48714007939118514,
+      "mattr50": 0.851329220415028,
+      "fourGramRepeatsPer1500": 6.550218340611353,
+      "burstiness": 48.71400793911852,
+      "paragraphLengthCV": 0.7762024469573655
+    },
+    {
+      "filename": "wikivoyage-mumbai-2022.txt",
+      "wordCount": 2816,
+      "sentenceCount": 154,
+      "sentenceLengthCV": 0.4533857028447341,
+      "mattr50": 0.8762197282929783,
+      "fourGramRepeatsPer1500": 3.444316877152698,
+      "burstiness": 45.33857028447341,
+      "paragraphLengthCV": 0.5479494583707387
+    },
+    {
+      "filename": "wikivoyage-nagoya-2022.txt",
+      "wordCount": 2846,
+      "sentenceCount": 131,
+      "sentenceLengthCV": 0.41815901009862877,
+      "mattr50": 0.8707965554359566,
+      "fourGramRepeatsPer1500": 3.932878867330886,
+      "burstiness": 41.81590100986288,
+      "paragraphLengthCV": 0.443701545429303
+    },
+    {
+      "filename": "wikivoyage-nara-2022.txt",
+      "wordCount": 1966,
+      "sentenceCount": 86,
+      "sentenceLengthCV": 0.5825932385700491,
+      "mattr50": 0.8822530864197609,
+      "fourGramRepeatsPer1500": 1,
+      "burstiness": 58.25932385700491,
+      "paragraphLengthCV": 0.8353448778469129
+    },
+    {
+      "filename": "wikivoyage-new-orleans-2022.txt",
+      "wordCount": 2811,
+      "sentenceCount": 123,
+      "sentenceLengthCV": 0.5426380157946052,
+      "mattr50": 0.901013513513526,
+      "fourGramRepeatsPer1500": 0,
+      "burstiness": 54.26380157946053,
+      "paragraphLengthCV": 0.6303920036767845
+    },
+    {
+      "filename": "wikivoyage-new-york-city-2022.txt",
+      "wordCount": 2849,
+      "sentenceCount": 114,
+      "sentenceLengthCV": 0.5663312608180997,
+      "mattr50": 0.8468725868725863,
+      "fourGramRepeatsPer1500": 8.861439312567132,
+      "burstiness": 56.63312608180997,
+      "paragraphLengthCV": 0.6761007190633435
+    },
+    {
+      "filename": "wikivoyage-nikko-2022.txt",
+      "wordCount": 1479,
+      "sentenceCount": 64,
+      "sentenceLengthCV": 0.4849339606327832,
+      "mattr50": 0.8864712269272549,
+      "fourGramRepeatsPer1500": 7,
+      "burstiness": 48.49339606327832,
+      "paragraphLengthCV": 0.6633224991323039
+    },
+    {
+      "filename": "wikivoyage-okinawa-2022.txt",
+      "wordCount": 2770,
+      "sentenceCount": 123,
+      "sentenceLengthCV": 0.5599777150016877,
+      "mattr50": 0.9005371428571605,
+      "fourGramRepeatsPer1500": 0,
+      "burstiness": 55.99777150016877,
+      "paragraphLengthCV": 0.819809068600384
+    },
+    {
+      "filename": "wikivoyage-osaka-2022.txt",
+      "wordCount": 2864,
+      "sentenceCount": 134,
+      "sentenceLengthCV": 0.5491945717728082,
+      "mattr50": 0.8623939881910967,
+      "fourGramRepeatsPer1500": 2.3535564853556488,
+      "burstiness": 54.91945717728082,
+      "paragraphLengthCV": 0.45672935522928654
+    },
+    {
+      "filename": "wikivoyage-oslo-2022.txt",
+      "wordCount": 2722,
+      "sentenceCount": 139,
+      "sentenceLengthCV": 0.42948461944319155,
+      "mattr50": 0.8760874568469637,
+      "fourGramRepeatsPer1500": 0.8393956351426972,
+      "burstiness": 42.948461944319156,
+      "paragraphLengthCV": 0.43895861532297004
+    },
+    {
+      "filename": "wikivoyage-paris-2022.txt",
+      "wordCount": 2770,
+      "sentenceCount": 123,
+      "sentenceLengthCV": 0.5678365467870486,
+      "mattr50": 0.9126003490401575,
+      "fourGramRepeatsPer1500": 7.635746606334841,
+      "burstiness": 56.78365467870486,
+      "paragraphLengthCV": 0.499051366066975
+    },
+    {
+      "filename": "wikivoyage-petra-2022.txt",
+      "wordCount": 2808,
+      "sentenceCount": 136,
+      "sentenceLengthCV": 0.48294122697501596,
+      "mattr50": 0.8917241379310457,
+      "fourGramRepeatsPer1500": 0.8665511265164645,
+      "burstiness": 48.29412269750159,
+      "paragraphLengthCV": 0.6061500831203045
+    },
+    {
+      "filename": "wikivoyage-phnom-penh-2022.txt",
+      "wordCount": 2776,
+      "sentenceCount": 163,
+      "sentenceLengthCV": 0.5302577969678397,
+      "mattr50": 0.9033922651933859,
+      "fourGramRepeatsPer1500": 1.6137708445400751,
+      "burstiness": 53.02577969678397,
+      "paragraphLengthCV": 0.5965383046054927
+    },
+    {
+      "filename": "wikivoyage-phuket-2022.txt",
+      "wordCount": 2811,
+      "sentenceCount": 162,
+      "sentenceLengthCV": 0.5487022281049343,
+      "mattr50": 0.8614113597246125,
+      "fourGramRepeatsPer1500": 2.511160714285714,
+      "burstiness": 54.87022281049343,
+      "paragraphLengthCV": 0.5559626988929967
+    },
+    {
+      "filename": "wikivoyage-portland-oregon-2022.txt",
+      "wordCount": 2851,
+      "sentenceCount": 131,
+      "sentenceLengthCV": 0.5363815513417424,
+      "mattr50": 0.8876247942951208,
+      "fourGramRepeatsPer1500": 4.8076923076923075,
+      "burstiness": 53.638155134174234,
+      "paragraphLengthCV": 0.5189615098823558
+    },
+    {
+      "filename": "wikivoyage-prague-2022.txt",
+      "wordCount": 2781,
+      "sentenceCount": 140,
+      "sentenceLengthCV": 0.5443927454887124,
+      "mattr50": 0.8904708520179546,
+      "fourGramRepeatsPer1500": 2.4549918166939446,
+      "burstiness": 54.43927454887124,
+      "paragraphLengthCV": 0.7495288664132658
+    },
+    {
+      "filename": "wikivoyage-rio-de-janeiro-2022.txt",
+      "wordCount": 2803,
+      "sentenceCount": 125,
+      "sentenceLengthCV": 0.5048662077012189,
+      "mattr50": 0.9009822958309673,
+      "fourGramRepeatsPer1500": 2.5,
+      "burstiness": 50.486620770121895,
+      "paragraphLengthCV": 0.7340977438892273
+    },
+    {
+      "filename": "wikivoyage-rome-2022.txt",
+      "wordCount": 2814,
+      "sentenceCount": 138,
+      "sentenceLengthCV": 0.4964905815386722,
+      "mattr50": 0.9083682983683109,
+      "fourGramRepeatsPer1500": 0,
+      "burstiness": 49.64905815386722,
+      "paragraphLengthCV": 0.6258080701595836
+    },
+    {
+      "filename": "wikivoyage-san-francisco-2022.txt",
+      "wordCount": 2791,
+      "sentenceCount": 117,
+      "sentenceLengthCV": 0.46662961931557245,
+      "mattr50": 0.8958612848209262,
+      "fourGramRepeatsPer1500": 3.3185840707964602,
+      "burstiness": 46.66296193155725,
+      "paragraphLengthCV": 0.56607463361187
+    },
+    {
+      "filename": "wikivoyage-sapporo-2022.txt",
+      "wordCount": 1813,
+      "sentenceCount": 90,
+      "sentenceLengthCV": 0.5571925584524337,
+      "mattr50": 0.8913339145597251,
+      "fourGramRepeatsPer1500": 0,
+      "burstiness": 55.71925584524337,
+      "paragraphLengthCV": 0.6812016307881816
+    },
+    {
+      "filename": "wikivoyage-seattle-2022.txt",
+      "wordCount": 2764,
+      "sentenceCount": 110,
+      "sentenceLengthCV": 0.4623415279916765,
+      "mattr50": 0.9128417470221379,
+      "fourGramRepeatsPer1500": 1.6556291390728477,
+      "burstiness": 46.234152799167646,
+      "paragraphLengthCV": 0.4227938274533533
+    },
+    {
+      "filename": "wikivoyage-sendai-2022.txt",
+      "wordCount": 1912,
+      "sentenceCount": 94,
+      "sentenceLengthCV": 0.45066905365157633,
+      "mattr50": 0.8872357723577289,
+      "fourGramRepeatsPer1500": 0,
+      "burstiness": 45.06690536515763,
+      "paragraphLengthCV": 0.5381763772539055
+    },
+    {
+      "filename": "wikivoyage-seoul-2022.txt",
+      "wordCount": 2813,
+      "sentenceCount": 130,
+      "sentenceLengthCV": 0.5526114659627714,
+      "mattr50": 0.8687895927601814,
+      "fourGramRepeatsPer1500": 2.476609796367639,
+      "burstiness": 55.26114659627714,
+      "paragraphLengthCV": 0.6528761635475285
+    },
+    {
+      "filename": "wikivoyage-shanghai-2022.txt",
+      "wordCount": 2744,
+      "sentenceCount": 118,
+      "sentenceLengthCV": 0.4194180816499555,
+      "mattr50": 0.9000948429164355,
+      "fourGramRepeatsPer1500": 0.8640552995391705,
+      "burstiness": 41.94180816499555,
+      "paragraphLengthCV": 0.5312179510855475
+    },
+    {
+      "filename": "wikivoyage-shikoku-2022.txt",
+      "wordCount": 994,
+      "sentenceCount": 47,
+      "sentenceLengthCV": 0.4189238640847369,
+      "mattr50": 0.9056810631229206,
+      "fourGramRepeatsPer1500": 1,
+      "burstiness": 41.89238640847369,
+      "paragraphLengthCV": 0.7009593378525943
+    },
+    {
+      "filename": "wikivoyage-siem-reap-2022.txt",
+      "wordCount": 2900,
+      "sentenceCount": 151,
+      "sentenceLengthCV": 0.4955974441149981,
+      "mattr50": 0.9126937269372875,
+      "fourGramRepeatsPer1500": 4.6248715313463515,
+      "burstiness": 49.559744411499814,
+      "paragraphLengthCV": 0.5763552219118264
+    },
+    {
+      "filename": "wikivoyage-singapore-2022.txt",
+      "wordCount": 2732,
+      "sentenceCount": 103,
+      "sentenceLengthCV": 0.5070417058588026,
+      "mattr50": 0.9150028785262069,
+      "fourGramRepeatsPer1500": 3.3594624860022395,
+      "burstiness": 50.70417058588026,
+      "paragraphLengthCV": 0.5419637986002639
+    },
+    {
+      "filename": "wikivoyage-stockholm-2022.txt",
+      "wordCount": 2799,
+      "sentenceCount": 135,
+      "sentenceLengthCV": 0.5018054936661405,
+      "mattr50": 0.8750799779371206,
+      "fourGramRepeatsPer1500": 4.833512352309344,
+      "burstiness": 50.180549366614045,
+      "paragraphLengthCV": 0.625300486669984
+    },
+    {
+      "filename": "wikivoyage-surfing-2022.txt",
+      "wordCount": 591,
+      "sentenceCount": 34,
+      "sentenceLengthCV": 0.40702374026916444,
+      "mattr50": 0.8876878612716748,
+      "fourGramRepeatsPer1500": 0,
+      "burstiness": 40.702374026916445,
+      "paragraphLengthCV": 0.5255237814077757
+    },
+    {
+      "filename": "wikivoyage-sydney-2022.txt",
+      "wordCount": 2782,
+      "sentenceCount": 130,
+      "sentenceLengthCV": 0.5204219455434453,
+      "mattr50": 0.89228808864267,
+      "fourGramRepeatsPer1500": 4.854368932038835,
+      "burstiness": 52.04219455434453,
+      "paragraphLengthCV": 0.7470939675212265
+    },
+    {
+      "filename": "wikivoyage-taipei-2022.txt",
+      "wordCount": 2691,
+      "sentenceCount": 118,
+      "sentenceLengthCV": 0.4613949881572767,
+      "mattr50": 0.8935370152761557,
+      "fourGramRepeatsPer1500": 5.996573386636208,
+      "burstiness": 46.13949881572767,
+      "paragraphLengthCV": 0.472616601320664
+    },
+    {
+      "filename": "wikivoyage-takayama-2022.txt",
+      "wordCount": 1044,
+      "sentenceCount": 51,
+      "sentenceLengthCV": 0.4434124129835026,
+      "mattr50": 0.8786837881219861,
+      "fourGramRepeatsPer1500": 0,
+      "burstiness": 44.34124129835026,
+      "paragraphLengthCV": 0.6889503978200343
+    },
+    {
+      "filename": "wikivoyage-tohoku-2022.txt",
+      "wordCount": 1657,
+      "sentenceCount": 71,
+      "sentenceLengthCV": 0.5173579274657324,
+      "mattr50": 0.853243503368625,
+      "fourGramRepeatsPer1500": 0,
+      "burstiness": 51.73579274657324,
+      "paragraphLengthCV": 0.5627881053519221
+    },
+    {
+      "filename": "wikivoyage-tokyo-2022.txt",
+      "wordCount": 2808,
+      "sentenceCount": 128,
+      "sentenceLengthCV": 0.48552793498258484,
+      "mattr50": 0.892915047196008,
+      "fourGramRepeatsPer1500": 1.6216216216216215,
+      "burstiness": 48.55279349825848,
+      "paragraphLengthCV": 0.6193196192700104
+    },
+    {
+      "filename": "wikivoyage-toronto-2022.txt",
+      "wordCount": 2816,
+      "sentenceCount": 128,
+      "sentenceLengthCV": 0.513345165403715,
+      "mattr50": 0.8792299229923088,
+      "fourGramRepeatsPer1500": 5.623995715050884,
+      "burstiness": 51.3345165403715,
+      "paragraphLengthCV": 0.7770018763040932
+    },
+    {
+      "filename": "wikivoyage-ulaanbaatar-2022.txt",
+      "wordCount": 2761,
+      "sentenceCount": 124,
+      "sentenceLengthCV": 0.4389983817270542,
+      "mattr50": 0.9027582159624512,
+      "fourGramRepeatsPer1500": 0.8556759840273815,
+      "burstiness": 43.899838172705415,
+      "paragraphLengthCV": 0.5680550306969736
+    },
+    {
+      "filename": "wikivoyage-vancouver-2022.txt",
+      "wordCount": 2842,
+      "sentenceCount": 133,
+      "sentenceLengthCV": 0.494004125378997,
+      "mattr50": 0.8557142857142812,
+      "fourGramRepeatsPer1500": 8.894878706199462,
+      "burstiness": 49.400412537899705,
+      "paragraphLengthCV": 0.6623972320532732
+    },
+    {
+      "filename": "wikivoyage-varanasi-2022.txt",
+      "wordCount": 2519,
+      "sentenceCount": 123,
+      "sentenceLengthCV": 0.4776728121527195,
+      "mattr50": 0.8867194719472064,
+      "fourGramRepeatsPer1500": 0.9590792838874681,
+      "burstiness": 47.76728121527195,
+      "paragraphLengthCV": 0.9357861834261516
+    },
+    {
+      "filename": "wikivoyage-venice-2022.txt",
+      "wordCount": 2795,
+      "sentenceCount": 118,
+      "sentenceLengthCV": 0.6721058810557966,
+      "mattr50": 0.8552657534246632,
+      "fourGramRepeatsPer1500": 81.64354322305229,
+      "burstiness": 67.21058810557966,
+      "paragraphLengthCV": 0.6759433183197037
+    },
+    {
+      "filename": "wikivoyage-vienna-2022.txt",
+      "wordCount": 2835,
+      "sentenceCount": 126,
+      "sentenceLengthCV": 0.49120883984269126,
+      "mattr50": 0.8883588869960323,
+      "fourGramRepeatsPer1500": 2.486187845303867,
+      "burstiness": 49.12088398426913,
+      "paragraphLengthCV": 0.759520505643674
+    },
+    {
+      "filename": "wikivoyage-vientiane-2022.txt",
+      "wordCount": 2862,
+      "sentenceCount": 141,
+      "sentenceLengthCV": 0.549306508865536,
+      "mattr50": 0.8863027027027136,
+      "fourGramRepeatsPer1500": 7.109004739336493,
+      "burstiness": 54.9306508865536,
+      "paragraphLengthCV": 0.5652858353658112
+    },
+    {
+      "filename": "wikivoyage-wellington-2022.txt",
+      "wordCount": 2809,
+      "sentenceCount": 134,
+      "sentenceLengthCV": 0.4916809693231355,
+      "mattr50": 0.8703105590062149,
+      "fourGramRepeatsPer1500": 8.241758241758241,
+      "burstiness": 49.168096932313546,
+      "paragraphLengthCV": 0.5605584481497433
+    },
+    {
+      "filename": "wikivoyage-yangon-2022.txt",
+      "wordCount": 2794,
+      "sentenceCount": 134,
+      "sentenceLengthCV": 0.49556901125968067,
+      "mattr50": 0.8799664429530274,
+      "fourGramRepeatsPer1500": 4.899292324442025,
+      "burstiness": 49.55690112596807,
+      "paragraphLengthCV": 0.826272298570216
+    },
+    {
+      "filename": "wikivoyage-yokohama-2022.txt",
+      "wordCount": 1149,
+      "sentenceCount": 59,
+      "sentenceLengthCV": 0.48472246571536437,
+      "mattr50": 0.8574520547945194,
+      "fourGramRepeatsPer1500": 2,
+      "burstiness": 48.47224657153644,
+      "paragraphLengthCV": 0.6418739554909365
+    },
+    {
+      "filename": "_titles.txt",
+      "wordCount": 123,
+      "sentenceCount": 1,
+      "sentenceLengthCV": 0,
+      "mattr50": 0.9758333333333336,
+      "fourGramRepeatsPer1500": 0,
+      "burstiness": 0,
+      "paragraphLengthCV": 0
+    }
+  ]
+}
