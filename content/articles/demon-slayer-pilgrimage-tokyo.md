@@ -95,8 +95,6 @@ A pop-up food event that returns periodically to major department stores in Toky
 ### Sweets Paradise Collaborations
 Sweets Paradise — a buffet-style dessert restaurant chain — regularly runs Demon Slayer collaborations at multiple locations across Japan. These typically require advance reservation through [Lawson Ticket](/articles/lawson-ticket-anime-cafe-booking/). The advantage: Sweets Paradise has locations in Shinjuku, Ikebukuro, Shibuya, and beyond, so you have more venue options.
 
-![Demon Slayer themed capsule toys and merchandise available across Tokyo — collectibles for fans visiting pilgrimage spots](https://japan-pop-now.com/wp-content/uploads/2026/04/demon-slayer-capsule-merch-2026.jpg)
-
 ## Demon Slayer Merchandise in Tokyo
 You don’t need a special event to buy Demon Slayer merchandise. Tokyo’s anime districts carry it year-round.
 
