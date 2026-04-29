@@ -78,8 +78,20 @@ export default function sitemap(): MetadataRoute.Sitemap {
   // sitemap to stay consistent with the meta tag emitted by
   // app/articles/[slug]/page.tsx — Google receives one signal, not two
   // contradictory ones.
+  // Articles with `validUntil` past today's date are also excluded —
+  // they describe time-limited events that have ended. Keeps stale
+  // event pages out of search results without requiring a manual
+  // robots-noindex sweep after every collab cafe ends.
+  const today = new Date();
   const articlePages: MetadataRoute.Sitemap = articles
-    .filter((article) => !article.robots?.toLowerCase().includes('noindex'))
+    .filter((article) => {
+      if (article.robots?.toLowerCase().includes('noindex')) return false;
+      if (article.validUntil) {
+        const validDate = new Date(article.validUntil);
+        if (!Number.isNaN(validDate.getTime()) && validDate < today) return false;
+      }
+      return true;
+    })
     .map((article) => ({
       url: getArticleUrl(article.slug),
       changeFrequency: 'weekly' as const,
