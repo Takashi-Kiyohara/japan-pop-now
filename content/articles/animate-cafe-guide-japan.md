@@ -2,18 +2,18 @@
 title: "Book Animate Cafe Japan 2026: Lottery, Locations, Gratte Guide"
 description: "Book Animate Cafe 2026: lottery entry, Tokyo and Osaka locations, Gratte stands, DECOTTO donuts. Tips to win the draw and secure reservations."
 date: "2026-03-28"
-lastUpdated: "2026-03-28"
+lastUpdated: "2026-04-29"
 category: "cafes"
 tags: []
 featuredImage: "/images/articles/animate-cafe-guide-japan/featured.jpg"
 featuredImageAlt: "Animate store and Lashinbang in Ikebukuro for anime cafe lottery booking"
 author: "Takapon"
-excerpt: "Last updated: March 2026. Covers all current Animate Cafe locations, the lottery booking system, Gratte stands, and DECOTTO donut shop. Animate Cafe is Japan’s..."
+excerpt: "Last updated: April 29, 2026. Covers all Animate Cafe locations, the lottery booking system, Gratte stands, and DECOTTO donut shop, plus current collabs (i7 Rivare Chaya, Apr 7 – May 10)."
 relatedSlugs: []
 wpPostId: 199
 ---
 
-*Last updated: March 2026. Covers all current Animate Cafe locations, the lottery booking system, Gratte stands, and DECOTTO donut shop.*
+*Last updated: April 29, 2026. Covers all current Animate Cafe locations, the lottery booking system, Gratte stands, and DECOTTO donut shop. Reflects late-April 2026 status: MHA × DECOTTO closed April 26; i7 (アイドリッシュセブン) Rivare Chaya is the current Animate Cafe lottery collab through May 10.*
 
 ![Blue Lock anime collaboration cafe event — typical Animate Cafe promotional setup in Tokyo and Japan](https://japan-pop-now.com/wp-content/uploads/2026/04/blue-lock-cafe-2026.jpg)
 
@@ -24,6 +24,15 @@ The good news: this actually levels the playing field. You don’t need lightnin
 This guide covers everything — the booking lottery, what the cafe experience is actually like, current locations, pricing, and the two walk-in alternatives (Gratte and DECOTTO) for when the lottery doesn’t go your way.
 
 ![Interior of a themed anime cafe in Tokyo with character-decorated walls and themed food displays](https://japan-pop-now.com/wp-content/uploads/2026/04/spy-family-animate-fair-2026.jpeg)
+
+## What Is Currently Running (Late April 2026)
+The lottery system below works the same way no matter the franchise, but here are the active Animate Cafe collabs as of April 29, 2026:
+
+- **IDOLiSH7 (アイドリッシュセブン) × Animate Cafe — “Rivare Chaya” (りばぁれ茶屋)** — Animate Cafe Tokyo (Ikebukuro) and Osaka Nipponbashi, April 7 – May 10, 2026. Lottery results have already been announced; check the booking page a few days before your preferred date for any released cancellation slots.
+- **DECOTTO by animate cafe (Ikebukuro Annex 1F)** — between collabs as of April 27. The MHA × DECOTTO Waffle Sandwich Diner closed April 26, 2026. Watch [@animate_cafe](https://x.com/animate_cafe) on X for the next theme.
+- **Gratte stands (Ikebukuro basement, Akihabara ANNEX, Shibuya, Kichijoji PARCO)** — themes rotate every two weeks. The HUNTER×HUNTER Zoldyck Family Arc Gratte run ended April 15; the current Gratte theme is announced on the Animate Gratte X account.
+
+If you are choosing between Animate Cafe locations for Golden Week (April 29 – May 6), Ikebukuro PACKS 7F-8F is the safest bet: it is the flagship space and the only one running the i7 Rivare Chaya menu in Tokyo.
 
 ## How Animate Cafe Works — The Basics
 Animate Cafe is operated by **Animate Corporation**, the company behind Japan’s largest anime retail chain. They run dedicated cafe spaces that swap collaboration themes roughly every 2-4 weeks. One month it’s My Hero Academia, the next it’s Haikyuu!!, then Jujutsu Kaisen — the lineup rotates constantly.
