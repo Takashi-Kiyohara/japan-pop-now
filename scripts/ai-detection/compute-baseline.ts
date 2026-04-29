@@ -25,79 +25,18 @@
 
 import fs from 'fs'
 import path from 'path'
+import {
+  contentTokens,
+  fourGramRepeats,
+  mattr,
+  meanStdCV,
+  paragraphLengths,
+  splitSentences,
+  tokenize,
+} from './lib'
 
 const CORPUS_DIR = path.join(process.cwd(), '.tmp/pre-ai-corpus')
 const OUTPUT_PATH = path.join(process.cwd(), 'docs/research/human-baseline-20260428.json')
-
-// -- Metric helpers (mirror check-article.ts; intentional inline duplication
-//    until a refactor extracts these to a shared `lib.ts`) ------------------
-
-function splitSentences(text: string): string[] {
-  const raw = text
-    .split(/(?<=[.!?。！？])\s+/u)
-    .flatMap((s) => s.split(/(?<=[。！？])/u))
-    .map((s) => s.trim())
-    .filter((s) => s.length > 0)
-  return raw
-}
-
-const STOPWORDS_EN = new Set([
-  'the', 'a', 'an', 'and', 'or', 'but', 'of', 'to', 'in', 'on', 'at',
-  'for', 'with', 'by', 'is', 'are', 'was', 'were', 'be', 'been', 'being',
-  'this', 'that', 'these', 'those', 'it', 'its', 'as', 'from', 'you',
-  'your', 'we', 'our', 'they', 'their', 'i', 'me', 'my', 'he', 'she',
-  'his', 'her', 'will', 'can', 'do', 'does', 'did', 'have', 'has', 'had',
-])
-
-function tokenize(text: string): string[] {
-  const out: string[] = []
-  for (const m of text.matchAll(/[\p{L}\p{N}']+/gu)) {
-    out.push(m[0].toLowerCase())
-  }
-  return out
-}
-
-function contentTokens(text: string): string[] {
-  return tokenize(text).filter((t) => t.length >= 2 && !STOPWORDS_EN.has(t))
-}
-
-function meanStdCV(values: number[]) {
-  if (values.length === 0) return { mean: 0, std: 0, cv: 0 }
-  const mean = values.reduce((a, b) => a + b, 0) / values.length
-  const variance = values.reduce((a, b) => a + (b - mean) ** 2, 0) / values.length
-  const std = Math.sqrt(variance)
-  return { mean, std, cv: mean === 0 ? 0 : std / mean }
-}
-
-function mattr(tokens: string[], window = 50): number {
-  if (tokens.length < window) {
-    return tokens.length === 0 ? 0 : new Set(tokens).size / tokens.length
-  }
-  let sum = 0
-  let count = 0
-  for (let i = 0; i + window <= tokens.length; i++) {
-    const slice = tokens.slice(i, i + window)
-    sum += new Set(slice).size / window
-    count++
-  }
-  return count === 0 ? 0 : sum / count
-}
-
-function fourGramRepeats(tokens: string[]): number {
-  if (tokens.length < 4) return 0
-  const counts = new Map<string, number>()
-  for (let i = 0; i + 4 <= tokens.length; i++) {
-    const gram = tokens.slice(i, i + 4).join(' ')
-    counts.set(gram, (counts.get(gram) || 0) + 1)
-  }
-  let repeated = 0
-  for (const c of counts.values()) if (c >= 2) repeated++
-  return repeated
-}
-
-function paragraphLengths(text: string): number[] {
-  return text.split(/\n\s*\n/).filter((p) => p.trim().length > 0).map((p) => p.length)
-}
 
 // -- Per-article metric pack ----------------------------------------------
 
