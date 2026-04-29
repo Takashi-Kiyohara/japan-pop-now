@@ -30,3 +30,13 @@ REJECT (0)
   - Address image issue: per imageNote, hero is wrong area; reshoot Shin-Osaka platform Oshi-Tabi poster + Animate Umeda 3F campaign window before next refresh.
   - Image floor: 4 of 8 needed per prescreen — substantial uplift.
 - Strong on Q1-Q4 — this would be a clean PROCEED if sustainability path is documented.
+
+## Re-eval after Tier A citation sweep (2026-04-28)
+
+**Citations added (2):**
+- [JR Central Oshi-Tabi official portal](https://recommend.jr-central.co.jp/oshi-tabi/) inline anchor on the Vol.3 description (line 61).
+- [Animate Umeda store page](https://www.animate.co.jp/shop/umeda/) inline anchor on the ¥900 guidebook completion-counter claim.
+
+**Q3 verdict (re-eval): YES** — Q3 was already passing per the original eval (JR Tokai press quoted in Japanese with translation, collabo-cafe quoted on the postcard reward). The two new inline anchors strengthen the trail by linking the JR Central portal and Animate Umeda directly. Q3 remains YES.
+
+**Flipped to PROCEED?** **NO.** Q3 was not the load-bearing failure. The original verdict's blocker was Q5 (campaign ends 2026-07-20, 83 days from eval). Linter has since added `validUntil: "2026-07-21"` to frontmatter (line 6), which contributes to a Q5 fold-up plan but does not on its own document the post-event archive route. R3 image flag (imageNote: hero is Dotonbori, wrong area) also remains and needs reshoot. **Tier A citation sweep does not flip this article — it remains REJECT until Q5 fold-up plan is documented and image reshoot is completed.**

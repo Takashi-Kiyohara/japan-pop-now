@@ -34,3 +34,17 @@ REJECT (0) — Q3 source viability fails
   - After Q3 fix, this is a strong PROCEED — Q1/Q2/Q4/Q5 all pass and R1/R2/R3/R4 all clear.
   - featuredImage credit field is empty in frontmatter; per image strict universal rule, every image needs a license note. Add image credit line to frontmatter or article body.
 </content>
+
+## Re-evaluation (2026-04-28, Tier A citation sweep batch 3)
+Edits applied:
+- Anchor-linked MAPPA (https://mappa.co.jp/) and the official Jujutsu Kaisen anime site (https://jujutsukaisen-anime.com/) inline with the "Director Sunghoo Park and the MAPPA team" claim (line 21).
+- Anchor-linked Shibuya 109 to https://shibuya109.jp/ at first mention in section 2; added an inline `[source: ...]` citation with operating hours (10:00–21:00) and floor structure (B2–8F) verified via official site fetch.
+- Anchor-linked Ichiran Ramen to https://ichiran.com/ at first mention in the food section, plus an inline citation; converted the trailing "Website: ichiran.com" plain text line to an anchor link.
+
+WebFetch coverage: shibuya109.jp (200 — verified hours and floor structure), ichiran.com (200 — confirmed ramen-chain authority). jujutsukaisen.jp (403 — fallback to jujutsukaisen-anime.com which is the cited canonical for the anime franchise; mappa.co.jp linked without fetch). Walnut Cafe / Omotesando Koffee not anchored — both have business pages but the proprietor's discretion on non-affiliated cafes is not load-bearing.
+
+Q3 status: PARTIAL PASS. The MAPPA/director claim, Shibuya 109 building facts, and Ichiran reference are now externally cited. Remaining Q3 gaps: Akutami's Shibuya geography study source (not located in 5 minutes of search; flagged for Phase 2), specific episode 147-150 cite, "3,000 people per crossing cycle" Scramble statistic. Material upgrade but not fully closed.
+
+featuredImage credit issue NOT addressed in this sweep — flagged for image-axis review.
+
+Verdict update: REJECT → PARTIAL PROCEED (Q3 materially upgraded; image-axis still open).

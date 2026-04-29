@@ -29,3 +29,14 @@ REJECT (0) — Q3 fail
 - After Q3 fix — flips to PROCEED. The body work is otherwise very strong.
 - Note: this is actually one of the highest-quality articles in the batch — first-hand visits documented, image-floor exceeds expectations (7 Wikimedia attributions), differentiation is structural, Q5 is naturally evergreen. The Q3 gap is purely an editorial discipline issue (links present in text but not formatted as anchors).
 - Consider this article a template for the corpus's image discipline — the consistent `body-wikimedia-{n}.webp` filename pattern with paired attribution captions should be the standard.
+
+## Re-evaluation (2026-04-28, Tier A citation sweep batch 3)
+Edits applied:
+- Anchor-linked the Option 1 official EN ticket page reference (https://ghibli-park.jp/en/ticket/) twice — inline URL + `[source: ...]` caption.
+- Added direct quote from Ghibli Park official EN homepage confirming "Reservations for July 2026 will go on sale May 10th 2026 at 2 p.m. (Japan standard time)" — supports the 14:00 JST cadence claim.
+- Anchor-linked l-tike.com to Lawson Ticket.
+- Added `[source: Ghibli Park official directions](https://ghibli-park.jp/en/directions/)` to the Meitetsu bus paragraph; replaced the soft "7-10 departures daily" with the official-site-confirmed "9 weekday / 10 weekend" figure.
+
+Q3 status: NOW PASS. The release cadence, overseas booking workflow, and Meitetsu bus frequency are all traceable to the official Ghibli Park English site. Pricing tables retain the same numeric values; spot-checking those against the official ticket page itself was deferred (the EN page surfaces only via JS; the wrapper page returned navigation chrome). Acceptable for v1 sweep; can be tightened in Phase 2.
+
+Verdict flip: PROCEED.

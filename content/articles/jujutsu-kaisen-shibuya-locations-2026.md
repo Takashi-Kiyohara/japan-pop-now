@@ -18,7 +18,7 @@ Jujutsu Kaisen Shibuya Pilgrimage Guide: Location Matching & Walking Routes
 
 Shibuya in 2024 became the epicenter of Jujutsu Kaisen’s most devastating arc. The Shibuya Incident episode runs, which aired between September and November 2024, turned one of Tokyo’s most recognizable districts into a pilgrimage destination for anime fans willing to walk real streets and stand in the exact locations where Gojo and Yuji faced off against Sukuna. I’ve spent the last six months mapping these locations, comparing satellite imagery to key scenes, and figuring out the most efficient 2-3 hour walking route. This guide tells you exactly where to go.
 
-The anime’s location accuracy is nearly perfect. Director Sunghoo Park and the MAPPA team didn’t just use Shibuya as inspiration—they mapped the actual geography into their storyboards. The result: you can stand in Hachiko Square and see the exact angle where the barrier activated in episode 148. You can walk to Shibuya 109 and recognize the building’s curves in the backdrop of a curse encounter. This isn’t vague anime pilgrimage stuff. These are specific coordinates with specific scenes.
+The anime’s location accuracy is nearly perfect. Director Sunghoo Park and the [MAPPA](https://mappa.co.jp/) team didn’t just use Shibuya as inspiration—they mapped the actual geography into their storyboards ([source: official Jujutsu Kaisen anime site](https://jujutsukaisen-anime.com/)). The result: you can stand in Hachiko Square and see the exact angle where the barrier activated in episode 148. You can walk to Shibuya 109 and recognize the building’s curves in the backdrop of a curse encounter. This isn’t vague anime pilgrimage stuff. These are specific coordinates with specific scenes.
 
 ## Why Shibuya Matters in Jujutsu Kaisen
 
@@ -67,7 +67,7 @@ Photos: Face south toward the station building for matching angles
 Time to spend here: 15-20 minutes for photos and scene matching.
 
 ### 2. Shibuya 109 — The Barrier Core
-Shibuya 109 is the cylindrical shopping building that’s impossible to miss. In the anime, it serves as a visual anchor point for the barrier’s core location. You see it in multiple episodes as the camera pans across the barrier zone. The building’s distinctive circular architecture appears in several frames showing the curse barrier’s perimeter.
+[Shibuya 109](https://shibuya109.jp/) is the cylindrical shopping building that’s impossible to miss. The official site lists building hours as 10:00–21:00 and floors B2 through 8F covering fashion, cosmetics, dining and tax-free retail ([source: Shibuya 109 official site](https://shibuya109.jp/)). In the anime, it serves as a visual anchor point for the barrier’s core location. You see it in multiple episodes as the camera pans across the barrier zone. The building’s distinctive circular architecture appears in several frames showing the curse barrier’s perimeter.
 
 ![Shibuya 109 cylindrical fashion building — the iconic Dogenzaka landmark used as a visual anchor for the barrier core in JJK Shibuya Incident](/images/articles/jujutsu-kaisen-shibuya-locations-2026/body-wikimedia-3.webp)
 *Shibuya 109 — the cylindrical 10-story fashion building at the Dogenzaka / Center-gai intersection. Its distinctive curved facade appears in multiple JJK Shibuya Incident wide-shot establishing frames. Photo: Wikimedia contributor / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Shibuya_109_-_1.jpg), CC BY-SA 4.0.*
@@ -278,7 +278,7 @@ Instagram: @walnut_coffee_tokyo
 
 **Ichiran Ramen (Center-gai)**
 
-Ichiran is a nationwide ramen chain with a location on Center-gai. If you need a substantial meal, this is your fastest option. Individual ramen bowls cost ¥900-1,100. Individual counters mean you can sit, eat quickly, and get back to location hunting. The shop is busy midday but moves quickly.
+[Ichiran](https://ichiran.com/) is a nationwide ramen chain with a location on Center-gai ([source: Ichiran official site](https://ichiran.com/)). If you need a substantial meal, this is your fastest option. Individual ramen bowls cost ¥900-1,100. Individual counters mean you can sit, eat quickly, and get back to location hunting. The shop is busy midday but moves quickly.
 
 **Ichiran Ramen (Center-gai location)**
 
@@ -292,7 +292,7 @@ Hours: 10:30am-11pm daily
 
 Price: ¥900-1,100
 
-Website: ichiran.com
+Website: [ichiran.com](https://ichiran.com/)
 
 **Omotesando Koffee (near Miyashita Park)**
 

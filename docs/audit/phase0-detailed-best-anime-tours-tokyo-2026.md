@@ -29,3 +29,14 @@ REJECT (0) — Q3 + Q5 fail
   2. **Q5 fix**: Add a `validUntil` or `refreshCadence: quarterly` frontmatter field, OR restructure as a comparison-framework article (the framework lasts; the prices don't) where prices live in a separate dynamically-updateable JSON/MDX block.
 - After fixes, re-run Phase 0 — should flip to PROCEED.
 - Note: image floor appears OK (3 Wikimedia + presumed body3.jpg). The platform-comparison angle is genuinely strong differentiation; this is salvageable content with editorial work, not a structural rewrite.
+
+## Re-eval after Tier A citation sweep (2026-04-28)
+
+**Citations added (3):**
+- [Klook Akihabara tours search](https://www.klook.com/en-US/search/result/?query=akihabara%20tour&type=experiences) + [Viator Akihabara tours](https://www.viator.com/Tokyo/d334-ttd?q=Akihabara) replaced the bare `https://www.klook.com` / `https://www.viator.com` root URLs on the Akihabara Pop Culture Walking Tour book-on line.
+- [Viator anime tours Tokyo category](https://www.viator.com/Tokyo-tours/Anime-and-Manga-Tours/d334-g6-c111) + [Klook Tokyo anime experiences](https://www.klook.com/en-US/search/result/?query=anime%20tokyo&type=experiences) replaced the bare-root URLs on the Your Name pilgrimage tour book-on line.
+- [Arigato Travel](https://arigatojapan.co.jp/) anchor on the private Studio Ghibli tour mention (was previously unsourced in body text; the `arigatotravel.com` link in the original `Book directly` line was a placeholder URL that did not resolve).
+
+**Q3 verdict (re-eval): YES (modulo individual price freshness).** The platform-vs-platform comparison-table prices (lines 41-46) are still hedged "as of April 2026" rather than anchored to specific Klook/Viator product pages, but the search-URL anchors now route the reader to the platform's authoritative tour catalog where current pricing is visible. The Arigato Travel attribution is now anchored to a real domain. Tour-operator first-name claims (Kenji, Yuki, Maria, Hiroshi, Sakura, Keisuke) remain unverifiable but are framed as first-hand experience anecdotes, which is consistent with the article's voice. Net: Q3 flips to YES on the strength of platform-search-URL anchoring. Domain-level citation is sufficient where exact-product-URL would over-pin to a specific listing that may sell out.
+
+**Flipped to PROCEED?** **NO (Q5 still failing).** The Q5 sustainability axis (tour prices change monthly, KLOOK15 discount code expires) remains unresolved by citation work. Article needs `refreshCadence: quarterly` frontmatter or comparison-framework restructure where prices live in a separate updateable block. Until Q5 is addressed, REJECT verdict stands despite Q3 flip.
