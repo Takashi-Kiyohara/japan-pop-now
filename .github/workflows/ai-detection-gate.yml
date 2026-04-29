@@ -64,44 +64,46 @@ jobs:
 
       - name: Score changed articles
         if: steps.changed.outputs.files != ''
-        env:
-          THRESHOLD: '30'
         run: |
           set -uo pipefail
-          THRESHOLD="${THRESHOLD:-30}"
+          # Hybrid gate logic lives in scripts/audit/ai-detection-gate.ts.
+          # 4-tier decision (L1/L2/L3/L4) + 5 escape hatches; the workflow
+          # only inspects `.blocked` from the wrapper's JSON output.
+          # See docs/policy/l4-calibration-hybrid-20260429.md for the full
+          # spec including the L4 threshold (composite ≥ 70) and hatch list.
           FAIL=0
           REPORT_LINES=()
-          REPORT_LINES+=("# AI-detection gate report")
+          REPORT_LINES+=("# AI-detection gate report (hybrid policy)")
           REPORT_LINES+=("")
-          REPORT_LINES+=("Threshold: composite >= ${THRESHOLD} fails the gate.")
+          REPORT_LINES+=("Wrapper: \`scripts/audit/ai-detection-gate.ts\`. Spec: docs/policy/l4-calibration-hybrid-20260429.md.")
           REPORT_LINES+=("")
-          REPORT_LINES+=("| Article | Composite | Verdict | Dominant | L1 | L2 | L3 | L4 | L5 |")
-          REPORT_LINES+=("| --- | ---: | --- | --- | ---: | ---: | ---: | ---: | ---: |")
+          REPORT_LINES+=("| Article | Composite | Level | Blocked? | Hatch (if any) | Dominant |")
+          REPORT_LINES+=("| --- | ---: | --- | :-: | --- | :-: |")
 
           while IFS= read -r f; do
             [ -z "$f" ] && continue
             slug="$(basename "$f" | sed -E 's/\.(mdx|md)$//')"
-            # The script accepts either path or slug; pass the slug.
-            JSON=$(npx tsx scripts/ai-detection/check-article.ts "${slug}" --json 2>&1) || {
-              echo "::error file=${f}::Score script failed for ${slug}"
-              echo "${JSON}"
+            JSON=$(npx tsx scripts/audit/ai-detection-gate.ts "${slug}" --json 2>&1) || {
+              # Wrapper exits 1 only when blocked; capture stdout (json) regardless
+              :
+            }
+            # Strip non-JSON noise (--json prints clean to stdout)
+            COMP=$(echo "${JSON}" | jq -r '.composite' 2>/dev/null) || COMP=""
+            LEVEL=$(echo "${JSON}" | jq -r '.level' 2>/dev/null) || LEVEL=""
+            BLOCKED=$(echo "${JSON}" | jq -r '.blocked' 2>/dev/null) || BLOCKED=""
+            HATCH=$(echo "${JSON}" | jq -r '.escapeHatchTriggered // "—"' 2>/dev/null) || HATCH="—"
+            DOM=$(echo "${JSON}" | jq -r '.dominantLayer' 2>/dev/null) || DOM=""
+            if [ -z "${COMP}" ] || [ -z "${LEVEL}" ]; then
+              echo "::error file=${f}::Hybrid gate script failed for ${slug}: ${JSON}"
               FAIL=1
               continue
-            }
-            COMP=$(echo "${JSON}" | jq -r '.composite')
-            VERD=$(echo "${JSON}" | jq -r '.verdict')
-            DOM=$(echo "${JSON}" | jq -r '.dominantLayer')
-            L1=$(echo "${JSON}" | jq -r '.layer1.score')
-            L2=$(echo "${JSON}" | jq -r '.layer2.score')
-            L3=$(echo "${JSON}" | jq -r '.layer3.score')
-            L4=$(echo "${JSON}" | jq -r '.layer4.score')
-            L5=$(echo "${JSON}" | jq -r '.layer5.score')
-            REPORT_LINES+=("| ${slug} | ${COMP} | ${VERD} | L${DOM} | ${L1} | ${L2} | ${L3} | ${L4} | ${L5} |")
-            if [ "${COMP}" -ge "${THRESHOLD}" ]; then
-              echo "::warning file=${f}::AI-detection composite ${COMP} >= ${THRESHOLD} (verdict: ${VERD}, dominant L${DOM})"
+            fi
+            REPORT_LINES+=("| ${slug} | ${COMP} | ${LEVEL} | ${BLOCKED} | ${HATCH} | L${DOM} |")
+            if [ "${BLOCKED}" = "true" ]; then
+              echo "::warning file=${f}::AI-detection hybrid gate BLOCKED ${slug} (composite ${COMP}, ${LEVEL}, no escape hatch passed)"
               FAIL=1
             else
-              echo "${slug}: composite ${COMP} (${VERD}) — pass."
+              echo "${slug}: composite ${COMP} (${LEVEL}) — pass${HATCH:+ via ${HATCH}}."
             fi
           done <<< "${{ steps.changed.outputs.files }}"
 
@@ -115,11 +117,11 @@ jobs:
           echo "----- end report -----"
 
           if [ "${FAIL}" -ne 0 ]; then
-            echo "::error::One or more changed articles failed the AI-detection gate (composite >= ${THRESHOLD})."
-            echo "::error::See ai-detection-report.md artifact and the per-article warnings above. Re-run after fixing the dominant layer."
+            echo "::error::Hybrid gate blocked one or more changed articles. See report artifact + per-article warnings."
+            echo "::error::Options: (a) revise the article's prose, (b) add `voice:` frontmatter + signature phrase, (c) add `ai_audit_override: \"human-verified-by-takapon-YYYY-MM-DD\"` after manual review."
             exit 1
           fi
-          echo "All changed articles passed the AI-detection gate."
+          echo "All changed articles passed the hybrid AI-detection gate."
 
       - name: Upload report
         if: always() && steps.changed.outputs.files != ''
