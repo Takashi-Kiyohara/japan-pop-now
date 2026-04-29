@@ -88,6 +88,8 @@ The honest answer: **It still pays for itself on a typical 10-day trip. But bare
 
 **Verdict: Pass costs ¥34,480 MORE. But the freedom to take any JR train, any time, is worth ¥34,480 to most travelers who hate calculating fares. The psychological relief is real.**
 
+For the day-one walkthrough on actually riding the train — IC card pickup, ticket gates, Smart EX Shinkansen booking, and women-only car rules — see the companion guide [How to Use Trains in Japan: A First-Timer's Anime Guide](/articles/how-to-ride-trains-japan-tourists-2026).
+
 ## JR Pass Break-Even Calculator (Use This)
 
 ![Japan Rail Pass paper tickets on a table next to a Japan rail map — used to illustrate the physical pass exchanged at JR offices](/images/articles/japan-rail-pass-2026-guide/body-wikimedia-2.webp)

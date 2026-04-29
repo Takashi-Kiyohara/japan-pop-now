@@ -194,6 +194,8 @@ Anime shopping in Tokyo means miles of walking—Akihabara’s electric town dis
 ## Day 1 in Japan: First Things to Do
 You’ve arrived. Here’s the immediate action list.
 
+If you’ve never used Japanese trains before, read [How to Use Trains in Japan: A First-Timer's Anime Guide](/articles/how-to-ride-trains-japan-tourists-2026) first — it covers the airport-to-hotel express choice, the IC card tap sequence, women-only car rules, and the Smart EX app for Shinkansen reservations, all in one walkthrough.
+
 ### Activate Your JR Pass (If You Have One)
 Go to the JR East office at Haneda or Narita to exchange your voucher for the physical JR Pass. This takes 10 minutes. The office is near the train station entrance on level 1 or B1 (depending on terminal). Hours are roughly 8:15 AM – 7:00 PM daily. Write down the activation date you want (some people activate immediately, others wait 2-3 days to use it for specific trips). The JR Pass is valid for 7 or 14 consecutive days from activation.
 
