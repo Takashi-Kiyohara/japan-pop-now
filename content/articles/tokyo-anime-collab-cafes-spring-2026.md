@@ -2,7 +2,7 @@
 title: "Tokyo Anime Collab Cafes Spring 2026: 12 Open, Map & Booking"
 description: "Updated weekly. Every anime collaboration cafe in Tokyo for Spring 2026: JJK PLAZA, One Piece Cafe GENE, My Dress-Up Darling, and more. Dates, locations,..."
 date: "2026-03-25"
-lastUpdated: "2026-03-25"
+lastUpdated: "2026-04-29"
 category: "cafes"
 tags: []
 featuredImage: "/images/articles/tokyo-anime-collab-cafes-spring-2026/featured.jpg"
@@ -13,9 +13,9 @@ relatedSlugs: []
 wpPostId: 101
 ---
 
-*Last updated: April 2026.*
+*Last updated: April 29, 2026.*
 
-*Updated weekly. Last update: April 2, 2026.*
+*Updated weekly. Last update: April 29, 2026 — six collabs ended over the past week (full list below); Golden Week openings noted.*
 
 ![SPY×FAMILY anime fair at Animate — Spring 2026 collab cafe and merchandise event in Tokyo](https://japan-pop-now.com/wp-content/uploads/2026/04/spy-family-animate-fair-2026.jpeg)
 Shibuya street scene near PARCO — the heart of Tokyo’s pop culture shopping district
@@ -70,14 +70,14 @@ Here’s the typical experience, step by step:
 
 A typical visit costs ¥2,500 to ¥5,000 per person including food, drinks, and a small merchandise purchase.
 
-## Open Now: April 2026
+## Open Now: Late April–May 2026 (Including Golden Week)
 The following collab cafes are running in Tokyo right now. We’ve included everything you need to plan a visit: dates, location with the nearest station and walking directions, reservation requirements, what makes each one worth going to, and a local tip you won’t find on the official site.
 
 How to use this list fast
 
 If you only have one slot, prioritize **reservation difficulty first**, **location second**, and **merchandise appeal third**. Reservation-heavy venues like BOX cafe&space and PARCO cafes can sell out fast, while Gratte stands and merch pop-ups are better same-week options.
 
-### 1. Jujutsu Kaisen PLAZA — “Chair:Black” (Multiple Venues, March–June)
+### 1. Jujutsu Kaisen PLAZA — “Chair:Black” (Sendai now open; Kyoto May 13)
 
 ![One Piece Cafe GENE at Shibuya PARCO — one of Tokyo](https://japan-pop-now.com/wp-content/uploads/2026/04/one-piece-cafe-gene-parco-2026.jpg)
 Tokyo Skytree and the Solamachi shopping complex — a hub for anime pop-ups and character goods
@@ -85,10 +85,11 @@ Image: Collabo Cafe
 
 Jujutsu Kaisen’s newest “Chair:Black” visual series has launched across five venues in Japan. This is a merchandise pop-up rather than a full cafe — no food, no reservation needed. The new artwork features Itadori Yuji, Fushiguro Megumi, Okkotsu Yuta, Choso, and Zen’in Naoya in a dark, monochrome seated pose inspired by the Culling Game arc. Products include acrylic stands (¥880), clear files (¥440), tapestries (¥2,200), and badges (¥440).
 
-| **Tokyo venue** | Tokyo Solamachi Loft (inside Tokyo Skytree Town), March 28 – April 26, 2026 |
+| **Currently running** | Sendai Loft (April 24 – May 20, 2026) — open now, Chair:Black standees and merch on display |
 | --- | --- |
-| **Other venues** | Umeda Loft/Osaka (Mar 20–Apr 12), Hands Nagoya (Apr 2–15), Sendai Loft (Apr 24–May 20), Kyoto Loft (May 13–Jun 10) |
-| **Nearest station (Tokyo)** | Oshiage Station (Hanzomon / Toei Asakusa Line) — direct connection to Solamachi |
+| **Coming next** | Kyoto Loft (May 13 – June 10, 2026) — final venue |
+| **Recently ended** | Tokyo Solamachi Loft (closed April 26), Umeda Loft (closed April 12), Hands Nagoya (closed April 15) |
+| **Sendai Loft address** | Sendai Loft 2F “Loft Market” area — 6 min walk from JR Sendai Station West Exit |
 | **Hours** | 10:00–21:00 |
 | **Reservation** | Not required — walk in anytime |
 | **Tax-free** | Available for purchases over ¥5,000 with passport |
@@ -96,7 +97,7 @@ Jujutsu Kaisen’s newest “Chair:Black” visual series has launched across fi
 
  **Local tip:** Popular character merch sells out within the first few days. If there’s something specific you want, go on opening day. These pop-ups do not restock — once an item is sold out at a location, it’s gone. Spend ¥2,200+ to get a bonus postcard; ¥4,400+ for an oversized Chair:Black shopping bag.
 
- **Combine with:** Tokyo Solamachi is a 15-minute walk from Asakusa (Sensoji Temple). Plan both on the same day.
+ **Combine with:** Sendai Loft is a short walk from Sendai Station; if you’re basing your trip in Tokyo, the Tohoku Shinkansen reaches Sendai in about 90 minutes. Going to Kyoto in May? Block out time at Kyoto Loft after May 13.
 
 ### 2. [One Piece](/one-piece-cafe-gene-parco-2026/) Cafe GENE — Shibuya PARCO 6F (Two Menu Periods)
 
@@ -123,18 +124,17 @@ The world’s best-selling manga gets a full collab cafe that takes an unusually
 ![Shibuya PARCO exterior — illustrative venue building exterior, home to THE GUEST cafe&diner on the 6th floor](/images/articles/tokyo-anime-collab-cafes-spring-2026/body-wikimedia-1.webp)
 *Shibuya PARCO exterior — illustrative venue building (THE GUEST cafe&diner sits on the 6th floor). Photo: Syced / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Shibuya_PARCO_2.jpg), CC0.*
 
-### 3. My Dress-Up Darling Season 2 Cafe — mottocafé Ikebukuro
-With Season 2 currently airing and generating massive international buzz, this collab cafe at mottocafé Ikebukuro captures Marin Kitagawa’s colorful cosplay aesthetic through its menu and decorations. The exclusive merchandise features new Season 2 artwork that isn’t available at any other retailer or online store.
+### 3. My Dress-Up Darling Season 2 Cafe — mottocafé Ikebukuro (ENDED April 19)
+This collab finished its Tokyo run on April 19, 2026. The exclusive Season 2 merchandise is no longer available at mottocafé Ikebukuro.
 
-| **Dates** | Until April 19, 2026 |
+| **Status** | Ended April 19, 2026 |
 | --- | --- |
-| **Location** | mottocafé Ikebukuro, Toshima-ku, Tokyo (also running in Osaka) |
-| **Nearest station** | Ikebukuro Station East Exit → 4 min walk toward Animate area |
-| **Reservation** | Recommended. Book via mottocafé official site. |
-| **Budget** | ¥2,000–4,000 per person |
+| **Tokyo venue** | mottocafé Ikebukuro — collab finished |
+| **Osaka venue** | The Osaka run finished on the same schedule |
+| **What instead?** | The same mottocafé Ikebukuro space rotated into a new “Goukon ni Ittara Onna ga Inakatta Hanashi” (合コンに行ったら女がいなかった話) collab on April 29, 2026, running through July 5. |
 | **Official info** | [collabocafe.tokyo](https://collabocafe.tokyo/) |
 
- **Local tip:** mottocafé is in the Ikebukuro Animate district. After your cafe slot, walk 3 minutes to Animate Ikebukuro Main Store (Japan’s largest anime store, 9 floors), then check the Gratte stand in the basement for a no-reservation collab drink.
+ **Local tip:** mottocafé Ikebukuro is in the heart of the Ikebukuro Animate district. Even after the Marin Kitagawa run, this venue is worth checking — collabs rotate every 1–3 months. After your cafe slot, walk 3 minutes to Animate Ikebukuro Main Store (Japan’s largest anime store, 9 floors), then check the Gratte stand in the basement for a no-reservation collab drink.
 
 ### 4. Maid Sama! (Kaichou wa Maid-sama!) Cafe — My Charaful Cafe
 The beloved shojo classic has a new anime adaptation, and this collab cafe celebrates Misaki’s double life as student council president and maid cafe worker. There’s a nice meta quality to visiting a collab cafe themed around a character who works at a cafe. The menu includes items inspired by both sides of Misaki’s world.
@@ -145,63 +145,90 @@ The beloved shojo classic has a new anime adaptation, and this collab cafe celeb
 | **Reservation** | Check official site |
 | **Official info** | [mycharaful.com](https://mycharaful.com/) |
 
-## Coming in April 2026
-These cafes haven’t opened yet, but dates and locations are confirmed. Reservation booking windows will open 2-4 weeks before each start date — follow the official accounts (linked below) to catch the announcement.
+## Closing Through May 2026 (Originally Listed as “Coming in April”)
+When this guide was first published these cafes had not yet opened. As of April 29, 2026 most are now mid-run; statuses below are current. Reservation booking windows will open 2-4 weeks before each start date — follow the official accounts (linked below) to catch the announcement.
 
-### 5. Ouran Host Club 20th Anniversary — Tree Village (April 1–)
-Celebrating 20 years of Ouran High School Host Club with themed dishes inspired by each host club member. Running at Tree Village locations in Tokyo, Osaka, and Fukuoka. A nostalgic collab for longtime fans of the classic shoujo series.
+### 5. Ouran Host Club 20th Anniversary — Tree Village (Tokyo closes May 1; Osaka/Hakata run later)
+Celebrating 20 years of Ouran High School Host Club with themed dishes inspired by each host club member. Final 3 days for the Tokyo run as of April 29.
 
-**Venue:** Tree Village Tokyo / Osaka / Fukuoka
+**Tokyo venue:** Tree Village Tokyo, Tokyo Skytree Town Solamachi West Yard 4F
 
-**Dates:** April 1 – May 2026
+**Tokyo dates:** April 1 – May 1, 2026 (closing in 3 days)
 
-**Reservation:** Online via Tree Village website
+**Osaka venue:** Tree Village Osaka, HEP FIVE Umeda 8F — May 23 – June 4, 2026
 
-**Price:** ~¥1,000–¥2,500
+**Hakata venue:** Tree Village Hakata, Canal City Opa Hakata South Building B1F — May 23 – June 4, 2026
 
-### 6. Tokyo Revengers × Princess Cafe (April 3–26)
-Cherry blossom viewing and bakery-themed collab with Tokyo Revengers characters. Princess Cafe runs smaller, more intimate collabs — a solid walk-in option if the bigger venues are fully booked.
+**Reservation:** Online via the [Tree Village cafe site](https://tree-village.jp/)
+
+**Online merch sales:** April 1 12:00 – June 4 23:59 (5-item per-order limit)
+
+**Price guide:** ~¥1,000–¥2,500 per person
+
+ **Local tip:** If you miss the Tokyo run, the Osaka and Hakata venues open May 23 with the same newly-drawn “Colorful Heart” mini-character artwork. Online merch keeps shipping through June 4.
+
+### 6. Tokyo Revengers × Princess Cafe (ENDED April 26)
+The cherry-blossom-themed Tokyo Revengers collab at Princess Cafe wrapped on April 26, 2026. The Princess Cafe Ikebukuro space rotates fast — its next confirmed run is the “Uramichi Oniisan” (うらみちお兄さん) collab from May 1 – May 21, 2026.
 
 **Venue:** Princess Cafe (multiple locations)
 
-**Dates:** April 3 – April 26, 2026
+**Status:** Ended April 26, 2026
 
-**Reservation:** Walk-in / online lottery
+**What is in the same slot now:** Uramichi Oniisan × Princess Cafe Ikebukuro, May 1 – May 21
 
-**Price:** ~¥800–¥1,800
+**Price guide:** ~¥800–¥1,800 per person
 
-### 7. Katekyo Hitman Reborn! × and GALLERY (April 1–22)
-A rare collab celebrating the classic Shonen Jump series Katekyo Hitman Reborn! at and GALLERY. If you’re a fan of 2000s-era anime, this is a must-visit — Reborn! collabs don’t come around often.
+### 7. Katekyo Hitman Reborn! × and GALLERY (ENDED April 22)
+This rare Reborn! collab at and GALLERY closed on April 22, 2026. Reborn! collabs are infrequent — follow @andgallery_pj on X if you want to catch the next one.
 
 **Venue:** and GALLERY
 
-**Dates:** April 1 – April 22, 2026
+**Status:** Ended April 22, 2026
 
-**Reservation:** Online reservation
+**Tip:** and GALLERY rotates collabs roughly every 2–3 weeks. Check the venue’s schedule directly if you’re in Tokyo for Golden Week and want a smaller, walk-friendly gallery cafe.
 
-**Price:** ~¥1,000–¥2,000
+### 8. My Hero Academia — DECOTTO by animate cafe, Ikebukuro (ENDED April 26)
+The MHA “Waffle Sandwich Diner” run at DECOTTO closed on April 26, 2026. The 10th-anniversary fair across Animate stores nationwide ran on the same calendar. DECOTTO rotates collabs every 1–2 months, so check the venue’s next theme if you’re in Ikebukuro during Golden Week.
 
-### 8. My Hero Academia — DECOTTO by animate cafe, Ikebukuro (April 3–)
-My Hero Academia has one of the largest English-speaking fanbases of any anime, which means this cafe will sell out fast. DECOTTO by animate cafe is a take-out focused collab shop (donuts, drinks, and character-themed items) located on the ground floor of Animate Annex in Ikebukuro.
-
-| **Location** | DECOTTO by animate cafe, 1F Animate Annex, 3-2-1 Higashi-Ikebukuro, Toshima-ku, Tokyo 170-0013 |
+| **Status** | Ended April 26, 2026 |
 | --- | --- |
+| **Location** | DECOTTO by animate cafe, 1F Animate Annex, 3-2-1 Higashi-Ikebukuro, Toshima-ku, Tokyo 170-0013 |
 | **Nearest station** | Higashi-Ikebukuro Station (Yurakucho Line) → 2 min walk. Or Ikebukuro Station East Exit → 8 min walk. |
-| **Hours** | 11:30–21:20 (typical DECOTTO hours, may vary for this collab) |
-| **Reservation** | Initial days typically use lottery reservation via Animate app. After the first week, walk-in with numbered tickets when crowded. |
-| **What to know** | DECOTTO is take-out focused (donuts and drinks), not a sit-down cafe. Collabs change every 1-2 months. Merchandise requires ordering at least one drink (approx. ¥600) to purchase limited items. |
-| **Official info** | [animatecafe.jp](https://www.animatecafe.jp/) — Follow [@animate_cafe on X](https://x.com/animate_cafe) for reservation announcements. |
+| **Hours** | 11:30–21:20 (typical DECOTTO hours when a new collab launches) |
+| **What instead?** | A new Animate Cafe collab is running now: i7 (アイドリッシュセブン) × Animate Cafe Tokyo/Osaka “Rivare Chaya” (りばぁれ茶屋), April 7 – May 10, 2026. See the [Animate Cafe guide](/articles/animate-cafe-guide-japan/) for the full lottery walkthrough. |
+| **Official info** | [animatecafe.jp](https://www.animatecafe.jp/) — Follow [@animate_cafe on X](https://x.com/animate_cafe) for the next collab announcement. |
 
  **Local tip:** Animate has *four* separate cafe locations in Ikebukuro alone (DECOTTO, 2go, 3 Shop, 4go). Make sure you go to the right one — they run different collabs simultaneously. DECOTTO is on the 1st floor of the Annex building, not in the main Animate store.
 
-### 9. HUNTER×HUNTER Zoldyck Family Arc — Gratte at Animate (April 1–15)
-A character drink collaboration at Gratte stands inside Animate stores. No reservation required. Available at Animate Ikebukuro, Akihabara ANNEX, Shibuya, and other locations nationwide.
+### 9. HUNTER×HUNTER Zoldyck Family Arc — Gratte at Animate (ENDED April 15)
+This Gratte stand collab inside Animate stores wrapped on April 15, 2026. Gratte themes rotate every two weeks — walk into any Animate Gratte counter (Ikebukuro basement, Akihabara ANNEX, Shibuya, Kichijoji PARCO) to see what is currently running. No reservation, ¥700–900 per drink with a random collectible.
 
-### 10. Detective Conan Cafe 2026 — BOX cafe&space (April 10–)
-Tied to the new movie “The One-Eyed Remnant” (隻眼の残像), the annual Conan cafe returns to three Tokyo locations: Shibuya (GEMS), Ikebukuro (Grandscape), and Tokyo Solamachi. Conan cafes are among the most elaborately decorated in Tokyo, with themed interiors that change with each movie. These will require advance reservation via the BOX cafe&space website.
+### 10. Detective Conan Cafe 2026 — BOX cafe&space (Two Menu Periods Through June)
+Tied to the new 2026 movie *Detective Conan: Highway no Datenshi* (名探偵コナン ハイウェイの堕天使 — “The Highway’s Fallen Angel”), released April 10, 2026, the annual Conan cafe runs at three Tokyo BOX cafe&space locations with two menu periods.
 
-### 11. Black Jack Collab Cafe — Tokyo, Osaka, Nagoya (April 10 – May 25)
-An interactive concept where the dishes change based on your choices — mirroring Black Jack’s medical decision-making themes. A creative departure from the standard collab cafe format.
+| **Shibuya (GEMS)** | First half: April 10 – May 17 / Second half: May 20 – June 28, 2026 |
+| --- | --- |
+| **Ikebukuro (Grandscape)** | First half: April 17 – May 17 / Second half: May 20 – August 2, 2026 |
+| **Tokyo Solamachi** | First half: April 17 – May 17 / Second half: May 20 – June 28, 2026 |
+| **Reservation** | Required — BOX cafe&space website (slots open in waves; expect competition during Golden Week) |
+| **Time limit** | 70 minutes per table |
+| **Official info** | [conan-cafe.jp](https://conan-cafe.jp/) |
+
+Conan cafes are among the most elaborately decorated in Tokyo. The interior changes with each movie — this year’s theme features Hagiwara Chihaya (a new character: a Kanagawa Police motorcycle officer voiced by Sawashiro Miyuki) and Conan against a highway-chase backdrop.
+
+ **Local tip:** The May 20 menu switch resets the bonus collectibles — fans aiming to complete sets often book once in each period. The Solamachi location pairs naturally with the JJK PLAZA Sendai trip if you’re combining a Tokyo–Tohoku itinerary.
+
+### 11. Black Jack Collab Cafe — Collabo_Index Tokyo / Osaka / Nagoya (April 10 – May 18 in Tokyo)
+An interactive concept where the dishes change based on your choices — mirroring Black Jack’s medical decision-making themes. Each order earns a random “patient chart” card and an SNS-style clear card.
+
+| **Tokyo venue** | Collabo_Index Ikebukuro PARCO 8F, 1-28-2 Minami-Ikebukuro, Toshima-ku |
+| --- | --- |
+| **Tokyo dates** | April 10 – May 18, 2026 (Osaka/Nagoya runs through May 25) |
+| **Standout menu** | “Genius Surgeon’s 2-Choice Curry” (¥1,680, healthy or rich version), Black Jack & Kiriko Operating Room Omurice (¥1,850), “Acchonbrike!” Pinoko Parfait (¥1,580) |
+| **Reservation** | Recommended via Collabo_Index official site |
+| **Official info** | [collabo.sld-inc.com/blackjack](https://collabo.sld-inc.com/blackjack) |
+
+ **Local tip:** This is one of the most creative menu formats currently running in Tokyo — the “2-choice” theme means even repeat visitors can try a different storyline. Order both versions of the curry across two visits if you want the full bonus card set.
 
 ## How to Get a Reservation
 This is the part that trips up most international visitors. Here’s the condensed version (we have a [full step-by-step guide with screenshots](/articles/how-to-book-anime-collab-cafe-japan/) in a separate article):
