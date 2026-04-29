@@ -27,6 +27,8 @@ export type Article = {
   excerpt: string
   relatedSlugs?: string[]
   robots?: string
+  /** ISO date (YYYY-MM-DD). When in the past, the article is excluded from sitemap. */
+  validUntil?: string
 }
 
 export type ArticleMeta = Omit<Article, 'content'>
@@ -78,6 +80,7 @@ export function getArticleBySlug(slug: string): Article | null {
     excerpt: data.excerpt || content.slice(0, 160).replace(/\n/g, ' '),
     relatedSlugs: data.relatedSlugs || [],
     robots: typeof data.robots === 'string' ? data.robots : undefined,
+    validUntil: typeof data.validUntil === 'string' ? data.validUntil : undefined,
   }
 }
 
