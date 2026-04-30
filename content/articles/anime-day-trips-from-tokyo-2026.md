@@ -192,6 +192,7 @@ Kamakura (beach + train ride) and Hakone (pirate ship + ropeway) are the most fa
 
 - [Slam Dunk Kamakura Pilgrimage 2026](/articles/slam-dunk-kamakura-pilgrimage-2026)
 - [Demon Slayer × Meiji-mura 2026 — Aichi Pilgrimage Guide](/articles/demon-slayer-meiji-mura-aichi-pilgrimage-2026) — A Nagoya day-trip that pairs naturally with the Tokyo-side day-trip routes above
+- [Ranma 1/2 Japan 2026 Exhibition + Tree Village Pop-Up Guide](/articles/ranma-japan-2026-exhibition-tree-village-guide) — Ikebukuro Sunshine City exhibition (Apr 23 – May 12) plus Tree Village Tokyo / Osaka / Hakata pop-up cafe legs
 - [10 Anime Pilgrimage Spots in Tokyo (2026)](/articles/anime-pilgrimage-spots-tokyo)
 - [Ghibli Park Complete Guide 2026](/articles/ghibli-park-complete-guide-2026)
 - [Tokyo Anime District Guide: 5 Areas](/tokyo-anime-districts-guide/)
