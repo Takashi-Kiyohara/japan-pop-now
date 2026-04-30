@@ -146,6 +146,7 @@ Namba. It puts you within walking distance of Den Den Town, Chugai Grace Cafe, a
 - [Detective Conan Pilgrimage & Events 2026](/articles/detective-conan-pilgrimage-events-2026)
 - [Tokyo Anime District Guide: 5 Areas](/tokyo-anime-districts-guide/)
 - [Akihabara Complete Guide 2026](/akihabara-complete-guide/)
+- [Frieren × USJ Story Walk Osaka 2026](/articles/frieren-usj-story-walk-osaka-2026) — the May 30 onward Universal Studios Japan walk-through, the largest Osaka anime attraction during the run
 - [Japan Rail Pass 2026: Is It Worth It?](/articles/japan-rail-pass-2026-guide)
 - [Japan eSIM vs Pocket WiFi: Best Pick for 2026](/articles/japan-esim-pocket-wifi-sim-card)
 
