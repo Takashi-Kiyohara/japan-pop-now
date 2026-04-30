@@ -6,6 +6,14 @@ import { Metadata } from 'next';
 export const metadata: Metadata = {
   title: '404 — Page Not Found',
   description: 'The page you are looking for does not exist. Browse our latest anime cafe guides, pilgrimage spots, and travel tips.',
+  robots: {
+    index: false,
+    follow: false,
+    googleBot: {
+      index: false,
+      follow: false,
+    },
+  },
 };
 
 export default function NotFound() {
