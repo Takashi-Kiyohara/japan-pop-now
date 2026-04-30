@@ -221,6 +221,7 @@ If you found this useful, check out these related articles:
 - [Demon Slayer Pilgrimage Tokyo](/articles/demon-slayer-pilgrimage-tokyo)
 - [Demon Slayer × Meiji-mura 2026 Aichi Pilgrimage Guide](/articles/demon-slayer-meiji-mura-aichi-pilgrimage-2026) — The Aichi-side day-trip that fits the Nagoya leg of any JR Pass anime route
 - [Frieren × USJ Story Walk Osaka 2026](/articles/frieren-usj-story-walk-osaka-2026) — The Osaka leg's headline anime experience at Universal Studios Japan, May 30 to January 11
+- [Ranma 1/2 Japan 2026 Exhibition + Tree Village Pop-Up Guide](/articles/ranma-japan-2026-exhibition-tree-village-guide) — Tokyo-Osaka-Hakata three-leg JR Pass route built around the Ranma 1/2 2026 exhibitions and pop-ups
 - [One Piece Kumamoto Statue Tour](/articles/one-piece-kumamoto-statue-tour)
 - [eSIM vs Pocket WiFi Guide](/japan-esim-pocket-wifi-sim-card-guide/)
 - [Japan IC Card Transit Guide](/articles/japan-ic-card-transit-guide)
