@@ -1,6 +1,6 @@
 {
-  "version": "2.6",
-  "lastUpdated": "2026-05-02",
+  "version": "2.7",
+  "lastUpdated": "2026-05-02b",
   "events": [
     {
       "id": "chiikawa-bakery-harajuku-2026",
@@ -4273,6 +4273,69 @@
       "genre": "shonen",
       "badge": "hot",
       "officialUrl": "https://www.toei-anim.co.jp/lp/wt/stage_2026/"
+    },
+    {
+      "id": "golden-kamuy-golden-week-shinjuku-popup-2026",
+      "ip": "Golden Kamuy",
+      "type": "collab-cafe",
+      "title": "Golden Kamuy 'Golden Week Conquest Battle' x Pasela / Loscabos Shinjuku",
+      "venue": "Karaoke Pasela Shinjuku Honten + Loscabos Shinjuku Honten (1-3-16 Kabukicho)",
+      "city": "Tokyo",
+      "prefecture": "Tokyo",
+      "startDate": "2026-04-28",
+      "endDate": "2026-05-27",
+      "thumbnail": "",
+      "articleSlug": "golden-kamuy-golden-week-shinjuku-popup-2026",
+      "description": "Two-floor Kabukicho popup tied to Golden Kamuy Final Season 'Tokyo Love Story Arc'. Pasela cafe floor on the ground level + Loscabos Tex-Mex dining floor on 8F, each with its own collab menu. Headline novelty: Ezo Deer Brain-Style Cake (¥880). Free random coaster per collab item ordered. Life-size higuma (brown bear) standee + 'Find Shiraishi the Escape King' in-store experience event. Walk-in friendly weekdays.",
+      "reservation": "Walk-in (Pasela cafe floor) | Tablecheck advance for Loscabos groups of 3+",
+      "tags": [
+        "golden-kamuy",
+        "shinjuku",
+        "kabukicho",
+        "pasela",
+        "loscabos",
+        "collab-cafe",
+        "2026-spring",
+        "tokyo",
+        "golden-week",
+        "hokkaido",
+        "ainu"
+      ],
+      "source": "https://kamuy-anime.com/special/event/goldenkamuyweek.html",
+      "lastVerified": "2026-05-02",
+      "genre": "shonen",
+      "badge": "hot",
+      "officialUrl": "https://paselabo.tv/colabo.php?id=305"
+    },
+    {
+      "id": "frieren-usj-story-walk-osaka-2026",
+      "ip": "Frieren: Beyond Journey's End",
+      "type": "experience",
+      "title": "Frieren x USJ Story Walk: Journey of Remembrance",
+      "venue": "Universal Studios Japan, Stage 18",
+      "city": "Osaka",
+      "prefecture": "Osaka",
+      "startDate": "2026-05-30",
+      "endDate": "2027-01-11",
+      "thumbnail": "",
+      "articleSlug": "frieren-usj-story-walk-osaka-2026",
+      "description": "First-ever Frieren theme park attraction worldwide. Walk-through immersive at USJ Stage 18 — guests cast a spell in the grimoire library at Auserst and walk through Zoltraak magic recreations, the Era Meteor showers, and the field of blue moon weed around Himmel's statue. Companion Frieren themed restaurant + Hollywood Dream ride takeover run the same window. Free e-seitai-ken (整理券) required from the USJ app after park entry; Express Pass bundle available for guaranteed slot.",
+      "reservation": "1-Day Studio Pass (from ¥9,200) + free e-seitai-ken pulled in-park via USJ app | Optional Express Pass for guaranteed slot",
+      "tags": [
+        "frieren",
+        "sousou-no-frieren",
+        "universal-studios-japan",
+        "universal-cool-japan-2026",
+        "osaka",
+        "story-walk",
+        "walk-through-attraction",
+        "2026-summer"
+      ],
+      "source": "https://www.usj.co.jp/web/en/us/events/universal-cool-japan-2026/frieren",
+      "lastVerified": "2026-05-02",
+      "genre": "fantasy",
+      "badge": "hot",
+      "officialUrl": "https://frieren-anime.jp/news/5350"
     }
   ]
 }
