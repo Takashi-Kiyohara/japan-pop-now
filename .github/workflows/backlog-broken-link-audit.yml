@@ -1,0 +1,216 @@
+name: Scheduled broken-link audit
+
+# Sweeps every published article (content/articles/*.{md,mdx}) for
+# internal `/articles/...` link drift — i.e. any link target that has
+# gone 404 in production since the last audit. Detected drift opens a
+# GitHub Issue automatically (label: broken-link, P0) and writes the
+# full report to docs/audit/scheduled-drift-{date}.md.
+#
+# Cron: 5/12 09:00 JST (00:00 UTC) yearly + workflow_dispatch for
+# manual triggers.
+
+on:
+  schedule:
+    # 0 0 12 5 * = 00:00 UTC May 12 every year = 09:00 JST May 12
+    - cron: "0 0 12 5 *"
+  workflow_dispatch:
+    inputs:
+      open_issue:
+        description: "Open GitHub Issue on drift (default: true)"
+        required: false
+        default: "true"
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    env:
+      DRIFT_DATE: ""
+      DRIFT_FILE: ""
+      OPEN_ISSUE: ${{ github.event.inputs.open_issue || 'true' }}
+
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+
+      - name: Set audit timestamp
+        run: |
+          DRIFT_DATE=$(date -u +%Y%m%d)
+          echo "DRIFT_DATE=${DRIFT_DATE}" >> "$GITHUB_ENV"
+          echo "DRIFT_FILE=docs/audit/scheduled-drift-${DRIFT_DATE}.md" >> "$GITHUB_ENV"
+
+      - name: Sweep all published articles for /articles/ link drift
+        id: sweep
+        run: |
+          set -e
+          mkdir -p docs/audit
+          REPORT="${DRIFT_FILE}"
+          {
+            echo "# Scheduled drift audit — ${DRIFT_DATE}"
+            echo ""
+            echo "Triggered by ${{ github.event_name }}. Sweeps every article in \`content/articles/\` for internal \`/articles/...\` link targets and curl-verifies each against production with the Googlebot UA. 200 = OK, 404 = drift."
+            echo ""
+            TOTAL_404=0
+            ARTICLES_WITH_DRIFT=0
+            ARTICLES_TOTAL=0
+            BAD_GLOBAL=""
+
+            for f in content/articles/*.md content/articles/*.mdx; do
+              [ -f "$f" ] || continue
+              ARTICLES_TOTAL=$((ARTICLES_TOTAL+1))
+              slug_self=$(basename "$f" | sed 's/\.[^.]*$//')
+
+              # Extract unique /articles/... targets, excluding self
+              targets=$(grep -oE "/articles/[a-z0-9-]+/?\)?" "$f" \
+                | sed 's|/articles/||;s|/$||;s|)$||' \
+                | sort -u \
+                | grep -v "^${slug_self}$" || true)
+
+              n_total=0
+              n_404=0
+              bad_list=""
+              for t in $targets; do
+                n_total=$((n_total+1))
+                code=$(curl -s -o /dev/null -w "%{http_code}" \
+                  -A "Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)" \
+                  "https://www.japan-pop-now.com/articles/${t}")
+                if [ "$code" != "200" ]; then
+                  n_404=$((n_404+1))
+                  bad_list="${bad_list}${t}(${code}) "
+                fi
+              done
+
+              if [ "$n_404" -gt 0 ]; then
+                ARTICLES_WITH_DRIFT=$((ARTICLES_WITH_DRIFT+1))
+                TOTAL_404=$((TOTAL_404+n_404))
+                BAD_GLOBAL="${BAD_GLOBAL}- **${slug_self}**: ${n_404} broken — \`${bad_list}\`\n"
+                echo "## ${slug_self}"
+                echo ""
+                echo "- Total internal /articles/ targets: ${n_total}"
+                echo "- 404 (or non-200): **${n_404}**"
+                echo "- Bad: \`${bad_list}\`"
+                echo ""
+              fi
+            done
+
+            echo "## Aggregate"
+            echo ""
+            echo "- Articles audited: ${ARTICLES_TOTAL}"
+            echo "- Articles with drift: ${ARTICLES_WITH_DRIFT}"
+            echo "- Total non-200 link targets: **${TOTAL_404}**"
+            echo ""
+            if [ "$TOTAL_404" -eq 0 ]; then
+              echo "**Result: clean.** No drift detected. No fix PR needed."
+            else
+              echo "**Result: drift detected.** Each non-200 target above must be fixed in a follow-up PR."
+              echo ""
+              echo "## Drift summary (for issue body)"
+              echo ""
+              printf '%b' "${BAD_GLOBAL}"
+            fi
+
+            echo "TOTAL_404=${TOTAL_404}" > /tmp/audit_summary.env
+            echo "ARTICLES_WITH_DRIFT=${ARTICLES_WITH_DRIFT}" >> /tmp/audit_summary.env
+            echo "ARTICLES_TOTAL=${ARTICLES_TOTAL}" >> /tmp/audit_summary.env
+          } > "$REPORT"
+
+          # Surface counts to subsequent steps
+          set -a
+          . /tmp/audit_summary.env
+          set +a
+          {
+            echo "total_404=${TOTAL_404}"
+            echo "articles_with_drift=${ARTICLES_WITH_DRIFT}"
+            echo "articles_total=${ARTICLES_TOTAL}"
+            echo "report_path=${REPORT}"
+          } >> "$GITHUB_OUTPUT"
+          echo "::notice::Audit complete. articles=${ARTICLES_TOTAL}, drift_articles=${ARTICLES_WITH_DRIFT}, total_404=${TOTAL_404}, report=${REPORT}"
+
+      - name: Commit drift report to docs/audit/
+        if: success()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add "${DRIFT_FILE}"
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "docs(audit): scheduled drift audit ${DRIFT_DATE} (workflow run #${{ github.run_id }})"
+            git push origin main
+          fi
+
+      - name: Open Issue on drift
+        if: ${{ steps.sweep.outputs.total_404 != '0' && env.OPEN_ISSUE == 'true' }}
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const reportPath = '${{ steps.sweep.outputs.report_path }}';
+            const totalBroken = '${{ steps.sweep.outputs.total_404 }}';
+            const driftArticles = '${{ steps.sweep.outputs.articles_with_drift }}';
+            const articlesTotal = '${{ steps.sweep.outputs.articles_total }}';
+            const driftDate = process.env.DRIFT_DATE;
+
+            let body = '';
+            try {
+              body = fs.readFileSync(reportPath, 'utf8');
+            } catch (e) {
+              body = `Could not read ${reportPath}: ${e.message}`;
+            }
+
+            const title = `[broken-link] Scheduled drift audit ${driftDate}: ${totalBroken} broken across ${driftArticles}/${articlesTotal} articles`;
+
+            const issueBody = [
+              `Scheduled drift audit detected **${totalBroken} non-200 internal-link targets** across **${driftArticles}** of ${articlesTotal} published articles on production.`,
+              '',
+              `**Trigger:** ${{ github.event_name }} • **Run:** ${{ github.run_id }} • **Workflow:** \`backlog-broken-link-audit.yml\``,
+              '',
+              `Full report committed to \`${reportPath}\` on main.`,
+              '',
+              '---',
+              '',
+              body,
+            ].join('\n');
+
+            // Ensure the broken-link label exists
+            try {
+              await github.rest.issues.getLabel({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                name: 'broken-link',
+              });
+            } catch (e) {
+              if (e.status === 404) {
+                await github.rest.issues.createLabel({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  name: 'broken-link',
+                  color: 'b60205',
+                  description: 'One or more internal /articles/ links resolve non-200 in production',
+                });
+              }
+            }
+
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title,
+              body: issueBody,
+              labels: ['broken-link', 'P0'],
+            });
+
+      - name: Upload report artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: scheduled-drift-${{ env.DRIFT_DATE }}
+          path: ${{ env.DRIFT_FILE }}
+          retention-days: 90
