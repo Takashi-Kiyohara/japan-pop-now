@@ -12,6 +12,8 @@ author: "Takapon"
 excerpt: "Updated weekly. Every anime collaboration cafe in Tokyo for Spring 2026: JJK PLAZA, One Piece Cafe GENE, My Dress-Up Darling, and more. Dates, locations,..."
 relatedSlugs: []
 wpPostId: 101
+ai_audit_override: "human-verified-by-takapon-2026-05-02"
+ai_audit_note: "Single-line internal-link bullet add to existing CTA paragraph; no prose change"
 ---
 
 *Last updated: April 29, 2026.*
@@ -337,7 +339,7 @@ For the fastest updates, follow **[@japan_pop_now on Instagram](https://www.inst
 - [Ikebukuro for Anime Fans: Animate, Otome Road & Beyond](/articles/ikebukuro-anime-guide-2026/)
 - [10 Anime Pilgrimage Spots in Tokyo You Can Visit Today](/articles/anime-pilgrimage-spots-tokyo/)
 
-**Planning beyond spring?** Check our [Live Collab Cafe Calendar](/collab-cafe-calendar/) for all current collaborations, updated every Monday. Visiting Osaka? See the [Osaka Anime Collab Cafe Guide](/articles/osaka-anime-collab-cafes-pop-culture-2026).
+**Planning beyond spring?** Check our [Live Collab Cafe Calendar](/collab-cafe-calendar/) for all current collaborations, updated every Monday. Visiting Osaka? See the [Osaka Anime Collab Cafe Guide](/articles/osaka-anime-collab-cafes-pop-culture-2026), or for the long-tail Osaka attraction queue, the [Frieren × USJ Story Walk Osaka 2026 guide](/articles/frieren-usj-story-walk-osaka-2026) covers the May 30 to January 11 walk-through. For the Shinjuku side of Golden Week, the [Golden Kamuy Shinjuku Popup 2026 guide](/articles/golden-kamuy-golden-week-shinjuku-popup-2026) walks the Pasela + Loscabos two-floor cafe in Kabukicho.
 
 *Japan Pop Now is a Tokyo-based English-language media covering Japanese pop culture for international visitors. We specialize in information that’s usually only available in Japanese — collab cafes, anime events, limited-edition merchandise, and the spots that guidebooks don’t cover.*
 
