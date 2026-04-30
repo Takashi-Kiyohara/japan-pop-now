@@ -20,7 +20,7 @@ Most anime collab cafes, theme parks, and limited events in Japan require advanc
 
 The core issue: Japan’s event ticketing ecosystem was built for domestic residents. Platforms like Loppi (Lawson’s in-store kiosk), most BOX CAFE lottery systems, and many venue-specific reservation forms require a Japanese mobile number for SMS verification. Some accept international credit cards; many don’t. The result is a confusing patchwork where one cafe lets you book from New York in 5 minutes, and the next one is completely inaccessible without someone in Japan helping you.
 
-This guide breaks down every booking method by accessibility level, walks you through the self-service options first, and covers proxy booking services for everything else — including our partner ShingoTravel, which specializes in anime event bookings for overseas fans.
+This guide breaks down every booking method by accessibility level, walks you through the self-service options first, and covers proxy booking services for everything else — including LocaTabi-style marketplaces and hotel concierge fallback for Loppi reservations.
 
 ## Table of Contents
 
@@ -45,7 +45,7 @@ I’ve categorized Japan’s major anime events into three tiers based on how ea
 | **Hard** | Lottery systems (抽選) | Popular cafes during opening week, some exhibitions | Japanese phone number for SMS |
 | **No reservation needed** | Walk-in events | Comiket, Wonder Festival, free exhibitions | Cash at door (Comiket needs advance wristband from convenience store) |
 
-The good news: about 40% of anime events now offer some form of online booking that works with international cards. That number has been growing since 2024, partly because venue operators noticed the surge in overseas visitors (anime pilgrimage tourism grew from 4.6% to 8.5% of all inbound tourists between 2019 and 2023, according to Japan Tourism Agency data). The bad news: the most popular, limited-seat events — the ones that sell out fastest — tend to use the hardest-to-access booking systems.
+The good news: about 40% of anime events now offer some form of online booking that works with international cards. That number has been growing since 2024, partly because venue operators noticed the surge in overseas visitors (anime pilgrimage tourism grew from 4.6% to 8.5% of all inbound tourists between 2019 and 2023, according to [Japan Tourism Agency inbound tourism data](https://www.mlit.go.jp/kankocho/tokei_hakusho/index.html)). The bad news: the most popular, limited-seat events — the ones that sell out fastest — tend to use the hardest-to-access booking systems.
 
 ## Which Events Need a Japanese Address or Phone Number?
 
@@ -114,7 +114,7 @@ ShingoTravel is a Tokyo-based anime tour and booking service run by Shingo, who�
 
 Service fees typically range from ¥1,500-3,000 (~$10-20) per reservation, depending on complexity. Lottery events (where success isn’t guaranteed) are charged only on successful entry. ShingoTravel also offers anime walking tours in Tokyo and Akihabara if you want a guided experience.
 
-**Can’t book from overseas?** Japan Pop Now partners with [ShingoTravel](#), an anime-focused travel service based in Tokyo. They handle Japanese-language bookings on your behalf for a service fee. Contact them at least 2 weeks before your event for the best chance of securing a reservation.
+**Can’t book from overseas?** Use a Tokyo-based proxy booking service like [LocaTabi (Govoyagin)](https://www.govoyagin.com/) or arrange Loppi reservations through your hotel concierge after arrival. They handle Japanese-language bookings on your behalf for a service fee. Contact them at least 2 weeks before your event for the best chance of securing a reservation.
 
 ## How Much Do Proxy Booking Services Cost?
 

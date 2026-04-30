@@ -78,7 +78,7 @@ We hit Akihabara’s three main anime retail zones: the Mandarake building (whic
 
 **Cons:** Doesn’t include meals or drinks (except the cafe stop). If you’re not interested in buying merchandise, you’ll spend a lot of time in shops. The timing depends on how many people actually browse—our first tour ran 40 minutes over schedule.
 
-**Book on:** [Klook](https://www.klook.com) or [Viator](https://www.viator.com) (search “Akihabara Pop Culture”)
+**Book on:** [Klook Akihabara tours](https://www.klook.com/en-US/search/result/?query=akihabara%20tour&type=experiences) or [Viator Akihabara tours](https://www.viator.com/Tokyo/d334-ttd?q=Akihabara) (search “Akihabara Pop Culture”)
 
 ### Akihabara Street Food + Anime Experience (3 hours)
 **Platform:** GetYourGuide / Klook
@@ -135,7 +135,7 @@ Here’s the thing: we could have found these locations ourselves using fan wiki
 
 **Cons:** Group sizes can hit 15 people, which dilutes the experience. Weather is a factor (I did this in September; a rainy-day version would be miserable). The tour requires decent walking fitness—we logged 2.2 miles. Shrine etiquette might feel exclusionary if you’re not familiar with it.
 
-**Book on:** [Viator](https://www.viator.com) or [Klook](https://www.klook.com) (search “Your Name anime locations”)
+**Book on:** [Viator anime tours Tokyo](https://www.viator.com/Tokyo-tours/Anime-and-Manga-Tours/d334-g6-c111) or [Klook Tokyo anime experiences](https://www.klook.com/en-US/search/result/?query=anime%20tokyo&type=experiences) (search “Your Name anime locations”)
 
 ### Studio Ghibli + Anime Location Combo (5 hours, private option)
 **Operator:** Arigato Travel (direct booking)
@@ -148,7 +148,7 @@ Here’s the thing: we could have found these locations ourselves using fan wiki
 
 **What’s included:** Pick-up from hotel (Shibuya/Shinjuku area), visits to 4–5 Ghibli-inspired locations, lunch at a Ghibli-themed restaurant, return to hotel
 
-I booked this privately through Arigato Travel, which operates independently (not through the major platforms) but has a solid online booking system. The price I paid was for two people, making it JPY 13,500 per person—expensive for a group tour, cheaper than a private driver.
+I booked this privately through [Arigato Travel](https://arigatojapan.co.jp/), which operates independently (not through the major platforms) but has a solid online booking system. The price I paid was for two people, making it JPY 13,500 per person—expensive for a group tour, cheaper than a private driver.
 
 Our guide was Hiroshi, who spent 8 years working in anime production before becoming a tour guide. He didn’t just point out buildings; he explained which Ghibli films used which locations, why directors chose those specific spots (light angles, architectural style, neighborhood feel), and how Tokyo’s urban changes have affected some filming locations.
 

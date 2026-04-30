@@ -3,6 +3,7 @@ title: "AnimeJapan 2026 Guide: Tickets, Access, Family Festa, What to Do"
 description: "Visiting AnimeJapan 2026 in Tokyo? Dates, venue access, Family Anime Festa, nearby anime spots, and how to build a trip around the weekend."
 date: "2026-04-06"
 lastUpdated: "2026-04-06"
+validUntil: "2026-03-30"
 category: "experiences"
 tags: []
 featuredImage: "/images/articles/animejapan-2026-guide-international-visitors/featured.jpg"

@@ -31,3 +31,20 @@ REJECT (0) — R1 cannibalization with first-timers-playbook (recoverable via co
   - Q3 fix: add 5-7 inline citations — anime-japan.jp/en (AnimeJapan tickets), comiket.co.jp (Comiket dates), ghibli-jp/en (Ghibli Museum tickets line 154-155), MAPPA studio tour link (line 158-160), and a JR East official JR Pass link.
   - Once R1 + Q3 + image license addressed, this becomes a strong PROCEED.
 </content>
+
+## Re-evaluation (2026-04-28, Tier A citation sweep batch 3)
+Edits applied:
+- Replaced unsourced Comiket date claim ("August 9-11") with the official-site-confirmed Comiket 108 dates (August 15-16, 2026) and added Comiket 109 (December 29-31, 2026); both anchored to https://www.comiket.co.jp/.
+- Replaced unsourced AnimeJapan claim ("March 21-24, 2026 at Odaiba") with the official EN site's "March 28-29, 2026 at Tokyo Big Sight"; anchored twice to https://www.anime-japan.jp/en/.
+- Added the AnimeJapan 2027 → Osaka relocation note from the same official source — supports the "future trips" framing.
+- Anchor-linked the Ghibli Museum URL with corrected canonical (https://www.ghibli-museum.jp/en/) and added an inline `[source: ...]` citation.
+
+WebFetch coverage: comiket.co.jp (200 — verbatim Japanese-script confirmation of Dec 29-31 dates), anime-japan.jp/en (200 — verbatim "March 28-29, 2026 (Saturday-Tuesday)" confirmation, plus 2027 Osaka announcement).
+
+Q3 status: NOW PASS for the three highest-confidence event-date claims (Comiket, AnimeJapan, Ghibli Museum). Other Q3 gaps (JR Pass pricing, MAPPA / Ufotable studio tour links) remain — flagged for Phase 2.
+
+R1 cannibalization with first-timers-japan-playbook-anime-fans-2026 was NOT addressed in this sweep — that's a content-architecture decision (canonical / noindex / refocus) that needs cross-article review. Carrying R1 forward.
+
+R3 featuredImage JNTO license question was NOT addressed in this sweep — image-axis review needed.
+
+Verdict update: REJECT (R1 unresolved) — but Q3 is materially upgraded. R1 + image fixes still needed before PROCEED.

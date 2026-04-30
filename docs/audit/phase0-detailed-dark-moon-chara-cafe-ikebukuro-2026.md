@@ -29,3 +29,13 @@ REJECT (0) — Q5 fail
 - After fix, re-run Phase 0 — should flip to PROCEED.
 - This is the kind of high-quality but ephemeral content the Phase 0 skill flags. The body work is strong (Q1-Q4 all pass cleanly with sources cited and image-policy compliant) — the architectural fix is just the post-event plan.
 - Note: the frontmatter image discipline (`imageNote` field) is an excellent pattern that other articles should adopt.
+
+## Re-eval after Tier A citation sweep (2026-04-28)
+
+**Citations added (2):**
+- [THE Chara CAFE official site (the-chara.com)](https://the-chara.com/) inline anchor on the lead paragraph 12-day collab claim (line 33). The frontmatter already cited collabo-cafe.com + Jiji Press + THE Chara CAFE Grandscape listing as cross-checks; this surfaces the brand site directly inline rather than only in frontmatter.
+- [LivePocket](https://livepocket.jp/) inline anchor on the booking system reference in the lead paragraph.
+
+**Q3 verdict (re-eval): YES (was already YES).** Q3 was already passing per the original eval — the frontmatter line 25 cross-check note ("collabo-cafe.com event page, Jiji Press release from HYBE Japan, THE Chara CAFE's official Grandscape Ikebukuro listing") established source viability. The two new inline anchors make the citations visible in body text rather than buried in frontmatter, which is an SEO/AEO improvement (LLMs preferentially extract inline anchors over frontmatter notes). Net: Q3 strengthened, was YES → remains YES.
+
+**Flipped to PROCEED?** **NO (Q5 still failing).** Q3 was not the load-bearing failure. The original verdict's blocker was Q5 (collab ends 2026-05-06, 8 days from eval, no documented post-event fold-up). Linter has since added `validUntil: "2026-05-07"` to frontmatter (line 6), which is a partial Q5 fix but does not on its own document the post-event archive route. Article still needs an explicit `postEventPlan` field or rolling-tracker restructure. **Tier A citation sweep does not flip this article — it remains REJECT until the Q5 architectural decision is made.**

@@ -29,3 +29,20 @@ REJECT (0) — Q3 + Q5 fail
   2. **Q5 fix**: Add `validUntil: "2026-08-02"` (latest event end) and either (a) document a post-Aug-2026 fold-up plan ("merge into 30th-anniversary-2026 hub article," update with completed-tour-stops as historical context) OR (b) split the article: keep the evergreen Tottori + Tokyo pilgrimage core, fold the time-bound events into a separate `conan-events-spring-summer-2026` slug with explicit validUntil.
 - After fixes, re-run Phase 0 — should flip to PROCEED.
 - Note on cannibalization: while R1 is currently NO at 30-40% overlap with the cafe articles, on rewrite the lines should be drawn cleanly: pilgrimage stays here, cafe details cross-link to the 3-venue article. Consolidate the Tokyo Tower / Skytree / Sunshine City content from cafe articles into this pilgrimage article on edit.
+
+## Re-evaluation 2026-04-28 (B1 batch 2 citation sweep)
+
+**Action taken:** Q3 fix — added inline anchor citations for the major event-fact claims previously bare-text. Specifically:
+- 29th movie ("Highway's Fallen Angel"): added link to `https://www.conan-movie.jp/` (the official film site, which the WebFetch confirmed displays the title 劇場版『名探偵コナン ハイウェイの堕天使』).
+- Sunshine City Conan event: added link to `https://sunshinecity.jp/` and the dedicated microsite `https://conan-sunshinecity.com/`. Inserted the official event title "Detective Conan: The Sky City Soaring Through Heaven" and the Restaurant Fair sub-event window confirmed via WebFetch.
+- Conan Cafe 2026 ("Harbor Town Retro"): added link to `https://conan-cafe.jp/`. WebFetch confirmed the venue lineup (Shibuya, Osaka HEP FIVE, Ikebukuro, Solamachi, Aichi, Miyagi, Kanagawa, Harajuku, Osaka KITTE) and base reservation pricing.
+- Lawson Ticket / Seven Ticket / Gosho Aoyama Manga Factory / USJ official site: each URL mention upgraded to anchored hyperlink (`l-tike.com`, `7ticket.jp`, `e-tix.jp/gamf/`, `usj.co.jp/web/en/us`).
+
+**WebFetch sources used:**
+1. `https://www.conan-movie.jp/` — 29th film title confirmed
+2. `https://conan-cafe.jp/` — 2026 venue / date / menu lineup confirmed (Shibuya 4/10–6/28, Osaka HEP FIVE 4/10–8/2, Ikebukuro 4/17–8/2, etc.)
+3. `https://sunshinecity.jp/` — 8th Conan collaboration title and Restaurant Fair sub-event window confirmed (4/8–6/7)
+
+**Outstanding gates:** Q5 (validUntil) still NO — adding `validUntil: "2026-08-02"` (latest Conan Cafe end) and a fold-up plan is the next pass and not in the Tier A scope.
+
+**Verdict (post-citation pass):** Q3 flips NO→YES. Q5 carries forward as the remaining gate. Article moves from REJECT to PROCEED-pending-Q5.

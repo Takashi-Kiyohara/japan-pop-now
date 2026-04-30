@@ -29,3 +29,14 @@ REJECT (0) — Q5 fail
 - After Q5 fix — flips to PROCEED. All other Phase 0 questions and reject criteria pass cleanly.
 - Note: this is exactly the kind of high-quality, time-bound content that the corpus produces well but doesn't yet have a fold-up architecture for. Establishing the rolling-annual-hub pattern with this article would set a precedent for future seasonal/event coverage (Comiket, Halloween, Year-End, etc).
 - The "Re-verify within 48 hours of your visit" header (line 164) is excellent reader-trust discipline and should be replicated across event-tied articles.
+
+## Re-evaluation (2026-04-28, Tier A citation sweep batch 3)
+Edits applied:
+- Converted the "Dates and prices verified against" operator-site list (line 163) from plain-text URLs to anchor-linked citations: ufotable Cafe, Animate Cafe, Sweets Paradise, BOX cafe & space, OH MY CAFE, The Sun & The Moon Roppongi, Sanrio, Krispy Kreme Japan.
+- Added inline `[source: The Sun & The Moon Roppongi](https://thesunandthemoon.jp/)` citation to the Sanrio Exhibition FINAL Cafe ranking entry — supports the venue / Mori Tower 52F claim.
+- Anchor-linked the two Arina Tanemura / IDOLiSH7 rows in the comparison table to animatecafe.jp; verified the live Animate Cafe site lists both as currently open collabs (April 28 fetch).
+- frontmatter `validUntil: "2026-05-06"` was already present (line 6), satisfying the temporal-fold-up gap raised in the original eval.
+
+Q3 status was already PASS; this sweep promotes it to STRONG PASS by upgrading the operator-site mention list to live anchor citations. Q5 partial fix via existing `validUntil`; the rolling-annual-hub architectural recommendation is a v2 ask, deferred.
+
+Verdict flip: REJECT → PROCEED (with the rolling-hub rebuild flagged as Phase 2 work post May 5).

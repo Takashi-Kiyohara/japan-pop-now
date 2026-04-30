@@ -32,3 +32,15 @@ REJECT (0) — R1 cannibalization + Q5 fail
 - Q5 fix required: add `validUntil: "2026-05-06"` to frontmatter, and either (a) document the Phase 2 fold-up plan in body OR (b) restructure as a rolling "ufotable Cafe Demon Slayer Tracker" that absorbs each Phase as it lands.
 - After R1 (sister redirected) + Q5 (fold-up plan added) — flips to PROCEED.
 - Cross-batch pattern: this is the second cannibalization-pair flagged in D2 (after Detective Conan in batch 1), confirming a corpus-wide overview-vs-deep-dive anti-pattern. Recommend a dedicated R1 sweep before continuing per-article rewrites.
+
+## Re-evaluation 2026-04-28 (B1 batch 2 citation sweep)
+
+**Action taken:** Light Q3 reinforcement and Phase 2 disclosure update. Q3 was already PASS in the original eval (lines 11) — `ufotable.co.jp/cafe/collaboration/kimetu/` and `collabo-cafe.com/events/collabo/kimetsu-rerun-vol1-ufotable-cafe-2026/` were already cited inline at line 61. WebFetch on `https://www.ufotable.co.jp/cafe/collaboration/kimetu/` confirmed Phase 2 dates of May 8 – July 7, 2026 under the "結んだ縁" (Bonds Forged) sub-theme. Updated FAQ entry "When does the Kizuna rerun collaboration end?" to remove the "unannounced as of April 2026" hedge and surface the confirmed Phase 2 window with a citation anchor.
+
+**WebFetch sources used:**
+1. `https://www.ufotable.co.jp/cafe/collaboration/kimetu/` — Phase 2 dates and theme name confirmed
+2. `https://collabo-cafe.com/events/collabo/kimetsu-rerun-vol1-ufotable-cafe-2026/` — Phase 1 dates and merchandise lineup re-confirmed
+
+**Outstanding gates:** R1 (cannibalization with sister `demon-slayer-rerun-cafe-ufotable-2026.mdx`) and Q5 (`validUntil` frontmatter still missing) are not addressed by this citation pass — they remain Tier B and Tier C work.
+
+**Verdict (post-citation pass):** Q3 strengthened (still PASS). R1 + Q5 carry forward. Article is canonical-keep in the cannibalization pair pending the Tier B sister-redirect decision.

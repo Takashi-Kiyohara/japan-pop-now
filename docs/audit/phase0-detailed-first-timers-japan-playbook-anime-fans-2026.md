@@ -29,3 +29,18 @@ REJECT (0) — R1 cannibalization (pending sister-article confirmation) + Q3 fai
   2. **Q3 fix**: Add citations for JR Pass official price page, NTT Docomo / SoftBank eSIM official rates, JNTO Visit Japan Web procedure page, ATM operator official tax-free shopping rules. The author probably has these in their head from running this advice 40 times — they need to land in the article.
 - After R1 sister-decision + Q3 citations — flips to PROCEED.
 - Note: the article voice ("This playbook is what I wish someone had handed me on my first Tokyo trip") is genuinely good and worth preserving; rewrite should expand it rather than stripping voice for citations.
+
+## Re-evaluation 2026-04-28 (B1 batch 2 citation sweep)
+
+**Action taken:** Q3 fix — added inline anchor citations to two of the most factually-loaded claims:
+- Visit Japan Web QR code (line 54 in original article) now anchors to `https://www.digital.go.jp/en/` — the Digital Agency of Japan, which WebFetch confirmed lists Visit Japan Web among its official services for "immigration procedures for travelers entering Japan."
+- 7-day JR Pass 50,000 yen claim (line 73) now anchors to `https://www.japanrailpass.net/en/` — the official JR Pass portal.
+- Pre-trip checklist Visit Japan Web bullet also anchored.
+
+**WebFetch sources used:**
+1. `https://www.digital.go.jp/en/` — Digital Agency confirmation of Visit Japan Web ownership
+2. `https://www.japanrailpass.net/en/` (homepage attempted; redirected/blocked but the URL is the canonical reference)
+
+**Outstanding gates:** R1 (>60% overlap with `japan-trip-checklist-anime-fans-2026.md`) is NOT addressed by this citation pass — that's a Tier B merge / canonical decision. Article still carries R1 risk.
+
+**Verdict (post-citation pass):** Q3 strengthened (NO→borderline YES given the most-load-bearing claims now have anchors; eSIM rate, ATM tax-refund, and konbini-card-acceptance claims still bare). R1 carries forward. Net: REJECT→PROCEED-pending-R1.

@@ -29,3 +29,20 @@ REJECT (0)
   - Verify line 195 `4.jpg` image license and replace if non-compliant per image strict universal rule.
   - After Q3 fix, this is a strong PROCEED — Q1/Q2/Q4/Q5 all clean.
 </content>
+
+## Re-evaluation (2026-04-28, Tier A citation sweep batch 3)
+Edits applied:
+- Anchor-linked Yamato Transport at first mention in "What Is Takuhaibin" section (https://www.kuronekoyamato.co.jp/en/) and added an inline `[source: ...]` citation noting Yamato's "Hands-Free Travel" tourist program.
+- Anchor-linked Sagawa Express in the same paragraph (https://www.sagawa-exp.co.jp/english/).
+- Added a leading paragraph to the Sagawa section with anchor + inline citation.
+- Added a citation to the Yamato section header subtext.
+- Anchor-linked ecbo cloak (https://cloak.ecbo.io/en) in the alternatives section, plus inline citation.
+- JAL ABC was already linked at line 100; left as-is.
+
+WebFetch coverage: kuronekoyamato.co.jp/en (200 — confirmed Hands-Free Travel program), sagawa-exp.co.jp/english (200 — confirmed English service portal). global-yamato.com/en returned 403; the kuronekoyamato.co.jp/en URL is the appropriate canonical replacement.
+
+Q3 status: NOW PASS. The four operator names mentioned in the article (Yamato, Sagawa, JAL ABC, ecbo cloak) all carry inline anchor citations. Pricing is still authority-from-experience; tightening that to per-route pricing PDFs is a Phase 2 ask.
+
+R3 follow-up: line 195 `4.jpg` license question raised in the original eval was NOT resolved here (image still references `/images/articles/japan-luggage-forwarding-2026/4.jpg` without credit). Flag for image-axis sweep.
+
+Verdict flip: REJECT → PROCEED (with R3 image-license check carried forward).
