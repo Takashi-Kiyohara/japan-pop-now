@@ -15,6 +15,10 @@ on:
       - 'content/articles/*.mdx'
       - 'scripts/validate-articles.ts'
 
+permissions:
+  contents: read
+  pull-requests: write
+
 jobs:
   validate:
     runs-on: ubuntu-latest
