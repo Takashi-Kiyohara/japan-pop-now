@@ -1,6 +1,6 @@
 {
-  "version": "2.7",
-  "lastUpdated": "2026-05-02b",
+  "version": "2.8",
+  "lastUpdated": "2026-05-03",
   "events": [
     {
       "id": "chiikawa-bakery-harajuku-2026",
@@ -4336,6 +4336,73 @@
       "genre": "fantasy",
       "badge": "hot",
       "officialUrl": "https://frieren-anime.jp/news/5350"
+    },
+    {
+      "id": "ranma-japan-2026-exhibition-tree-village",
+      "ip": "Ranma 1/2",
+      "type": "experience",
+      "title": "Ranma 1/2 Japan 2026 — Exhibition + Tree Village Pop-Up Cafe",
+      "venue": "Sunshine City Exhibition Hall A (Ikebukuro) + Tree Village Tokyo Skytree Solamachi + Tree Village Osaka + Tree Village Hakata",
+      "city": "Multiple",
+      "prefecture": "Tokyo / Osaka / Fukuoka",
+      "startDate": "2026-04-23",
+      "endDate": "2026-07-02",
+      "thumbnail": "",
+      "articleSlug": "ranma-japan-2026-exhibition-tree-village-guide",
+      "description": "Two parallel Ranma 1/2 events for the spring-to-summer 2026 wave: TV Anime Ranma 1/2 Exhibition at Ikebukuro Sunshine City Exhibition Hall A (Apr 23 – May 12; advance ¥2,000 / bonus ¥5,000 with 3D acrylic standee) plus Flower Bouquet POP UP SHOP & CAFE at Tree Village Tokyo Skytree Solamachi (May 2 – May 29) with Osaka and Hakata legs (Jun 20 – Jul 2). Six character bouquet drawdowns, exhibition-exclusive merch, and an online pop-up store opening May 8 at 10:00 JST.",
+      "reservation": "Lawson Ticket / Nippon TV Zero Ticket for the exhibition | Walk-in for Tree Village pop-up (cafe seat requires food/drink order)",
+      "tags": [
+        "ranma-1-2",
+        "rumiko-takahashi",
+        "mappa",
+        "netflix",
+        "sunshine-city",
+        "tree-village",
+        "ikebukuro",
+        "tokyo-skytree",
+        "osaka",
+        "hakata",
+        "2026-spring",
+        "exhibition",
+        "pop-up"
+      ],
+      "source": "https://www.tree-village.jp/",
+      "lastVerified": "2026-05-03",
+      "genre": "shonen",
+      "badge": "hot",
+      "officialUrl": "https://ranma-anime.com/"
+    },
+    {
+      "id": "re-zero-curemaid-cafe-akihabara-2026",
+      "ip": "Re:Zero Starting Life in Another World",
+      "type": "collab-cafe",
+      "title": "Re:Zero 4th season x Cure Maid Cafe Akihabara",
+      "venue": "Cure Maid Cafe (Onoden Building 4F, 1-2-7 Sotokanda, Akihabara)",
+      "city": "Tokyo",
+      "prefecture": "Tokyo",
+      "startDate": "2026-04-29",
+      "endDate": "2026-05-17",
+      "thumbnail": "",
+      "articleSlug": "re-zero-curemaid-cafe-akihabara-2026",
+      "description": "10th-broadcast-anniversary Re:Zero collab cafe at the original Cure Maid Cafe in Akihabara. Two collab pasta plates (¥1,680), two 10th-anniversary sweets (¥1,380), ten character drinks plus a Ringa juice (¥880 each), and an eleven-card random novelty per collab item ordered. Bonus card for visitors arriving with an Atre Akihabara 1 popup-shop receipt collected before April 30. Walk-in by default, matoca queue on weekends and GW peak.",
+      "reservation": "Walk-in (matoca queue ticket required on weekends/holidays/GW peak via the LINE app at the Onoden 1F entrance)",
+      "tags": [
+        "re-zero",
+        "akihabara",
+        "cure-maid-cafe",
+        "kadokawa",
+        "collab-cafe",
+        "2026-spring",
+        "tokyo",
+        "10th-anniversary",
+        "4th-season",
+        "golden-week"
+      ],
+      "source": "https://www.curemaid.jp/collab_cafe/re-zero2026/",
+      "lastVerified": "2026-05-03",
+      "genre": "isekai",
+      "badge": "hot",
+      "officialUrl": "https://www.curemaid.jp/collab_cafe/re-zero2026/"
     }
   ]
 }
