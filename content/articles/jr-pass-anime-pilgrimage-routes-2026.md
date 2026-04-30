@@ -219,6 +219,7 @@ If you found this useful, check out these related articles:
 - [10 Anime Pilgrimage Spots Tokyo](/articles/anime-pilgrimage-spots-tokyo)
 - [Your Name Pilgrimage Tokyo](/articles/your-name-pilgrimage-tokyo)
 - [Demon Slayer Pilgrimage Tokyo](/articles/demon-slayer-pilgrimage-tokyo)
+- [Demon Slayer × Meiji-mura 2026 Aichi Pilgrimage Guide](/articles/demon-slayer-meiji-mura-aichi-pilgrimage-2026) — The Aichi-side day-trip that fits the Nagoya leg of any JR Pass anime route
 - [One Piece Kumamoto Statue Tour](/articles/one-piece-kumamoto-statue-tour)
 - [eSIM vs Pocket WiFi Guide](/japan-esim-pocket-wifi-sim-card-guide/)
 - [Japan IC Card Transit Guide](/articles/japan-ic-card-transit-guide)

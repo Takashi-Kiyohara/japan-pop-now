@@ -191,6 +191,7 @@ Kamakura (beach + train ride) and Hakone (pirate ship + ropeway) are the most fa
 ## More Area & Travel Guides
 
 - [Slam Dunk Kamakura Pilgrimage 2026](/articles/slam-dunk-kamakura-pilgrimage-2026)
+- [Demon Slayer × Meiji-mura 2026 — Aichi Pilgrimage Guide](/articles/demon-slayer-meiji-mura-aichi-pilgrimage-2026) — A Nagoya day-trip that pairs naturally with the Tokyo-side day-trip routes above
 - [10 Anime Pilgrimage Spots in Tokyo (2026)](/articles/anime-pilgrimage-spots-tokyo)
 - [Ghibli Park Complete Guide 2026](/articles/ghibli-park-complete-guide-2026)
 - [Tokyo Anime District Guide: 5 Areas](/tokyo-anime-districts-guide/)
