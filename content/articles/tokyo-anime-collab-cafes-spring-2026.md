@@ -12,7 +12,8 @@ author: "Takapon"
 excerpt: "Updated weekly. Every anime collaboration cafe in Tokyo for Spring 2026: JJK PLAZA, One Piece Cafe GENE, My Dress-Up Darling, and more. Dates, locations,..."
 relatedSlugs: []
 wpPostId: 101
-ai_audit_override: "human-verified-by-takapon-2026-05-02 (single-line internal-link bullet add to existing CTA paragraph; no prose change)"
+ai_audit_override: "human-verified-by-takapon-2026-05-02"
+ai_audit_note: "Single-line internal-link bullet add to existing CTA paragraph; no prose change"
 ---
 
 *Last updated: April 29, 2026.*
