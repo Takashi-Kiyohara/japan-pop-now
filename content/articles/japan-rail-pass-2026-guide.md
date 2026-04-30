@@ -413,6 +413,7 @@ Complete your Japan trip planning with these guides:
 - [Japan IC Card Transit Guide: SUICA, PASMO, and Why You Need One](/articles/japan-ic-card-transit-guide/) — Covers the non-JR transit you’ll need alongside the JR Pass.
 - [Japan eSIM vs Pocket WiFi 2026: Which Saves Money](/articles/japan-esim-pocket-wifi-sim-card/) — Stay connected while you’re using your JR Pass between cities.
 - [Osaka Anime Guide: Den-Den Town, Shops, Cafes 2026](/articles/osaka-anime-guide-den-den-town/) — Maximize your Shinkansen trip to Osaka with anime district intel.
+- [Demon Slayer × Meiji-mura 2026 — Aichi Pilgrimage Guide](/articles/demon-slayer-meiji-mura-aichi-pilgrimage-2026) — A Nagoya day-trip the JR Pass pays for in one Tokyo-Nagoya round-trip leg.
 
 ## The Honest Verdict
 Is the JR Pass worth ¥50,000 in 2026? It depends on three things:
