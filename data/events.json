@@ -1,6 +1,6 @@
 {
-  "version": "2.8",
-  "lastUpdated": "2026-05-03",
+  "version": "2.9",
+  "lastUpdated": "2026-05-03b",
   "events": [
     {
       "id": "chiikawa-bakery-harajuku-2026",
@@ -4403,6 +4403,72 @@
       "genre": "isekai",
       "badge": "hot",
       "officialUrl": "https://www.curemaid.jp/collab_cafe/re-zero2026/"
+    },
+    {
+      "id": "ouran-host-club-20th-anniversary-cafes-2026",
+      "ip": "Ouran High School Host Club",
+      "type": "collab-cafe",
+      "title": "Ouran High School Host Club 20th Anniversary Cafes",
+      "venue": "motto cafe Osaka (Shinsaibashi) + Tree Village Tokyo Skytree Solamachi + Tree Village Osaka + Tree Village Hakata + motto cafe Ikebukuro",
+      "city": "Multiple",
+      "prefecture": "Tokyo / Osaka / Fukuoka",
+      "startDate": "2026-04-22",
+      "endDate": "2026-07-05",
+      "thumbnail": "",
+      "articleSlug": "ouran-host-club-20th-anniversary-cafes-2026",
+      "description": "Three parallel Ouran 20th Anniversary collab cafes spanning multiple operators: Hakusensha Cafe '2nd' at motto cafe Osaka in Shinsaibashi (Apr 22 to Jul 5, two menu periods), Tree Village Tokyo Skytree Solamachi 'Colorful Heart' (through May 1), Tree Village Osaka and Hakata legs (May 23 to Jun 4), plus motto cafe Ikebukuro LaLa-50 tie-in (through May 17). New 20th Anniversary illustration by Bisco Hatori, ¥330 reservation fee at motto cafe venues, random coaster + postcard novelty mechanic.",
+      "reservation": "Collabo Cafe Tokyo app (motto cafe venues, ¥330 reservation fee) | Walk-in mix at Tree Village",
+      "tags": [
+        "ouran-high-school-host-club",
+        "ouran-20th",
+        "shojo",
+        "hakusensha",
+        "lala",
+        "tree-village",
+        "motto-cafe",
+        "solamachi",
+        "shinsaibashi",
+        "2026-spring",
+        "golden-week"
+      ],
+      "source": "https://ouran-2nd.hakusensha-cafe.com/",
+      "lastVerified": "2026-05-01",
+      "genre": "shojo",
+      "badge": "hot",
+      "officialUrl": "https://ouran-2nd.hakusensha-cafe.com/osaka/"
+    },
+    {
+      "id": "hypnosismic-sweets-paradise-round8-2026",
+      "ip": "Hypnosis Mic -Division Rap Battle-",
+      "type": "collab-cafe",
+      "title": "Hypnosismic x Sweets Paradise Round 8",
+      "venue": "Sweets Paradise (9 venues: SoLaDo Harajuku / Ueno Marui / Marui Omiya / Umeda / Clephy Sannomiya / Yokohama Vivre / Sendai PARCO / Hiroshima PARCO / Fukuoka PARCO)",
+      "city": "Multiple",
+      "prefecture": "Nationwide",
+      "startDate": "2026-05-01",
+      "endDate": "2026-05-31",
+      "thumbnail": "",
+      "articleSlug": "hypnosismic-sweets-paradise-round8-2026",
+      "description": "8th Hypnosismic x Sweets Paradise collab cafe — May 1 to May 31, 2026 across 9 Sweets Paradise venues nationwide. Tsuyu (rainy season) theme by Uekura Eku with newly drawn art across all six divisions (Buster Bros!!!, MAD TRIGGER CREW, Fling Posse, Matenrou, Dotsuitare Honpo, Bad Ass Temple). Order one collab item to qualify for one paper lunch mat (7-design choice) + one random coaster (group A: 18 designs / group B: 3 designs). 6 venues open Day 1; Sendai/Hiroshima/Fukuoka PARCO join May 16; Yokohama Vivre wraps early on May 24.",
+      "reservation": "Sweets Paradise app only (5-week window, closes 20:00 day-before) | walk-in fallback if app sold out",
+      "tags": [
+        "hypnosismic",
+        "ヒプノシスマイク",
+        "sweets-paradise",
+        "スイーツパラダイス",
+        "collab-cafe",
+        "2026-spring",
+        "harajuku",
+        "umeda",
+        "yokohama",
+        "fukuoka",
+        "round-8"
+      ],
+      "source": "https://www.sweets-paradise.jp/collaboration/hypnosismic8",
+      "lastVerified": "2026-05-01",
+      "genre": "music",
+      "badge": "hot",
+      "officialUrl": "https://hypnosismic.com/"
     }
   ]
 }
