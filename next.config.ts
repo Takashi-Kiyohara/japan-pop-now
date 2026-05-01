@@ -153,6 +153,11 @@ const nextConfig: NextConfig = {
     { source: '/the-complete-guide-to-japanese-game-centers-arcades-2026-crane-games-rhythm-games-more', destination: '/articles/game-centers-arcades-japan', permanent: true },
     // WP standalone calendar → app/calendar/ hub
     { source: '/collab-cafe-calendar', destination: '/calendar', permanent: true },
+    // Cannibalization 308s: source articles superseded by newer/stronger
+    // companion. Source MDX kept (no-delete) with robots:noindex +
+    // canonical pointing to target so sitemap excludes them.
+    { source: '/articles/demon-slayer-rerun-cafe-ufotable-2026', destination: '/articles/demon-slayer-rerun-cafe-ufotable-kizuna-2026', permanent: true },
+    { source: '/articles/osaka-anime-collab-cafes-pop-culture-2026', destination: '/articles/osaka-anime-cafes-complete-guide-2026', permanent: true },
   ],
 };
 
