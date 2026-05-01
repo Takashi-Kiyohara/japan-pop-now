@@ -1,0 +1,231 @@
+name: Scheduled body-image density audit
+
+# For every article in content/articles/, compute the body-image density
+# (image count / (word count / 1000)) and flag articles below the
+# project's 1.0/k recommendation. P0 articles (density < 0.5) auto-open
+# a GitHub Issue with the full report.
+#
+# Cron: 5/4 09:00 JST (00:00 UTC) yearly + workflow_dispatch for manual
+# triggers.
+
+on:
+  schedule:
+    # 0 0 4 5 * = 00:00 UTC May 4 every year = 09:00 JST May 4
+    - cron: "0 0 4 5 *"
+  workflow_dispatch:
+    inputs:
+      open_issue:
+        description: "Open GitHub Issue on P0 density (< 0.5/k) detection (default: true)"
+        required: false
+        default: "true"
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    env:
+      AUDIT_DATE: ""
+      REPORT_FILE: ""
+      OPEN_ISSUE: ${{ github.event.inputs.open_issue || 'true' }}
+
+    steps:
+      - name: Checkout main
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          fetch-depth: 1
+
+      - name: Set audit timestamp
+        run: |
+          AUDIT_DATE=$(date -u +%Y%m%d)
+          echo "AUDIT_DATE=${AUDIT_DATE}" >> "$GITHUB_ENV"
+          echo "REPORT_FILE=docs/audit/body-image-density-${AUDIT_DATE}.md" >> "$GITHUB_ENV"
+
+      - name: Compute body-image density per article
+        id: audit
+        run: |
+          set -e
+          mkdir -p docs/audit
+          REPORT="${REPORT_FILE}"
+          {
+            echo "# Body-image density audit — ${AUDIT_DATE}"
+            echo ""
+            echo "Triggered by ${{ github.event_name }}. For every article in \`content/articles/\`, computes \`density = image_count / (word_count / 1000)\` and flags articles below the project's 1.0 / 1k recommendation."
+            echo ""
+            echo "**Image counting** = lines starting with \`![\` (Markdown) plus inline \`<img\` tags."
+            echo ""
+            echo "## Per-article density"
+            echo ""
+            echo "| Article | Words | Images | Density / 1k | Status |"
+            echo "| --- | ---: | ---: | ---: | --- |"
+
+            ARTICLES_TOTAL=0
+            ARTICLES_P0=0
+            ARTICLES_P1=0
+            ARTICLES_OK=0
+            P0_LIST=""
+            P1_LIST=""
+
+            for f in content/articles/*.md content/articles/*.mdx; do
+              [ -f "$f" ] || continue
+              ARTICLES_TOTAL=$((ARTICLES_TOTAL+1))
+              slug=$(basename "$f" | sed 's/\.[^.]*$//')
+
+              # Body content (after second ---)
+              body=$(awk '/^---$/{c++; next} c==2' "$f")
+
+              # Word count of body
+              words=$(echo "$body" | wc -w)
+              [ "$words" -lt 1 ] && words=1
+
+              # Image count: ![alt](url) + <img ...>
+              md_imgs=$(echo "$body" | grep -cE '^!\[' || true)
+              html_imgs=$(echo "$body" | grep -cE '<img\b' || true)
+              imgs=$((md_imgs + html_imgs))
+
+              # Density per 1000 words, formatted to 2 decimals
+              density=$(awk "BEGIN { printf \"%.2f\", ${imgs} / (${words} / 1000) }")
+
+              status="OK"
+              # awk-based comparison since bash doesn't do floats
+              is_p0=$(awk "BEGIN { print ($density < 0.5) ? 1 : 0 }")
+              is_p1=$(awk "BEGIN { print ($density < 1.0 && $density >= 0.5) ? 1 : 0 }")
+
+              if [ "$is_p0" = "1" ]; then
+                status="**P0 (< 0.5)**"
+                ARTICLES_P0=$((ARTICLES_P0+1))
+                P0_LIST="${P0_LIST}- \`${slug}\` (density ${density}/k, ${imgs} imgs / ${words} words)\n"
+              elif [ "$is_p1" = "1" ]; then
+                status="P1 (< 1.0)"
+                ARTICLES_P1=$((ARTICLES_P1+1))
+                P1_LIST="${P1_LIST}- \`${slug}\` (density ${density}/k, ${imgs} imgs / ${words} words)\n"
+              else
+                ARTICLES_OK=$((ARTICLES_OK+1))
+              fi
+
+              echo "| ${slug} | ${words} | ${imgs} | ${density} | ${status} |"
+            done
+
+            echo ""
+            echo "## Aggregate"
+            echo ""
+            echo "- Articles audited: ${ARTICLES_TOTAL}"
+            echo "- OK (>= 1.0 / 1k): ${ARTICLES_OK}"
+            echo "- P1 (0.5 - 1.0 / 1k): ${ARTICLES_P1}"
+            echo "- P0 (< 0.5 / 1k): **${ARTICLES_P0}**"
+            echo ""
+            if [ "$ARTICLES_P0" -gt 0 ]; then
+              echo "## P0 articles (density < 0.5 / 1k)"
+              echo ""
+              echo "These articles need body-image follow-on. Each typically needs 1-2 Wikimedia CC-licensed body images sourced via the existing pipeline (Pillow EXIF-transpose + 1200x720 WebP q=92)."
+              echo ""
+              printf '%b' "${P0_LIST}"
+            fi
+            if [ "$ARTICLES_P1" -gt 0 ]; then
+              echo ""
+              echo "## P1 articles (density 0.5 - 1.0 / 1k)"
+              echo ""
+              printf '%b' "${P1_LIST}"
+            fi
+
+            echo "ARTICLES_P0=${ARTICLES_P0}" > /tmp/audit_summary.env
+            echo "ARTICLES_P1=${ARTICLES_P1}" >> /tmp/audit_summary.env
+            echo "ARTICLES_TOTAL=${ARTICLES_TOTAL}" >> /tmp/audit_summary.env
+          } > "$REPORT"
+
+          set -a
+          . /tmp/audit_summary.env
+          set +a
+          {
+            echo "articles_p0=${ARTICLES_P0}"
+            echo "articles_p1=${ARTICLES_P1}"
+            echo "articles_total=${ARTICLES_TOTAL}"
+            echo "report_path=${REPORT}"
+          } >> "$GITHUB_OUTPUT"
+          echo "::notice::Density audit complete. articles=${ARTICLES_TOTAL}, P0=${ARTICLES_P0}, P1=${ARTICLES_P1}, report=${REPORT}"
+
+      - name: Commit density report to docs/audit/
+        if: success()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add "${REPORT_FILE}"
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "docs(audit): scheduled body-image density audit ${AUDIT_DATE} (workflow run #${{ github.run_id }})"
+            git push origin main
+          fi
+
+      - name: Open Issue on P0 density detection
+        if: ${{ steps.audit.outputs.articles_p0 != '0' && env.OPEN_ISSUE == 'true' }}
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const reportPath = '${{ steps.audit.outputs.report_path }}';
+            const p0 = '${{ steps.audit.outputs.articles_p0 }}';
+            const p1 = '${{ steps.audit.outputs.articles_p1 }}';
+            const total = '${{ steps.audit.outputs.articles_total }}';
+            const auditDate = process.env.AUDIT_DATE;
+
+            let body = '';
+            try {
+              body = fs.readFileSync(reportPath, 'utf8');
+            } catch (e) {
+              body = `Could not read ${reportPath}: ${e.message}`;
+            }
+
+            const title = `[body-image-density] Scheduled audit ${auditDate}: ${p0} articles below 0.5/k (P0)`;
+
+            const issueBody = [
+              `Scheduled body-image density audit detected **${p0} P0 articles** (density < 0.5/k) and **${p1} P1 articles** (density 0.5-1.0/k) across ${total} published articles.`,
+              '',
+              `**Trigger:** ${{ github.event_name }} • **Run:** ${{ github.run_id }} • **Workflow:** \`body-image-density-audit.yml\``,
+              '',
+              `Full report committed to \`${reportPath}\` on main.`,
+              '',
+              '---',
+              '',
+              body,
+            ].join('\n');
+
+            // Ensure the body-image-density label exists
+            try {
+              await github.rest.issues.getLabel({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                name: 'body-image-density',
+              });
+            } catch (e) {
+              if (e.status === 404) {
+                await github.rest.issues.createLabel({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  name: 'body-image-density',
+                  color: 'fbca04',
+                  description: 'One or more articles fall below the 1.0/k body-image density recommendation',
+                });
+              }
+            }
+
+            await github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title,
+              body: issueBody,
+              labels: ['body-image-density', 'P1'],
+            });
+
+      - name: Upload report artifact
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: body-image-density-${{ env.AUDIT_DATE }}
+          path: ${{ env.REPORT_FILE }}
+          retention-days: 90
