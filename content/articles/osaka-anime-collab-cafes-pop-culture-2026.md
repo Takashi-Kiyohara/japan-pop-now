@@ -11,6 +11,8 @@ author: "Takapon"
 excerpt: "Osaka runs 8-12 anime collab cafes at any given time across Namba, Umeda, and Tennoji — plus permanent spots like Capcom Cafe Umeda and rotating collaborations. Add Den Den Town's kilometer of otaku shops and USJ's anime attractions, and there's a serious argument for making Osaka your anime trip's base."
 relatedSlugs: []
 wpPostId: 755
+robots: "noindex,follow"
+canonical: "https://www.japan-pop-now.com/articles/osaka-anime-cafes-complete-guide-2026"
 ---
 
 *Last updated: April 2026.*

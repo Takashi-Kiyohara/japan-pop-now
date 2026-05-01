@@ -134,6 +134,30 @@ const nextConfig: NextConfig = {
       destination: '/feed.xml',
       permanent: true,
     },
+    // Legacy WordPress flat-slug URLs (no /articles/ prefix). These hit
+    // 404 in production today and account for the bulk of GSC's
+    // "Crawled - currently not indexed" entries. Targets all verified
+    // 200 at the new /articles/{slug} location before being added here.
+    { source: '/lawson-ticket-anime-cafe-booking', destination: '/articles/lawson-ticket-anime-cafe-booking', permanent: true },
+    { source: '/anime-merch-shopping-guide-japan', destination: '/articles/anime-merch-shopping-guide-japan', permanent: true },
+    { source: '/nakano-broadway-guide', destination: '/articles/nakano-broadway-guide', permanent: true },
+    { source: '/tokyo-anime-district-guide', destination: '/articles/tokyo-anime-district-guide', permanent: true },
+    { source: '/gachapon-guide-japan', destination: '/articles/gachapon-guide-japan', permanent: true },
+    { source: '/japan-ic-card-transit-guide', destination: '/articles/japan-ic-card-transit-guide', permanent: true },
+    { source: '/akihabara-complete-guide-2026', destination: '/articles/akihabara-complete-guide-2026', permanent: true },
+    { source: '/how-to-book-anime-collab-cafe-japan', destination: '/articles/how-to-book-anime-collab-cafe-japan', permanent: true },
+    { source: '/weathering-with-you-locations-tokyo', destination: '/articles/weathering-with-you-locations-tokyo', permanent: true },
+    { source: '/ikebukuro-anime-guide-2026', destination: '/articles/ikebukuro-anime-guide-2026', permanent: true },
+    { source: '/tokyo-anime-collab-cafes-spring-2026', destination: '/articles/tokyo-anime-collab-cafes-spring-2026', permanent: true },
+    // Long-form WP slug → shortened article slug
+    { source: '/the-complete-guide-to-japanese-game-centers-arcades-2026-crane-games-rhythm-games-more', destination: '/articles/game-centers-arcades-japan', permanent: true },
+    // WP standalone calendar → app/calendar/ hub
+    { source: '/collab-cafe-calendar', destination: '/calendar', permanent: true },
+    // Cannibalization 308s: source articles superseded by newer/stronger
+    // companion. Source MDX kept (no-delete) with robots:noindex +
+    // canonical pointing to target so sitemap excludes them.
+    { source: '/articles/demon-slayer-rerun-cafe-ufotable-2026', destination: '/articles/demon-slayer-rerun-cafe-ufotable-kizuna-2026', permanent: true },
+    { source: '/articles/osaka-anime-collab-cafes-pop-culture-2026', destination: '/articles/osaka-anime-cafes-complete-guide-2026', permanent: true },
   ],
 };
 
