@@ -11,6 +11,7 @@ author: "Takapon"
 excerpt: "Visit every Your Name (Kimi no Na wa) location in Tokyo. Suga Shrine stairs, Shinjuku overpass, Shinanomachi Station — with a half-day walking route and photo..."
 relatedSlugs: []
 wpPostId: 106
+voice: "friend-guide"
 ---
 
 *Last updated: March 2026.*

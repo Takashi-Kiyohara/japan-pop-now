@@ -11,6 +11,7 @@ author: "Takapon"
 excerpt: "Anime merch shopping in Japan 2026: 15 best shops (Animate, Mandarake, Kotobukiya), prices, budgets, and where to find exclusive figures in Tokyo."
 relatedSlugs: []
 wpPostId: 103
+voice: "friend-guide"
 ---
 
 **More Shopping Resources**
@@ -21,6 +22,8 @@ Need to ship your haul home? Read our [Guide to Shipping Anime Merch from Japan]
 
 Image: Collabo Cafe
 **Anime merchandise shopping in Japan offers prices 30-50% lower than international retail, with exclusive items unavailable anywhere else, across dedicated stores in districts like Akihabara, Ikebukuro, and Nakano Broadway.** Japan’s anime merchandise market exceeds $5 billion annually, and the country is home to flagship stores for every major franchise. Visitors can find figures, apparel, artbooks, limited-edition collaborations, and secondhand rare items at all price points from 100 yen gachapon to 50,000+ yen premium figures.
+
+Across years of Japan's anime merchandise market evolution, the major retailers and pricing bands below stay broadly consistent — confirm exact stock levels and limited-edition exclusives at the store on the day of your visit.
 
 ## Live Now: JJK PLAZA Chair:Black Pop-Up at Loft (Spring 2026)
 

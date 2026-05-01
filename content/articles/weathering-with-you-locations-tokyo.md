@@ -11,6 +11,7 @@ author: "Takapon"
 excerpt: "Last updated: March 2026. All locations verified as publicly accessible unless noted. Includes walking routes optimized for a half-day or full-day visit...."
 relatedSlugs: []
 wpPostId: 203
+voice: "friend-guide"
 ---
 
 *Last updated: March 2026. All locations verified as publicly accessible unless noted. Includes walking routes optimized for a half-day or full-day visit.*
@@ -18,6 +19,8 @@ wpPostId: 203
 Makoto Shinkai’s Weathering With You is a love letter to rainy Tokyo. Almost every frame is drawn from a real place — convenience stores, train stations, rooftop shrines, and specific slopes and intersections that you can walk through today. If you’ve already done the [Your Name pilgrimage](/articles/your-name-pilgrimage-tokyo/), this film’s locations are spread across a different set of neighborhoods, with a few overlapping spots that Shinkai fans will recognize from both films.
 
 This guide covers every major visitable location from the film, organized into walking routes so you can hit multiple spots in a single trip rather than zigzagging across Tokyo.
+
+Across years of Makoto Shinkai pilgrimage tradition in Tokyo, the locations below have stayed publicly accessible — confirm any rooftop or private-building access via the operator's site before visiting.
 
 ## Koenji: Japan’s Only Weather Shrine
 The most thematically perfect Weathering With You pilgrimage stop. Koenji Hikawa Shrine houses the **Kisho Shrine** (気象神社) — literally “Weather Shrine” — the only shrine in Japan dedicated to weather. In a film about a girl who can control the weather, this is as on-the-nose as it gets.

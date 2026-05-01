@@ -11,6 +11,7 @@ author: "Takapon"
 excerpt: "Last updated: March 2026. Covers all 10 Straw Hat crew statues, maps, transportation, Kumamoto Castle, and a recommended 2-day itinerary for visiting every..."
 relatedSlugs: []
 wpPostId: 207
+voice: "friend-guide"
 ---
 
 *Last updated: March 2026. Covers all 10 Straw Hat crew statues, maps, transportation, Kumamoto Castle, and a recommended 2-day itinerary for visiting every statue.*
@@ -20,6 +21,8 @@ In April 2016, two massive earthquakes hit Kumamoto Prefecture. Eiichiro Oda —
 The first statue — Luffy, arm raised outside the Kumamoto Prefectural Government office — went up in November 2018. The last — Jinbe, standing watch at a coastal park — was completed in July 2022. Together they form a tour that takes you across the entire prefecture, from Kumamoto city center to the volcanic caldera of Aso to the rural towns most tourists never see.
 
 This guide covers every statue, how to reach them, and the most practical way to see them all — if you have one afternoon or three days.
+
+Across years of Kumamoto's One Piece statue rollout from 2018 through 2022, the locations below have remained stable installations — confirm transit timetables and any temporary closures with the Kumamoto Prefectural tourism office before your trip.
 
 ## All 10 Statues: Locations and Characters
 
