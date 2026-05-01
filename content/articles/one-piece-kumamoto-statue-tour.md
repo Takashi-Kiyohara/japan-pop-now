@@ -149,7 +149,8 @@ Private guides and tour services offer One Piece statue tour packages. This is t
 
 **If you have a Japan Rail Pass:** The Kyushu Shinkansen from Hakata (Fukuoka) to Kumamoto is covered. This makes a side trip from Fukuoka incredibly easy — you can even do a day trip.
 
-![One Piece Cafe GENE at PARCO — themed restaurant celebrating the anime, a perfect stop after touring Kumamoto statues](https://japan-pop-now.com/wp-content/uploads/2026/04/one-piece-cafe-gene-parco-2026.jpg)
+![Kumamoto Castle keep — the defining landmark of Kumamoto Prefecture, near several One Piece statue locations](/images/articles/one-piece-kumamoto-statue-tour/body-wikimedia-1.webp)
+*Photo: そらみみ / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tenshu_of_Kumamoto_Castle_2.JPG), CC BY-SA 3.0. Kumamoto Castle keep — Kumamoto Prefecture's defining landmark, near several One Piece statue locations.*
 
 ## Kumamoto Castle — Don’t Skip It
 While you’re in Kumamoto for the statues, Kumamoto Castle is essential. The castle was severely damaged in the 2016 earthquake — the same event that inspired the One Piece statue project — and has been undergoing reconstruction since. The main keep reopened in 2021 with all six floors accessible, and a special viewing passage lets you observe the ongoing restoration work up close.

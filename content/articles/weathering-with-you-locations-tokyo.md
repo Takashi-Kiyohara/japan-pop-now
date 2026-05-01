@@ -127,7 +127,8 @@ The park where Suga, Hina, and Hodaka spend time together. Shiba Park — one of
 ![Takeshiba Pier waterfront in Tokyo — the marine terminal where Hodaka first arrives in Weathering With You's opening scenes](/images/articles/weathering-with-you-locations-tokyo/body-wikimedia-6.webp)
 *Takeshiba Pier (竹芝桟橋) — the marine passenger terminal where Hodaka arrives in Tokyo from the Izu Islands at the start of Weathering With You. The Tokai Kisen ferry route depicted in the film still operates from this pier. Photo: Wikimedia contributor / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Takeshiba_Pier_2.jpg), CC0.*
 
-![Detective Conan collaboration cafe key visual — anime-themed experiences throughout Tokyo](https://japan-pop-now.com/wp-content/uploads/2026/04/conan-cafe-2026-key-visual.jpg)
+![Main avenue in Yoyogi Park, Tokyo — one of the pilgrimage zones for Weathering With You (Tenki no Ko)](/images/articles/weathering-with-you-locations-tokyo/body-wikimedia-1.webp)
+*Photo: Shinjiro / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mainstreet_Yoyogipark.JPG), CC BY 3.0. Yoyogi Park main avenue — one of the named pilgrimage zones for Tenki no Ko.*
 
 ## Walking Routes
 ### Route A: Full-Day thorough (6-8 hours)

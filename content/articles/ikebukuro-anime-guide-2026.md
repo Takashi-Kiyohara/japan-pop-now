@@ -15,7 +15,8 @@ wpPostId: 104
 
 *Last updated: March 2026.*
 
-![Ikebukuro Sunshine City building complex with anime shops and collab cafes in Tokyo](https://japan-pop-now.com/wp-content/uploads/2026/04/natsume-popup-store-2026.jpg)Ikebukuro Sunshine City area
+![Sunshine City complex in Ikebukuro — the anchor landmark of Tokyo's east-side anime district](/images/articles/ikebukuro-anime-guide-2026/body-wikimedia-1.webp)
+*Photo: Kakidai / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sunshine_City_2012.JPG), CC BY-SA 3.0. Sunshine City — the anchor landmark of Ikebukuro's anime district.*
 Image: Collabo Cafe
 **Ikebukuro is Tokyo’s second-largest anime district after Akihabara, centered around the Sunshine City complex and Otome Road, and is considered the heart of female-oriented otaku culture in Japan.** The area around Ikebukuro Station’s east exit contains the world’s largest Animate store (9 floors), multiple manga cafes, and Otome Road — a 200-meter street specializing in BL (boys’ love), otome games, and fan-created doujinshi.
 
@@ -140,7 +141,6 @@ An otaku-guide walking tour covers Animate flagship, Otome Road hidden shops, an
 
 [Japan IC Card & Transit Guide for Anime Fans](/articles/japan-ic-card-transit-guide/)
 
-![Tokyo street with neon lights and anime advertisements near Ikebukuro station](https://japan-pop-now.com/wp-content/uploads/2026/04/spy-family-animate-fair-2026.jpeg)Neon-lit streets near Ikebukuro station
 Image: Collabo Cafe
 
 ### Stay in Ikebukuro

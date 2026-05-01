@@ -19,7 +19,6 @@ Need to ship your haul home? Read our [Guide to Shipping Anime Merch from Japan]
 
 *Last updated: April 22, 2026.*
 
-![Anime merchandise and figures displayed at a Tokyo shop for tourists](https://japan-pop-now.com/wp-content/uploads/2026/04/chainsaw-man-merch-2026.jpg)Anime merch at a Tokyo shop
 Image: Collabo Cafe
 **Anime merchandise shopping in Japan offers prices 30-50% lower than international retail, with exclusive items unavailable anywhere else, across dedicated stores in districts like Akihabara, Ikebukuro, and Nakano Broadway.** Japan’s anime merchandise market exceeds $5 billion annually, and the country is home to flagship stores for every major franchise. Visitors can find figures, apparel, artbooks, limited-edition collaborations, and secondhand rare items at all price points from 100 yen gachapon to 50,000+ yen premium figures.
 
@@ -36,8 +35,6 @@ The *Jujutsu Kaisen* PLAZA "Chair:Black" merch pop-up is one of the hottest ongo
 | Kyoto Loft | Kyoto | May 13 - Jun 10, 2026 | Upcoming |
 
 If you are in Tokyo this week, Tokyo Solamachi Loft (4F, Tokyo Skytree Town) is the easiest stop — it is walk-in only, no lottery, and pairs naturally with a Skytree visit. Miss the Tokyo window and Sendai picks up right after with the same lineup.
-
-
 
 ## Why Anime Merch Shopping in Japan Is Different
 Buying anime merchandise in Japan isn’t just cheaper — it’s a completely different experience. Products available in Japanese stores often never make it to international retailers, or arrive months later at 2–3x the price. Limited-edition items, store-exclusive bonuses, and first-run goods are only available in person, and many sell out within days of release.
@@ -213,7 +210,6 @@ Major chains usually do, but smaller independent shops and some secondhand count
 ### How do I find one specific item before visiting?
 Check Mandarake and Surugaya inventory online before you travel, especially for figures and older series goods. If your trip is built around one franchise, start from the [Find by Anime hub](/category/destinations) and then map the store districts that match it.
 
-![Rows of anime goods at a Japanese store](https://japan-pop-now.com/wp-content/uploads/2026/04/anime-goods-store-shelves.jpg)Rows of anime goods at a Japanese store
 Image: Collabo Cafe
 
 Planning a trip to Tokyo?

@@ -36,7 +36,8 @@ This is *seichi junrei* (聖地巡礼) — “holy land pilgrimage.” The pract
 
 ## Location 1: Suga Shrine Stairs — The Final Scene
 
-![Anime collaboration cafe in Tokyo — themed dining experiences near popular pilgrimage locations — where fans recreate Your Name](https://japan-pop-now.com/wp-content/uploads/2026/04/trigun-chugai-grace-cafe-2026.jpg)
+![Suga Shrine stairs in Yotsuya, Tokyo — the iconic Your Name (Kimi no Na wa) ending-scene location](/images/articles/your-name-pilgrimage-tokyo/body-wikimedia-1.webp)
+*Photo: Hisagi / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Suga_Shrine_stairs_low-angle_20161113-071158.jpg), CC BY-SA 4.0. Suga Shrine stairs in Yotsuya — the literal Your Name ending-scene location.*
 Tokyo residential stairway — the kind of everyday scenery that Makoto Shinkai captures in his films
 
 ![Suga Shrine torii gate in Yotsuya, the shrine above the famous staircase from the Your Name climax](/images/articles/your-name-pilgrimage-tokyo/body-wikimedia.webp)
@@ -178,8 +179,6 @@ Follow for weekly collab cafe updates & Japan pop culture content.
 
 ### Explore by Area
 [ Tokyo](/tag/tokyo/)[ Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[ Shibuya](/shibuya-anime-spots-guide/)[ Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[ Osaka](/osaka-anime-guide-2025/) Kyoto (Coming Soon)
-
-
 
 ## FAQ: Frequently Asked Questions
 

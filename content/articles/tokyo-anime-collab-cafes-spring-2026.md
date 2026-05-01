@@ -19,7 +19,8 @@ voice: "friend-guide"
 
 *Updated weekly. Last update: April 29, 2026 — six collabs ended over the past week (full list below); Golden Week openings noted.*
 
-![SPY×FAMILY anime fair at Animate — Spring 2026 collab cafe and merchandise event in Tokyo](https://japan-pop-now.com/wp-content/uploads/2026/04/spy-family-animate-fair-2026.jpeg)
+![Akihabara Electric Town main intersection in Tokyo — the primary anime collab-cafe district](/images/articles/tokyo-anime-collab-cafes-spring-2026/body-wikimedia-1.webp)
+*Photo: Jakub Hałun / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Akihabara_Electric_Town,_Tokyo,_20240823_1617_5580.jpg), CC BY 4.0. Akihabara Electric Town — the primary Tokyo anime collab-cafe district.*
 Shibuya street scene near PARCO — the heart of Tokyo’s pop culture shopping district
 Image: Collabo Cafe
 
@@ -54,7 +55,6 @@ Use this page differently depending on how fixed your trip already is.
 
 ## What Is a Collab Cafe? (And What to Expect Inside)
 
-![Themed food and character desserts at an anime collaboration cafe in Tokyo — what to expect inside](https://japan-pop-now.com/wp-content/uploads/2026/04/conan-cafe-food-menu-01.jpg)
 Tokyo neon streets at night — the electric atmosphere of neighborhoods like Akihabara and Shinjuku
 Image: Collabo Cafe
 
@@ -81,7 +81,6 @@ If you only have one slot, prioritize **reservation difficulty first**, **locati
 
 ### 1. Jujutsu Kaisen PLAZA — “Chair:Black” (Sendai now open; Kyoto May 13)
 
-![One Piece Cafe GENE at Shibuya PARCO — one of Tokyo](https://japan-pop-now.com/wp-content/uploads/2026/04/one-piece-cafe-gene-parco-2026.jpg)
 Tokyo Skytree and the Solamachi shopping complex — a hub for anime pop-ups and character goods
 Image: Collabo Cafe
 
@@ -103,7 +102,6 @@ Jujutsu Kaisen’s newest “Chair:Black” visual series has launched across fi
 
 ### 2. [One Piece](/one-piece-cafe-gene-parco-2026/) Cafe GENE — Shibuya PARCO 6F (Two Menu Periods)
 
-![Jujutsu Kaisen 5th Anniversary × Sweets Paradise collab cafe — limited-time anime dining event in 2026](https://japan-pop-now.com/wp-content/uploads/2026/04/jjk-sweets-paradise-cafe-2026.jpg)
 Shibuya Scramble Crossing — the world-famous intersection featured in countless anime
 Image: Collabo Cafe
 

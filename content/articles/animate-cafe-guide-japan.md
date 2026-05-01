@@ -15,15 +15,14 @@ wpPostId: 199
 
 *Last updated: April 29, 2026. Covers all current Animate Cafe locations, the lottery booking system, Gratte stands, and DECOTTO donut shop. Reflects late-April 2026 status: MHA × DECOTTO closed April 26; i7 (アイドリッシュセブン) Rivare Chaya is the current Animate Cafe lottery collab through May 10.*
 
-![Blue Lock anime collaboration cafe event — typical Animate Cafe promotional setup in Tokyo and Japan](https://japan-pop-now.com/wp-content/uploads/2026/04/blue-lock-cafe-2026.jpg)
+![Animate Akihabara storefront in Tokyo — flagship retail of the chain that runs the Animate Cafe collab brand](/images/articles/animate-cafe-guide-japan/body-wikimedia-1.webp)
+*Photo: Dick Thomas Johnson / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Animate_Akihabara_(53152038454).jpg), CC BY 2.0. Animate Akihabara flagship — the chain that operates Animate Cafe.*
 
 Animate Cafe is Japan’s biggest anime collaboration cafe chain — and one of the most confusing for international visitors to figure out. Unlike most collab cafes that use a first-come-first-served online system, Animate Cafe runs on a **lottery**. You don’t race to grab a slot. You enter a draw and hope your name gets picked.
 
 The good news: this actually levels the playing field. You don’t need lightning-fast reflexes or a Japanese phone number. You just need to know how the system works and when to enter.
 
 This guide covers everything — the booking lottery, what the cafe experience is actually like, current locations, pricing, and the two walk-in alternatives (Gratte and DECOTTO) for when the lottery doesn’t go your way.
-
-![Interior of a themed anime cafe in Tokyo with character-decorated walls and themed food displays](https://japan-pop-now.com/wp-content/uploads/2026/04/spy-family-animate-fair-2026.jpeg)
 
 ## What Is Currently Running (Late April 2026)
 The lottery system below works the same way no matter the franchise, but here are the active Animate Cafe collabs as of April 29, 2026:
@@ -101,7 +100,6 @@ The **Ikebukuro Main location** is the largest and gets every collaboration. Aki
 *Animate Akihabara — the Akihabara branch where many Animate Cafe lottery collabs are hosted. Photo: Dick Thomas Johnson / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Animate_Akihabara_(53443771814).jpg), CC BY 2.0.*
 
 ## What to Expect: Menu, Prices, and Bonus Items
-![Japanese themed cafe interior with warm lighting — similar to the atmosphere inside Animate Cafe collaboration events](https://japan-pop-now.com/wp-content/uploads/2026/04/conan-cafe-2026-key-visual.jpg)
 
 Every collaboration has a unique menu designed around the featured franchise. Expect 4-8 food items, 4-6 drinks, and 2-4 desserts. Each item is named after a character or scene from the anime, and the presentation is part of the experience — dishes are arranged to look like characters, drinks come with character-printed latte art, and desserts feature edible prints.
 
@@ -124,8 +122,6 @@ The character you receive is random. If you want a specific character, order mul
 
 ### Exclusive Merchandise
 Each collaboration has a merchandise line available only at the cafe. Acrylic stands, keychains, clear files, tote bags — standard anime merchandise but with exclusive artwork. Buy what you want during your visit. Popular character items sell out within the first few days of a collaboration, and they do not restock.
-
-![Colorful themed drinks and desserts at a Japanese anime collaboration cafe with character latte art](https://japan-pop-now.com/wp-content/uploads/2026/04/conan-cafe-food-menu-02.jpg)
 
 ## The Walk-In Alternatives: Gratte and DECOTTO
 Lost the lottery? Don’t want to deal with the booking process? Animate has two walk-in options that require zero reservations.
@@ -177,8 +173,6 @@ Tokyo has several collab cafe operators. Here’s how Animate Cafe compares:
 | **Permanent themed cafes** | Walk-in or easy booking. Fixed themes year-round (Eorzea Cafe, Square Enix Cafe). Best for: zero-planning visits. |
 
 The biggest practical difference: Animate Cafe’s lottery system means you need to plan 2-4 weeks ahead. Other chains let you book days before — or even walk in. If you’re visiting Japan soon and haven’t entered a lottery yet, look at our [complete booking guide](/articles/how-to-book-anime-collab-cafe-japan/) for the other systems.
-
-![Busy shopping street in Ikebukuro Tokyo near Animate headquarters and Sunshine City](https://japan-pop-now.com/wp-content/uploads/2026/04/haikyu-popup-store-2026.jpeg)
 
 ### Skip the Lottery: Book a Guided Collab Cafe Tour
 Animate Cafe’s lottery system can be frustrating, especially if you don’t read Japanese. Guided tours handle all the booking and include a local guide.
