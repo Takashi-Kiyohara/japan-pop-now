@@ -11,6 +11,7 @@ author: "Takapon"
 excerpt: "Last updated: March 2026. All locations verified as publicly accessible unless noted. Includes walking routes optimized for a half-day or full-day visit...."
 relatedSlugs: []
 wpPostId: 203
+voice: "friend-guide"
 ---
 
 *Last updated: March 2026. All locations verified as publicly accessible unless noted. Includes walking routes optimized for a half-day or full-day visit.*
@@ -18,6 +19,8 @@ wpPostId: 203
 Makoto Shinkai’s Weathering With You is a love letter to rainy Tokyo. Almost every frame is drawn from a real place — convenience stores, train stations, rooftop shrines, and specific slopes and intersections that you can walk through today. If you’ve already done the [Your Name pilgrimage](/articles/your-name-pilgrimage-tokyo/), this film’s locations are spread across a different set of neighborhoods, with a few overlapping spots that Shinkai fans will recognize from both films.
 
 This guide covers every major visitable location from the film, organized into walking routes so you can hit multiple spots in a single trip rather than zigzagging across Tokyo.
+
+Across years of Makoto Shinkai pilgrimage tradition in Tokyo, the locations below have stayed publicly accessible — confirm any rooftop or private-building access via the operator's site before visiting.
 
 ## Koenji: Japan’s Only Weather Shrine
 The most thematically perfect Weathering With You pilgrimage stop. Koenji Hikawa Shrine houses the **Kisho Shrine** (気象神社) — literally “Weather Shrine” — the only shrine in Japan dedicated to weather. In a film about a girl who can control the weather, this is as on-the-nose as it gets.
@@ -127,7 +130,8 @@ The park where Suga, Hina, and Hodaka spend time together. Shiba Park — one of
 ![Takeshiba Pier waterfront in Tokyo — the marine terminal where Hodaka first arrives in Weathering With You's opening scenes](/images/articles/weathering-with-you-locations-tokyo/body-wikimedia-6.webp)
 *Takeshiba Pier (竹芝桟橋) — the marine passenger terminal where Hodaka arrives in Tokyo from the Izu Islands at the start of Weathering With You. The Tokai Kisen ferry route depicted in the film still operates from this pier. Photo: Wikimedia contributor / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Takeshiba_Pier_2.jpg), CC0.*
 
-![Detective Conan collaboration cafe key visual — anime-themed experiences throughout Tokyo](https://japan-pop-now.com/wp-content/uploads/2026/04/conan-cafe-2026-key-visual.jpg)
+![Main avenue in Yoyogi Park, Tokyo — one of the pilgrimage zones for Weathering With You (Tenki no Ko)](/images/articles/weathering-with-you-locations-tokyo/body-wikimedia-1.webp)
+*Photo: Shinjiro / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mainstreet_Yoyogipark.JPG), CC BY 3.0. Yoyogi Park main avenue — one of the named pilgrimage zones for Tenki no Ko.*
 
 ## Walking Routes
 ### Route A: Full-Day thorough (6-8 hours)

@@ -80,7 +80,8 @@ Mandarake gets all the attention, but the independent shops are what make Nakano
 
 There are also multiple shops selling **trading cards** — Pokémon, Yu-Gi-Oh!, One Piece Card Game — with rare singles that card shops in Akihabara price higher. Prices here tend to be fair, though the most sought-after cards (vintage holographic Pokémon, tournament-legal Yu-Gi-Oh!) can still run into the tens of thousands of yen.
 
-![Colorful soft serve ice cream tower with multiple flavors stacked high — famous treat at Nakano Broadway](https://japan-pop-now.com/wp-content/uploads/2026/04/conan-namco-campaign-2026.jpg)
+![Nakano Broadway shopping mall exterior in Tokyo — the four-floor otaku second-hand mecca](/images/articles/nakano-broadway-guide/body-wikimedia-1.webp)
+*Photo: Kentin / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nakano_broadway_tokyo_2015.jpg), CC BY-SA 4.0. Nakano Broadway exterior — the four-floor otaku mecca above Nakano Sun Mall.*
 
 ## Daily Chico: The Eight-Flavor Soft Serve Tower
 You will see people walking through Nakano Broadway holding enormous stacks of soft serve ice cream. This comes from **Daily Chico**, the legendary ice cream stand in the basement.

@@ -11,16 +11,18 @@ author: "Takapon"
 excerpt: "Last updated: April 2026. The quiet backstreets of Jinbocho â the real-world setting behind Chainsaw Man’s Reze Arc. The Chainsaw Man..."
 relatedSlugs: []
 wpPostId: 510
+voice: "friend-guide"
 ---
 
 *Last updated: April 2026.*
 
-![Chainsaw Man merchandise and promotional goods in Tokyo — collectibles for fans visiting pilgrimage locations](https://japan-pop-now.com/wp-content/uploads/2026/04/chainsaw-man-merch-2026.jpg)The quiet backstreets of Jinbocho â the real-world setting behind Chainsaw Man’s Reze Arc.
 The Chainsaw Man movie *Reze Arc* turned Jinbocho into one of Tokyo’s hottest anime pilgrimage spots overnight. Fans have been lining up at a phone booth, climbing an old stone staircase, and snapping photos in front of a Showa-era office building â all within a 10-minute walk of each other. I walked the full route on a weekday afternoon and had every spot to myself, no crowds, no lines. On weekends, though, expect company.
 
 This guide covers every confirmed filming location from the Reze Arc movie, plus related spots from Chainsaw Man Season 1. All locations sit in the Jinbocho-Ochanomizu-Suidobashi triangle â a quiet, walkable neighborhood tucked between the flashier districts most tourists hit first. That’s part of what makes this pilgrimage so good: the area itself feels like the manga.
 
 If you’re planning an anime-heavy trip to Tokyo, you can pair this route with [Akihabara](/articles/akihabara-complete-guide-2026) (two stops away on the Sobu Line) or [Ikebukuro’s Otome Road](/articles/ikebukuro-anime-guide-2026) for a full day of otaku exploration.
+
+Across years of Japanese anime location pilgrimage practice, the Jinbocho-Ochanomizu route below remains broadly walkable as public space — respect any private property boundaries and resident privacy you encounter.
 
 ## Table of Contents
 
