@@ -12,6 +12,7 @@ author: "Takapon"
 excerpt: "I've booked six different anime tours across three platforms over 18 months. Not all anime tours are created equal — some are worth the premium, others you're better off skipping. Here is the honest comparison of Klook, Viator, GetYourGuide, and local operators with exact prices."
 relatedSlugs: []
 wpPostId: 539
+voice: "friend-guide"
 ---
 
 *Last updated: April 2026.*
@@ -34,6 +35,8 @@ I’ve spent JPY 185,000 across various platforms testing this. Here’s what I 
 - [How to Book + Money-Saving Tips](#booking)
 
 Shibuya Crossing — one of the most iconic locations visited on anime walking tours
+
+Across years of Tokyo anime tour-platform churn (Klook, Viator, GetYourGuide, and local operators), the comparison axes below — price band, group size, English support, cancellation policy — stay broadly stable even as individual tours rotate. Confirm exact tour availability and current pricing on each platform's site before booking.
 
 ## Platform Comparison: Klook vs Viator vs GetYourGuide
 You’ll see overlapping tours across these three platforms. The same operator often sells through multiple channels, which means you’re sometimes paying different prices for identical experiences. Let me break down what actually matters when you’re comparing.

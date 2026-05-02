@@ -15,6 +15,8 @@ author: "Takapon"
 excerpt: "Looking for the best Jujutsu Kaisen cafe in Japan in 2026? This practical guide compares Tokyo, Osaka, and other cities, with dates, reservation rules, and..."
 relatedSlugs: []
 wpPostId: 830
+voice: "friend-guide"
+robots: "noindex,follow"
 ---
 
 ## Quick answer
