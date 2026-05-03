@@ -1,10 +1,15 @@
-name: Scheduled broken-link audit
+name: Scheduled broken-link + canonical audit
 
 # Sweeps every published article (content/articles/*.{md,mdx}) for
 # internal `/articles/...` link drift — i.e. any link target that has
 # gone 404 in production since the last audit. Detected drift opens a
 # GitHub Issue automatically (label: broken-link, P0) and writes the
 # full report to docs/audit/scheduled-drift-{date}.md.
+#
+# In addition to the broken-link sweep, a canonical-hostname sweep runs
+# against every URL in production sitemap.xml. Baseline established
+# 2026-05-04: 101/101 www, 0/101 apex. Drift (any apex canonical or
+# og:url leak) opens a separate Issue with label canonical-drift / P0.
 #
 # Cron: 5/12 09:00 JST (00:00 UTC) yearly + workflow_dispatch for
 # manual triggers.
@@ -205,6 +210,123 @@ jobs:
               title,
               body: issueBody,
               labels: ['broken-link', 'P0'],
+            });
+
+      - name: Sweep sitemap.xml URLs for canonical/og:url apex leaks
+        id: canonical_sweep
+        run: |
+          set -e
+          mkdir -p docs/audit
+          CANON_REPORT="docs/audit/canonical-drift-${DRIFT_DATE}.md"
+          TOTAL=0
+          CANON_APEX=0
+          OG_APEX=0
+          {
+            echo "# Canonical hostname drift audit — ${DRIFT_DATE}"
+            echo ""
+            echo "Sweeps every URL in production \`sitemap.xml\` and verifies the rendered \`<link rel=\"canonical\">\` and \`<meta property=\"og:url\">\` point to the www host. Baseline (2026-05-04): 101/101 www on both axes."
+            echo ""
+            echo "## Per-URL"
+            echo ""
+            echo "| URL | Canonical host | og:url host |"
+            echo "| --- | --- | --- |"
+            mapfile -t URLS < <(curl -s "https://www.japan-pop-now.com/sitemap.xml" \
+              | grep -oE "<loc>[^<]+</loc>" | sed 's/<loc>//; s/<\/loc>//')
+            for u in "${URLS[@]}"; do
+              TOTAL=$((TOTAL+1))
+              html=$(curl -sA "Mozilla/5.0 (compatible; Googlebot/2.1)" "$u")
+              canon=$(echo "$html" | grep -oE '<link rel="canonical" href="[^"]+"' | head -1 | sed 's/.*href="//; s/"$//')
+              og=$(echo "$html" | grep -oE 'property="og:url" content="[^"]+"' | head -1 | sed 's/.*content="//; s/"$//')
+              canon_host=$(echo "$canon" | grep -oE '^https?://[^/]+' || echo "EMPTY")
+              og_host=$(echo "$og" | grep -oE '^https?://[^/]+' || echo "EMPTY")
+              if echo "$canon" | grep -qE "^https?://japan-pop-now\."; then
+                CANON_APEX=$((CANON_APEX+1))
+                echo "| ${u} | **APEX** ${canon_host} | ${og_host} |"
+              elif echo "$og" | grep -qE "^https?://japan-pop-now\."; then
+                OG_APEX=$((OG_APEX+1))
+                echo "| ${u} | ${canon_host} | **APEX** ${og_host} |"
+              fi
+            done
+            echo ""
+            echo "## Aggregate"
+            echo ""
+            echo "- URLs audited: ${TOTAL}"
+            echo "- Canonical apex leaks: ${CANON_APEX}"
+            echo "- og:url apex leaks: ${OG_APEX}"
+            echo ""
+            if [ "$CANON_APEX" -eq 0 ] && [ "$OG_APEX" -eq 0 ]; then
+              echo "**Result: clean.** All sitemap URLs emit www host on both axes."
+            else
+              echo "**Result: drift detected.** Canonical generation is leaking apex on at least one URL — investigate \`lib/structured-data.ts\`, \`app/articles/[slug]/page.tsx\` \`generateMetadata\`, and Vercel project env \`NEXT_PUBLIC_SITE_URL\`."
+            fi
+          } > "$CANON_REPORT"
+          echo "canon_apex=${CANON_APEX}" >> "$GITHUB_OUTPUT"
+          echo "og_apex=${OG_APEX}" >> "$GITHUB_OUTPUT"
+          echo "canon_total=${TOTAL}" >> "$GITHUB_OUTPUT"
+          echo "canon_report_path=${CANON_REPORT}" >> "$GITHUB_OUTPUT"
+          echo "::notice::Canonical audit complete. urls=${TOTAL} canon_apex=${CANON_APEX} og_apex=${OG_APEX}"
+
+      - name: Commit canonical drift report
+        if: success()
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add "docs/audit/canonical-drift-${DRIFT_DATE}.md"
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "docs(audit): canonical drift audit ${DRIFT_DATE} (workflow run #${{ github.run_id }})"
+            git push origin main
+          fi
+
+      - name: Open Issue on canonical drift
+        if: ${{ (steps.canonical_sweep.outputs.canon_apex != '0' || steps.canonical_sweep.outputs.og_apex != '0') && env.OPEN_ISSUE == 'true' }}
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const reportPath = '${{ steps.canonical_sweep.outputs.canon_report_path }}';
+            const canonApex = '${{ steps.canonical_sweep.outputs.canon_apex }}';
+            const ogApex = '${{ steps.canonical_sweep.outputs.og_apex }}';
+            const total = '${{ steps.canonical_sweep.outputs.canon_total }}';
+            const driftDate = process.env.DRIFT_DATE;
+
+            let body = '';
+            try { body = fs.readFileSync(reportPath, 'utf8'); }
+            catch (e) { body = `Could not read ${reportPath}: ${e.message}`; }
+
+            const title = `[canonical-drift] ${driftDate}: ${canonApex} canonical + ${ogApex} og:url apex leaks across ${total} URLs`;
+            const issueBody = [
+              `Scheduled canonical audit detected **${canonApex} canonical apex leaks** and **${ogApex} og:url apex leaks** across ${total} sitemap URLs.`,
+              '',
+              `Baseline (2026-05-04): 101/101 www, 0/101 apex. Any apex hit is a regression.`,
+              '',
+              `**Trigger:** ${{ github.event_name }} • **Run:** ${{ github.run_id }} • **Workflow:** \`backlog-broken-link-audit.yml\``,
+              '',
+              `Full report committed to \`${reportPath}\` on main.`,
+              '',
+              '---',
+              '',
+              body,
+            ].join('\n');
+
+            try {
+              await github.rest.issues.getLabel({
+                owner: context.repo.owner, repo: context.repo.repo, name: 'canonical-drift',
+              });
+            } catch (e) {
+              if (e.status === 404) {
+                await github.rest.issues.createLabel({
+                  owner: context.repo.owner, repo: context.repo.repo,
+                  name: 'canonical-drift', color: 'b60205',
+                  description: 'sitemap URLs leaking apex canonical or og:url',
+                });
+              }
+            }
+
+            await github.rest.issues.create({
+              owner: context.repo.owner, repo: context.repo.repo,
+              title, body: issueBody, labels: ['canonical-drift', 'P0'],
             });
 
       - name: Upload report artifact
