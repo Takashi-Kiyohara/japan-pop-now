@@ -5,9 +5,10 @@ import {
   getUpcomingCafes,
   getEndedCafes,
   getAllCafeIps,
+  getCafesHubSchema,
   type Cafe,
 } from '@/lib/cafes';
-import { cafeUrl, cafesHubUrl } from '@/lib/url';
+import { cafeUrl, cafesHubUrl, getSiteUrl } from '@/lib/url';
 import Breadcrumb from '@/components/Breadcrumb';
 
 export const revalidate = 3600;
@@ -37,6 +38,7 @@ export default function CafesHubPage() {
   const upcoming = getUpcomingCafes();
   const ended = getEndedCafes();
   const ips = getAllCafeIps();
+  const schema = getCafesHubSchema(active, upcoming, getSiteUrl());
 
   const breadcrumbs = [
     { label: 'Home', href: '/' },
@@ -47,6 +49,11 @@ export default function CafesHubPage() {
 
   return (
     <div style={{ background: '#fafaf9' }}>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
+      />
+
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 pt-6 pb-3">
         <Breadcrumb items={breadcrumbs} />
       </div>
@@ -77,6 +84,60 @@ export default function CafesHubPage() {
           official site. Dates, reservations, prices, and how to actually get
           a seat as a visitor.
         </p>
+        <div
+          style={{
+            marginTop: '1.5rem',
+            maxWidth: '780px',
+            fontSize: '0.95rem',
+            color: '#44403c',
+            lineHeight: 1.7,
+          }}
+        >
+          <p style={{ marginBottom: '1rem' }}>
+            Tokyo and Osaka run dozens of anime collaboration cafes at any given
+            time — short-window pop-ups themed around active broadcast seasons,
+            anniversary events for legacy IP, and permanent themed venues that
+            rotate menus every few months. The format is unique to Japan: a
+            chain like Sweets Paradise, Animate Cafe, or BOX CAFE &amp; SPACE
+            clears its standard menu, themes its interior with character
+            cutouts and limited merchandise, then runs the collab for
+            two-to-eight weeks before the next IP rotates in.
+          </p>
+          <p style={{ marginBottom: '1rem' }}>
+            For overseas visitors, two practical realities matter most. First,
+            reservation rules vary widely — some venues run lottery systems
+            that open weeks ahead and fill in minutes, others accept walk-ins
+            quietly outside Tokyo, and a third group sells timed-entry tickets
+            through Lawson Ticket or operator apps that don{`'`}t always have
+            English UI. Second, the experience itself is short — most collabs
+            run 60-to-90 minutes per seating, with a fixed menu that{`'`}s
+            themed but not always indicative of what the venue normally serves.
+            Knowing which collab fits your travel window and which booking
+            system applies is what determines whether you walk in or walk away.
+          </p>
+          <p>
+            This hub is updated against operator official sites whenever a
+            collab opens, ends, or cancels. Each entry below carries verified
+            dates, the reservation system in use, the venue{`'`}s
+            English-friendliness rating, and a price-band estimate so you can
+            plan a single-cafe visit or a multi-stop day. New to the format?
+            Start with our{' '}
+            <Link
+              href="/articles/how-to-book-anime-collab-cafe-japan"
+              style={{ color: '#0d9488', textDecoration: 'underline' }}
+            >
+              booking walkthrough
+            </Link>{' '}
+            or the{' '}
+            <Link
+              href="/articles/lawson-ticket-anime-cafe-booking"
+              style={{ color: '#0d9488', textDecoration: 'underline' }}
+            >
+              Lawson Ticket guide
+            </Link>
+            .
+          </p>
+        </div>
       </header>
 
       {total === 0 ? <EmptyState /> : null}
