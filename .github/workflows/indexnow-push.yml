@@ -1,0 +1,139 @@
+name: IndexNow push (Bing / Yandex / Naver / DuckDuckGo)
+
+# On push to main, detect any changed article slugs (content/articles/) or
+# changed app/ routes that produce new live URLs, then POST those URLs to
+# the IndexNow API. IndexNow propagates the freshness signal across the
+# Microsoft / Yandex search consortium and onward partners. The Google
+# ping endpoint was deprecated in June 2023 (HTTP 404 with deprecation
+# notice); Google relies on its own crawler scheduling instead.
+#
+# Authentication model:
+# - We host /9e4092b71c3140098777747958676154.txt at the site root
+#   (committed to public/). The IndexNow API verifies the key file
+#   exists before accepting submissions, which proves domain control.
+# - The key string is intentionally public; it is an authenticator, not
+#   a secret.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'content/articles/**'
+      - 'app/**/page.tsx'
+      - 'app/sitemap.ts'
+
+permissions:
+  contents: read
+
+jobs:
+  indexnow:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    env:
+      INDEXNOW_KEY: 9e4092b71c3140098777747958676154
+      INDEXNOW_HOST: www.japan-pop-now.com
+      INDEXNOW_KEY_LOCATION: https://www.japan-pop-now.com/9e4092b71c3140098777747958676154.txt
+    steps:
+      - name: Checkout (fetch enough history to diff against pre-push)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+
+      - name: Collect changed article URLs
+        id: collect
+        run: |
+          set -euo pipefail
+          BEFORE="${{ github.event.before }}"
+          AFTER="${{ github.event.after }}"
+
+          # Edge case: first push to a branch (BEFORE is all-zero) — fall
+          # back to HEAD~1 so we always have a non-empty diff base.
+          if [ -z "${BEFORE}" ] || [ "${BEFORE}" = "0000000000000000000000000000000000000000" ]; then
+            BEFORE="$(git rev-parse HEAD~1 || echo HEAD)"
+          fi
+
+          # Article slugs whose .md/.mdx file changed in this push.
+          mapfile -t SLUGS < <(git diff --name-only "${BEFORE}" "${AFTER}" -- 'content/articles/*.md' 'content/articles/*.mdx' \
+            | sed -E 's|^content/articles/||; s|\.(md|mdx)$||' \
+            | sort -u \
+            | grep -v '^$' || true)
+
+          # Hub pages whose page.tsx changed (subset most likely to need re-crawl)
+          HUBS=()
+          if git diff --name-only "${BEFORE}" "${AFTER}" -- 'app/cafes/page.tsx' | grep -q .; then HUBS+=("/cafes"); fi
+          if git diff --name-only "${BEFORE}" "${AFTER}" -- 'app/calendar/page.tsx' | grep -q .; then HUBS+=("/calendar"); fi
+          if git diff --name-only "${BEFORE}" "${AFTER}" -- 'app/articles/page.tsx' | grep -q .; then HUBS+=("/articles"); fi
+          if git diff --name-only "${BEFORE}" "${AFTER}" -- 'app/sitemap.ts' | grep -q .; then HUBS+=("/sitemap.xml"); fi
+
+          # Build URL list. Skip slugs whose frontmatter has robots:noindex
+          # (they should not be promoted) — match the sitemap.ts filter
+          # philosophy.
+          URLS_JSON=""
+          first=1
+          for slug in "${SLUGS[@]}"; do
+            f=""
+            for ext in md mdx; do
+              if [ -f "content/articles/${slug}.${ext}" ]; then f="content/articles/${slug}.${ext}"; break; fi
+            done
+            if [ -z "$f" ]; then continue; fi
+            if grep -qE '^robots:\s*"?noindex' "$f"; then continue; fi
+            url="https://www.japan-pop-now.com/articles/${slug}"
+            if [ $first -eq 1 ]; then
+              URLS_JSON="\"${url}\""
+              first=0
+            else
+              URLS_JSON="${URLS_JSON},\"${url}\""
+            fi
+          done
+          for hub in "${HUBS[@]}"; do
+            url="https://www.japan-pop-now.com${hub}"
+            if [ $first -eq 1 ]; then
+              URLS_JSON="\"${url}\""
+              first=0
+            else
+              URLS_JSON="${URLS_JSON},\"${url}\""
+            fi
+          done
+
+          if [ -z "${URLS_JSON}" ]; then
+            echo "No publishable URL changes detected — skipping IndexNow."
+            echo "skip=1" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          echo "skip=0" >> "$GITHUB_OUTPUT"
+          echo "urls=[${URLS_JSON}]" >> "$GITHUB_OUTPUT"
+          echo "::notice::IndexNow payload prepared with $(echo "[${URLS_JSON}]" | tr ',' '\n' | wc -l) URLs"
+
+      - name: POST to IndexNow API
+        if: steps.collect.outputs.skip == '0'
+        env:
+          URLS_JSON: ${{ steps.collect.outputs.urls }}
+        run: |
+          set -euo pipefail
+          BODY=$(cat <<EOF
+          {
+            "host": "${INDEXNOW_HOST}",
+            "key": "${INDEXNOW_KEY}",
+            "keyLocation": "${INDEXNOW_KEY_LOCATION}",
+            "urlList": ${URLS_JSON}
+          }
+          EOF
+          )
+          echo "Request body: ${BODY}"
+          # IndexNow returns 200/202 for accepted submissions, 422 for invalid
+          # key/host, 403 if key file is missing. We log the status but do
+          # not fail the workflow on 4xx — if the key file isn't deployed
+          # yet (first run before public/{key}.txt is live), retry on the
+          # next push will succeed.
+          STATUS=$(curl -sS -o /tmp/indexnow_response.txt -w "%{http_code}" \
+            -X POST "https://api.indexnow.org/indexnow" \
+            -H "Content-Type: application/json; charset=utf-8" \
+            -d "${BODY}")
+          echo "IndexNow API response: HTTP ${STATUS}"
+          cat /tmp/indexnow_response.txt
+          if [ "${STATUS}" = "200" ] || [ "${STATUS}" = "202" ]; then
+            echo "::notice::IndexNow accepted the submission (HTTP ${STATUS})"
+          else
+            echo "::warning::IndexNow returned HTTP ${STATUS} — non-fatal, retry on next push"
+          fi
