@@ -12,6 +12,7 @@ author: "Takapon"
 excerpt: "Last updated: April 2026. Tokyo’s collab cafe scene rotates constantly — there are usually 15-20 anime-themed cafes running at any given time across the..."
 relatedSlugs: []
 wpPostId: 752
+voice: "friend-guide"
 ---
 
 *Last updated: April 2026.*
@@ -22,6 +23,8 @@ Tokyo runs at least 15 anime collab cafes at any given time between June and Aug
 Summer is peak collab cafe season in Tokyo for two reasons: the summer anime broadcast season launches in July, bringing a wave of new IP-themed cafes, and international tourist traffic spikes during school holidays worldwide. The result is more cafes running simultaneously — but also higher demand for reservations, especially during the first two weeks of any collab’s run.
 
 This guide covers every confirmed summer 2026 cafe with dates and reservation info, explains the booking systems for each major chain, breaks down typical costs, and suggests multi-cafe routes for hitting several in one day.
+
+Across years of Tokyo collab cafe scheduling, summer (June-August) consistently brings the highest cafe volume due to broadcast-season launches stacking with school-holiday tourist traffic — confirm exact dates and venues at each cafe's official site before booking. For the live tracker of every active anime collaboration cafe across Japan (not just summer Tokyo), see the [/cafes hub](/cafes) — it's updated against operator sites whenever a collab opens, ends, or cancels.
 
 **Start here**
 

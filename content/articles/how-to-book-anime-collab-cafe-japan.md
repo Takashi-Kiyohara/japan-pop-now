@@ -12,6 +12,7 @@ author: "Takapon"
 excerpt: "Complete guide to booking anime collaboration cafes in Tokyo. Covers Lawson Ticket, lottery systems, walk-in tips, and what to expect at your first collab cafe..."
 relatedSlugs: []
 wpPostId: 100
+voice: "friend-guide"
 ---
 
 *Last updated: April 22, 2026. Covers all major booking platforms currently used by collab cafes in Tokyo.*
@@ -29,6 +30,8 @@ But it’s doable. This guide walks through every step of the process, from find
 **Booking an anime collab cafe in Japan typically requires advance online reservation through platforms like Lawson Loppi, e+ (eplus), or the cafe’s own website, often 2 to 4 weeks before your visit date.** High-demand collaborations for series like Jujutsu Kaisen and SPY×FAMILY use a lottery system (chuusen) where you apply during a window period and are randomly selected. Walk-in seats are sometimes available on weekday afternoons, but reservations are strongly recommended for any weekend or holiday visit.
 
 *Refresh: April 22, 2026 — Lawson Ticket, e+ (eplus), and Animate Cafe Reserve all remain the dominant platforms, and the lottery model on high-demand titles (SPY×FAMILY, Jujutsu Kaisen, Demon Slayer ufotable rerun) still opens 2-3 weeks before each cafe's run. No major platform rule changes since our last audit.*
+
+Across years of Tokyo collab cafe booking-platform churn, the three systems below (Lawson Ticket, e+, Animate Cafe Reserve) have stayed dominant — confirm the platform required for each specific cafe at the operator's site before applying. For the live tracker of which collabs are running today across Japan, see the [/cafes hub](/cafes) rather than relying on date-bounded round-up posts.
 
 
 

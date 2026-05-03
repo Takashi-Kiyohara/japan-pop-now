@@ -87,7 +87,7 @@ Some hotels will let you use their phone and address for ticket bookings. Touris
 If you have a Japanese friend, a travel agent, or you're using a booking concierge, they can reserve under their account and send you the reservation code. **The Loppi machine only checks the code** — it doesn't care who created the account. This is the fastest path if you know anyone local.
 
 ### Option 4: Book Through the Cafe Directly (Sometimes available)
-Not every anime cafe routes through Lawson Ticket. Some use **eplus** (e+), which has a genuine international site. Some use their own system. Check the cafe's official X post first — if it offers a non-Lawson option, grab that one. Our [anime collab cafe booking guide](/tokyo-anime-collab-cafes-spring-2026/) lists which platform each cafe uses.
+Not every anime cafe routes through Lawson Ticket. Some use **eplus** (e+), which has a genuine international site. Some use their own system. Check the cafe's official X post first — if it offers a non-Lawson option, grab that one. The live [/cafes hub](/cafes) lists every active and upcoming collab cafe in Japan with its reservation system noted; the [Tokyo Spring 2026 round-up](/articles/tokyo-anime-collab-cafes-spring-2026) covers the date-bounded slice.
 
 ## Step-by-Step: Booking Online at l-tike.com
 

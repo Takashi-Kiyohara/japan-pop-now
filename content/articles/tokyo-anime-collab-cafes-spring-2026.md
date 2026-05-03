@@ -19,6 +19,8 @@ voice: "friend-guide"
 
 *Updated weekly. Last update: April 29, 2026 — six collabs ended over the past week (full list below); Golden Week openings noted.*
 
+For the live cross-Japan tracker (active + upcoming, not just spring Tokyo), see the [/cafes hub](/cafes) — it's updated against operator official sites whenever a collab opens, ends, or cancels.
+
 ![Akihabara Electric Town main intersection in Tokyo — the primary anime collab-cafe district](/images/articles/tokyo-anime-collab-cafes-spring-2026/body-wikimedia-1.webp)
 *Photo: Jakub Hałun / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Akihabara_Electric_Town,_Tokyo,_20240823_1617_5580.jpg), CC BY 4.0. Akihabara Electric Town — the primary Tokyo anime collab-cafe district.*
 Shibuya street scene near PARCO — the heart of Tokyo’s pop culture shopping district
