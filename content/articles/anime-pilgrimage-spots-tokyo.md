@@ -11,6 +11,7 @@ author: "Takapon"
 excerpt: "Visit real anime locations in Tokyo: Your Name stairs, Shibuya Crossing (JJK), Sensoji (Demon Slayer), Akihabara (Steins;Gate), Kamakura (Slam Dunk), and more."
 relatedSlugs: []
 wpPostId: 105
+voice: "friend-guide"
 ---
 
 *Last updated: April 2026.*
@@ -24,6 +25,8 @@ A 2024 survey by Japan’s Tourism Agency found that nearly 12% of international
 Here are 10 locations you can visit today. No tickets, no reservations, no planning required — just your phone (with comparison screenshots saved) and comfortable walking shoes.
 
 **Anime pilgrimage (seichi junrei, 聖地巡礼) is the practice of visiting real-world locations in Japan that appeared as settings in anime, manga, or light novels, and Tokyo alone contains over 200 verified pilgrimage spots across all 23 wards.** The tradition has become a major driver of domestic and international tourism, with popular locations like the Jujutsu Kaisen Shibuya crossing and Your Name stairs in Yotsuya attracting thousands of fans each year.
+
+Across years of Japanese pilgrimage culture's evolution, the 10 spots below stay accessible as public space — confirm any private-property boundaries on the day. For the IP-specific deep dives this listicle only summarizes, see the dedicated [Naruto Tokyo pilgrimage walkthrough](/articles/naruto-tokyo-pilgrimage-2026); for the costume side of pilgrimage culture (rental + on-location shoots), the [Cosplay experience guide](/articles/cosplay-experience-tokyo-2026) is the companion reference.
 
 ## Table of Contents
 

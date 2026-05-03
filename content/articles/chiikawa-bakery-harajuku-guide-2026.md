@@ -12,6 +12,7 @@ author: "Takapon"
 excerpt: "After a morning inside Chiikawa Bakery at Tokyu Plaza Omotesando, here is a no-hype walkthrough: how reservation actually works, which breads are worth the ¥580, and the rules international visitors keep missing."
 relatedSlugs: ["tokyo-anime-collab-cafes-spring-2026", "how-to-book-anime-collab-cafe-japan", "shibuya-harajuku-pop-culture-guide", "lawson-ticket-anime-cafe-booking"]
 wpPostId: 840
+voice: "friend-guide"
 ---
 
 *Last updated: April 2026 — verified against official site, user reports, and live visit.*
@@ -27,6 +28,8 @@ wpPostId: 840
 </div>
 
 I visited on a weekday morning in April 2026 and the ¥1,000 "Advance reservation ticket with shopping voucher" on Lawson Ticket is **not** a separate cost. It is literally ¥1,000 you can spend inside the store. If you plan to buy more than ¥1,000 of bread and drinks — which is almost anyone walking through the door — the reservation ticket is free priority entry. But if you cannot book or prefer to walk in later in the day, afternoon entry is genuinely easy.
+
+Across years of Chiikawa's commercial presence, the bakery is one of two permanent retail destinations in Tokyo (alongside the larger immersive store covered in [Chiikawa Land Tokyo Complete 2026](/articles/chiikawa-land-tokyo-complete-2026)) — the bakery is the food-focused stop, the Land is the merchandise-focused stop. Many fans do both in a single afternoon.
 
 ## Chiikawa Bakery Harajuku at a glance
 

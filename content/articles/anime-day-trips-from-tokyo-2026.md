@@ -11,6 +11,7 @@ author: "Takapon"
 excerpt: "Six of Japan's best anime pilgrimage spots sit within day-trip range of Tokyo — all reachable in under two hours by train. From Slam Dunk's Kamakura crossing (55 minutes) to Evangelion's Third Tokyo-3 in Hakone (85 minutes), visit a legendary anime location in the morning and be back in Shinjuku for dinner."
 relatedSlugs: []
 wpPostId: 754
+voice: "friend-guide"
 ---
 
 *Last updated: April 2026.*
@@ -19,6 +20,8 @@ Six of Japan’s best anime pilgrimage destinations are day-trip distance from T
 Six of Japan’s best anime pilgrimage spots sit within day-trip range of Tokyo — all reachable in under two hours by train. From Slam Dunk’s Kamakura crossing (55 minutes) to Evangelion’s Third Tokyo-3 in Hakone (85 minutes) to the Girls und Panzer shrine town of Oarai (90 minutes), you can visit a legendary anime location in the morning and be back in Shinjuku for dinner. Day trip costs range from ¥3,800 (~$26) for Kamakura to about ¥8,000 (~$55) for Hakone with hot springs.
 
 I’ve organized these six destinations by travel time from central Tokyo, with exact train routes, costs, JR Pass coverage, and suggested itineraries for each. If you’re building a week-long Tokyo itinerary, two or three of these day trips fill out the schedule and give you stories that no Akihabara shopping haul can match.
+
+Across years of bullet-train + JR Pass usage patterns, the day-trip envelope from Tokyo extends comfortably out to about three hours one-way before the math stops working — within that envelope, [Kyoto's anime scene](/articles/kyoto-anime-guide-2026) sits at the upper edge (2h15m by Shinkansen) and is treated as a separate guide rather than included below. The six destinations here are the under-2-hour subset.
 
 ## Table of Contents
 

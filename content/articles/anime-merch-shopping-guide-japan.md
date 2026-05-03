@@ -23,7 +23,7 @@ Need to ship your haul home? Read our [Guide to Shipping Anime Merch from Japan]
 Image: Collabo Cafe
 **Anime merchandise shopping in Japan offers prices 30-50% lower than international retail, with exclusive items unavailable anywhere else, across dedicated stores in districts like Akihabara, Ikebukuro, and Nakano Broadway.** Japan’s anime merchandise market exceeds $5 billion annually, and the country is home to flagship stores for every major franchise. Visitors can find figures, apparel, artbooks, limited-edition collaborations, and secondhand rare items at all price points from 100 yen gachapon to 50,000+ yen premium figures.
 
-Across years of Japan's anime merchandise market evolution, the major retailers and pricing bands below stay broadly consistent — confirm exact stock levels and limited-edition exclusives at the store on the day of your visit.
+Across years of Japan's anime merchandise market evolution, the major retailers and pricing bands below stay broadly consistent — confirm exact stock levels and limited-edition exclusives at the store on the day of your visit. For the franchise-flagship side of merchandise (Pokemon-only retail), the dedicated [Pokemon Center Tokyo complete guide](/articles/pokemon-center-tokyo-complete-guide-2026) covers the multi-store Tokyo network in editorial depth.
 
 ## Live Now: JJK PLAZA Chair:Black Pop-Up at Loft (Spring 2026)
 

@@ -12,6 +12,7 @@ author: "Takapon"
 excerpt: "Rent a full cosplay outfit in Tokyo for ¥3,000–12,000 at English-friendly studios in Akihabara and Ikebukuro — wig, accessories, and photo studio time included."
 relatedSlugs: []
 wpPostId: 757
+voice: "friend-guide"
 ---
 
 *Last updated: April 2026.*
@@ -20,6 +21,8 @@ Cosplay rental studios in Akihabara and Ikebukuro offer everything from maid out
 You can rent a full cosplay outfit in Tokyo for ¥3,000-12,000 (~$20-82) at studios in Akihabara and Ikebukuro — wig, accessories, and photo studio time included. Several studios offer English-speaking staff and professional photography packages, making the experience accessible even if you’ve never cosplayed before. Sessions typically run 1-3 hours, and some studios let you walk around Akihabara in costume after your shoot.
 
 Cosplay rental is one of those Tokyo experiences that sounds intimidating but is actually straightforward once you know which studios to book. This guide covers the best English-friendly studios, pricing, what’s included, where you can wear cosplay in public, and the rules for cosplaying at major events like Comiket.
+
+Across years of Tokyo's character-experience economy, costume rental sits alongside hands-on workshop formats — the [LuvLab Harajuku DIY accessory experience](/articles/luvlab-harajuku-diy-accessory-experience) is the natural Harajuku-side companion if you want to make a piece to wear with the rented outfit, and most studios will allow rented accessories alongside their costume kits.
 
 ## Table of Contents
 

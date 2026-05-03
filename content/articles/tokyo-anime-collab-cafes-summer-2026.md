@@ -24,7 +24,7 @@ Summer is peak collab cafe season in Tokyo for two reasons: the summer anime bro
 
 This guide covers every confirmed summer 2026 cafe with dates and reservation info, explains the booking systems for each major chain, breaks down typical costs, and suggests multi-cafe routes for hitting several in one day.
 
-Across years of Tokyo collab cafe scheduling, summer (June-August) consistently brings the highest cafe volume due to broadcast-season launches stacking with school-holiday tourist traffic — confirm exact dates and venues at each cafe's official site before booking. For the live tracker of every active anime collaboration cafe across Japan (not just summer Tokyo), see the [/cafes hub](/cafes) — it's updated against operator sites whenever a collab opens, ends, or cancels.
+Across years of Tokyo collab cafe scheduling, summer (June-August) consistently brings the highest cafe volume due to broadcast-season launches stacking with school-holiday tourist traffic — confirm exact dates and venues at each cafe's official site before booking. For the live tracker of every active anime collaboration cafe across Japan (not just summer Tokyo), see the [/cafes hub](/cafes) — it's updated against operator sites whenever a collab opens, ends, or cancels. Two summer 2026 IP-anniversary specials worth flagging: [JoJo Stone Ocean cafe at JoJo World](/articles/jojo-stone-ocean-cafe-jojo-world-2026) and the [Okami 20th × Monster Hunter Sakaba pop-up](/articles/okami-20th-monster-hunter-sakaba-tokyo-osaka-2026), both included in the cafe roster below.
 
 **Start here**
 
