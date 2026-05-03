@@ -207,6 +207,46 @@ export function getCafesForSitemap(): Cafe[] {
   return getAllCafes().filter((c) => c.status === 'active' || c.status === 'upcoming');
 }
 
+/**
+ * CollectionPage + ItemList schema for the /cafes hub page. Includes only
+ * cafes that should currently be presented to a visitor (active + upcoming).
+ * Ended cafes stay crawlable but are not part of the hub's offer.
+ */
+export function getCafesHubSchema(
+  active: Cafe[],
+  upcoming: Cafe[],
+  baseUrl: string
+): object {
+  const cafes = [...active, ...upcoming];
+  const items = cafes.map((c, i) => ({
+    '@type': 'ListItem',
+    position: i + 1,
+    name: c.title_en,
+    url: `${baseUrl}/cafes/${c.slug}`,
+    description: c.description_en,
+  }));
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: 'Anime Collaboration Cafes in Japan',
+    description:
+      'Real-time tracker of anime collaboration cafes currently running and opening soon across Japan.',
+    url: `${baseUrl}/cafes`,
+    inLanguage: 'en',
+    isPartOf: {
+      '@type': 'WebSite',
+      url: baseUrl,
+      name: 'Japan Pop Now',
+    },
+    mainEntity: {
+      '@type': 'ItemList',
+      name: 'Active and Upcoming Anime Collaboration Cafes in Japan',
+      numberOfItems: items.length,
+      itemListElement: items,
+    },
+  };
+}
+
 // ---- internal helpers ----
 
 function earliestStart(c: Cafe): string {
