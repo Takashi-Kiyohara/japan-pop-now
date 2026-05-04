@@ -167,3 +167,33 @@ export function getCalendarItemListSchema(events: CollabEvent[], baseUrl: string
     itemListElement: items,
   };
 }
+
+/**
+ * CollectionPage schema for the /calendar hub. Wraps the existing ItemList
+ * (events) as `mainEntity` so the page presents as a typed collection
+ * resource rather than just a list. Mirrors the /cafes hub pattern in
+ * lib/cafes.ts:getCafesHubSchema.
+ */
+export function getCalendarHubSchema(events: CollabEvent[], baseUrl: string): object {
+  const itemList = getCalendarItemListSchema(events, baseUrl) as Record<string, unknown>;
+  return {
+    '@context': 'https://schema.org',
+    '@type': 'CollectionPage',
+    name: 'Anime Collaboration Cafe Calendar — Japan 2026',
+    description:
+      'Live calendar tracker of every anime collaboration cafe, pop-up, and themed venue currently open or opening soon across Japan.',
+    url: `${baseUrl}/calendar`,
+    inLanguage: 'en',
+    isPartOf: {
+      '@type': 'WebSite',
+      url: baseUrl,
+      name: 'Japan Pop Now',
+    },
+    mainEntity: {
+      '@type': itemList['@type'],
+      name: itemList.name,
+      numberOfItems: itemList.numberOfItems,
+      itemListElement: itemList.itemListElement,
+    },
+  };
+}

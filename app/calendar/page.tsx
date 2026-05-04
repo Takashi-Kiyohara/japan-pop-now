@@ -5,7 +5,8 @@
 
 import type { Metadata } from 'next';
 import CalendarBrowser from '@/components/CalendarBrowser';
-import { getUpcomingAndOngoing, getVisibleEvents, getCalendarItemListSchema } from '@/lib/events';
+import { getUpcomingAndOngoing, getVisibleEvents, getCalendarHubSchema } from '@/lib/events';
+import Link from 'next/link';
 import { AUTHOR } from '@/lib/author';
 
 export const revalidate = 3600;
@@ -31,7 +32,7 @@ const SITE_URL = 'https://www.japan-pop-now.com';
 export default function CalendarPage() {
   const { ongoing, openingSoon, permanent } = getUpcomingAndOngoing(14);
   const allVisible = getVisibleEvents();
-  const schema = getCalendarItemListSchema(allVisible, SITE_URL);
+  const schema = getCalendarHubSchema(allVisible, SITE_URL);
 
   const totalOpen = ongoing.length + permanent.length;
 
@@ -97,6 +98,57 @@ export default function CalendarPage() {
             Every anime collaboration cafe, pop-up, and themed venue open in Japan right now.
             The only English-language real-time tracker — updated weekly.
           </p>
+
+          <div
+            style={{
+              maxWidth: '780px',
+              fontSize: '0.95rem',
+              color: '#44403c',
+              lineHeight: 1.7,
+              marginBottom: '1.25rem',
+            }}
+          >
+            <p style={{ marginBottom: '1rem' }}>
+              The Japanese anime collab cafe market runs on overlapping
+              two-to-eight-week windows. A franchise will partner with a
+              chain venue (Sweets Paradise, Animate Cafe, BOX CAFE &amp;
+              SPACE, GiGO, Collabo Cafe Honpo), the venue clears its
+              standard menu, themes the interior, and runs the collab for
+              a fixed window. When that window closes, the next IP rotates
+              in within days. At any given moment in Tokyo and Osaka,
+              dozens of these windows are open simultaneously. This
+              calendar tracks each one against its operator official site
+              so the dates, reservation rules, and venue addresses below
+              are the source of truth, not a third-party scrape.
+            </p>
+            <p style={{ marginBottom: '1rem' }}>
+              For overseas visitors planning a trip, two practical
+              questions matter most: which collabs fit your travel window,
+              and which booking system applies. Most timed-entry cafes
+              route through Lawson Ticket (Japanese-only UI, Loppi pickup
+              at any 14,000+ Lawson) or e+ (eplus, has an English site);
+              walk-ins are reliably possible on weekday afternoons outside
+              Tokyo and at most permanent venues. The{' '}
+              <Link href="/articles/how-to-book-anime-collab-cafe-japan" style={{ color: '#0d9488', textDecoration: 'underline' }}>
+                booking walkthrough
+              </Link>
+              {' '}and the{' '}
+              <Link href="/articles/lawson-ticket-anime-cafe-booking" style={{ color: '#0d9488', textDecoration: 'underline' }}>
+                Lawson Ticket guide
+              </Link>
+              {' '}cover the system mechanics; this page covers what is
+              currently bookable.
+            </p>
+            <p>
+              Filter by city, franchise, or status using the controls
+              below. Each entry links to the operator official page where
+              available, plus our editorial deep dive when the collab
+              warrants one. Permanent venues (Pokemon Center, Chiikawa
+              Land, Capcom Cafe Umeda) sit alongside the rotating
+              collabs — flagged separately so you can plan around what
+              never closes.
+            </p>
+          </div>
 
           {/* Summary stats */}
           <div style={{ display: 'flex', gap: '12px', flexWrap: 'wrap' }}>
