@@ -8,6 +8,11 @@ export interface Category {
   color: string;
   description: string;
   hubSlug: string;
+  /** Optional 200+ word editorial intro rendered as multi-paragraph
+   * prose under the page-level description. Hub-page lift target per
+   * the AdSense/indexing playbook — articulate what the category
+   * covers, who it serves, and how to navigate the listing below. */
+  editorialIntro?: string[];
 }
 
 // 2026-04-19 category migration (5-body MECE restructure, approved 2026-04-16):
@@ -47,6 +52,11 @@ export const CATEGORIES: Category[] = [
     color: '#0d9488',
     description: 'Single-spot experiences and practical travel know-how for anime fans — themed cafes, pop-ups, theme parks, plus JR Pass, eSIM, luggage, and airport transfer guides.',
     hubSlug: 'japan-anime-experiences',
+    editorialIntro: [
+      'The Experiences category collects two related but distinct families of content: single-spot anime experiences (theme park attractions, pop-up retail, character cafes, DIY workshops, fan-day events) and practical travel essentials that overseas anime fans need to actually reach those experiences (JR Pass logistics, eSIM and pocket Wi-Fi, luggage forwarding, IC card transit, proxy shopping, airport transfers, and Japan-specific booking platform mechanics). The 2026-04 site restructure merged the legacy Travel Tips silo into Experiences because the practical guides were always read alongside the spot-experience write-ups in the same trip-planning sessions; keeping them in one category mirrors how visitors actually use them.',
+      'For overseas readers planning a Japan anime trip, the Experiences silo answers the operational questions that come after the destinations are chosen: which theme park attraction needs an in-park integer-ticket pull, which IC card to load before arrival, how to ship a Mandarake haul home before flying, when an eSIM beats a pocket Wi-Fi, and which Klook/Viator/GetYourGuide listing actually delivers what it markets. Articles below tend to be longer-form (2,000–4,500 words) because they replace the Japanese-language operator UI with English procedural detail. Expect price bands in yen with rough USD equivalents, English-friendliness ratings, and confirm-against-operator-site posture on every time-sensitive claim.',
+      'Browse the listing below by recency, or jump straight to the most-used reference articles via the booking walkthrough, IC card guide, or JR Pass primer. Time-limited events (an anime collaboration that closes in May, a single-day fan event) are flagged with end-date badges; permanent attractions stay listed without an expiry. New experiences land in this category most weeks during the spring and summer broadcast seasons.',
+    ],
   },
   {
     slug: 'destinations',

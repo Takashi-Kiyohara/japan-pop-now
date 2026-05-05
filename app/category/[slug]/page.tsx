@@ -186,6 +186,13 @@ export default async function CategoryPage({ params }: CategoryPageProps) {
         <p style={{ fontSize: '1.05rem', color: '#44403c', maxWidth: '720px', lineHeight: 1.7 }}>
           {category.description}
         </p>
+        {category.editorialIntro && category.editorialIntro.length > 0 ? (
+          <div style={{ maxWidth: '780px', marginTop: '1.25rem', fontSize: '0.95rem', color: '#44403c', lineHeight: 1.7 }}>
+            {category.editorialIntro.map((paragraph, idx) => (
+              <p key={idx} style={{ marginBottom: '1rem' }}>{paragraph}</p>
+            ))}
+          </div>
+        ) : null}
         <div style={{ display: 'flex', alignItems: 'center', gap: '16px', marginTop: '12px' }}>
           <span style={{ fontSize: '0.85rem', color: '#a8a29e' }}>
             {articles.length} articles
