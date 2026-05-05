@@ -29,7 +29,7 @@ voice: "friend-guide"
 
 I visited on a weekday morning in April 2026 and the ¥1,000 "Advance reservation ticket with shopping voucher" on Lawson Ticket is **not** a separate cost. It is literally ¥1,000 you can spend inside the store. If you plan to buy more than ¥1,000 of bread and drinks — which is almost anyone walking through the door — the reservation ticket is free priority entry. But if you cannot book or prefer to walk in later in the day, afternoon entry is genuinely easy.
 
-Across years of Chiikawa's commercial presence, the bakery is one of two permanent retail destinations in Tokyo (alongside the larger immersive store covered in [Chiikawa Land Tokyo Complete 2026](/articles/chiikawa-land-tokyo-complete-2026)) — the bakery is the food-focused stop, the Land is the merchandise-focused stop. Many fans do both in a single afternoon.
+Across years of Chiikawa's commercial presence, the bakery is one of two permanent retail destinations in Tokyo (alongside the larger immersive store covered in [Chiikawa Land Tokyo Complete 2026](/articles/chiikawa-land-tokyo-complete-2026)) — the bakery is the food-focused stop, the Land is the merchandise-focused stop. Many fans do both in a single afternoon. For other character-experience destinations across Tokyo (theme park attractions, DIY workshops, single-IP cafes), browse the [Experiences silo](/category/experiences).
 
 ## Chiikawa Bakery Harajuku at a glance
 

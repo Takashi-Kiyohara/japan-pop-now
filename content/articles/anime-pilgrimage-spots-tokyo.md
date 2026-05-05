@@ -26,7 +26,7 @@ Here are 10 locations you can visit today. No tickets, no reservations, no plann
 
 **Anime pilgrimage (seichi junrei, 聖地巡礼) is the practice of visiting real-world locations in Japan that appeared as settings in anime, manga, or light novels, and Tokyo alone contains over 200 verified pilgrimage spots across all 23 wards.** The tradition has become a major driver of domestic and international tourism, with popular locations like the Jujutsu Kaisen Shibuya crossing and Your Name stairs in Yotsuya attracting thousands of fans each year.
 
-Across years of Japanese pilgrimage culture's evolution, the 10 spots below stay accessible as public space — confirm any private-property boundaries on the day. For the IP-specific deep dives this listicle only summarizes, see the dedicated [Naruto Tokyo pilgrimage walkthrough](/articles/naruto-tokyo-pilgrimage-2026); for the costume side of pilgrimage culture (rental + on-location shoots), the [Cosplay experience guide](/articles/cosplay-experience-tokyo-2026) is the companion reference.
+Across years of Japanese pilgrimage culture's evolution, the 10 spots below stay accessible as public space — confirm any private-property boundaries on the day. For the IP-specific deep dives this listicle only summarizes, see the dedicated [Naruto Tokyo pilgrimage walkthrough](/articles/naruto-tokyo-pilgrimage-2026); for the costume side of pilgrimage culture (rental + on-location shoots), the [Cosplay experience guide](/articles/cosplay-experience-tokyo-2026) is the companion reference. Logistics-side reading (transit passes, IC cards, luggage forwarding) lives in the [Experiences silo](/category/experiences) alongside other practical travel guides.
 
 ## Table of Contents
 

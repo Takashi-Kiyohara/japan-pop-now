@@ -22,7 +22,7 @@ You can rent a full cosplay outfit in Tokyo for ¥3,000-12,000 (~$20-82) at stud
 
 Cosplay rental is one of those Tokyo experiences that sounds intimidating but is actually straightforward once you know which studios to book. This guide covers the best English-friendly studios, pricing, what’s included, where you can wear cosplay in public, and the rules for cosplaying at major events like Comiket.
 
-Across years of Tokyo's character-experience economy, costume rental sits alongside hands-on workshop formats — the [LuvLab Harajuku DIY accessory experience](/articles/luvlab-harajuku-diy-accessory-experience) is the natural Harajuku-side companion if you want to make a piece to wear with the rented outfit, and most studios will allow rented accessories alongside their costume kits.
+Across years of Tokyo's character-experience economy, costume rental sits alongside hands-on workshop formats — the [LuvLab Harajuku DIY accessory experience](/articles/luvlab-harajuku-diy-accessory-experience) is the natural Harajuku-side companion if you want to make a piece to wear with the rented outfit, and most studios will allow rented accessories alongside their costume kits. The full [Experiences silo](/category/experiences) collects every active hands-on / spot-experience write-up plus the practical travel guides (JR Pass, eSIM, IC card) you may need to reach them.
 
 ## Table of Contents
 

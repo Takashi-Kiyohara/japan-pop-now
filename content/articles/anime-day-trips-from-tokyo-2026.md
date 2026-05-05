@@ -21,7 +21,7 @@ Six of Japan’s best anime pilgrimage spots sit within day-trip range of Tokyo 
 
 I’ve organized these six destinations by travel time from central Tokyo, with exact train routes, costs, JR Pass coverage, and suggested itineraries for each. If you’re building a week-long Tokyo itinerary, two or three of these day trips fill out the schedule and give you stories that no Akihabara shopping haul can match.
 
-Across years of bullet-train + JR Pass usage patterns, the day-trip envelope from Tokyo extends comfortably out to about three hours one-way before the math stops working — within that envelope, [Kyoto's anime scene](/articles/kyoto-anime-guide-2026) sits at the upper edge (2h15m by Shinkansen) and is treated as a separate guide rather than included below. The six destinations here are the under-2-hour subset.
+Across years of bullet-train + JR Pass usage patterns, the day-trip envelope from Tokyo extends comfortably out to about three hours one-way before the math stops working — within that envelope, [Kyoto's anime scene](/articles/kyoto-anime-guide-2026) sits at the upper edge (2h15m by Shinkansen) and is treated as a separate guide rather than included below. The six destinations here are the under-2-hour subset. The full [Experiences silo](/category/experiences) collects related single-spot day-trip write-ups alongside the JR Pass / eSIM / IC card practical guides each of these trips needs.
 
 ## Table of Contents
 
