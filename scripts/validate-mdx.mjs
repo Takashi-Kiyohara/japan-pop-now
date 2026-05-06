@@ -19,6 +19,7 @@ const RESERVED_TOP_PATHS = new Set([
   'affiliate-disclosure', 'admin', 'upload', 'robots.txt',
   'sitemap.xml', 'llms.txt', 'favicon.ico', 'ads.txt', '_next',
   'images', 'icons', 'fonts', 'videos', 'og',
+  'cafes',
 ]);
 
 // Negative lookbehind: match `<br>`, `<br>` (no trailing space or slash).
