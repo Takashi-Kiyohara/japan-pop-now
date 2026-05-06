@@ -49,7 +49,7 @@ Budget options: capsule pods in Shinjuku or Ikebukuro run 40-70 USD per night an
 ### Decide on a JR Pass
 The JR Pass is essential if you’re planning to leave Tokyo for day trips or multi-day excursions. A 7-day pass costs 50,000 yen (about 200 USD at current rates) and must be purchased before you arrive in Japan—you can buy it through travel agents, travel websites, or online retailers. A 14-day pass is 46,320 yen. These pay for themselves in three or four round trips between Tokyo and major cities.
 
-However: if you’re staying in Tokyo and Kyoto for the full trip, calculate your specific routes. Tokyo to Kyoto return on the Shinkansen (bullet train) is 27,880 yen round-trip, so a JR Pass only makes sense if you’re adding Hiroshima, Osaka, or multiple other cities. [Our detailed JR Pass guide](/articles/japan-rail-pass-guide-anime-fans) breaks down every route anime fans typically take.
+However: if you’re staying in Tokyo and Kyoto for the full trip, calculate your specific routes. Tokyo to Kyoto return on the Shinkansen (bullet train) is 27,880 yen round-trip, so a JR Pass only makes sense if you’re adding Hiroshima, Osaka, or multiple other cities. [Our detailed JR Pass guide](/articles/japan-rail-pass-2026-guide) breaks down every route anime fans typically take.
 
 Book your JR Pass exchange voucher through authorized dealers—I’ve used [JR East Official](https://www.jreast.co.jp) and [Klook](https://www.klook.com) (which sometimes has discounts of 5-10%). You’ll receive a voucher code to exchange at airports when you arrive. The pass only activates when you exchange it, so you can arrive and decide the timing.
 
@@ -274,7 +274,7 @@ DAY 2 ONWARD:
 - [How to Book Collab Cafes in Tokyo: The Complete Lottery & Walk-In Guide](/articles/how-to-book-anime-collab-cafe-japan)
 - [Tokyo Anime Collab Cafes This Spring 2026](/articles/tokyo-anime-collab-cafes-spring-2026)
 - [eSIM vs Pocket WiFi vs Prepaid SIM: Which One Is Actually Best](/japan-esim-pocket-wifi-sim-card-guide/)
-- [Japan Rail Pass Guide: When to Buy, How Much It Saves, Routes Anime Fans Actually Take](/articles/japan-rail-pass-guide-anime-fans)
+- [Japan Rail Pass Guide: When to Buy, How Much It Saves, Routes Anime Fans Actually Take](/articles/japan-rail-pass-2026-guide)
 - [Suica, Pasmo, and IC Cards: Everything You Need to Know About Transit in Japan](/articles/japan-ic-card-transit-guide)
 - [The Anime Merch Shopping Guide: Where to Buy, What to Look For, What’s Actually Worth Your Money](/articles/anime-merch-shopping-guide-japan)
 

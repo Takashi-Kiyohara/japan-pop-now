@@ -246,7 +246,7 @@ Yes, that’s the beauty of eSIM. Most modern phones support one physical SIM + 
 - [Ikebukuro Anime Guide 2026](/articles/ikebukuro-anime-guide-2026)
 - [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)
 - [Japan Trip Checklist for Anime Fans 2026](/articles/japan-trip-checklist-anime-fans-2026)
-- [JR Pass Anime Pilgrimages 2026 — Routes & Prices](/articles/jr-pass-anime-pilgrimage-routes-2026)
+- [JR Pass Anime Pilgrimages 2026 — Routes & Prices](/articles/japan-rail-pass-2026-guide)
 - [Best Anime Hotels in Tokyo 2026](/best-anime-hotels-tokyo-2026/)
 
 Planning a trip to Tokyo?

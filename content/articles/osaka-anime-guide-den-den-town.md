@@ -217,7 +217,7 @@ If you’re visiting Den Den Town as a day trip, use the coin lockers at Namba S
 | Tax-free | Most major shops offer tax-free shopping for purchases over 5,000 yen (bring passport) |
 
 ### Tokyo to Osaka: Save with a JR Pass
-If you’re combining Tokyo and Osaka on your anime trip, a Japan Rail Pass covers the Shinkansen round trip and all local JR trains. Check if it saves you money on our [JR Pass Guide](/articles/japan-rail-pass-guide-anime-fans/).
+If you’re combining Tokyo and Osaka on your anime trip, a Japan Rail Pass covers the Shinkansen round trip and all local JR trains. Check if it saves you money on our [JR Pass Guide](/articles/japan-rail-pass-2026-guide/).
 
 [Check JR Pass Prices on Klook](https://affiliate.klook.com/redirect?aid=117469&aff_adid=1251547&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US/search/?query=japan+rail+pass&aid=1117469)
 ## More Anime Shopping & Culture Guides

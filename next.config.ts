@@ -287,6 +287,12 @@ const nextConfig: NextConfig = {
     // canonical pointing to target so sitemap excludes them.
     { source: '/articles/demon-slayer-rerun-cafe-ufotable-2026', destination: '/articles/demon-slayer-rerun-cafe-ufotable-kizuna-2026', permanent: true },
     { source: '/articles/osaka-anime-collab-cafes-pop-culture-2026', destination: '/articles/osaka-anime-cafes-complete-guide-2026', permanent: true },
+    // JR Pass cluster merge (cycle E1, 2026-05-06): consolidating 3 mutually-similar
+    // articles (cosine 0.61–0.71). Canonical = japan-rail-pass-2026-guide (most
+    // inbound: 14, most words: 3906, most recent). The 2 deprecated slugs below
+    // get robots:noindex + canonical at the source-mdx level too.
+    { source: '/articles/japan-rail-pass-guide-anime-fans', destination: '/articles/japan-rail-pass-2026-guide', permanent: true },
+    { source: '/articles/jr-pass-anime-pilgrimage-routes-2026', destination: '/articles/japan-rail-pass-2026-guide', permanent: true },
 
     // Generic trailing-slash strip — REPLACES the framework's internal
     // /:path+/ priority rule that's removed by skipTrailingSlashRedirect.

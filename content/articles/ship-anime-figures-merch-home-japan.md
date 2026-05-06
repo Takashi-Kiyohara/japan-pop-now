@@ -214,7 +214,7 @@ One more thing: take photos of your collection before you pack it. Just in case 
 - [Nakano Broadway Guide](/articles/nakano-broadway-guide)
 - [Gachapon Guide Japan](/articles/gachapon-guide-japan)
 - [eSIM vs Pocket WiFi Guide](/japan-esim-pocket-wifi-sim-card-guide/)
-- [Japan Rail Pass Guide](/articles/japan-rail-pass-guide-anime-fans)
+- [Japan Rail Pass Guide](/articles/japan-rail-pass-2026-guide)
 
 **Follow [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)** for daily Tokyo pop culture updates.
 
