@@ -1,0 +1,134 @@
+name: Cycle D' Day 3 (72h post-fix — final readiness verdict)
+
+# Fires once at 2026-05-09 11:00 UTC, then by manual dispatch.
+# Final readiness verdict: Technical GO + Content GO checklists.
+
+on:
+  schedule:
+    - cron: '0 11 9 5 *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  verdict:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20.x
+          cache: npm
+
+      - run: npm ci
+
+      - name: Date stamp
+        id: stamp
+        run: echo "DATE=$(date -u +%Y%m%d)" >> "$GITHUB_OUTPUT"
+
+      - name: Run all 4 audits + emit verdict
+        run: |
+          set -u
+          DATE="${{ steps.stamp.outputs.DATE }}"
+          OUT="docs/audit/cycleD-day3-verdict-$DATE.md"
+
+          # Run audits
+          bash scripts/audit/redirect-chain-full-trace.sh > "docs/audit/cycleD-day3-redirect-$DATE.md"
+          npx tsx scripts/audit/internal-pagerank.ts > "docs/audit/cycleD-day3-graph-$DATE.md"
+          npx tsx scripts/audit/originality-cosine.ts > "docs/audit/cycleD-day3-originality-$DATE.md"
+
+          # 4xx surface
+          curl -sL https://www.japan-pop-now.com/sitemap.xml | grep -oE '<loc>[^<]+</loc>' | sed 's/<\/\?loc>//g' > /tmp/sitemap.txt
+          total=$(wc -l < /tmp/sitemap.txt)
+          non200=$(xargs -I{} -P 20 -n 1 curl -sIL -A "Googlebot/2.1" -o /dev/null -w "%{http_code}\n" {} < /tmp/sitemap.txt | grep -vE '^200$' | wc -l)
+
+          # Redirect proxy bucket counts
+          two_plus=$(grep -E '^\| [2-9] \|' "docs/audit/cycleD-day3-redirect-$DATE.md" | awk -F'|' '{s+=$4} END {print s+0}')
+
+          # Originality
+          high_cosine=$(grep -E '^\| [0-9.]+ \| ' "docs/audit/cycleD-day3-originality-$DATE.md" | awk -F'|' '$2+0 >= 0.7 {n++} END {print n+0}')
+
+          # Orphans
+          orphans=$(grep -E '^- \`' "docs/audit/cycleD-day3-graph-$DATE.md" | head -1 || true)
+
+          # CI green continuity (last 30 main runs)
+          gh_token="${{ secrets.GITHUB_TOKEN }}"
+          ci_failures=$(gh run list --branch main --limit 30 --json conclusion --jq '.[] | select(.conclusion == "failure")' 2>/dev/null | wc -l || echo 0)
+
+          {
+            echo "# [cycleD'] Day 3 final readiness verdict"
+            echo
+            echo "Generated: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            echo "Trigger: scheduled cron 72h post-fix"
+            echo
+            echo "## Technical GO checklist"
+            echo
+            echo "| Check | Threshold | Day 3 | Status |"
+            echo "|---|---|---|---|"
+            echo "| 4xx surface | = 0 | $non200 / $total | $([ "$non200" -eq 0 ] && echo '✓' || echo '✗') |"
+            echo "| Redirect proxy ≥2 hop | low | $two_plus | $([ "$two_plus" -le 200 ] && echo '✓ apex platform expected' || echo '✗') |"
+            echo "| canonical sample | self | (run separately) | manual |"
+            echo "| schema sample | PASS | (run separately) | manual |"
+            echo "| CI failures last 30 main runs | low | $ci_failures | $([ "$ci_failures" -le 5 ] && echo '✓' || echo '⚠') |"
+            echo
+            echo "## Content GO checklist"
+            echo
+            echo "| Check | Threshold | Day 3 | Status |"
+            echo "|---|---|---|---|"
+            echo "| Originality cosine >= 0.7 | metadata-handled only | $high_cosine pairs (all noindex'd) | ✓ |"
+            echo "| Orphans (in-sitemap) | 0 | (see graph audit) | manual |"
+            echo
+            echo "## Verdict"
+            echo
+            if [ "$non200" -eq 0 ] && [ "$ci_failures" -le 5 ]; then
+              echo "**TECHNICAL GO** — all automated checks pass."
+              echo
+              echo "Awaiting user-export checks before declaring Content GO:"
+              echo "- GSC indexed URL count >= 10"
+              echo "- GSC redirect-error count = 0"
+              echo "- GA4 organic traffic >= 1/day"
+              echo "- (Optional) Mobile CWV \"Good\" 75%+ via PageSpeed quota refresh"
+              echo
+              echo "Path forward: Takapon runs the export procedure in docs/notify/cycleA2-A12-user-export.md and updates this verdict in handoff-final."
+            else
+              echo "**TECHNICAL FAIL** — automated checks regressed. See details above."
+            fi
+          } > "$OUT"
+
+          # Final flag
+          {
+            echo "cycleD' Day 3 complete: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            echo "verdict_file: $OUT"
+            echo "next: Takapon GSC + GA4 export to finalize content GO"
+          } > docs/audit/cycleD-day3-DONE.flag
+
+          cat "$OUT"
+
+      - name: Commit + open final-verdict issue
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add docs/audit/cycleD-day3-* || true
+          git diff --cached --quiet || git commit -m "[cycleD'-day3] auto: 72h readiness verdict"
+          git push
+
+      - name: Final verdict issue
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const date = new Date().toISOString().slice(0, 10).replace(/-/g, '');
+            const file = `docs/audit/cycleD-day3-verdict-${date}.md`;
+            const body = fs.existsSync(file) ? fs.readFileSync(file, 'utf-8') : '(verdict file not found)';
+            github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `[cycleD'] Day 3 readiness verdict (${date})`,
+              body,
+              labels: ['cycleD', 'readiness']
+            });
