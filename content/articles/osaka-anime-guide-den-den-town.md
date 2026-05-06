@@ -241,7 +241,7 @@ For a complete list of anime collaboration cafes currently running in Osaka, che
 - [Ikebukuro Anime Guide 2026](/articles/ikebukuro-anime-guide-2026)
 - [Nakano Broadway Guide](/articles/nakano-broadway-guide)
 - [Shibuya & Harajuku Pop Culture Guide](/articles/shibuya-harajuku-pop-culture-guide)
-- [Kyoto Anime Guide 2026](/articles/tokyo-anime-district-guide)
+- [Kyoto Anime Guide 2026](/articles/kyoto-anime-guide-2026)
 - [How to Book Anime Collab Cafes](/articles/how-to-book-anime-collab-cafe-japan)
 
 Planning a trip to Tokyo?

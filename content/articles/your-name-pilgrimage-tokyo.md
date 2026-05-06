@@ -162,10 +162,10 @@ A local guide takes you to every filming location from Your Name, explains the s
 
 - [Demon Slayer Pilgrimage Guide — Every Location in Tokyo](/articles/demon-slayer-pilgrimage-tokyo)
 - [Weathering With You Real-Life Locations in Tokyo](/articles/weathering-with-you-locations-tokyo)
-- [Jujutsu Kaisen Shibuya Pilgrimage Guide](/articles/demon-slayer-pilgrimage-tokyo)
-- [Chainsaw Man Tokyo Pilgrimage Guide](/articles/weathering-with-you-locations-tokyo)
-- [One Piece Tokyo Guide 2026](/articles/one-piece-kumamoto-statue-tour)
-- [Kyoto Anime Guide 2026](/articles/osaka-anime-guide-den-den-town)
+- [Jujutsu Kaisen Shibuya Pilgrimage Guide](/articles/jujutsu-kaisen-shibuya-locations-2026)
+- [Chainsaw Man Tokyo Pilgrimage Guide](/articles/chainsaw-man-pilgrimage-tokyo)
+- [One Piece Tokyo Guide 2026](/articles/one-piece-tokyo-guide-2026)
+- [Kyoto Anime Guide 2026](/articles/kyoto-anime-guide-2026)
 
 Planning a trip to Tokyo?
 
@@ -179,7 +179,11 @@ Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and 
 Follow for weekly collab cafe updates & Japan pop culture content.
 
 ### Explore by Area
-[ Tokyo](/tag/tokyo/)[ Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[ Shibuya](/shibuya-anime-spots-guide/)[ Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[ Osaka](/osaka-anime-guide-2025/) Kyoto (Coming Soon)
+- [Akihabara Complete Guide](/articles/akihabara-complete-guide-2026/) — Steins;Gate pilgrimage district + electronics town
+- [Shibuya & Harajuku Pop Culture Guide](/articles/shibuya-harajuku-pop-culture-guide/) — Weathering With You + Jujutsu Kaisen Shibuya area
+- [Ikebukuro Anime Guide 2026](/articles/ikebukuro-anime-guide-2026/) — Otome Road + Animate flagship
+- [Osaka Anime Guide — Den Den Town](/articles/osaka-anime-guide-den-den-town/) — Kansai's anime district
+- [Kyoto Anime Guide 2026](/articles/kyoto-anime-guide-2026/) — KyoAni + Hibike Euphonium pilgrimage
 
 ## FAQ: Frequently Asked Questions
 

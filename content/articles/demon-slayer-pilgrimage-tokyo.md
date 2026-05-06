@@ -185,10 +185,10 @@ A local guide takes you to every Kimetsu no Yaiba filming location in Tokyo, exp
 
 - [Your Name Pilgrimage Tokyo](/articles/your-name-pilgrimage-tokyo)
 - [Weathering With You Locations Tokyo](/articles/weathering-with-you-locations-tokyo)
-- [Jujutsu Kaisen Shibuya Pilgrimage](/articles/your-name-pilgrimage-tokyo)
+- [Jujutsu Kaisen Shibuya Pilgrimage](/articles/jujutsu-kaisen-shibuya-locations-2026)
 - [Chainsaw Man Tokyo Pilgrimage](/articles/weathering-with-you-locations-tokyo)
 - [One Piece Tokyo Guide 2026](/articles/one-piece-kumamoto-statue-tour)
-- [Kyoto Anime Guide 2026](/articles/osaka-anime-guide-den-den-town)
+- [Kyoto Anime Guide 2026](/articles/kyoto-anime-guide-2026)
 
 Planning a trip to Tokyo?
 

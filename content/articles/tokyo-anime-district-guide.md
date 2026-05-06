@@ -223,7 +223,7 @@ A guided anime district tour hits Akihabara, Ikebukuro, and Nakano in a single d
 
 ### Explore Specific Tokyo Neighborhoods
 
-- [Jujutsu Kaisen Shibuya Pilgrimage Guide](/articles/demon-slayer-pilgrimage-tokyo) — Walk the real Shibuya locations from JJK with maps, photos, and access tips
+- [Jujutsu Kaisen Shibuya Pilgrimage Guide](/articles/jujutsu-kaisen-shibuya-locations-2026) — Walk the real Shibuya locations from JJK with maps, photos, and access tips
 - [SPY×FAMILY Tokyo Location Guide](/spy-family-tokyo-guide/) — Visit real Tokyo spots from SPY×FAMILY including cafes, parks, and event venues
 - [Best Anime Hotels & Themed Rooms in Japan](/anime-hotels-themed-rooms-tokyo/) — Stay in anime-themed rooms across Tokyo and Japan, from Shibuya to Akihabara
 - [AnimeJapan & Comiket Survival Guide](/animejapan-comiket-guide/) — Everything you need for Japan’s biggest anime events at Tokyo Big Sight

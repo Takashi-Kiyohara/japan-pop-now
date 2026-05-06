@@ -181,7 +181,7 @@ Love One Piece? Don’t miss our [One Piece Tokyo Guide](/articles/one-piece-tok
 - [Nakano Broadway Guide](/articles/nakano-broadway-guide)
 - [Shibuya & Harajuku Pop Culture Guide](/articles/shibuya-harajuku-pop-culture-guide)
 - [Osaka Anime Guide — Den Den Town](/articles/osaka-anime-guide-den-den-town)
-- [Kyoto Anime Guide 2026](/articles/osaka-anime-guide-den-den-town)
+- [Kyoto Anime Guide 2026](/articles/kyoto-anime-guide-2026)
 - [How to Book Anime Collab Cafes](/articles/how-to-book-anime-collab-cafe-japan)
 
 Planning a trip to Tokyo?
