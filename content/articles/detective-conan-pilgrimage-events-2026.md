@@ -171,7 +171,7 @@ Osaka native Heiji Hattori is a recurring character, and several cases are set i
 ## More Pilgrimage & Event Guides
 
 - [10 Anime Pilgrimage Spots in Tokyo (2026)](/articles/anime-pilgrimage-spots-tokyo)
-- [Slam Dunk Kamakura Pilgrimage 2026](/articles/slam-dunk-kamakura-pilgrimage-2026)
+- [Slam Dunk Kamakura Pilgrimage 2026](/articles/kamakura-slam-dunk-pilgrimage-2026)
 - [Tokyo Collab Cafes Summer 2026](/articles/tokyo-anime-collab-cafes-summer-2026)
 - [Book Japan Anime Events from Overseas](/articles/book-japan-anime-events-overseas-2026)
 - [Japan Rail Pass 2026: Is It Worth It?](/articles/japan-rail-pass-2026-guide)

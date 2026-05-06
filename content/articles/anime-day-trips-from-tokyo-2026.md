@@ -89,7 +89,7 @@ The closest and easiest anime day trip from Tokyo. The Kamakurakokomae No.1 Rail
 
 **Cost:** ¥950 (JR from Tokyo) + ¥800 (Enoden day pass) + ¥300 (Great Buddha) + lunch = ~¥3,500-4,500.
 
-Read the full guide: [Slam Dunk Kamakura Pilgrimage 2026](/articles/slam-dunk-kamakura-pilgrimage-2026)
+Read the full guide: [Slam Dunk Kamakura Pilgrimage 2026](/articles/kamakura-slam-dunk-pilgrimage-2026)
 
 ## Hakone: Evangelion Third Tokyo-3
 Hakone is the real-world model for NERV’s fortress city in Evangelion — and the town has embraced it completely. The Hakone Yumoto eva-ya store near the station has been running for 13+ years, selling exclusive Evangelion merchandise with a Japanese-craft aesthetic (traditional woodwork, fabric goods, ceramics with Eva designs). It’s one of the longest-running anime collaboration shops in Japan.
@@ -193,7 +193,7 @@ Kamakura (beach + train ride) and Hakone (pirate ship + ropeway) are the most fa
 
 ## More Area & Travel Guides
 
-- [Slam Dunk Kamakura Pilgrimage 2026](/articles/slam-dunk-kamakura-pilgrimage-2026)
+- [Slam Dunk Kamakura Pilgrimage 2026](/articles/kamakura-slam-dunk-pilgrimage-2026)
 - [Demon Slayer × Meiji-mura 2026 — Aichi Pilgrimage Guide](/articles/demon-slayer-meiji-mura-aichi-pilgrimage-2026) — A Nagoya day-trip that pairs naturally with the Tokyo-side day-trip routes above
 - [Ranma 1/2 Japan 2026 Exhibition + Tree Village Pop-Up Guide](/articles/ranma-japan-2026-exhibition-tree-village-guide) — Ikebukuro Sunshine City exhibition (Apr 23 – May 12) plus Tree Village Tokyo / Osaka / Hakata pop-up cafe legs
 - [10 Anime Pilgrimage Spots in Tokyo (2026)](/articles/anime-pilgrimage-spots-tokyo)
