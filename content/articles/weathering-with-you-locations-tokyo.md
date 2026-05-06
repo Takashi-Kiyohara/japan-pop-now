@@ -1,6 +1,6 @@
 ---
 title: "Weathering With You Locations Tokyo 2026: Every Real Tenki Spot"
-description: "Last updated: March 2026. All locations verified as publicly accessible unless noted. Includes walking routes optimized for a half-day or full-day visit...."
+description: "Last updated: May 2026. All locations verified as publicly accessible unless noted. Includes walking routes optimized for a half-day or full-day visit...."
 date: "2026-03-28"
 lastUpdated: "2026-05-06"
 category: "destinations"
@@ -8,13 +8,13 @@ tags: []
 featuredImage: "/images/articles/weathering-with-you-locations-tokyo/featured.jpg"
 featuredImageAlt: "NTT Docomo Yoyogi Building clock tower at twilight — the Yoyogi-area landmark visible across the rainy Tokyo skyline of Weathering With You"
 author: "Takapon"
-excerpt: "Last updated: March 2026. All locations verified as publicly accessible unless noted. Includes walking routes optimized for a half-day or full-day visit...."
+excerpt: "Last updated: May 2026. All locations verified as publicly accessible unless noted. Includes walking routes optimized for a half-day or full-day visit...."
 relatedSlugs: []
 wpPostId: 203
 voice: "friend-guide"
 ---
 
-*Last updated: March 2026. All locations verified as publicly accessible unless noted. Includes walking routes optimized for a half-day or full-day visit.*
+*Last updated: May 2026. All locations verified as publicly accessible unless noted. Includes walking routes optimized for a half-day or full-day visit.*
 
 Makoto Shinkai’s Weathering With You is a love letter to rainy Tokyo. Almost every frame is drawn from a real place — convenience stores, train stations, rooftop shrines, and specific slopes and intersections that you can walk through today. If you’ve already done the [Your Name pilgrimage](/articles/your-name-pilgrimage-tokyo/), this film’s locations are spread across a different set of neighborhoods, with a few overlapping spots that Shinkai fans will recognize from both films.
 

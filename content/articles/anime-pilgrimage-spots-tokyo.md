@@ -14,7 +14,7 @@ wpPostId: 105
 voice: "friend-guide"
 ---
 
-*Last updated: April 2026.*
+*Last updated: May 2026.*
 
 Quiet Tokyo neighborhood stairs — residential areas like Yotsuya hide famous anime locations
 
