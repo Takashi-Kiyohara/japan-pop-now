@@ -1,0 +1,106 @@
+name: Cycle D' Day 2 (48h post-2026-05-06 fix verify)
+
+# Fires once at 2026-05-08 11:00 UTC, then by manual dispatch.
+# Same checks as Day 1 + reconcile against Day 1 artifacts.
+
+on:
+  schedule:
+    - cron: '0 11 8 5 *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0  # need history for trend comparison
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20.x
+          cache: npm
+
+      - run: npm ci
+
+      - name: Date stamp
+        id: stamp
+        run: echo "DATE=$(date -u +%Y%m%d)" >> "$GITHUB_OUTPUT"
+
+      - name: Redirect chain proxy trace
+        run: bash scripts/audit/redirect-chain-full-trace.sh > "docs/audit/cycleD-day2-redirect-${{ steps.stamp.outputs.DATE }}.md" || true
+
+      - name: Internal-link graph audit
+        run: npx tsx scripts/audit/internal-pagerank.ts > "docs/audit/cycleD-day2-graph-${{ steps.stamp.outputs.DATE }}.md" || true
+
+      - name: Originality cosine audit
+        run: npx tsx scripts/audit/originality-cosine.ts > "docs/audit/cycleD-day2-originality-${{ steps.stamp.outputs.DATE }}.md" || true
+
+      - name: 4xx surface scan + Day 1/2 trend reconcile
+        run: |
+          curl -sL https://www.japan-pop-now.com/sitemap.xml | grep -oE '<loc>[^<]+</loc>' | sed 's/<\/\?loc>//g' > /tmp/sitemap.txt
+          non200=$(xargs -I{} -P 20 -n 1 curl -sIL -A "Googlebot/2.1" -o /dev/null -w "%{http_code} {}\n" {} < /tmp/sitemap.txt 2>&1 | grep -vE '^200 ' | head -50)
+          {
+            echo "# Cycle D' Day 2 — verify + Day 1 reconcile"
+            echo
+            echo "Generated: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            echo
+            echo "## 4xx surface"
+            if [ -z "$non200" ]; then
+              echo "✓ All sitemap URLs 200."
+            else
+              echo "⚠ Non-200 (P0):"
+              echo '```'
+              echo "$non200"
+              echo '```'
+            fi
+            echo
+            echo "## Day 1 vs Day 2 redirect bucket reconcile"
+            day1=$(ls -1 docs/audit/cycleD-day1-redirect-*.md 2>/dev/null | head -1)
+            day2=$(ls -1 docs/audit/cycleD-day2-redirect-*.md 2>/dev/null | head -1)
+            if [ -n "$day1" ] && [ -n "$day2" ]; then
+              echo "Day 1 bucket counts:"
+              grep -E '^\| [0-9]+ \| [0-9]+ \| [0-9]+ \|' "$day1" || echo "(none)"
+              echo
+              echo "Day 2 bucket counts:"
+              grep -E '^\| [0-9]+ \| [0-9]+ \| [0-9]+ \|' "$day2" || echo "(none)"
+              echo
+              if diff -q <(grep -E '^\| [0-9]+ \| [0-9]+ \| [0-9]+ \|' "$day1" | sort) <(grep -E '^\| [0-9]+ \| [0-9]+ \| [0-9]+ \|' "$day2" | sort) > /dev/null; then
+                echo "✓ Identical bucket distribution (no regression)."
+              else
+                echo "⚠ Bucket distribution drifted Day 1 → Day 2."
+              fi
+            fi
+          } > "docs/audit/cycleD-day2-summary-${{ steps.stamp.outputs.DATE }}.md"
+
+      - name: Day 2 flag
+        run: |
+          {
+            echo "cycleD' Day 2 complete: $(date -u +%Y-%m-%dT%H:%M:%SZ)"
+            echo "next: Day 3 cron at 2026-05-09T11:00Z (final readiness verdict)"
+          } > docs/audit/cycleD-day2-DONE.flag
+
+      - name: Open Issue on regression
+        if: failure()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            github.rest.issues.create({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              title: `[cycleD'] Day 2 verify failed`,
+              body: `See https://github.com/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}`,
+              labels: ['cycleD', 'P0', 'regression']
+            });
+
+      - name: Commit audit artifacts
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add docs/audit/cycleD-day2-* || true
+          git diff --cached --quiet || git commit -m "[cycleD'-day2] auto: scheduled redirect/graph/originality/4xx audit + Day 1 reconcile"
+          git push
