@@ -1,5 +1,35 @@
 import type { NextConfig } from "next";
 
+// Pre-Next.js WordPress flat-slug URLs that map straight to /articles/{same-slug}.
+// Joined with | to form a path-to-regexp alternation that matches any of them.
+// Used in redirect source patterns: `/:slug(${LEGACY_FLAT_SLUGS})`.
+const LEGACY_FLAT_SLUGS = [
+  // 12 next.config-era 308s (Apr 2026)
+  'lawson-ticket-anime-cafe-booking',
+  'anime-merch-shopping-guide-japan',
+  'nakano-broadway-guide',
+  'tokyo-anime-district-guide',
+  'gachapon-guide-japan',
+  'japan-ic-card-transit-guide',
+  'akihabara-complete-guide-2026',
+  'how-to-book-anime-collab-cafe-japan',
+  'weathering-with-you-locations-tokyo',
+  'ikebukuro-anime-guide-2026',
+  'tokyo-anime-collab-cafes-spring-2026',
+  // 7 middleware-era 301s (kept here so they single-hop at edge before middleware fires)
+  'universal-cool-japan-2026-guide',
+  'osaka-anime-guide-den-den-town',
+  'one-piece-kumamoto-statue-tour',
+  'animate-cafe-guide-japan',
+  'anime-pilgrimage-spots-tokyo',
+  'your-name-pilgrimage-tokyo',
+  'japan-esim-pocket-wifi-sim-card',
+].join('|');
+
+// Long-form WP slug (renamed at re-publication). Stored separately because it
+// maps to a DIFFERENT slug (not /articles/{same-slug}).
+const LEGACY_LONG_SLUG = 'the-complete-guide-to-japanese-game-centers-arcades-2026-crane-games-rhythm-games-more';
+
 // Centralized security headers applied to every route via `/:path*`.
 // CSP allowlists union the prior config (Beehiiv, Giscus, AdSense) with
 // Vercel Live / vercel-insights / YouTube; HSTS bumped to 2 years preload.
@@ -106,16 +136,112 @@ const nextConfig: NextConfig = {
   ],
 
   redirects: async () => [
-    // apex -> www, 308 Permanent. Middleware cannot catch this because
-    // Vercel's edge issues its default 307 before middleware runs.
-    // next.config redirects execute earlier in the edge pipeline, so
-    // this rule actually wins and SEO sees the strong permanent signal.
+    // ── APEX (japan-pop-now.com) — single-hop normalize to canonical www URL ──
+    // Order: most-specific apex rules FIRST so apex+legacy and apex+trailing
+    // collapse to 1 hop, then the apex catchall. Per postmortem 869f4c3,
+    // middleware cannot catch apex because Vercel's edge fires its default
+    // 307 before middleware runs; next.config redirects execute earlier in
+    // the same edge pipeline and beat that 307 with a strong 308 signal.
+
+    // Apex + legacy flat slug (no trailing) → www/articles/{slug}
+    {
+      source: `/:slug(${LEGACY_FLAT_SLUGS})`,
+      has: [{ type: 'host', value: 'japan-pop-now.com' }],
+      destination: 'https://www.japan-pop-now.com/articles/:slug',
+      permanent: true,
+    },
+    // Apex + legacy flat slug (with trailing) → www/articles/{slug}
+    {
+      source: `/:slug(${LEGACY_FLAT_SLUGS})/`,
+      has: [{ type: 'host', value: 'japan-pop-now.com' }],
+      destination: 'https://www.japan-pop-now.com/articles/:slug',
+      permanent: true,
+    },
+    // Apex + long legacy slug (any trailing) → www/articles/game-centers-arcades-japan
+    {
+      source: `/${LEGACY_LONG_SLUG}`,
+      has: [{ type: 'host', value: 'japan-pop-now.com' }],
+      destination: 'https://www.japan-pop-now.com/articles/game-centers-arcades-japan',
+      permanent: true,
+    },
+    {
+      source: `/${LEGACY_LONG_SLUG}/`,
+      has: [{ type: 'host', value: 'japan-pop-now.com' }],
+      destination: 'https://www.japan-pop-now.com/articles/game-centers-arcades-japan',
+      permanent: true,
+    },
+    // Apex + /collab-cafe-calendar (any trailing) → www/calendar
+    {
+      source: '/collab-cafe-calendar',
+      has: [{ type: 'host', value: 'japan-pop-now.com' }],
+      destination: 'https://www.japan-pop-now.com/calendar',
+      permanent: true,
+    },
+    {
+      source: '/collab-cafe-calendar/',
+      has: [{ type: 'host', value: 'japan-pop-now.com' }],
+      destination: 'https://www.japan-pop-now.com/calendar',
+      permanent: true,
+    },
+    // Apex + /feed (any trailing) → www/feed.xml
+    {
+      source: '/feed',
+      has: [{ type: 'host', value: 'japan-pop-now.com' }],
+      destination: 'https://www.japan-pop-now.com/feed.xml',
+      permanent: true,
+    },
+    {
+      source: '/feed/',
+      has: [{ type: 'host', value: 'japan-pop-now.com' }],
+      destination: 'https://www.japan-pop-now.com/feed.xml',
+      permanent: true,
+    },
+    // Apex + trailing slash on any other path → www/no-trailing (1 hop)
+    {
+      source: '/:path*/',
+      has: [{ type: 'host', value: 'japan-pop-now.com' }],
+      destination: 'https://www.japan-pop-now.com/:path*',
+      permanent: true,
+    },
+    // Apex catchall (everything else with no trailing slash)
     {
       source: '/:path*',
       has: [{ type: 'host', value: 'japan-pop-now.com' }],
       destination: 'https://www.japan-pop-now.com/:path*',
       permanent: true,
     },
+
+    // ── www-side single-hop rules ──
+    // The framework's trailing-slash strip fires BEFORE middleware (verified
+    // 2026-05-04 chain trace), so handling /:slug/ via next.config.ts is the
+    // only way to collapse "trailing + legacy" from 2 hops to 1.
+
+    // www + legacy flat slug WITH trailing → /articles/{slug} (beats framework strip)
+    {
+      source: `/:slug(${LEGACY_FLAT_SLUGS})/`,
+      destination: '/articles/:slug',
+      permanent: true,
+    },
+    // www + long slug WITH trailing → /articles/game-centers-arcades-japan
+    {
+      source: `/${LEGACY_LONG_SLUG}/`,
+      destination: '/articles/game-centers-arcades-japan',
+      permanent: true,
+    },
+    // www + /collab-cafe-calendar/ → /calendar (existing rule below handles no-trailing)
+    {
+      source: '/collab-cafe-calendar/',
+      destination: '/calendar',
+      permanent: true,
+    },
+    // www + /feed/ → /feed.xml (existing rule below handles no-trailing)
+    {
+      source: '/feed/',
+      destination: '/feed.xml',
+      permanent: true,
+    },
+
+    // ── Existing structural rules ──
     // WordPress date-based URLs → Next.js article URLs
     {
       source: '/:year(\\d{4})/:month(\\d{2})/:day(\\d{2})/:slug',
@@ -134,23 +260,15 @@ const nextConfig: NextConfig = {
       destination: '/feed.xml',
       permanent: true,
     },
-    // Legacy WordPress flat-slug URLs (no /articles/ prefix). These hit
-    // 404 in production today and account for the bulk of GSC's
-    // "Crawled - currently not indexed" entries. Targets all verified
-    // 200 at the new /articles/{slug} location before being added here.
-    { source: '/lawson-ticket-anime-cafe-booking', destination: '/articles/lawson-ticket-anime-cafe-booking', permanent: true },
-    { source: '/anime-merch-shopping-guide-japan', destination: '/articles/anime-merch-shopping-guide-japan', permanent: true },
-    { source: '/nakano-broadway-guide', destination: '/articles/nakano-broadway-guide', permanent: true },
-    { source: '/tokyo-anime-district-guide', destination: '/articles/tokyo-anime-district-guide', permanent: true },
-    { source: '/gachapon-guide-japan', destination: '/articles/gachapon-guide-japan', permanent: true },
-    { source: '/japan-ic-card-transit-guide', destination: '/articles/japan-ic-card-transit-guide', permanent: true },
-    { source: '/akihabara-complete-guide-2026', destination: '/articles/akihabara-complete-guide-2026', permanent: true },
-    { source: '/how-to-book-anime-collab-cafe-japan', destination: '/articles/how-to-book-anime-collab-cafe-japan', permanent: true },
-    { source: '/weathering-with-you-locations-tokyo', destination: '/articles/weathering-with-you-locations-tokyo', permanent: true },
-    { source: '/ikebukuro-anime-guide-2026', destination: '/articles/ikebukuro-anime-guide-2026', permanent: true },
-    { source: '/tokyo-anime-collab-cafes-spring-2026', destination: '/articles/tokyo-anime-collab-cafes-spring-2026', permanent: true },
-    // Long-form WP slug → shortened article slug
-    { source: '/the-complete-guide-to-japanese-game-centers-arcades-2026-crane-games-rhythm-games-more', destination: '/articles/game-centers-arcades-japan', permanent: true },
+    // Legacy WP flat-slug URLs (no /articles/ prefix). Single regex group
+    // covers all 18 same-slug entries; long slug + collab-cafe-calendar are
+    // separate because their destination differs from /articles/{slug}.
+    {
+      source: `/:slug(${LEGACY_FLAT_SLUGS})`,
+      destination: '/articles/:slug',
+      permanent: true,
+    },
+    { source: `/${LEGACY_LONG_SLUG}`, destination: '/articles/game-centers-arcades-japan', permanent: true },
     // WP standalone calendar → app/calendar/ hub
     { source: '/collab-cafe-calendar', destination: '/calendar', permanent: true },
     // Cannibalization 308s: source articles superseded by newer/stronger

@@ -53,6 +53,9 @@ const WP_LEGACY_QUERY_PARAMS = [
   'feed',      // /?feed=rss2
   'm',         // /?m=YYYYMM  — date archive
   's',         // /?s=query   — WP search
+  'paged',     // /?paged=N  — WP pagination; current homepage returns 200 and
+               //              Google dedupes as homepage variant (登録済み 3→2
+               //              deindex, GSC 2026-05-04). 410 flushes cleanly.
 ]
 
 export function middleware(request: NextRequest) {

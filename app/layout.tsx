@@ -76,6 +76,10 @@ export const metadata: Metadata = {
   },
   alternates: {
     canonical: "https://www.japan-pop-now.com",
+    languages: {
+      en: "https://www.japan-pop-now.com",
+      "x-default": "https://www.japan-pop-now.com",
+    },
     types: {
       "application/rss+xml": "https://www.japan-pop-now.com/feed.xml",
     },
@@ -90,9 +94,9 @@ export default function RootLayout({
   return (
     <html lang="en" className={`${playfairDisplay.variable} ${dmSans.variable}`}>
       <head>
-        {/* hreflang — English primary, x-default */}
-        <link rel="alternate" hrefLang="en" href="https://www.japan-pop-now.com" />
-        <link rel="alternate" hrefLang="x-default" href="https://www.japan-pop-now.com" />
+        {/* hreflang is emitted by Next.js from metadata.alternates.languages per-route.
+            Static <link rel="alternate"> here would duplicate per-page entries on
+            article/category pages, which Google reads as conflicting hreflang signals. */}
 
         {/* Preconnect to origins that serve critical render-blocking or high-priority resources */}
         <link rel="preconnect" href="https://fonts.googleapis.com" />
