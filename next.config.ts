@@ -82,6 +82,17 @@ const nextConfig: NextConfig = {
   // Trailing slash consistency (SEO)
   trailingSlash: false,
 
+  // Disable the framework's automatic /:path+/ -> /:path+ trailing-slash strip
+  // (which is registered with priority: true and fires BEFORE redirects()).
+  // Without this, source patterns containing an explicit trailing slash like
+  // `/:slug(LEGACY)/` are dead code: by the time our redirects evaluate, the
+  // framework has already stripped the trailing slash. With skip enabled, we
+  // own trailing-slash handling, and the explicit `/:slug(LEGACY)/` rule fires
+  // for trailing-form legacy URLs in a single hop (avoids the framework strip
+  // + legacy rewrite 2-hop chain). A generic /:path+/ -> /:path+ rule at the
+  // end of redirects() handles every other trailing-slash path.
+  skipTrailingSlashRedirect: true,
+
   // Experimental performance optimizations
   experimental: {
     optimizeCss: true,
@@ -276,6 +287,16 @@ const nextConfig: NextConfig = {
     // canonical pointing to target so sitemap excludes them.
     { source: '/articles/demon-slayer-rerun-cafe-ufotable-2026', destination: '/articles/demon-slayer-rerun-cafe-ufotable-kizuna-2026', permanent: true },
     { source: '/articles/osaka-anime-collab-cafes-pop-culture-2026', destination: '/articles/osaka-anime-cafes-complete-guide-2026', permanent: true },
+
+    // Generic trailing-slash strip — REPLACES the framework's internal
+    // /:path+/ priority rule that's removed by skipTrailingSlashRedirect.
+    // MUST stay LAST so specific legacy + structural rules above can fire
+    // first and collapse "trailing + legacy" into a single hop.
+    {
+      source: '/:path+/',
+      destination: '/:path+',
+      permanent: true,
+    },
   ],
 };
 
