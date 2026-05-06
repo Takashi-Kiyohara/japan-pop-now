@@ -1,19 +1,31 @@
 ---
 title: "Demon Slayer Pilgrimage Tokyo 2026: Every Real Kimetsu Location"
-description: "Last updated: March 2026. All locations verified as publicly accessible. Covers Tokyo shrines, Asakusa, Mt. Kumotori, and the best Demon Slayer merchandise..."
+description: "Updated May 2026 after Mugen Castle Chapter 1. Every Demon Slayer location in and around Tokyo — Asakusa, guardian shrines, Mt. Kumotori, goods."
 date: "2026-03-28"
-lastUpdated: "2026-03-28"
+lastUpdated: "2026-05-06"
 category: "destinations"
 tags: []
 featuredImage: "/images/articles/demon-slayer-pilgrimage-tokyo/featured.jpg"
 featuredImageAlt: "Kaminarimon Gate at Asakusa decorated with flowers a Demon Slayer pilgrimage spot"
 author: "Takapon"
-excerpt: "Last updated: March 2026. All locations verified as publicly accessible. Covers Tokyo shrines, Asakusa, Mt. Kumotori, and the best Demon Slayer merchandise..."
+excerpt: "Updated May 2026. Every visitable Demon Slayer location in and around Tokyo — Asakusa, the guardian shrines, Mt. Kumotori, and where to buy goods, with status notes after Mugen Castle Chapter 1."
 relatedSlugs: []
 wpPostId: 202
 ---
 
-*Last updated: March 2026. All locations verified as publicly accessible. Covers Tokyo shrines, Asakusa, Mt. Kumotori, and the best Demon Slayer merchandise spots.*
+*Last updated: May 6, 2026. All locations verified as publicly accessible. Covers Tokyo shrines, Asakusa, Mt. Kumotori, and the best Demon Slayer merchandise spots.*
+
+## Trip Planning Context: May 2026
+
+A note before the routes, because timing changes how this trip feels.
+
+**Mugen Castle Chapter 1 has finished its theatrical run.** *Gekijoban "Kimetsu no Yaiba" Mugenjojo-hen Daiichi-sho: Akaza Saichō* (劇場版「鬼滅の刃」無限城編 第一章 猗窩座再来) opened in Japan on July 18, 2025 and ended its main run at most theaters on April 9, 2026 after clearing roughly ¥40 billion at the Japanese box office (per Famitsu and the Toho theater list). A handful of smaller-format theaters extended the run with finale-only ending-roll illustration cards — almost all of those have also closed by early May. If you were hoping to catch the film in a Japanese theater, that window is effectively shut.
+
+**Chapter 2 release date is not yet officially confirmed** as of this update. Animate Times, Anime! Anime!, and the official kimetsu.com news feed have all run trailers and visuals for *Mugenjojo-hen Daini-sho* but no firm date — speculation in fan media ranges from summer 2026 to summer 2027. Trust only kimetsu.com and the @kimetsu_off X account for the dated announcement.
+
+**What this means for your pilgrimage.** Demand for Asakusa Demon Slayer photo spots, the two guardian shrines, and Mt. Kumotori is still elevated from Chapter 1 traffic, but it is no longer at film-release peak. Weekday mornings at Numabukuro Hikawa Shrine and Imado Shrine are noticeably calmer than they were in Q1. The Mt. Kumotori day hike remains a serious all-day commitment regardless of season — see the Kumotori section below before you commit.
+
+**Goods note.** The Mugen Castle Chapter 1 theatrical exclusives (clear cards, pamphlets, Akaza acrylic stands) are now resale-only via Animate Akihabara/Ikebukuro secondhand counters, Mandarake, and Surugaya. Prices have stabilized but Akaza-focused goods still carry a premium.
 
 Demon Slayer is set in Taisho-era Japan (1912-1926), and the creators drew heavily from real locations. Tanjiro’s mountain home, the streets where he first meets Muzan, the Entertainment District arc’s setting — they all have real-world counterparts you can visit today.
 
