@@ -2,7 +2,7 @@
 title: "Japan Rail Pass 2026: Worth ¥50,000? Calculator Inside"
 description: "Japan Rail Pass 2026 ¥50,000 for 7 days — when it saves money, when regional passes win. Math + routes for first-timers after the 70% price hike."
 date: "2026-04-03"
-lastUpdated: "2026-04-03"
+lastUpdated: "2026-05-06"
 category: "experiences"
 tags: []
 featuredImage: "/images/articles/japan-rail-pass-2026-guide/hero-wikimedia.webp"

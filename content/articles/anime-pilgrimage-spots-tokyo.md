@@ -2,7 +2,7 @@
 title: "10 Anime Pilgrimage Spots in Tokyo You Can Visit Today"
 description: "Visit real anime locations in Tokyo: Your Name stairs, Shibuya Crossing (JJK), Sensoji (Demon Slayer), Akihabara (Steins;Gate), Kamakura (Slam Dunk), and more."
 date: "2026-03-25"
-lastUpdated: "2026-03-25"
+lastUpdated: "2026-05-06"
 category: "destinations"
 tags: []
 featuredImage: "/images/articles/anime-pilgrimage-spots-tokyo/featured.webp"
@@ -88,6 +88,8 @@ Sensoji — Tokyo’s oldest temple, founded in 645 AD — evokes the Taisho-era
 | **Cost** | Free |
 
  **Local tip:** Visit at dusk (around 17:00–18:00) when the temple and Nakamise street are illuminated. The crowds thin out and the atmosphere shifts to something closer to the historical setting of Demon Slayer.
+
+[→ Read our complete Demon Slayer Tokyo pilgrimage guide for the wider Asakusa + Mt. Kumotori route](/articles/demon-slayer-pilgrimage-tokyo)
 
 ## 4. Akihabara — Steins;Gate
 
@@ -176,6 +178,8 @@ Technically outside Tokyo, but reachable in about an hour by train. The Kamakura
 
 **Important warning:** This crossing is extremely crowded on weekends and holidays. Go early on a weekday for the best experience. And critically: this is a *real, active railroad crossing*. Do not stand on the tracks. Do not block the crossing for extended photo sessions. The local police have increased enforcement due to tourist safety concerns. Be respectful.
 
+[→ Read our complete Slam Dunk Kamakura pilgrimage guide with the Enoden 1-Day Pass walkthrough and three nearby spots](/articles/kamakura-slam-dunk-pilgrimage-2026)
+
 ## 10. Washinomiya Shrine, Saitama (Day Trip) — Lucky Star
 The shrine that started modern anime pilgrimage. When the opening scene of the 2007 anime Lucky Star featured Washinomiya Shrine, fans began visiting — and the resulting surge in tourism helped create the *seichi junrei* phenomenon as we know it today. The shrine has fully embraced its anime heritage, selling character-themed *ema* (prayer plaques), hosting fan events, and welcoming visitors who come specifically because of the anime connection.
 
@@ -222,8 +226,8 @@ Visiting anime filming locations is more fun with a local guide who knows the ex
 
 ### New In-Depth Pilgrimage Guides
 
-- [Jujutsu Kaisen Shibuya Pilgrimage Guide 2026](/articles/demon-slayer-pilgrimage-tokyo) — Complete walking route with 10+ real JJK locations in Shibuya
-- [SPY x FAMILY Fan Day in Tokyo 2026](/articles/your-name-pilgrimage-tokyo) — European-aesthetic locations, merch shops, and collab cafes
+- [Jujutsu Kaisen Shibuya Pilgrimage Guide 2026](/articles/jujutsu-kaisen-shibuya-locations-2026) — Complete walking route with 10+ real JJK locations in Shibuya
+- [SPY x FAMILY Fan Day in Tokyo 2026](/articles/spy-family-tokyo-fan-day-2026) — European-aesthetic locations, merch shops, and collab cafes
 
 Planning a trip to Tokyo?
 
