@@ -2,7 +2,7 @@
 title: "Detective Conan Cafe 2026 Japan: Tokyo & Osaka Dates, Menu, Tips"
 description: "Planning to visit Detective Conan Cafe 2026 in Japan? This practical guide covers the dates, best Tokyo and Osaka locations, what makes each city different,..."
 date: "2026-04-06"
-lastUpdated: "2026-04-06"
+lastUpdated: "2026-05-06"
 validUntil: "2026-08-03"
 category: "cafes"
 tags: []
@@ -15,6 +15,9 @@ author: "Takapon"
 excerpt: "Planning to visit Detective Conan Cafe 2026 in Japan? This practical guide covers the dates, best Tokyo and Osaka locations, what makes each city different,..."
 relatedSlugs: []
 wpPostId: 827
+robots: "noindex,follow"
+canonical: "https://www.japan-pop-now.com/articles/detective-conan-cafe-tokyo-osaka-3venue-2026"
+redirect_to: "/articles/detective-conan-cafe-tokyo-osaka-3venue-2026"
 ---
 
 ## Quick answer
