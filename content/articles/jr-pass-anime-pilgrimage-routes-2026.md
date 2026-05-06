@@ -11,6 +11,8 @@ author: "Takapon"
 excerpt: "Is the JR Pass worth it for hitting multiple anime locations? Sometimes yes, sometimes not. I have blown money on a pass where IC cards would have saved ¥15,000, and I have watched it pay for itself three times over on Tokyo-Kyoto-Osaka. Here are four specific pilgrimage routes with exact math."
 relatedSlugs: []
 wpPostId: 538
+robots: "noindex,follow"
+canonical: "https://www.japan-pop-now.com/articles/japan-rail-pass-2026-guide"
 ---
 
 *Last updated: April 2026.*

@@ -213,7 +213,7 @@ Visiting anime filming locations is more fun with a local guide who knows the ex
 
 - [Demon Slayer Pilgrimage Tokyo — Every Real Location from Kimetsu no Yaiba](/articles/demon-slayer-pilgrimage-tokyo/)
 - [Weathering With You Locations Tokyo — Every Real Spot from Tenki no Ko](/articles/weathering-with-you-locations-tokyo/)
-- [JR Pass Anime Pilgrimages 2026 — Routes, Prices & Whether It Saves You Money](/articles/jr-pass-anime-pilgrimage-routes-2026/)
+- [JR Pass Anime Pilgrimages 2026 — Routes, Prices & Whether It Saves You Money](/articles/japan-rail-pass-2026-guide/)
 - [Best Anime Tours Tokyo 2026 — Klook vs Viator Compared](/articles/best-anime-tours-tokyo-2026/)
 - [Japan Trip Checklist for Anime Fans 2026](/articles/japan-trip-checklist-anime-fans-2026/)
 - [One Piece Kumamoto Statue Tour — All 10 Straw Hat Statues](/articles/one-piece-kumamoto-statue-tour/)
