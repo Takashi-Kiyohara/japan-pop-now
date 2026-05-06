@@ -2,7 +2,7 @@
 title: "Anime Merch Shopping Japan 2026: 15 Best Shops & Price Guide"
 description: "Anime merch shopping in Japan 2026: 15 best shops (Animate, Mandarake, Kotobukiya), prices, budgets, and where to find exclusive figures in Tokyo."
 date: "2026-03-24"
-lastUpdated: "2026-04-22"
+lastUpdated: "2026-05-06"
 category: "experiences"
 tags: []
 featuredImage: "/images/articles/anime-merch-shopping-guide-japan/featured.jpg"
@@ -18,7 +18,7 @@ voice: "friend-guide"
 
 Need to ship your haul home? Read our [Guide to Shipping Anime Merch from Japan](/articles/ship-anime-figures-merch-home-japan). Can’t visit Japan? Check our [Proxy Shopping Guide for 2026](/articles/japan-proxy-shopping-2026).
 
-*Last updated: April 22, 2026.*
+*Last updated: May 6, 2026.*
 
 Image: Collabo Cafe
 **Anime merchandise shopping in Japan offers prices 30-50% lower than international retail, with exclusive items unavailable anywhere else, across dedicated stores in districts like Akihabara, Ikebukuro, and Nakano Broadway.** Japan’s anime merchandise market exceeds $5 billion annually, and the country is home to flagship stores for every major franchise. Visitors can find figures, apparel, artbooks, limited-edition collaborations, and secondhand rare items at all price points from 100 yen gachapon to 50,000+ yen premium figures.
@@ -104,20 +104,22 @@ Tokyo has several major anime shopping districts — [Akihabara](/articles/akiha
 ### Animate (Multiple Locations)
 *For a complete floor-by-floor breakdown of Akihabara’s anime buildings, see our [Akihabara Complete Guide 2026](/articles/akihabara-complete-guide-2026).*
 
-**Animate** is the largest anime retail chain in Japan, and their Ikebukuro main store is the flagship — a massive multi-floor building dedicated entirely to anime, manga, and game merchandise. Each floor focuses on different categories: manga, figures, character goods, CDs/Blu-rays, doujinshi, and more.
+**Animate** is the largest anime retail chain in Japan. The Ikebukuro Flagship Store reopened in 2023 after a full overhaul and currently runs **9 above-ground floors plus 2 basement levels** per the [official Animate floor guide](https://www.animate.co.jp/en/shop/ikebukuro/floor/). Each floor focuses on different categories: manga, figures, character goods, CDs/Blu-rays, doujinshi, and more. The 8th-floor **Space Galleria** hosts rotating anime / manga / game / theatrical performance exhibitions per the [official Space Galleria page](https://www.animate.co.jp/en/spacegalleria/ikebukuro/), and the 9th floor houses Animate Hall Black + Animate Hall White auditoriums for live performances and book signings.
 
-Animate stores run their own exclusive merchandise lines and frequently offer purchase bonuses — buy a specific manga volume or CD at Animate and you’ll get an exclusive bonus illustration card or bromide that’s not available at other retailers. These store-exclusive bonuses (tokuten) are a major reason fans choose Animate over other shops.
+Animate stores run their own exclusive merchandise lines and frequently offer purchase bonuses (*tokuten*) — buying a specific manga volume or CD at Animate often comes with an exclusive bonus illustration card or bromide that's not available at other retailers. These store-exclusive bonuses are a major draw for fans.
 
-**Key locations:** Ikebukuro (flagship, 9 floors), Akihabara, Shinjuku, Shibuya, Ikebukuro Otome Road (second location focused on BL/otome titles)
+**Address:** Ikebukuro Flagship Store — 1-20-7 Higashiikebukuro, Toshima City, Tokyo (5-min walk from Ikebukuro Station East Exit per the [official Animate access page](https://www.animate.co.jp/en/shop/ikebukuro/access/)).
+
+**Key locations:** Ikebukuro (flagship — 9 above-ground + 2 basement floors), Akihabara, Shinjuku, Shibuya, Ikebukuro Otome Road (second location focused on BL/otome titles).
 
 ### Mandarake
 *Mandarake’s flagship is in Nakano Broadway — see our [Nakano Broadway Guide](/articles/nakano-broadway-guide) for the full floor map.*
 
-**Mandarake** is Japan’s legendary secondhand anime goods chain, and it’s where serious collectors shop. The two must-visit locations are:
+**Mandarake** (founded 1980) is Japan's largest secondhand anime / manga / collectibles chain, with [27+ individual specialty stores at Nakano Broadway](https://earth.mandarake.co.jp/shop/) operating under the Mandarake umbrella per the operator's store directory. The two key Tokyo locations:
 
-**Nakano Broadway (Nakano)** — Multiple Mandarake shops spread across the upper floors of Nakano Broadway shopping complex. Each sub-store specializes in a different category: figures, manga, doujinshi, cosplay, retro goods, cards, and more. Prices are often 30–70% below retail for secondhand items in excellent condition.
+**Nakano Broadway (Nakano)** — Per the operator and Live Japan's coverage, ~27 specialty stores sit across the upper floors of the Nakano Broadway shopping complex, each focused on a single category: Main Store (general manga / artbooks / anime goods), Mandarake Special (action figures, model kits, vintage Gunpla, out-of-production figures), Mandarake Cosplay (secondhand costumes / wigs / accessories), and Mandarake Doujinshi (fan-made comics, organized by fandom). Listed prices are often 30–70% below retail for secondhand items in excellent condition.
 
-**Akihabara Complex** — An 8-floor building entirely operated by Mandarake. Organized by category per floor. The figure floors in particular offer incredible deals on pre-owned scale figures.
+**Mandarake Complex Akihabara** — An 8-floor building entirely operated by Mandarake, opened April 2008 per the operator. Organized by category per floor; the figure floors stock pre-owned scale figures with discounts off original release pricing.
 
 **Why Mandarake matters:** Japanese fans are meticulous about item condition. “Secondhand” at Mandarake often means “opened once, displayed briefly, repackaged perfectly.” You’ll find figures that look brand new at 40–60% of the original price.
 
@@ -145,7 +147,9 @@ Most visitors overspend when they buy too many low-priority items early in the d
 ### When a ¥30,000+ collector budget makes sense
 **Collector:** Scale figures, limited-edition box sets, exclusive merchandise, and premium goods. At this level, research specific items before your trip and check stock availability online. Some items sell out the day they release, so know your priorities.
 
-**Tax-free shopping:** Most large anime retailers offer tax-free purchases for tourists spending over ¥5,000 (before tax) in a single transaction. Bring your passport — staff will process the tax exemption at the register. This saves you 10%, which adds up quickly on figure purchases.
+**Tax-free shopping:** Per [JNTO's official tax-exemption page](https://www.japan.travel/en/plan/japans-tax-exemption/), most large anime retailers (Animate, Mandarake, Kotobukiya, Pokemon Center, etc.) offer tax-free purchases to foreign visitors who spend **over ¥5,000 (before tax) in a single transaction at one store on one calendar day**, against the 10% consumption tax (VAT). Bring your passport — under the current system through 2026-10-31, staff process the exemption at the register.
+
+**Material change effective 2026-11-01 (per Japan Tourism Agency announcements):** Japan switches to a "pay full tax at checkout, claim refund at the airport before departure" model. The ¥5,000+ same-day same-store threshold remains, the previous ¥500,000 purchase cap is abolished, and the general-goods vs consumables distinction is removed. If your trip lands after Nov 1, 2026, plan extra time before your flight for the airport refund step. Confirm the current rule at your departure date on the [Japan Tourism Agency](https://www.mlit.go.jp/kankocho/) and [JNTO](https://www.japan.travel/en/plan/japans-tax-exemption/) sites.
 
 Best next step if you are budget-sensitive
 
