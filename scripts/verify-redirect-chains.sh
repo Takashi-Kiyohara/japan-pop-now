@@ -114,8 +114,12 @@ echo "  /?paged=2 -> $got (expect 0|410)"
 
 echo
 echo "--- 8) hreflang count on representative articles (expect 2: en + x-default) ---"
+# Next.js renders hreflang as `hrefLang` (camelCase JSX attr) in the static
+# HTML output AND emits all <head> tags on a single minified line, so we need
+# both case-insensitive matching AND occurrence-counting (grep -o), not -c
+# (which counts matching lines).
 for u in $(echo "$SITEMAP_URLS" | head -3); do
-  count=$(curl -sL -A "$UA" "$u" 2>/dev/null | grep -cE '<link[^>]+hreflang')
+  count=$(curl -sL -A "$UA" "$u" 2>/dev/null | grep -oiE '<link[^>]+hreflang[^>]+>' | wc -l)
   echo "  $u : hreflang count = $count (expect 2)"
 done
 
