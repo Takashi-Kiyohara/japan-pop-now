@@ -293,6 +293,9 @@ const nextConfig: NextConfig = {
     // get robots:noindex + canonical at the source-mdx level too.
     { source: '/articles/japan-rail-pass-guide-anime-fans', destination: '/articles/japan-rail-pass-2026-guide', permanent: true },
     { source: '/articles/jr-pass-anime-pilgrimage-routes-2026', destination: '/articles/japan-rail-pass-2026-guide', permanent: true },
+    // Conan cafe cannibalization (2026-05-06): general 2026 guide superseded by
+    // the venue-specific 3venue article. Source mdx noindex+canonical+redirect_to.
+    { source: '/articles/detective-conan-cafe-2026-japan-guide', destination: '/articles/detective-conan-cafe-tokyo-osaka-3venue-2026', permanent: true },
 
     // Generic trailing-slash strip — REPLACES the framework's internal
     // /:path+/ priority rule that's removed by skipTrailingSlashRedirect.
