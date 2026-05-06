@@ -43,3 +43,15 @@ next-env.d.ts
 
 # tmp scratch (research corpora, ad-hoc artifacts — never commit)
 .tmp/
+# Debug / temporary artifacts
+.tmp_*.js
+*.bak.*
+analytics/lh_*.json
+claude-code-batch-*.md
+data/popular.json
+scripts/__pycache__/
+scripts/_dim*.py
+scripts/_redo_phase3c_*.py
+scripts/inject-gsc-creds.ps1
+push_20260425_week2/
+.claude/settings.local.json
