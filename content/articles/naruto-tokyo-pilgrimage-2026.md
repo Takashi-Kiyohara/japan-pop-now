@@ -38,7 +38,7 @@ My first stop was the relatively new Anime Tokyo Station, which opened in Ikebuk
 
 **Price:** Free entry for exhibitions (merchandise available for purchase)
 
-Per the venue's exhibition page, life-size Naruto character displays anchor the space. The installations show intricate detail, from facial expressions to costume textures that surpass typical merchandise booth displays per visitor reviews. The exhibition rotates content regularly per the operator; recent slots have placed Naruto alongside Atom and other Jump classics. A particular highlight per the operator description involves composite imaging technology where visitors can pose with character effects, creating personalized photos with ninja jutsu overlays.
+Per the venue's exhibition page, life-size Naruto character displays anchor the space. The installations show intricate detail, from facial expressions to costume textures that surpass typical merchandise booth displays. The exhibition rotates content regularly; recent slots have placed Naruto alongside Atom and other Jump classics. A particular highlight is the composite imaging technology where visitors can pose with character effects, creating personalized photos with ninja jutsu overlays.
 
 The facility's strength lies in its accessibility and frequency of updates. For travelers with limited time in Tokyo, Anime Tokyo Station offers concentrated Naruto content without requiring multiple destination hops.
 
@@ -74,7 +74,7 @@ Multiple Animate Cafe Stand locations across Tokyo have hosted Naruto collaborat
 
 **Price:** Beverages 600-900 yen; light snacks available
 
-The stand-style setup is well-suited to quick visits between other Ikebukuro activities per the venue's format. The casual ordering process differs markedly from sit-down cafe experiences. Per visitor reports, Naruto appears regularly in the venue's collaboration rotation, making this a reliable stop for fans seeking themed beverages.
+The stand-style setup is well-suited to quick visits between other Ikebukuro activities. The casual ordering process differs markedly from sit-down cafe experiences. Naruto appears regularly in the venue's collaboration rotation, making this a reliable stop for fans seeking themed beverages.
 
 ## Merchandise & Shopping Destinations
 
@@ -94,9 +94,9 @@ Jump Shop Shibuya represents the most comprehensive single-location Naruto merch
 
 ![Shibuya PARCO Hulic Building exterior — illustrative venue context for Jump Shop Shibuya inside the MIYASHITA PARK / PARCO retail corridor](/images/articles/naruto-tokyo-pilgrimage-2026/body-wikimedia-5.webp)
 
-Jump Shop Shibuya's inventory scale exceeds standard anime shops per visitor reviews. The store dedicates substantial floor space to Naruto merchandise including clothing, figures, accessories, and lifestyle items per the operator's category listings. Per visitor reports on Tripadvisor, rare limited editions surface here that aren't stocked at smaller shops, including collaboration items from past cafe events and exclusive design prints.
+Jump Shop Shibuya's inventory scale exceeds standard anime shops. The store dedicates substantial floor space to Naruto merchandise including clothing, figures, accessories, and lifestyle items. Per visitor reports on Tripadvisor, rare limited editions surface here that aren't stocked at smaller shops, including collaboration items from past cafe events and exclusive design prints.
 
-The customer demographic spans casual anime viewers to serious collectors per the chain's positioning. International tourists comprise a significant share of weekday foot traffic per visitor accounts. The "RofJ BY JUMP SHOP" pop-up concept occasionally brings exclusive Naruto collections to Shibuya, though timing requires checking official channels.
+The customer demographic spans casual anime viewers to serious collectors, and international tourists comprise a significant share of weekday foot traffic. The "RofJ BY JUMP SHOP" pop-up concept occasionally brings exclusive Naruto collections to Shibuya, though timing requires checking official channels.
 
 Staff engagement at Jump Shop Shibuya is consistently noted in Tripadvisor reviews — employees navigate inventory systems quickly and offer recommendations based on customer interests. This level of service distinguishes Jump Shop from typical retail anime spaces.
 
@@ -116,7 +116,7 @@ While Shibuya dominates for Jump-exclusive merchandise, secondary shopping distr
 
 **Price:** Comparable to specialty retailers (500-5,000 yen range)
 
-Major anime retailers like Akihabara extensions in these areas stock comprehensive Naruto catalogs per the chain directories. Per visitor reports, secondary districts often carry older merchandise and clearance items that primary-district shops have already rotated out. Patient hunters seeking specific characters or vintage Naruto products benefit from exploring beyond the primary shopping corridors.
+Major anime retailers like Akihabara extensions in these areas stock comprehensive Naruto catalogs, and secondary districts often carry older merchandise and clearance items that primary-district shops have already rotated out. Patient hunters seeking specific characters or vintage Naruto products benefit from exploring beyond the primary shopping corridors.
 
 ## Pilgrimage to Kishimoto's Hometown
 
@@ -170,7 +170,7 @@ While located outside Tokyo proper, Nijigen no Mori on Awaji Island represents t
 
 **Price:** 3,300 yen for day pass; individual attractions available a la carte
 
-Per the park's official site, this destination houses the most faithful recreation of Naruto locations including an 11-meter Hokage Rock statue. The "NARUTO & BORUTO Shinobi Village" (忍里) features multiple attractions including the authentic Ichiraku Ramen restaurant experience per the official venue page. Per Tripadvisor reviewer accounts, dedicated fans typically allocate 4-6 hours minimum within the park.
+Per the park's official site, this destination houses the most faithful recreation of Naruto locations including an 11-meter Hokage Rock statue. The "NARUTO & BORUTO Shinobi Village" (忍里) features multiple attractions including the authentic Ichiraku Ramen restaurant experience. Dedicated fans typically allocate 4-6 hours minimum within the park.
 
 The theme park accessibility from Tokyo requires departure early morning and return late evening, making it practical primarily for weekend visits. Tokyo residents planning extended weekend trips frequently combine Nijigen no Mori with other Hyogo attractions like Osaka castle or Kobe port areas.
 
@@ -208,7 +208,7 @@ For visitors maximizing Naruto content within Tokyo proper, an efficient routing
 
 **Practical Time:** 6-8 hours total for complete Tokyo pilgrimage
 
-This routing minimizes transit time between locations while maximizing Naruto-specific content. Per visitor reports, weekday visits see significantly reduced crowds compared to weekends, though merchandise availability is similar across both windows.
+This routing minimizes transit time between locations while maximizing Naruto-specific content. Weekday visits typically see significantly reduced crowds compared to weekends, though merchandise availability is similar across both windows.
 
 ## Beyond Tokyo: Strategic Extensions
 
@@ -274,7 +274,7 @@ Continue your pilgrimage journey with our complete anime location guides:
 
 ## Insider Tips for Maximum Experience
 
-**Weekday visits minimize crowds significantly.** Per visitor reports across multiple Tokyo Naruto venues on both weekday and weekend occasions, weekday afternoons see substantially reduced visitor counts. This translates to better photo opportunities and more attentive staff engagement.
+**Weekday visits minimize crowds significantly.** Across multiple Tokyo Naruto venues, weekday afternoons typically see substantially reduced visitor counts compared to weekend windows. This translates to better photo opportunities and more attentive staff engagement.
 
 **Bring a translation app.** Many collaboration cafe menus feature Japan-only designs. While English descriptions appear occasionally, character descriptions and limited-edition item names require translation assistance.
 
