@@ -186,7 +186,7 @@ That is why I think the first Japan trip hits anime fans harder than any other k
 
 Budget around 15,000 to 25,000 yen in cash for your first day, and refill from ATMs as needed. Most anime chain shops, chain restaurants, hotels, and trains accept cards, but small gachapon, temple offerings, and older ramen shops still require cash.
 
-**Q: Do I need a JR Pass on my first trip?**
+**Q: Do first-time visitors need a JR Pass?**
 
 Only if you are doing round-trip Tokyo to Kyoto and Osaka in 7 days or less. For a Tokyo-only trip, the 3-day Tokyo Subway Ticket at 1,500 yen is much cheaper. Our [JR Pass guide](/articles/japan-rail-pass-2026-guide) has a break-even calculator.
 
