@@ -233,7 +233,7 @@ If you’re combining Tokyo and Osaka on your anime trip, a Japan Rail Pass cove
 
 **Osaka Collab Cafes**
 
-For a complete list of anime collaboration cafes currently running in Osaka, check our [Osaka Anime Collab Cafe Guide 2026](/articles/osaka-anime-collab-cafes-pop-culture-2026) — updated weekly with new collaborations.
+For a complete list of anime collaboration cafes currently running in Osaka, check our [Osaka Anime Collab Cafe Guide 2026](/articles/osaka-anime-cafes-complete-guide-2026) — updated weekly with new collaborations.
 
 ## More Area Guides
 

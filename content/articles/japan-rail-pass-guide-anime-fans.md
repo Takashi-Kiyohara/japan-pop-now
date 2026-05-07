@@ -225,7 +225,7 @@ Partially. The JR Pass covers JR lines to Universal City Station, but not the pa
 - [Akihabara Complete Guide 2026](/articles/akihabara-complete-guide-2026)
 - [10 Anime Pilgrimage Spots in Tokyo](/articles/anime-pilgrimage-spots-tokyo)
 - [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)
-- [JR Pass Anime Pilgrimages 2026 — Routes, Prices & Savings Calculator](/articles/jr-pass-anime-pilgrimage-routes-2026)
+- [JR Pass Anime Pilgrimages 2026 — Routes, Prices & Savings Calculator](/articles/anime-day-trips-from-tokyo-2026)
 - [Japan Trip Checklist for Anime Fans 2026](/articles/japan-trip-checklist-anime-fans-2026)
 - [Ship Anime Figures Home from Japan: 2026 Guide](/ship-anime-figures-merch-home-japan-2026/)
 

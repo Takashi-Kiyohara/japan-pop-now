@@ -165,7 +165,7 @@ Phase 1 (opening weeks) sells out quickly due to movie premiere excitement. Phas
 
 **How does Detective Conan connect to Osaka beyond USJ?**
 
-Osaka native Heiji Hattori is a recurring character, and several cases are set in the Osaka area. The Conan Cafe also has an Osaka location. For a dedicated Osaka anime trip, combine USJ Conan World, the [Osaka collab cafe scene](/articles/osaka-anime-collab-cafes-pop-culture-2026), and the [Den Den Town shopping district](/articles/osaka-anime-guide-den-den-town).
+Osaka native Heiji Hattori is a recurring character, and several cases are set in the Osaka area. The Conan Cafe also has an Osaka location. For a dedicated Osaka anime trip, combine USJ Conan World, the [Osaka collab cafe scene](/articles/osaka-anime-cafes-complete-guide-2026), and the [Den Den Town shopping district](/articles/osaka-anime-guide-den-den-town).
 
 ## More Pilgrimage & Event Guides
 
