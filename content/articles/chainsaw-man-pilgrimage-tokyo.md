@@ -85,9 +85,9 @@ This is a working office building, so stay on the sidewalk and don't enter. Fans
 
 Onnazaka (女坂) is the single most recognizable location from the Reze Arc. This stone staircase, wedged between old buildings in Sarugakucho, is the basis for the scene where Reze walks up the stairs on her way to the cafe. The stone paving, the buildings lining both sides, the quiet atmosphere — it's an almost frame-for-frame match with the film.
 
-At sunset, this spot becomes particularly atmospheric. The light filters through the narrow gap between buildings, evoking the bittersweet mood that defines the Reze Arc. Per visitor reports, late-afternoon weekday visits (around 5:00–6:00 PM) often have the stairs nearly empty. Weekend afternoons draw more fans, especially since the TikTok videos started circulating.
+At sunset, this spot becomes particularly atmospheric. The light filters through the narrow gap between buildings, evoking the bittersweet mood that defines the Reze Arc. Late-afternoon weekday visits (around 5:00–6:00 PM) often have the stairs nearly empty. Weekend afternoons draw more fans, especially since the TikTok videos started circulating.
 
-The stairs are public and accessible 24 hours, but I'd recommend avoiding visits after dark out of respect for residents in the surrounding buildings.
+The stairs are public and accessible 24 hours, but visits after dark are best avoided out of respect for residents in the surrounding buildings.
 
 | Address | 2 Chome-4-7, Sarugakucho, Chiyoda City, Tokyo 101-0064 |
 | --- | --- |

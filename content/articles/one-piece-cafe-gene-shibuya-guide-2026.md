@@ -22,7 +22,7 @@ relatedSlugs: ["tokyo-anime-collab-cafes-spring-2026", "how-to-book-anime-collab
 
 **One Piece Cafe GENE is a limited-time collaboration cafe at THE GUEST cafe&diner inside Shibuya PARCO 6F, running through May 18, 2026.** The cafe serves character-themed dishes priced between ¥1,320 and ¥2,090, reservation costs ¥550 via Lawson Ticket (includes a novelty GENE Band), and it shares the same floor as Nintendo TOKYO, Pokemon Center Shibuya, and JUMP SHOP — making it the single best one-stop anime floor in Tokyo right now.
 
-A typical 2-food + 2-drink order at this cafe runs ~¥5,060 per the published menu. Per the cafe's menu page, the skull bowl ramen arrives in a bowl shaped like Trafalgar Law's Jolly Roger (lid included), and the birthday card campaign awards 3 free collectible cards per qualifying order. Per visitor reports on Twitter (X), the most-missed details for English-language travelers are: walk-ins work fine after 14:00 on weekdays, the food order limit is 3 items per person, and the ¥550 reservation ticket includes a random charm that resells in the ¥800-1,200 range on Mercari.
+A typical 2-food + 2-drink order at this cafe runs ~¥5,060 per the published menu. Per the cafe's menu page, the skull bowl ramen arrives in a bowl shaped like Trafalgar Law's Jolly Roger (lid included), and the birthday card campaign awards 3 free collectible cards per qualifying order. The details most often missed by English-language travelers, surfaced across Twitter (X) accounts, are: walk-ins work fine after 14:00 on weekdays, the food order limit is 3 items per person, and the ¥550 reservation ticket includes a random charm that resells in the ¥800-1,200 range on Mercari.
 
 <div className="jpn-info-box">
 
