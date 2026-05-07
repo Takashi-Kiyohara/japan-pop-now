@@ -9,14 +9,13 @@ featuredImage: "/images/articles/japan-rail-pass-guide-anime-fans/hero-wikimedia
 featuredImageAlt: "JR East E5 Hayabusa Shinkansen — the bullet train type covered by the JR Pass for Tohoku and Hokkaido routes"
 imageCredit: "Photo: MaedaAkihiko / Wikimedia Commons (CC BY-SA 4.0)"
 author: "Takapon"
-excerpt: "Last updated: April 2026. If you’re planning an anime pilgrimage across Japan — hitting collab cafes in Tokyo, One Piece statues in Kumamoto, and Den Den Town..."
+excerpt: "If you’re planning an anime pilgrimage across Japan — hitting collab cafes in Tokyo, One Piece statues in Kumamoto, and Den Den Town..."
 relatedSlugs: []
 wpPostId: 383
 robots: "noindex,follow"
 canonical: "https://www.japan-pop-now.com/articles/japan-rail-pass-2026-guide"
 ---
 
-*Last updated: April 2026.*
 
 If you’re planning an anime pilgrimage across Japan — hitting collab cafes in Tokyo, One Piece statues in Kumamoto, and Den Den Town in Osaka — transportation costs add up fast. A Japan Rail Pass (JR Pass) can cut your train expenses in half, but it’s not always the right call. Here’s how to figure out if you actually need one, and how to get the best deal.
 

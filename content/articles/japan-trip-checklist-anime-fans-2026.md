@@ -14,7 +14,6 @@ relatedSlugs: []
 wpPostId: 541
 ---
 
-*Last updated: April 2026.*
 
 Japan Trip Checklist for Anime Fans: Everything to Book Before You Go (2026)
 

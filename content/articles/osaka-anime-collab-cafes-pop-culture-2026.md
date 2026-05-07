@@ -15,7 +15,6 @@ robots: "noindex,follow"
 canonical: "https://www.japan-pop-now.com/articles/osaka-anime-cafes-complete-guide-2026"
 ---
 
-*Last updated: April 2026.*
 
 ![Den-Den Town in Nipponbashi, Osaka at night — Western Japan's largest anime, manga, and figure shopping district](/images/articles/osaka-anime-collab-cafes-pop-culture-2026/hero-wikimedia.webp)
 

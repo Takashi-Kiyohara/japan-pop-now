@@ -14,7 +14,6 @@ relatedSlugs: []
 wpPostId: 611
 ---
 
-**Last updated: April 2026**
 
 **Affiliate Disclosure:** Some links in this article are affiliate links. We earn a small commission at no extra cost to you — it helps keep Japan Pop Now running.
 Japan Travel Insurance 2026: Best Plans Compared (from $45)

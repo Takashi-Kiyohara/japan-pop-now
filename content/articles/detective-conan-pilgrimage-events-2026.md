@@ -17,7 +17,6 @@ relatedSlugs: []
 wpPostId: 753
 ---
 
-*Last updated: April 2026.*
 
 The 30th anniversary TV anime exhibition tours 12 Japanese cities in 2026-2027, starting at Tokyo Dome City. Photo: Japan Pop Now
 Detective Conan is running more events in 2026 than any other anime IP in Japan — and it’s not close. The 30th TV anime anniversary has triggered a nationwide exhibition tour (12 cities), the 29th movie “Highway’s Fallen Angel” opens April 10, the annual Conan Cafe is serving themed food across 6 cities, Sunshine City Ikebukuro is hosting its 8th Conan collaboration event through June 7, and USJ’s Detective Conan World runs through June 30. If you’re visiting Japan between April and August 2026, you can hit multiple Conan events in a single trip without even trying.

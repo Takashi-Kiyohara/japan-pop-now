@@ -15,7 +15,6 @@ robots: "noindex,follow"
 canonical: "https://www.japan-pop-now.com/articles/japan-rail-pass-2026-guide"
 ---
 
-*Last updated: April 2026.*
 
 JR Pass for Anime Pilgrimages: Is It Worth It? Routes, Calculator & 2026 Prices
 You’re standing outside the Meiji Shrine in Tokyo, phone in hand, and your next stop is a small town in the Kanto region where “Your Name” was actually filmed. Then you want to hit Kyoto for Demon Slayer locations. Maybe swing down to Kumamoto for the One Piece statues if you have time. Sound familiar?

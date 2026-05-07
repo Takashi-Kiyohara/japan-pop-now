@@ -13,7 +13,6 @@ relatedSlugs: []
 wpPostId: 610
 ---
 
-**Last updated: April 2026**
 
 **Affiliate Disclosure:** Some links in this article are affiliate links. We earn a small commission at no extra cost to you — it helps keep Japan Pop Now running.
 Japan Proxy Shopping 2026: Buy Anime Figures & Merch Online

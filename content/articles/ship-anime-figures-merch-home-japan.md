@@ -13,7 +13,6 @@ relatedSlugs: []
 wpPostId: 540
 ---
 
-*Last updated: April 2026.*
 
 You’ve just left Mandarake with three new figures, stopped by Animate for a limited-edition acrylic stand, and somehow ended up with a postcard collection you didn’t plan on buying. Your suitcase is full. Your backpack is full. You’re considering wearing two figures as earrings.
 

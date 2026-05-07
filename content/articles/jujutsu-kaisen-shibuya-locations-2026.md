@@ -8,13 +8,12 @@ tags: []
 featuredImage: "/images/articles/jujutsu-kaisen-shibuya-locations-2026/featured.webp"
 featuredImageAlt: "Shibuya Scramble Crossing aerial view, the iconic Jujutsu Kaisen pilgrimage location"
 author: "Takapon"
-excerpt: "Jujutsu Kaisen Shibuya Pilgrimage Guide: Location Matching & Walking Routes Last updated: April 2026 Shibuya in 2024 became the epicenter of Jujutsu Kaisen’s..."
+excerpt: "Jujutsu Kaisen Shibuya Pilgrimage Guide: Location Matching & Walking Routes Shibuya in 2024 became the epicenter of Jujutsu Kaisen’s..."
 relatedSlugs: []
 wpPostId: 604
 ---
 
 Jujutsu Kaisen Shibuya Pilgrimage Guide: Location Matching & Walking Routes
-*Last updated: April 2026*
 
 Shibuya in 2024 became the epicenter of Jujutsu Kaisen’s most devastating arc. The Shibuya Incident episode runs, which aired between September and November 2024, turned one of Tokyo’s most recognizable districts into a pilgrimage destination for anime fans willing to walk real streets and stand in the exact locations where Gojo and Yuji faced off against Sukuna. I’ve spent the last six months mapping these locations, comparing satellite imagery to key scenes, and figuring out the most efficient 2-3 hour walking route. This guide tells you exactly where to go.
 

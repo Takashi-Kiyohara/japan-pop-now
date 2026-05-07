@@ -14,7 +14,6 @@ relatedSlugs: []
 wpPostId: 780
 ---
 
-*Last updated: April 2026.*
 
 ![Aerial view of Yomiuriland in Inagi, western Tokyo — the host venue where PokéPark Kanto opened on February 5, 2026](/images/articles/pokepark-kanto-tokyo-2026/hero-wikimedia.webp)
 

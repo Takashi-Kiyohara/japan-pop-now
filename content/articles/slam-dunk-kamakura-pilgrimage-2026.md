@@ -15,7 +15,6 @@ robots: "noindex,follow"
 canonical: "https://www.japan-pop-now.com/articles/kamakura-slam-dunk-pilgrimage-2026"
 ---
 
-*Last updated: April 2026.*
 
 The Kamakurakokomae No.1 Railroad Crossing — Slam Dunk's most iconic real-world location, with the Shonan coast stretching behind it. Photo: Japan Pop Now
 The Kamakurakokomae No.1 Railroad Crossing — where Sakuragi and Haruko wave at each other in Slam Dunk's opening sequence — is a 100-meter walk west from Kamakurakokomae Station on the Enoden line. The crossing is free to visit, and the full Slam Dunk pilgrimage route through Kamakura and the Shonan coast takes about 3-4 hours on foot. Budget around ¥4,700-5,700 (~$32-39) for the whole trip from Tokyo, including train fare, the Enoden day pass, and lunch.

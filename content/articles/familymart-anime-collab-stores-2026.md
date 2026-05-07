@@ -9,12 +9,11 @@ featuredImage: "/images/articles/familymart-anime-collab-stores-2026/featured.we
 featuredImageAlt: "FamilyMart BUSTA Shinjuku store inside Shinjuku Expressway Bus Terminal — flagship Tokyo storefront"
 imageNote: "Images show generic FamilyMart and Ikebukuro context — Durarara!! collab-store interior photography pending Takapon visit. See docs/audit/collab-image-exhausted-20260427.md."
 author: "Takapon"
-excerpt: "Last updated: April 2026 FamilyMart Anime Collab Stores: Japan’s Newest Trend (2026) FamilyMart just cracked the code on making convenience stores into tourist..."
+excerpt: "FamilyMart Anime Collab Stores: Japan’s Newest Trend (2026) FamilyMart just cracked the code on making convenience stores into tourist..."
 relatedSlugs: []
 wpPostId: 608
 ---
 
-*Last updated: April 2026*
 
 FamilyMart Anime Collab Stores: Japan’s Newest Trend (2026)
 FamilyMart just cracked the code on making convenience stores into tourist destinations. By launching anime-themed collab stores, Japan’s largest convenience chain has turned everyday shopping into an experience that draws fans from across the city. The model is simple but brilliant: transform a single store location into a pop-up themed around one anime series, stock exclusive merch and food items, and let word-of-mouth do the work. Here’s what’s actually happening, where to find them, and why they matter.

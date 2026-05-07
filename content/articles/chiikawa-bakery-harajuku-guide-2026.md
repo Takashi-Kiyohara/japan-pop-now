@@ -15,7 +15,6 @@ wpPostId: 840
 voice: "friend-guide"
 ---
 
-*Last updated: April 2026 — verified against official site, user reports, and live visit.*
 
 ![Inside Chiikawa Bakery Harajuku showing the main counter with character-shaped breads, a large Chiikawa plush figure, and visitors browsing the display](/images/articles/chiikawa-bakery-harajuku-guide-2026/featured.jpg)
 

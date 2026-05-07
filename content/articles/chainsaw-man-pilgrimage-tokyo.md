@@ -14,7 +14,6 @@ wpPostId: 510
 voice: "friend-guide"
 ---
 
-*Last updated: April 2026.*
 
 The Chainsaw Man movie *Reze Arc* turned Jinbocho into one of Tokyo's hottest anime pilgrimage spots overnight. Fans have been lining up at a phone booth, climbing an old stone staircase, and snapping photos in front of a Showa-era office building — all within a 10-minute walk of each other. Per visitor reports on Twitter (X), weekday afternoons see the route nearly empty, with weekend crowds significantly heavier.
 

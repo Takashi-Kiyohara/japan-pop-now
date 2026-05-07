@@ -19,7 +19,6 @@ spotlight: true
 spotlightExpiry: "2026-05-15"
 ---
 
-<p><em>Last updated: April 2026.</em></p>
 
 ![Colorful mechanical keycaps organized in display trays at LuvLab Harajuku](/images/articles/luvlab-harajuku/keycap-wall.webp)
 *Hundreds of keycap designs to choose from — Hello Kitty, emoji faces, food motifs, anime characters, and more.*

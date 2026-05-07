@@ -16,7 +16,6 @@ relatedSlugs: []
 wpPostId: 270
 ---
 
-*Last updated: April 2026.*
 
 ## What Are Japanese Game Centers?
 

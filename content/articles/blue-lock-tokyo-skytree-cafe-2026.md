@@ -16,7 +16,6 @@ excerpt: "Three Blue Lock events are running simultaneously in Tokyo right now â
 description: "Visit 3 Blue Lock events in Tokyo: Skytree collab (Apr 9-Jul 6), Akihabara cafe (Apr 15-May 24), and Shibuya exhibition (Apr 24-May 10). Tickets, menus, and ..."
 ---
 
-<p><em>Last updated: April 2026.</em></p>
 
 
 ![Tokyo Skytree viewed from its ground-level base, host venue of the 2026 BLUE LOCK EPISODE SKY event in Sumida ward](/images/articles/blue-lock-tokyo-skytree-cafe-2026/featured.webp)

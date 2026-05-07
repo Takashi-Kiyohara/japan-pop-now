@@ -15,7 +15,6 @@ wpPostId: 757
 voice: "friend-guide"
 ---
 
-*Last updated: April 2026.*
 
 Cosplay rental studios in Akihabara and Ikebukuro offer everything from maid outfits to full anime character costumes — wig included. Photo: Japan Pop Now
 You can rent a full cosplay outfit in Tokyo for ¥3,000-12,000 (~$20-82) at studios in Akihabara and Ikebukuro — wig, accessories, and photo studio time included. Several studios offer English-speaking staff and professional photography packages, making the experience accessible even if you’ve never cosplayed before. Sessions typically run 1-3 hours, and some studios let you walk around Akihabara in costume after your shoot.

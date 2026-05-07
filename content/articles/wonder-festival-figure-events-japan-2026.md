@@ -15,7 +15,6 @@ relatedSlugs: []
 wpPostId: 756
 ---
 
-*Last updated: April 2026.*
 
 Wonder Festival packs 2,000+ dealer tables into Makuhari Messe twice a year — the world’s largest figure and garage kit event. Photo: Japan Pop Now
 Wonder Festival 2026 Summer takes place July 26 at Makuhari Messe in Chiba — about 30 minutes by train from Tokyo Station. It’s the world’s largest figure and garage kit event, with 2,000+ dealer booths selling handmade resin figures, professional prototype reveals from major manufacturers, and one-of-a-kind custom pieces you can’t buy anywhere else. General admission tickets cost ¥3,500 in advance (¥4,000 at the door), and no pre-registration is needed beyond buying a ticket. The event runs 10:00-17:00 in a single day, and popular items sell out by early afternoon.
