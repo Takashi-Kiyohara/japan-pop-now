@@ -81,7 +81,7 @@ You have four real workarounds:
 If you're buying a SIM card for your Japan trip anyway — and you should, for maps and translation apps alone — get one with a Japanese number and SMS capability. Not all tourist SIMs include this. Look for **Mobal** (voice/SMS eSIM, orderable before arrival), airport prepaid SIMs marked "SMS-capable" at Narita or Haneda counters, or short-term **IIJmio / Rakuten Mobile** plans if you're in Japan more than a week. You only need the number for initial verification; everything after that runs on email.
 
 ### Option 2: Ask Your Hotel (Decent workaround)
-Some hotels will let you use their phone and address for ticket bookings. Tourist-area hotels in Tokyo are used to this request. Ask at the front desk the day you check in. Success rate I've seen: roughly 50%, higher at business hotels than capsule hotels.
+Some hotels will let you use their phone and address for ticket bookings. Tourist-area hotels in Tokyo are familiar with this request. Ask at the front desk the day you check in. Per visitor reports on r/JapanTravel, the typical hotel-assisted booking success rate is roughly 50%, with business hotels more accommodating than capsule hotels.
 
 ### Option 3: Borrow Someone Else's Booking (Easiest)
 If you have a Japanese friend, a travel agent, or you're using a booking concierge, they can reserve under their account and send you the reservation code. **The Loppi machine only checks the code** — it doesn't care who created the account. This is the fastest path if you know anyone local.

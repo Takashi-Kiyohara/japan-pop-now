@@ -16,7 +16,7 @@ voice: "friend-guide"
 
 *Last updated: April 2026.*
 
-The Chainsaw Man movie *Reze Arc* turned Jinbocho into one of Tokyo's hottest anime pilgrimage spots overnight. Fans have been lining up at a phone booth, climbing an old stone staircase, and snapping photos in front of a Showa-era office building — all within a 10-minute walk of each other. I walked the full route on a weekday afternoon and had every spot to myself, no crowds, no lines. On weekends, though, expect company.
+The Chainsaw Man movie *Reze Arc* turned Jinbocho into one of Tokyo's hottest anime pilgrimage spots overnight. Fans have been lining up at a phone booth, climbing an old stone staircase, and snapping photos in front of a Showa-era office building — all within a 10-minute walk of each other. Per visitor reports on Twitter (X), weekday afternoons see the route nearly empty, with weekend crowds significantly heavier.
 
 This guide covers every confirmed filming location from the Reze Arc movie, plus related spots from Chainsaw Man Season 1. All locations sit in the Jinbocho-Ochanomizu-Suidobashi triangle — a quiet, walkable neighborhood tucked between the flashier districts most tourists hit first. That's part of what makes this pilgrimage so good: the area itself feels like the manga.
 
@@ -86,7 +86,7 @@ This is a working office building, so stay on the sidewalk and don't enter. Fans
 
 Onnazaka (女坂) is the single most recognizable location from the Reze Arc. This stone staircase, wedged between old buildings in Sarugakucho, is the basis for the scene where Reze walks up the stairs on her way to the cafe. The stone paving, the buildings lining both sides, the quiet atmosphere — it's an almost frame-for-frame match with the film.
 
-At sunset, this spot becomes particularly atmospheric. The light filters through the narrow gap between buildings, and you get that bittersweet mood that defines the Reze Arc. I visited at around 5:30 PM on a Tuesday and had the stairs completely to myself. Weekend afternoons draw more fans, especially since the TikTok videos started circulating.
+At sunset, this spot becomes particularly atmospheric. The light filters through the narrow gap between buildings, evoking the bittersweet mood that defines the Reze Arc. Per visitor reports, late-afternoon weekday visits (around 5:00–6:00 PM) often have the stairs nearly empty. Weekend afternoons draw more fans, especially since the TikTok videos started circulating.
 
 The stairs are public and accessible 24 hours, but I'd recommend avoiding visits after dark out of respect for residents in the surrounding buildings.
 
