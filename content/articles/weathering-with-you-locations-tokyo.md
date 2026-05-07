@@ -1,6 +1,6 @@
 ---
 title: "Weathering With You Locations Tokyo 2026: Every Real Tenki Spot"
-description: "Last updated: May 2026. All locations verified as publicly accessible unless noted. Includes walking routes optimized for a half-day or full-day visit...."
+description: "Every Weathering With You Tokyo location verified as publicly accessible — Tabata, Yoyogi, Asahi Inari Shrine — with half-day and full-day walking routes."
 date: "2026-03-28"
 lastUpdated: "2026-05-06"
 category: "destinations"
@@ -8,7 +8,7 @@ tags: []
 featuredImage: "/images/articles/weathering-with-you-locations-tokyo/featured.jpg"
 featuredImageAlt: "NTT Docomo Yoyogi Building clock tower at twilight — the Yoyogi-area landmark visible across the rainy Tokyo skyline of Weathering With You"
 author: "Takapon"
-excerpt: "Last updated: May 2026. All locations verified as publicly accessible unless noted. Includes walking routes optimized for a half-day or full-day visit...."
+excerpt: "Every Weathering With You Tokyo location verified as publicly accessible — Tabata, Yoyogi, Asahi Inari Shrine — with half-day and full-day walking routes."
 relatedSlugs: []
 wpPostId: 203
 voice: "friend-guide"

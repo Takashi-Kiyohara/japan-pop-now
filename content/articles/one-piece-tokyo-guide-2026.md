@@ -1,6 +1,6 @@
 ---
 title: "One Piece Tokyo Guide 2026: Where to Find Every Straw Hat Experience"
-description: "Last updated: April 2026. Finding your way through Tokyo's massive anime merchandise landscape in 2026 One Piece Tokyo Guide 2026: Where to Find Every Straw..."
+description: "One Piece in Tokyo 2026: Base Shop Shinjuku, 5 Mugiwara Stores, One Piece Cafe GENE, and Jump Shop Jimbocho — addresses, hours, and shopping route."
 date: "2026-04-02"
 lastUpdated: "2026-04-02"
 category: "destinations"
@@ -8,7 +8,7 @@ tags: []
 featuredImage: "/images/articles/one-piece-tokyo-guide-2026/hero-wikimedia.webp"
 featuredImageAlt: "Tokyo Solamachi at Skytree Town — home of the Mugiwara Store flagship"
 author: "Takapon"
-excerpt: "Last updated: April 2026. Finding your way through Tokyo's massive anime merchandise landscape in 2026 One Piece Tokyo Guide 2026: Where to Find Every Straw..."
+excerpt: "One Piece in Tokyo 2026: Base Shop Shinjuku, 5 Mugiwara Stores, One Piece Cafe GENE at Shibuya PARCO, and Jump Shop Jimbocho — full addresses, hours, route."
 relatedSlugs: []
 wpPostId: 512
 ---

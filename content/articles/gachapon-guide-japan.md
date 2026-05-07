@@ -1,6 +1,6 @@
 ---
 title: "Gachapon Guide Japan 2026: Where to Find, How to Use & 7 Best Machines"
-description: "Last updated: March 2026. Those colorful capsule toy machines lined up outside convenience stores and crammed into dedicated multi-floor buildings? That is..."
+description: "Where to find gachapon in Japan, how to use the machines, and 7 best multi-floor buildings — Akihabara, Ikebukuro, Shibuya stops with capsule toy details."
 date: "2026-03-28"
 lastUpdated: "2026-03-28"
 category: "experiences"
@@ -8,7 +8,7 @@ tags: []
 featuredImage: "/images/articles/gachapon-guide-japan/featured.jpg"
 featuredImageAlt: "Bandai Gashapon store with capsule toy machines in Japan"
 author: "Takapon"
-excerpt: "Last updated: March 2026. Those colorful capsule toy machines lined up outside convenience stores and crammed into dedicated multi-floor buildings? That is..."
+excerpt: "Where to find gachapon in Japan, how to use the machines, and 7 best multi-floor buildings — Akihabara, Ikebukuro, Shibuya stops with capsule toy details."
 relatedSlugs: []
 wpPostId: 268
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Kyoto Anime Guide 2026: Pilgrimages, Studios & Otaku Culture"
-description: "Last updated: May 2026. Kyoto Anime Guide 2026: Pilgrimages, Studios, and Otaku Culture in the Ancient Capital Kyoto's ancient temples and shrines serve as..."
+description: "Kyoto anime 2026: KyoAni studio area in Uji, Hibike Euphonium pilgrimage stops, K-On! filming locations, Fushimi Inari, and the city's anime shopping districts."
 date: "2026-04-02"
 lastUpdated: "2026-05-06"
 category: "destinations"
@@ -8,7 +8,7 @@ tags: []
 featuredImage: "/images/articles/kyoto-anime-guide-2026/featured.jpg"
 featuredImageAlt: "Fushimi Inari Shrine thousand torii gates tunnel in Kyoto"
 author: "Takapon"
-excerpt: "Last updated: May 2026. Kyoto Anime Guide 2026: Pilgrimages, Studios, and Otaku Culture in the Ancient Capital Kyoto's ancient temples and shrines serve as..."
+excerpt: "Kyoto anime 2026: KyoAni studio area in Uji, Hibike Euphonium pilgrimage stops, K-On! filming locations, Fushimi Inari, and the city's anime shopping districts."
 relatedSlugs: []
 wpPostId: 513
 ---

@@ -1,6 +1,6 @@
 ---
 title: "Japan eSIM vs Pocket WiFi vs SIM Card: 2026 Tourist Comparison"
-description: "Last updated: April 2026. All prices and plan details verified against provider websites. You just booked your flight to Japan. Now comes the question every..."
+description: "Japan eSIM vs pocket WiFi vs physical SIM card 2026 — provider rates, coverage maps, activation steps, and which option fits solo, family, and group travel."
 date: "2026-04-01"
 lastUpdated: "2026-04-01"
 category: "experiences"
@@ -9,7 +9,7 @@ featuredImage: "/images/articles/japan-esim-pocket-wifi-sim-card/featured.webp"
 featuredImageAlt: "Self-service SIM card vending machine at a travel hub for international visitors"
 imageCredit: "Photo: Z thomas / Wikimedia Commons, CC BY-SA 4.0"
 author: "Takapon"
-excerpt: "Last updated: April 2026. All prices and plan details verified against provider websites. You just booked your flight to Japan. Now comes the question every..."
+excerpt: "Japan eSIM vs pocket WiFi vs physical SIM card 2026: provider rate ranges, coverage maps, activation steps, and which option fits solo, family, and group travel."
 relatedSlugs: []
 wpPostId: 455
 ---

@@ -1,6 +1,6 @@
 ---
 title: "One Piece Kumamoto 2026: All 10 Straw Hat Statues & Itinerary"
-description: "Last updated: March 2026. Covers all 10 Straw Hat crew statues, maps, transportation, Kumamoto Castle, and a recommended 2-day itinerary for visiting every..."
+description: "All 10 Straw Hat crew statues in Kumamoto with maps, transit access, and a 2-day itinerary that pairs the statue tour with Kumamoto Castle and local food."
 date: "2026-03-28"
 lastUpdated: "2026-03-28"
 category: "destinations"
@@ -8,7 +8,7 @@ tags: []
 featuredImage: "/images/articles/one-piece-kumamoto-statue-tour/featured.jpg"
 featuredImageAlt: "Kumamoto Prefectural Government Office building — the location of the Monkey D. Luffy bronze statue, the first installed of Eiichiro Oda's Straw Hat statues"
 author: "Takapon"
-excerpt: "Last updated: March 2026. Covers all 10 Straw Hat crew statues, maps, transportation, Kumamoto Castle, and a recommended 2-day itinerary for visiting every..."
+excerpt: "All 10 Straw Hat crew statues in Kumamoto with maps, transit access, and a 2-day itinerary that pairs the statue tour with Kumamoto Castle and local food."
 relatedSlugs: []
 wpPostId: 207
 voice: "friend-guide"

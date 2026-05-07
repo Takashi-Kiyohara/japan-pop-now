@@ -1,6 +1,6 @@
 ---
 title: "Chainsaw Man Tokyo Pilgrimage 2026: Reze Arc Spots in Jinbocho"
-description: "Last updated: April 2026. The quiet backstreets of Jinbocho — the real-world setting behind Chainsaw Man's Reze Arc. The Chainsaw Man..."
+description: "Walk the real-world Jinbocho locations from Chainsaw Man's Reze Arc — phone booth, stone staircase, Showa-era office building, all within a 10-minute route."
 date: "2026-04-02"
 lastUpdated: "2026-04-02"
 category: "destinations"
@@ -8,7 +8,7 @@ tags: []
 featuredImage: "/images/articles/chainsaw-man-pilgrimage-tokyo/featured.webp"
 featuredImageAlt: "Otokozaka stone staircase in Sarugakucho Tokyo — sister staircase to Onnazaka featured in Chainsaw Man Reze Arc"
 author: "Takapon"
-excerpt: "Last updated: April 2026. The quiet backstreets of Jinbocho — the real-world setting behind Chainsaw Man's Reze Arc. The Chainsaw Man..."
+excerpt: "Walk the real Jinbocho locations from Chainsaw Man's Reze Arc — phone booth, stone staircase, Showa-era office building, all within a 10-minute walking route."
 relatedSlugs: []
 wpPostId: 510
 voice: "friend-guide"
