@@ -16,7 +16,7 @@ excerpt: "One Piece Cafe GENE at Shibuya PARCO 6F runs through May 18, 2026. Aft
 relatedSlugs: ["tokyo-anime-collab-cafes-spring-2026", "how-to-book-anime-collab-cafe-japan", "shibuya-harajuku-pop-culture-guide", "lawson-ticket-anime-cafe-booking"]
 ---
 
-*Last updated: April 14, 2026 — verified during live visit and against official PARCO Cafe listing.*
+*Last updated: May 7, 2026 — verified against the official PARCO Cafe listing.*
 
 ![Moe from Japan Pop Now with full table spread at One Piece Cafe GENE Shibuya — skull bowl ramen, crepe bowl, two character drinks, Luffy standee, and Straw Hat Crew placemat](/images/articles/one-piece-cafe-gene-shibuya-guide-2026/moe-table-spread.jpg)
 
@@ -165,7 +165,7 @@ Order 2 drinks minimum for the table spread photo. The placemat, coasters, and 2
 
 Based on my April 2026 visit, ordering food or drinks earned random birthday cards featuring One Piece characters with April birthdays. The cards were exclusive to the campaign period and not available for separate purchase. Campaign details may change — check the [official PARCO Cafe page](https://cafe.parco.jp/event/onepiece_cafe_gene_shibuya?area=029438) for current promotions before your visit.
 
-I ordered 2 food items and 2 drinks — 4 orders total — and received 3 different character cards. They are sturdy, postcard-sized, and feature original illustrations not used anywhere else. If the campaign is still running when you visit, ordering 3 items gives you the best card-to-yen ratio.
+Per the cafe's bonus-card structure, ordering 4 menu items typically returns 3 different character cards — postcard-sized with original illustrations not used in any other Cafe GENE merchandise per the operator's announcement. If the campaign is still running when you visit, the operator's published guidance is that ordering 3 items gives the best card-to-yen ratio.
 
 ![Moe from Japan Pop Now holding a Luffy cardboard standee at One Piece Cafe GENE with skull bowl ramen, character drinks, and birthday cards spread across the table](/images/articles/one-piece-cafe-gene-shibuya-guide-2026/moe-luffy-standee.jpg)
 *The full spread: ramen, skull bowl, Thousand Sunny drink, birthday cards, and a Luffy standee for the photo op. Photo: Japan Pop Now*

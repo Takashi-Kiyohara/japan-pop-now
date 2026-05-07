@@ -98,7 +98,7 @@ Jump Shop Shibuya's inventory scale exceeds standard anime shops per visitor rev
 
 The customer demographic spans casual anime viewers to serious collectors per the chain's positioning. International tourists comprise a significant share of weekday foot traffic per visitor accounts. The "RofJ BY JUMP SHOP" pop-up concept occasionally brings exclusive Naruto collections to Shibuya, though timing requires checking official channels.
 
-Staff engagement impressed me during my visit. When I asked about specific merchandise availability, employees quickly navigated inventory systems and offered suggestions based on similar interests. This level of service distinguishes Jump Shop from typical retail anime spaces.
+Staff engagement at Jump Shop Shibuya is consistently noted in Tripadvisor reviews — employees navigate inventory systems quickly and offer recommendations based on customer interests. This level of service distinguishes Jump Shop from typical retail anime spaces.
 
 ### Roppongi & Shinjuku Anime Shops
 

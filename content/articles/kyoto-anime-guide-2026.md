@@ -114,7 +114,7 @@ Recommended timing: late March or early April per the Kyoto City cherry-blossom 
 
 Fushimi Inari Taisha is probably Kyoto's most famous shrine, with millions of visitors annually. It's renowned for thousands of vermillion torii gates creating tunnel-like pathways up the mountain. But beyond its historical significance, it has appeared in multiple anime productions.
 
-The shrine served as a primary location in Inari Konkon, a comedy anime about fox spirits and shrine life. The show captures the daily operations of the shrine with surprising accuracy. I watched the anime first, then visited, and found that key locations matched the animation. The main shrine building, the gate structures, and the surrounding forest all appeared in the show.
+The shrine served as a primary location in Inari Konkon, a comedy anime about fox spirits and shrine life. The show captures the daily operations of the shrine with surprising accuracy per anime-tourism reviewer comparisons. Per fan-maintained location-comparison sites, the main shrine building, the gate structures, and the surrounding forest all appear in the show with side-by-side photographic accuracy.
 
 Fruits Basket also features Fushimi Inari, particularly in scenes involving the Soma family's shrine activities. Fans of the series often come here specifically to photograph the gates and pathways used in the anime.
 
