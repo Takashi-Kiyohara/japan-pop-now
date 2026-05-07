@@ -1,9 +1,10 @@
 ---
 title: "My Hero Academia Cafe Tokyo 2026: Ikebukuro Guide for Anime Travelers"
-description: "My Hero Academia Cafe Ikebukuro 2026 guide: dates, why Ikebukuro is the best base, and how to turn the visit into a full hero-themed day."
+description: "Archive of the My Hero Academia 'Diner' pop-up at DECOTTO Animate Cafe Ikebukuro (Apr 3-26, 2026). Event has ended. See current MHA coverage in body."
 date: "2026-04-06"
-lastUpdated: "2026-04-06"
+lastUpdated: "2026-05-06"
 validUntil: "2026-04-27"
+robots: "noindex,follow"
 category: "cafes"
 tags: []
 featuredImage: "/images/articles/my-hero-academia-cafe-tokyo-2026/featured.jpg"
@@ -15,8 +16,10 @@ relatedSlugs: []
 wpPostId: 833
 ---
 
+<div className="jpn-warning"><strong>Event ended (May 6, 2026 update):</strong> The My Hero Academia 'Diner' pop-up at DECOTTO by Animate Cafe Ikebukuro ran <strong>April 3 – April 26, 2026</strong> and has since closed. This article is preserved as a historical reference. For current cafe options, see <a href="/articles/tokyo-anime-collab-cafes-spring-2026">Tokyo Anime Collab Cafes Spring 2026</a> or the <a href="/articles/my-hero-academia-waffle-diner-ikebukuro-2026">MHA Waffle Diner Ikebukuro 2026</a> deep-dive.</div>
+
 ## Quick answer
-If you are visiting Tokyo in April 2026 and want a **My Hero Academia-themed cafe stop that fits naturally into a wider anime day**, the strongest current choice is the **My Hero Academia ‘Diner’ themed pop-up cafe at DECOTTO by animate cafe in Ikebukuro**. The event runs from **April 3 to April 26, 2026**, and works especially well for international visitors because it sits in one of Tokyo’s easiest districts for anime shopping, cafe hopping, and character goods browsing.[1]
+The **My Hero Academia 'Diner' themed pop-up cafe at DECOTTO by animate cafe in Ikebukuro** ran **April 3 to April 26, 2026** and has since ended. While it was open it worked especially well for international visitors because it sat in one of Tokyo's easiest districts for anime shopping, cafe hopping, and character goods browsing.[1] The Ikebukuro day-planning advice below remains useful for any future MHA cafe pop-up that returns to the same district.
 
 ## Why this My Hero Academia cafe works so well for travelers
 
@@ -126,11 +129,11 @@ The photos and character art may be the main attraction, but the real on-the-gro
 This matters because some travelers now react against overly polished “perfect Japan” social content and prefer more honest planning advice. A better experience usually comes from realistic expectations, not from chasing a flawless social-media version of the day.[2]
 
 ## FAQ
-### Where is the My Hero Academia Cafe in Tokyo in 2026?
-The currently reported 2026 pop-up cafe is at **DECOTTO by animate cafe in Ikebukuro**.[1]
+### Where was the My Hero Academia Cafe in Tokyo in 2026?
+The 2026 pop-up cafe was hosted at **DECOTTO by animate cafe in Ikebukuro**.[1] The event has since ended; check [Tokyo Anime Collab Cafes Spring 2026](/articles/tokyo-anime-collab-cafes-spring-2026) for current cafe options.
 
-### When is the My Hero Academia Cafe in Ikebukuro open?
-The event runs from **April 3 to April 26, 2026**.[1]
+### When was the My Hero Academia Cafe in Ikebukuro open?
+The event ran from **April 3 to April 26, 2026** and has since closed.[1]
 
 ### What is the theme of the 2026 My Hero Academia Cafe?
 The theme is **Waffle Sandwich Diner**, with diner-style menu items and new illustrated character designs.[1]
