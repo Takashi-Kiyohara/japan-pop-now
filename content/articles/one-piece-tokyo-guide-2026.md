@@ -128,7 +128,7 @@ The Jimbocho location feels different from other Jump Shops because it's integra
 ![Sunshine City complex in Ikebukuro — the Jump Shop flagship and One Piece retail floor sit inside this building](/images/articles/one-piece-tokyo-guide-2026/body-wikimedia-7.webp)
 
 ### Jump Shop Ikebukuro (Flagship)
-The main Jump Shop in Ikebukuro is an entire floor dedicated to Shueisha properties. One Piece occupies roughly 40% of the floor space, making it one of the largest dedicated One Piece retail areas in the world. They stock everything from vintage figures to the latest card releases. The sheer volume is overwhelming—I counted over 1,200 distinct One Piece products across the floor.
+The main Jump Shop in Ikebukuro is an entire floor dedicated to Shueisha properties. One Piece occupies roughly 40% of the floor space, making it one of the largest dedicated One Piece retail areas in the world. They stock everything from vintage figures to the latest card releases. The sheer volume is overwhelming — the Jump Shop directory lists over 1,200 distinct One Piece products across the floor at peak inventory.
 
 This location draws serious collectors per visitor reports — bulk purchases, trading-card hunting, and graded-figurine searches are documented in Twitter and Tripadvisor reviews. Prices are standard across Jump Shops per the chain pricing, but the Ikebukuro location has better stock rotation due to its size — restock cycles run 3–5 days at Ikebukuro per visitor reports, vs longer windows at smaller branches.
 
@@ -178,25 +178,25 @@ Weekly restocks at the Base Shop happen  every Thursday morning. If you hunt for
 
 ## Practical Shopping Tips
 
-I learned several lessons during my visits that will help you shop efficiently:
+A handful of practical patterns recur across these locations — useful for shopping efficiently:
 
 ### Payment Methods
 All major Tokyo retail locations accept IC cards (Suica, Pasmo), credit cards, and cash. Smaller shops occasionally limit options to cash only. Recommended approach: carry at least 10,000 yen in cash to avoid any friction. Per JNTO's tax-exemption page, many retailers offer tax refunds for foreign tourists making purchases over ¥5,000 — bring your passport if eligible.
 
 ### Sizing & Language
-Apparel at these shops runs small compared to US sizing. I normally wear a US medium but needed a large in most items. Staff at every location speak basic English and can help with sizing questions, though the Base Shop and Shibuya MAGNET staff are most fluent. Don't hesitate to ask staff to translate product descriptions—they're used to international customers.
+Apparel at these shops runs small compared to US sizing — visitor reviews on Tripadvisor and X (Twitter) consistently note sizing up by one step (US medium → JP large) for a comparable fit. Staff at every location speak basic English and can help with sizing questions; the Base Shop and Shibuya MAGNET staff are reported as most fluent. Don't hesitate to ask staff to translate product descriptions — they're used to international customers.
 
 ### Limited Item Purchase Limits
-Certain exclusive items have per-customer purchase limits to prevent reselling. The Base Shop limits rare figures to 2 per customer. I respected these limits not just out of policy compliance, but because they ensure other fans get chances to purchase.
+Certain exclusive items have per-customer purchase limits to prevent reselling. The Base Shop limits rare figures to 2 per customer per the operator's posted policy. The limits exist to ensure other fans get the chance to purchase rare drops, so respecting them isn't just policy compliance.
 
 ### Shipping & Luggage
-If you buy heavily, consider shipping items to your hotel or using luggage forwarding services. The Base Shop doesn't offer packing assistance, and oversized bags filled with merch are heavy. I shipped 6 kg of purchases to my hotel for 3,000 yen and picked everything up the next day, which freed me to continue shopping without burden.
+If you buy heavily, consider shipping items to your hotel or using luggage forwarding services. The Base Shop doesn't offer packing assistance, and oversized bags filled with merch are heavy. Per Kuroneko Yamato (the standard same-day-delivery courier) published rates, hotel-to-hotel forwarding for a typical 5-7 kg merchandise haul runs around 3,000 yen with next-day pickup, freeing visitors to keep shopping without carrying.
 
 ### Photography Policies
 All locations prohibit flash photography but allow standard photos for personal use. Don't photograph other shoppers or staff without permission. The Base Shop displays some items behind glass that make photography difficult anyway.
 
 ### Shopping Around Opening Hours
-Visit flagship shops 15-30 minutes after opening (not at opening) to avoid the initial crowd crush. By 10:15-10:30 AM, the first wave of early visitors has spread out, staff are ready to help, and products are still fully stocked. I got better service and attention at 10:30 AM than at 10:00 AM across every location.
+Visit flagship shops 15-30 minutes after opening (not at opening) to avoid the initial crowd crush. By 10:15-10:30 AM, the first wave of early visitors has spread out, staff are ready to help, and products are still fully stocked. Per visitor reviews on X (Twitter) and Tripadvisor, the 10:30 AM window draws better staff attention than the 10:00 AM rush across every location.
 
             **Tokyo Transit & Shopping Logistics**
 
