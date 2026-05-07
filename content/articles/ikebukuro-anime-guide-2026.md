@@ -1,5 +1,5 @@
 ---
-title: "Ikebukuro Anime Guide 2026: Animate, Otome Road & Collab Cafes"
+title: "Ikebukuro Anime 2026: Animate, Otome Road, Collab Cafes"
 description: "Ikebukuro anime fan guide: 9-floor Animate flagship, Otome Road, 4 collab cafe venues, Sunshine City events, and why locals prefer it over Akihabara."
 date: "2026-03-25"
 lastUpdated: "2026-03-25"

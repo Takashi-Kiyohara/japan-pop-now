@@ -1,5 +1,5 @@
 ---
-title: "Chainsaw Man Tokyo Pilgrimage 2026: Reze Arc Spots in Jinbocho"
+title: "Chainsaw Man Tokyo Pilgrimage 2026: Reze Arc Jinbocho Spots"
 description: "Walk the real-world Jinbocho locations from Chainsaw Man's Reze Arc — phone booth, stone staircase, Showa-era office building, all within a 10-minute route."
 date: "2026-04-02"
 lastUpdated: "2026-04-02"

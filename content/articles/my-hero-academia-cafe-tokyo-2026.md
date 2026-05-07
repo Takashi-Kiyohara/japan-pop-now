@@ -1,5 +1,5 @@
 ---
-title: "My Hero Academia Cafe Tokyo 2026: Ikebukuro Guide for Anime Travelers"
+title: "My Hero Academia Cafe Tokyo 2026: Ikebukuro Travel Guide"
 description: "Archive of the My Hero Academia 'Diner' pop-up at DECOTTO Animate Cafe Ikebukuro (Apr 3-26, 2026). Event has ended. See current MHA coverage in body."
 date: "2026-04-06"
 lastUpdated: "2026-05-06"

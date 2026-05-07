@@ -1,5 +1,5 @@
 ---
-title: "Demon Slayer Pilgrimage Tokyo 2026: Every Real Kimetsu Location"
+title: "Demon Slayer Pilgrimage Tokyo 2026: Every Kimetsu Location"
 description: "Updated May 2026 after Mugen Castle Chapter 1. Every Demon Slayer location in and around Tokyo — Asakusa, guardian shrines, Mt. Kumotori, goods."
 date: "2026-03-28"
 lastUpdated: "2026-05-06"

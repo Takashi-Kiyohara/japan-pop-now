@@ -1,5 +1,5 @@
 ---
-title: "Weathering With You Locations Tokyo 2026: Every Real Tenki Spot"
+title: "Weathering With You Tokyo 2026: Every Real Tenki Spot"
 description: "Every Weathering With You Tokyo location verified as publicly accessible — Tabata, Yoyogi, Asahi Inari Shrine — with half-day and full-day walking routes."
 date: "2026-03-28"
 lastUpdated: "2026-05-06"

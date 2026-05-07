@@ -1,5 +1,5 @@
 ---
-title: "Nakano Broadway Guide 2026 — Tokyo’s Best-Kept Anime Shopping Secret"
+title: "Nakano Broadway 2026: Tokyo's Best-Kept Anime Shopping Spot"
 description: "Nakano Broadway 2026: 300+ anime shops, 30+ Mandarake stores, Daily Chico soft serve, floor-by-floor guide, and why serious collectors skip Akihabara."
 date: "2026-03-28"
 lastUpdated: "2026-03-28"

@@ -1,5 +1,5 @@
 ---
-title: "Tokyo Anime Collab Cafes Summer 2026: What's Open & How to Book"
+title: "Tokyo Anime Cafes Summer 2026: What's Open & How to Book"
 description: "Tokyo anime collab cafes summer 2026: 15-20 active themed cafes, what's open by month, plus how to book reservations and walk-in venues across the city."
 date: "2026-04-05"
 lastUpdated: "2026-04-05"

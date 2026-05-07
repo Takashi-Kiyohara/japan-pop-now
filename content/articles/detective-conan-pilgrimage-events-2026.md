@@ -1,5 +1,5 @@
 ---
-title: "Detective Conan Pilgrimage & Events 2026: 30th Anniversary Guide"
+title: "Detective Conan Pilgrimage & Events 2026: 30th Anniversary"
 description: "Detective Conan 2026: 12-city exhibition, 29th movie Yokohama tie-ins, annual cafe, USJ Conan World, and pilgrimage spots in Tottori and Osaka."
 date: "2026-04-04"
 lastUpdated: "2026-04-04"

@@ -1,5 +1,5 @@
 ---
-title: "Best Anime Tours in Tokyo 2026: Klook vs Viator vs Local Guides"
+title: "Best Anime Tours Tokyo 2026: Klook vs Viator vs Local Guides"
 description: "Best Tokyo anime tours 2026: Klook vs Viator vs GetYourGuide. 6 tours tested — Akihabara, pilgrimage, food, workshops — prices and English-guide options."
 date: "2026-04-02"
 lastUpdated: "2026-04-02"

@@ -1,5 +1,5 @@
 ---
-title: "One Piece Tokyo Guide 2026: Where to Find Every Straw Hat Experience"
+title: "One Piece Tokyo 2026: Every Straw Hat Experience Guide"
 description: "One Piece in Tokyo 2026: Base Shop Shinjuku, 5 Mugiwara Stores, One Piece Cafe GENE, and Jump Shop Jimbocho — addresses, hours, and shopping route."
 date: "2026-04-02"
 lastUpdated: "2026-04-02"

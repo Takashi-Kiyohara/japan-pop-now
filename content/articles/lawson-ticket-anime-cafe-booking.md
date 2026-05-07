@@ -1,5 +1,5 @@
 ---
-title: "How to Book Anime Cafe via Lawson in 2026: Step-by-Step English Guide"
+title: "Book Anime Cafe via Lawson 2026: Step-by-Step English Guide"
 slug: "lawson-ticket-anime-cafe-booking"
 date: "2026-03-28"
 updated: "2026-04-28"

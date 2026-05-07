@@ -1,5 +1,5 @@
 ---
-title: "One Piece Kumamoto 2026: All 10 Straw Hat Statues & Itinerary"
+title: "One Piece Kumamoto 2026: 10 Straw Hat Statues & Itinerary"
 description: "All 10 Straw Hat crew statues in Kumamoto with maps, transit access, and a 2-day itinerary that pairs the statue tour with Kumamoto Castle and local food."
 date: "2026-03-28"
 lastUpdated: "2026-03-28"

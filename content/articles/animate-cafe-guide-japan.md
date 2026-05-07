@@ -1,5 +1,5 @@
 ---
-title: "Book Animate Cafe Japan 2026: Lottery, Locations, Gratte Guide"
+title: "Animate Cafe Japan 2026: Lottery, Locations, Gratte Guide"
 description: "Book Animate Cafe 2026: lottery entry, Tokyo and Osaka locations, Gratte stands, DECOTTO donuts. Tips to win the draw and secure reservations."
 date: "2026-03-28"
 lastUpdated: "2026-04-29"

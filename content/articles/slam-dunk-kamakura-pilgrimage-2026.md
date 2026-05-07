@@ -1,5 +1,5 @@
 ---
-title: "Slam Dunk Kamakura Pilgrimage 2026: The Famous Crossing & Beyond"
+title: "Slam Dunk Kamakura Pilgrimage 2026: Famous Crossing & More"
 description: "Slam Dunk's iconic Kamakurakokomae No.1 Railroad Crossing with the Shonan coast behind it — full pilgrimage route, transit access, and seasonal photo timing."
 date: "2026-04-05"
 lastUpdated: "2026-04-05"

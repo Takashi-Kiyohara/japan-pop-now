@@ -1,5 +1,5 @@
 ﻿---
-title: "LuvLab Harajuku DIY: Italian Charms, Snake Bracelets, Keychains"
+title: "LuvLab Harajuku DIY: Italian Charms, Snake Bracelets"
 description: "LuvLab Harajuku is a walk-in DIY accessory shop 2 min from JR Harajuku Station. Make Italian charm watches, snake bracelets, and custom keychains from 300 yen."
 slug: "luvlab-harajuku-diy-accessory-experience"
 category: "experiences"
