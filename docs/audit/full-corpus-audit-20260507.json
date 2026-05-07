@@ -1,0 +1,6291 @@
+{
+  "generated": "2026-05-07T16:06:40.413Z",
+  "buckets": {
+    "PASS_ALL_10": 14,
+    "PASS_8plus": 43,
+    "PASS_5_to_7": 30,
+    "FAIL_under_5": 0
+  },
+  "axisFail": {
+    "metaDesc": 1,
+    "title": 36,
+    "fabrication": 4,
+    "imageDensity": 24,
+    "internalLinks": 0,
+    "schema": 0,
+    "canonical": 0,
+    "freshness": 40,
+    "affiliate": 0,
+    "adsenseFitness": 73
+  },
+  "results": [
+    {
+      "slug": "akihabara-arcade-rhythm-games-guide-2026",
+      "title": "Akihabara Arcade Rhythm Games: First-Timer Guide 2026",
+      "description": "Akihabara's 6 rhythm-game arcades, tested over 3 days. Which machine to try first, best cabinets, and what regulars wish tourists knew. 2026 guide.",
+      "wordCount": 2215,
+      "imageCount": 5,
+      "bodyImageCount": 4,
+      "density": 1.8058690744920993,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 147
+          }
+        },
+        "title": {
+          "pass": true,
+          "metrics": {
+            "length": 53
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 1.8058690744920993,
+            "bodyImageCount": 4
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": true,
+          "metrics": {
+            "staleHits": 0
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": true,
+          "metrics": {
+            "wordCount": 2215
+          }
+        }
+      },
+      "passCount": 10,
+      "bucket": "PASS_ALL_10",
+      "noindex": false
+    },
+    {
+      "slug": "akihabara-complete-guide-2026",
+      "title": "Akihabara: The Complete Pop Culture Guide for 2026",
+      "description": "The real Akihabara guide for 2026. Retro game shops, hidden specialist stores, maid cafes, collab cafes, and the side streets most tourists miss.",
+      "wordCount": 4172,
+      "imageCount": 5,
+      "bodyImageCount": 4,
+      "density": 0.9587727708533077,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 145
+          }
+        },
+        "title": {
+          "pass": true,
+          "metrics": {
+            "length": 50
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": false,
+          "reason": "density 0.96/k < 1.0",
+          "metrics": {
+            "density": 0.9587727708533077,
+            "bodyImageCount": 4
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": false,
+          "reason": "1 stale-year literal(s)",
+          "metrics": {
+            "staleHits": 1
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 2",
+          "metrics": {
+            "wordCount": 4172
+          }
+        }
+      },
+      "passCount": 7,
+      "bucket": "PASS_5_to_7",
+      "noindex": false
+    },
+    {
+      "slug": "animate-cafe-guide-japan",
+      "title": "Book Animate Cafe Japan 2026: Lottery, Locations, Gratte Guide",
+      "description": "Book Animate Cafe 2026: lottery entry, Tokyo and Osaka locations, Gratte stands, DECOTTO donuts. Tips to win the draw and secure reservations.",
+      "wordCount": 2735,
+      "imageCount": 6,
+      "bodyImageCount": 5,
+      "density": 1.8281535648994516,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 142
+          }
+        },
+        "title": {
+          "pass": false,
+          "reason": "title too long (62)",
+          "metrics": {
+            "length": 62
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 1.8281535648994516,
+            "bodyImageCount": 5
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": true,
+          "metrics": {
+            "staleHits": 0
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 1",
+          "metrics": {
+            "wordCount": 2735
+          }
+        }
+      },
+      "passCount": 8,
+      "bucket": "PASS_8plus",
+      "noindex": false
+    },
+    {
+      "slug": "anime-day-trips-from-tokyo-2026",
+      "title": "7 Anime Day Trips from Tokyo: Pilgrimage Guide with JR Pass Tips",
+      "description": "Six anime pilgrimage spots within 2hrs of Tokyo — Kamakura (Slam Dunk), Hakone (Evangelion), Oarai (Girls und Panzer), Chichibu, Nikko. Routes + JR Pass math.",
+      "wordCount": 2783,
+      "imageCount": 7,
+      "bodyImageCount": 6,
+      "density": 2.1559468199784404,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 158
+          }
+        },
+        "title": {
+          "pass": false,
+          "reason": "title too long (64)",
+          "metrics": {
+            "length": 64
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 2.1559468199784404,
+            "bodyImageCount": 6
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": true,
+          "metrics": {
+            "staleHits": 0
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 1",
+          "metrics": {
+            "wordCount": 2783
+          }
+        }
+      },
+      "passCount": 8,
+      "bucket": "PASS_8plus",
+      "noindex": false
+    },
+    {
+      "slug": "anime-hotels-tokyo-2026",
+      "title": "Best Anime Hotels Tokyo 2026: Manga Rooms from ¥3,000/Night",
+      "description": "5 anime-themed Tokyo hotels compared from official sources. Manga Art Hotel, Hotel Gracery Godzilla, Tavinos Asakusa, Sunshine City Prince IKEPRI25.",
+      "wordCount": 3560,
+      "imageCount": 8,
+      "bodyImageCount": 7,
+      "density": 1.9662921348314608,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 148
+          }
+        },
+        "title": {
+          "pass": true,
+          "metrics": {
+            "length": 59
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 1.9662921348314608,
+            "bodyImageCount": 7
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": false,
+          "reason": "5 stale-year literal(s)",
+          "metrics": {
+            "staleHits": 5
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 1",
+          "metrics": {
+            "wordCount": 3560
+          }
+        }
+      },
+      "passCount": 8,
+      "bucket": "PASS_8plus",
+      "noindex": false
+    },
+    {
+      "slug": "anime-merch-shopping-guide-japan",
+      "title": "Anime Merch Shopping Japan 2026: 15 Best Shops & Price Guide",
+      "description": "Anime merch shopping in Japan 2026: 15 best shops (Animate, Mandarake, Kotobukiya), prices, budgets, and where to find exclusive figures in Tokyo.",
+      "wordCount": 3504,
+      "imageCount": 1,
+      "bodyImageCount": 0,
+      "density": 0,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 146
+          }
+        },
+        "title": {
+          "pass": true,
+          "metrics": {
+            "length": 60
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": false,
+          "reason": "density 0.00/k < 1.0",
+          "metrics": {
+            "density": 0,
+            "bodyImageCount": 0
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": false,
+          "reason": "2 stale-year literal(s)",
+          "metrics": {
+            "staleHits": 2
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 2",
+          "metrics": {
+            "wordCount": 3504
+          }
+        }
+      },
+      "passCount": 7,
+      "bucket": "PASS_5_to_7",
+      "noindex": false
+    },
+    {
+      "slug": "anime-pilgrimage-spots-tokyo",
+      "title": "10 Anime Pilgrimage Spots in Tokyo You Can Visit Today",
+      "description": "Visit real anime locations in Tokyo: Your Name stairs, Shibuya Crossing (JJK), Sensoji (Demon Slayer), Akihabara (Steins;Gate), Kamakura (Slam Dunk), and more.",
+      "wordCount": 3090,
+      "imageCount": 10,
+      "bodyImageCount": 9,
+      "density": 2.912621359223301,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 159
+          }
+        },
+        "title": {
+          "pass": true,
+          "metrics": {
+            "length": 54
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 2.912621359223301,
+            "bodyImageCount": 9
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": false,
+          "reason": "3 stale-year literal(s)",
+          "metrics": {
+            "staleHits": 3
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 1",
+          "metrics": {
+            "wordCount": 3090
+          }
+        }
+      },
+      "passCount": 8,
+      "bucket": "PASS_8plus",
+      "noindex": false
+    },
+    {
+      "slug": "animejapan-2026-guide-international-visitors",
+      "title": "AnimeJapan 2026 Guide: Tickets, Access, Family Festa, What to Do",
+      "description": "Visiting AnimeJapan 2026 in Tokyo? Dates, venue access, Family Anime Festa, nearby anime spots, and how to build a trip around the weekend.",
+      "wordCount": 1667,
+      "imageCount": 6,
+      "bodyImageCount": 5,
+      "density": 2.999400119976005,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 139
+          }
+        },
+        "title": {
+          "pass": false,
+          "reason": "title too long (64)",
+          "metrics": {
+            "length": 64
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 2.999400119976005,
+            "bodyImageCount": 5
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": true,
+          "metrics": {
+            "staleHits": 0
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 1",
+          "metrics": {
+            "wordCount": 1667
+          }
+        }
+      },
+      "passCount": 8,
+      "bucket": "PASS_8plus",
+      "noindex": false
+    },
+    {
+      "slug": "animejapan-comiket-2026-guide",
+      "title": "AnimeJapan & Comiket 2026: Foreigner’s Survival Guide",
+      "description": "AnimeJapan vs. Comiket: Complete Guide to Tokyo’s Biggest Anime Events 2026 I’ve attended both AnimeJapan and Comiket more times than I can count. The first...",
+      "wordCount": 1411,
+      "imageCount": 5,
+      "bodyImageCount": 4,
+      "density": 2.834868887313962,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 159
+          }
+        },
+        "title": {
+          "pass": true,
+          "metrics": {
+            "length": 53
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 2.834868887313962,
+            "bodyImageCount": 4
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": true,
+          "metrics": {
+            "staleHits": 0
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "word_count 1411 < 1500",
+          "metrics": {
+            "wordCount": 1411
+          }
+        }
+      },
+      "passCount": 9,
+      "bucket": "PASS_8plus",
+      "noindex": false
+    },
+    {
+      "slug": "apothecary-diaries-oshi-tabi-osaka-shinkansen-2026",
+      "title": "Apothecary Diaries Shinkansen Trip 2026: Osaka Oshi-Tabi Guide",
+      "description": "JR Tokai Oshi-Tabi Vol.3 pairs Apothecary Diaries with the Tokaido Shinkansen Apr 17–Jul 20, 2026. Route, stamp rally, BOX cafes, guidebook tips.",
+      "wordCount": 2934,
+      "imageCount": 5,
+      "bodyImageCount": 4,
+      "density": 1.3633265167007498,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 145
+          }
+        },
+        "title": {
+          "pass": false,
+          "reason": "title too long (62)",
+          "metrics": {
+            "length": 62
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 1.3633265167007498,
+            "bodyImageCount": 4
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": false,
+          "reason": "1 stale-year literal(s)",
+          "metrics": {
+            "staleHits": 1
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 2",
+          "metrics": {
+            "wordCount": 2934
+          }
+        }
+      },
+      "passCount": 7,
+      "bucket": "PASS_5_to_7",
+      "noindex": false
+    },
+    {
+      "slug": "best-anime-tours-tokyo-2026",
+      "title": "Best Anime Tours in Tokyo 2026: Klook vs Viator vs Local Guides",
+      "description": "Best Tokyo anime tours 2026: Klook vs Viator vs GetYourGuide. 6 tours tested — Akihabara, pilgrimage, food, workshops — prices and English-guide options.",
+      "wordCount": 4630,
+      "imageCount": 5,
+      "bodyImageCount": 4,
+      "density": 0.8639308855291576,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 153
+          }
+        },
+        "title": {
+          "pass": false,
+          "reason": "title too long (63)",
+          "metrics": {
+            "length": 63
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": false,
+          "reason": "density 0.86/k < 1.0",
+          "metrics": {
+            "density": 0.8639308855291576,
+            "bodyImageCount": 4
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": false,
+          "reason": "2 stale-year literal(s)",
+          "metrics": {
+            "staleHits": 2
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 3",
+          "metrics": {
+            "wordCount": 4630
+          }
+        }
+      },
+      "passCount": 6,
+      "bucket": "PASS_5_to_7",
+      "noindex": false
+    },
+    {
+      "slug": "blue-lock-tokyo-skytree-cafe-2026",
+      "title": "Blue Lock Tokyo 2026: Skytree, Cafe & Exhibition Guide",
+      "description": "Visit 3 Blue Lock events in Tokyo: Skytree collab (Apr 9-Jul 6), Akihabara cafe (Apr 15-May 24), and Shibuya exhibition (Apr 24-May 10). Tickets, menus, and ...",
+      "wordCount": 2858,
+      "imageCount": 7,
+      "bodyImageCount": 6,
+      "density": 2.099370188943317,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 160
+          }
+        },
+        "title": {
+          "pass": true,
+          "metrics": {
+            "length": 54
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 2.099370188943317,
+            "bodyImageCount": 6
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": true,
+          "metrics": {
+            "staleHits": 0
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": true,
+          "metrics": {
+            "wordCount": 2858
+          }
+        }
+      },
+      "passCount": 10,
+      "bucket": "PASS_ALL_10",
+      "noindex": false
+    },
+    {
+      "slug": "book-japan-anime-events-overseas-2026",
+      "title": "How to Book Japan Anime Events from Overseas (2026 Guide)",
+      "description": "How to book Japan anime collab cafes, events, and theme parks from overseas — which platforms work internationally, which don't, proxy services compared.",
+      "wordCount": 2437,
+      "imageCount": 1,
+      "bodyImageCount": 0,
+      "density": 0,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 153
+          }
+        },
+        "title": {
+          "pass": true,
+          "metrics": {
+            "length": 57
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": false,
+          "reason": "density 0.00/k < 1.0",
+          "metrics": {
+            "density": 0,
+            "bodyImageCount": 0
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": false,
+          "reason": "3 stale-year literal(s)",
+          "metrics": {
+            "staleHits": 3
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 2",
+          "metrics": {
+            "wordCount": 2437
+          }
+        }
+      },
+      "passCount": 7,
+      "bucket": "PASS_5_to_7",
+      "noindex": false
+    },
+    {
+      "slug": "chainsaw-man-pilgrimage-tokyo",
+      "title": "Chainsaw Man Tokyo Pilgrimage 2026: Reze Arc Spots in Jinbocho",
+      "description": "Walk the real-world Jinbocho locations from Chainsaw Man's Reze Arc — phone booth, stone staircase, Showa-era office building, all within a 10-minute route.",
+      "wordCount": 2608,
+      "imageCount": 7,
+      "bodyImageCount": 6,
+      "density": 2.3006134969325154,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 156
+          }
+        },
+        "title": {
+          "pass": false,
+          "reason": "title too long (62)",
+          "metrics": {
+            "length": 62
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 2.3006134969325154,
+            "bodyImageCount": 6
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": true,
+          "metrics": {
+            "staleHits": 0
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 1",
+          "metrics": {
+            "wordCount": 2608
+          }
+        }
+      },
+      "passCount": 8,
+      "bucket": "PASS_8plus",
+      "noindex": false
+    },
+    {
+      "slug": "chiikawa-bakery-harajuku-guide-2026",
+      "title": "Chiikawa Bakery Harajuku 2026: Real Visitor Guide",
+      "description": "Chiikawa Bakery Harajuku: no-reservation afternoon entry, menu with prices, ¥1,200 snack plan, Lawson Ticket vouchers—verified April 2026.",
+      "wordCount": 2677,
+      "imageCount": 11,
+      "bodyImageCount": 10,
+      "density": 3.7355248412401942,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 138
+          }
+        },
+        "title": {
+          "pass": true,
+          "metrics": {
+            "length": 49
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 3.7355248412401942,
+            "bodyImageCount": 10
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": true,
+          "metrics": {
+            "staleHits": 0
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": true,
+          "metrics": {
+            "wordCount": 2677
+          }
+        }
+      },
+      "passCount": 10,
+      "bucket": "PASS_ALL_10",
+      "noindex": false
+    },
+    {
+      "slug": "chiikawa-land-tokyo-complete-2026",
+      "title": "Chiikawa Land Tokyo 2026: Tokyo Station Store Complete Guide",
+      "description": "Visit Chiikawa Land Tokyo at Tokyo Station in 2026: ticket times, 2026 spring new sections, mokomoko plush lineup, hours, and the overseas visitor walkthrough.",
+      "wordCount": 3061,
+      "imageCount": 4,
+      "bodyImageCount": 3,
+      "density": 0.9800718719372753,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 159
+          }
+        },
+        "title": {
+          "pass": true,
+          "metrics": {
+            "length": 60
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": false,
+          "reason": "density 0.98/k < 1.0",
+          "metrics": {
+            "density": 0.9800718719372753,
+            "bodyImageCount": 3
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": false,
+          "reason": "2 stale-year literal(s)",
+          "metrics": {
+            "staleHits": 2
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 2",
+          "metrics": {
+            "wordCount": 3061
+          }
+        }
+      },
+      "passCount": 7,
+      "bucket": "PASS_5_to_7",
+      "noindex": false
+    },
+    {
+      "slug": "cosplay-experience-tokyo-2026",
+      "title": "Cosplay Experience Tokyo 2026: Rental Studios, Photo Spots & Events",
+      "description": "Rent a Tokyo cosplay outfit ¥3,000-12,000 — wig, accessories, studio time, English staff. Akihabara + Ikebukuro studios compared, plus Comiket rules.",
+      "wordCount": 2094,
+      "imageCount": 6,
+      "bodyImageCount": 5,
+      "density": 2.3877745940783193,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 149
+          }
+        },
+        "title": {
+          "pass": false,
+          "reason": "title too long (67)",
+          "metrics": {
+            "length": 67
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 2.3877745940783193,
+            "bodyImageCount": 5
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": true,
+          "metrics": {
+            "staleHits": 0
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 1",
+          "metrics": {
+            "wordCount": 2094
+          }
+        }
+      },
+      "passCount": 8,
+      "bucket": "PASS_8plus",
+      "noindex": false
+    },
+    {
+      "slug": "dark-moon-chara-cafe-ikebukuro-2026",
+      "title": "Dark Moon Cafe Ikebukuro 2026: THE Chara CAFE 12-Day Collab Guide",
+      "description": "DARK MOON cafe Ikebukuro 2026: 12-day collab at THE Chara CAFE Grandscape 2F, April 25 to May 6. Booking, menu prices, K-pop walk plan.",
+      "wordCount": 2070,
+      "imageCount": 4,
+      "bodyImageCount": 3,
+      "density": 1.4492753623188406,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 135
+          }
+        },
+        "title": {
+          "pass": false,
+          "reason": "title too long (65)",
+          "metrics": {
+            "length": 65
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 1.4492753623188406,
+            "bodyImageCount": 3
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": false,
+          "reason": "2 stale-year literal(s)",
+          "metrics": {
+            "staleHits": 2
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 2",
+          "metrics": {
+            "wordCount": 2070
+          }
+        }
+      },
+      "passCount": 7,
+      "bucket": "PASS_5_to_7",
+      "noindex": false
+    },
+    {
+      "slug": "demon-slayer-handmade-club-ufotable-cafe-2026",
+      "title": "Demon Slayer Handmade Club ufotable Cafe 2026 Guide",
+      "description": "Book Demon Slayer Handmade Club at ufotable Cafe (Apr 28-May 31, 2026): 7 venues, pour-your-own craft menu, LivePocket lottery, 5 cloth patterns.",
+      "wordCount": 3277,
+      "imageCount": 2,
+      "bodyImageCount": 1,
+      "density": 0.3051571559353067,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 145
+          }
+        },
+        "title": {
+          "pass": true,
+          "metrics": {
+            "length": 51
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": false,
+          "reason": "density 0.31/k < 1.0",
+          "metrics": {
+            "density": 0.3051571559353067,
+            "bodyImageCount": 1
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": true,
+          "metrics": {
+            "staleHits": 0
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 1",
+          "metrics": {
+            "wordCount": 3277
+          }
+        }
+      },
+      "passCount": 8,
+      "bucket": "PASS_8plus",
+      "noindex": false
+    },
+    {
+      "slug": "demon-slayer-meiji-mura-aichi-pilgrimage-2026",
+      "title": "Demon Slayer × Meiji-mura 2026: Aichi Pilgrimage Guide",
+      "description": "Demon Slayer × Meiji-mura runs Mar 7 – May 31, 2026: 3 escape-game courses, 13 collab dishes, 4 attractions, ufotable art — English day-trip guide from Nagoya.",
+      "wordCount": 4080,
+      "imageCount": 3,
+      "bodyImageCount": 2,
+      "density": 0.49019607843137253,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 159
+          }
+        },
+        "title": {
+          "pass": true,
+          "metrics": {
+            "length": 54
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": false,
+          "reason": "density 0.49/k < 1.0",
+          "metrics": {
+            "density": 0.49019607843137253,
+            "bodyImageCount": 2
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": true,
+          "metrics": {
+            "staleHits": 0
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 1",
+          "metrics": {
+            "wordCount": 4080
+          }
+        }
+      },
+      "passCount": 8,
+      "bucket": "PASS_8plus",
+      "noindex": false
+    },
+    {
+      "slug": "demon-slayer-pilgrimage-tokyo",
+      "title": "Demon Slayer Pilgrimage Tokyo 2026: Every Real Kimetsu Location",
+      "description": "Updated May 2026 after Mugen Castle Chapter 1. Every Demon Slayer location in and around Tokyo — Asakusa, guardian shrines, Mt. Kumotori, goods.",
+      "wordCount": 2431,
+      "imageCount": 3,
+      "bodyImageCount": 2,
+      "density": 0.8227067050596463,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 144
+          }
+        },
+        "title": {
+          "pass": false,
+          "reason": "title too long (63)",
+          "metrics": {
+            "length": 63
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": false,
+          "reason": "density 0.82/k < 1.0",
+          "metrics": {
+            "density": 0.8227067050596463,
+            "bodyImageCount": 2
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": true,
+          "metrics": {
+            "staleHits": 0
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 2",
+          "metrics": {
+            "wordCount": 2431
+          }
+        }
+      },
+      "passCount": 7,
+      "bucket": "PASS_5_to_7",
+      "noindex": false
+    },
+    {
+      "slug": "demon-slayer-rerun-cafe-ufotable-2026",
+      "title": "Demon Slayer Rerun Cafe ufotable 2026: Menu & Booking",
+      "description": "Book the Demon Slayer rerun cafe at ufotable 2026. Menu, prices, 7 locations, lottery guide, and merch for the Kimetsu no Yaiba collab through May 6.",
+      "wordCount": 2985,
+      "imageCount": 4,
+      "bodyImageCount": 3,
+      "density": 1.0050251256281408,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 149
+          }
+        },
+        "title": {
+          "pass": true,
+          "metrics": {
+            "length": 53
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 1.0050251256281408,
+            "bodyImageCount": 3
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": false,
+          "reason": "1 stale-year literal(s)",
+          "metrics": {
+            "staleHits": 1
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 1",
+          "metrics": {
+            "wordCount": 2985
+          }
+        }
+      },
+      "passCount": 8,
+      "bucket": "PASS_8plus",
+      "noindex": true
+    },
+    {
+      "slug": "demon-slayer-rerun-cafe-ufotable-kizuna-2026",
+      "title": "Demon Slayer Cafe Tokyo 2026: Kizuna ufotable Guide",
+      "description": "Demon Slayer ufotable Cafe 2026 Kizuna Phase 2 'Bonds Forged' guide — May 8 to July 7, 5 venues, pricing, and the LivePocket lottery booking flow in English.",
+      "wordCount": 2931,
+      "imageCount": 6,
+      "bodyImageCount": 5,
+      "density": 1.7059024223814399,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 157
+          }
+        },
+        "title": {
+          "pass": true,
+          "metrics": {
+            "length": 51
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 1.7059024223814399,
+            "bodyImageCount": 5
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": true,
+          "metrics": {
+            "staleHits": 0
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": true,
+          "metrics": {
+            "wordCount": 2931
+          }
+        }
+      },
+      "passCount": 10,
+      "bucket": "PASS_ALL_10",
+      "noindex": false
+    },
+    {
+      "slug": "detective-conan-cafe-2026-japan-guide",
+      "title": "Detective Conan Cafe 2026 Japan: Tokyo & Osaka Dates, Menu, Tips",
+      "description": "Planning to visit Detective Conan Cafe 2026 in Japan? This practical guide covers the dates, best Tokyo and Osaka locations, what makes each city different,...",
+      "wordCount": 1836,
+      "imageCount": 6,
+      "bodyImageCount": 5,
+      "density": 2.7233115468409586,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 159
+          }
+        },
+        "title": {
+          "pass": false,
+          "reason": "title too long (64)",
+          "metrics": {
+            "length": 64
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 2.7233115468409586,
+            "bodyImageCount": 5
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": true,
+          "metrics": {
+            "staleHits": 0
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 1",
+          "metrics": {
+            "wordCount": 1836
+          }
+        }
+      },
+      "passCount": 8,
+      "bucket": "PASS_8plus",
+      "noindex": true
+    },
+    {
+      "slug": "detective-conan-cafe-tokyo-osaka-3venue-2026",
+      "title": "Detective Conan Cafe 2026: Tokyo Osaka Nagoya 3-Venue Guide",
+      "description": "Detective Conan Cafe 2026 in Tokyo, Osaka, and Nagoya: verified dates, menu prices, 715 vs 3,850 yen reservation tiers, puzzle reward, and booking flow.",
+      "wordCount": 3060,
+      "imageCount": 9,
+      "bodyImageCount": 8,
+      "density": 2.6143790849673203,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 152
+          }
+        },
+        "title": {
+          "pass": true,
+          "metrics": {
+            "length": 59
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 2.6143790849673203,
+            "bodyImageCount": 8
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": false,
+          "reason": "2 stale-year literal(s)",
+          "metrics": {
+            "staleHits": 2
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 1",
+          "metrics": {
+            "wordCount": 3060
+          }
+        }
+      },
+      "passCount": 8,
+      "bucket": "PASS_8plus",
+      "noindex": false
+    },
+    {
+      "slug": "detective-conan-pilgrimage-events-2026",
+      "title": "Detective Conan Pilgrimage & Events 2026: 30th Anniversary Guide",
+      "description": "Detective Conan 2026: 12-city exhibition, 29th movie Yokohama tie-ins, annual cafe, USJ Conan World, and pilgrimage spots in Tottori and Osaka.",
+      "wordCount": 2465,
+      "imageCount": 6,
+      "bodyImageCount": 5,
+      "density": 2.028397565922921,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 143
+          }
+        },
+        "title": {
+          "pass": false,
+          "reason": "title too long (64)",
+          "metrics": {
+            "length": 64
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 2.028397565922921,
+            "bodyImageCount": 5
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": true,
+          "metrics": {
+            "staleHits": 0
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 1",
+          "metrics": {
+            "wordCount": 2465
+          }
+        }
+      },
+      "passCount": 8,
+      "bucket": "PASS_8plus",
+      "noindex": false
+    },
+    {
+      "slug": "familymart-anime-collab-stores-2026",
+      "title": "FamilyMart Anime Collab Stores: Japan’s Newest Trend (2026)",
+      "description": "FamilyMart anime collab stores (2026): Japan's convenience chain turns branches into anime-fan destinations. Locations, current goods, and tips.",
+      "wordCount": 1020,
+      "imageCount": 4,
+      "bodyImageCount": 3,
+      "density": 2.941176470588235,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 144
+          }
+        },
+        "title": {
+          "pass": true,
+          "metrics": {
+            "length": 59
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 2.941176470588235,
+            "bodyImageCount": 3
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": true,
+          "metrics": {
+            "staleHits": 0
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "word_count 1020 < 1500",
+          "metrics": {
+            "wordCount": 1020
+          }
+        }
+      },
+      "passCount": 9,
+      "bucket": "PASS_8plus",
+      "noindex": false
+    },
+    {
+      "slug": "first-timers-japan-playbook-anime-fans-2026",
+      "title": "The First-Timer's Japan Playbook for Anime Fans (2026)",
+      "description": "Plan your first Japan trip: hour-by-hour arrival, IC card, eSIM, cash rules, collab cafe booking, and etiquette for first-time anime fans.",
+      "wordCount": 2619,
+      "imageCount": 5,
+      "bodyImageCount": 4,
+      "density": 1.5273004963726613,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 138
+          }
+        },
+        "title": {
+          "pass": true,
+          "metrics": {
+            "length": 54
+          }
+        },
+        "fabrication": {
+          "pass": false,
+          "reason": "1 first-person hit(s)",
+          "metrics": {
+            "hits": 1
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 1.5273004963726613,
+            "bodyImageCount": 4
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": false,
+          "reason": "1 stale-year literal(s)",
+          "metrics": {
+            "staleHits": 1
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 2",
+          "metrics": {
+            "wordCount": 2619
+          }
+        }
+      },
+      "passCount": 7,
+      "bucket": "PASS_5_to_7",
+      "noindex": false
+    },
+    {
+      "slug": "frieren-usj-story-walk-osaka-2026",
+      "title": "Frieren × USJ Story Walk Osaka 2026: Complete Guide (Pre-Launch)",
+      "description": "Pre-launch guide. Frieren Story Walk opens at USJ Osaka May 30, 2026–Jan 11, 2027. Tickets, e-seitai-ken, restaurant, ride — from official press.",
+      "wordCount": 3082,
+      "imageCount": 2,
+      "bodyImageCount": 1,
+      "density": 0.3244646333549643,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 145
+          }
+        },
+        "title": {
+          "pass": false,
+          "reason": "title too long (64)",
+          "metrics": {
+            "length": 64
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": false,
+          "reason": "density 0.32/k < 1.0",
+          "metrics": {
+            "density": 0.3244646333549643,
+            "bodyImageCount": 1
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": false,
+          "reason": "3 stale-year literal(s)",
+          "metrics": {
+            "staleHits": 3
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 3",
+          "metrics": {
+            "wordCount": 3082
+          }
+        }
+      },
+      "passCount": 6,
+      "bucket": "PASS_5_to_7",
+      "noindex": false
+    },
+    {
+      "slug": "gachapon-guide-japan",
+      "title": "Gachapon Guide Japan 2026: Where to Find, How to Use & 7 Best Machines",
+      "description": "Where to find gachapon in Japan, how to use the machines, and 7 best multi-floor buildings — Akihabara, Ikebukuro, Shibuya stops with capsule toy details.",
+      "wordCount": 2560,
+      "imageCount": 6,
+      "bodyImageCount": 5,
+      "density": 1.953125,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 154
+          }
+        },
+        "title": {
+          "pass": false,
+          "reason": "title too long (70)",
+          "metrics": {
+            "length": 70
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 1.953125,
+            "bodyImageCount": 5
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": false,
+          "reason": "1 stale-year literal(s)",
+          "metrics": {
+            "staleHits": 1
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 2",
+          "metrics": {
+            "wordCount": 2560
+          }
+        }
+      },
+      "passCount": 7,
+      "bucket": "PASS_5_to_7",
+      "noindex": false
+    },
+    {
+      "slug": "game-centers-arcades-japan",
+      "title": "Japanese Game Centers & Arcades 2026: Crane, Rhythm, 70F Tower",
+      "description": "Updated April 2026. Tokyo game centers, the 70-floor tower at RED° TOKYO TOWER, crane games, rhythm games, and Round1 Ikebukuro 24h arcade guide.",
+      "wordCount": 3966,
+      "imageCount": 3,
+      "bodyImageCount": 2,
+      "density": 0.5042864346949067,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 145
+          }
+        },
+        "title": {
+          "pass": false,
+          "reason": "title too long (62)",
+          "metrics": {
+            "length": 62
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": false,
+          "reason": "density 0.50/k < 1.0",
+          "metrics": {
+            "density": 0.5042864346949067,
+            "bodyImageCount": 2
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": false,
+          "reason": "1 stale-year literal(s)",
+          "metrics": {
+            "staleHits": 1
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 3",
+          "metrics": {
+            "wordCount": 3966
+          }
+        }
+      },
+      "passCount": 6,
+      "bucket": "PASS_5_to_7",
+      "noindex": false
+    },
+    {
+      "slug": "gaming-tokyo-2026",
+      "title": "Gaming Tokyo 2026: Pokemon Center, Nintendo Store & 8 More",
+      "description": "Gaming tourism Tokyo 2026: Pokemon Center Tokyo, Nintendo store Shibuya, and 8 more game-fan stops — addresses, hours, and what each store actually stocks.",
+      "wordCount": 1753,
+      "imageCount": 5,
+      "bodyImageCount": 4,
+      "density": 2.2818026240730176,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 155
+          }
+        },
+        "title": {
+          "pass": true,
+          "metrics": {
+            "length": 58
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 2.2818026240730176,
+            "bodyImageCount": 4
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": true,
+          "metrics": {
+            "staleHits": 0
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": true,
+          "metrics": {
+            "wordCount": 1753
+          }
+        }
+      },
+      "passCount": 10,
+      "bucket": "PASS_ALL_10",
+      "noindex": false
+    },
+    {
+      "slug": "ghibli-park-complete-guide-2026",
+      "title": "Ghibli Park Complete Guide 2026: Tickets, Access & Tips",
+      "description": "Ghibli Park 2026 guide: 5 areas, ¥1,000-7,800 tickets, buying from overseas, access from Tokyo or Nagoya, and why one day is not enough.",
+      "wordCount": 2992,
+      "imageCount": 8,
+      "bodyImageCount": 7,
+      "density": 2.339572192513369,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 136
+          }
+        },
+        "title": {
+          "pass": true,
+          "metrics": {
+            "length": 55
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 2.339572192513369,
+            "bodyImageCount": 7
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": false,
+          "reason": "8 stale-year literal(s)",
+          "metrics": {
+            "staleHits": 8
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 1",
+          "metrics": {
+            "wordCount": 2992
+          }
+        }
+      },
+      "passCount": 8,
+      "bucket": "PASS_8plus",
+      "noindex": false
+    },
+    {
+      "slug": "golden-kamuy-golden-week-shinjuku-popup-2026",
+      "title": "Golden Kamuy Golden Week 2026 Shinjuku Popup Cafe Guide",
+      "description": "Golden Kamuy Golden Week popup in Shinjuku Apr 28–May 27, 2026. Pasela + Loscabos menus, prices, free coaster rule, photo spots, and Hokkaido tie-in plan.",
+      "wordCount": 3126,
+      "imageCount": 2,
+      "bodyImageCount": 1,
+      "density": 0.3198976327575176,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 154
+          }
+        },
+        "title": {
+          "pass": true,
+          "metrics": {
+            "length": 55
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": false,
+          "reason": "density 0.32/k < 1.0",
+          "metrics": {
+            "density": 0.3198976327575176,
+            "bodyImageCount": 1
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": false,
+          "reason": "1 stale-year literal(s)",
+          "metrics": {
+            "staleHits": 1
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 2",
+          "metrics": {
+            "wordCount": 3126
+          }
+        }
+      },
+      "passCount": 7,
+      "bucket": "PASS_5_to_7",
+      "noindex": false
+    },
+    {
+      "slug": "golden-week-2026-anime-events-complete-guide",
+      "title": "Golden Week 2026 Anime Events Japan: Complete English Guide",
+      "description": "15 anime cafes, pop-ups, and fairs running during Golden Week 2026 (Apr 29–May 5). Reservation windows, venue access, and three 1-hour area plans.",
+      "wordCount": 2244,
+      "imageCount": 2,
+      "bodyImageCount": 1,
+      "density": 0.44563279857397503,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 146
+          }
+        },
+        "title": {
+          "pass": true,
+          "metrics": {
+            "length": 59
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": false,
+          "reason": "density 0.45/k < 1.0",
+          "metrics": {
+            "density": 0.44563279857397503,
+            "bodyImageCount": 1
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": true,
+          "metrics": {
+            "staleHits": 0
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 1",
+          "metrics": {
+            "wordCount": 2244
+          }
+        }
+      },
+      "passCount": 8,
+      "bucket": "PASS_8plus",
+      "noindex": false
+    },
+    {
+      "slug": "how-to-book-anime-collab-cafe-japan",
+      "title": "Book an Anime Collab Cafe Japan 2026: Lottery & Walk-In Guide",
+      "description": "Book anime collab cafes in Tokyo, 2026: Lawson Ticket, lottery systems, walk-in tips, and how to reserve even when every slot shows sold out.",
+      "wordCount": 3023,
+      "imageCount": 6,
+      "bodyImageCount": 5,
+      "density": 1.6539861065167052,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 141
+          }
+        },
+        "title": {
+          "pass": false,
+          "reason": "title too long (61)",
+          "metrics": {
+            "length": 61
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 1.6539861065167052,
+            "bodyImageCount": 5
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": true,
+          "metrics": {
+            "staleHits": 0
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 1",
+          "metrics": {
+            "wordCount": 3023
+          }
+        }
+      },
+      "passCount": 8,
+      "bucket": "PASS_8plus",
+      "noindex": false
+    },
+    {
+      "slug": "how-to-ride-trains-japan-tourists-2026",
+      "title": "How to Use Trains in Japan: A First-Timer's Anime Guide",
+      "description": "How to use trains in Japan 2026: IC card pickup, ticket gates, Shinkansen booking, women-only cars, last-train clock, jet-lag day-one routes for anime fans.",
+      "wordCount": 3319,
+      "imageCount": 3,
+      "bodyImageCount": 2,
+      "density": 0.6025911419102139,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 156
+          }
+        },
+        "title": {
+          "pass": true,
+          "metrics": {
+            "length": 55
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": false,
+          "reason": "density 0.60/k < 1.0",
+          "metrics": {
+            "density": 0.6025911419102139,
+            "bodyImageCount": 2
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": false,
+          "reason": "1 stale-year literal(s)",
+          "metrics": {
+            "staleHits": 1
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 2",
+          "metrics": {
+            "wordCount": 3319
+          }
+        }
+      },
+      "passCount": 7,
+      "bucket": "PASS_5_to_7",
+      "noindex": false
+    },
+    {
+      "slug": "hypnosismic-sweets-paradise-round8-2026",
+      "title": "Hypnosismic × Sweets Paradise Round 8 — 2026 Visitor Guide",
+      "description": "Hypnosismic × Sweets Paradise round 8, May 1–31 2026. Verified 9-venue calendar, buffet prices, app reservation rule, novelty rules, tourist route.",
+      "wordCount": 3521,
+      "imageCount": 2,
+      "bodyImageCount": 1,
+      "density": 0.28401022436807727,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 147
+          }
+        },
+        "title": {
+          "pass": true,
+          "metrics": {
+            "length": 58
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": false,
+          "reason": "density 0.28/k < 1.0",
+          "metrics": {
+            "density": 0.28401022436807727,
+            "bodyImageCount": 1
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": true,
+          "metrics": {
+            "staleHits": 0
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 1",
+          "metrics": {
+            "wordCount": 3521
+          }
+        }
+      },
+      "passCount": 8,
+      "bucket": "PASS_8plus",
+      "noindex": false
+    },
+    {
+      "slug": "ikebukuro-anime-guide-2026",
+      "title": "Ikebukuro Anime Guide 2026: Animate, Otome Road & Collab Cafes",
+      "description": "Ikebukuro anime fan guide: 9-floor Animate flagship, Otome Road, 4 collab cafe venues, Sunshine City events, and why locals prefer it over Akihabara.",
+      "wordCount": 2428,
+      "imageCount": 7,
+      "bodyImageCount": 6,
+      "density": 2.471169686985173,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 149
+          }
+        },
+        "title": {
+          "pass": false,
+          "reason": "title too long (62)",
+          "metrics": {
+            "length": 62
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 2.471169686985173,
+            "bodyImageCount": 6
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": true,
+          "metrics": {
+            "staleHits": 0
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 1",
+          "metrics": {
+            "wordCount": 2428
+          }
+        }
+      },
+      "passCount": 8,
+      "bucket": "PASS_8plus",
+      "noindex": false
+    },
+    {
+      "slug": "japan-esim-pocket-wifi-sim-card",
+      "title": "Japan eSIM vs Pocket WiFi vs SIM Card: 2026 Tourist Comparison",
+      "description": "Japan eSIM vs pocket WiFi vs physical SIM card 2026 — provider rates, coverage maps, activation steps, and which option fits solo, family, and group travel.",
+      "wordCount": 3217,
+      "imageCount": 6,
+      "bodyImageCount": 5,
+      "density": 1.554243083618278,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 156
+          }
+        },
+        "title": {
+          "pass": false,
+          "reason": "title too long (62)",
+          "metrics": {
+            "length": 62
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 1.554243083618278,
+            "bodyImageCount": 5
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": true,
+          "metrics": {
+            "staleHits": 0
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 1",
+          "metrics": {
+            "wordCount": 3217
+          }
+        }
+      },
+      "passCount": 8,
+      "bucket": "PASS_8plus",
+      "noindex": false
+    },
+    {
+      "slug": "japan-ic-card-transit-guide",
+      "title": "Japan IC Card Guide 2026: Welcome Suica Mobile + Apple/Google Pay",
+      "description": "Japan IC card guide 2026 with Welcome Suica Mobile app setup, Apple Pay and Google Pay walkthroughs, refund rules, and a Pasmo vs Suica vs ICOCA comparison.",
+      "wordCount": 4226,
+      "imageCount": 7,
+      "bodyImageCount": 6,
+      "density": 1.419782300047326,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 156
+          }
+        },
+        "title": {
+          "pass": false,
+          "reason": "title too long (65)",
+          "metrics": {
+            "length": 65
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 1.419782300047326,
+            "bodyImageCount": 6
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": false,
+          "reason": "3 stale-year literal(s)",
+          "metrics": {
+            "staleHits": 3
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 2",
+          "metrics": {
+            "wordCount": 4226
+          }
+        }
+      },
+      "passCount": 7,
+      "bucket": "PASS_5_to_7",
+      "noindex": false
+    },
+    {
+      "slug": "japan-luggage-forwarding-2026",
+      "title": "Japan Luggage Forwarding 2026: Ship Bags for ¥2,000",
+      "description": "Japan luggage forwarding (takkyubin) 2026: Yamato, Sagawa, ¥2,000-3,000 per bag between cities, hotel-to-hotel delivery — how to use it as a tourist.",
+      "wordCount": 2746,
+      "imageCount": 6,
+      "bodyImageCount": 5,
+      "density": 1.820830298616169,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 149
+          }
+        },
+        "title": {
+          "pass": true,
+          "metrics": {
+            "length": 51
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 1.820830298616169,
+            "bodyImageCount": 5
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": true,
+          "metrics": {
+            "staleHits": 0
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": true,
+          "metrics": {
+            "wordCount": 2746
+          }
+        }
+      },
+      "passCount": 10,
+      "bucket": "PASS_ALL_10",
+      "noindex": false
+    },
+    {
+      "slug": "japan-proxy-shopping-2026",
+      "title": "Japan Proxy Shopping 2026: Buy Anime Figures & Merch Online",
+      "description": "Japan proxy shopping 2026: Buyee, ZenMarket, Tenso, FromJapan, Jauce compared. Fees, shipping, Mercari + Yahoo Auctions for international anime fans.",
+      "wordCount": 3074,
+      "imageCount": 6,
+      "bodyImageCount": 5,
+      "density": 1.6265452179570592,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 149
+          }
+        },
+        "title": {
+          "pass": true,
+          "metrics": {
+            "length": 59
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 1.6265452179570592,
+            "bodyImageCount": 5
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": false,
+          "reason": "1 stale-year literal(s)",
+          "metrics": {
+            "staleHits": 1
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 1",
+          "metrics": {
+            "wordCount": 3074
+          }
+        }
+      },
+      "passCount": 8,
+      "bucket": "PASS_8plus",
+      "noindex": false
+    },
+    {
+      "slug": "japan-rail-pass-2026-guide",
+      "title": "Japan Rail Pass 2026: Worth ¥50,000? Calculator Inside",
+      "description": "Japan Rail Pass 2026 ¥50,000 for 7 days — when it saves money, when regional passes win. Math + routes for first-timers after the 70% price hike.",
+      "wordCount": 3779,
+      "imageCount": 7,
+      "bodyImageCount": 6,
+      "density": 1.587721619476052,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 145
+          }
+        },
+        "title": {
+          "pass": true,
+          "metrics": {
+            "length": 54
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 1.587721619476052,
+            "bodyImageCount": 6
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": false,
+          "reason": "6 stale-year literal(s)",
+          "metrics": {
+            "staleHits": 6
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 1",
+          "metrics": {
+            "wordCount": 3779
+          }
+        }
+      },
+      "passCount": 8,
+      "bucket": "PASS_8plus",
+      "noindex": false
+    },
+    {
+      "slug": "japan-rail-pass-guide-anime-fans",
+      "title": "Japan Rail Pass Guide for Anime Fans: Is It Worth It? (2026)",
+      "description": "Japan Rail Pass guide for anime fans (2026): collab cafes in Tokyo, One Piece statues in Kumamoto, Den Den Town — route, cost, and activation tips.",
+      "wordCount": 2309,
+      "imageCount": 7,
+      "bodyImageCount": 6,
+      "density": 2.59852750108272,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 147
+          }
+        },
+        "title": {
+          "pass": true,
+          "metrics": {
+            "length": 60
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 2.59852750108272,
+            "bodyImageCount": 6
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": false,
+          "reason": "5 stale-year literal(s)",
+          "metrics": {
+            "staleHits": 5
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 1",
+          "metrics": {
+            "wordCount": 2309
+          }
+        }
+      },
+      "passCount": 8,
+      "bucket": "PASS_8plus",
+      "noindex": true
+    },
+    {
+      "slug": "japan-travel-insurance-2026",
+      "title": "Japan Travel Insurance 2026: Best Plans Compared (from $45)",
+      "description": "Japan travel insurance 2026: what to buy, skip, real hospital costs without insurance (¥45,000 / 3hrs), and 4 policies anime fans should compare.",
+      "wordCount": 3104,
+      "imageCount": 8,
+      "bodyImageCount": 7,
+      "density": 2.2551546391752577,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 145
+          }
+        },
+        "title": {
+          "pass": true,
+          "metrics": {
+            "length": 59
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 2.2551546391752577,
+            "bodyImageCount": 7
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": false,
+          "reason": "2 stale-year literal(s)",
+          "metrics": {
+            "staleHits": 2
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 1",
+          "metrics": {
+            "wordCount": 3104
+          }
+        }
+      },
+      "passCount": 8,
+      "bucket": "PASS_8plus",
+      "noindex": false
+    },
+    {
+      "slug": "japan-trip-checklist-anime-fans-2026",
+      "title": "Japan Trip Checklist for Anime Fans 2026: What to Book First",
+      "description": "Japan trip checklist for anime fans 2026: what to book at 3mo, 1mo, 2wk, 1wk — JR Pass, collab cafe lotteries, AnimeJapan, Comiket timing.",
+      "wordCount": 4566,
+      "imageCount": 5,
+      "bodyImageCount": 4,
+      "density": 0.8760402978537013,
+      "axes": {
+        "metaDesc": {
+          "pass": false,
+          "reason": "desc echoes title",
+          "metrics": {
+            "length": 138
+          }
+        },
+        "title": {
+          "pass": true,
+          "metrics": {
+            "length": 60
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": false,
+          "reason": "density 0.88/k < 1.0",
+          "metrics": {
+            "density": 0.8760402978537013,
+            "bodyImageCount": 4
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": true,
+          "metrics": {
+            "staleHits": 0
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 2",
+          "metrics": {
+            "wordCount": 4566
+          }
+        }
+      },
+      "passCount": 7,
+      "bucket": "PASS_5_to_7",
+      "noindex": false
+    },
+    {
+      "slug": "jjk-sweets-paradise-complete-guide-2026",
+      "title": "JJK Sweets Paradise 2026: 9-Store Complete Guide",
+      "description": "Book JJK x Sweets Paradise 2026 at 9 stores nationwide. Menu from 900 yen, per-venue April dates, app reservation walkthrough, and the plan that beats sellout.",
+      "wordCount": 3802,
+      "imageCount": 7,
+      "bodyImageCount": 6,
+      "density": 1.5781167806417675,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 159
+          }
+        },
+        "title": {
+          "pass": true,
+          "metrics": {
+            "length": 48
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 1.5781167806417675,
+            "bodyImageCount": 6
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": false,
+          "reason": "4 stale-year literal(s)",
+          "metrics": {
+            "staleHits": 4
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 1",
+          "metrics": {
+            "wordCount": 3802
+          }
+        }
+      },
+      "passCount": 8,
+      "bucket": "PASS_8plus",
+      "noindex": false
+    },
+    {
+      "slug": "jojo-stone-ocean-cafe-jojo-world-2026",
+      "title": "JoJo Stone Ocean Cafe 2026: JoJo World Harajuku Guide",
+      "description": "Book the JoJo Stone Ocean cafe at JoJo World Harajuku 2026. 6 Stand drinks at 850 yen, figure lottery, 800 yen entry — English guide with menu prices.",
+      "wordCount": 2871,
+      "imageCount": 4,
+      "bodyImageCount": 3,
+      "density": 1.0449320794148382,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 150
+          }
+        },
+        "title": {
+          "pass": true,
+          "metrics": {
+            "length": 53
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 1.0449320794148382,
+            "bodyImageCount": 3
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": true,
+          "metrics": {
+            "staleHits": 0
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": true,
+          "metrics": {
+            "wordCount": 2871
+          }
+        }
+      },
+      "passCount": 10,
+      "bucket": "PASS_ALL_10",
+      "noindex": false
+    },
+    {
+      "slug": "jr-pass-anime-pilgrimage-routes-2026",
+      "title": "JR Pass for Anime Pilgrimages 2026: Routes, Worth It, Prices",
+      "description": "Is the JR Pass worth it for anime pilgrimages? 2026 prices, 4 route calculators (Your Name, Demon Slayer, One Piece, Anohana), when it saves money.",
+      "wordCount": 2931,
+      "imageCount": 3,
+      "bodyImageCount": 2,
+      "density": 0.6823609689525759,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 147
+          }
+        },
+        "title": {
+          "pass": true,
+          "metrics": {
+            "length": 60
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": false,
+          "reason": "density 0.68/k < 1.0",
+          "metrics": {
+            "density": 0.6823609689525759,
+            "bodyImageCount": 2
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": false,
+          "reason": "1 stale-year literal(s)",
+          "metrics": {
+            "staleHits": 1
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 2",
+          "metrics": {
+            "wordCount": 2931
+          }
+        }
+      },
+      "passCount": 7,
+      "bucket": "PASS_5_to_7",
+      "noindex": true
+    },
+    {
+      "slug": "jujutsu-kaisen-cafes-japan-2026-guide",
+      "title": "Jujutsu Kaisen Cafes Japan 2026: Tokyo vs Osaka, Traveler Guide",
+      "description": "Looking for the best Jujutsu Kaisen cafe in Japan in 2026? This practical guide compares Tokyo, Osaka, and other cities, with dates, reservation rules, and...",
+      "wordCount": 1715,
+      "imageCount": 5,
+      "bodyImageCount": 4,
+      "density": 2.3323615160349855,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 158
+          }
+        },
+        "title": {
+          "pass": false,
+          "reason": "title too long (63)",
+          "metrics": {
+            "length": 63
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 2.3323615160349855,
+            "bodyImageCount": 4
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": true,
+          "metrics": {
+            "staleHits": 0
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 1",
+          "metrics": {
+            "wordCount": 1715
+          }
+        }
+      },
+      "passCount": 8,
+      "bucket": "PASS_8plus",
+      "noindex": true
+    },
+    {
+      "slug": "jujutsu-kaisen-shibuya-locations-2026",
+      "title": "Jujutsu Kaisen Shibuya Locations: Complete 2026 Guide",
+      "description": "Jujutsu Kaisen Shibuya pilgrimage guide 2026: Shibuya Incident arc locations, walking routes, and where the show's scenes actually map onto real streets.",
+      "wordCount": 3982,
+      "imageCount": 10,
+      "bodyImageCount": 9,
+      "density": 2.260170768458061,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 153
+          }
+        },
+        "title": {
+          "pass": true,
+          "metrics": {
+            "length": 53
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 2.260170768458061,
+            "bodyImageCount": 9
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": false,
+          "reason": "2 stale-year literal(s)",
+          "metrics": {
+            "staleHits": 2
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 1",
+          "metrics": {
+            "wordCount": 3982
+          }
+        }
+      },
+      "passCount": 8,
+      "bucket": "PASS_8plus",
+      "noindex": false
+    },
+    {
+      "slug": "kamakura-slam-dunk-pilgrimage-2026",
+      "title": "Slam Dunk Kamakura 2026: Crossing, Enoden Pass & 3 Nearby Spots",
+      "description": "Slam Dunk Kamakura 2026 day trip guide: the real crossing, Enoden 1-Day Pass buying flow, seasonal best-time table, plus Hachimangu, Komachi-dori, Hasedera.",
+      "wordCount": 5642,
+      "imageCount": 9,
+      "bodyImageCount": 8,
+      "density": 1.4179369018078696,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 156
+          }
+        },
+        "title": {
+          "pass": false,
+          "reason": "title too long (63)",
+          "metrics": {
+            "length": 63
+          }
+        },
+        "fabrication": {
+          "pass": false,
+          "reason": "2 first-person hit(s)",
+          "metrics": {
+            "hits": 2
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 1.4179369018078696,
+            "bodyImageCount": 8
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": false,
+          "reason": "15 stale-year literal(s)",
+          "metrics": {
+            "staleHits": 15
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 3",
+          "metrics": {
+            "wordCount": 5642
+          }
+        }
+      },
+      "passCount": 6,
+      "bucket": "PASS_5_to_7",
+      "noindex": false
+    },
+    {
+      "slug": "krispy-kreme-mario-galaxy-shibuya-2026",
+      "title": "Krispy Kreme x Mario Galaxy Donuts 2026: Shibuya Guide",
+      "description": "Krispy Kreme Japan x Super Mario Galaxy launched 4 donuts Apr 8, 2026 (¥388–540) with a Shibuya Cine Tower makeover. What to order before it ends.",
+      "wordCount": 1519,
+      "imageCount": 5,
+      "bodyImageCount": 4,
+      "density": 2.6333113890717574,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 146
+          }
+        },
+        "title": {
+          "pass": true,
+          "metrics": {
+            "length": 54
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 2.6333113890717574,
+            "bodyImageCount": 4
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": true,
+          "metrics": {
+            "staleHits": 0
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": true,
+          "metrics": {
+            "wordCount": 1519
+          }
+        }
+      },
+      "passCount": 10,
+      "bucket": "PASS_ALL_10",
+      "noindex": false
+    },
+    {
+      "slug": "kyoto-anime-guide-2026",
+      "title": "Kyoto Anime Guide 2026: Pilgrimages, Studios & Otaku Culture",
+      "description": "Kyoto anime 2026: KyoAni studio area in Uji, Hibike Euphonium pilgrimage stops, K-On! filming locations, Fushimi Inari, and the city's anime shopping districts.",
+      "wordCount": 3780,
+      "imageCount": 8,
+      "bodyImageCount": 7,
+      "density": 1.8518518518518519,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 160
+          }
+        },
+        "title": {
+          "pass": true,
+          "metrics": {
+            "length": 60
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 1.8518518518518519,
+            "bodyImageCount": 7
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": true,
+          "metrics": {
+            "staleHits": 0
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": true,
+          "metrics": {
+            "wordCount": 3780
+          }
+        }
+      },
+      "passCount": 10,
+      "bucket": "PASS_ALL_10",
+      "noindex": false
+    },
+    {
+      "slug": "lawson-ticket-anime-cafe-booking",
+      "title": "How to Book Anime Cafe via Lawson in 2026: Step-by-Step English Guide",
+      "description": "Book an anime cafe via Lawson Ticket, 2026: step-by-step Loppi machine walkthrough, QR code pickup, cash payment rules, and 5 common FAQs.",
+      "wordCount": 3771,
+      "imageCount": 6,
+      "bodyImageCount": 5,
+      "density": 1.3259082471492973,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 138
+          }
+        },
+        "title": {
+          "pass": false,
+          "reason": "title too long (69)",
+          "metrics": {
+            "length": 69
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 1.3259082471492973,
+            "bodyImageCount": 5
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": true,
+          "metrics": {
+            "staleHits": 0
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 1",
+          "metrics": {
+            "wordCount": 3771
+          }
+        }
+      },
+      "passCount": 8,
+      "bucket": "PASS_8plus",
+      "noindex": false
+    },
+    {
+      "slug": "luvlab-harajuku-diy-accessory-experience",
+      "title": "LuvLab Harajuku DIY: Italian Charms, Snake Bracelets, Keychains",
+      "description": "LuvLab Harajuku is a walk-in DIY accessory shop 2 min from JR Harajuku Station. Make Italian charm watches, snake bracelets, and custom keychains from 300 yen.",
+      "wordCount": 2160,
+      "imageCount": 17,
+      "bodyImageCount": 16,
+      "density": 7.407407407407407,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 159
+          }
+        },
+        "title": {
+          "pass": false,
+          "reason": "title too long (63)",
+          "metrics": {
+            "length": 63
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 7.407407407407407,
+            "bodyImageCount": 16
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": true,
+          "metrics": {
+            "staleHits": 0
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 1",
+          "metrics": {
+            "wordCount": 2160
+          }
+        }
+      },
+      "passCount": 8,
+      "bucket": "PASS_8plus",
+      "noindex": false
+    },
+    {
+      "slug": "my-hero-academia-cafe-tokyo-2026",
+      "title": "My Hero Academia Cafe Tokyo 2026: Ikebukuro Guide for Anime Travelers",
+      "description": "Archive of the My Hero Academia 'Diner' pop-up at DECOTTO Animate Cafe Ikebukuro (Apr 3-26, 2026). Event has ended. See current MHA coverage in body.",
+      "wordCount": 1758,
+      "imageCount": 6,
+      "bodyImageCount": 5,
+      "density": 2.844141069397042,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 149
+          }
+        },
+        "title": {
+          "pass": false,
+          "reason": "title too long (69)",
+          "metrics": {
+            "length": 69
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 2.844141069397042,
+            "bodyImageCount": 5
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": false,
+          "reason": "1 stale-year literal(s)",
+          "metrics": {
+            "staleHits": 1
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 2",
+          "metrics": {
+            "wordCount": 1758
+          }
+        }
+      },
+      "passCount": 7,
+      "bucket": "PASS_5_to_7",
+      "noindex": true
+    },
+    {
+      "slug": "my-hero-academia-waffle-diner-ikebukuro-2026",
+      "title": "My Hero Academia Waffle Diner Ikebukuro 2026: Final Weekend",
+      "description": "My Hero Academia waffle diner at DECOTTO Ikebukuro, through Apr 26, 2026. Menu, prices, queue times, TableCheck booking, and what to order first.",
+      "wordCount": 2674,
+      "imageCount": 5,
+      "bodyImageCount": 4,
+      "density": 1.4958863126402393,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 145
+          }
+        },
+        "title": {
+          "pass": true,
+          "metrics": {
+            "length": 59
+          }
+        },
+        "fabrication": {
+          "pass": false,
+          "reason": "1 first-person hit(s)",
+          "metrics": {
+            "hits": 1
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 1.4958863126402393,
+            "bodyImageCount": 4
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": true,
+          "metrics": {
+            "staleHits": 0
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 1",
+          "metrics": {
+            "wordCount": 2674
+          }
+        }
+      },
+      "passCount": 8,
+      "bucket": "PASS_8plus",
+      "noindex": false
+    },
+    {
+      "slug": "nakano-broadway-guide",
+      "title": "Nakano Broadway Guide 2026 — Tokyo’s Best-Kept Anime Shopping Secret",
+      "description": "Nakano Broadway 2026: 300+ anime shops, 30+ Mandarake stores, Daily Chico soft serve, floor-by-floor guide, and why serious collectors skip Akihabara.",
+      "wordCount": 2349,
+      "imageCount": 4,
+      "bodyImageCount": 3,
+      "density": 1.277139208173691,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 150
+          }
+        },
+        "title": {
+          "pass": false,
+          "reason": "title too long (68)",
+          "metrics": {
+            "length": 68
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 1.277139208173691,
+            "bodyImageCount": 3
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": true,
+          "metrics": {
+            "staleHits": 0
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 1",
+          "metrics": {
+            "wordCount": 2349
+          }
+        }
+      },
+      "passCount": 8,
+      "bucket": "PASS_8plus",
+      "noindex": false
+    },
+    {
+      "slug": "naruto-tokyo-pilgrimage-2026",
+      "title": "Naruto Tokyo Pilgrimage: A Complete Guide to Shinobi Locations",
+      "description": "Real-world Naruto pilgrimage spots across Tokyo: Jump Shop, exhibition halls, and seichi junrei stops — plus where to eat ramen on the route.",
+      "wordCount": 2545,
+      "imageCount": 7,
+      "bodyImageCount": 6,
+      "density": 2.357563850687623,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 141
+          }
+        },
+        "title": {
+          "pass": false,
+          "reason": "title too long (62)",
+          "metrics": {
+            "length": 62
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 2.357563850687623,
+            "bodyImageCount": 6
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": false,
+          "reason": "1 stale-year literal(s)",
+          "metrics": {
+            "staleHits": 1
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 2",
+          "metrics": {
+            "wordCount": 2545
+          }
+        }
+      },
+      "passCount": 7,
+      "bucket": "PASS_5_to_7",
+      "noindex": false
+    },
+    {
+      "slug": "okami-20th-monster-hunter-sakaba-tokyo-osaka-2026",
+      "title": "Okami 20th x Monster Hunter Sakaba 2026: Tokyo & Osaka Cafe Guide",
+      "description": "Okami 20th x Monster Hunter Sakaba collab (Apr 20–Jun 1, 2026). Menu, prices, Akihabara and Namba reservations, and a Tokyo-vs-Osaka verdict.",
+      "wordCount": 2067,
+      "imageCount": 4,
+      "bodyImageCount": 3,
+      "density": 1.4513788098693758,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 141
+          }
+        },
+        "title": {
+          "pass": false,
+          "reason": "title too long (65)",
+          "metrics": {
+            "length": 65
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 1.4513788098693758,
+            "bodyImageCount": 3
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": false,
+          "reason": "5 stale-year literal(s)",
+          "metrics": {
+            "staleHits": 5
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 2",
+          "metrics": {
+            "wordCount": 2067
+          }
+        }
+      },
+      "passCount": 7,
+      "bucket": "PASS_5_to_7",
+      "noindex": false
+    },
+    {
+      "slug": "one-piece-cafe-gene-shibuya-guide-2026",
+      "title": "One Piece Cafe GENE Shibuya 2026: Real Visitor Guide",
+      "description": "One Piece Cafe GENE at Shibuya PARCO — reservation, Phase 2 menu with prices, skull bowl ramen, birthday cards, and tips for international visitors.",
+      "wordCount": 3145,
+      "imageCount": 8,
+      "bodyImageCount": 7,
+      "density": 2.2257551669316378,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 148
+          }
+        },
+        "title": {
+          "pass": true,
+          "metrics": {
+            "length": 52
+          }
+        },
+        "fabrication": {
+          "pass": false,
+          "reason": "1 first-person hit(s)",
+          "metrics": {
+            "hits": 1
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 2.2257551669316378,
+            "bodyImageCount": 7
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": true,
+          "metrics": {
+            "staleHits": 0
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 1",
+          "metrics": {
+            "wordCount": 3145
+          }
+        }
+      },
+      "passCount": 8,
+      "bucket": "PASS_8plus",
+      "noindex": false
+    },
+    {
+      "slug": "one-piece-kumamoto-statue-tour",
+      "title": "One Piece Kumamoto 2026: All 10 Straw Hat Statues & Itinerary",
+      "description": "All 10 Straw Hat crew statues in Kumamoto with maps, transit access, and a 2-day itinerary that pairs the statue tour with Kumamoto Castle and local food.",
+      "wordCount": 3029,
+      "imageCount": 9,
+      "bodyImageCount": 8,
+      "density": 2.641135688345989,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 154
+          }
+        },
+        "title": {
+          "pass": false,
+          "reason": "title too long (61)",
+          "metrics": {
+            "length": 61
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 2.641135688345989,
+            "bodyImageCount": 8
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": false,
+          "reason": "4 stale-year literal(s)",
+          "metrics": {
+            "staleHits": 4
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 2",
+          "metrics": {
+            "wordCount": 3029
+          }
+        }
+      },
+      "passCount": 7,
+      "bucket": "PASS_5_to_7",
+      "noindex": false
+    },
+    {
+      "slug": "one-piece-tokyo-guide-2026",
+      "title": "One Piece Tokyo Guide 2026: Where to Find Every Straw Hat Experience",
+      "description": "One Piece in Tokyo 2026: Base Shop Shinjuku, 5 Mugiwara Stores, One Piece Cafe GENE, and Jump Shop Jimbocho — addresses, hours, and shopping route.",
+      "wordCount": 3584,
+      "imageCount": 10,
+      "bodyImageCount": 9,
+      "density": 2.5111607142857144,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 147
+          }
+        },
+        "title": {
+          "pass": false,
+          "reason": "title too long (68)",
+          "metrics": {
+            "length": 68
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 2.5111607142857144,
+            "bodyImageCount": 9
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": false,
+          "reason": "2 stale-year literal(s)",
+          "metrics": {
+            "staleHits": 2
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 2",
+          "metrics": {
+            "wordCount": 3584
+          }
+        }
+      },
+      "passCount": 7,
+      "bucket": "PASS_5_to_7",
+      "noindex": false
+    },
+    {
+      "slug": "osaka-anime-cafes-complete-guide-2026",
+      "title": "Osaka Anime Cafe Guide 2026: 12+ Collab Cafes & Pop-Ups Running Now",
+      "description": "Active anime collab cafes in Osaka, 2026: Demon Slayer ufotable, Jujutsu Kaisen, Blue Lock, Okami 20th, Black Jack, plus a Umeda-to-Namba plan.",
+      "wordCount": 3689,
+      "imageCount": 6,
+      "bodyImageCount": 5,
+      "density": 1.3553808620222283,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 143
+          }
+        },
+        "title": {
+          "pass": false,
+          "reason": "title too long (67)",
+          "metrics": {
+            "length": 67
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 1.3553808620222283,
+            "bodyImageCount": 5
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": true,
+          "metrics": {
+            "staleHits": 0
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 1",
+          "metrics": {
+            "wordCount": 3689
+          }
+        }
+      },
+      "passCount": 8,
+      "bucket": "PASS_8plus",
+      "noindex": false
+    },
+    {
+      "slug": "osaka-anime-collab-cafes-pop-culture-2026",
+      "title": "Osaka Anime & Collab Cafes 2026: Den Den Town, Namba & Beyond",
+      "description": "Osaka anime 2026: 8-12 collab cafes, Capcom Cafe Umeda, Chugai Grace, Den Den Town shopping, USJ attractions — Tokyo vs Osaka for anime fans.",
+      "wordCount": 1844,
+      "imageCount": 7,
+      "bodyImageCount": 6,
+      "density": 3.2537960954446854,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 141
+          }
+        },
+        "title": {
+          "pass": false,
+          "reason": "title too long (61)",
+          "metrics": {
+            "length": 61
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 3.2537960954446854,
+            "bodyImageCount": 6
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": true,
+          "metrics": {
+            "staleHits": 0
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 1",
+          "metrics": {
+            "wordCount": 1844
+          }
+        }
+      },
+      "passCount": 8,
+      "bucket": "PASS_8plus",
+      "noindex": true
+    },
+    {
+      "slug": "osaka-anime-guide-den-den-town",
+      "title": "Osaka Anime Guide 2026: Den Den Town, Collab Cafes & Beyond",
+      "description": "Den Den Town is Osaka's answer to Akihabara — smaller, less crowded, packed with anime deals. 2026 guide covers shops, gachapon, maid cafes, and routes.",
+      "wordCount": 3348,
+      "imageCount": 4,
+      "bodyImageCount": 3,
+      "density": 0.8960573476702509,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 152
+          }
+        },
+        "title": {
+          "pass": true,
+          "metrics": {
+            "length": 59
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": false,
+          "reason": "density 0.90/k < 1.0",
+          "metrics": {
+            "density": 0.8960573476702509,
+            "bodyImageCount": 3
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": false,
+          "reason": "2 stale-year literal(s)",
+          "metrics": {
+            "staleHits": 2
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 2",
+          "metrics": {
+            "wordCount": 3348
+          }
+        }
+      },
+      "passCount": 7,
+      "bucket": "PASS_5_to_7",
+      "noindex": false
+    },
+    {
+      "slug": "ouran-host-club-20th-anniversary-cafes-2026",
+      "title": "Ouran Host Club 20th Anniversary Cafes 2026: Japan Guide",
+      "description": "2026 Ouran 20th Anniversary cafes: motto cafe Osaka Apr 22-Jul 5, Tree Village Tokyo through May 1, Osaka+Hakata May 23-Jun 4. Dates, menu, fees.",
+      "wordCount": 3216,
+      "imageCount": 2,
+      "bodyImageCount": 1,
+      "density": 0.31094527363184077,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 145
+          }
+        },
+        "title": {
+          "pass": true,
+          "metrics": {
+            "length": 56
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": false,
+          "reason": "density 0.31/k < 1.0",
+          "metrics": {
+            "density": 0.31094527363184077,
+            "bodyImageCount": 1
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": false,
+          "reason": "3 stale-year literal(s)",
+          "metrics": {
+            "staleHits": 3
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 2",
+          "metrics": {
+            "wordCount": 3216
+          }
+        }
+      },
+      "passCount": 7,
+      "bucket": "PASS_5_to_7",
+      "noindex": false
+    },
+    {
+      "slug": "pokemon-center-tokyo-complete-guide-2026",
+      "title": "Pokemon Center Tokyo 2026: 4 Stores + Cafe Complete Guide",
+      "description": "Visit all 4 Pokemon Centers in Tokyo: Shibuya, Ikebukuro Mega, Nihonbashi DX, Skytree. Store exclusives, opening hours, and the Pokemon Cafe reservation flow.",
+      "wordCount": 3166,
+      "imageCount": 7,
+      "bodyImageCount": 6,
+      "density": 1.8951358180669615,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 158
+          }
+        },
+        "title": {
+          "pass": true,
+          "metrics": {
+            "length": 57
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 1.8951358180669615,
+            "bodyImageCount": 6
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": false,
+          "reason": "6 stale-year literal(s)",
+          "metrics": {
+            "staleHits": 6
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 1",
+          "metrics": {
+            "wordCount": 3166
+          }
+        }
+      },
+      "passCount": 8,
+      "bucket": "PASS_8plus",
+      "noindex": false
+    },
+    {
+      "slug": "pokemon-karaoke-manekineko-30th-anniversary-2026",
+      "title": "Pokemon Karaoke Manekineko 30th Anniversary 2026 Guide",
+      "description": "Book a Pokemon 30th collab room at Karaoke Manekineko April 24 to June 14, 2026. Dates, prefectures, pack tiers, wallpapers, cards, and foreign-visitor tips.",
+      "wordCount": 2858,
+      "imageCount": 7,
+      "bodyImageCount": 6,
+      "density": 2.099370188943317,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 157
+          }
+        },
+        "title": {
+          "pass": true,
+          "metrics": {
+            "length": 54
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 2.099370188943317,
+            "bodyImageCount": 6
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": true,
+          "metrics": {
+            "staleHits": 0
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": true,
+          "metrics": {
+            "wordCount": 2858
+          }
+        }
+      },
+      "passCount": 10,
+      "bucket": "PASS_ALL_10",
+      "noindex": false
+    },
+    {
+      "slug": "pokepark-kanto-tokyo-2026",
+      "title": "PokéPark Kanto Complete Guide 2026: Tickets, Areas & Tips",
+      "description": "PokéPark Kanto (Yomiuriland): tickets from ¥4,700, advance-only reservations, 3 zones, Pokémon Forest with 600+ species, why 5 hours isn't enough.",
+      "wordCount": 2693,
+      "imageCount": 8,
+      "bodyImageCount": 7,
+      "density": 2.5993316004455997,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 146
+          }
+        },
+        "title": {
+          "pass": true,
+          "metrics": {
+            "length": 57
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 2.5993316004455997,
+            "bodyImageCount": 7
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": true,
+          "metrics": {
+            "staleHits": 0
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": true,
+          "metrics": {
+            "wordCount": 2693
+          }
+        }
+      },
+      "passCount": 10,
+      "bucket": "PASS_ALL_10",
+      "noindex": false
+    },
+    {
+      "slug": "ranma-japan-2026-exhibition-tree-village-guide",
+      "title": "Ranma 1/2 Japan 2026: Exhibition + Tree Village Pop-Up Guide",
+      "description": "Ranma 1/2 Japan 2026: Sunshine City Exhibition Apr 23-May 12 + Tree Village Pop-Up Tokyo May 2-29, Osaka/Hakata Jun 20-Jul 2. Tickets, merch, plan.",
+      "wordCount": 3576,
+      "imageCount": 2,
+      "bodyImageCount": 1,
+      "density": 0.2796420581655481,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 147
+          }
+        },
+        "title": {
+          "pass": true,
+          "metrics": {
+            "length": 60
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": false,
+          "reason": "density 0.28/k < 1.0",
+          "metrics": {
+            "density": 0.2796420581655481,
+            "bodyImageCount": 1
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": false,
+          "reason": "4 stale-year literal(s)",
+          "metrics": {
+            "staleHits": 4
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 2",
+          "metrics": {
+            "wordCount": 3576
+          }
+        }
+      },
+      "passCount": 7,
+      "bucket": "PASS_5_to_7",
+      "noindex": false
+    },
+    {
+      "slug": "re-zero-curemaid-cafe-akihabara-2026",
+      "title": "Re:Zero × Cure Maid Café Akihabara 2026 Visitor Guide",
+      "description": "Re:Zero × Cure Maid Café Akihabara collab Apr 29–May 17, 2026. Verified menu, prices, 11-card novelty rule, Atre popup tie-in, matoca queue, Akihabara plan.",
+      "wordCount": 3352,
+      "imageCount": 2,
+      "bodyImageCount": 1,
+      "density": 0.2983293556085919,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 156
+          }
+        },
+        "title": {
+          "pass": true,
+          "metrics": {
+            "length": 53
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": false,
+          "reason": "density 0.30/k < 1.0",
+          "metrics": {
+            "density": 0.2983293556085919,
+            "bodyImageCount": 1
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": true,
+          "metrics": {
+            "staleHits": 0
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 1",
+          "metrics": {
+            "wordCount": 3352
+          }
+        }
+      },
+      "passCount": 8,
+      "bucket": "PASS_8plus",
+      "noindex": false
+    },
+    {
+      "slug": "rilakkuma-cafe-tokyo-osaka-2026",
+      "title": "Rilakkuma Cafe Tokyo 2026: Shibuya 109 Booking & Menu Guide",
+      "description": "Book the Rilakkuma Cafe Shibuya 109 for April 23 to May 31, 2026. Tokyo, Osaka, Nagoya dates, 715-yen deposit, menu, merch, and step-by-step reservation guide.",
+      "wordCount": 3238,
+      "imageCount": 6,
+      "bodyImageCount": 5,
+      "density": 1.5441630636195183,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 159
+          }
+        },
+        "title": {
+          "pass": true,
+          "metrics": {
+            "length": 59
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 1.5441630636195183,
+            "bodyImageCount": 5
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": true,
+          "metrics": {
+            "staleHits": 0
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": true,
+          "metrics": {
+            "wordCount": 3238
+          }
+        }
+      },
+      "passCount": 10,
+      "bucket": "PASS_ALL_10",
+      "noindex": false
+    },
+    {
+      "slug": "shibuya-harajuku-pop-culture-guide",
+      "title": "Shibuya & Harajuku Pop Culture 2026: Gaming, Kawaii, Walking",
+      "description": "Shibuya PARCO 6F Cyberspace, Harajuku's Takeshita Street, Cat Street, Kiddy Land, and a 2026 walking route through Tokyo's pop culture and kawaii districts.",
+      "wordCount": 2667,
+      "imageCount": 3,
+      "bodyImageCount": 2,
+      "density": 0.7499062617172854,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 156
+          }
+        },
+        "title": {
+          "pass": true,
+          "metrics": {
+            "length": 60
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": false,
+          "reason": "density 0.75/k < 1.0",
+          "metrics": {
+            "density": 0.7499062617172854,
+            "bodyImageCount": 2
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": false,
+          "reason": "1 stale-year literal(s)",
+          "metrics": {
+            "staleHits": 1
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 2",
+          "metrics": {
+            "wordCount": 2667
+          }
+        }
+      },
+      "passCount": 7,
+      "bucket": "PASS_5_to_7",
+      "noindex": false
+    },
+    {
+      "slug": "ship-anime-figures-merch-home-japan",
+      "title": "How to Ship Anime Figures & Merch Home from Japan (2026)",
+      "description": "Ship anime figures home from Japan 2026: Japan Post EMS/SAL, Yamato hotel pickup, in-store shipping, proxy services, and how to pack so nothing breaks.",
+      "wordCount": 3954,
+      "imageCount": 4,
+      "bodyImageCount": 3,
+      "density": 0.7587253414264037,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 151
+          }
+        },
+        "title": {
+          "pass": true,
+          "metrics": {
+            "length": 56
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": false,
+          "reason": "density 0.76/k < 1.0",
+          "metrics": {
+            "density": 0.7587253414264037,
+            "bodyImageCount": 3
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": true,
+          "metrics": {
+            "staleHits": 0
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 1",
+          "metrics": {
+            "wordCount": 3954
+          }
+        }
+      },
+      "passCount": 8,
+      "bucket": "PASS_8plus",
+      "noindex": false
+    },
+    {
+      "slug": "slam-dunk-kamakura-pilgrimage-2026",
+      "title": "Slam Dunk Kamakura Pilgrimage 2026: The Famous Crossing & Beyond",
+      "description": "Slam Dunk's iconic Kamakurakokomae No.1 Railroad Crossing with the Shonan coast behind it — full pilgrimage route, transit access, and seasonal photo timing.",
+      "wordCount": 2822,
+      "imageCount": 8,
+      "bodyImageCount": 7,
+      "density": 2.4805102763997167,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 157
+          }
+        },
+        "title": {
+          "pass": false,
+          "reason": "title too long (64)",
+          "metrics": {
+            "length": 64
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 2.4805102763997167,
+            "bodyImageCount": 7
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": false,
+          "reason": "6 stale-year literal(s)",
+          "metrics": {
+            "staleHits": 6
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 2",
+          "metrics": {
+            "wordCount": 2822
+          }
+        }
+      },
+      "passCount": 7,
+      "bucket": "PASS_5_to_7",
+      "noindex": true
+    },
+    {
+      "slug": "spy-family-tokyo-fan-day-2026",
+      "title": "SPY×FAMILY Tokyo Fan Day: Events, Shops & Cafes (2026)",
+      "description": "SPY×FAMILY Tokyo fan day: current events, merch shops, and collab cafes in one plan — where to go, what to buy, and how to line up the day.",
+      "wordCount": 1598,
+      "imageCount": 4,
+      "bodyImageCount": 3,
+      "density": 1.8773466833541927,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 139
+          }
+        },
+        "title": {
+          "pass": true,
+          "metrics": {
+            "length": 54
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 1.8773466833541927,
+            "bodyImageCount": 3
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": true,
+          "metrics": {
+            "staleHits": 0
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": true,
+          "metrics": {
+            "wordCount": 1598
+          }
+        }
+      },
+      "passCount": 10,
+      "bucket": "PASS_ALL_10",
+      "noindex": false
+    },
+    {
+      "slug": "tokyo-anime-collab-cafes-spring-2026",
+      "title": "Tokyo Anime Collab Cafes Spring 2026: 12 Open, Map & Booking",
+      "description": "Updated weekly. Every anime collaboration cafe in Tokyo for Spring 2026: JJK PLAZA, One Piece Cafe GENE, My Dress-Up Darling, and more. Dates, locations,...",
+      "wordCount": 4507,
+      "imageCount": 5,
+      "bodyImageCount": 4,
+      "density": 0.8875083203905036,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 156
+          }
+        },
+        "title": {
+          "pass": true,
+          "metrics": {
+            "length": 60
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": false,
+          "reason": "density 0.89/k < 1.0",
+          "metrics": {
+            "density": 0.8875083203905036,
+            "bodyImageCount": 4
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": true,
+          "metrics": {
+            "staleHits": 0
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 1",
+          "metrics": {
+            "wordCount": 4507
+          }
+        }
+      },
+      "passCount": 8,
+      "bucket": "PASS_8plus",
+      "noindex": false
+    },
+    {
+      "slug": "tokyo-anime-collab-cafes-summer-2026",
+      "title": "Tokyo Anime Collab Cafes Summer 2026: What's Open & How to Book",
+      "description": "Tokyo anime collab cafes summer 2026: 15-20 active themed cafes, what's open by month, plus how to book reservations and walk-in venues across the city.",
+      "wordCount": 2813,
+      "imageCount": 7,
+      "bodyImageCount": 6,
+      "density": 2.1329541414859583,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 152
+          }
+        },
+        "title": {
+          "pass": false,
+          "reason": "title too long (63)",
+          "metrics": {
+            "length": 63
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 2.1329541414859583,
+            "bodyImageCount": 6
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": true,
+          "metrics": {
+            "staleHits": 0
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 1",
+          "metrics": {
+            "wordCount": 2813
+          }
+        }
+      },
+      "passCount": 8,
+      "bucket": "PASS_8plus",
+      "noindex": false
+    },
+    {
+      "slug": "tokyo-anime-district-guide",
+      "title": "Tokyo Anime Neighborhoods 2026: Akihabara, Nakano & 5 Districts",
+      "description": "All 6 Tokyo anime neighborhoods in 2026: Akihabara arcades, Nakano vintage, Ikebukuro BL, Shibuya flagships, Harajuku kawaii. Maps & 1-day routes.",
+      "wordCount": 2647,
+      "imageCount": 6,
+      "bodyImageCount": 5,
+      "density": 1.8889308651303363,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 146
+          }
+        },
+        "title": {
+          "pass": false,
+          "reason": "title too long (63)",
+          "metrics": {
+            "length": 63
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 1.8889308651303363,
+            "bodyImageCount": 5
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": true,
+          "metrics": {
+            "staleHits": 0
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 1",
+          "metrics": {
+            "wordCount": 2647
+          }
+        }
+      },
+      "passCount": 8,
+      "bucket": "PASS_8plus",
+      "noindex": false
+    },
+    {
+      "slug": "universal-cool-japan-2026-guide",
+      "title": "Universal Cool Japan 2026: Best Franchises, Dates, Is It Worth?",
+      "description": "Trying to decide whether Universal Cool Japan 2026 is worth adding to your Japan trip? This guide explains the lineup, event periods, and which experiences...",
+      "wordCount": 1617,
+      "imageCount": 6,
+      "bodyImageCount": 5,
+      "density": 3.0921459492888066,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 158
+          }
+        },
+        "title": {
+          "pass": false,
+          "reason": "title too long (63)",
+          "metrics": {
+            "length": 63
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 3.0921459492888066,
+            "bodyImageCount": 5
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": true,
+          "metrics": {
+            "staleHits": 0
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 1",
+          "metrics": {
+            "wordCount": 1617
+          }
+        }
+      },
+      "passCount": 8,
+      "bucket": "PASS_8plus",
+      "noindex": true
+    },
+    {
+      "slug": "weathering-with-you-locations-tokyo",
+      "title": "Weathering With You Locations Tokyo 2026: Every Real Tenki Spot",
+      "description": "Every Weathering With You Tokyo location verified as publicly accessible — Tabata, Yoyogi, Asahi Inari Shrine — with half-day and full-day walking routes.",
+      "wordCount": 2638,
+      "imageCount": 8,
+      "bodyImageCount": 7,
+      "density": 2.65352539802881,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 154
+          }
+        },
+        "title": {
+          "pass": false,
+          "reason": "title too long (63)",
+          "metrics": {
+            "length": 63
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 2.65352539802881,
+            "bodyImageCount": 7
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": false,
+          "reason": "4 stale-year literal(s)",
+          "metrics": {
+            "staleHits": 4
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 2",
+          "metrics": {
+            "wordCount": 2638
+          }
+        }
+      },
+      "passCount": 7,
+      "bucket": "PASS_5_to_7",
+      "noindex": false
+    },
+    {
+      "slug": "wonder-festival-figure-events-japan-2026",
+      "title": "Wonder Festival & Figure Events Japan 2026: Tickets, Tips & Shipping",
+      "description": "Wonder Festival 2026 Summer (July 26, Makuhari Messe): ¥3,500 tickets, 2,000+ booths, buying strategies, plus Treasure Festa and Mega Hobby.",
+      "wordCount": 2020,
+      "imageCount": 5,
+      "bodyImageCount": 4,
+      "density": 1.9801980198019802,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 140
+          }
+        },
+        "title": {
+          "pass": false,
+          "reason": "title too long (68)",
+          "metrics": {
+            "length": 68
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 1.9801980198019802,
+            "bodyImageCount": 4
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": true,
+          "metrics": {
+            "staleHits": 0
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 1",
+          "metrics": {
+            "wordCount": 2020
+          }
+        }
+      },
+      "passCount": 8,
+      "bucket": "PASS_8plus",
+      "noindex": false
+    },
+    {
+      "slug": "world-trigger-festival-2026-tokyo-dome-city-cafe",
+      "title": "World Trigger Festival 2026 Tokyo Dome City Cafe Guide",
+      "description": "Visit the World Trigger Festival 2026 cafe at Tokyo Dome City Apr 27-May 10. Hours, Suidobashi access, free coaster rule, and Golden Week timing.",
+      "wordCount": 2761,
+      "imageCount": 2,
+      "bodyImageCount": 1,
+      "density": 0.36218761318362913,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 145
+          }
+        },
+        "title": {
+          "pass": true,
+          "metrics": {
+            "length": 54
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": false,
+          "reason": "density 0.36/k < 1.0",
+          "metrics": {
+            "density": 0.36218761318362913,
+            "bodyImageCount": 1
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": false,
+          "reason": "1 stale-year literal(s)",
+          "metrics": {
+            "staleHits": 1
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": false,
+          "reason": "axes 1-9 fail: 2",
+          "metrics": {
+            "wordCount": 2761
+          }
+        }
+      },
+      "passCount": 7,
+      "bucket": "PASS_5_to_7",
+      "noindex": false
+    },
+    {
+      "slug": "your-name-pilgrimage-tokyo",
+      "title": "Your Name Pilgrimage Tokyo: Every Location + Walking Route",
+      "description": "Every Your Name (Kimi no Na wa) location in Tokyo: Suga Shrine stairs, Shinjuku overpass, Shinanomachi Station, plus a half-day walking route.",
+      "wordCount": 2281,
+      "imageCount": 4,
+      "bodyImageCount": 3,
+      "density": 1.31521262604121,
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 142
+          }
+        },
+        "title": {
+          "pass": true,
+          "metrics": {
+            "length": 58
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 1.31521262604121,
+            "bodyImageCount": 3
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": true,
+          "metrics": {
+            "staleHits": 0
+          }
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": true,
+          "metrics": {
+            "wordCount": 2281
+          }
+        }
+      },
+      "passCount": 10,
+      "bucket": "PASS_ALL_10",
+      "noindex": false
+    }
+  ]
+}
