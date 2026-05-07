@@ -107,7 +107,7 @@ Phase 2 runs April 1 through May 18, 2026 with a completely refreshed menu. The 
 
 <div className="jpn-tip">
 
-**Quick ranking from my visit**
+**Quick ranking per visitor reports**
 
 - **Most photogenic:** Straw Hat Salt Ramen (the skull bowl lid lift is the money shot)
 - **Best value:** Nakama Wrap Sandwich Plate at ¥1,320 — cheapest food, generous portion
