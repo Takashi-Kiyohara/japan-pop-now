@@ -1,6 +1,6 @@
 ---
 title: "Japan Trip Checklist for Anime Fans 2026: What to Book First"
-description: "Japan trip checklist for anime fans 2026: what to book at 3mo, 1mo, 2wk, 1wk — JR Pass, collab cafe lotteries, AnimeJapan, Comiket timing."
+description: "Tokyo anime trip planner: 3-month, 1-month, 2-week, 1-week booking gates — JR Pass, collab cafe lotteries, AnimeJapan, Comiket, hotels timed right."
 date: "2026-04-02"
 lastUpdated: "2026-04-02"
 category: "experiences"
@@ -9,7 +9,7 @@ featuredImage: "/images/articles/japan-trip-checklist-anime-fans-2026/featured.j
 featuredImageAlt: "Haneda Airport terminal at dusk with Mt. Fuji in the background"
 imageCredit: "Photo: © JNTO"
 author: "Takapon"
-excerpt: "I showed up to Tokyo once having booked nothing but my flight — no JR Pass, no accommodation, no collab cafe lottery entries — and spent two days scrambling. Anime fans need a different checklist than regular tourists. This is the 3-months-out system I now use, organized by when to book, not what to book."
+excerpt: "Anime fans landing in Tokyo without bookings burn two days scrambling for JR Pass exchanges, accommodation in the right ward, and collab cafe lottery slots that closed weeks earlier. This 3-months-out checklist is organized by when to book, not what to book."
 relatedSlugs: []
 wpPostId: 541
 ---
