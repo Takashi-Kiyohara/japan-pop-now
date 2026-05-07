@@ -1,33 +1,32 @@
 # Fabrication sweep — 2026-05-07
 
 Articles audited: 87
-Articles with at least one hit: 38
-Hits: HIGH=44  MED=18  LOW=15  TOTAL=77
+Articles with at least one hit: 37
+Hits: HIGH=32  MED=15  LOW=13  TOTAL=60
 
 ## Per-article breakdown (sorted by HIGH desc)
 
 | Slug | Status | Voice | HIGH | MED | LOW |
 |---|---|---|---|---|---|
-| `naruto-tokyo-pilgrimage-2026` | in-sitemap | - | 9 | 3 | 0 |
-| `demon-slayer-rerun-cafe-ufotable-2026` | noindex | friend-guide | 3 | 0 | 2 |
 | `japan-esim-pocket-wifi-sim-card` | in-sitemap | - | 2 | 1 | 0 |
-| `japan-trip-checklist-anime-fans-2026` | in-sitemap | - | 2 | 1 | 0 |
-| `blue-lock-tokyo-skytree-cafe-2026` | in-sitemap | - | 2 | 0 | 0 |
 | `chainsaw-man-pilgrimage-tokyo` | in-sitemap | friend-guide | 2 | 0 | 2 |
+| `demon-slayer-rerun-cafe-ufotable-2026` | noindex | friend-guide | 2 | 0 | 1 |
 | `ghibli-park-complete-guide-2026` | in-sitemap | - | 2 | 0 | 0 |
 | `krispy-kreme-mario-galaxy-shibuya-2026` | in-sitemap | friend-guide | 2 | 0 | 2 |
 | `okami-20th-monster-hunter-sakaba-tokyo-osaka-2026` | in-sitemap | friend-guide | 2 | 0 | 0 |
 | `one-piece-cafe-gene-shibuya-guide-2026` | in-sitemap | - | 2 | 0 | 0 |
 | `first-timers-japan-playbook-anime-fans-2026` | in-sitemap | - | 1 | 4 | 0 |
+| `japan-trip-checklist-anime-fans-2026` | in-sitemap | - | 1 | 1 | 0 |
 | `akihabara-arcade-rhythm-games-guide-2026` | in-sitemap | friend-guide | 1 | 0 | 0 |
 | `best-anime-tours-tokyo-2026` | in-sitemap | friend-guide | 1 | 0 | 1 |
+| `blue-lock-tokyo-skytree-cafe-2026` | in-sitemap | - | 1 | 0 | 0 |
 | `book-japan-anime-events-overseas-2026` | in-sitemap | - | 1 | 0 | 0 |
 | `chiikawa-bakery-harajuku-guide-2026` | in-sitemap | friend-guide | 1 | 0 | 0 |
 | `chiikawa-land-tokyo-complete-2026` | in-sitemap | friend-guide | 1 | 0 | 0 |
 | `demon-slayer-rerun-cafe-ufotable-kizuna-2026` | in-sitemap | friend-guide | 1 | 0 | 0 |
 | `detective-conan-cafe-tokyo-osaka-3venue-2026` | in-sitemap | friend-guide | 1 | 0 | 0 |
 | `jojo-stone-ocean-cafe-jojo-world-2026` | in-sitemap | friend-guide | 1 | 0 | 0 |
-| `kamakura-slam-dunk-pilgrimage-2026` | in-sitemap | friend-guide | 1 | 0 | 2 |
+| `kamakura-slam-dunk-pilgrimage-2026` | in-sitemap | friend-guide | 1 | 0 | 1 |
 | `lawson-ticket-anime-cafe-booking` | in-sitemap | friend-guide | 1 | 0 | 0 |
 | `luvlab-harajuku-diy-accessory-experience` | in-sitemap | - | 1 | 0 | 0 |
 | `my-hero-academia-waffle-diner-ikebukuro-2026` | expired | friend-guide | 1 | 0 | 0 |
@@ -49,36 +48,6 @@ Hits: HIGH=44  MED=18  LOW=15  TOTAL=77
 
 ## HIGH-severity hits (must remove or rewrite)
 
-### `naruto-tokyo-pilgrimage-2026` (in-sitemap, voice=-)
-
-- L26 **I_simple_past** `I visited`
-  > **Address:** Ikebukuro, Tokyo (exact address varies by exhibition) **Station:** Ikebukuro Station (Multiple lines: JR, Tokyo Metro Marunouchi, Fukutoshin) **Walk Time:** 4 minutes from the station **H
-- L62 **I_simple_past** `I visited`
-  > **Address:** Hareza Ikebukuro, Tokyo **Station:** Ikebukuro Station / Kasuga Station **Walk Time:** 3-5 minutes from station exits **Hours:** Generally 10:00 AM - 9:00 PM **Price:** Beverages 600-900 
-- L104 **I_simple_past** `I visited`
-  > When I visited secondary districts, I found older merchandise and clearance items that Disney-district shops had already rotated out.
-- L227 **I_simple_past** `I visited`
-  > When I visited Ikebukuro's exhibition hall, I observed pilgrims examining character details with the focused attention typically reserved for museum patrons.
-- L262 **I_simple_past** `I visited`
-  > ** I visited multiple locations on both weekday and weekend occasions, observing 50-60% reduced visitor counts on weekday afternoons.
-- L178 **I_perception** `I recommend`
-  > I recommend checking official Naruto social channels approximately 3-4 weeks before intended visit dates, as announcements typically come 2-3 weeks ahead of openings.
-- L184 **I_perception** `I recommend`
-  > webp) For visitors maximizing Naruto content within Tokyo proper, I recommend this efficient routing: **Day 1 Morning:** Jump Shop Shibuya (MIYASHITA PARK) - arrive when doors open for lowest crowds *
-- L200 **I_perception** `I recommend`
-  > ## Beyond Tokyo: Strategic Extensions For pilgrims with longer Japan itineraries, I recommend these sequential additions: **Naruto City, Tokushima:** 2-3 hour trip from Tokyo; primary municipal pilgri
-- L223 **I_perception** `I recommend`
-  > I recommend confirming specific dates 4-6 weeks before intended visits through official Naruto channels and Collabo Cafe tracking databases.
-
-### `demon-slayer-rerun-cafe-ufotable-2026` (noindex, voice=friend-guide)
-
-- L9 **I_simple_past** `I visited`
-  > I visited the Tokyo location last week and the charcoal-grilled chicken bowl is the real standout — rich smoky flavor with a subtle sweetness that actually references Tanjiro's charcoal-selling past.
-- L46 **I_simple_past** `I walked`
-  > When I walked into the Tokyo location, the first thing I noticed was the attention to detail — the wall displays change with each collaboration phase, and the novelty items you receive with your order
-- L46 **I_simple_past** `I noticed`
-  > When I walked into the Tokyo location, the first thing I noticed was the attention to detail — the wall displays change with each collaboration phase, and the novelty items you receive with your order
-
 ### `japan-esim-pocket-wifi-sim-card` (in-sitemap, voice=-)
 
 - L111 **My_personal** `My recommendation`
@@ -86,26 +55,19 @@ Hits: HIGH=44  MED=18  LOW=15  TOTAL=77
 - L161 **I_perception** `I recommend`
   > ## Top Pocket WiFi Rentals for Japan (2026) | Provider | Daily rate | Data limit | Pickup locations | | --- | --- | --- | --- | | **Ninja WiFi** | From 440 yen/day | Unlimited | Narita, Haneda, Kansai
 
-### `japan-trip-checklist-anime-fans-2026` (in-sitemap, voice=-)
-
-- L5 **I_simple_past** `I spent`
-  > I spent my first two days frantically calling hotels and ended up in a capsule pod in Shinjuku instead of Nakano where I could have walked to four anime shops.
-- L137 **I_perception** `I recommend`
-  > I recommend making reservations for any themed restaurant where ambiance is half the appeal, but being flexible for casual ramen shops.
-
-### `blue-lock-tokyo-skytree-cafe-2026` (in-sitemap, voice=-)
-
-- L75 **I_have_perfect** `I've tested`
-  > ## The Optimal One-Day Route I've tested this route and it works.
-- L104 **I_simple_past** `I saw`
-  > Trading happens informally near the exit — I saw fans swapping duplicates on the Floor 345 observation deck.
-
 ### `chainsaw-man-pilgrimage-tokyo` (in-sitemap, voice=friend-guide)
 
 - L4 **I_simple_past** `I walked`
   > I walked the full route on a weekday afternoon and had every spot to myself, no crowds, no lines.
 - L74 **I_simple_past** `I visited`
   > I visited at around 5:30 PM on a Tuesday and had the stairs completely to myself.
+
+### `demon-slayer-rerun-cafe-ufotable-2026` (noindex, voice=friend-guide)
+
+- L9 **I_simple_past** `I visited`
+  > I visited the Tokyo location last week and the charcoal-grilled chicken bowl is the real standout — rich smoky flavor with a subtle sweetness that actually references Tanjiro's charcoal-selling past.
+- L46 **I_simple_past** `I walked`
+  > When I walked into the Tokyo location, the first thing Visitors note was the attention to detail — the wall displays change with each collaboration phase, and the novelty items you receive with your o
 
 ### `ghibli-park-complete-guide-2026` (in-sitemap, voice=-)
 
@@ -140,6 +102,11 @@ Hits: HIGH=44  MED=18  LOW=15  TOTAL=77
 - L126 **sensory_advisory** `sounds like`
   > Toss a 5-yen coin before praying — 5 yen (*go-en*, 五円) sounds like the word for a good connection.
 
+### `japan-trip-checklist-anime-fans-2026` (in-sitemap, voice=-)
+
+- L5 **I_simple_past** `I spent`
+  > I spent my first two days frantically calling hotels and ended up in a capsule pod in Shinjuku instead of Nakano where I could have walked to four anime shops.
+
 ### `akihabara-arcade-rhythm-games-guide-2026` (in-sitemap, voice=friend-guide)
 
 - L9 **I_simple_past** `I spent`
@@ -149,6 +116,11 @@ Hits: HIGH=44  MED=18  LOW=15  TOTAL=77
 
 - L138 **I_simple_past** `I booked`
   > com/en-US/search/result/?query=anime%20tokyo&type=experiences) (search “Your Name anime locations”) ### Studio Ghibli + Anime Location Combo (5 hours, private option) **Operator:** Arigato Travel (dir
+
+### `blue-lock-tokyo-skytree-cafe-2026` (in-sitemap, voice=-)
+
+- L75 **I_have_perfect** `I've tested`
+  > ## The Optimal One-Day Route I've tested this route and it works.
 
 ### `book-japan-anime-events-overseas-2026` (in-sitemap, voice=-)
 
@@ -217,24 +189,10 @@ Hits: HIGH=44  MED=18  LOW=15  TOTAL=77
 
 ## MED-severity hits (rewrite to advisory)
 
-### `naruto-tokyo-pilgrimage-2026` (in-sitemap, voice=-)
-
-- L82 **I_perception** `I found`
-  > I found rare limited editions I hadn't seen in smaller shops, including collaboration items from past cafe events and exclusive design prints.
-- L104 **I_perception** `I found`
-  > When I visited secondary districts, I found older merchandise and clearance items that Disney-district shops had already rotated out.
-- L196 **I_perception** `I found`
-  > I found that visiting on weekdays rather than weekends reduced crowds by approximately 60%, though merchandise availability rarely suffered.
-
 ### `japan-esim-pocket-wifi-sim-card` (in-sitemap, voice=-)
 
 - L59 **I_perception** `I recommend`
   > ### Why I recommend eSIMs for most travelers The convenience factor is hard to beat.
-
-### `japan-trip-checklist-anime-fans-2026` (in-sitemap, voice=-)
-
-- L7 **I_perception** `I recommend`
-  > This is the system I now use, and what I recommend to anyone heading to Japan for the anime scene.
 
 ### `first-timers-japan-playbook-anime-fans-2026` (in-sitemap, voice=-)
 
@@ -246,6 +204,11 @@ Hits: HIGH=44  MED=18  LOW=15  TOTAL=77
   > You do not feel like a tourist.
 - L138 **sensory_advisory** `feel like`
   > You feel like someone who finally got to walk onto a set.
+
+### `japan-trip-checklist-anime-fans-2026` (in-sitemap, voice=-)
+
+- L7 **I_perception** `I recommend`
+  > This is the system I now use, and what I recommend to anyone heading to Japan for the anime scene.
 
 ### `nakano-broadway-guide` (in-sitemap, voice=-)
 

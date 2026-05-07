@@ -149,7 +149,7 @@ Beyond collab cafes, Tokyo has restaurants specifically decorated with anime the
 - **Anime-branded ramen chains:** Ichiran, Hakatarama, and regional chains often have anime collaborations. These rarely require reservations and accept walk-ins.
 - **Karaoke boxes:** Book a private karaoke room (500-1,500 yen per hour, 3-5 USD per person) where you and friends can sing anime openings without judgment. Rooms often have extensive anime music libraries. Book through [Karaoke Bantam](https://www.karaokabantam.jp) (Japanese only) or ask your hotel concierge.
 
-I recommend making reservations for any themed restaurant where ambiance is half the appeal, but being flexible for casual ramen shops.
+Recommended approach: making reservations for any themed restaurant where ambiance is half the appeal, but being flexible for casual ramen shops.
 
 ### Book Studio Tours
 Ghibli Museum in Mitaka (30 minutes west of central Tokyo) is the most popular anime studio tour, and it requires advance tickets. Tickets go on sale the first of every month for visits 4-6 weeks ahead, and they sell out within 1-3 days. The museum was closed for renovation until March 2026 and is operating at reduced capacity through mid-2026, so book the moment tickets release. Tickets are 1,000 yen for adults (about 7 USD) and only available through [the official Ghibli Museum site](https://www.ghibli-museum.jp/en/) ([source: Ghibli Museum official EN site](https://www.ghibli-museum.jp/en/)).

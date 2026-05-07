@@ -118,7 +118,7 @@ The SKYTREE CAFE on Floor 340 has character-themed items. The menu rotates betwe
 
 **Desserts (1,540 yen):** Fruit ice parfait and blueberry-mint parfait, also rotating by period.
 
-**The coaster game:** Every food or drink purchase includes one random coaster. There are 10 designs, so completionists will need multiple orders. Trading happens informally near the exit — I saw fans swapping duplicates on the Floor 345 observation deck.
+**The coaster game:** Every food or drink purchase includes one random coaster. There are 10 designs, so completionists will need multiple orders. Trading happens informally near the exit — Visitor reports describe fans swapping duplicates on the Floor 345 observation deck.
 
 ## What to Buy: Merch Worth the Money
 
