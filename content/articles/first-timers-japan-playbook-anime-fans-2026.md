@@ -146,7 +146,7 @@ These are the small cultural rules that most Tokyo locals will forgive you for b
 
 **On the sidewalk.** Walk on the left in Tokyo, right in Osaka — yes, really. Do not eat while walking in most neighborhoods. Smoke only in designated smoking areas. Keep trash with you until you find a bin, because there are almost none in public.
 
-**At shrines and temples.** Bow once before passing through the *torii* (鳥居). Rinse hands at the *temizuya* (手水舎). Toss a 5-yen coin before praying — 5 yen (*go-en*, 五円) sounds like the word for a good connection. Do not take photos inside the main hall.
+**At shrines and temples.** Bow once before passing through the *torii* (鳥居). Rinse hands at the *temizuya* (手水舎). Toss a 5-yen coin before praying — 5 yen (*go-en*, 五円) is homophonous with the word for a good connection (also pronounced *go-en*). Do not take photos inside the main hall.
 
 **Near pilgrimage spots.** This matters most for anime fans. Many *seichi junrei* (聖地巡礼) locations are residential neighborhoods or working shrines. Keep your voice down, do not block driveways, and never knock on real houses that appear in anime.
 

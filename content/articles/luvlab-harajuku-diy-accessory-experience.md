@@ -104,7 +104,7 @@ The main crafting area has standing-height tables where you assemble your piece.
 ![Wall of colorful custom keycaps at LuvLab](/images/articles/luvlab-harajuku/keycap-wall.webp)
 *The keycap selection wall — over 100 designs organized by color, including anime characters, food items, animals, and letter tiles.*
 
-This is the experience I tried. The process takes about 15-20 minutes:
+This is the featured experience. Per the operator's flow, the process takes about 15-20 minutes:
 
 1. Pick your keycaps from the wall. The selection includes character designs (Hello Kitty, Rilakkuma, Disney), alphabet letters (spell a name or word), food items (sushi, ramen, cake), and abstract patterns. Each keycap is a real mechanical keyboard switch cap.
 

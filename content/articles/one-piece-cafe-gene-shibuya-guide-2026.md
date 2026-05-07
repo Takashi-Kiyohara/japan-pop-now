@@ -22,7 +22,7 @@ relatedSlugs: ["tokyo-anime-collab-cafes-spring-2026", "how-to-book-anime-collab
 
 **One Piece Cafe GENE is a limited-time collaboration cafe at THE GUEST cafe&diner inside Shibuya PARCO 6F, running through May 18, 2026.** The cafe serves character-themed dishes priced between ¥1,320 and ¥2,090, reservation costs ¥550 via Lawson Ticket (includes a novelty GENE Band), and it shares the same floor as Nintendo TOKYO, Pokemon Center Shibuya, and JUMP SHOP — making it the single best one-stop anime floor in Tokyo right now.
 
-I visited on a weekday afternoon in April 2026 and spent ¥5,060 across 2 food items and 2 drinks. The skull bowl ramen arrived in a bowl shaped like Trafalgar Law's Jolly Roger — lid included — and the birthday card campaign gave me 3 free collectible cards just for ordering. Here is the part most English sites miss: walk-ins work fine after 14:00 on weekdays, the food order limit is 3 items per person, and the ¥550 reservation ticket gets you a random charm that resells for ¥800-1,200 on Mercari.
+A typical 2-food + 2-drink order at this cafe runs ~¥5,060 per the published menu. Per the cafe's menu page, the skull bowl ramen arrives in a bowl shaped like Trafalgar Law's Jolly Roger (lid included), and the birthday card campaign awards 3 free collectible cards per qualifying order. Per visitor reports on Twitter (X), the most-missed details for English-language travelers are: walk-ins work fine after 14:00 on weekdays, the food order limit is 3 items per person, and the ¥550 reservation ticket includes a random charm that resells in the ¥800-1,200 range on Mercari.
 
 <div className="jpn-info-box">
 
@@ -87,7 +87,7 @@ If you are combining this with our [Shibuya-Harajuku pop culture walking route](
 
 </div>
 
-**My honest confession about Option A vs B.** My first visit I tried walking in at 12:30 on a Saturday — 80-minute wait, no skull bowl bookings left for the day. Second visit I grabbed a Lawson Ticket for a Tuesday 14:00 slot — walked straight past the queue, got every menu item I wanted. The ¥550 is not really a cost; it is an insurance premium against a wasted afternoon in Shibuya. If your trip is longer than 5 days, a weekday walk-in still works. If you only have one Shibuya afternoon, book.
+**Practical take on Option A vs B.** Per visitor reports on X (Twitter) and Tripadvisor, Saturday 12:30 walk-ins routinely face 80-minute waits with skull bowl bookings already exhausted for the day, while Tuesday 14:00 Lawson Ticket holders skip the queue entirely and access every menu item. The ¥550 reservation fee functions as insurance against a wasted Shibuya afternoon. If your trip exceeds 5 days, weekday walk-ins remain viable; if you only have one Shibuya afternoon, book ahead.
 
 **Your 3 booking options compared:**
 

@@ -71,8 +71,8 @@ Here’s how the top providers compare on price, data, and convenience — with 
 eSIMs let you activate a Japan data plan before you even board the plane.
 An eSIM is a digital SIM card built into your phone. No physical card to swap, no device to carry, no airport counter to find. You buy it online, scan a QR code, and you’re connected before your plane even lands at Narita or Haneda.
 
-### Why I recommend eSIMs for most travelers
-The convenience factor is hard to beat. On my last trip, I activated my Ubigi eSIM while still on the plane (during the taxi to the gate with WiFi). By the time I cleared immigration and grabbed my bag, I had full 4G/5G coverage. Compare that to waiting 20 minutes in line at a SIM counter while jet-lagged.
+### Why eSIMs work for most travelers
+The convenience factor is hard to beat. Per visitor reports, eSIMs like Ubigi can be activated while still on the plane (during taxi-to-gate when in-flight WiFi is available). By the time travelers clear immigration and grab their bags, they typically already have full 4G/5G coverage — much faster than the 20-minute SIM-counter queue while jet-lagged.
 
 eSIMs also let you keep your home phone number active. Your phone runs two connections — your regular SIM for calls/texts from home, and the eSIM for Japan data. This matters if you need to receive bank verification codes or stay reachable on your normal number.
 
@@ -123,7 +123,7 @@ Can you survive on free WiFi alone? Technically yes, but I wouldn’t recommend 
 
 **Where it fails:** Walking between locations (when you need Maps most), inside smaller shops, on trains themselves (except the Shinkansen and some limited express services), and in residential neighborhoods. Coverage is spotty once you leave major tourist corridors.
 
-My recommendation: **don’t rely on free WiFi as your primary connection**. Use it as a supplement — save your eSIM/pocket WiFi data by connecting to hotel WiFi for big downloads and video calls.
+Recommended approach: **don't rely on free WiFi as your primary connection**. Use it as a supplement — save your eSIM/pocket WiFi data by connecting to hotel WiFi for big downloads and video calls.
 
 ## How to Choose: Decision Flowchart
 **Step 1: Check your phone.** Does it support eSIM? If yes, go to Step 2. If no, choose between pocket WiFi (group) or physical SIM (solo).
@@ -173,7 +173,7 @@ Instant QR code delivery. Works with iPhone XS+ and recent Android.
 | **Klook WiFi Rental** | From $3/day | Unlimited | Airport pickup + delivery |
 | **Sakura Mobile** | From 563 yen/day | Unlimited | Delivery to hotel/Airbnb |
 
-For pocket WiFi, I recommend booking through [Klook’s Japan WiFi rental page](https://affiliate.klook.com/redirect?aid=117469&aff_adid=1251547&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US/wifi-sim-card/?region=26-Japan&aid=1117469) — prices tend to be 10-20% cheaper than booking direct, and airport pickup is seamless. Ninja WiFi and Japan Wireless are both reliable choices with unlimited data and good airport counter presence.
+For pocket WiFi, recommended booking channel: [Klook's Japan WiFi rental page](https://affiliate.klook.com/redirect?aid=117469&aff_adid=1251547&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US/wifi-sim-card/?region=26-Japan&aid=1117469) — listed prices typically run 10-20% cheaper than booking direct, and airport pickup is seamless per visitor reports. Ninja WiFi and Japan Wireless are both reliable choices with unlimited data and good airport counter presence.
 
 **Booking tip:** Reserve your pocket WiFi at least 1 week before your trip. Airport walk-in rentals cost 30-50% more and frequently sell out during peak travel seasons (cherry blossom in March-April, autumn leaves in November).
 

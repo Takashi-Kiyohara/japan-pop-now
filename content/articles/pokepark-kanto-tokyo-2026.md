@@ -60,7 +60,7 @@ PokéPark Kanto uses dynamic pricing — costs fluctuate based on predicted crow
 
 Children aged 2 and under enter free. All ticket tiers include admission to Yomiuriland’s general areas. Senior (65+) and disability tickets are available at slightly reduced rates (¥13,500+ and ¥11,000+ respectively for Elite Trainers). Ride attractions inside the park cost extra: ¥1,200 (~$8) per adult and ¥800 (~$5.50) per child for each ride.
 
-My recommendation for international visitors: get the Elite Trainers Pass. The ¥6,100 gap between it and the standard Trainers Pass buys you unlimited Pokémon Forest re-entry (the standard pass kicks you out after one timed session), priority ride access, the exclusive Pikachu and Eevee meet-and-greet, and reserved seats for the Kayatsuri Gym Show. If you flew to Japan specifically for this park, the upgrade pays for itself in time saved alone.
+Recommended pick for international visitors: the Elite Trainers Pass. Per the official ticket-tier comparison, the ¥6,100 gap above the standard Trainers Pass buys unlimited Pokémon Forest re-entry (the standard pass closes after one timed session), priority ride access, the exclusive Pikachu and Eevee meet-and-greet, and reserved seats for the Kayatsuri Gym Show. For visitors flying to Japan specifically for this park, the upgrade typically pays back in time saved.
 
 ## How Do You Buy Tickets from Overseas?
 

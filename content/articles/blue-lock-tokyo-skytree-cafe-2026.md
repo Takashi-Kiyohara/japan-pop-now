@@ -89,7 +89,7 @@ Buy through **Seven Ticket** (Japanese) or **Klook** (English). Tickets went on 
 
 ## The Optimal One-Day Route
 
-I've tested this route and it works. Start early, end at Skytree for the night lighting.
+This route is sequenced for transit efficiency: start early, end at Skytree for the night lighting.
 
 **10:30 — Shibuya EGOIST Exhibition** (opens 11:30, arrive early for the queue). Budget **90 minutes** inside. The 7th floor has the main displays; 6th floor is merch. Last entry is one hour before closing.
 

@@ -49,7 +49,7 @@ Ghibli Park uses a tiered ticket system. There are three main options, and price
 
 Children aged 3 and under enter free. “Child” pricing applies to ages 4 through junior high school. The Premium Pass is the only ticket that gets you inside every building interior — the Standard Pass covers three areas but some indoor exhibits within those areas require the Premium upgrade.
 
-My recommendation: if you’re coming from overseas and this is likely your only visit, get the Premium All-Area Pass. The ¥4,000 difference between Standard and Premium buys you access to interiors you can’t see otherwise — and you didn’t fly to Japan to stand outside Satsuki and Mei’s house looking through the windows.
+Recommended pick for overseas visitors: if this is likely your only Ghibli Park visit, the Premium All-Area Pass is the strongest value. The ¥4,000 difference between Standard and Premium buys access to interiors not viewable from the Standard Pass — including Satsuki and Mei's house interior, per the official ticket-tier comparison.
 
 ## How Do You Book Ghibli Park Tickets from Overseas?
 
@@ -69,7 +69,7 @@ The catch: this page opens at the same 14:00 JST window as domestic tickets, and
 [Klook](https://affiliate.klook.com/redirect?aid=117469&aff_adid=1251547&k_site=https%3A%2F%2Fwww.klook.com%2F) sells Ghibli Park tickets as part of package deals, sometimes including round-trip transport from Nagoya Station. Packages run around ¥27,000 (~$184) including tickets and transport. The main advantage: Klook sometimes has availability for dates that show sold out on the official site, because they hold a separate allocation. Booking is in English with full international card support.
 
 ### Option 3: Boo-Woo Ticket / Lawson Ticket (Japanese System)
-The domestic ticketing platform at [l-tike.com](https://l-tike.com/) ([source: Lawson Ticket](https://l-tike.com/)) handles the bulk of ticket sales. It works with some international credit cards (Mastercard has the best success rate in my experience), but the interface is in Japanese. If you’re comfortable with browser auto-translate and have tried the other options first, this can be a last resort. You can also buy through Loppi kiosks at any Lawson convenience store in Japan — but only after you’ve arrived.
+The domestic ticketing platform at [l-tike.com](https://l-tike.com/) ([source: Lawson Ticket](https://l-tike.com/)) handles the bulk of ticket sales. It works with some international credit cards (Mastercard has the highest reported success rate per visitor reports on Reddit r/JapanTravel), but the interface is Japanese-only. If you’re comfortable with browser auto-translate and have tried the other options first, this can be a last resort. You can also buy through Loppi kiosks at any Lawson convenience store in Japan — but only after you’ve arrived.
 
 One purchase limit applies: maximum 6 tickets per transaction, and you’re limited to one purchase per month per ticket type.
 

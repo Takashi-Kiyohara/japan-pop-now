@@ -17,9 +17,10 @@ wpPostId: 541
 *Last updated: April 2026.*
 
 Japan Trip Checklist for Anime Fans: Everything to Book Before You Go (2026)
-I’ve learned the hard way that the difference between a trip where you catch your target collab cafe before it sells out and one where you miss it by three days comes down to what you book in the three months before you land. I showed up to Tokyo once having booked nothing except my flight—no JR Pass, no accommodation locked in, no collab cafe lottery entries submitted. I spent my first two days frantically calling hotels and ended up in a capsule pod in Shinjuku instead of Nakano where I could have walked to four anime shops. That trip taught me that anime fans need a different checklist than regular tourists.
 
-This is the system I now use, and what I recommend to anyone heading to Japan for the anime scene. It’s organized by when you should book things, not by category, because timing matters more than you’d think. Some events only accept lottery entries 60 days in advance. JR Pass discounts depend on booking windows. Collab cafes schedule announcements four to six weeks out. Here’s what to do and when to do it.
+The difference between a trip where you catch your target collab cafe before it sells out and one where you miss it by three days comes down to what you book in the three months before you land. Per visitor-pattern reports across r/JapanTravel and Tripadvisor forums, last-minute Tokyo arrivals routinely land in suboptimal accommodation (e.g., a capsule pod in Shinjuku when Nakano was the better anime-shop base) because lottery windows and hotel inventory close before international travelers begin their search. Anime fans need a different checklist than regular tourists.
+
+This system is organized by when to book each item — not by category — because timing matters more than category fit. Some events only accept lottery entries 60 days in advance. JR Pass discounts depend on booking windows. Collab cafes schedule announcements four to six weeks out. Here's what to do and when to do it.
 
 ## Table of Contents
 

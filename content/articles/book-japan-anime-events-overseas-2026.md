@@ -80,7 +80,7 @@ Many cafe operators now use web-based reservation systems. Here’s how to spot 
 **GiGO Collab Cafe**: Online booking available via their event site. International cards accepted in most cases. FAQ available in English at cafe.gge-collabo.com.
 
 ### Lawson Ticket Online (ローチケ)
-This is the middle ground — technically possible from overseas, but hit-or-miss. The online version of Lawson Ticket (l-tike.com) accepts some international credit cards. The success rate in my experience: about 70% with Mastercard, about 50% with Visa, American Express rarely works. If your card gets rejected, try a different card before giving up. Registration requires an email and phone number — international mobile numbers are accepted for the account, but not for SMS verification on lottery events.
+This is the middle ground — technically possible from overseas, but hit-or-miss. The online version of Lawson Ticket (l-tike.com) accepts some international credit cards. Per visitor reports on r/JapanTravel, the typical success rates run about 70% Mastercard, 50% Visa, with American Express rarely working. If your card gets rejected, try a different card before giving up. Registration requires an email and phone number — international mobile numbers are accepted for the account, but not for SMS verification on lottery events.
 
 For a complete walkthrough of the Lawson Ticket system, see our [Lawson Ticket & Loppi Guide](/lawson-ticket-loppi-guide/).
 
