@@ -1,14 +1,14 @@
 # Full-corpus 10-axis audit — 20260508
 
-Generated: 2026-05-08T03:24:19Z
+Generated: 2026-05-08T03:37:44Z
 Articles audited: 87
 
 ## Bucket totals
 
 | Bucket | Count |
 |---|---|
-| PASS_ALL_10 | 71 |
-| PASS_8plus  | 16 |
+| PASS_ALL_10 | 78 |
+| PASS_8plus  | 9 |
 | PASS_5_to_7 | 0 |
 | FAIL_under_5 | 0 |
 
@@ -19,35 +19,29 @@ Articles audited: 87
 | metaDesc | 0 |
 | title | 0 |
 | fabrication | 0 |
-| imageDensity | 14 |
+| imageDensity | 7 |
 | internalLinks | 0 |
 | schema | 0 |
 | canonical | 0 |
 | freshness | 0 |
 | affiliate | 0 |
-| adsenseFitness | 16 |
+| adsenseFitness | 9 |
 
 ## Per-article scorecard (worst first)
 
 | Slug | Score | Bucket | Words | meta | title | fab | img | links | schema | canon | fresh | aff | ads |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| `akihabara-complete-guide-2026` | 8/10 | PASS_8plus | 4172 | ✓ | ✓ | ✓ | ✗ | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ |
 | `best-anime-tours-tokyo-2026` | 8/10 | PASS_8plus | 4651 | ✓ | ✓ | ✓ | ✗ | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ |
-| `chiikawa-land-tokyo-complete-2026` | 8/10 | PASS_8plus | 3061 | ✓ | ✓ | ✓ | ✗ | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ |
-| `demon-slayer-meiji-mura-aichi-pilgrimage-2026` | 8/10 | PASS_8plus | 4080 | ✓ | ✓ | ✓ | ✗ | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ |
 | `demon-slayer-pilgrimage-tokyo` | 8/10 | PASS_8plus | 2431 | ✓ | ✓ | ✓ | ✗ | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ |
-| `game-centers-arcades-japan` | 8/10 | PASS_8plus | 3966 | ✓ | ✓ | ✓ | ✗ | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ |
-| `golden-week-2026-anime-events-complete-guide` | 8/10 | PASS_8plus | 2244 | ✓ | ✓ | ✓ | ✗ | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ |
-| `how-to-ride-trains-japan-tourists-2026` | 8/10 | PASS_8plus | 3319 | ✓ | ✓ | ✓ | ✗ | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ |
 | `japan-trip-checklist-anime-fans-2026` | 8/10 | PASS_8plus | 4581 | ✓ | ✓ | ✓ | ✗ | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ |
 | `jr-pass-anime-pilgrimage-routes-2026` (noindex) | 8/10 | PASS_8plus | 2931 | ✓ | ✓ | ✓ | ✗ | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ |
 | `osaka-anime-guide-den-den-town` | 8/10 | PASS_8plus | 3348 | ✓ | ✓ | ✓ | ✗ | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ |
-| `shibuya-harajuku-pop-culture-guide` | 8/10 | PASS_8plus | 2667 | ✓ | ✓ | ✓ | ✗ | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ |
 | `ship-anime-figures-merch-home-japan` | 8/10 | PASS_8plus | 3954 | ✓ | ✓ | ✓ | ✗ | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ |
 | `tokyo-anime-collab-cafes-spring-2026` | 8/10 | PASS_8plus | 4507 | ✓ | ✓ | ✓ | ✗ | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ |
 | `animejapan-comiket-2026-guide` | 9/10 | PASS_8plus | 1425 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ |
 | `familymart-anime-collab-stores-2026` | 9/10 | PASS_8plus | 1020 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ |
 | `akihabara-arcade-rhythm-games-guide-2026` | 10/10 | PASS_ALL_10 | 2215 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| `akihabara-complete-guide-2026` | 10/10 | PASS_ALL_10 | 4210 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `animate-cafe-guide-japan` | 10/10 | PASS_ALL_10 | 2735 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `anime-day-trips-from-tokyo-2026` | 10/10 | PASS_ALL_10 | 2783 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `anime-hotels-tokyo-2026` | 10/10 | PASS_ALL_10 | 3560 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
@@ -59,9 +53,11 @@ Articles audited: 87
 | `book-japan-anime-events-overseas-2026` | 10/10 | PASS_ALL_10 | 2509 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `chainsaw-man-pilgrimage-tokyo` | 10/10 | PASS_ALL_10 | 2608 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `chiikawa-bakery-harajuku-guide-2026` | 10/10 | PASS_ALL_10 | 2677 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| `chiikawa-land-tokyo-complete-2026` | 10/10 | PASS_ALL_10 | 3121 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `cosplay-experience-tokyo-2026` | 10/10 | PASS_ALL_10 | 2094 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `dark-moon-chara-cafe-ikebukuro-2026` | 10/10 | PASS_ALL_10 | 2070 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `demon-slayer-handmade-club-ufotable-cafe-2026` | 10/10 | PASS_ALL_10 | 3374 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| `demon-slayer-meiji-mura-aichi-pilgrimage-2026` | 10/10 | PASS_ALL_10 | 4242 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `demon-slayer-rerun-cafe-ufotable-2026` (noindex) | 10/10 | PASS_ALL_10 | 2985 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `demon-slayer-rerun-cafe-ufotable-kizuna-2026` | 10/10 | PASS_ALL_10 | 2931 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `detective-conan-cafe-2026-japan-guide` (noindex) | 10/10 | PASS_ALL_10 | 1836 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
@@ -70,10 +66,13 @@ Articles audited: 87
 | `first-timers-japan-playbook-anime-fans-2026` | 10/10 | PASS_ALL_10 | 2621 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `frieren-usj-story-walk-osaka-2026` | 10/10 | PASS_ALL_10 | 3187 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `gachapon-guide-japan` | 10/10 | PASS_ALL_10 | 2560 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| `game-centers-arcades-japan` | 10/10 | PASS_ALL_10 | 4092 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `gaming-tokyo-2026` | 10/10 | PASS_ALL_10 | 1753 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `ghibli-park-complete-guide-2026` | 10/10 | PASS_ALL_10 | 2992 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `golden-kamuy-golden-week-shinjuku-popup-2026` | 10/10 | PASS_ALL_10 | 3226 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| `golden-week-2026-anime-events-complete-guide` | 10/10 | PASS_ALL_10 | 2326 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `how-to-book-anime-collab-cafe-japan` | 10/10 | PASS_ALL_10 | 3023 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| `how-to-ride-trains-japan-tourists-2026` | 10/10 | PASS_ALL_10 | 3428 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `hypnosismic-sweets-paradise-round8-2026` | 10/10 | PASS_ALL_10 | 3606 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `ikebukuro-anime-guide-2026` | 10/10 | PASS_ALL_10 | 2428 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `japan-esim-pocket-wifi-sim-card` | 10/10 | PASS_ALL_10 | 3217 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
@@ -109,6 +108,7 @@ Articles audited: 87
 | `ranma-japan-2026-exhibition-tree-village-guide` | 10/10 | PASS_ALL_10 | 3653 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `re-zero-curemaid-cafe-akihabara-2026` | 10/10 | PASS_ALL_10 | 3444 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `rilakkuma-cafe-tokyo-osaka-2026` | 10/10 | PASS_ALL_10 | 3238 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| `shibuya-harajuku-pop-culture-guide` | 10/10 | PASS_ALL_10 | 2721 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `slam-dunk-kamakura-pilgrimage-2026` (noindex) | 10/10 | PASS_ALL_10 | 2822 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `spy-family-tokyo-fan-day-2026` | 10/10 | PASS_ALL_10 | 1598 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `tokyo-anime-collab-cafes-summer-2026` | 10/10 | PASS_ALL_10 | 2813 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
