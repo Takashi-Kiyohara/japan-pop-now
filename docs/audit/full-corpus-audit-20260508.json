@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-08T01:34:55.273Z",
+  "generated": "2026-05-08T02:58:02.234Z",
   "buckets": {
-    "PASS_ALL_10": 61,
-    "PASS_8plus": 26,
+    "PASS_ALL_10": 71,
+    "PASS_8plus": 16,
     "PASS_5_to_7": 0,
     "FAIL_under_5": 0
   },
@@ -10,13 +10,13 @@
     "metaDesc": 0,
     "title": 0,
     "fabrication": 0,
-    "imageDensity": 24,
+    "imageDensity": 14,
     "internalLinks": 0,
     "schema": 0,
     "canonical": 0,
     "freshness": 0,
     "affiliate": 0,
-    "adsenseFitness": 26
+    "adsenseFitness": 16
   },
   "results": [
     {
@@ -365,10 +365,10 @@
       "slug": "anime-merch-shopping-guide-japan",
       "title": "Anime Merch Shopping Japan 2026: 15 Best Shops & Price Guide",
       "description": "Anime merch shopping in Japan 2026: 15 best shops (Animate, Mandarake, Kotobukiya), prices, budgets, and where to find exclusive figures in Tokyo.",
-      "wordCount": 3504,
-      "imageCount": 1,
-      "bodyImageCount": 0,
-      "density": 0,
+      "wordCount": 3589,
+      "imageCount": 5,
+      "bodyImageCount": 4,
+      "density": 1.1145165784341042,
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -389,11 +389,10 @@
           }
         },
         "imageDensity": {
-          "pass": false,
-          "reason": "density 0.00/k < 1.0",
+          "pass": true,
           "metrics": {
-            "density": 0,
-            "bodyImageCount": 0
+            "density": 1.1145165784341042,
+            "bodyImageCount": 4
           }
         },
         "internalLinks": {
@@ -420,15 +419,14 @@
           "pass": true
         },
         "adsenseFitness": {
-          "pass": false,
-          "reason": "axes 1-9 fail: 1",
+          "pass": true,
           "metrics": {
-            "wordCount": 3504
+            "wordCount": 3589
           }
         }
       },
-      "passCount": 8,
-      "bucket": "PASS_8plus",
+      "passCount": 10,
+      "bucket": "PASS_ALL_10",
       "noindex": false
     },
     {
@@ -571,10 +569,10 @@
       "slug": "animejapan-comiket-2026-guide",
       "title": "AnimeJapan & Comiket 2026: Foreigner’s Survival Guide",
       "description": "AnimeJapan vs. Comiket: Complete Guide to Tokyo’s Biggest Anime Events 2026 I’ve attended both AnimeJapan and Comiket more times than I can count. The first...",
-      "wordCount": 1411,
+      "wordCount": 1425,
       "imageCount": 5,
       "bodyImageCount": 4,
-      "density": 2.834868887313962,
+      "density": 2.807017543859649,
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -597,7 +595,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 2.834868887313962,
+            "density": 2.807017543859649,
             "bodyImageCount": 4
           }
         },
@@ -626,9 +624,9 @@
         },
         "adsenseFitness": {
           "pass": false,
-          "reason": "word_count 1411 < 1500",
+          "reason": "word_count 1425 < 1500",
           "metrics": {
-            "wordCount": 1411
+            "wordCount": 1425
           }
         }
       },
@@ -708,10 +706,10 @@
       "slug": "best-anime-tours-tokyo-2026",
       "title": "Best Anime Tours Tokyo 2026: Klook vs Viator vs Local Guides",
       "description": "Best Tokyo anime tours 2026: Klook vs Viator vs GetYourGuide. 6 tours tested — Akihabara, pilgrimage, food, workshops — prices and English-guide options.",
-      "wordCount": 4630,
+      "wordCount": 4651,
       "imageCount": 5,
       "bodyImageCount": 4,
-      "density": 0.8639308855291576,
+      "density": 0.8600301010535368,
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -735,7 +733,7 @@
           "pass": false,
           "reason": "density 0.86/k < 1.0",
           "metrics": {
-            "density": 0.8639308855291576,
+            "density": 0.8600301010535368,
             "bodyImageCount": 4
           }
         },
@@ -766,7 +764,7 @@
           "pass": false,
           "reason": "axes 1-9 fail: 1",
           "metrics": {
-            "wordCount": 4630
+            "wordCount": 4651
           }
         }
       },
@@ -846,10 +844,10 @@
       "slug": "book-japan-anime-events-overseas-2026",
       "title": "How to Book Japan Anime Events from Overseas (2026 Guide)",
       "description": "How to book Japan anime collab cafes, events, and theme parks from overseas — which platforms work internationally, which don't, proxy services compared.",
-      "wordCount": 2437,
-      "imageCount": 1,
-      "bodyImageCount": 0,
-      "density": 0,
+      "wordCount": 2509,
+      "imageCount": 4,
+      "bodyImageCount": 3,
+      "density": 1.1956954962136308,
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -870,11 +868,10 @@
           }
         },
         "imageDensity": {
-          "pass": false,
-          "reason": "density 0.00/k < 1.0",
+          "pass": true,
           "metrics": {
-            "density": 0,
-            "bodyImageCount": 0
+            "density": 1.1956954962136308,
+            "bodyImageCount": 3
           }
         },
         "internalLinks": {
@@ -901,15 +898,14 @@
           "pass": true
         },
         "adsenseFitness": {
-          "pass": false,
-          "reason": "axes 1-9 fail: 1",
+          "pass": true,
           "metrics": {
-            "wordCount": 2437
+            "wordCount": 2509
           }
         }
       },
-      "passCount": 8,
-      "bucket": "PASS_8plus",
+      "passCount": 10,
+      "bucket": "PASS_ALL_10",
       "noindex": false
     },
     {
@@ -1258,10 +1254,10 @@
       "slug": "demon-slayer-handmade-club-ufotable-cafe-2026",
       "title": "Demon Slayer Handmade Club ufotable Cafe 2026 Guide",
       "description": "Book Demon Slayer Handmade Club at ufotable Cafe (Apr 28-May 31, 2026): 7 venues, pour-your-own craft menu, LivePocket lottery, 5 cloth patterns.",
-      "wordCount": 3277,
-      "imageCount": 2,
-      "bodyImageCount": 1,
-      "density": 0.3051571559353067,
+      "wordCount": 3374,
+      "imageCount": 5,
+      "bodyImageCount": 4,
+      "density": 1.1855364552459988,
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -1282,11 +1278,10 @@
           }
         },
         "imageDensity": {
-          "pass": false,
-          "reason": "density 0.31/k < 1.0",
+          "pass": true,
           "metrics": {
-            "density": 0.3051571559353067,
-            "bodyImageCount": 1
+            "density": 1.1855364552459988,
+            "bodyImageCount": 4
           }
         },
         "internalLinks": {
@@ -1313,15 +1308,14 @@
           "pass": true
         },
         "adsenseFitness": {
-          "pass": false,
-          "reason": "axes 1-9 fail: 1",
+          "pass": true,
           "metrics": {
-            "wordCount": 3277
+            "wordCount": 3374
           }
         }
       },
-      "passCount": 8,
-      "bucket": "PASS_8plus",
+      "passCount": 10,
+      "bucket": "PASS_ALL_10",
       "noindex": false
     },
     {
@@ -1945,10 +1939,10 @@
       "slug": "frieren-usj-story-walk-osaka-2026",
       "title": "Frieren USJ Story Walk Osaka 2026: Pre-Launch Guide",
       "description": "Pre-launch guide. Frieren Story Walk opens at USJ Osaka May 30, 2026–Jan 11, 2027. Tickets, e-seitai-ken, restaurant, ride — from official press.",
-      "wordCount": 3082,
-      "imageCount": 2,
-      "bodyImageCount": 1,
-      "density": 0.3244646333549643,
+      "wordCount": 3187,
+      "imageCount": 5,
+      "bodyImageCount": 4,
+      "density": 1.2550988390335738,
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -1969,11 +1963,10 @@
           }
         },
         "imageDensity": {
-          "pass": false,
-          "reason": "density 0.32/k < 1.0",
+          "pass": true,
           "metrics": {
-            "density": 0.3244646333549643,
-            "bodyImageCount": 1
+            "density": 1.2550988390335738,
+            "bodyImageCount": 4
           }
         },
         "internalLinks": {
@@ -2000,15 +1993,14 @@
           "pass": true
         },
         "adsenseFitness": {
-          "pass": false,
-          "reason": "axes 1-9 fail: 1",
+          "pass": true,
           "metrics": {
-            "wordCount": 3082
+            "wordCount": 3187
           }
         }
       },
-      "passCount": 8,
-      "bucket": "PASS_8plus",
+      "passCount": 10,
+      "bucket": "PASS_ALL_10",
       "noindex": false
     },
     {
@@ -2289,10 +2281,10 @@
       "slug": "golden-kamuy-golden-week-shinjuku-popup-2026",
       "title": "Golden Kamuy Golden Week 2026 Shinjuku Popup Cafe Guide",
       "description": "Golden Kamuy Golden Week popup in Shinjuku Apr 28–May 27, 2026. Pasela + Loscabos menus, prices, free coaster rule, photo spots, and Hokkaido tie-in plan.",
-      "wordCount": 3126,
-      "imageCount": 2,
-      "bodyImageCount": 1,
-      "density": 0.3198976327575176,
+      "wordCount": 3226,
+      "imageCount": 5,
+      "bodyImageCount": 4,
+      "density": 1.2399256044637321,
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -2313,11 +2305,10 @@
           }
         },
         "imageDensity": {
-          "pass": false,
-          "reason": "density 0.32/k < 1.0",
+          "pass": true,
           "metrics": {
-            "density": 0.3198976327575176,
-            "bodyImageCount": 1
+            "density": 1.2399256044637321,
+            "bodyImageCount": 4
           }
         },
         "internalLinks": {
@@ -2344,15 +2335,14 @@
           "pass": true
         },
         "adsenseFitness": {
-          "pass": false,
-          "reason": "axes 1-9 fail: 1",
+          "pass": true,
           "metrics": {
-            "wordCount": 3126
+            "wordCount": 3226
           }
         }
       },
-      "passCount": 8,
-      "bucket": "PASS_8plus",
+      "passCount": 10,
+      "bucket": "PASS_ALL_10",
       "noindex": false
     },
     {
@@ -2567,10 +2557,10 @@
       "slug": "hypnosismic-sweets-paradise-round8-2026",
       "title": "Hypnosismic × Sweets Paradise Round 8 — 2026 Visitor Guide",
       "description": "Hypnosismic × Sweets Paradise round 8, May 1–31 2026. Verified 9-venue calendar, buffet prices, app reservation rule, novelty rules, tourist route.",
-      "wordCount": 3521,
-      "imageCount": 2,
-      "bodyImageCount": 1,
-      "density": 0.28401022436807727,
+      "wordCount": 3606,
+      "imageCount": 5,
+      "bodyImageCount": 4,
+      "density": 1.1092623405435387,
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -2591,11 +2581,10 @@
           }
         },
         "imageDensity": {
-          "pass": false,
-          "reason": "density 0.28/k < 1.0",
+          "pass": true,
           "metrics": {
-            "density": 0.28401022436807727,
-            "bodyImageCount": 1
+            "density": 1.1092623405435387,
+            "bodyImageCount": 4
           }
         },
         "internalLinks": {
@@ -2622,15 +2611,14 @@
           "pass": true
         },
         "adsenseFitness": {
-          "pass": false,
-          "reason": "axes 1-9 fail: 1",
+          "pass": true,
           "metrics": {
-            "wordCount": 3521
+            "wordCount": 3606
           }
         }
       },
-      "passCount": 8,
-      "bucket": "PASS_8plus",
+      "passCount": 10,
+      "bucket": "PASS_ALL_10",
       "noindex": false
     },
     {
@@ -3181,10 +3169,10 @@
       "slug": "japan-trip-checklist-anime-fans-2026",
       "title": "Japan Trip Checklist for Anime Fans 2026: What to Book First",
       "description": "Tokyo anime trip planner: 3-month, 1-month, 2-week, 1-week booking gates — JR Pass, collab cafe lotteries, AnimeJapan, Comiket, hotels timed right.",
-      "wordCount": 4566,
+      "wordCount": 4581,
       "imageCount": 5,
       "bodyImageCount": 4,
-      "density": 0.8760402978537013,
+      "density": 0.8731717965509714,
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -3206,9 +3194,9 @@
         },
         "imageDensity": {
           "pass": false,
-          "reason": "density 0.88/k < 1.0",
+          "reason": "density 0.87/k < 1.0",
           "metrics": {
-            "density": 0.8760402978537013,
+            "density": 0.8731717965509714,
             "bodyImageCount": 4
           }
         },
@@ -3239,7 +3227,7 @@
           "pass": false,
           "reason": "axes 1-9 fail: 1",
           "metrics": {
-            "wordCount": 4566
+            "wordCount": 4581
           }
         }
       },
@@ -3797,10 +3785,10 @@
       "slug": "lawson-ticket-anime-cafe-booking",
       "title": "Book Anime Cafe via Lawson 2026: Step-by-Step English Guide",
       "description": "Book an anime cafe via Lawson Ticket, 2026: step-by-step Loppi machine walkthrough, QR code pickup, cash payment rules, and 5 common FAQs.",
-      "wordCount": 3771,
+      "wordCount": 3772,
       "imageCount": 6,
       "bodyImageCount": 5,
-      "density": 1.3259082471492973,
+      "density": 1.325556733828208,
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -3823,7 +3811,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.3259082471492973,
+            "density": 1.325556733828208,
             "bodyImageCount": 5
           }
         },
@@ -3853,7 +3841,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 3771
+            "wordCount": 3772
           }
         }
       },
@@ -4683,10 +4671,10 @@
       "slug": "ouran-host-club-20th-anniversary-cafes-2026",
       "title": "Ouran Host Club 20th Anniversary Cafes 2026: Japan Guide",
       "description": "2026 Ouran 20th Anniversary cafes: motto cafe Osaka Apr 22-Jul 5, Tree Village Tokyo through May 1, Osaka+Hakata May 23-Jun 4. Dates, menu, fees.",
-      "wordCount": 3216,
-      "imageCount": 2,
-      "bodyImageCount": 1,
-      "density": 0.31094527363184077,
+      "wordCount": 3326,
+      "imageCount": 5,
+      "bodyImageCount": 4,
+      "density": 1.2026458208057726,
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -4707,11 +4695,10 @@
           }
         },
         "imageDensity": {
-          "pass": false,
-          "reason": "density 0.31/k < 1.0",
+          "pass": true,
           "metrics": {
-            "density": 0.31094527363184077,
-            "bodyImageCount": 1
+            "density": 1.2026458208057726,
+            "bodyImageCount": 4
           }
         },
         "internalLinks": {
@@ -4738,15 +4725,14 @@
           "pass": true
         },
         "adsenseFitness": {
-          "pass": false,
-          "reason": "axes 1-9 fail: 1",
+          "pass": true,
           "metrics": {
-            "wordCount": 3216
+            "wordCount": 3326
           }
         }
       },
-      "passCount": 8,
-      "bucket": "PASS_8plus",
+      "passCount": 10,
+      "bucket": "PASS_ALL_10",
       "noindex": false
     },
     {
@@ -4957,10 +4943,10 @@
       "slug": "ranma-japan-2026-exhibition-tree-village-guide",
       "title": "Ranma 1/2 Japan 2026: Exhibition + Tree Village Pop-Up Guide",
       "description": "Ranma 1/2 Japan 2026: Sunshine City Exhibition Apr 23-May 12 + Tree Village Pop-Up Tokyo May 2-29, Osaka/Hakata Jun 20-Jul 2. Tickets, merch, plan.",
-      "wordCount": 3576,
-      "imageCount": 2,
-      "bodyImageCount": 1,
-      "density": 0.2796420581655481,
+      "wordCount": 3653,
+      "imageCount": 5,
+      "bodyImageCount": 4,
+      "density": 1.094990418833835,
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -4981,11 +4967,10 @@
           }
         },
         "imageDensity": {
-          "pass": false,
-          "reason": "density 0.28/k < 1.0",
+          "pass": true,
           "metrics": {
-            "density": 0.2796420581655481,
-            "bodyImageCount": 1
+            "density": 1.094990418833835,
+            "bodyImageCount": 4
           }
         },
         "internalLinks": {
@@ -5012,25 +4997,24 @@
           "pass": true
         },
         "adsenseFitness": {
-          "pass": false,
-          "reason": "axes 1-9 fail: 1",
+          "pass": true,
           "metrics": {
-            "wordCount": 3576
+            "wordCount": 3653
           }
         }
       },
-      "passCount": 8,
-      "bucket": "PASS_8plus",
+      "passCount": 10,
+      "bucket": "PASS_ALL_10",
       "noindex": false
     },
     {
       "slug": "re-zero-curemaid-cafe-akihabara-2026",
       "title": "Re:Zero × Cure Maid Café Akihabara 2026 Visitor Guide",
       "description": "Re:Zero × Cure Maid Café Akihabara collab Apr 29–May 17, 2026. Verified menu, prices, 11-card novelty rule, Atre popup tie-in, matoca queue, Akihabara plan.",
-      "wordCount": 3352,
-      "imageCount": 2,
-      "bodyImageCount": 1,
-      "density": 0.2983293556085919,
+      "wordCount": 3444,
+      "imageCount": 5,
+      "bodyImageCount": 4,
+      "density": 1.1614401858304297,
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -5051,11 +5035,10 @@
           }
         },
         "imageDensity": {
-          "pass": false,
-          "reason": "density 0.30/k < 1.0",
+          "pass": true,
           "metrics": {
-            "density": 0.2983293556085919,
-            "bodyImageCount": 1
+            "density": 1.1614401858304297,
+            "bodyImageCount": 4
           }
         },
         "internalLinks": {
@@ -5082,15 +5065,14 @@
           "pass": true
         },
         "adsenseFitness": {
-          "pass": false,
-          "reason": "axes 1-9 fail: 1",
+          "pass": true,
           "metrics": {
-            "wordCount": 3352
+            "wordCount": 3444
           }
         }
       },
-      "passCount": 8,
-      "bucket": "PASS_8plus",
+      "passCount": 10,
+      "bucket": "PASS_ALL_10",
       "noindex": false
     },
     {
@@ -5851,10 +5833,10 @@
       "slug": "world-trigger-festival-2026-tokyo-dome-city-cafe",
       "title": "World Trigger Festival 2026 Tokyo Dome City Cafe Guide",
       "description": "Visit the World Trigger Festival 2026 cafe at Tokyo Dome City Apr 27-May 10. Hours, Suidobashi access, free coaster rule, and Golden Week timing.",
-      "wordCount": 2761,
-      "imageCount": 2,
-      "bodyImageCount": 1,
-      "density": 0.36218761318362913,
+      "wordCount": 2869,
+      "imageCount": 5,
+      "bodyImageCount": 4,
+      "density": 1.394214011850819,
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -5875,11 +5857,10 @@
           }
         },
         "imageDensity": {
-          "pass": false,
-          "reason": "density 0.36/k < 1.0",
+          "pass": true,
           "metrics": {
-            "density": 0.36218761318362913,
-            "bodyImageCount": 1
+            "density": 1.394214011850819,
+            "bodyImageCount": 4
           }
         },
         "internalLinks": {
@@ -5906,15 +5887,14 @@
           "pass": true
         },
         "adsenseFitness": {
-          "pass": false,
-          "reason": "axes 1-9 fail: 1",
+          "pass": true,
           "metrics": {
-            "wordCount": 2761
+            "wordCount": 2869
           }
         }
       },
-      "passCount": 8,
-      "bucket": "PASS_8plus",
+      "passCount": 10,
+      "bucket": "PASS_ALL_10",
       "noindex": false
     },
     {
