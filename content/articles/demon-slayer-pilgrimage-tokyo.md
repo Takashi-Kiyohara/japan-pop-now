@@ -47,6 +47,9 @@ The match between anime and reality is strong. Senso-ji’s Nakamise Shopping St
 | **What to see** | Yoshiwara Shrine, former Great Gate site, historic street layout |
 | **Admission** | Free (outdoor walking) |
 
+![Senso-ji Temple complex in Asakusa with the five-story pagoda and main hall — the Taisho-era backdrop the anime renders for the Tanjiro and Nezuko sequences](/images/articles/demon-slayer-pilgrimage-tokyo/body-wikimedia-2.webp)
+*Senso-ji Temple, Asakusa — the wider complex behind Kaminarimon, including the Hozomon gate, Nakamise shopping street, and the five-story pagoda referenced in Demon Slayer's Tokyo arc. Photo: Bernard Spragg / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sens%C5%8D-ji._Asakusa_Tokyo._(41781495365).jpg), Public domain.*
+
 ## The Guardian Shrines: Demon Slayer Goshuin Pilgrimage
 Two Tokyo shrines serve as “guardian shrines” (産土神社 / ubusuna jinja) for Demon Slayer characters, based on the characters’ canonical birthplaces. Both offer special Demon Slayer-themed goshuin — the vermilion seal stamps that Japanese shrines give as proof of visit. These two shrines participate in an official “Ubusuna Holy Land Two Shrines Tour” that dedicated fans collect.
 
