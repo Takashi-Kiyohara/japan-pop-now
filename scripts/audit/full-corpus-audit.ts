@@ -65,7 +65,19 @@ const PATTERNS_FABRICATION = [
   /\bI (felt|believed|recommended|preferred|noticed|watched(\s\w+\s)+(more|over|in person))/gi,
 ]
 
-const STALE_YEAR_RE = /\b(202[0-4])\b/g
+// Targeted stale-year detection. We only flag boilerplate "as if current"
+// uses, not legitimate historical references (e.g., "the 2022 film", "since 2023").
+//
+//   - Last updated: <month?> 202[0-4]
+//   - as of <month?> 202[0-4]
+//   - 202[0-4] update / 202[0-4] guide / 202[0-4] edition
+//   - in <month> 202[0-4] currently / so far / to date
+//   - validUntil older than today (frontmatter level handled separately)
+const STALE_BOILERPLATE_PATTERNS: RegExp[] = [
+  /\b(as of|last updated|updated)\s*:?\s*(?:\w+\s+)?(20[0-2][0-4])\b/gi,
+  /\b(20[0-2][0-4])\s+(update|guide|edition)\b/gi,
+  /\bin\s+(20[0-2][0-4])\s+(currently|so far|to date|only)\b/gi,
+]
 
 function getWordCount(content: string): number {
   return content.split(/\s+/).filter((w) => w.length > 0).length
@@ -201,12 +213,19 @@ function auditArticle(filename: string, allSlugs: Set<string>, noindexSlugs: Set
   const canonicalPass = slugField === slug
   const canonicalReason = !canonicalPass ? `frontmatter slug "${slugField}" != filename "${slug}"` : undefined
 
-  // Axis 8: freshness — literal 2023/2024 appearances banned (year reference itself ok if explicit historical)
-  const staleHits = [...content.matchAll(STALE_YEAR_RE)]
-  // Allow "2023-12-01" date strings inside frontmatter-like content if they appear next to "as of" marker.
-  // For simplicity flag every literal 2023/2024 in body — fix manually if needed.
-  const freshnessPass = staleHits.length === 0
-  const freshnessReason = !freshnessPass ? `${staleHits.length} stale-year literal(s)` : undefined
+  // Axis 8: freshness — only flag boilerplate "as if current" stale-year uses
+  let staleHits = 0
+  const staleSamples: string[] = []
+  for (const re of STALE_BOILERPLATE_PATTERNS) {
+    re.lastIndex = 0
+    const matches = [...content.matchAll(re)]
+    staleHits += matches.length
+    for (const m of matches.slice(0, 2)) staleSamples.push(m[0])
+  }
+  const freshnessPass = staleHits === 0
+  const freshnessReason = !freshnessPass
+    ? `${staleHits} boilerplate stale-year hit(s): ${staleSamples.slice(0, 3).join(' | ')}`
+    : undefined
 
   // Axis 9: affiliate
   const klookHits = [...content.matchAll(/https?:\/\/affiliate\.klook\.com\/[^)\s]+/g)]

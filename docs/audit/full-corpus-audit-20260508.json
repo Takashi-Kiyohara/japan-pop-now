@@ -1,22 +1,22 @@
 {
-  "generated": "2026-05-07T16:12:38.971Z",
+  "generated": "2026-05-08T01:34:55.273Z",
   "buckets": {
-    "PASS_ALL_10": 57,
-    "PASS_8plus": 28,
-    "PASS_5_to_7": 2,
+    "PASS_ALL_10": 61,
+    "PASS_8plus": 26,
+    "PASS_5_to_7": 0,
     "FAIL_under_5": 0
   },
   "axisFail": {
-    "metaDesc": 1,
+    "metaDesc": 0,
     "title": 0,
-    "fabrication": 4,
+    "fabrication": 0,
     "imageDensity": 24,
     "internalLinks": 0,
     "schema": 0,
     "canonical": 0,
-    "freshness": 1,
+    "freshness": 0,
     "affiliate": 0,
-    "adsenseFitness": 30
+    "adsenseFitness": 26
   },
   "results": [
     {
@@ -1877,10 +1877,10 @@
       "slug": "first-timers-japan-playbook-anime-fans-2026",
       "title": "The First-Timer's Japan Playbook for Anime Fans (2026)",
       "description": "Plan your first Japan trip: hour-by-hour arrival, IC card, eSIM, cash rules, collab cafe booking, and etiquette for first-time anime fans.",
-      "wordCount": 2619,
+      "wordCount": 2621,
       "imageCount": 5,
       "bodyImageCount": 4,
-      "density": 1.5273004963726613,
+      "density": 1.5261350629530714,
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -1895,16 +1895,15 @@
           }
         },
         "fabrication": {
-          "pass": false,
-          "reason": "1 first-person hit(s)",
+          "pass": true,
           "metrics": {
-            "hits": 1
+            "hits": 0
           }
         },
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.5273004963726613,
+            "density": 1.5261350629530714,
             "bodyImageCount": 4
           }
         },
@@ -1925,23 +1924,21 @@
           "pass": true
         },
         "freshness": {
-          "pass": false,
-          "reason": "1 boilerplate stale-year hit(s): as of November 2024",
+          "pass": true,
           "metrics": {}
         },
         "affiliate": {
           "pass": true
         },
         "adsenseFitness": {
-          "pass": false,
-          "reason": "axes 1-9 fail: 2",
+          "pass": true,
           "metrics": {
-            "wordCount": 2619
+            "wordCount": 2621
           }
         }
       },
-      "passCount": 7,
-      "bucket": "PASS_5_to_7",
+      "passCount": 10,
+      "bucket": "PASS_ALL_10",
       "noindex": false
     },
     {
@@ -3183,17 +3180,16 @@
     {
       "slug": "japan-trip-checklist-anime-fans-2026",
       "title": "Japan Trip Checklist for Anime Fans 2026: What to Book First",
-      "description": "Japan trip checklist for anime fans 2026: what to book at 3mo, 1mo, 2wk, 1wk — JR Pass, collab cafe lotteries, AnimeJapan, Comiket timing.",
+      "description": "Tokyo anime trip planner: 3-month, 1-month, 2-week, 1-week booking gates — JR Pass, collab cafe lotteries, AnimeJapan, Comiket, hotels timed right.",
       "wordCount": 4566,
       "imageCount": 5,
       "bodyImageCount": 4,
       "density": 0.8760402978537013,
       "axes": {
         "metaDesc": {
-          "pass": false,
-          "reason": "desc echoes title",
+          "pass": true,
           "metrics": {
-            "length": 138
+            "length": 147
           }
         },
         "title": {
@@ -3241,14 +3237,14 @@
         },
         "adsenseFitness": {
           "pass": false,
-          "reason": "axes 1-9 fail: 2",
+          "reason": "axes 1-9 fail: 1",
           "metrics": {
             "wordCount": 4566
           }
         }
       },
-      "passCount": 7,
-      "bucket": "PASS_5_to_7",
+      "passCount": 8,
+      "bucket": "PASS_8plus",
       "noindex": false
     },
     {
@@ -3597,10 +3593,10 @@
       "slug": "kamakura-slam-dunk-pilgrimage-2026",
       "title": "Slam Dunk Kamakura 2026: Crossing, Enoden Pass, 3 Spots",
       "description": "Slam Dunk Kamakura 2026 day trip guide: the real crossing, Enoden 1-Day Pass buying flow, seasonal best-time table, plus Hachimangu, Komachi-dori, Hasedera.",
-      "wordCount": 5642,
+      "wordCount": 5638,
       "imageCount": 9,
       "bodyImageCount": 8,
-      "density": 1.4179369018078696,
+      "density": 1.4189428875487762,
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -3615,16 +3611,15 @@
           }
         },
         "fabrication": {
-          "pass": false,
-          "reason": "2 first-person hit(s)",
+          "pass": true,
           "metrics": {
-            "hits": 2
+            "hits": 0
           }
         },
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.4179369018078696,
+            "density": 1.4189428875487762,
             "bodyImageCount": 8
           }
         },
@@ -3652,15 +3647,14 @@
           "pass": true
         },
         "adsenseFitness": {
-          "pass": false,
-          "reason": "axes 1-9 fail: 1",
+          "pass": true,
           "metrics": {
-            "wordCount": 5642
+            "wordCount": 5638
           }
         }
       },
-      "passCount": 8,
-      "bucket": "PASS_8plus",
+      "passCount": 10,
+      "bucket": "PASS_ALL_10",
       "noindex": false
     },
     {
@@ -4007,10 +4001,10 @@
       "slug": "my-hero-academia-waffle-diner-ikebukuro-2026",
       "title": "My Hero Academia Waffle Diner Ikebukuro 2026: Final Weekend",
       "description": "My Hero Academia waffle diner at DECOTTO Ikebukuro, through Apr 26, 2026. Menu, prices, queue times, TableCheck booking, and what to order first.",
-      "wordCount": 2674,
+      "wordCount": 2673,
       "imageCount": 5,
       "bodyImageCount": 4,
-      "density": 1.4958863126402393,
+      "density": 1.4964459408903852,
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -4025,16 +4019,15 @@
           }
         },
         "fabrication": {
-          "pass": false,
-          "reason": "1 first-person hit(s)",
+          "pass": true,
           "metrics": {
-            "hits": 1
+            "hits": 0
           }
         },
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.4958863126402393,
+            "density": 1.4964459408903852,
             "bodyImageCount": 4
           }
         },
@@ -4062,15 +4055,14 @@
           "pass": true
         },
         "adsenseFitness": {
-          "pass": false,
-          "reason": "axes 1-9 fail: 1",
+          "pass": true,
           "metrics": {
-            "wordCount": 2674
+            "wordCount": 2673
           }
         }
       },
-      "passCount": 8,
-      "bucket": "PASS_8plus",
+      "passCount": 10,
+      "bucket": "PASS_ALL_10",
       "noindex": false
     },
     {
@@ -4299,10 +4291,9 @@
           }
         },
         "fabrication": {
-          "pass": false,
-          "reason": "1 first-person hit(s)",
+          "pass": true,
           "metrics": {
-            "hits": 1
+            "hits": 0
           }
         },
         "imageDensity": {
@@ -4336,15 +4327,14 @@
           "pass": true
         },
         "adsenseFitness": {
-          "pass": false,
-          "reason": "axes 1-9 fail: 1",
+          "pass": true,
           "metrics": {
             "wordCount": 3145
           }
         }
       },
-      "passCount": 8,
-      "bucket": "PASS_8plus",
+      "passCount": 10,
+      "bucket": "PASS_ALL_10",
       "noindex": false
     },
     {
