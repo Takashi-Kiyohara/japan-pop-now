@@ -22,6 +22,10 @@ Shibuya is where the gaming and shonen side of Japanese pop culture has consolid
 This guide skips the standard tourist attractions (you already know about Scramble Crossing and Hachiko) and focuses specifically on what matters to anime, manga, and pop culture fans.
 
 ## Shibuya PARCO 6F — Cyberspace SHIBUYA
+
+![Shibuya PARCO building exterior, the Cyberspace SHIBUYA tower that consolidates Nintendo TOKYO, Pokemon Center, Jump Shop and Capcom Store on a single floor](/images/articles/shibuya-harajuku-pop-culture-guide/body-wikimedia-3.webp)
+*Shibuya PARCO exterior — the building whose 6F Cyberspace floor stacks Nintendo TOKYO, Pokemon Center Shibuya, Jump Shop and the Capcom Store. [Photo by 江戸村のとくぞう via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Shibuya_Parco_191229b.jpg) (CC BY-SA 4.0)*
+
 If you visit one building in Shibuya for pop culture, make it PARCO. The 6th floor — branded as **“Cyberspace SHIBUYA”** — is essentially a mall floor dedicated entirely to gaming and anime retail.
 
 All of these stores are on the same floor, sharing the same escalator landing:
