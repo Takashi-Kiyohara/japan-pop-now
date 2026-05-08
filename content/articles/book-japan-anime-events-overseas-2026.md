@@ -33,6 +33,9 @@ This guide breaks down every booking method by accessibility level, walks you th
 
 ## Which Japan Anime Events Can You Book from Overseas?
 
+![Tokyo Big Sight convention center at night, the venue for Comiket and many anime events you can book from overseas](/images/articles/book-japan-anime-events-overseas-2026/body-wikimedia-1.webp)
+*Photo: Masato Ohta / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tokyo_Big_Sight_at_Night.jpg), CC BY 2.0.*
+
 I’ve categorized Japan’s major anime events into three tiers based on how easy they are to book from outside the country. As of April 2026, here’s how it breaks down:
 
 | Booking Difficulty | Event Type | Examples | What You Need |
@@ -59,6 +62,9 @@ Here’s where it gets frustrating. These platforms require something most overs
 The pattern: the more exclusive and limited the event, the more likely it uses a Japan-only booking system. Regular collab cafes with 50+ seats per session are usually bookable online. Limited 20-seat events with exclusive merchandise? Almost always Loppi or lottery.
 
 ## How Do You Book Each Type of Event? (Step-by-Step)
+
+![Tokyo Big Sight inverted-pyramid conference tower exterior at the Ariake anime event venue](/images/articles/book-japan-anime-events-overseas-2026/body-wikimedia-2.webp)
+*Photo: Lombroso / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tokyo_Big_Sight_Inc.,_at_Ariake,_Koto,_Tokyo_(2018-08-09)_01.jpg), CC BY-SA 4.0.*
 
 ### Theme Parks (PokePark Kanto, Ghibli Park, USJ)
 These are the easiest. All three major anime-adjacent theme parks now have English booking options:
@@ -87,6 +93,9 @@ For a complete walkthrough of the Lawson Ticket system, see our [Lawson Ticket &
 For events that can only be booked through Loppi machines or Japanese phone verification, you have two options: ask a friend in Japan, or use a proxy booking service. If you don’t know anyone in Japan, keep reading — the next two sections cover your options.
 
 ## What Are the Best Booking Proxy Services?
+
+![Tokyo Big Sight entrance hall interior where anime event ticketing and registration takes place](/images/articles/book-japan-anime-events-overseas-2026/body-wikimedia-3.webp)
+*Photo: ja:User:take-y / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tokyo_Big_Sight_Entrance_Hall_Inside.jpg), CC BY-SA 3.0.*
 
 I’ve compared the major proxy booking services available to overseas anime fans. Here’s how they stack up:
 
