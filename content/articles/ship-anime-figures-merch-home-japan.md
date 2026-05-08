@@ -36,6 +36,9 @@ Here’s everything you need to know about getting your anime haul home without 
 ## Option 1: Japan Post (Cheapest for Small Packages)
 Japan Post is your baseline. It’s cheap, it works, and it’s been moving mail since 1871. Unless you need your package in three days, you’ll probably use Japan Post. They offer three international services: EMS (Express Mail Service), SAL (Economy Air Mail), and Surface Mail (boat, essentially).
 
+![Japan Post Isuzu Forward delivery truck — the red postal vehicle that handles EMS, SAL and surface mail pickups across Japan for international anime figure shipments](/images/articles/ship-anime-figures-merch-home-japan/body-wikimedia-7.webp)
+*A Japan Post Isuzu Forward delivery truck — Japan Post's red fleet handles EMS, SAL, and Surface Mail collections from local post offices, including the international anime-figure parcels you drop at the counter. Photo: Mj-bird / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:ISUZU_FORWARD,_Post_Office_Car.jpeg), CC BY-SA 3.0.*
+
 **EMS: Fast but expensive.** EMS gets your package to most countries in 5-10 days. It includes tracking, insurance up to 20,000 yen, and customs clearance handling. The catch? You pay for speed. A 1kg package to the United States runs 6,700 yen. To Australia, it’s 8,000 yen. To the UK, 6,900 yen. If you’re shipping a single figure or small merch haul, this is overpriced.
 
 **SAL: The sweet spot.** SAL (Service Aérien Économique) is slower but reasonable. Your package gets on planes when there’s space, meaning 2-4 weeks is typical, sometimes faster. A 1kg package via SAL to the US costs 2,500 yen. Australia: 3,200 yen. UK: 2,700 yen. You get basic tracking and 6,000 yen of insurance included. This is what I use for 90 percent of my shipments.
@@ -61,6 +64,9 @@ The post office will give you a tracking number. Use it. You’ll be able to see
 
 ## Option 2: Kuroneko Yamato / Sagawa (Speed & Reliability)
 Kuroneko Yamato (the black cat delivery company) and Sagawa are Japan’s major domestic and international couriers. Think of them as UPS or DHL equivalents. They’re faster and more reliable than Japan Post but cost more.
+
+![Kuroneko Yamato delivery truck in Hino — the same fleet that handles Ta-Q-BIN domestic and international anime figure shipments](/images/articles/ship-anime-figures-merch-home-japan/body-wikimedia-6.webp)
+*A Kuroneko Yamato delivery truck — the black cat livery you see across Japan picks up Ta-Q-BIN packages from hotel front desks and Yamada Denki collection points. Photo: Syced / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Yamato_delivery_electrick_truck,_Hino.jpg), CC0.*
 
 **Kuroneko Yamato’s Ta-Q-BIN service** is international-ready. A 2kg package to the US runs around 7,500 yen with 3-5 day delivery. To Australia: 9,200 yen. To Europe: 8,500 yen. You get full tracking, signature required on delivery, and they handle customs paperwork. No filling out forms yourself.
 
