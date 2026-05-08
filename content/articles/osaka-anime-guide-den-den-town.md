@@ -50,6 +50,9 @@ The main otaku strip runs along Sakai-suji (Route 25) between Nipponbashi Statio
 | Area | Nipponbashi, Naniwa-ku, Osaka |
 | Best time to visit | Weekday afternoons for fewer crowds; weekends for street events and cosplayers |
 
+![Street-level view of Den Den Town in Nipponbashi, Osaka with anime and electronics signage marking the entrance to the otaku shopping strip](/images/articles/osaka-anime-guide-den-den-town/body-wikimedia-4.webp)
+*Den Den Town along Sakai-suji in Nipponbashi, Osaka — the 800-meter otaku strip that runs between Nipponbashi and Ebisucho stations. Shops layer five and six floors deep, so plan a half-day minimum. Photo: Clemens Vasters / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Den-Den_Town,_Nipponbashi,_Osaka_-_Jul_12,_2023.jpg), CC BY 2.0.*
+
 ## Den Den Town: The Main Anime & Manga Shops
 
 ### Animate Osaka Nipponbashi
