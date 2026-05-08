@@ -78,6 +78,9 @@ Purikura (プリクラ) are photo booth machines that take your picture and then
 ## Where to Find the Best Game Centers in Tokyo
 
 
+![Wall of UFO catcher claw cranes packed with kawaii plush mascots inside an Akihabara game center](/images/articles/game-centers-arcades-japan/body-wikimedia-1.webp)
+*Claw-crane wall packed with kawaii plush prizes inside an Akihabara arcade — a typical sight on the 1F-2F crane floors. [Photo by Basile Morin via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Claw_cranes_with_kawaii_stuffed_mascots_and_a_woman_playing,_Akihabara,_Chiyoda,_Tokyo,_Japan.jpg) (CC BY-SA 4.0)*
+
 ### Akihabara: The Highest Concentration
 Akihabara has the densest collection of game centers in Japan. Within a 10-minute walk of the station, you'll find:
 
@@ -97,6 +100,10 @@ Akihabara has the densest collection of game centers in Japan. Within a 10-minut
 **GENDA GiGO Shinjuku Kabukicho** — Another large multi-floor game center right in the entertainment district. Good selection of rhythm games and fighting game cabinets.
 
 ### [Ikebukuro](/ikebukuro-anime-guide-2026/): Round1 Ikebukuro (24-Hour Arcade)
+
+![Round1 Stadium exterior with the chain's signature red-yellow-blue facade — same operator as Round1 Ikebukuro](/images/articles/game-centers-arcades-japan/body-wikimedia-3.webp)
+*Round1 Stadium exterior — same operator and similar multi-floor format as Round1 Ikebukuro, where arcade floors run 24 hours. [Photo by Tokumeigakarinoaoshima via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:ROUND1_STADIUM_Joto-Hanaten_store.jpg) (CC BY-SA 4.0)*
+
 [Round1 Ikebukuro](https://round1.co.jp/shop/sp/tokyo/ikebukuro/) sits at 1-14-1 Higashi-Ikebukuro, a 4-minute walk from Ikebukuro Station, and it is the rare Tokyo arcade that is **open 24 hours a day** for the ground-floor amusement floors. It is less of a traditional game center and more of an entertainment complex — along with arcade games and crane machines, it offers bowling, karaoke, billiards, darts, table tennis, and a "Spo-Cha" sports area where you can buy a time-package pass (roughly **¥2,500–¥2,800 for a few hours** of access to most facilities). It is ideal if you want variety beyond just arcade games, especially in a group.
 
 <div className="jpn-tip">
@@ -109,6 +116,10 @@ Akihabara has the densest collection of game centers in Japan. Within a 10-minut
 **Adores Shibuya** — Known for purikura and crane games. Skews younger and more casual.
 
 ### Odaiba: JOYPOLIS (Indoor Theme Park Arcade)
+
+![Tokyo Joypolis indoor theme park interior with multi-storey atrium and amusement attractions](/images/articles/game-centers-arcades-japan/body-wikimedia-2.webp)
+*Tokyo Joypolis in Odaiba — SEGA's flagship indoor amusement park, mixing VR rides with arcade games. [Photo by ITA-ATU via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tokyo_Joypolis.jpg) (CC BY-SA 3.0)*
+
 **Tokyo Joypolis** in Odaiba is SEGA's indoor amusement park featuring VR attractions, roller coasters, and large-scale arcade games. It's more theme park than game center, with an admission fee (¥1,500 entry (adults), or ¥5,800 for a passport that includes all rides). Worth it if you're already visiting Odaiba, especially with kids or in bad weather.
 
 ## The "Japanese Game Tower" Experience: RED° TOKYO TOWER
