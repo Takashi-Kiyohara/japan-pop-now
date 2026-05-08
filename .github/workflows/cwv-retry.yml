@@ -15,6 +15,9 @@ permissions:
 
 jobs:
   cwv:
+    # Skip phantom push triggers — workflow declares only schedule + workflow_dispatch
+    # but GH Actions sometimes spawns 0-job push runs that get marked as failures.
+    if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
