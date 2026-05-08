@@ -137,6 +137,9 @@ Download and set up these apps before you travel. They work even without interne
 ## 2 Weeks Before: Collab Cafe & Event Prep
 With two weeks to go, you’re in the homestretch. Now you’re confirming details and making backup plans.
 
+![Crowds queueing for the Yurikamome line after day 2 of Comiket 106 at Tokyo Big Sight, the scale of attendance anime fans plan around](/images/articles/japan-trip-checklist-anime-fans-2026/body-wikimedia-5.webp)
+*The Yurikamome line queue exiting Tokyo Big Sight after Comiket day 2 — if your trip overlaps with Comiket, Anime Japan, or a major collab opening, factor 2-3 hours of transit-line buffer into the day. Photo: Benlisquare / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Queueing_for_the_Yurikamome_line_after_day_2_of_Comiket_106.jpg), CC BY-SA 4.0.*
+
 ### Check Lottery Results and Plan Walk-In Strategy
 If you’ve entered collab cafe lotteries, results drop around this time. Check your email and account logins obsessively—some venues send results via email that might hit your spam folder. If you won, you’ll receive a confirmation email with your reserved time slot (usually a specific 2-hour window) and instructions for arrival.
 
