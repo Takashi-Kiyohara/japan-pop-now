@@ -77,6 +77,9 @@ A typical visit costs ¥2,500 to ¥5,000 per person including food, drinks, and 
 ## Open Now: Late April–May 2026 (Including Golden Week)
 The following collab cafes are running in Tokyo right now. We’ve included everything you need to plan a visit: dates, location with the nearest station and walking directions, reservation requirements, what makes each one worth going to, and a local tip you won’t find on the official site.
 
+![Cherry blossoms framing a Tokyo street in spring 2024 — the seasonal backdrop that overlaps with the April-May collab cafe rotation](/images/articles/tokyo-anime-collab-cafes-spring-2026/body-wikimedia-4.webp)
+*Spring in Tokyo — sakura street view from April 2024. Most spring 2026 collab cafes overlap with the cherry blossom window in the first half of April, so plan for sakura crowds plus collab queues if you visit Shibuya or Shinjuku that week. Photo: Raita Futo / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Spring_in_Tokyo_(53637626755).jpg), CC BY 2.0.*
+
 How to use this list fast
 
 If you only have one slot, prioritize **reservation difficulty first**, **location second**, and **merchandise appeal third**. Reservation-heavy venues like BOX cafe&space and PARCO cafes can sell out fast, while Gratte stands and merch pop-ups are better same-week options.
