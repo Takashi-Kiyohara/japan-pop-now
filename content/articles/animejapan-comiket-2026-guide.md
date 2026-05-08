@@ -124,6 +124,7 @@ For [anime-themed stays](/articles/how-to-book-anime-collab-cafe-japan/), some c
 
 ### Related Guides
 
+- [AnimeJapan 2026 International Visitor Playbook](/articles/animejapan-2026-guide-international-visitors) — exhibitor lineup, ticketing, and Family Festa walkthrough.
 - [Tokyo Anime Collab Cafes Spring 2026](/articles/tokyo-anime-collab-cafes-spring-2026)
 - [How to Book Anime Collab Cafes](/articles/how-to-book-anime-collab-cafe-japan)
 - [Lawson Ticket & Loppi Guide](/lawson-ticket-loppi-guide/)

@@ -19,7 +19,7 @@ imageCredit: "Photo: Japan Pop Now editorial (Loppi kiosk placeholder)"
 keywords: ["lawson ticket booking 2026", "anime cafe reservation english", "how to book anime cafe japan", "loppi machine guide", "l-tike.com english"]
 description: "Book an anime cafe via Lawson Ticket, 2026: step-by-step Loppi machine walkthrough, QR code pickup, cash payment rules, and 5 common FAQs."
 excerpt: "Step-by-step English guide to booking anime cafes through Lawson Ticket (l-tike.com) and Loppi machines — 6-step flow, phone-number workarounds, and the 5 questions foreign visitors ask most."
-relatedSlugs: ["tokyo-anime-collab-cafes-spring-2026", "demon-slayer-rerun-cafe-ufotable-2026", "apothecary-diaries-oshi-tabi-osaka-shinkansen-2026", "ouran-host-club-20th-anniversary-cafes-2026", "osaka-anime-cafes-complete-guide-2026"]
+relatedSlugs: ["tokyo-anime-collab-cafes-spring-2026", "demon-slayer-rerun-cafe-ufotable-kizuna-2026", "apothecary-diaries-oshi-tabi-osaka-shinkansen-2026", "ouran-host-club-20th-anniversary-cafes-2026", "osaka-anime-cafes-complete-guide-2026"]
 reading_time: 9
 featured: true
 wpPostId: 201
@@ -246,7 +246,7 @@ Roughly **40% of anime collab cafes** route through Lawson Ticket, **35%** throu
 Booking the platform is step one. What to actually do next depends on your Tokyo itinerary:
 
 - [Tokyo Anime Collab Cafes Spring 2026](/tokyo-anime-collab-cafes-spring-2026/) — every cafe currently open, with booking platform noted per venue
-- [Demon Slayer Rerun Cafe ufotable 2026](/demon-slayer-rerun-cafe-ufotable-2026/) — LivePocket weekly lottery walkthrough, not Lawson
+- [Demon Slayer Rerun Cafe ufotable Kizuna 2026](/articles/demon-slayer-rerun-cafe-ufotable-kizuna-2026) — LivePocket weekly lottery walkthrough, not Lawson
 - [Apothecary Diaries Oshi-Tabi Osaka 2026](/apothecary-diaries-oshi-tabi-osaka-shinkansen-2026/) — Lawson booking for the Osaka Shinkansen cafe
 - [Ouran Host Club 20th Anniversary Cafes 2026](/ouran-host-club-20th-anniversary-cafes-2026/) — Lawson-routed for the Tree Village Tokyo venue
 - [Osaka Anime Cafes Complete Guide 2026](/osaka-anime-cafes-complete-guide-2026/) — Osaka-specific booking tactics

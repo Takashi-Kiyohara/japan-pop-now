@@ -271,6 +271,7 @@ DAY 2 ONWARD:
 
 ## More Practical Guides
 
+- [AnimeJapan 2026 International Visitor Guide](/articles/animejapan-2026-guide-international-visitors) — booking timeline, Family Festa access, and exhibitor-stand prep.
 - [How to Book Collab Cafes in Tokyo: The Complete Lottery & Walk-In Guide](/articles/how-to-book-anime-collab-cafe-japan)
 - [Tokyo Anime Collab Cafes This Spring 2026](/articles/tokyo-anime-collab-cafes-spring-2026)
 - [eSIM vs Pocket WiFi vs Prepaid SIM: Which One Is Actually Best](/japan-esim-pocket-wifi-sim-card-guide/)

@@ -345,6 +345,7 @@ Direct operators sometimes request bank transfer (especially for private tours).
 
 ## More Area Guides
 
+- [AnimeJapan 2026 International Visitor Guide](/articles/animejapan-2026-guide-international-visitors) — combine with a guided tour day if your trip overlaps the late-March exhibition window.
 - [Akihabara Complete Guide 2026](/articles/akihabara-complete-guide-2026)
 - [Ikebukuro Anime Guide 2026](/articles/ikebukuro-anime-guide-2026)
 - [Shibuya & Harajuku Guide](/articles/shibuya-harajuku-pop-culture-guide)
