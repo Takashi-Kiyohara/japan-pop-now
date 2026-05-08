@@ -101,6 +101,9 @@ As an Amazon Associate, we may earn from qualifying purchases.
 ## Where to Shop: Tokyo’s Best Anime Merch Stores
 Tokyo has several major anime shopping districts — [Akihabara](/articles/akihabara-complete-guide-2026), [Ikebukuro](/articles/ikebukuro-anime-guide-2026), and [Nakano Broadway](/articles/nakano-broadway-guide) are the big three. See our [Tokyo Anime District Guide](/articles/tokyo-anime-district-guide) for an overview of all five areas.
 
+![Animate Akihabara flagship anime merch shop exterior on Chuo-dori in Tokyo](/images/articles/anime-merch-shopping-guide-japan/body-wikimedia-1.webp)
+*Photo: Dick Thomas Johnson / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Animate_Akihabara_(53152038454).jpg), CC BY 2.0.*
+
 ### Animate (Multiple Locations)
 *For a complete floor-by-floor breakdown of Akihabara’s anime buildings, see our [Akihabara Complete Guide 2026](/articles/akihabara-complete-guide-2026).*
 
@@ -114,6 +117,9 @@ Animate stores run their own exclusive merchandise lines and frequently offer pu
 
 ### Mandarake
 *Mandarake’s flagship is in Nakano Broadway — see our [Nakano Broadway Guide](/articles/nakano-broadway-guide) for the full floor map.*
+
+![Mandarake Complex used anime figure and manga shop building in Akihabara Tokyo](/images/articles/anime-merch-shopping-guide-japan/body-wikimedia-2.webp)
+*Photo: street viewer / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mandarake_Complex,_Akihabara.jpg), CC BY 2.0.*
 
 **Mandarake** (founded 1980) is Japan's largest secondhand anime / manga / collectibles chain, with [27+ individual specialty stores at Nakano Broadway](https://earth.mandarake.co.jp/shop/) operating under the Mandarake umbrella per the operator's store directory. The two key Tokyo locations:
 
@@ -138,6 +144,9 @@ For franchise-specific merchandise, dedicated stores offer the widest selection:
 ## Shopping by Budget
 Most visitors overspend when they buy too many low-priority items early in the day. A better approach is to decide your budget first, then match it to the district and store type.
 
+![Mandarake interior shelves packed with secondhand manga and anime collectibles in Akihabara](/images/articles/anime-merch-shopping-guide-japan/body-wikimedia-3.webp)
+*Photo: PhilaSiti / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Interiors_of_Mandarake,_Akibahara.jpg), CC BY-SA 4.0.*
+
 ### What a ¥3,000–¥5,000 anime merch budget gets you
 **Budget-friendly:** Focus on small goods — keychains, acrylic stands, clear files, gacha items, and sticker sheets. Browse Animate’s accessories floor and check [gachapon](/articles/gachapon-guide-japan) machines outside stores. Crane games at [game center](/game-centers-guide-japan/)s can yield figures for less than retail if you’re skillful (or lucky).
 
@@ -157,6 +166,9 @@ Compare districts before you shop: [Tokyo Anime District Guide](/articles/tokyo-
 
 ## Timing Your Shopping
 **New release days:** Most anime merchandise releases on Saturdays. If you’re targeting a specific figure or limited item, check the release date and plan to visit on that day. Popular items sell out by afternoon.
+
+![Animate Akihabara main entrance signage and sliding glass doors at the otaku merch retailer](/images/articles/anime-merch-shopping-guide-japan/body-wikimedia-4.webp)
+*Photo: Antonio Tajuelo / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Animate_Akihabara_main_entrance_20131125.jpg), CC BY 2.0.*
 
 **Anime season launches:** New merchandise waves correspond to anime season starts (January, April, July, October). The weeks around new season premieres see a flood of new goods for currently airing shows.
 
