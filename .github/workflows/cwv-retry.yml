@@ -14,9 +14,18 @@ permissions:
   issues: write
 
 jobs:
+  # Always-succeeds fallback so push-triggered phantom runs do not show as failure.
+  # When CI runs on push (not schedule / workflow_dispatch), the cwv job is skipped
+  # via its if: clause and only this no-op job records a success conclusion.
+  guard:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Note event
+        run: |
+          echo "Triggered by ${{ github.event_name }}; cwv job runs only on schedule/workflow_dispatch."
+
   cwv:
-    # Skip phantom push triggers — workflow declares only schedule + workflow_dispatch
-    # but GH Actions sometimes spawns 0-job push runs that get marked as failures.
+    needs: guard
     if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
     runs-on: ubuntu-latest
     steps:
