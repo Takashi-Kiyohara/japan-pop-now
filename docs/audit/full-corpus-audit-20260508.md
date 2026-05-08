@@ -1,6 +1,6 @@
 # Full-corpus 10-axis audit — 20260508
 
-Generated: 2026-05-08T02:58:02Z
+Generated: 2026-05-08T03:24:19Z
 Articles audited: 87
 
 ## Bucket totals
