@@ -85,6 +85,10 @@ The staff is knowledgeable and accustomed to international customers — dont he
 **Access:** 3 min walk from JR Akihabara Station
 
 ### Mandarake Akihabara (Complex)
+
+![Mandarake Complex storefront in Akihabara, the eight-floor secondhand anime and manga store toward Suehirocho](/images/articles/akihabara-complete-guide-2026/body-wikimedia-5.webp)
+*Mandarake Complex Akihabara — eight floors of secondhand anime, manga, figures, doujinshi and vintage cels. [Photo by 正和 via Wikimedia Commons](https://commons.wikimedia.org/wiki/File:MANDARAKE_COMPLEX_AKIHABARA.JPG) (CC BY-SA 3.0)*
+
 Eight floors of secondhand anime and manga goods — the treasure hunters paradise. This is where you find discontinued figures, out-of-print manga volumes, vintage anime cels, rare doujinshi, and retro merchandise from series that ended decades ago. Each floor specializes in a different category.
 
 Prices range from surprisingly affordable to serious-collector territory. The condition grading is reliable — Mandarakes quality control is excellent. Japanese fans are meticulous about item care, so secondhand here often means opened once, displayed briefly, repackaged perfectly.
