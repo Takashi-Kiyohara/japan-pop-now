@@ -44,7 +44,7 @@ Across years of Japanese anime location pilgrimage practice, the Jinbocho-Ochano
 
 Every major location from the Reze Arc movie sits within a tight cluster around Jinbocho (神保町), Tokyo's famous used-bookstore district. The area's Showa-era architecture, narrow slopes, and quiet side streets clearly influenced the film's visual design — and walking through it, you'll immediately feel why the animators chose these specific spots.
 
-All five locations below are within a 10-minute walk of each other. I'd suggest starting from Suidobashi Station's East Exit and working your way south toward Jinbocho Station. The whole route takes about 2-3 hours if you stop for photos and coffee.
+All five locations below are within a 10-minute walk of each other. The recommended route starts from Suidobashi Station's East Exit and works south toward Jinbocho Station. The whole walk takes about 2-3 hours if you stop for photos and coffee.
 
 ![JR Suidobashi Station east exit Tokyo — gateway to the Chainsaw Man Reze Arc pilgrimage route in Jinbocho](/images/articles/chainsaw-man-pilgrimage-tokyo/body-wikimedia-3.webp)
 
@@ -128,7 +128,7 @@ That said, fans have identified a few connections worth noting:
 
 **Public Safety Bureau Office** — The government building where Makima works appears to be a composite of several real government buildings in Kasumigaseki and Nagatacho. The architecture combines elements from the Ministry of Economy building and other Meiji/Taisho-era government structures.
 
-For Season 1 fans, I'd honestly recommend combining a Jinbocho pilgrimage with a general Tokyo pop culture day. Hit [Akihabara](/articles/akihabara-complete-guide-2026) for Chainsaw Man merchandise (Animate and Mandarake both stock plenty), then head to [our merch shopping guide](/anime-merch-shopping-guide/) for the full rundown on where to find figures, manga, and limited-edition goods.
+For Season 1 fans, the practical recommendation is to combine a Jinbocho pilgrimage with a general Tokyo pop culture day. Hit [Akihabara](/articles/akihabara-complete-guide-2026) for Chainsaw Man merchandise (Animate and Mandarake both stock plenty), then head to [our merch shopping guide](/anime-merch-shopping-guide/) for the full rundown on where to find figures, manga, and limited-edition goods.
 
 ## Recommended Walking Route (2-3 Hours)
 
