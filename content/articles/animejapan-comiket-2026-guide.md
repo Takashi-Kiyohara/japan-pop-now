@@ -105,6 +105,14 @@ Download the official Comiket catalog PDF (comiket.co.jp, 2 weeks before event).
 | Merch | Official, limited runs | Unique, one-of-a-kind |
 | Stamina | Moderate | High |
 
+## Which Event Fits Your Trip?
+
+For first-time visitors with a single day to spare, AnimeJapan is the safer pick. English signage at the East Halls, official-studio merchandise booths, and structured stage programming make the venue navigable without Japanese-language ability. Public-day passes also include access to all panels and exhibitor halls without the additional Circle.ms wristband required for Comiket.
+
+Comiket rewards advance preparation. Download the official PDF catalog from comiket.co.jp roughly two weeks before each cycle, identify the genre sections that match your fandom, and pre-mark a route. Without that preparation, the 15,000-plus circles spread across multiple halls become disorienting within an hour.
+
+Budget-conscious travellers should weigh the entry fees against likely spend. AnimeJapan's ¥2,200 advance pass plus ¥7,000–¥15,000 in merchandise represents a typical day. Comiket's ¥1,000 entry plus ¥30,000-plus in doujinshi reflects the deeper hunt for rare fanworks. If both events fall within the same trip window, attend AnimeJapan first; the milder crowd density acts as a useful warm-up before Comiket's harder logistics.
+
 ## Budget Breakdown
 **AnimeJapan (one day):** ¥7,500–20,000+ depending on shopping.
 
