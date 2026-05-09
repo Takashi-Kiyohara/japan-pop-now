@@ -8,7 +8,7 @@ tags: []
 featuredImage: "/images/articles/japan-proxy-shopping-2026/featured.webp"
 featuredImageAlt: "Anime figure and Nendoroid display at an Akihabara shop — the kind of merchandise typically purchased through proxy services like Buyee, ZenMarket, and FROM JAPAN"
 author: "Takapon"
-excerpt: "Mercari Japan has the anime figure you've been hunting for three months. Yahoo Auctions has the doujinshi. You are in Portland. Proxy services fix this — I have used five over two years buying figures, vintage manga, rare gacha items, and here is the honest breakdown."
+excerpt: "Mercari Japan has the anime figure you've been hunting for three months. Yahoo Auctions has the doujinshi. You are in Portland. Proxy services fix this — five major proxy services compared across two years of figure, vintage manga, and rare gacha purchases. Here is the honest breakdown."
 relatedSlugs: []
 wpPostId: 610
 ---
@@ -18,7 +18,7 @@ wpPostId: 610
 Japan Proxy Shopping 2026: Buy Anime Figures & Merch Online
 Mercari Japan has the anime figure you’ve been hunting for three months. It’s on Yahoo Auctions. You’re in Portland. Problem: these sites don’t ship internationally, and they don’t speak English. Solution: a proxy service. Instead of giving up, you use a middleman to buy it for you.
 
-I’ve used five proxy services over two years to buy anime figures, vintage manga, rare gacha items, and random anime merchandise. Some are great. Some charge you hidden fees. Here’s the breakdown based on actual spending, not theory.
+Five major proxy services have been compared across two years of real anime-figure, vintage-manga, rare-gacha, and miscellaneous-merch orders. Some are great. Some charge hidden fees. Here’s the breakdown based on actual spending data, not theory.
 
 **Quick Tip:** Proxy services are completely legal. Japanese e-commerce sites allow them. You’re not breaking rules—you’re using a standard international buying method.
 
