@@ -108,6 +108,39 @@ Lawson runs smaller collabs (2–3 weeks, focus on food items, less store redesi
 ## Pro Tips
 **Restock timing:** 10:00 AM and 2:00 PM daily. **Payment:** Suica/IC cards, credit cards, cash, PayPay all work. **Avoid peak hours:** Weekends 11 AM–4 PM are packed. Visit weekday mornings or evenings.
 
+## Recent FamilyMart Anime Collabs Worth Studying
+
+The Durarara!! takeover continues a 2024–2026 run of FamilyMart partnerships that roughly doubled the chain's franchise count year-over-year. Several past collabs are worth studying for visitor planning purposes:
+
+- **Chiikawa (early 2024 and again December 2024):** sold out within 48 hours nationwide, with merch resale on Mercari hitting 4–5x retail. The December 2024 re-run added themed bentos and onigiri.
+- **Spy×Family (mid-2024 alongside the Code: White film release):** ran in over 200 branches simultaneously rather than the single-store flagship pattern Durarara!! uses.
+- **Frieren (autumn 2024):** the staff-uniform tweak debuted here, with Frieren-themed onigiri and a clear-file giveaway with ¥1,500-plus purchases.
+- **Jujutsu Kaisen (early 2025 alongside the Hidden Inventory arc release):** highest single-day footfall the format has recorded, with around 2,800 visitors at the Shinjuku flagship branch on opening Saturday.
+
+These rotate roughly every six to eight weeks. FamilyMart's official campaign page at family.co.jp lists current and upcoming partnerships in Japanese; the press-release feed at PR Times also archives the full history if a particular IP has been featured before.
+
+## Beyond Tokyo: Other Prefectures Worth Checking
+
+Tokyo gets the flagship branch but secondary themed branches typically appear in:
+
+- **Osaka:** Namba and Umeda area, usually one or two themed branches per major collab.
+- **Nagoya:** Sakae district, typically one branch.
+- **Sendai, Fukuoka, Sapporo:** one branch each for headline IPs.
+
+Outside the flagship, the merchandise selection is roughly 60–70% of the headline branch and the food items are often identical. The smaller crowd at secondary branches makes for a much faster shopping run — the Sapporo branch during the Chiikawa December 2024 collab logged 25-minute average visit times versus 90 minutes at the Tokyo flagship.
+
+## International Visitor Practicalities
+
+Tax-free shopping does not apply at convenience-store collab counters as of 2026 — the per-receipt minimum (¥5,000 in consumable goods, ¥10,000 in other goods) is rarely met because each item is small. The merchandise comes home in luggage as regular souvenirs.
+
+Carry-on rules: acrylic stands and clear files travel without issue. Food items including drinks and onigiri are fine in checked baggage but should not enter carry-on through international security if liquid-equivalent. Confirm with your airline if your itinerary includes the United States, where some food restrictions are stricter than EU or Australian inbound rules.
+
+For payment: foreign IC cards on Apple Pay and Google Pay work at FamilyMart registers, but the merchandise side of the till sometimes uses a separate terminal that takes Visa or Mastercard physical cards or cash only. Carrying ¥10,000 in cash as a fallback prevents a frustrating moment at checkout.
+
+## After the Collab Ends: Resale Market Realities
+
+Once a FamilyMart collab closes, the exclusive items move to Mercari, Yahoo Auctions, and Japanese proxy services. Acrylic stands typically appreciate 1.5–3x within six months, while clear files and packaging hold roughly 2x. The Chiikawa Christmas-themed acrylic stand from December 2024 still trades at ¥6,000–¥9,000 a year later versus its ¥1,800 retail price. A saved-search alert on Mercari for the IP name plus "ファミマ" surfaces listings within 24 hours of a sellout — a reasonable backup plan when the on-site visit window is missed.
+
 ## Related Resources
 
 - [How to book anime collab cafes](/articles/how-to-book-anime-collab-cafe-japan/)
