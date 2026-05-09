@@ -138,7 +138,7 @@ Short answer: not comfortably. The five areas together need 9-12 hours of walkin
 
 Here’s what’s realistic:
 
-**One full day (Premium Pass):** You can physically visit all five areas if you move efficiently, but you’ll be rushing through at least two of them. Grand Warehouse alone can eat 3-4 hours if you engage with every exhibit. I’d call this “checked the boxes but didn’t fully experience it.”
+**One full day (Premium Pass):** You can physically visit all five areas if you move efficiently, but you’ll be rushing through at least two of them. Grand Warehouse alone can eat 3-4 hours if you engage with every exhibit. Most visitors describe a single-day Premium run as “checked the boxes but didn’t fully experience it.”
 
 **One full day (Standard Pass):** Three areas — Grand Warehouse, Mononoke Village, Valley of Witches — is a comfortable full-day pace. You’ll have time to linger in the Grand Warehouse, eat lunch without rushing, and explore Valley of Witches properly.
 
