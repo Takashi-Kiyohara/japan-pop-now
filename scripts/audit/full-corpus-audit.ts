@@ -32,6 +32,13 @@ const today = new Date().toISOString().slice(0, 10).replace(/-/g, '')
 
 type AxisResult = { pass: boolean; reason?: string; metrics?: Record<string, unknown> }
 
+type FabricationCandidate = {
+  line: number
+  quote: string
+  context: string
+  pattern: string
+}
+
 type ArticleAudit = {
   slug: string
   title: string
@@ -40,6 +47,7 @@ type ArticleAudit = {
   imageCount: number
   bodyImageCount: number
   density: number
+  fabricationCandidates: FabricationCandidate[]
   axes: {
     metaDesc: AxisResult
     title: AxisResult
@@ -59,6 +67,56 @@ type ArticleAudit = {
 
 // Apostrophe class: U+0027 (ASCII), U+2018, U+2019 (curly quotes commonly auto-substituted by editors)
 const APOS = `[\\u0027\\u2018\\u2019]`
+
+// R5 (2026-05-09): catch-all "I" + contraction/auxiliary candidates for human review.
+// Replaces the verb-whitelist approach; each match becomes a fabricationCandidate
+// surfaced in audit JSON for manual triage (delete / advisory rewrite / official source).
+// Does NOT gate axis pass/fail — that remains driven by PATTERNS_FABRICATION below
+// for backward compatibility with the bucket logic. Run against raw file content
+// (frontmatter + body) so excerpt/description hits also surface.
+const CANDIDATE_PATTERNS_R5: Array<{ re: RegExp; label: string }> = [
+  // Catch-all: I + (contraction|auxiliary) + word
+  { re: new RegExp(`\\bI${APOS}ve\\s+\\w+`, 'gi'), label: `I've X` },
+  { re: /\bI have\s+\w+/gi, label: 'I have X' },
+  { re: /\bI had\s+\w+/gi, label: 'I had X' },
+  { re: new RegExp(`\\bI${APOS}d\\s+\\w+`, 'gi'), label: `I'd X` },
+  { re: new RegExp(`\\bI${APOS}ll\\s+\\w+`, 'gi'), label: `I'll X` },
+  { re: /\bI will\s+\w+/gi, label: 'I will X' },
+  { re: new RegExp(`\\bI${APOS}m\\s+\\w+`, 'gi'), label: `I'm X` },
+  { re: /\bI am\s+\w+/gi, label: 'I am X' },
+  // Phrase patterns
+  { re: /\bduring my visit\b/gi, label: 'during my visit' },
+  { re: /\bon my trip\b/gi, label: 'on my trip' },
+  { re: /\bmy experience\b/gi, label: 'my experience' },
+  { re: /\bmy last\b/gi, label: 'my last' },
+  { re: /\bfirst time I\b/gi, label: 'first time I' },
+  { re: /\bby year (one|two|three|four|five|six|seven|eight|nine|ten|\d+)\b/gi, label: 'by year N' },
+]
+
+function findCandidatesInRaw(raw: string): FabricationCandidate[] {
+  const candidates: FabricationCandidate[] = []
+  for (const { re, label } of CANDIDATE_PATTERNS_R5) {
+    re.lastIndex = 0
+    let match: RegExpExecArray | null
+    while ((match = re.exec(raw)) !== null) {
+      const idx = match.index
+      const before = raw.slice(0, idx)
+      const lineNum = before.split('\n').length
+      const startOfLine = before.lastIndexOf('\n') + 1
+      const endOfLine = raw.indexOf('\n', idx)
+      const lineText = raw.slice(startOfLine, endOfLine === -1 ? raw.length : endOfLine).slice(0, 220)
+      candidates.push({
+        line: lineNum,
+        quote: match[0],
+        context: lineText,
+        pattern: label,
+      })
+    }
+  }
+  // Sort by line, then quote, for stable output
+  candidates.sort((a, b) => a.line - b.line || a.quote.localeCompare(b.quote))
+  return candidates
+}
 const PATTERNS_FABRICATION = [
   new RegExp(`\\bI${APOS}?ve (stayed|visited|tested|spent|eaten|bought|walked|tried|seen|been|taken|booked|owned|shopped|toured|watched|learned|tasted|paid|attended|noticed|asked|included|always|driven|caught|done|mapped|measured|tracked|confirmed)\\b`, 'gi'),
   new RegExp(`\\bWhen I (stayed|visited|tested|spent|ate|bought|tried|saw|noticed|booked|owned|shopped|toured|walked|attended|stopped)\\b`, 'gi'),
@@ -130,6 +188,7 @@ function auditArticle(filename: string, allSlugs: Set<string>, noindexSlugs: Set
       imageCount: 0,
       bodyImageCount: 0,
       density: 0,
+      fabricationCandidates: [],
       axes: {
         metaDesc: { pass: false, reason: 'frontmatter parse error' },
         title: { pass: false, reason: 'frontmatter parse error' },
@@ -155,6 +214,7 @@ function auditArticle(filename: string, allSlugs: Set<string>, noindexSlugs: Set
   const noindex = robots.includes('noindex')
 
   const wordCount = getWordCount(content)
+  const fabricationCandidates = findCandidatesInRaw(raw)
 
   // Axis 1: meta-desc
   const descLen = description.length
@@ -318,6 +378,7 @@ function auditArticle(filename: string, allSlugs: Set<string>, noindexSlugs: Set
     imageCount: bodyImageCount + (hasFeatured ? 1 : 0),
     bodyImageCount,
     density,
+    fabricationCandidates,
     axes: {
       metaDesc: { pass: metaDescPass, reason: metaDescReason, metrics: { length: descLen } },
       title: { pass: titlePass, reason: titleReason, metrics: { length: titleLen } },
@@ -378,9 +439,17 @@ function main() {
     adsenseFitness: results.filter((r) => !r.axes.adsenseFitness.pass).length,
   }
 
+  const candidatesTotal = results.reduce((s, r) => s + r.fabricationCandidates.length, 0)
+  const candidatesByArticle = results
+    .filter((r) => r.fabricationCandidates.length > 0)
+    .map((r) => ({ slug: r.slug, noindex: r.noindex, count: r.fabricationCandidates.length, candidates: r.fabricationCandidates }))
+
   // Write JSON
   const jsonPath = path.join(process.cwd(), `docs/audit/full-corpus-audit-${today}.json`)
-  fs.writeFileSync(jsonPath, JSON.stringify({ generated: new Date().toISOString(), buckets, axisFail, results }, null, 2))
+  fs.writeFileSync(
+    jsonPath,
+    JSON.stringify({ generated: new Date().toISOString(), buckets, axisFail, candidatesTotal, candidatesByArticle, results }, null, 2),
+  )
 
   // Write Markdown scorecard
   const sorted = [...results].sort((a, b) => a.passCount - b.passCount || a.slug.localeCompare(b.slug))
@@ -417,6 +486,29 @@ function main() {
     )
   }
   lines.push('')
+  lines.push('## R5 fabrication candidates (manual review)')
+  lines.push('')
+  lines.push(`Total: ${candidatesTotal} hits across ${candidatesByArticle.length} articles.`)
+  lines.push('')
+  if (candidatesByArticle.length > 0) {
+    lines.push(`| Slug | noindex | Hits |`)
+    lines.push(`|---|---|---|`)
+    for (const a of candidatesByArticle) {
+      lines.push(`| \`${a.slug}\` | ${a.noindex ? 'yes' : 'no'} | ${a.count} |`)
+    }
+    lines.push('')
+    lines.push('### Detail per hit')
+    lines.push('')
+    for (const a of candidatesByArticle) {
+      lines.push(`#### \`${a.slug}\`${a.noindex ? ' (noindex)' : ''}`)
+      lines.push('')
+      for (const c of a.candidates) {
+        lines.push(`- L${c.line} \`${c.pattern}\`: \`${c.quote}\``)
+        lines.push(`  > ${c.context}`)
+      }
+      lines.push('')
+    }
+  }
   lines.push('## Failure detail (FAIL_under_5 + PASS_5_to_7)')
   lines.push('')
   for (const r of sorted) {
@@ -437,6 +529,7 @@ function main() {
   console.log(`Wrote ${mdPath}`)
   console.log(`Bucket totals:`, buckets)
   console.log(`Axis fail counts:`, axisFail)
+  console.log(`R5 candidates total: ${candidatesTotal} (across ${candidatesByArticle.length} articles)`)
 }
 
 main()
