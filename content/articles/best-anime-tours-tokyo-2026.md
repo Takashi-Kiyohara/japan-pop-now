@@ -9,7 +9,7 @@ featuredImage: "/images/articles/best-anime-tours-tokyo-2026/featured.jpg"
 featuredImageAlt: "Yokohama Cosmo World amusement park with giant Ferris wheel at night"
 imageCredit: "Photo: © JNTO"
 author: "Takapon"
-excerpt: "I've booked six different anime tours across three platforms over 18 months. Not all anime tours are created equal — some are worth the premium, others you're better off skipping. Here is the honest comparison of Klook, Viator, GetYourGuide, and local operators with exact prices."
+excerpt: "Six different anime tours across three platforms over 18 months — comparison of bookings on Klook, Viator, GetYourGuide, and local operators. Not all anime tours are created equal: some are worth the premium, others are better off skipped. Here is the honest comparison with exact prices."
 relatedSlugs: []
 wpPostId: 539
 voice: "friend-guide"
