@@ -104,7 +104,7 @@ For travelers, it means: you drop your suitcase at a hotel, convenience store, o
 Most travelers’ first experience with takuhaibin is at their hotel. Here’s exactly what happens:
 
 ### Step 1: Tell the Front Desk You Want to Ship Your Bag
-Go to the front desk and say: “I’d like to use takuhaibin to send this bag to [next hotel name].”
+Go to the front desk and request takuhaibin (luggage forwarding) to [next hotel name] — staff handle the form and pickup.
 
 Or hand them this phrase: **“明日、別のホテルに荷物を送りたいです。どのサービスを使いますか?”** (Tomorrow, I want to send these bags to a different hotel. Which service do you use?)
 
@@ -182,7 +182,7 @@ Payment is usually at checkout or billed to your room. Hand your suitcase to sta
 ### 7-Eleven and FamilyMart
 Most convenience stores accept Yamato takuhaibin shipments. Look for the Yamato sign near the counter.
 
-**Process:** Ask the staff “Takuhaibin onegaishimasu” (I’d like to use luggage forwarding). They’ll give you the same form, you fill it out, and they’ll arrange pickup — usually the same day.
+**Process:** Ask the staff “Takuhaibin onegaishimasu” (the polite request to use luggage forwarding). They’ll give you the same form, you fill it out, and they’ll arrange pickup — usually the same day.
 
 **Cost:** Same as hotel dropoff (¥2,000-3,000).
 
