@@ -19,7 +19,7 @@ canonical: "https://www.japan-pop-now.com/articles/japan-rail-pass-2026-guide"
 
 If you’re planning an anime pilgrimage across Japan — hitting collab cafes in Tokyo, One Piece statues in Kumamoto, and Den Den Town in Osaka — transportation costs add up fast. A Japan Rail Pass (JR Pass) can cut your train expenses in half, but it’s not always the right call. Here’s how to figure out if you actually need one, and how to get the best deal.
 
-I’ve used the JR Pass on three separate trips (7-day and 14-day), and I’ve also skipped it when staying only in Tokyo. This guide covers exactly when it pays off for anime fans, when it doesn’t, and the one mistake most first-time buyers make.
+Trip reports across anime-pilgrimage forums show the JR Pass used productively on combinations of 7-day and 14-day itineraries, and skipped on Tokyo-only stays. This guide covers exactly when it pays off for anime fans, when it doesn’t, and the one mistake most first-time buyers make.
 
 ## Table of Contents
 
@@ -208,7 +208,7 @@ Some packages bundle the JR Pass with pocket WiFi or eSIM for a small discount. 
 ### Can I use the JR Pass on Tokyo Metro lines?
 No. The JR Pass only covers JR lines. In Tokyo, that means the JR Yamanote Loop Line, JR Chuo Line, and JR Sobu Line — but not Tokyo Metro or Toei Subway. For Metro access, you need an IC card or a separate Metro pass.
 
-### Can I buy a JR Pass if I have a working holiday visa?
+### Can the JR Pass be bought on a working holiday visa?
 No. Only “temporary visitor” (tourist) visa holders are eligible. Working holiday, student, and work visas don’t qualify.
 
 ### Is it worth it for just a Tokyo-Osaka round trip?
