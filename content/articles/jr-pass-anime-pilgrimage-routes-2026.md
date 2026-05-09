@@ -156,6 +156,9 @@ This route doesn’t work for a JR Pass because the distances are short (you’r
 ## How to Buy a JR Pass in 2026
 There are two pathways to getting a JR Pass: exchange voucher (purchased before arrival) and direct purchase at Japanese JR offices.
 
+![Kyoto Station main hall — major JR Pass exchange location for anime pilgrimages heading to Kansai](/images/articles/jr-pass-anime-pilgrimage-routes-2026/body-wikimedia-4.webp)
+*Kyoto Station's main hall — the central JR Kyoto Travel Service Center inside is the standard voucher-to-pass exchange point for anime pilgrimages routing through Kansai. Photo: Michael Coghlan / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kyoto_Station_Hall_(53415470255).jpg), CC BY-SA 2.0.*
+
 **Exchange Voucher Method (Most Common):**
 
 You purchase an exchange voucher online from an authorized vendor before leaving your home country. Then, in Japan, you exchange it for an actual JR Pass at a JR office. This method works because JR Pass pricing is structured to prevent resale and arbitrage — you get a discount by buying the voucher exchange in advance, but you have to physically go to Japan and exchange it in person to prove you’re a temporary visitor.

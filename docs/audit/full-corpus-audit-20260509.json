@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-09T11:03:12.052Z",
+  "generated": "2026-05-09T11:33:57.823Z",
   "buckets": {
     "PASS_ALL_10": 87,
     "PASS_8plus": 0,
@@ -18,6 +18,8 @@
     "affiliate": 0,
     "adsenseFitness": 0
   },
+  "candidatesTotal": 0,
+  "candidatesByArticle": [],
   "results": [
     {
       "slug": "akihabara-arcade-rhythm-games-guide-2026",
@@ -27,6 +29,7 @@
       "imageCount": 5,
       "bodyImageCount": 4,
       "density": 1.8058690744920993,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -95,6 +98,7 @@
       "imageCount": 6,
       "bodyImageCount": 5,
       "density": 1.187648456057007,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -163,6 +167,7 @@
       "imageCount": 6,
       "bodyImageCount": 5,
       "density": 1.8281535648994516,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -227,10 +232,11 @@
       "slug": "anime-day-trips-from-tokyo-2026",
       "title": "7 Anime Day Trips from Tokyo 2026: JR Pass Pilgrimage Guide",
       "description": "Six anime pilgrimage spots within 2hrs of Tokyo — Kamakura (Slam Dunk), Hakone (Evangelion), Oarai (Girls und Panzer), Chichibu, Nikko. Routes + JR Pass math.",
-      "wordCount": 2783,
+      "wordCount": 2784,
       "imageCount": 7,
       "bodyImageCount": 6,
-      "density": 2.1559468199784404,
+      "density": 2.155172413793103,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -253,7 +259,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 2.1559468199784404,
+            "density": 2.155172413793103,
             "bodyImageCount": 6
           }
         },
@@ -283,7 +289,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 2783
+            "wordCount": 2784
           }
         }
       },
@@ -299,6 +305,7 @@
       "imageCount": 8,
       "bodyImageCount": 7,
       "density": 1.9662921348314608,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -367,6 +374,7 @@
       "imageCount": 5,
       "bodyImageCount": 4,
       "density": 1.1145165784341042,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -435,6 +443,7 @@
       "imageCount": 10,
       "bodyImageCount": 9,
       "density": 2.912621359223301,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -503,6 +512,7 @@
       "imageCount": 6,
       "bodyImageCount": 5,
       "density": 2.999400119976005,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -571,6 +581,7 @@
       "imageCount": 5,
       "bodyImageCount": 4,
       "density": 2.4691358024691357,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -639,6 +650,7 @@
       "imageCount": 5,
       "bodyImageCount": 4,
       "density": 1.3633265167007498,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -707,6 +719,7 @@
       "imageCount": 6,
       "bodyImageCount": 5,
       "density": 1.0590976488032195,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -775,6 +788,7 @@
       "imageCount": 7,
       "bodyImageCount": 6,
       "density": 2.099370188943317,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -839,10 +853,11 @@
       "slug": "book-japan-anime-events-overseas-2026",
       "title": "How to Book Japan Anime Events from Overseas (2026 Guide)",
       "description": "How to book Japan anime collab cafes, events, and theme parks from overseas — which platforms work internationally, which don't, proxy services compared.",
-      "wordCount": 2509,
+      "wordCount": 2506,
       "imageCount": 4,
       "bodyImageCount": 3,
-      "density": 1.1956954962136308,
+      "density": 1.1971268954509178,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -865,7 +880,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.1956954962136308,
+            "density": 1.1971268954509178,
             "bodyImageCount": 3
           }
         },
@@ -895,7 +910,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 2509
+            "wordCount": 2506
           }
         }
       },
@@ -907,10 +922,11 @@
       "slug": "chainsaw-man-pilgrimage-tokyo",
       "title": "Chainsaw Man Tokyo Pilgrimage 2026: Reze Arc Jinbocho Spots",
       "description": "Walk the real-world Jinbocho locations from Chainsaw Man's Reze Arc — phone booth, stone staircase, Showa-era office building, all within a 10-minute route.",
-      "wordCount": 2608,
+      "wordCount": 2609,
       "imageCount": 7,
       "bodyImageCount": 6,
-      "density": 2.3006134969325154,
+      "density": 2.2997316979685705,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -933,7 +949,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 2.3006134969325154,
+            "density": 2.2997316979685705,
             "bodyImageCount": 6
           }
         },
@@ -963,7 +979,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 2608
+            "wordCount": 2609
           }
         }
       },
@@ -979,6 +995,7 @@
       "imageCount": 11,
       "bodyImageCount": 10,
       "density": 3.7355248412401942,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -1047,6 +1064,7 @@
       "imageCount": 5,
       "bodyImageCount": 4,
       "density": 1.281640499839795,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -1115,6 +1133,7 @@
       "imageCount": 6,
       "bodyImageCount": 5,
       "density": 2.3877745940783193,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -1179,10 +1198,11 @@
       "slug": "dark-moon-chara-cafe-ikebukuro-2026",
       "title": "Dark Moon Ikebukuro 2026: THE Chara CAFE 12-Day Collab",
       "description": "DARK MOON cafe Ikebukuro 2026: 12-day collab at THE Chara CAFE Grandscape 2F, April 25 to May 6. Booking, menu prices, K-pop walk plan.",
-      "wordCount": 2070,
+      "wordCount": 2069,
       "imageCount": 4,
       "bodyImageCount": 3,
-      "density": 1.4492753623188406,
+      "density": 1.4499758337361044,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -1205,7 +1225,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.4492753623188406,
+            "density": 1.4499758337361044,
             "bodyImageCount": 3
           }
         },
@@ -1235,7 +1255,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 2070
+            "wordCount": 2069
           }
         }
       },
@@ -1251,6 +1271,7 @@
       "imageCount": 5,
       "bodyImageCount": 4,
       "density": 1.1855364552459988,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -1319,6 +1340,7 @@
       "imageCount": 6,
       "bodyImageCount": 5,
       "density": 1.1786892975011787,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -1387,6 +1409,7 @@
       "imageCount": 4,
       "bodyImageCount": 3,
       "density": 1.2048192771084338,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -1455,6 +1478,7 @@
       "imageCount": 4,
       "bodyImageCount": 3,
       "density": 1.0050251256281408,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -1523,6 +1547,7 @@
       "imageCount": 6,
       "bodyImageCount": 5,
       "density": 1.7059024223814399,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -1591,6 +1616,7 @@
       "imageCount": 6,
       "bodyImageCount": 5,
       "density": 2.7233115468409586,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -1659,6 +1685,7 @@
       "imageCount": 9,
       "bodyImageCount": 8,
       "density": 2.6143790849673203,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -1727,6 +1754,7 @@
       "imageCount": 6,
       "bodyImageCount": 5,
       "density": 2.028397565922921,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -1795,6 +1823,7 @@
       "imageCount": 4,
       "bodyImageCount": 3,
       "density": 1.941747572815534,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -1859,10 +1888,11 @@
       "slug": "first-timers-japan-playbook-anime-fans-2026",
       "title": "The First-Timer's Japan Playbook for Anime Fans (2026)",
       "description": "Plan your first Japan trip: hour-by-hour arrival, IC card, eSIM, cash rules, collab cafe booking, and etiquette for first-time anime fans.",
-      "wordCount": 2633,
+      "wordCount": 2640,
       "imageCount": 5,
       "bodyImageCount": 4,
-      "density": 1.519179642992784,
+      "density": 1.5151515151515151,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -1885,7 +1915,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.519179642992784,
+            "density": 1.5151515151515151,
             "bodyImageCount": 4
           }
         },
@@ -1915,7 +1945,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 2633
+            "wordCount": 2640
           }
         }
       },
@@ -1931,6 +1961,7 @@
       "imageCount": 5,
       "bodyImageCount": 4,
       "density": 1.2550988390335738,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -1999,6 +2030,7 @@
       "imageCount": 6,
       "bodyImageCount": 5,
       "density": 1.9546520719311962,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -2067,6 +2099,7 @@
       "imageCount": 6,
       "bodyImageCount": 5,
       "density": 1.2218963831867058,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -2135,6 +2168,7 @@
       "imageCount": 5,
       "bodyImageCount": 4,
       "density": 2.2818026240730176,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -2199,10 +2233,11 @@
       "slug": "ghibli-park-complete-guide-2026",
       "title": "Ghibli Park Complete Guide 2026: Tickets, Access & Tips",
       "description": "Ghibli Park 2026 guide: 5 areas, ¥1,000-7,800 tickets, buying from overseas, access from Tokyo or Nagoya, and why one day is not enough.",
-      "wordCount": 2995,
+      "wordCount": 3000,
       "imageCount": 8,
       "bodyImageCount": 7,
-      "density": 2.337228714524207,
+      "density": 2.3333333333333335,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -2225,7 +2260,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 2.337228714524207,
+            "density": 2.3333333333333335,
             "bodyImageCount": 7
           }
         },
@@ -2255,7 +2290,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 2995
+            "wordCount": 3000
           }
         }
       },
@@ -2271,6 +2306,7 @@
       "imageCount": 5,
       "bodyImageCount": 4,
       "density": 1.2399256044637321,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -2339,6 +2375,7 @@
       "imageCount": 4,
       "bodyImageCount": 3,
       "density": 1.2897678417884781,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -2407,6 +2444,7 @@
       "imageCount": 6,
       "bodyImageCount": 5,
       "density": 1.6539861065167052,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -2471,10 +2509,11 @@
       "slug": "how-to-ride-trains-japan-tourists-2026",
       "title": "How to Use Trains in Japan: A First-Timer's Anime Guide",
       "description": "How to use trains in Japan 2026: IC card pickup, ticket gates, Shinkansen booking, women-only cars, last-train clock, jet-lag day-one routes for anime fans.",
-      "wordCount": 3416,
+      "wordCount": 3410,
       "imageCount": 5,
       "bodyImageCount": 4,
-      "density": 1.17096018735363,
+      "density": 1.1730205278592376,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -2497,7 +2536,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.17096018735363,
+            "density": 1.1730205278592376,
             "bodyImageCount": 4
           }
         },
@@ -2527,7 +2566,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 3416
+            "wordCount": 3410
           }
         }
       },
@@ -2539,10 +2578,11 @@
       "slug": "hypnosismic-sweets-paradise-round8-2026",
       "title": "Hypnosismic × Sweets Paradise Round 8 — 2026 Visitor Guide",
       "description": "Hypnosismic × Sweets Paradise round 8, May 1–31 2026. Verified 9-venue calendar, buffet prices, app reservation rule, novelty rules, tourist route.",
-      "wordCount": 3606,
+      "wordCount": 3605,
       "imageCount": 5,
       "bodyImageCount": 4,
-      "density": 1.1092623405435387,
+      "density": 1.1095700416088765,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -2565,7 +2605,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.1092623405435387,
+            "density": 1.1095700416088765,
             "bodyImageCount": 4
           }
         },
@@ -2595,7 +2635,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 3606
+            "wordCount": 3605
           }
         }
       },
@@ -2611,6 +2651,7 @@
       "imageCount": 7,
       "bodyImageCount": 6,
       "density": 2.471169686985173,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -2679,6 +2720,7 @@
       "imageCount": 6,
       "bodyImageCount": 5,
       "density": 1.552312946289972,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -2747,6 +2789,7 @@
       "imageCount": 7,
       "bodyImageCount": 6,
       "density": 1.419782300047326,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -2811,10 +2854,11 @@
       "slug": "japan-luggage-forwarding-2026",
       "title": "Japan Luggage Forwarding 2026: Ship Bags for ¥2,000",
       "description": "Japan luggage forwarding (takkyubin) 2026: Yamato, Sagawa, ¥2,000-3,000 per bag between cities, hotel-to-hotel delivery — how to use it as a tourist.",
-      "wordCount": 2746,
+      "wordCount": 2748,
       "imageCount": 6,
       "bodyImageCount": 5,
-      "density": 1.820830298616169,
+      "density": 1.8195050946142648,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -2837,7 +2881,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.820830298616169,
+            "density": 1.8195050946142648,
             "bodyImageCount": 5
           }
         },
@@ -2867,7 +2911,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 2746
+            "wordCount": 2748
           }
         }
       },
@@ -2879,10 +2923,11 @@
       "slug": "japan-proxy-shopping-2026",
       "title": "Japan Proxy Shopping 2026: Buy Anime Figures & Merch Online",
       "description": "Japan proxy shopping 2026: Buyee, ZenMarket, Tenso, FromJapan, Jauce compared. Fees, shipping, Mercari + Yahoo Auctions for international anime fans.",
-      "wordCount": 3074,
+      "wordCount": 3071,
       "imageCount": 6,
       "bodyImageCount": 5,
-      "density": 1.6265452179570592,
+      "density": 1.62813415825464,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -2905,7 +2950,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.6265452179570592,
+            "density": 1.62813415825464,
             "bodyImageCount": 5
           }
         },
@@ -2935,7 +2980,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 3074
+            "wordCount": 3071
           }
         }
       },
@@ -2951,6 +2996,7 @@
       "imageCount": 7,
       "bodyImageCount": 6,
       "density": 1.587721619476052,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -3015,10 +3061,11 @@
       "slug": "japan-rail-pass-guide-anime-fans",
       "title": "Japan Rail Pass Guide for Anime Fans: Is It Worth It? (2026)",
       "description": "Japan Rail Pass guide for anime fans (2026): collab cafes in Tokyo, One Piece statues in Kumamoto, Den Den Town — route, cost, and activation tips.",
-      "wordCount": 2315,
+      "wordCount": 2314,
       "imageCount": 7,
       "bodyImageCount": 6,
-      "density": 2.591792656587473,
+      "density": 2.592912705272256,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -3041,7 +3088,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 2.591792656587473,
+            "density": 2.592912705272256,
             "bodyImageCount": 6
           }
         },
@@ -3071,7 +3118,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 2315
+            "wordCount": 2314
           }
         }
       },
@@ -3083,10 +3130,11 @@
       "slug": "japan-travel-insurance-2026",
       "title": "Japan Travel Insurance 2026: Best Plans Compared (from $45)",
       "description": "Japan travel insurance 2026: what to buy, skip, real hospital costs without insurance (¥45,000 / 3hrs), and 4 policies anime fans should compare.",
-      "wordCount": 3104,
+      "wordCount": 3116,
       "imageCount": 8,
       "bodyImageCount": 7,
-      "density": 2.2551546391752577,
+      "density": 2.246469833119384,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -3109,7 +3157,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 2.2551546391752577,
+            "density": 2.246469833119384,
             "bodyImageCount": 7
           }
         },
@@ -3139,7 +3187,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 3104
+            "wordCount": 3116
           }
         }
       },
@@ -3151,10 +3199,11 @@
       "slug": "japan-trip-checklist-anime-fans-2026",
       "title": "Japan Trip Checklist for Anime Fans 2026: What to Book First",
       "description": "Tokyo anime trip planner: 3-month, 1-month, 2-week, 1-week booking gates — JR Pass, collab cafe lotteries, AnimeJapan, Comiket, hotels timed right.",
-      "wordCount": 4649,
+      "wordCount": 4643,
       "imageCount": 6,
       "bodyImageCount": 5,
-      "density": 1.0755001075500108,
+      "density": 1.0768899418479432,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -3177,7 +3226,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.0755001075500108,
+            "density": 1.0768899418479432,
             "bodyImageCount": 5
           }
         },
@@ -3207,7 +3256,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 4649
+            "wordCount": 4643
           }
         }
       },
@@ -3223,6 +3272,7 @@
       "imageCount": 7,
       "bodyImageCount": 6,
       "density": 1.5781167806417675,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -3291,6 +3341,7 @@
       "imageCount": 4,
       "bodyImageCount": 3,
       "density": 1.0449320794148382,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -3355,10 +3406,11 @@
       "slug": "jr-pass-anime-pilgrimage-routes-2026",
       "title": "JR Pass for Anime Pilgrimages 2026: Routes, Worth It, Prices",
       "description": "Is the JR Pass worth it for anime pilgrimages? 2026 prices, 4 route calculators (Your Name, Demon Slayer, One Piece, Anohana), when it saves money.",
-      "wordCount": 3000,
-      "imageCount": 4,
-      "bodyImageCount": 3,
-      "density": 1,
+      "wordCount": 3054,
+      "imageCount": 5,
+      "bodyImageCount": 4,
+      "density": 1.309757694826457,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -3381,8 +3433,8 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1,
-            "bodyImageCount": 3
+            "density": 1.309757694826457,
+            "bodyImageCount": 4
           }
         },
         "internalLinks": {
@@ -3411,7 +3463,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 3000
+            "wordCount": 3054
           }
         }
       },
@@ -3427,6 +3479,7 @@
       "imageCount": 5,
       "bodyImageCount": 4,
       "density": 2.3323615160349855,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -3495,6 +3548,7 @@
       "imageCount": 10,
       "bodyImageCount": 9,
       "density": 2.260170768458061,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -3563,6 +3617,7 @@
       "imageCount": 9,
       "bodyImageCount": 8,
       "density": 1.4189428875487762,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -3631,6 +3686,7 @@
       "imageCount": 5,
       "bodyImageCount": 4,
       "density": 2.6333113890717574,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -3699,6 +3755,7 @@
       "imageCount": 8,
       "bodyImageCount": 7,
       "density": 1.8484288354898337,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -3767,6 +3824,7 @@
       "imageCount": 6,
       "bodyImageCount": 5,
       "density": 1.325556733828208,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -3835,6 +3893,7 @@
       "imageCount": 17,
       "bodyImageCount": 16,
       "density": 7.407407407407407,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -3903,6 +3962,7 @@
       "imageCount": 6,
       "bodyImageCount": 5,
       "density": 2.844141069397042,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -3971,6 +4031,7 @@
       "imageCount": 5,
       "bodyImageCount": 4,
       "density": 1.4964459408903852,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -4035,10 +4096,11 @@
       "slug": "nakano-broadway-guide",
       "title": "Nakano Broadway 2026: Tokyo's Best-Kept Anime Shopping Spot",
       "description": "Nakano Broadway 2026: 300+ anime shops, 30+ Mandarake stores, Daily Chico soft serve, floor-by-floor guide, and why serious collectors skip Akihabara.",
-      "wordCount": 2349,
+      "wordCount": 2346,
       "imageCount": 4,
       "bodyImageCount": 3,
-      "density": 1.277139208173691,
+      "density": 1.278772378516624,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -4061,7 +4123,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.277139208173691,
+            "density": 1.278772378516624,
             "bodyImageCount": 3
           }
         },
@@ -4091,7 +4153,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 2349
+            "wordCount": 2346
           }
         }
       },
@@ -4103,10 +4165,11 @@
       "slug": "naruto-tokyo-pilgrimage-2026",
       "title": "Naruto Tokyo Pilgrimage 2026: Shinobi Locations Guide",
       "description": "Real-world Naruto pilgrimage spots across Tokyo: Jump Shop, exhibition halls, and seichi junrei stops — plus where to eat ramen on the route.",
-      "wordCount": 2545,
+      "wordCount": 2551,
       "imageCount": 7,
       "bodyImageCount": 6,
-      "density": 2.357563850687623,
+      "density": 2.352018816150529,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -4129,7 +4192,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 2.357563850687623,
+            "density": 2.352018816150529,
             "bodyImageCount": 6
           }
         },
@@ -4159,7 +4222,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 2545
+            "wordCount": 2551
           }
         }
       },
@@ -4175,6 +4238,7 @@
       "imageCount": 4,
       "bodyImageCount": 3,
       "density": 1.4513788098693758,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -4243,6 +4307,7 @@
       "imageCount": 8,
       "bodyImageCount": 7,
       "density": 2.2257551669316378,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -4311,6 +4376,7 @@
       "imageCount": 9,
       "bodyImageCount": 8,
       "density": 2.641135688345989,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -4379,6 +4445,7 @@
       "imageCount": 10,
       "bodyImageCount": 9,
       "density": 2.5118615685180017,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -4447,6 +4514,7 @@
       "imageCount": 6,
       "bodyImageCount": 5,
       "density": 1.3553808620222283,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -4511,10 +4579,11 @@
       "slug": "osaka-anime-collab-cafes-pop-culture-2026",
       "title": "Osaka Anime Cafes 2026: Den Den Town, Namba & Beyond",
       "description": "Osaka anime 2026: 8-12 collab cafes, Capcom Cafe Umeda, Chugai Grace, Den Den Town shopping, USJ attractions — Tokyo vs Osaka for anime fans.",
-      "wordCount": 1844,
+      "wordCount": 1840,
       "imageCount": 7,
       "bodyImageCount": 6,
-      "density": 3.2537960954446854,
+      "density": 3.260869565217391,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -4537,7 +4606,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 3.2537960954446854,
+            "density": 3.260869565217391,
             "bodyImageCount": 6
           }
         },
@@ -4567,7 +4636,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 1844
+            "wordCount": 1840
           }
         }
       },
@@ -4579,10 +4648,11 @@
       "slug": "osaka-anime-guide-den-den-town",
       "title": "Osaka Anime Guide 2026: Den Den Town, Collab Cafes & Beyond",
       "description": "Den Den Town is Osaka's answer to Akihabara — smaller, less crowded, packed with anime deals. 2026 guide covers shops, gachapon, maid cafes, and routes.",
-      "wordCount": 3408,
+      "wordCount": 3409,
       "imageCount": 5,
       "bodyImageCount": 4,
-      "density": 1.1737089201877935,
+      "density": 1.1733646230566148,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -4605,7 +4675,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.1737089201877935,
+            "density": 1.1733646230566148,
             "bodyImageCount": 4
           }
         },
@@ -4635,7 +4705,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 3408
+            "wordCount": 3409
           }
         }
       },
@@ -4651,6 +4721,7 @@
       "imageCount": 5,
       "bodyImageCount": 4,
       "density": 1.2026458208057726,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -4719,6 +4790,7 @@
       "imageCount": 7,
       "bodyImageCount": 6,
       "density": 1.8951358180669615,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -4783,10 +4855,11 @@
       "slug": "pokemon-karaoke-manekineko-30th-anniversary-2026",
       "title": "Pokemon Karaoke Manekineko 30th Anniversary 2026 Guide",
       "description": "Book a Pokemon 30th collab room at Karaoke Manekineko April 24 to June 14, 2026. Dates, prefectures, pack tiers, wallpapers, cards, and foreign-visitor tips.",
-      "wordCount": 2858,
+      "wordCount": 2857,
       "imageCount": 7,
       "bodyImageCount": 6,
-      "density": 2.099370188943317,
+      "density": 2.1001050052502626,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -4809,7 +4882,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 2.099370188943317,
+            "density": 2.1001050052502626,
             "bodyImageCount": 6
           }
         },
@@ -4839,7 +4912,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 2858
+            "wordCount": 2857
           }
         }
       },
@@ -4851,10 +4924,11 @@
       "slug": "pokepark-kanto-tokyo-2026",
       "title": "PokéPark Kanto Complete Guide 2026: Tickets, Areas & Tips",
       "description": "PokéPark Kanto (Yomiuriland): tickets from ¥4,700, advance-only reservations, 3 zones, Pokémon Forest with 600+ species, why 5 hours isn't enough.",
-      "wordCount": 2693,
+      "wordCount": 2694,
       "imageCount": 8,
       "bodyImageCount": 7,
-      "density": 2.5993316004455997,
+      "density": 2.5983667409057167,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -4877,7 +4951,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 2.5993316004455997,
+            "density": 2.5983667409057167,
             "bodyImageCount": 7
           }
         },
@@ -4907,7 +4981,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 2693
+            "wordCount": 2694
           }
         }
       },
@@ -4923,6 +4997,7 @@
       "imageCount": 5,
       "bodyImageCount": 4,
       "density": 1.094990418833835,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -4991,6 +5066,7 @@
       "imageCount": 5,
       "bodyImageCount": 4,
       "density": 1.1614401858304297,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -5055,10 +5131,11 @@
       "slug": "rilakkuma-cafe-tokyo-osaka-2026",
       "title": "Rilakkuma Cafe Tokyo 2026: Shibuya 109 Booking & Menu Guide",
       "description": "Book the Rilakkuma Cafe Shibuya 109 for April 23 to May 31, 2026. Tokyo, Osaka, Nagoya dates, 715-yen deposit, menu, merch, and step-by-step reservation guide.",
-      "wordCount": 3231,
+      "wordCount": 3228,
       "imageCount": 6,
       "bodyImageCount": 5,
-      "density": 1.547508511296812,
+      "density": 1.5489467162329618,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -5081,7 +5158,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.547508511296812,
+            "density": 1.5489467162329618,
             "bodyImageCount": 5
           }
         },
@@ -5111,7 +5188,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 3231
+            "wordCount": 3228
           }
         }
       },
@@ -5127,6 +5204,7 @@
       "imageCount": 4,
       "bodyImageCount": 3,
       "density": 1.1017260374586855,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -5191,10 +5269,11 @@
       "slug": "ship-anime-figures-merch-home-japan",
       "title": "How to Ship Anime Figures & Merch Home from Japan (2026)",
       "description": "Ship anime figures home from Japan 2026: Japan Post EMS/SAL, Yamato hotel pickup, in-store shipping, proxy services, and how to pack so nothing breaks.",
-      "wordCount": 4075,
+      "wordCount": 4077,
       "imageCount": 6,
       "bodyImageCount": 5,
-      "density": 1.2269938650306749,
+      "density": 1.226391954868776,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -5217,7 +5296,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.2269938650306749,
+            "density": 1.226391954868776,
             "bodyImageCount": 5
           }
         },
@@ -5247,7 +5326,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 4075
+            "wordCount": 4077
           }
         }
       },
@@ -5263,6 +5342,7 @@
       "imageCount": 8,
       "bodyImageCount": 7,
       "density": 2.4805102763997167,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -5331,6 +5411,7 @@
       "imageCount": 4,
       "bodyImageCount": 3,
       "density": 1.8773466833541927,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -5399,6 +5480,7 @@
       "imageCount": 6,
       "bodyImageCount": 5,
       "density": 1.0917030567685588,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -5467,6 +5549,7 @@
       "imageCount": 7,
       "bodyImageCount": 6,
       "density": 2.1329541414859583,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -5535,6 +5618,7 @@
       "imageCount": 6,
       "bodyImageCount": 5,
       "density": 1.889644746787604,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -5603,6 +5687,7 @@
       "imageCount": 6,
       "bodyImageCount": 5,
       "density": 3.0921459492888066,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -5671,6 +5756,7 @@
       "imageCount": 8,
       "bodyImageCount": 7,
       "density": 2.65352539802881,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -5739,6 +5825,7 @@
       "imageCount": 5,
       "bodyImageCount": 4,
       "density": 1.9801980198019802,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -5807,6 +5894,7 @@
       "imageCount": 5,
       "bodyImageCount": 4,
       "density": 1.394214011850819,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -5875,6 +5963,7 @@
       "imageCount": 4,
       "bodyImageCount": 3,
       "density": 1.31521262604121,
+      "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
           "pass": true,
