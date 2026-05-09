@@ -47,7 +47,7 @@ Plan your collab cafe day faster:
 ![Ikebukuro skyline view from Sunshine 60 Observatory — Ikebukuro hosts the densest cluster of summer collab cafe pop-ups across Animate Cafe, My Charaful Cafe and Sunshine City venues](/images/articles/tokyo-anime-collab-cafes-summer-2026/body-wikimedia-1.webp)
 *Photo: Guilhem Vellut / Wikimedia Commons, CC BY 2.0*
 
-This list covers confirmed cafes running during June-August 2026. I'll update it as new cafes are announced — collab cafes typically confirm dates 2-4 weeks before opening, so check back regularly.
+This list covers confirmed cafes running during June-August 2026. Updates land here as new cafes are announced — collab cafes typically confirm dates 2-4 weeks before opening, so check back regularly.
 
 | Anime/IP | Venue | Dates | Reservation |
 | --- | --- | --- | --- |
