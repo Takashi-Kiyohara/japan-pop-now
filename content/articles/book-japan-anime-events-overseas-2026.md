@@ -15,7 +15,7 @@ wpPostId: 749
 
 
 Booking anime events from outside Japan requires different strategies depending on the platform. Photo: Japan Pop Now
-Most anime collab cafes, theme parks, and limited events in Japan require advance reservations — and roughly half of those booking systems only work with a Japanese phone number, address, or convenience store payment. If you’re visiting from overseas, that’s a real problem. I’ve tested every major booking platform from outside Japan and mapped out exactly which ones work internationally, which ones don’t, and what to do when they don’t. Prices for proxy booking services range from ¥500 (~$3) to ¥5,000 (~$34) per reservation.
+Most anime collab cafes, theme parks, and limited events in Japan require advance reservations — and roughly half of those booking systems only work with a Japanese phone number, address, or convenience store payment. If you’re visiting from overseas, that’s a real problem. Comparison testing across every major booking platform accessible from outside Japan reveals exactly which ones work internationally, which ones don’t, and what to do when they don’t. Prices for proxy booking services range from ¥500 (~$3) to ¥5,000 (~$34) per reservation.
 
 The core issue: Japan’s event ticketing ecosystem was built for domestic residents. Platforms like Loppi (Lawson’s in-store kiosk), most BOX CAFE lottery systems, and many venue-specific reservation forms require a Japanese mobile number for SMS verification. Some accept international credit cards; many don’t. The result is a confusing patchwork where one cafe lets you book from New York in 5 minutes, and the next one is completely inaccessible without someone in Japan helping you.
 

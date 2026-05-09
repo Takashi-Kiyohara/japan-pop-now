@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-08T04:08:30.701Z",
+  "generated": "2026-05-09T08:48:51.015Z",
   "buckets": {
-    "PASS_ALL_10": 78,
-    "PASS_8plus": 9,
+    "PASS_ALL_10": 84,
+    "PASS_8plus": 3,
     "PASS_5_to_7": 0,
     "FAIL_under_5": 0
   },
@@ -10,13 +10,13 @@
     "metaDesc": 0,
     "title": 0,
     "fabrication": 0,
-    "imageDensity": 7,
+    "imageDensity": 1,
     "internalLinks": 0,
     "schema": 0,
     "canonical": 0,
     "freshness": 0,
     "affiliate": 0,
-    "adsenseFitness": 9
+    "adsenseFitness": 3
   },
   "results": [
     {
@@ -704,10 +704,10 @@
       "slug": "best-anime-tours-tokyo-2026",
       "title": "Best Anime Tours Tokyo 2026: Klook vs Viator vs Local Guides",
       "description": "Best Tokyo anime tours 2026: Klook vs Viator vs GetYourGuide. 6 tours tested — Akihabara, pilgrimage, food, workshops — prices and English-guide options.",
-      "wordCount": 4651,
-      "imageCount": 5,
-      "bodyImageCount": 4,
-      "density": 0.8600301010535368,
+      "wordCount": 4721,
+      "imageCount": 6,
+      "bodyImageCount": 5,
+      "density": 1.0590976488032195,
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -728,11 +728,10 @@
           }
         },
         "imageDensity": {
-          "pass": false,
-          "reason": "density 0.86/k < 1.0",
+          "pass": true,
           "metrics": {
-            "density": 0.8600301010535368,
-            "bodyImageCount": 4
+            "density": 1.0590976488032195,
+            "bodyImageCount": 5
           }
         },
         "internalLinks": {
@@ -759,15 +758,14 @@
           "pass": true
         },
         "adsenseFitness": {
-          "pass": false,
-          "reason": "axes 1-9 fail: 1",
+          "pass": true,
           "metrics": {
-            "wordCount": 4651
+            "wordCount": 4721
           }
         }
       },
-      "passCount": 8,
-      "bucket": "PASS_8plus",
+      "passCount": 10,
+      "bucket": "PASS_ALL_10",
       "noindex": false
     },
     {
@@ -1386,10 +1384,10 @@
       "slug": "demon-slayer-pilgrimage-tokyo",
       "title": "Demon Slayer Pilgrimage Tokyo 2026: Every Kimetsu Location",
       "description": "Updated May 2026 after Mugen Castle Chapter 1. Every Demon Slayer location in and around Tokyo — Asakusa, guardian shrines, Mt. Kumotori, goods.",
-      "wordCount": 2431,
-      "imageCount": 3,
-      "bodyImageCount": 2,
-      "density": 0.8227067050596463,
+      "wordCount": 2490,
+      "imageCount": 4,
+      "bodyImageCount": 3,
+      "density": 1.2048192771084338,
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -1410,11 +1408,10 @@
           }
         },
         "imageDensity": {
-          "pass": false,
-          "reason": "density 0.82/k < 1.0",
+          "pass": true,
           "metrics": {
-            "density": 0.8227067050596463,
-            "bodyImageCount": 2
+            "density": 1.2048192771084338,
+            "bodyImageCount": 3
           }
         },
         "internalLinks": {
@@ -1441,15 +1438,14 @@
           "pass": true
         },
         "adsenseFitness": {
-          "pass": false,
-          "reason": "axes 1-9 fail: 1",
+          "pass": true,
           "metrics": {
-            "wordCount": 2431
+            "wordCount": 2490
           }
         }
       },
-      "passCount": 8,
-      "bucket": "PASS_8plus",
+      "passCount": 10,
+      "bucket": "PASS_ALL_10",
       "noindex": false
     },
     {
@@ -2001,10 +1997,10 @@
       "slug": "gachapon-guide-japan",
       "title": "Gachapon Japan 2026: Where to Find Them & 7 Best Machines",
       "description": "Where to find gachapon in Japan, how to use the machines, and 7 best multi-floor buildings — Akihabara, Ikebukuro, Shibuya stops with capsule toy details.",
-      "wordCount": 2560,
+      "wordCount": 2558,
       "imageCount": 6,
       "bodyImageCount": 5,
-      "density": 1.953125,
+      "density": 1.9546520719311962,
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -2027,7 +2023,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.953125,
+            "density": 1.9546520719311962,
             "bodyImageCount": 5
           }
         },
@@ -2057,7 +2053,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 2560
+            "wordCount": 2558
           }
         }
       },
@@ -2205,10 +2201,10 @@
       "slug": "ghibli-park-complete-guide-2026",
       "title": "Ghibli Park Complete Guide 2026: Tickets, Access & Tips",
       "description": "Ghibli Park 2026 guide: 5 areas, ¥1,000-7,800 tickets, buying from overseas, access from Tokyo or Nagoya, and why one day is not enough.",
-      "wordCount": 2992,
+      "wordCount": 2995,
       "imageCount": 8,
       "bodyImageCount": 7,
-      "density": 2.339572192513369,
+      "density": 2.337228714524207,
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -2231,7 +2227,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 2.339572192513369,
+            "density": 2.337228714524207,
             "bodyImageCount": 7
           }
         },
@@ -2261,7 +2257,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 2992
+            "wordCount": 2995
           }
         }
       },
@@ -2681,10 +2677,10 @@
       "slug": "japan-esim-pocket-wifi-sim-card",
       "title": "Japan eSIM vs Pocket WiFi vs SIM Card: 2026 Tourist Guide",
       "description": "Japan eSIM vs pocket WiFi vs physical SIM card 2026 — provider rates, coverage maps, activation steps, and which option fits solo, family, and group travel.",
-      "wordCount": 3217,
+      "wordCount": 3221,
       "imageCount": 6,
       "bodyImageCount": 5,
-      "density": 1.554243083618278,
+      "density": 1.552312946289972,
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -2707,7 +2703,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.554243083618278,
+            "density": 1.552312946289972,
             "bodyImageCount": 5
           }
         },
@@ -2737,7 +2733,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 3217
+            "wordCount": 3221
           }
         }
       },
@@ -3041,7 +3037,7 @@
         "fabrication": {
           "pass": true,
           "metrics": {
-            "hits": 0
+            "hits": 1
           }
         },
         "imageDensity": {
@@ -3157,10 +3153,10 @@
       "slug": "japan-trip-checklist-anime-fans-2026",
       "title": "Japan Trip Checklist for Anime Fans 2026: What to Book First",
       "description": "Tokyo anime trip planner: 3-month, 1-month, 2-week, 1-week booking gates — JR Pass, collab cafe lotteries, AnimeJapan, Comiket, hotels timed right.",
-      "wordCount": 4581,
-      "imageCount": 5,
-      "bodyImageCount": 4,
-      "density": 0.8731717965509714,
+      "wordCount": 4649,
+      "imageCount": 6,
+      "bodyImageCount": 5,
+      "density": 1.0755001075500108,
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -3181,11 +3177,10 @@
           }
         },
         "imageDensity": {
-          "pass": false,
-          "reason": "density 0.87/k < 1.0",
+          "pass": true,
           "metrics": {
-            "density": 0.8731717965509714,
-            "bodyImageCount": 4
+            "density": 1.0755001075500108,
+            "bodyImageCount": 5
           }
         },
         "internalLinks": {
@@ -3212,15 +3207,14 @@
           "pass": true
         },
         "adsenseFitness": {
-          "pass": false,
-          "reason": "axes 1-9 fail: 1",
+          "pass": true,
           "metrics": {
-            "wordCount": 4581
+            "wordCount": 4649
           }
         }
       },
-      "passCount": 8,
-      "bucket": "PASS_8plus",
+      "passCount": 10,
+      "bucket": "PASS_ALL_10",
       "noindex": false
     },
     {
@@ -3383,7 +3377,7 @@
         "fabrication": {
           "pass": true,
           "metrics": {
-            "hits": 0
+            "hits": 1
           }
         },
         "imageDensity": {
@@ -4589,10 +4583,10 @@
       "slug": "osaka-anime-guide-den-den-town",
       "title": "Osaka Anime Guide 2026: Den Den Town, Collab Cafes & Beyond",
       "description": "Den Den Town is Osaka's answer to Akihabara — smaller, less crowded, packed with anime deals. 2026 guide covers shops, gachapon, maid cafes, and routes.",
-      "wordCount": 3348,
-      "imageCount": 4,
-      "bodyImageCount": 3,
-      "density": 0.8960573476702509,
+      "wordCount": 3407,
+      "imageCount": 5,
+      "bodyImageCount": 4,
+      "density": 1.174053419430584,
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -4613,11 +4607,10 @@
           }
         },
         "imageDensity": {
-          "pass": false,
-          "reason": "density 0.90/k < 1.0",
+          "pass": true,
           "metrics": {
-            "density": 0.8960573476702509,
-            "bodyImageCount": 3
+            "density": 1.174053419430584,
+            "bodyImageCount": 4
           }
         },
         "internalLinks": {
@@ -4644,15 +4637,14 @@
           "pass": true
         },
         "adsenseFitness": {
-          "pass": false,
-          "reason": "axes 1-9 fail: 1",
+          "pass": true,
           "metrics": {
-            "wordCount": 3348
+            "wordCount": 3407
           }
         }
       },
-      "passCount": 8,
-      "bucket": "PASS_8plus",
+      "passCount": 10,
+      "bucket": "PASS_ALL_10",
       "noindex": false
     },
     {
@@ -5203,10 +5195,10 @@
       "slug": "ship-anime-figures-merch-home-japan",
       "title": "How to Ship Anime Figures & Merch Home from Japan (2026)",
       "description": "Ship anime figures home from Japan 2026: Japan Post EMS/SAL, Yamato hotel pickup, in-store shipping, proxy services, and how to pack so nothing breaks.",
-      "wordCount": 3954,
-      "imageCount": 4,
-      "bodyImageCount": 3,
-      "density": 0.7587253414264037,
+      "wordCount": 4075,
+      "imageCount": 6,
+      "bodyImageCount": 5,
+      "density": 1.2269938650306749,
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -5227,11 +5219,10 @@
           }
         },
         "imageDensity": {
-          "pass": false,
-          "reason": "density 0.76/k < 1.0",
+          "pass": true,
           "metrics": {
-            "density": 0.7587253414264037,
-            "bodyImageCount": 3
+            "density": 1.2269938650306749,
+            "bodyImageCount": 5
           }
         },
         "internalLinks": {
@@ -5258,15 +5249,14 @@
           "pass": true
         },
         "adsenseFitness": {
-          "pass": false,
-          "reason": "axes 1-9 fail: 1",
+          "pass": true,
           "metrics": {
-            "wordCount": 3954
+            "wordCount": 4075
           }
         }
       },
-      "passCount": 8,
-      "bucket": "PASS_8plus",
+      "passCount": 10,
+      "bucket": "PASS_ALL_10",
       "noindex": false
     },
     {
@@ -5409,10 +5399,10 @@
       "slug": "tokyo-anime-collab-cafes-spring-2026",
       "title": "Tokyo Anime Collab Cafes Spring 2026: 12 Open, Map & Booking",
       "description": "Updated weekly. Every anime collaboration cafe in Tokyo for Spring 2026: JJK PLAZA, One Piece Cafe GENE, My Dress-Up Darling, and more. Dates, locations,...",
-      "wordCount": 4507,
-      "imageCount": 5,
-      "bodyImageCount": 4,
-      "density": 0.8875083203905036,
+      "wordCount": 4580,
+      "imageCount": 6,
+      "bodyImageCount": 5,
+      "density": 1.0917030567685588,
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -5433,11 +5423,10 @@
           }
         },
         "imageDensity": {
-          "pass": false,
-          "reason": "density 0.89/k < 1.0",
+          "pass": true,
           "metrics": {
-            "density": 0.8875083203905036,
-            "bodyImageCount": 4
+            "density": 1.0917030567685588,
+            "bodyImageCount": 5
           }
         },
         "internalLinks": {
@@ -5464,15 +5453,14 @@
           "pass": true
         },
         "adsenseFitness": {
-          "pass": false,
-          "reason": "axes 1-9 fail: 1",
+          "pass": true,
           "metrics": {
-            "wordCount": 4507
+            "wordCount": 4580
           }
         }
       },
-      "passCount": 8,
-      "bucket": "PASS_8plus",
+      "passCount": 10,
+      "bucket": "PASS_ALL_10",
       "noindex": false
     },
     {

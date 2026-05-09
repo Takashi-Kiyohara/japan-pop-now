@@ -57,8 +57,10 @@ type ArticleAudit = {
   noindex: boolean
 }
 
+// Apostrophe class: U+0027 (ASCII), U+2018, U+2019 (curly quotes commonly auto-substituted by editors)
+const APOS = `[\\u0027\\u2018\\u2019]`
 const PATTERNS_FABRICATION = [
-  /\bI'?ve (stayed|visited|tested|spent|eaten|bought|walked|tried|seen|been|taken|booked|owned|shopped|toured|watched)\b/gi,
+  new RegExp(`\\bI${APOS}?ve (stayed|visited|tested|spent|eaten|bought|walked|tried|seen|been|taken|booked|owned|shopped|toured|watched|learned|tasted|paid)\\b`, 'gi'),
   /\bI (stayed|visited|tested|spent|ate|bought|tried|saw|noticed|booked|owned|shopped|toured|walked|stopped\b(?!\s(by|at)\s))\b/gi,
   /\b(my (visit|visits|first trip|own experience|honest take|favourite|favorite|recommendation|go-to))\b/gi,
   /\b(in my experience|over the past (few|three|six|several) (months|years) I)\b/gi,

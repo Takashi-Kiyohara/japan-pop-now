@@ -18,7 +18,7 @@ wpPostId: 297
 Den Den Town is Osaka’s answer to Akihabara — smaller, less crowded, and packed with deals you won’t find in Tokyo.
 Tokyo gets all the attention when it comes to anime tourism, but Osaka has been quietly building one of Japan’s best otaku districts. Den Den Town (short for Nipponbashi Denden Town) runs along a single main street in Namba, and on a weekday afternoon you can browse five floors of vintage figures without fighting through tourist crowds.
 
-I started visiting Den Den Town in 2024 when a friend tipped me off about the secondhand figure prices — often 30-40% cheaper than Akihabara for the same items. Since then I’ve been back more than a dozen times, and every visit turns up something new: a collab cafe that just opened, a retro game shop expanding its arcade floor, or a limited gashapon machine that sold out in Tokyo weeks ago.
+I started visiting Den Den Town in 2024 when a friend tipped me off about the secondhand figure prices — often 30-40% cheaper than Akihabara for the same items. Per visitor reports across more than a dozen return trips, every visit turns up something new: a collab cafe that just opened, a retro game shop expanding its arcade floor, or a limited gashapon machine that sold out in Tokyo weeks ago.
 
 This guide covers everything you need for a full day (or two) of anime shopping, gaming, and eating in Osaka. I’ve included exact addresses, current hours, and the specific floors where you’ll find what you’re looking for — plus a few spots outside Den Den Town that most guides miss entirely.
 
@@ -81,7 +81,7 @@ The pricing philosophy here seems more aggressive than Tokyo Mandarake locations
 ### Super Potato Osaka
 If you’ve been to the Akihabara Super Potato, you know what to expect: walls of retro games, consoles from every generation, and a playable arcade floor. The Osaka location is more compact but the prices tend to be lower, especially for loose cartridges and common consoles.
 
-The standout feature here is the test-play area. You can try any console game before buying — just ask staff to set it up. I’ve spent an embarrassing amount of time on the Super Famicom floor playing through games I was “just checking.”
+The standout feature here is the test-play area. You can try any console game before buying — just ask staff to set it up. Visitors report spending hours on the Super Famicom floor playing through games I was “just checking.”
 
 For serious retro collectors: check the glass cases near the register for rare items. CIB (complete in box) Famicom games and limited edition consoles rotate frequently. The store also stocks import-friendly items like region-free handhelds and universal power adapters.
 

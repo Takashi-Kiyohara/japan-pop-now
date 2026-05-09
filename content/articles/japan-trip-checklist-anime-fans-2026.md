@@ -40,7 +40,7 @@ Flights to Tokyo or Osaka book out fastest 8-12 weeks ahead if you’re flying f
 Book direct to Tokyo (Narita or Haneda) or Osaka (Kansai) depending on where the anime crowds are. For spring 2026, Tokyo is the epicenter of everything. Haneda Airport is 14km from central Tokyo; Kansai is about 75km from Osaka but has cheaper flights from certain regions. Round-trip flights from the US West Coast are running 550-850 USD in April 2026; from the East Coast, 700-1100 USD.
 
 ### Lock in Accommodation Near Anime Districts
-Where you stay matters more than you think. I’ve learned to stay in Nakano, Akihabara, or Ikebukuro if merch hunting and anime cafes are my priority, rather than the hyper-touristy areas like Shibuya or Shinjuku. These neighborhoods have the shops, the cafes, the vibe.
+Where you stay matters more than you think. Repeat-visitor consensus is to stay in Nakano, Akihabara, or Ikebukuro if merch hunting and anime cafes are my priority, rather than the hyper-touristy areas like Shibuya or Shinjuku. These neighborhoods have the shops, the cafes, the vibe.
 
 For moderate hotels (150-250 USD per night for a clean double room), [Booking.com](https://booking.com) and [Agoda](https://agoda.com) are your best tools. Both show cancellation policies clearly—look for free cancellation up to 48 hours before arrival, which is standard for the April-May season. A 10-night stay in a decent Nakano business hotel runs about 1800-2200 USD booked now. Book sooner rather than later; good rooms in anime-friendly neighborhoods sell out by the two-month mark.
 

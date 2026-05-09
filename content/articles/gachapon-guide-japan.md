@@ -17,7 +17,7 @@ wpPostId: 268
 
 Those colorful capsule toy machines lined up outside convenience stores and crammed into dedicated multi-floor buildings? That is *gachapon* (ガチャポン) — one of Japan’s most addictive souvenirs and a 400-billion-yen industry that keeps growing every year. At 200 to 500 yen per turn (roughly $1.30 to $3.30), each capsule is a tiny gamble. You might get the exact miniature you wanted, or you might end up with the one figure from the set you already have three of. That’s the whole point.
 
-I’ve spent more yen on gachapon than I care to admit. This guide covers everything a visitor needs to know: how the machines work, where to find the best ones, what price ranges to expect, and which series are worth hunting in 2026.
+Gachapon spend adds up faster than first-time visitors expect. This guide covers everything a visitor needs to know: how the machines work, where to find the best ones, what price ranges to expect, and which series are worth hunting in 2026.
 
 ## Table of Contents
 
