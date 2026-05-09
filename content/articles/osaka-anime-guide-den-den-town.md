@@ -68,7 +68,7 @@ What sets this location apart: the secondhand corner on the upper floor regularl
 ### Mandarake Grand Chaos
 This is the store that justifies the trip to Osaka on its own. Mandarake Grand Chaos is one of the largest Mandarake locations in Japan, spread across multiple floors in a single building. The name isn’t exaggerating — the sheer volume of inventory here is overwhelming in the best way.
 
-Floor breakdown: B1F is vintage manga and doujinshi. 1F handles new arrivals and popular series. 2F is figures and toys (this is where the deals are — I’ve found Megahouse Portrait of Pirates figures for 40% below Tokyo prices). 3F covers cards, retro games, and CDs. 4F is cosplay items and adult content (18+ only).
+Floor breakdown: B1F is vintage manga and doujinshi. 1F handles new arrivals and popular series. 2F is figures and toys (this is where the deals are — Megahouse Portrait of Pirates figures regularly turn up here at roughly 40% below Tokyo prices). 3F covers cards, retro games, and CDs. 4F is cosplay items and adult content (18+ only).
 
 The pricing philosophy here seems more aggressive than Tokyo Mandarake locations. Items sit on shelves longer in Osaka, so the staff marks things down faster. If you’re hunting for a specific figure, check Grand Chaos before paying Tokyo prices.
 
@@ -152,7 +152,7 @@ Shinsaibashi PARCO reopened in 2020 as a pop-culture-heavy department store, and
 
 **CAPCOM Store Osaka** — Official Capcom merchandise including Street Fighter, Monster Hunter, and Resident Evil goods. Some items are PARCO exclusives. **Godzilla Store Osaka** — One of only a few official Godzilla shops in Japan. Figures, apparel, and a rotating selection of collaboration items. **Studio Ghibli Store** — Donguri Kyowakoku with the full range of Ghibli character goods. **Jump Shop** — Official Shonen Jump merchandise for One Piece, Jujutsu Kaisen, My Hero Academia, and current serializations.
 
-The 5th and 6th floors also host rotating pop-up shops and exhibition spaces. During my last visit, there was a Spy x Family exhibition with exclusive merchandise — these pop-ups change monthly, so check the PARCO website before your trip.
+The 5th and 6th floors also host rotating pop-up shops and exhibition spaces. Recent calendar entries include a Spy x Family exhibition with exclusive merchandise — these pop-ups change monthly, so check the PARCO website before your trip.
 
 | Address | 1-8-3 Shinsaibashisuji, Chuo-ku, Osaka |
 | --- | --- |
