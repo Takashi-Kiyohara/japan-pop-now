@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-09T08:48:51.015Z",
+  "generated": "2026-05-09T09:18:55.320Z",
   "buckets": {
     "PASS_ALL_10": 84,
     "PASS_8plus": 3,
@@ -566,16 +566,16 @@
     {
       "slug": "animejapan-comiket-2026-guide",
       "title": "AnimeJapan & Comiket 2026: Foreigner’s Survival Guide",
-      "description": "AnimeJapan vs. Comiket: Complete Guide to Tokyo’s Biggest Anime Events 2026 I’ve attended both AnimeJapan and Comiket more times than I can count. The first...",
-      "wordCount": 1425,
+      "description": "AnimeJapan vs Comiket 2026 — international visitor survival guide: tickets, English support, queues, photo rules, hotels, and which one fits your trip.",
+      "wordCount": 1433,
       "imageCount": 5,
       "bodyImageCount": 4,
-      "density": 2.807017543859649,
+      "density": 2.7913468248429867,
       "axes": {
         "metaDesc": {
           "pass": true,
           "metrics": {
-            "length": 159
+            "length": 151
           }
         },
         "title": {
@@ -593,7 +593,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 2.807017543859649,
+            "density": 2.7913468248429867,
             "bodyImageCount": 4
           }
         },
@@ -622,9 +622,9 @@
         },
         "adsenseFitness": {
           "pass": false,
-          "reason": "word_count 1425 < 1500",
+          "reason": "word_count 1433 < 1500",
           "metrics": {
-            "wordCount": 1425
+            "wordCount": 1433
           }
         }
       },
@@ -3377,7 +3377,7 @@
         "fabrication": {
           "pass": true,
           "metrics": {
-            "hits": 1
+            "hits": 2
           }
         },
         "imageDensity": {
@@ -3699,10 +3699,10 @@
       "slug": "kyoto-anime-guide-2026",
       "title": "Kyoto Anime Guide 2026: Pilgrimages, Studios & Otaku Culture",
       "description": "Kyoto anime 2026: KyoAni studio area in Uji, Hibike Euphonium pilgrimage stops, K-On! filming locations, Fushimi Inari, and the city's anime shopping districts.",
-      "wordCount": 3780,
+      "wordCount": 3781,
       "imageCount": 8,
       "bodyImageCount": 7,
-      "density": 1.8518518518518519,
+      "density": 1.8513620735255223,
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -3725,7 +3725,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.8518518518518519,
+            "density": 1.8513620735255223,
             "bodyImageCount": 7
           }
         },
@@ -3755,7 +3755,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 3780
+            "wordCount": 3781
           }
         }
       },
@@ -4583,10 +4583,10 @@
       "slug": "osaka-anime-guide-den-den-town",
       "title": "Osaka Anime Guide 2026: Den Den Town, Collab Cafes & Beyond",
       "description": "Den Den Town is Osaka's answer to Akihabara — smaller, less crowded, packed with anime deals. 2026 guide covers shops, gachapon, maid cafes, and routes.",
-      "wordCount": 3407,
+      "wordCount": 3408,
       "imageCount": 5,
       "bodyImageCount": 4,
-      "density": 1.174053419430584,
+      "density": 1.1737089201877935,
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -4609,7 +4609,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.174053419430584,
+            "density": 1.1737089201877935,
             "bodyImageCount": 4
           }
         },
@@ -4639,7 +4639,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 3407
+            "wordCount": 3408
           }
         }
       },
@@ -5127,10 +5127,10 @@
       "slug": "shibuya-harajuku-pop-culture-guide",
       "title": "Shibuya & Harajuku Pop Culture 2026: Gaming, Kawaii, Walking",
       "description": "Shibuya PARCO 6F Cyberspace, Harajuku's Takeshita Street, Cat Street, Kiddy Land, and a 2026 walking route through Tokyo's pop culture and kawaii districts.",
-      "wordCount": 2721,
+      "wordCount": 2723,
       "imageCount": 4,
       "bodyImageCount": 3,
-      "density": 1.1025358324145536,
+      "density": 1.1017260374586855,
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -5153,7 +5153,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.1025358324145536,
+            "density": 1.1017260374586855,
             "bodyImageCount": 3
           }
         },
@@ -5183,7 +5183,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 2721
+            "wordCount": 2723
           }
         }
       },
@@ -5535,10 +5535,10 @@
       "slug": "tokyo-anime-district-guide",
       "title": "Tokyo Anime Districts 2026: Akihabara, Nakano + 3 More",
       "description": "All 6 Tokyo anime neighborhoods in 2026: Akihabara arcades, Nakano vintage, Ikebukuro BL, Shibuya flagships, Harajuku kawaii. Maps & 1-day routes.",
-      "wordCount": 2647,
+      "wordCount": 2646,
       "imageCount": 6,
       "bodyImageCount": 5,
-      "density": 1.8889308651303363,
+      "density": 1.889644746787604,
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -5561,7 +5561,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.8889308651303363,
+            "density": 1.889644746787604,
             "bodyImageCount": 5
           }
         },
@@ -5591,7 +5591,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 2647
+            "wordCount": 2646
           }
         }
       },

@@ -163,7 +163,7 @@ Beyond Animate, the Teramachi-Shinkyogoku shopping district offers multiple anim
 
 For used anime merchandise and rare finds, Lashinbang is worth visiting. The Kyoto Lashinbang location carries older DVDs, Blu-rays, and collectible items per the chain's store directory. Prices on used goods are reasonable per visitor reports, and out-of-print releases occasionally surface here.
 
-A word of caution: Kyoto's anime shopping scene is smaller than Tokyo's Akihabara district. If you're looking for specific items or limited releases, verify ahead of time that stores carry what you want. I always call or check websites before making special shopping trips.
+A word of caution: Kyoto's anime shopping scene is smaller than Tokyo's Akihabara district. If you're looking for specific items or limited releases, verify ahead of time that stores carry what you want. Visitors are advised to call ahead or check websites before making special shopping trips.
 
 | Kyoto Anime Shopping Locations |
 | --- |
@@ -175,7 +175,7 @@ A word of caution: Kyoto's anime shopping scene is smaller than Tokyo's Akihabar
 
 ## April 2026 Anime Events
 
-If you're visiting Kyoto in April 2026, several anime-related events are happening. Jujutsu Kaisen is collaborating with Sweets Paradise from April 11 through April 29. This is a limited-time partnership featuring Jujutsu Kaisen-themed desserts and merchandise. I'm planning to visit the Kyoto Sweets Paradise location during this period.
+If you're visiting Kyoto in April 2026, several anime-related events are happening. Jujutsu Kaisen is collaborating with Sweets Paradise from April 11 through April 29. This is a limited-time partnership featuring Jujutsu Kaisen-themed desserts and merchandise. Visitors planning the Kyoto Sweets Paradise stop during this period.
 
 April also marks the height of cultural events in Kyoto. Miyako Odori, a famous maiko (apprentice geisha) performance, runs from April 1-30. While not anime, it represents the traditional performing arts that anime frequently depicts. If you're interested in the cultural side of anime inspiration, these performances are well worth attending.
 
@@ -184,7 +184,7 @@ Additionally, there's a Final Fantasy XIV pop-up event happening in April. Squar
 Events can shift or end without notice, so check official websites before your trip. Most events announce final dates in real-time as travel dates approach.
 
 ## Cultural Experiences and Geisha
-Beyond anime-specific locations, Kyoto offers cultural experiences that provide context for understanding anime settings. Gion Corner presents traditional geisha performances multiple times daily. Admission is ¥3,150 per person, with shows at 6 PM and 7 PM. When I attended, the performance included tea ceremony, flower arrangement, koto playing, and a short dance performance.
+Beyond anime-specific locations, Kyoto offers cultural experiences that provide context for understanding anime settings. Gion Corner presents traditional geisha performances multiple times daily. Admission is ¥3,150 per person, with shows at 6 PM and 7 PM. Per visitor reviews, the performance includes tea ceremony, flower arrangement, koto playing, and a short dance performance.
 
 Many anime depict geisha or traditional performance culture. After watching an actual performance, these anime scenes make more sense. The movements, clothing, and presentation all follow specific rules that anime animators study in detail. Attending a live performance adds depth to your understanding of the shows you love.
 
@@ -198,7 +198,7 @@ Haruhi Suzumiya is one of KyoAni's most famous productions, but I need to note a
 
 From Kyoto, you can take the Hankyu Railway toward Osaka and transfer to local lines reaching Nishinomiya. The journey takes about 90 minutes total. Several online guides map out the Haruhi pilgrimage locations specifically, and it's become popular enough that other fans have documented every location in detail.
 
-Osaka is another nearby major city with anime connections. If you have extra time, Osaka offers different studio facilities and anime shopping experiences. I've included internal links below for Osaka's anime guide.
+Osaka is another nearby major city with anime connections. If you have extra time, Osaka offers different studio facilities and anime shopping experiences. Internal links for Osaka's anime guide are included below.
 
 Getting around all these locations is simplified by getting a Suica or ICOCA card at Kyoto or Osaka Station. These rechargeable IC cards work on nearly all transportation systems in the Kansai region. I strongly recommend grabbing one before starting your pilgrimage—it beats buying individual tickets.
 

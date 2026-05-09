@@ -1,6 +1,6 @@
 # Full-corpus 10-axis audit — 20260509
 
-Generated: 2026-05-09T08:48:51Z
+Generated: 2026-05-09T09:18:55Z
 Articles audited: 87
 
 ## Bucket totals
@@ -32,7 +32,7 @@ Articles audited: 87
 | Slug | Score | Bucket | Words | meta | title | fab | img | links | schema | canon | fresh | aff | ads |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | `jr-pass-anime-pilgrimage-routes-2026` (noindex) | 8/10 | PASS_8plus | 2931 | ✓ | ✓ | ✓ | ✗ | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ |
-| `animejapan-comiket-2026-guide` | 9/10 | PASS_8plus | 1425 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ |
+| `animejapan-comiket-2026-guide` | 9/10 | PASS_8plus | 1433 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ |
 | `familymart-anime-collab-stores-2026` | 9/10 | PASS_8plus | 1020 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ |
 | `akihabara-arcade-rhythm-games-guide-2026` | 10/10 | PASS_ALL_10 | 2215 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `akihabara-complete-guide-2026` | 10/10 | PASS_ALL_10 | 4210 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
@@ -85,7 +85,7 @@ Articles audited: 87
 | `jujutsu-kaisen-shibuya-locations-2026` | 10/10 | PASS_ALL_10 | 3982 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `kamakura-slam-dunk-pilgrimage-2026` | 10/10 | PASS_ALL_10 | 5638 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `krispy-kreme-mario-galaxy-shibuya-2026` | 10/10 | PASS_ALL_10 | 1519 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| `kyoto-anime-guide-2026` | 10/10 | PASS_ALL_10 | 3780 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| `kyoto-anime-guide-2026` | 10/10 | PASS_ALL_10 | 3781 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `lawson-ticket-anime-cafe-booking` | 10/10 | PASS_ALL_10 | 3772 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `luvlab-harajuku-diy-accessory-experience` | 10/10 | PASS_ALL_10 | 2160 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `my-hero-academia-cafe-tokyo-2026` (noindex) | 10/10 | PASS_ALL_10 | 1758 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
@@ -98,7 +98,7 @@ Articles audited: 87
 | `one-piece-tokyo-guide-2026` | 10/10 | PASS_ALL_10 | 3584 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `osaka-anime-cafes-complete-guide-2026` | 10/10 | PASS_ALL_10 | 3689 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `osaka-anime-collab-cafes-pop-culture-2026` (noindex) | 10/10 | PASS_ALL_10 | 1844 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| `osaka-anime-guide-den-den-town` | 10/10 | PASS_ALL_10 | 3407 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| `osaka-anime-guide-den-den-town` | 10/10 | PASS_ALL_10 | 3408 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `ouran-host-club-20th-anniversary-cafes-2026` | 10/10 | PASS_ALL_10 | 3326 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `pokemon-center-tokyo-complete-guide-2026` | 10/10 | PASS_ALL_10 | 3166 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `pokemon-karaoke-manekineko-30th-anniversary-2026` | 10/10 | PASS_ALL_10 | 2858 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
@@ -106,13 +106,13 @@ Articles audited: 87
 | `ranma-japan-2026-exhibition-tree-village-guide` | 10/10 | PASS_ALL_10 | 3653 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `re-zero-curemaid-cafe-akihabara-2026` | 10/10 | PASS_ALL_10 | 3444 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `rilakkuma-cafe-tokyo-osaka-2026` | 10/10 | PASS_ALL_10 | 3238 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| `shibuya-harajuku-pop-culture-guide` | 10/10 | PASS_ALL_10 | 2721 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| `shibuya-harajuku-pop-culture-guide` | 10/10 | PASS_ALL_10 | 2723 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `ship-anime-figures-merch-home-japan` | 10/10 | PASS_ALL_10 | 4075 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `slam-dunk-kamakura-pilgrimage-2026` (noindex) | 10/10 | PASS_ALL_10 | 2822 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `spy-family-tokyo-fan-day-2026` | 10/10 | PASS_ALL_10 | 1598 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `tokyo-anime-collab-cafes-spring-2026` | 10/10 | PASS_ALL_10 | 4580 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `tokyo-anime-collab-cafes-summer-2026` | 10/10 | PASS_ALL_10 | 2813 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| `tokyo-anime-district-guide` | 10/10 | PASS_ALL_10 | 2647 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| `tokyo-anime-district-guide` | 10/10 | PASS_ALL_10 | 2646 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `universal-cool-japan-2026-guide` (noindex) | 10/10 | PASS_ALL_10 | 1617 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `weathering-with-you-locations-tokyo` | 10/10 | PASS_ALL_10 | 2638 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `wonder-festival-figure-events-japan-2026` | 10/10 | PASS_ALL_10 | 2020 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |

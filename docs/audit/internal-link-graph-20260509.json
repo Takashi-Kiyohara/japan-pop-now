@@ -1,0 +1,2219 @@
+{
+  "generated": "2026-05-09T08:56:49.436Z",
+  "totals": {
+    "articles": 87,
+    "noindex": 9,
+    "orphans": 0,
+    "lowIncoming": 19,
+    "lowOutgoing": 0,
+    "brokenLinks": 0,
+    "noindexRefs": 0
+  },
+  "bySilo": {
+    "experiences": 38,
+    "destinations": 18,
+    "cafes": 22
+  },
+  "orphans": [],
+  "lowIncoming": [
+    {
+      "slug": "anime-hotels-tokyo-2026",
+      "incoming": [
+        "japan-travel-insurance-2026"
+      ]
+    },
+    {
+      "slug": "animejapan-comiket-2026-guide",
+      "incoming": [
+        "animejapan-2026-guide-international-visitors"
+      ]
+    },
+    {
+      "slug": "best-anime-tours-tokyo-2026",
+      "incoming": [
+        "akihabara-arcade-rhythm-games-guide-2026"
+      ]
+    },
+    {
+      "slug": "blue-lock-tokyo-skytree-cafe-2026",
+      "incoming": [
+        "rilakkuma-cafe-tokyo-osaka-2026"
+      ]
+    },
+    {
+      "slug": "chiikawa-land-tokyo-complete-2026",
+      "incoming": [
+        "chiikawa-bakery-harajuku-guide-2026"
+      ]
+    },
+    {
+      "slug": "cosplay-experience-tokyo-2026",
+      "incoming": [
+        "anime-pilgrimage-spots-tokyo"
+      ]
+    },
+    {
+      "slug": "dark-moon-chara-cafe-ikebukuro-2026",
+      "incoming": [
+        "world-trigger-festival-2026-tokyo-dome-city-cafe"
+      ]
+    },
+    {
+      "slug": "first-timers-japan-playbook-anime-fans-2026",
+      "incoming": [
+        "animejapan-2026-guide-international-visitors"
+      ]
+    },
+    {
+      "slug": "golden-week-2026-anime-events-complete-guide",
+      "incoming": [
+        "universal-cool-japan-2026-guide"
+      ]
+    },
+    {
+      "slug": "jojo-stone-ocean-cafe-jojo-world-2026",
+      "incoming": [
+        "tokyo-anime-collab-cafes-summer-2026"
+      ]
+    },
+    {
+      "slug": "luvlab-harajuku-diy-accessory-experience",
+      "incoming": [
+        "cosplay-experience-tokyo-2026"
+      ]
+    },
+    {
+      "slug": "naruto-tokyo-pilgrimage-2026",
+      "incoming": [
+        "anime-pilgrimage-spots-tokyo"
+      ]
+    },
+    {
+      "slug": "okami-20th-monster-hunter-sakaba-tokyo-osaka-2026",
+      "incoming": [
+        "tokyo-anime-collab-cafes-summer-2026"
+      ]
+    },
+    {
+      "slug": "one-piece-cafe-gene-shibuya-guide-2026",
+      "incoming": [
+        "jojo-stone-ocean-cafe-jojo-world-2026"
+      ]
+    },
+    {
+      "slug": "pokemon-center-tokyo-complete-guide-2026",
+      "incoming": [
+        "anime-merch-shopping-guide-japan"
+      ]
+    },
+    {
+      "slug": "pokepark-kanto-tokyo-2026",
+      "incoming": [
+        "ghibli-park-complete-guide-2026"
+      ]
+    },
+    {
+      "slug": "ship-anime-figures-merch-home-japan",
+      "incoming": [
+        "anime-merch-shopping-guide-japan"
+      ]
+    },
+    {
+      "slug": "tokyo-anime-collab-cafes-summer-2026",
+      "incoming": [
+        "detective-conan-pilgrimage-events-2026"
+      ]
+    },
+    {
+      "slug": "wonder-festival-figure-events-japan-2026",
+      "incoming": [
+        "cosplay-experience-tokyo-2026"
+      ]
+    }
+  ],
+  "cannibalClusters": [
+    {
+      "keyword": "demon slayer",
+      "members": [
+        "demon-slayer-handmade-club-ufotable-cafe-2026",
+        "demon-slayer-meiji-mura-aichi-pilgrimage-2026",
+        "demon-slayer-pilgrimage-tokyo",
+        "demon-slayer-rerun-cafe-ufotable-kizuna-2026"
+      ]
+    },
+    {
+      "keyword": "detective conan",
+      "members": [
+        "detective-conan-cafe-tokyo-osaka-3venue-2026",
+        "detective-conan-pilgrimage-events-2026"
+      ]
+    },
+    {
+      "keyword": "one piece",
+      "members": [
+        "one-piece-cafe-gene-shibuya-guide-2026",
+        "one-piece-kumamoto-statue-tour",
+        "one-piece-tokyo-guide-2026"
+      ]
+    },
+    {
+      "keyword": "osaka anime",
+      "members": [
+        "osaka-anime-cafes-complete-guide-2026",
+        "osaka-anime-guide-den-den-town"
+      ]
+    },
+    {
+      "keyword": "tokyo anime",
+      "members": [
+        "tokyo-anime-collab-cafes-spring-2026",
+        "tokyo-anime-collab-cafes-summer-2026",
+        "tokyo-anime-district-guide"
+      ]
+    }
+  ],
+  "brokenLinks": [],
+  "noindexRefs": [],
+  "graph": [
+    {
+      "slug": "akihabara-arcade-rhythm-games-guide-2026",
+      "category": "experiences",
+      "noindex": false,
+      "outgoing": [
+        "re-zero-curemaid-cafe-akihabara-2026",
+        "akihabara-complete-guide-2026",
+        "gachapon-guide-japan",
+        "anime-merch-shopping-guide-japan",
+        "best-anime-tours-tokyo-2026",
+        "ikebukuro-anime-guide-2026"
+      ],
+      "incoming": [
+        "game-centers-arcades-japan",
+        "golden-week-2026-anime-events-complete-guide",
+        "osaka-anime-cafes-complete-guide-2026",
+        "pokemon-karaoke-manekineko-30th-anniversary-2026",
+        "re-zero-curemaid-cafe-akihabara-2026"
+      ],
+      "inDegree": 5,
+      "outDegree": 6
+    },
+    {
+      "slug": "akihabara-complete-guide-2026",
+      "category": "destinations",
+      "noindex": false,
+      "outgoing": [
+        "nakano-broadway-guide",
+        "gachapon-guide-japan",
+        "tokyo-anime-collab-cafes-spring-2026",
+        "ikebukuro-anime-guide-2026",
+        "jujutsu-kaisen-shibuya-locations-2026",
+        "chainsaw-man-pilgrimage-tokyo",
+        "anime-pilgrimage-spots-tokyo",
+        "how-to-book-anime-collab-cafe-japan",
+        "game-centers-arcades-japan",
+        "japan-ic-card-transit-guide"
+      ],
+      "incoming": [
+        "akihabara-arcade-rhythm-games-guide-2026",
+        "anime-hotels-tokyo-2026",
+        "anime-merch-shopping-guide-japan",
+        "anime-pilgrimage-spots-tokyo",
+        "animejapan-comiket-2026-guide",
+        "best-anime-tours-tokyo-2026",
+        "blue-lock-tokyo-skytree-cafe-2026",
+        "chainsaw-man-pilgrimage-tokyo",
+        "chiikawa-land-tokyo-complete-2026",
+        "first-timers-japan-playbook-anime-fans-2026",
+        "gachapon-guide-japan",
+        "game-centers-arcades-japan",
+        "gaming-tokyo-2026",
+        "how-to-book-anime-collab-cafe-japan",
+        "ikebukuro-anime-guide-2026",
+        "japan-esim-pocket-wifi-sim-card",
+        "japan-ic-card-transit-guide",
+        "japan-proxy-shopping-2026",
+        "japan-rail-pass-guide-anime-fans",
+        "krispy-kreme-mario-galaxy-shibuya-2026",
+        "kyoto-anime-guide-2026",
+        "luvlab-harajuku-diy-accessory-experience",
+        "nakano-broadway-guide",
+        "okami-20th-monster-hunter-sakaba-tokyo-osaka-2026",
+        "one-piece-tokyo-guide-2026",
+        "osaka-anime-guide-den-den-town",
+        "pokemon-center-tokyo-complete-guide-2026",
+        "shibuya-harajuku-pop-culture-guide",
+        "ship-anime-figures-merch-home-japan",
+        "tokyo-anime-collab-cafes-spring-2026",
+        "tokyo-anime-district-guide"
+      ],
+      "inDegree": 31,
+      "outDegree": 10
+    },
+    {
+      "slug": "animate-cafe-guide-japan",
+      "category": "cafes",
+      "noindex": false,
+      "outgoing": [
+        "how-to-book-anime-collab-cafe-japan",
+        "tokyo-anime-collab-cafes-spring-2026",
+        "familymart-anime-collab-stores-2026"
+      ],
+      "incoming": [
+        "book-japan-anime-events-overseas-2026",
+        "chiikawa-bakery-harajuku-guide-2026",
+        "demon-slayer-handmade-club-ufotable-cafe-2026",
+        "demon-slayer-rerun-cafe-ufotable-2026",
+        "demon-slayer-rerun-cafe-ufotable-kizuna-2026",
+        "detective-conan-cafe-tokyo-osaka-3venue-2026",
+        "familymart-anime-collab-stores-2026",
+        "how-to-book-anime-collab-cafe-japan",
+        "jjk-sweets-paradise-complete-guide-2026",
+        "jojo-stone-ocean-cafe-jojo-world-2026",
+        "lawson-ticket-anime-cafe-booking",
+        "my-hero-academia-waffle-diner-ikebukuro-2026",
+        "tokyo-anime-collab-cafes-spring-2026",
+        "tokyo-anime-collab-cafes-summer-2026"
+      ],
+      "inDegree": 14,
+      "outDegree": 3
+    },
+    {
+      "slug": "anime-day-trips-from-tokyo-2026",
+      "category": "destinations",
+      "noindex": false,
+      "outgoing": [
+        "kyoto-anime-guide-2026",
+        "japan-ic-card-transit-guide",
+        "japan-rail-pass-2026-guide",
+        "kamakura-slam-dunk-pilgrimage-2026",
+        "demon-slayer-meiji-mura-aichi-pilgrimage-2026",
+        "ranma-japan-2026-exhibition-tree-village-guide",
+        "anime-pilgrimage-spots-tokyo",
+        "ghibli-park-complete-guide-2026",
+        "japan-esim-pocket-wifi-sim-card",
+        "tokyo-anime-collab-cafes-spring-2026"
+      ],
+      "incoming": [
+        "blue-lock-tokyo-skytree-cafe-2026",
+        "frieren-usj-story-walk-osaka-2026",
+        "japan-rail-pass-guide-anime-fans",
+        "kamakura-slam-dunk-pilgrimage-2026",
+        "pokemon-center-tokyo-complete-guide-2026",
+        "slam-dunk-kamakura-pilgrimage-2026"
+      ],
+      "inDegree": 6,
+      "outDegree": 10
+    },
+    {
+      "slug": "anime-hotels-tokyo-2026",
+      "category": "experiences",
+      "noindex": false,
+      "outgoing": [
+        "tokyo-anime-district-guide",
+        "akihabara-complete-guide-2026",
+        "ikebukuro-anime-guide-2026",
+        "japan-ic-card-transit-guide",
+        "japan-esim-pocket-wifi-sim-card",
+        "japan-rail-pass-2026-guide",
+        "tokyo-anime-collab-cafes-spring-2026"
+      ],
+      "incoming": [
+        "japan-travel-insurance-2026"
+      ],
+      "inDegree": 1,
+      "outDegree": 7
+    },
+    {
+      "slug": "anime-merch-shopping-guide-japan",
+      "category": "experiences",
+      "noindex": false,
+      "outgoing": [
+        "ship-anime-figures-merch-home-japan",
+        "japan-proxy-shopping-2026",
+        "pokemon-center-tokyo-complete-guide-2026",
+        "nakano-broadway-guide",
+        "ikebukuro-anime-guide-2026",
+        "akihabara-complete-guide-2026",
+        "tokyo-anime-district-guide",
+        "gachapon-guide-japan",
+        "tokyo-anime-collab-cafes-spring-2026"
+      ],
+      "incoming": [
+        "akihabara-arcade-rhythm-games-guide-2026",
+        "best-anime-tours-tokyo-2026",
+        "chiikawa-land-tokyo-complete-2026",
+        "japan-trip-checklist-anime-fans-2026",
+        "luvlab-harajuku-diy-accessory-experience",
+        "ship-anime-figures-merch-home-japan",
+        "wonder-festival-figure-events-japan-2026"
+      ],
+      "inDegree": 7,
+      "outDegree": 9
+    },
+    {
+      "slug": "anime-pilgrimage-spots-tokyo",
+      "category": "destinations",
+      "noindex": false,
+      "outgoing": [
+        "naruto-tokyo-pilgrimage-2026",
+        "cosplay-experience-tokyo-2026",
+        "weathering-with-you-locations-tokyo",
+        "jujutsu-kaisen-shibuya-locations-2026",
+        "demon-slayer-pilgrimage-tokyo",
+        "akihabara-complete-guide-2026",
+        "ikebukuro-anime-guide-2026",
+        "kamakura-slam-dunk-pilgrimage-2026",
+        "spy-family-tokyo-fan-day-2026",
+        "tokyo-anime-collab-cafes-spring-2026"
+      ],
+      "incoming": [
+        "akihabara-complete-guide-2026",
+        "anime-day-trips-from-tokyo-2026",
+        "chainsaw-man-pilgrimage-tokyo",
+        "detective-conan-pilgrimage-events-2026",
+        "japan-rail-pass-guide-anime-fans",
+        "jr-pass-anime-pilgrimage-routes-2026",
+        "jujutsu-kaisen-shibuya-locations-2026",
+        "kamakura-slam-dunk-pilgrimage-2026",
+        "kyoto-anime-guide-2026",
+        "naruto-tokyo-pilgrimage-2026",
+        "one-piece-kumamoto-statue-tour",
+        "one-piece-tokyo-guide-2026",
+        "slam-dunk-kamakura-pilgrimage-2026",
+        "spy-family-tokyo-fan-day-2026",
+        "tokyo-anime-district-guide",
+        "weathering-with-you-locations-tokyo"
+      ],
+      "inDegree": 16,
+      "outDegree": 10
+    },
+    {
+      "slug": "animejapan-2026-guide-international-visitors",
+      "category": "experiences",
+      "noindex": false,
+      "outgoing": [
+        "tokyo-anime-collab-cafes-spring-2026",
+        "animejapan-comiket-2026-guide",
+        "japan-trip-checklist-anime-fans-2026",
+        "first-timers-japan-playbook-anime-fans-2026"
+      ],
+      "incoming": [
+        "animejapan-comiket-2026-guide",
+        "best-anime-tours-tokyo-2026",
+        "japan-trip-checklist-anime-fans-2026"
+      ],
+      "inDegree": 3,
+      "outDegree": 4
+    },
+    {
+      "slug": "animejapan-comiket-2026-guide",
+      "category": "experiences",
+      "noindex": false,
+      "outgoing": [
+        "animejapan-2026-guide-international-visitors",
+        "tokyo-anime-collab-cafes-spring-2026",
+        "how-to-book-anime-collab-cafe-japan",
+        "akihabara-complete-guide-2026",
+        "japan-ic-card-transit-guide"
+      ],
+      "incoming": [
+        "animejapan-2026-guide-international-visitors"
+      ],
+      "inDegree": 1,
+      "outDegree": 5
+    },
+    {
+      "slug": "apothecary-diaries-oshi-tabi-osaka-shinkansen-2026",
+      "category": "experiences",
+      "noindex": false,
+      "outgoing": [
+        "how-to-book-anime-collab-cafe-japan",
+        "osaka-anime-cafes-complete-guide-2026",
+        "detective-conan-cafe-tokyo-osaka-3venue-2026",
+        "frieren-usj-story-walk-osaka-2026",
+        "ouran-host-club-20th-anniversary-cafes-2026"
+      ],
+      "incoming": [
+        "demon-slayer-meiji-mura-aichi-pilgrimage-2026",
+        "frieren-usj-story-walk-osaka-2026",
+        "lawson-ticket-anime-cafe-booking",
+        "osaka-anime-cafes-complete-guide-2026",
+        "ouran-host-club-20th-anniversary-cafes-2026",
+        "pokemon-karaoke-manekineko-30th-anniversary-2026"
+      ],
+      "inDegree": 6,
+      "outDegree": 5
+    },
+    {
+      "slug": "best-anime-tours-tokyo-2026",
+      "category": "experiences",
+      "noindex": false,
+      "outgoing": [
+        "animejapan-2026-guide-international-visitors",
+        "akihabara-complete-guide-2026",
+        "ikebukuro-anime-guide-2026",
+        "shibuya-harajuku-pop-culture-guide",
+        "nakano-broadway-guide",
+        "how-to-book-anime-collab-cafe-japan",
+        "anime-merch-shopping-guide-japan",
+        "tokyo-anime-collab-cafes-spring-2026"
+      ],
+      "incoming": [
+        "akihabara-arcade-rhythm-games-guide-2026"
+      ],
+      "inDegree": 1,
+      "outDegree": 8
+    },
+    {
+      "slug": "blue-lock-tokyo-skytree-cafe-2026",
+      "category": "experiences",
+      "noindex": false,
+      "outgoing": [
+        "how-to-book-anime-collab-cafe-japan",
+        "tokyo-anime-collab-cafes-spring-2026",
+        "akihabara-complete-guide-2026",
+        "anime-day-trips-from-tokyo-2026",
+        "japan-ic-card-transit-guide"
+      ],
+      "incoming": [
+        "rilakkuma-cafe-tokyo-osaka-2026"
+      ],
+      "inDegree": 1,
+      "outDegree": 5
+    },
+    {
+      "slug": "book-japan-anime-events-overseas-2026",
+      "category": "experiences",
+      "noindex": false,
+      "outgoing": [
+        "how-to-book-anime-collab-cafe-japan",
+        "tokyo-anime-collab-cafes-spring-2026",
+        "japan-esim-pocket-wifi-sim-card",
+        "japan-rail-pass-2026-guide",
+        "animate-cafe-guide-japan"
+      ],
+      "incoming": [
+        "cosplay-experience-tokyo-2026",
+        "detective-conan-pilgrimage-events-2026",
+        "pokepark-kanto-tokyo-2026",
+        "tokyo-anime-collab-cafes-summer-2026",
+        "wonder-festival-figure-events-japan-2026"
+      ],
+      "inDegree": 5,
+      "outDegree": 5
+    },
+    {
+      "slug": "chainsaw-man-pilgrimage-tokyo",
+      "category": "destinations",
+      "noindex": false,
+      "outgoing": [
+        "akihabara-complete-guide-2026",
+        "ikebukuro-anime-guide-2026",
+        "demon-slayer-pilgrimage-tokyo",
+        "japan-ic-card-transit-guide",
+        "tokyo-anime-district-guide",
+        "your-name-pilgrimage-tokyo",
+        "weathering-with-you-locations-tokyo",
+        "anime-pilgrimage-spots-tokyo",
+        "one-piece-kumamoto-statue-tour",
+        "tokyo-anime-collab-cafes-spring-2026"
+      ],
+      "incoming": [
+        "akihabara-complete-guide-2026",
+        "naruto-tokyo-pilgrimage-2026",
+        "your-name-pilgrimage-tokyo"
+      ],
+      "inDegree": 3,
+      "outDegree": 10
+    },
+    {
+      "slug": "chiikawa-bakery-harajuku-guide-2026",
+      "category": "cafes",
+      "noindex": false,
+      "outgoing": [
+        "chiikawa-land-tokyo-complete-2026",
+        "shibuya-harajuku-pop-culture-guide",
+        "lawson-ticket-anime-cafe-booking",
+        "tokyo-anime-collab-cafes-spring-2026",
+        "how-to-book-anime-collab-cafe-japan",
+        "animate-cafe-guide-japan"
+      ],
+      "incoming": [
+        "chiikawa-land-tokyo-complete-2026",
+        "jojo-stone-ocean-cafe-jojo-world-2026"
+      ],
+      "inDegree": 2,
+      "outDegree": 6
+    },
+    {
+      "slug": "chiikawa-land-tokyo-complete-2026",
+      "category": "experiences",
+      "noindex": false,
+      "outgoing": [
+        "chiikawa-bakery-harajuku-guide-2026",
+        "tokyo-anime-collab-cafes-spring-2026",
+        "anime-merch-shopping-guide-japan",
+        "japan-proxy-shopping-2026",
+        "akihabara-complete-guide-2026"
+      ],
+      "incoming": [
+        "chiikawa-bakery-harajuku-guide-2026"
+      ],
+      "inDegree": 1,
+      "outDegree": 5
+    },
+    {
+      "slug": "cosplay-experience-tokyo-2026",
+      "category": "experiences",
+      "noindex": false,
+      "outgoing": [
+        "luvlab-harajuku-diy-accessory-experience",
+        "wonder-festival-figure-events-japan-2026",
+        "game-centers-arcades-japan",
+        "book-japan-anime-events-overseas-2026",
+        "tokyo-anime-collab-cafes-spring-2026"
+      ],
+      "incoming": [
+        "anime-pilgrimage-spots-tokyo"
+      ],
+      "inDegree": 1,
+      "outDegree": 5
+    },
+    {
+      "slug": "dark-moon-chara-cafe-ikebukuro-2026",
+      "category": "cafes",
+      "noindex": false,
+      "outgoing": [
+        "japan-ic-card-transit-guide",
+        "ikebukuro-anime-guide-2026",
+        "tokyo-anime-collab-cafes-spring-2026",
+        "how-to-book-anime-collab-cafe-japan",
+        "jjk-sweets-paradise-complete-guide-2026",
+        "world-trigger-festival-2026-tokyo-dome-city-cafe",
+        "re-zero-curemaid-cafe-akihabara-2026",
+        "hypnosismic-sweets-paradise-round8-2026"
+      ],
+      "incoming": [
+        "world-trigger-festival-2026-tokyo-dome-city-cafe"
+      ],
+      "inDegree": 1,
+      "outDegree": 8
+    },
+    {
+      "slug": "demon-slayer-handmade-club-ufotable-cafe-2026",
+      "category": "cafes",
+      "noindex": false,
+      "outgoing": [
+        "animate-cafe-guide-japan",
+        "demon-slayer-rerun-cafe-ufotable-kizuna-2026",
+        "how-to-book-anime-collab-cafe-japan",
+        "jjk-sweets-paradise-complete-guide-2026",
+        "tokyo-anime-collab-cafes-spring-2026",
+        "golden-kamuy-golden-week-shinjuku-popup-2026",
+        "re-zero-curemaid-cafe-akihabara-2026",
+        "ranma-japan-2026-exhibition-tree-village-guide",
+        "ouran-host-club-20th-anniversary-cafes-2026",
+        "lawson-ticket-anime-cafe-booking",
+        "osaka-anime-cafes-complete-guide-2026"
+      ],
+      "incoming": [
+        "demon-slayer-meiji-mura-aichi-pilgrimage-2026",
+        "golden-kamuy-golden-week-shinjuku-popup-2026",
+        "re-zero-curemaid-cafe-akihabara-2026",
+        "world-trigger-festival-2026-tokyo-dome-city-cafe"
+      ],
+      "inDegree": 4,
+      "outDegree": 11
+    },
+    {
+      "slug": "demon-slayer-meiji-mura-aichi-pilgrimage-2026",
+      "category": "experiences",
+      "noindex": false,
+      "outgoing": [
+        "demon-slayer-handmade-club-ufotable-cafe-2026",
+        "demon-slayer-rerun-cafe-ufotable-kizuna-2026",
+        "apothecary-diaries-oshi-tabi-osaka-shinkansen-2026",
+        "how-to-ride-trains-japan-tourists-2026",
+        "japan-rail-pass-2026-guide"
+      ],
+      "incoming": [
+        "anime-day-trips-from-tokyo-2026",
+        "japan-rail-pass-2026-guide",
+        "jr-pass-anime-pilgrimage-routes-2026",
+        "ranma-japan-2026-exhibition-tree-village-guide"
+      ],
+      "inDegree": 4,
+      "outDegree": 5
+    },
+    {
+      "slug": "demon-slayer-pilgrimage-tokyo",
+      "category": "destinations",
+      "noindex": false,
+      "outgoing": [
+        "your-name-pilgrimage-tokyo",
+        "weathering-with-you-locations-tokyo",
+        "jujutsu-kaisen-shibuya-locations-2026",
+        "one-piece-kumamoto-statue-tour",
+        "kyoto-anime-guide-2026",
+        "tokyo-anime-collab-cafes-spring-2026"
+      ],
+      "incoming": [
+        "anime-pilgrimage-spots-tokyo",
+        "chainsaw-man-pilgrimage-tokyo",
+        "demon-slayer-rerun-cafe-ufotable-2026",
+        "demon-slayer-rerun-cafe-ufotable-kizuna-2026",
+        "jr-pass-anime-pilgrimage-routes-2026",
+        "jujutsu-kaisen-shibuya-locations-2026",
+        "kyoto-anime-guide-2026",
+        "naruto-tokyo-pilgrimage-2026",
+        "one-piece-kumamoto-statue-tour",
+        "slam-dunk-kamakura-pilgrimage-2026",
+        "weathering-with-you-locations-tokyo",
+        "your-name-pilgrimage-tokyo"
+      ],
+      "inDegree": 12,
+      "outDegree": 6
+    },
+    {
+      "slug": "demon-slayer-rerun-cafe-ufotable-2026",
+      "category": "cafes",
+      "noindex": true,
+      "outgoing": [
+        "demon-slayer-rerun-cafe-ufotable-kizuna-2026",
+        "animate-cafe-guide-japan",
+        "how-to-book-anime-collab-cafe-japan",
+        "tokyo-anime-collab-cafes-spring-2026",
+        "demon-slayer-pilgrimage-tokyo",
+        "lawson-ticket-anime-cafe-booking"
+      ],
+      "incoming": [],
+      "inDegree": 0,
+      "outDegree": 6
+    },
+    {
+      "slug": "demon-slayer-rerun-cafe-ufotable-kizuna-2026",
+      "category": "cafes",
+      "noindex": false,
+      "outgoing": [
+        "lawson-ticket-anime-cafe-booking",
+        "tokyo-anime-collab-cafes-spring-2026",
+        "how-to-book-anime-collab-cafe-japan",
+        "animate-cafe-guide-japan",
+        "demon-slayer-pilgrimage-tokyo"
+      ],
+      "incoming": [
+        "demon-slayer-handmade-club-ufotable-cafe-2026",
+        "demon-slayer-meiji-mura-aichi-pilgrimage-2026",
+        "demon-slayer-rerun-cafe-ufotable-2026",
+        "detective-conan-cafe-tokyo-osaka-3venue-2026",
+        "golden-week-2026-anime-events-complete-guide",
+        "jjk-sweets-paradise-complete-guide-2026",
+        "jojo-stone-ocean-cafe-jojo-world-2026",
+        "lawson-ticket-anime-cafe-booking",
+        "ouran-host-club-20th-anniversary-cafes-2026",
+        "pokemon-karaoke-manekineko-30th-anniversary-2026",
+        "rilakkuma-cafe-tokyo-osaka-2026"
+      ],
+      "inDegree": 11,
+      "outDegree": 5
+    },
+    {
+      "slug": "detective-conan-cafe-2026-japan-guide",
+      "category": "cafes",
+      "noindex": true,
+      "outgoing": [
+        "tokyo-anime-collab-cafes-spring-2026",
+        "detective-conan-cafe-tokyo-osaka-3venue-2026",
+        "detective-conan-pilgrimage-events-2026",
+        "how-to-book-anime-collab-cafe-japan"
+      ],
+      "incoming": [],
+      "inDegree": 0,
+      "outDegree": 4
+    },
+    {
+      "slug": "detective-conan-cafe-tokyo-osaka-3venue-2026",
+      "category": "cafes",
+      "noindex": false,
+      "outgoing": [
+        "how-to-book-anime-collab-cafe-japan",
+        "tokyo-anime-collab-cafes-spring-2026",
+        "demon-slayer-rerun-cafe-ufotable-kizuna-2026",
+        "animate-cafe-guide-japan",
+        "lawson-ticket-anime-cafe-booking"
+      ],
+      "incoming": [
+        "apothecary-diaries-oshi-tabi-osaka-shinkansen-2026",
+        "detective-conan-cafe-2026-japan-guide",
+        "ranma-japan-2026-exhibition-tree-village-guide"
+      ],
+      "inDegree": 3,
+      "outDegree": 5
+    },
+    {
+      "slug": "detective-conan-pilgrimage-events-2026",
+      "category": "destinations",
+      "noindex": false,
+      "outgoing": [
+        "japan-rail-pass-2026-guide",
+        "osaka-anime-cafes-complete-guide-2026",
+        "osaka-anime-guide-den-den-town",
+        "anime-pilgrimage-spots-tokyo",
+        "kamakura-slam-dunk-pilgrimage-2026",
+        "tokyo-anime-collab-cafes-summer-2026",
+        "book-japan-anime-events-overseas-2026",
+        "japan-esim-pocket-wifi-sim-card",
+        "tokyo-anime-collab-cafes-spring-2026"
+      ],
+      "incoming": [
+        "detective-conan-cafe-2026-japan-guide",
+        "osaka-anime-collab-cafes-pop-culture-2026"
+      ],
+      "inDegree": 2,
+      "outDegree": 9
+    },
+    {
+      "slug": "familymart-anime-collab-stores-2026",
+      "category": "cafes",
+      "noindex": false,
+      "outgoing": [
+        "tokyo-anime-collab-cafes-spring-2026",
+        "how-to-book-anime-collab-cafe-japan",
+        "animate-cafe-guide-japan"
+      ],
+      "incoming": [
+        "animate-cafe-guide-japan",
+        "how-to-book-anime-collab-cafe-japan",
+        "spy-family-tokyo-fan-day-2026",
+        "tokyo-anime-collab-cafes-spring-2026"
+      ],
+      "inDegree": 4,
+      "outDegree": 3
+    },
+    {
+      "slug": "first-timers-japan-playbook-anime-fans-2026",
+      "category": "experiences",
+      "noindex": false,
+      "outgoing": [
+        "japan-luggage-forwarding-2026",
+        "japan-esim-pocket-wifi-sim-card",
+        "japan-rail-pass-2026-guide",
+        "how-to-book-anime-collab-cafe-japan",
+        "japan-travel-insurance-2026",
+        "japan-trip-checklist-anime-fans-2026",
+        "japan-ic-card-transit-guide",
+        "akihabara-complete-guide-2026",
+        "tokyo-anime-district-guide"
+      ],
+      "incoming": [
+        "animejapan-2026-guide-international-visitors"
+      ],
+      "inDegree": 1,
+      "outDegree": 9
+    },
+    {
+      "slug": "frieren-usj-story-walk-osaka-2026",
+      "category": "experiences",
+      "noindex": false,
+      "outgoing": [
+        "osaka-anime-cafes-complete-guide-2026",
+        "japan-rail-pass-2026-guide",
+        "anime-day-trips-from-tokyo-2026",
+        "japan-trip-checklist-anime-fans-2026",
+        "apothecary-diaries-oshi-tabi-osaka-shinkansen-2026"
+      ],
+      "incoming": [
+        "apothecary-diaries-oshi-tabi-osaka-shinkansen-2026",
+        "hypnosismic-sweets-paradise-round8-2026",
+        "jr-pass-anime-pilgrimage-routes-2026",
+        "osaka-anime-cafes-complete-guide-2026",
+        "osaka-anime-collab-cafes-pop-culture-2026",
+        "ranma-japan-2026-exhibition-tree-village-guide",
+        "tokyo-anime-collab-cafes-spring-2026"
+      ],
+      "inDegree": 7,
+      "outDegree": 5
+    },
+    {
+      "slug": "gachapon-guide-japan",
+      "category": "experiences",
+      "noindex": false,
+      "outgoing": [
+        "akihabara-complete-guide-2026",
+        "nakano-broadway-guide",
+        "game-centers-arcades-japan",
+        "ikebukuro-anime-guide-2026",
+        "japan-ic-card-transit-guide",
+        "tokyo-anime-collab-cafes-spring-2026"
+      ],
+      "incoming": [
+        "akihabara-arcade-rhythm-games-guide-2026",
+        "akihabara-complete-guide-2026",
+        "anime-merch-shopping-guide-japan",
+        "game-centers-arcades-japan",
+        "gaming-tokyo-2026",
+        "japan-proxy-shopping-2026",
+        "krispy-kreme-mario-galaxy-shibuya-2026",
+        "ship-anime-figures-merch-home-japan",
+        "tokyo-anime-district-guide"
+      ],
+      "inDegree": 9,
+      "outDegree": 6
+    },
+    {
+      "slug": "game-centers-arcades-japan",
+      "category": "experiences",
+      "noindex": false,
+      "outgoing": [
+        "akihabara-arcade-rhythm-games-guide-2026",
+        "gaming-tokyo-2026",
+        "akihabara-complete-guide-2026",
+        "gachapon-guide-japan"
+      ],
+      "incoming": [
+        "akihabara-complete-guide-2026",
+        "cosplay-experience-tokyo-2026",
+        "gachapon-guide-japan",
+        "gaming-tokyo-2026",
+        "shibuya-harajuku-pop-culture-guide",
+        "spy-family-tokyo-fan-day-2026",
+        "tokyo-anime-district-guide"
+      ],
+      "inDegree": 7,
+      "outDegree": 4
+    },
+    {
+      "slug": "gaming-tokyo-2026",
+      "category": "experiences",
+      "noindex": false,
+      "outgoing": [
+        "ikebukuro-anime-guide-2026",
+        "akihabara-complete-guide-2026",
+        "game-centers-arcades-japan",
+        "gachapon-guide-japan",
+        "tokyo-anime-district-guide",
+        "tokyo-anime-collab-cafes-spring-2026"
+      ],
+      "incoming": [
+        "game-centers-arcades-japan",
+        "pokepark-kanto-tokyo-2026"
+      ],
+      "inDegree": 2,
+      "outDegree": 6
+    },
+    {
+      "slug": "ghibli-park-complete-guide-2026",
+      "category": "experiences",
+      "noindex": false,
+      "outgoing": [
+        "japan-rail-pass-2026-guide",
+        "japan-ic-card-transit-guide",
+        "pokepark-kanto-tokyo-2026",
+        "japan-esim-pocket-wifi-sim-card",
+        "tokyo-anime-collab-cafes-spring-2026"
+      ],
+      "incoming": [
+        "anime-day-trips-from-tokyo-2026",
+        "pokepark-kanto-tokyo-2026"
+      ],
+      "inDegree": 2,
+      "outDegree": 5
+    },
+    {
+      "slug": "golden-kamuy-golden-week-shinjuku-popup-2026",
+      "category": "cafes",
+      "noindex": false,
+      "outgoing": [
+        "tokyo-anime-collab-cafes-spring-2026",
+        "japan-rail-pass-2026-guide",
+        "japan-ic-card-transit-guide",
+        "demon-slayer-handmade-club-ufotable-cafe-2026",
+        "world-trigger-festival-2026-tokyo-dome-city-cafe"
+      ],
+      "incoming": [
+        "demon-slayer-handmade-club-ufotable-cafe-2026",
+        "jjk-sweets-paradise-complete-guide-2026",
+        "re-zero-curemaid-cafe-akihabara-2026",
+        "tokyo-anime-collab-cafes-spring-2026",
+        "world-trigger-festival-2026-tokyo-dome-city-cafe"
+      ],
+      "inDegree": 5,
+      "outDegree": 5
+    },
+    {
+      "slug": "golden-week-2026-anime-events-complete-guide",
+      "category": "experiences",
+      "noindex": false,
+      "outgoing": [
+        "demon-slayer-rerun-cafe-ufotable-kizuna-2026",
+        "my-hero-academia-waffle-diner-ikebukuro-2026",
+        "japan-rail-pass-2026-guide",
+        "tokyo-anime-collab-cafes-spring-2026",
+        "akihabara-arcade-rhythm-games-guide-2026"
+      ],
+      "incoming": [
+        "universal-cool-japan-2026-guide"
+      ],
+      "inDegree": 1,
+      "outDegree": 5
+    },
+    {
+      "slug": "how-to-book-anime-collab-cafe-japan",
+      "category": "experiences",
+      "noindex": false,
+      "outgoing": [
+        "tokyo-anime-collab-cafes-spring-2026",
+        "animate-cafe-guide-japan",
+        "familymart-anime-collab-stores-2026",
+        "akihabara-complete-guide-2026",
+        "ikebukuro-anime-guide-2026"
+      ],
+      "incoming": [
+        "akihabara-complete-guide-2026",
+        "animate-cafe-guide-japan",
+        "animejapan-comiket-2026-guide",
+        "apothecary-diaries-oshi-tabi-osaka-shinkansen-2026",
+        "best-anime-tours-tokyo-2026",
+        "blue-lock-tokyo-skytree-cafe-2026",
+        "book-japan-anime-events-overseas-2026",
+        "chiikawa-bakery-harajuku-guide-2026",
+        "dark-moon-chara-cafe-ikebukuro-2026",
+        "demon-slayer-handmade-club-ufotable-cafe-2026",
+        "demon-slayer-rerun-cafe-ufotable-2026",
+        "demon-slayer-rerun-cafe-ufotable-kizuna-2026",
+        "detective-conan-cafe-2026-japan-guide",
+        "detective-conan-cafe-tokyo-osaka-3venue-2026",
+        "familymart-anime-collab-stores-2026",
+        "first-timers-japan-playbook-anime-fans-2026",
+        "hypnosismic-sweets-paradise-round8-2026",
+        "ikebukuro-anime-guide-2026",
+        "japan-esim-pocket-wifi-sim-card",
+        "japan-trip-checklist-anime-fans-2026",
+        "jjk-sweets-paradise-complete-guide-2026",
+        "jojo-stone-ocean-cafe-jojo-world-2026",
+        "lawson-ticket-anime-cafe-booking",
+        "my-hero-academia-waffle-diner-ikebukuro-2026",
+        "okami-20th-monster-hunter-sakaba-tokyo-osaka-2026",
+        "one-piece-cafe-gene-shibuya-guide-2026",
+        "osaka-anime-guide-den-den-town",
+        "ouran-host-club-20th-anniversary-cafes-2026",
+        "ranma-japan-2026-exhibition-tree-village-guide",
+        "rilakkuma-cafe-tokyo-osaka-2026",
+        "spy-family-tokyo-fan-day-2026",
+        "tokyo-anime-collab-cafes-spring-2026",
+        "tokyo-anime-collab-cafes-summer-2026"
+      ],
+      "inDegree": 33,
+      "outDegree": 5
+    },
+    {
+      "slug": "how-to-ride-trains-japan-tourists-2026",
+      "category": "experiences",
+      "noindex": false,
+      "outgoing": [
+        "japan-ic-card-transit-guide",
+        "japan-rail-pass-2026-guide",
+        "japan-trip-checklist-anime-fans-2026",
+        "japan-esim-pocket-wifi-sim-card"
+      ],
+      "incoming": [
+        "demon-slayer-meiji-mura-aichi-pilgrimage-2026",
+        "japan-ic-card-transit-guide",
+        "japan-rail-pass-2026-guide",
+        "japan-trip-checklist-anime-fans-2026"
+      ],
+      "inDegree": 4,
+      "outDegree": 4
+    },
+    {
+      "slug": "hypnosismic-sweets-paradise-round8-2026",
+      "category": "cafes",
+      "noindex": false,
+      "outgoing": [
+        "how-to-book-anime-collab-cafe-japan",
+        "re-zero-curemaid-cafe-akihabara-2026",
+        "jjk-sweets-paradise-complete-guide-2026",
+        "frieren-usj-story-walk-osaka-2026",
+        "osaka-anime-cafes-complete-guide-2026",
+        "japan-trip-checklist-anime-fans-2026",
+        "japan-rail-pass-2026-guide",
+        "tokyo-anime-collab-cafes-spring-2026"
+      ],
+      "incoming": [
+        "dark-moon-chara-cafe-ikebukuro-2026",
+        "jjk-sweets-paradise-complete-guide-2026",
+        "re-zero-curemaid-cafe-akihabara-2026",
+        "tokyo-anime-collab-cafes-spring-2026"
+      ],
+      "inDegree": 4,
+      "outDegree": 8
+    },
+    {
+      "slug": "ikebukuro-anime-guide-2026",
+      "category": "destinations",
+      "noindex": false,
+      "outgoing": [
+        "one-piece-tokyo-guide-2026",
+        "akihabara-complete-guide-2026",
+        "nakano-broadway-guide",
+        "shibuya-harajuku-pop-culture-guide",
+        "osaka-anime-guide-den-den-town",
+        "kyoto-anime-guide-2026",
+        "how-to-book-anime-collab-cafe-japan",
+        "tokyo-anime-collab-cafes-spring-2026"
+      ],
+      "incoming": [
+        "akihabara-arcade-rhythm-games-guide-2026",
+        "akihabara-complete-guide-2026",
+        "anime-hotels-tokyo-2026",
+        "anime-merch-shopping-guide-japan",
+        "anime-pilgrimage-spots-tokyo",
+        "best-anime-tours-tokyo-2026",
+        "chainsaw-man-pilgrimage-tokyo",
+        "dark-moon-chara-cafe-ikebukuro-2026",
+        "gachapon-guide-japan",
+        "gaming-tokyo-2026",
+        "how-to-book-anime-collab-cafe-japan",
+        "japan-esim-pocket-wifi-sim-card",
+        "japan-ic-card-transit-guide",
+        "krispy-kreme-mario-galaxy-shibuya-2026",
+        "luvlab-harajuku-diy-accessory-experience",
+        "my-hero-academia-cafe-tokyo-2026",
+        "my-hero-academia-waffle-diner-ikebukuro-2026",
+        "nakano-broadway-guide",
+        "one-piece-tokyo-guide-2026",
+        "osaka-anime-guide-den-den-town",
+        "shibuya-harajuku-pop-culture-guide",
+        "spy-family-tokyo-fan-day-2026",
+        "tokyo-anime-collab-cafes-spring-2026",
+        "tokyo-anime-district-guide"
+      ],
+      "inDegree": 24,
+      "outDegree": 8
+    },
+    {
+      "slug": "japan-esim-pocket-wifi-sim-card",
+      "category": "experiences",
+      "noindex": false,
+      "outgoing": [
+        "how-to-book-anime-collab-cafe-japan",
+        "akihabara-complete-guide-2026",
+        "ikebukuro-anime-guide-2026",
+        "japan-trip-checklist-anime-fans-2026",
+        "japan-rail-pass-2026-guide",
+        "tokyo-anime-collab-cafes-spring-2026"
+      ],
+      "incoming": [
+        "anime-day-trips-from-tokyo-2026",
+        "anime-hotels-tokyo-2026",
+        "book-japan-anime-events-overseas-2026",
+        "detective-conan-pilgrimage-events-2026",
+        "first-timers-japan-playbook-anime-fans-2026",
+        "ghibli-park-complete-guide-2026",
+        "how-to-ride-trains-japan-tourists-2026",
+        "japan-luggage-forwarding-2026",
+        "japan-rail-pass-2026-guide",
+        "japan-travel-insurance-2026",
+        "osaka-anime-collab-cafes-pop-culture-2026",
+        "pokepark-kanto-tokyo-2026",
+        "wonder-festival-figure-events-japan-2026"
+      ],
+      "inDegree": 13,
+      "outDegree": 6
+    },
+    {
+      "slug": "japan-ic-card-transit-guide",
+      "category": "experiences",
+      "noindex": false,
+      "outgoing": [
+        "how-to-ride-trains-japan-tourists-2026",
+        "akihabara-complete-guide-2026",
+        "ikebukuro-anime-guide-2026",
+        "nakano-broadway-guide",
+        "osaka-anime-guide-den-den-town",
+        "lawson-ticket-anime-cafe-booking",
+        "japan-rail-pass-2026-guide"
+      ],
+      "incoming": [
+        "akihabara-complete-guide-2026",
+        "anime-day-trips-from-tokyo-2026",
+        "anime-hotels-tokyo-2026",
+        "animejapan-comiket-2026-guide",
+        "blue-lock-tokyo-skytree-cafe-2026",
+        "chainsaw-man-pilgrimage-tokyo",
+        "dark-moon-chara-cafe-ikebukuro-2026",
+        "first-timers-japan-playbook-anime-fans-2026",
+        "gachapon-guide-japan",
+        "ghibli-park-complete-guide-2026",
+        "golden-kamuy-golden-week-shinjuku-popup-2026",
+        "how-to-ride-trains-japan-tourists-2026",
+        "japan-luggage-forwarding-2026",
+        "japan-rail-pass-2026-guide",
+        "japan-rail-pass-guide-anime-fans",
+        "japan-travel-insurance-2026",
+        "japan-trip-checklist-anime-fans-2026",
+        "jr-pass-anime-pilgrimage-routes-2026",
+        "kyoto-anime-guide-2026",
+        "okami-20th-monster-hunter-sakaba-tokyo-osaka-2026",
+        "one-piece-tokyo-guide-2026",
+        "pokemon-center-tokyo-complete-guide-2026",
+        "slam-dunk-kamakura-pilgrimage-2026",
+        "tokyo-anime-district-guide",
+        "world-trigger-festival-2026-tokyo-dome-city-cafe"
+      ],
+      "inDegree": 25,
+      "outDegree": 7
+    },
+    {
+      "slug": "japan-luggage-forwarding-2026",
+      "category": "experiences",
+      "noindex": false,
+      "outgoing": [
+        "japan-proxy-shopping-2026",
+        "japan-rail-pass-2026-guide",
+        "japan-ic-card-transit-guide",
+        "japan-travel-insurance-2026",
+        "japan-esim-pocket-wifi-sim-card",
+        "tokyo-anime-collab-cafes-spring-2026"
+      ],
+      "incoming": [
+        "first-timers-japan-playbook-anime-fans-2026",
+        "japan-proxy-shopping-2026",
+        "japan-rail-pass-2026-guide",
+        "japan-travel-insurance-2026"
+      ],
+      "inDegree": 4,
+      "outDegree": 6
+    },
+    {
+      "slug": "japan-proxy-shopping-2026",
+      "category": "experiences",
+      "noindex": false,
+      "outgoing": [
+        "nakano-broadway-guide",
+        "akihabara-complete-guide-2026",
+        "gachapon-guide-japan",
+        "japan-luggage-forwarding-2026",
+        "japan-travel-insurance-2026",
+        "tokyo-anime-collab-cafes-spring-2026"
+      ],
+      "incoming": [
+        "anime-merch-shopping-guide-japan",
+        "chiikawa-land-tokyo-complete-2026",
+        "japan-luggage-forwarding-2026"
+      ],
+      "inDegree": 3,
+      "outDegree": 6
+    },
+    {
+      "slug": "japan-rail-pass-2026-guide",
+      "category": "experiences",
+      "noindex": false,
+      "outgoing": [
+        "how-to-ride-trains-japan-tourists-2026",
+        "demon-slayer-meiji-mura-aichi-pilgrimage-2026",
+        "japan-ic-card-transit-guide",
+        "japan-esim-pocket-wifi-sim-card",
+        "japan-luggage-forwarding-2026",
+        "japan-travel-insurance-2026",
+        "one-piece-kumamoto-statue-tour",
+        "osaka-anime-guide-den-den-town",
+        "tokyo-anime-collab-cafes-spring-2026"
+      ],
+      "incoming": [
+        "anime-day-trips-from-tokyo-2026",
+        "anime-hotels-tokyo-2026",
+        "book-japan-anime-events-overseas-2026",
+        "demon-slayer-meiji-mura-aichi-pilgrimage-2026",
+        "detective-conan-pilgrimage-events-2026",
+        "first-timers-japan-playbook-anime-fans-2026",
+        "frieren-usj-story-walk-osaka-2026",
+        "ghibli-park-complete-guide-2026",
+        "golden-kamuy-golden-week-shinjuku-popup-2026",
+        "golden-week-2026-anime-events-complete-guide",
+        "how-to-ride-trains-japan-tourists-2026",
+        "hypnosismic-sweets-paradise-round8-2026",
+        "japan-esim-pocket-wifi-sim-card",
+        "japan-ic-card-transit-guide",
+        "japan-luggage-forwarding-2026",
+        "japan-travel-insurance-2026",
+        "japan-trip-checklist-anime-fans-2026",
+        "kamakura-slam-dunk-pilgrimage-2026",
+        "osaka-anime-collab-cafes-pop-culture-2026",
+        "pokepark-kanto-tokyo-2026",
+        "ranma-japan-2026-exhibition-tree-village-guide",
+        "re-zero-curemaid-cafe-akihabara-2026",
+        "ship-anime-figures-merch-home-japan",
+        "slam-dunk-kamakura-pilgrimage-2026"
+      ],
+      "inDegree": 24,
+      "outDegree": 9
+    },
+    {
+      "slug": "japan-rail-pass-guide-anime-fans",
+      "category": "experiences",
+      "noindex": true,
+      "outgoing": [
+        "japan-ic-card-transit-guide",
+        "one-piece-kumamoto-statue-tour",
+        "osaka-anime-guide-den-den-town",
+        "akihabara-complete-guide-2026",
+        "anime-pilgrimage-spots-tokyo",
+        "anime-day-trips-from-tokyo-2026",
+        "japan-trip-checklist-anime-fans-2026",
+        "tokyo-anime-collab-cafes-spring-2026"
+      ],
+      "incoming": [],
+      "inDegree": 0,
+      "outDegree": 8
+    },
+    {
+      "slug": "japan-travel-insurance-2026",
+      "category": "experiences",
+      "noindex": false,
+      "outgoing": [
+        "japan-esim-pocket-wifi-sim-card",
+        "japan-ic-card-transit-guide",
+        "japan-rail-pass-2026-guide",
+        "japan-luggage-forwarding-2026",
+        "anime-hotels-tokyo-2026",
+        "tokyo-anime-district-guide",
+        "tokyo-anime-collab-cafes-spring-2026"
+      ],
+      "incoming": [
+        "first-timers-japan-playbook-anime-fans-2026",
+        "japan-luggage-forwarding-2026",
+        "japan-proxy-shopping-2026",
+        "japan-rail-pass-2026-guide"
+      ],
+      "inDegree": 4,
+      "outDegree": 7
+    },
+    {
+      "slug": "japan-trip-checklist-anime-fans-2026",
+      "category": "experiences",
+      "noindex": false,
+      "outgoing": [
+        "japan-rail-pass-2026-guide",
+        "how-to-book-anime-collab-cafe-japan",
+        "how-to-ride-trains-japan-tourists-2026",
+        "animejapan-2026-guide-international-visitors",
+        "tokyo-anime-collab-cafes-spring-2026",
+        "japan-ic-card-transit-guide",
+        "anime-merch-shopping-guide-japan"
+      ],
+      "incoming": [
+        "animejapan-2026-guide-international-visitors",
+        "first-timers-japan-playbook-anime-fans-2026",
+        "frieren-usj-story-walk-osaka-2026",
+        "how-to-ride-trains-japan-tourists-2026",
+        "hypnosismic-sweets-paradise-round8-2026",
+        "japan-esim-pocket-wifi-sim-card",
+        "japan-rail-pass-guide-anime-fans"
+      ],
+      "inDegree": 7,
+      "outDegree": 7
+    },
+    {
+      "slug": "jjk-sweets-paradise-complete-guide-2026",
+      "category": "cafes",
+      "noindex": false,
+      "outgoing": [
+        "how-to-book-anime-collab-cafe-japan",
+        "tokyo-anime-collab-cafes-spring-2026",
+        "demon-slayer-rerun-cafe-ufotable-kizuna-2026",
+        "world-trigger-festival-2026-tokyo-dome-city-cafe",
+        "golden-kamuy-golden-week-shinjuku-popup-2026",
+        "hypnosismic-sweets-paradise-round8-2026",
+        "animate-cafe-guide-japan",
+        "lawson-ticket-anime-cafe-booking"
+      ],
+      "incoming": [
+        "dark-moon-chara-cafe-ikebukuro-2026",
+        "demon-slayer-handmade-club-ufotable-cafe-2026",
+        "hypnosismic-sweets-paradise-round8-2026",
+        "jujutsu-kaisen-cafes-japan-2026-guide",
+        "world-trigger-festival-2026-tokyo-dome-city-cafe"
+      ],
+      "inDegree": 5,
+      "outDegree": 8
+    },
+    {
+      "slug": "jojo-stone-ocean-cafe-jojo-world-2026",
+      "category": "cafes",
+      "noindex": false,
+      "outgoing": [
+        "tokyo-anime-collab-cafes-spring-2026",
+        "how-to-book-anime-collab-cafe-japan",
+        "demon-slayer-rerun-cafe-ufotable-kizuna-2026",
+        "chiikawa-bakery-harajuku-guide-2026",
+        "one-piece-cafe-gene-shibuya-guide-2026",
+        "animate-cafe-guide-japan"
+      ],
+      "incoming": [
+        "tokyo-anime-collab-cafes-summer-2026"
+      ],
+      "inDegree": 1,
+      "outDegree": 6
+    },
+    {
+      "slug": "jr-pass-anime-pilgrimage-routes-2026",
+      "category": "destinations",
+      "noindex": true,
+      "outgoing": [
+        "anime-pilgrimage-spots-tokyo",
+        "your-name-pilgrimage-tokyo",
+        "demon-slayer-pilgrimage-tokyo",
+        "demon-slayer-meiji-mura-aichi-pilgrimage-2026",
+        "frieren-usj-story-walk-osaka-2026",
+        "ranma-japan-2026-exhibition-tree-village-guide",
+        "one-piece-kumamoto-statue-tour",
+        "japan-ic-card-transit-guide",
+        "tokyo-anime-collab-cafes-spring-2026"
+      ],
+      "incoming": [],
+      "inDegree": 0,
+      "outDegree": 9
+    },
+    {
+      "slug": "jujutsu-kaisen-cafes-japan-2026-guide",
+      "category": "cafes",
+      "noindex": true,
+      "outgoing": [
+        "tokyo-anime-collab-cafes-spring-2026",
+        "jjk-sweets-paradise-complete-guide-2026",
+        "jujutsu-kaisen-shibuya-locations-2026"
+      ],
+      "incoming": [],
+      "inDegree": 0,
+      "outDegree": 3
+    },
+    {
+      "slug": "jujutsu-kaisen-shibuya-locations-2026",
+      "category": "destinations",
+      "noindex": false,
+      "outgoing": [
+        "shibuya-harajuku-pop-culture-guide",
+        "anime-pilgrimage-spots-tokyo",
+        "demon-slayer-pilgrimage-tokyo",
+        "your-name-pilgrimage-tokyo",
+        "weathering-with-you-locations-tokyo",
+        "spy-family-tokyo-fan-day-2026",
+        "tokyo-anime-collab-cafes-spring-2026"
+      ],
+      "incoming": [
+        "akihabara-complete-guide-2026",
+        "anime-pilgrimage-spots-tokyo",
+        "demon-slayer-pilgrimage-tokyo",
+        "jujutsu-kaisen-cafes-japan-2026-guide",
+        "naruto-tokyo-pilgrimage-2026",
+        "spy-family-tokyo-fan-day-2026",
+        "tokyo-anime-district-guide",
+        "weathering-with-you-locations-tokyo",
+        "your-name-pilgrimage-tokyo"
+      ],
+      "inDegree": 9,
+      "outDegree": 7
+    },
+    {
+      "slug": "kamakura-slam-dunk-pilgrimage-2026",
+      "category": "experiences",
+      "noindex": false,
+      "outgoing": [
+        "anime-pilgrimage-spots-tokyo",
+        "japan-rail-pass-2026-guide",
+        "anime-day-trips-from-tokyo-2026"
+      ],
+      "incoming": [
+        "anime-day-trips-from-tokyo-2026",
+        "anime-pilgrimage-spots-tokyo",
+        "detective-conan-pilgrimage-events-2026"
+      ],
+      "inDegree": 3,
+      "outDegree": 3
+    },
+    {
+      "slug": "krispy-kreme-mario-galaxy-shibuya-2026",
+      "category": "experiences",
+      "noindex": false,
+      "outgoing": [
+        "tokyo-anime-collab-cafes-spring-2026",
+        "akihabara-complete-guide-2026",
+        "gachapon-guide-japan",
+        "ikebukuro-anime-guide-2026"
+      ],
+      "incoming": [
+        "osaka-anime-cafes-complete-guide-2026",
+        "ouran-host-club-20th-anniversary-cafes-2026",
+        "pokemon-karaoke-manekineko-30th-anniversary-2026"
+      ],
+      "inDegree": 3,
+      "outDegree": 4
+    },
+    {
+      "slug": "kyoto-anime-guide-2026",
+      "category": "destinations",
+      "noindex": false,
+      "outgoing": [
+        "akihabara-complete-guide-2026",
+        "anime-pilgrimage-spots-tokyo",
+        "demon-slayer-pilgrimage-tokyo",
+        "japan-ic-card-transit-guide",
+        "tokyo-anime-collab-cafes-spring-2026"
+      ],
+      "incoming": [
+        "anime-day-trips-from-tokyo-2026",
+        "demon-slayer-pilgrimage-tokyo",
+        "ikebukuro-anime-guide-2026",
+        "osaka-anime-guide-den-den-town",
+        "your-name-pilgrimage-tokyo"
+      ],
+      "inDegree": 5,
+      "outDegree": 5
+    },
+    {
+      "slug": "lawson-ticket-anime-cafe-booking",
+      "category": "experiences",
+      "noindex": false,
+      "outgoing": [
+        "tokyo-anime-collab-cafes-spring-2026",
+        "demon-slayer-rerun-cafe-ufotable-kizuna-2026",
+        "how-to-book-anime-collab-cafe-japan",
+        "animate-cafe-guide-japan",
+        "apothecary-diaries-oshi-tabi-osaka-shinkansen-2026",
+        "ouran-host-club-20th-anniversary-cafes-2026",
+        "osaka-anime-cafes-complete-guide-2026"
+      ],
+      "incoming": [
+        "chiikawa-bakery-harajuku-guide-2026",
+        "demon-slayer-handmade-club-ufotable-cafe-2026",
+        "demon-slayer-rerun-cafe-ufotable-2026",
+        "demon-slayer-rerun-cafe-ufotable-kizuna-2026",
+        "detective-conan-cafe-tokyo-osaka-3venue-2026",
+        "japan-ic-card-transit-guide",
+        "jjk-sweets-paradise-complete-guide-2026",
+        "one-piece-cafe-gene-shibuya-guide-2026",
+        "world-trigger-festival-2026-tokyo-dome-city-cafe"
+      ],
+      "inDegree": 9,
+      "outDegree": 7
+    },
+    {
+      "slug": "luvlab-harajuku-diy-accessory-experience",
+      "category": "experiences",
+      "noindex": false,
+      "outgoing": [
+        "akihabara-complete-guide-2026",
+        "ikebukuro-anime-guide-2026",
+        "anime-merch-shopping-guide-japan",
+        "tokyo-anime-district-guide"
+      ],
+      "incoming": [
+        "cosplay-experience-tokyo-2026"
+      ],
+      "inDegree": 1,
+      "outDegree": 4
+    },
+    {
+      "slug": "my-hero-academia-cafe-tokyo-2026",
+      "category": "cafes",
+      "noindex": true,
+      "outgoing": [
+        "tokyo-anime-collab-cafes-spring-2026",
+        "my-hero-academia-waffle-diner-ikebukuro-2026",
+        "ikebukuro-anime-guide-2026"
+      ],
+      "incoming": [],
+      "inDegree": 0,
+      "outDegree": 3
+    },
+    {
+      "slug": "my-hero-academia-waffle-diner-ikebukuro-2026",
+      "category": "cafes",
+      "noindex": false,
+      "outgoing": [
+        "ikebukuro-anime-guide-2026",
+        "how-to-book-anime-collab-cafe-japan",
+        "my-hero-academia-waffle-diner-ikebukuro-2026",
+        "tokyo-anime-collab-cafes-spring-2026",
+        "animate-cafe-guide-japan"
+      ],
+      "incoming": [
+        "golden-week-2026-anime-events-complete-guide",
+        "my-hero-academia-cafe-tokyo-2026",
+        "my-hero-academia-waffle-diner-ikebukuro-2026"
+      ],
+      "inDegree": 3,
+      "outDegree": 5
+    },
+    {
+      "slug": "nakano-broadway-guide",
+      "category": "destinations",
+      "noindex": false,
+      "outgoing": [
+        "tokyo-anime-district-guide",
+        "akihabara-complete-guide-2026",
+        "ikebukuro-anime-guide-2026",
+        "shibuya-harajuku-pop-culture-guide",
+        "tokyo-anime-collab-cafes-spring-2026"
+      ],
+      "incoming": [
+        "akihabara-complete-guide-2026",
+        "anime-merch-shopping-guide-japan",
+        "best-anime-tours-tokyo-2026",
+        "gachapon-guide-japan",
+        "ikebukuro-anime-guide-2026",
+        "japan-ic-card-transit-guide",
+        "japan-proxy-shopping-2026",
+        "osaka-anime-guide-den-den-town",
+        "shibuya-harajuku-pop-culture-guide",
+        "ship-anime-figures-merch-home-japan",
+        "tokyo-anime-district-guide"
+      ],
+      "inDegree": 11,
+      "outDegree": 5
+    },
+    {
+      "slug": "naruto-tokyo-pilgrimage-2026",
+      "category": "destinations",
+      "noindex": false,
+      "outgoing": [
+        "anime-pilgrimage-spots-tokyo",
+        "jujutsu-kaisen-shibuya-locations-2026",
+        "demon-slayer-pilgrimage-tokyo",
+        "your-name-pilgrimage-tokyo",
+        "chainsaw-man-pilgrimage-tokyo"
+      ],
+      "incoming": [
+        "anime-pilgrimage-spots-tokyo"
+      ],
+      "inDegree": 1,
+      "outDegree": 5
+    },
+    {
+      "slug": "okami-20th-monster-hunter-sakaba-tokyo-osaka-2026",
+      "category": "cafes",
+      "noindex": false,
+      "outgoing": [
+        "akihabara-complete-guide-2026",
+        "osaka-anime-cafes-complete-guide-2026",
+        "how-to-book-anime-collab-cafe-japan",
+        "osaka-anime-guide-den-den-town",
+        "japan-ic-card-transit-guide"
+      ],
+      "incoming": [
+        "tokyo-anime-collab-cafes-summer-2026"
+      ],
+      "inDegree": 1,
+      "outDegree": 5
+    },
+    {
+      "slug": "one-piece-cafe-gene-shibuya-guide-2026",
+      "category": "cafes",
+      "noindex": false,
+      "outgoing": [
+        "shibuya-harajuku-pop-culture-guide",
+        "lawson-ticket-anime-cafe-booking",
+        "tokyo-anime-collab-cafes-spring-2026",
+        "how-to-book-anime-collab-cafe-japan"
+      ],
+      "incoming": [
+        "jojo-stone-ocean-cafe-jojo-world-2026"
+      ],
+      "inDegree": 1,
+      "outDegree": 4
+    },
+    {
+      "slug": "one-piece-kumamoto-statue-tour",
+      "category": "destinations",
+      "noindex": false,
+      "outgoing": [
+        "anime-pilgrimage-spots-tokyo",
+        "tokyo-anime-district-guide",
+        "your-name-pilgrimage-tokyo",
+        "demon-slayer-pilgrimage-tokyo",
+        "weathering-with-you-locations-tokyo",
+        "osaka-anime-guide-den-den-town",
+        "tokyo-anime-collab-cafes-spring-2026"
+      ],
+      "incoming": [
+        "chainsaw-man-pilgrimage-tokyo",
+        "demon-slayer-pilgrimage-tokyo",
+        "japan-rail-pass-2026-guide",
+        "japan-rail-pass-guide-anime-fans",
+        "jr-pass-anime-pilgrimage-routes-2026",
+        "slam-dunk-kamakura-pilgrimage-2026",
+        "weathering-with-you-locations-tokyo"
+      ],
+      "inDegree": 7,
+      "outDegree": 7
+    },
+    {
+      "slug": "one-piece-tokyo-guide-2026",
+      "category": "destinations",
+      "noindex": false,
+      "outgoing": [
+        "akihabara-complete-guide-2026",
+        "ikebukuro-anime-guide-2026",
+        "japan-ic-card-transit-guide",
+        "anime-pilgrimage-spots-tokyo",
+        "tokyo-anime-collab-cafes-spring-2026"
+      ],
+      "incoming": [
+        "ikebukuro-anime-guide-2026",
+        "your-name-pilgrimage-tokyo"
+      ],
+      "inDegree": 2,
+      "outDegree": 5
+    },
+    {
+      "slug": "osaka-anime-cafes-complete-guide-2026",
+      "category": "cafes",
+      "noindex": false,
+      "outgoing": [
+        "apothecary-diaries-oshi-tabi-osaka-shinkansen-2026",
+        "rilakkuma-cafe-tokyo-osaka-2026",
+        "pokemon-karaoke-manekineko-30th-anniversary-2026",
+        "krispy-kreme-mario-galaxy-shibuya-2026",
+        "akihabara-arcade-rhythm-games-guide-2026",
+        "frieren-usj-story-walk-osaka-2026",
+        "ouran-host-club-20th-anniversary-cafes-2026"
+      ],
+      "incoming": [
+        "apothecary-diaries-oshi-tabi-osaka-shinkansen-2026",
+        "demon-slayer-handmade-club-ufotable-cafe-2026",
+        "detective-conan-pilgrimage-events-2026",
+        "frieren-usj-story-walk-osaka-2026",
+        "hypnosismic-sweets-paradise-round8-2026",
+        "lawson-ticket-anime-cafe-booking",
+        "okami-20th-monster-hunter-sakaba-tokyo-osaka-2026",
+        "osaka-anime-guide-den-den-town",
+        "ouran-host-club-20th-anniversary-cafes-2026",
+        "ranma-japan-2026-exhibition-tree-village-guide",
+        "tokyo-anime-collab-cafes-spring-2026",
+        "universal-cool-japan-2026-guide"
+      ],
+      "inDegree": 12,
+      "outDegree": 7
+    },
+    {
+      "slug": "osaka-anime-collab-cafes-pop-culture-2026",
+      "category": "cafes",
+      "noindex": true,
+      "outgoing": [
+        "osaka-anime-guide-den-den-town",
+        "japan-rail-pass-2026-guide",
+        "detective-conan-pilgrimage-events-2026",
+        "frieren-usj-story-walk-osaka-2026",
+        "japan-esim-pocket-wifi-sim-card",
+        "tokyo-anime-collab-cafes-spring-2026"
+      ],
+      "incoming": [],
+      "inDegree": 0,
+      "outDegree": 6
+    },
+    {
+      "slug": "osaka-anime-guide-den-den-town",
+      "category": "destinations",
+      "noindex": false,
+      "outgoing": [
+        "osaka-anime-cafes-complete-guide-2026",
+        "akihabara-complete-guide-2026",
+        "ikebukuro-anime-guide-2026",
+        "nakano-broadway-guide",
+        "shibuya-harajuku-pop-culture-guide",
+        "kyoto-anime-guide-2026",
+        "how-to-book-anime-collab-cafe-japan",
+        "tokyo-anime-collab-cafes-spring-2026"
+      ],
+      "incoming": [
+        "detective-conan-pilgrimage-events-2026",
+        "ikebukuro-anime-guide-2026",
+        "japan-ic-card-transit-guide",
+        "japan-rail-pass-2026-guide",
+        "japan-rail-pass-guide-anime-fans",
+        "okami-20th-monster-hunter-sakaba-tokyo-osaka-2026",
+        "one-piece-kumamoto-statue-tour",
+        "osaka-anime-collab-cafes-pop-culture-2026",
+        "universal-cool-japan-2026-guide"
+      ],
+      "inDegree": 9,
+      "outDegree": 8
+    },
+    {
+      "slug": "ouran-host-club-20th-anniversary-cafes-2026",
+      "category": "cafes",
+      "noindex": false,
+      "outgoing": [
+        "apothecary-diaries-oshi-tabi-osaka-shinkansen-2026",
+        "krispy-kreme-mario-galaxy-shibuya-2026",
+        "pokemon-karaoke-manekineko-30th-anniversary-2026",
+        "rilakkuma-cafe-tokyo-osaka-2026",
+        "demon-slayer-rerun-cafe-ufotable-kizuna-2026",
+        "tokyo-anime-collab-cafes-spring-2026",
+        "osaka-anime-cafes-complete-guide-2026",
+        "how-to-book-anime-collab-cafe-japan"
+      ],
+      "incoming": [
+        "apothecary-diaries-oshi-tabi-osaka-shinkansen-2026",
+        "demon-slayer-handmade-club-ufotable-cafe-2026",
+        "lawson-ticket-anime-cafe-booking",
+        "osaka-anime-cafes-complete-guide-2026",
+        "tokyo-anime-collab-cafes-spring-2026"
+      ],
+      "inDegree": 5,
+      "outDegree": 8
+    },
+    {
+      "slug": "pokemon-center-tokyo-complete-guide-2026",
+      "category": "experiences",
+      "noindex": false,
+      "outgoing": [
+        "pokemon-karaoke-manekineko-30th-anniversary-2026",
+        "shibuya-harajuku-pop-culture-guide",
+        "akihabara-complete-guide-2026",
+        "anime-day-trips-from-tokyo-2026",
+        "japan-ic-card-transit-guide"
+      ],
+      "incoming": [
+        "anime-merch-shopping-guide-japan"
+      ],
+      "inDegree": 1,
+      "outDegree": 5
+    },
+    {
+      "slug": "pokemon-karaoke-manekineko-30th-anniversary-2026",
+      "category": "cafes",
+      "noindex": false,
+      "outgoing": [
+        "demon-slayer-rerun-cafe-ufotable-kizuna-2026",
+        "apothecary-diaries-oshi-tabi-osaka-shinkansen-2026",
+        "rilakkuma-cafe-tokyo-osaka-2026",
+        "akihabara-arcade-rhythm-games-guide-2026",
+        "krispy-kreme-mario-galaxy-shibuya-2026"
+      ],
+      "incoming": [
+        "osaka-anime-cafes-complete-guide-2026",
+        "ouran-host-club-20th-anniversary-cafes-2026",
+        "pokemon-center-tokyo-complete-guide-2026"
+      ],
+      "inDegree": 3,
+      "outDegree": 5
+    },
+    {
+      "slug": "pokepark-kanto-tokyo-2026",
+      "category": "experiences",
+      "noindex": false,
+      "outgoing": [
+        "book-japan-anime-events-overseas-2026",
+        "japan-rail-pass-2026-guide",
+        "gaming-tokyo-2026",
+        "ghibli-park-complete-guide-2026",
+        "japan-esim-pocket-wifi-sim-card",
+        "tokyo-anime-collab-cafes-spring-2026"
+      ],
+      "incoming": [
+        "ghibli-park-complete-guide-2026"
+      ],
+      "inDegree": 1,
+      "outDegree": 6
+    },
+    {
+      "slug": "ranma-japan-2026-exhibition-tree-village-guide",
+      "category": "experiences",
+      "noindex": false,
+      "outgoing": [
+        "how-to-book-anime-collab-cafe-japan",
+        "osaka-anime-cafes-complete-guide-2026",
+        "detective-conan-cafe-tokyo-osaka-3venue-2026",
+        "demon-slayer-meiji-mura-aichi-pilgrimage-2026",
+        "frieren-usj-story-walk-osaka-2026",
+        "japan-rail-pass-2026-guide"
+      ],
+      "incoming": [
+        "anime-day-trips-from-tokyo-2026",
+        "demon-slayer-handmade-club-ufotable-cafe-2026",
+        "jr-pass-anime-pilgrimage-routes-2026",
+        "world-trigger-festival-2026-tokyo-dome-city-cafe"
+      ],
+      "inDegree": 4,
+      "outDegree": 6
+    },
+    {
+      "slug": "re-zero-curemaid-cafe-akihabara-2026",
+      "category": "cafes",
+      "noindex": false,
+      "outgoing": [
+        "demon-slayer-handmade-club-ufotable-cafe-2026",
+        "akihabara-arcade-rhythm-games-guide-2026",
+        "japan-rail-pass-2026-guide",
+        "hypnosismic-sweets-paradise-round8-2026",
+        "world-trigger-festival-2026-tokyo-dome-city-cafe",
+        "golden-kamuy-golden-week-shinjuku-popup-2026",
+        "tokyo-anime-collab-cafes-spring-2026"
+      ],
+      "incoming": [
+        "akihabara-arcade-rhythm-games-guide-2026",
+        "dark-moon-chara-cafe-ikebukuro-2026",
+        "demon-slayer-handmade-club-ufotable-cafe-2026",
+        "hypnosismic-sweets-paradise-round8-2026",
+        "world-trigger-festival-2026-tokyo-dome-city-cafe"
+      ],
+      "inDegree": 5,
+      "outDegree": 7
+    },
+    {
+      "slug": "rilakkuma-cafe-tokyo-osaka-2026",
+      "category": "cafes",
+      "noindex": false,
+      "outgoing": [
+        "how-to-book-anime-collab-cafe-japan",
+        "tokyo-anime-collab-cafes-spring-2026",
+        "demon-slayer-rerun-cafe-ufotable-kizuna-2026",
+        "blue-lock-tokyo-skytree-cafe-2026",
+        "shibuya-harajuku-pop-culture-guide"
+      ],
+      "incoming": [
+        "osaka-anime-cafes-complete-guide-2026",
+        "ouran-host-club-20th-anniversary-cafes-2026",
+        "pokemon-karaoke-manekineko-30th-anniversary-2026"
+      ],
+      "inDegree": 3,
+      "outDegree": 5
+    },
+    {
+      "slug": "shibuya-harajuku-pop-culture-guide",
+      "category": "destinations",
+      "noindex": false,
+      "outgoing": [
+        "tokyo-anime-district-guide",
+        "akihabara-complete-guide-2026",
+        "ikebukuro-anime-guide-2026",
+        "nakano-broadway-guide",
+        "game-centers-arcades-japan",
+        "tokyo-anime-collab-cafes-spring-2026"
+      ],
+      "incoming": [
+        "best-anime-tours-tokyo-2026",
+        "chiikawa-bakery-harajuku-guide-2026",
+        "ikebukuro-anime-guide-2026",
+        "jujutsu-kaisen-shibuya-locations-2026",
+        "nakano-broadway-guide",
+        "one-piece-cafe-gene-shibuya-guide-2026",
+        "osaka-anime-guide-den-den-town",
+        "pokemon-center-tokyo-complete-guide-2026",
+        "rilakkuma-cafe-tokyo-osaka-2026",
+        "tokyo-anime-district-guide",
+        "weathering-with-you-locations-tokyo"
+      ],
+      "inDegree": 11,
+      "outDegree": 6
+    },
+    {
+      "slug": "ship-anime-figures-merch-home-japan",
+      "category": "experiences",
+      "noindex": false,
+      "outgoing": [
+        "anime-merch-shopping-guide-japan",
+        "akihabara-complete-guide-2026",
+        "nakano-broadway-guide",
+        "gachapon-guide-japan",
+        "japan-rail-pass-2026-guide",
+        "tokyo-anime-collab-cafes-spring-2026"
+      ],
+      "incoming": [
+        "anime-merch-shopping-guide-japan"
+      ],
+      "inDegree": 1,
+      "outDegree": 6
+    },
+    {
+      "slug": "slam-dunk-kamakura-pilgrimage-2026",
+      "category": "destinations",
+      "noindex": true,
+      "outgoing": [
+        "japan-rail-pass-2026-guide",
+        "japan-ic-card-transit-guide",
+        "anime-day-trips-from-tokyo-2026",
+        "anime-pilgrimage-spots-tokyo",
+        "your-name-pilgrimage-tokyo",
+        "demon-slayer-pilgrimage-tokyo",
+        "weathering-with-you-locations-tokyo",
+        "one-piece-kumamoto-statue-tour",
+        "tokyo-anime-collab-cafes-spring-2026"
+      ],
+      "incoming": [],
+      "inDegree": 0,
+      "outDegree": 9
+    },
+    {
+      "slug": "spy-family-tokyo-fan-day-2026",
+      "category": "experiences",
+      "noindex": false,
+      "outgoing": [
+        "game-centers-arcades-japan",
+        "familymart-anime-collab-stores-2026",
+        "anime-pilgrimage-spots-tokyo",
+        "jujutsu-kaisen-shibuya-locations-2026",
+        "tokyo-anime-collab-cafes-spring-2026",
+        "how-to-book-anime-collab-cafe-japan",
+        "ikebukuro-anime-guide-2026"
+      ],
+      "incoming": [
+        "anime-pilgrimage-spots-tokyo",
+        "jujutsu-kaisen-shibuya-locations-2026",
+        "weathering-with-you-locations-tokyo"
+      ],
+      "inDegree": 3,
+      "outDegree": 7
+    },
+    {
+      "slug": "tokyo-anime-collab-cafes-spring-2026",
+      "category": "cafes",
+      "noindex": false,
+      "outgoing": [
+        "how-to-book-anime-collab-cafe-japan",
+        "ikebukuro-anime-guide-2026",
+        "akihabara-complete-guide-2026",
+        "osaka-anime-cafes-complete-guide-2026",
+        "frieren-usj-story-walk-osaka-2026",
+        "golden-kamuy-golden-week-shinjuku-popup-2026",
+        "ouran-host-club-20th-anniversary-cafes-2026",
+        "hypnosismic-sweets-paradise-round8-2026",
+        "familymart-anime-collab-stores-2026",
+        "animate-cafe-guide-japan",
+        "tokyo-anime-collab-cafes-spring-2026"
+      ],
+      "incoming": [
+        "akihabara-complete-guide-2026",
+        "animate-cafe-guide-japan",
+        "anime-day-trips-from-tokyo-2026",
+        "anime-hotels-tokyo-2026",
+        "anime-merch-shopping-guide-japan",
+        "anime-pilgrimage-spots-tokyo",
+        "animejapan-2026-guide-international-visitors",
+        "animejapan-comiket-2026-guide",
+        "best-anime-tours-tokyo-2026",
+        "blue-lock-tokyo-skytree-cafe-2026",
+        "book-japan-anime-events-overseas-2026",
+        "chainsaw-man-pilgrimage-tokyo",
+        "chiikawa-bakery-harajuku-guide-2026",
+        "chiikawa-land-tokyo-complete-2026",
+        "cosplay-experience-tokyo-2026",
+        "dark-moon-chara-cafe-ikebukuro-2026",
+        "demon-slayer-handmade-club-ufotable-cafe-2026",
+        "demon-slayer-pilgrimage-tokyo",
+        "demon-slayer-rerun-cafe-ufotable-2026",
+        "demon-slayer-rerun-cafe-ufotable-kizuna-2026",
+        "detective-conan-cafe-2026-japan-guide",
+        "detective-conan-cafe-tokyo-osaka-3venue-2026",
+        "detective-conan-pilgrimage-events-2026",
+        "familymart-anime-collab-stores-2026",
+        "gachapon-guide-japan",
+        "gaming-tokyo-2026",
+        "ghibli-park-complete-guide-2026",
+        "golden-kamuy-golden-week-shinjuku-popup-2026",
+        "golden-week-2026-anime-events-complete-guide",
+        "how-to-book-anime-collab-cafe-japan",
+        "hypnosismic-sweets-paradise-round8-2026",
+        "ikebukuro-anime-guide-2026",
+        "japan-esim-pocket-wifi-sim-card",
+        "japan-luggage-forwarding-2026",
+        "japan-proxy-shopping-2026",
+        "japan-rail-pass-2026-guide",
+        "japan-rail-pass-guide-anime-fans",
+        "japan-travel-insurance-2026",
+        "japan-trip-checklist-anime-fans-2026",
+        "jjk-sweets-paradise-complete-guide-2026",
+        "jojo-stone-ocean-cafe-jojo-world-2026",
+        "jr-pass-anime-pilgrimage-routes-2026",
+        "jujutsu-kaisen-cafes-japan-2026-guide",
+        "jujutsu-kaisen-shibuya-locations-2026",
+        "krispy-kreme-mario-galaxy-shibuya-2026",
+        "kyoto-anime-guide-2026",
+        "lawson-ticket-anime-cafe-booking",
+        "my-hero-academia-cafe-tokyo-2026",
+        "my-hero-academia-waffle-diner-ikebukuro-2026",
+        "nakano-broadway-guide",
+        "one-piece-cafe-gene-shibuya-guide-2026",
+        "one-piece-kumamoto-statue-tour",
+        "one-piece-tokyo-guide-2026",
+        "osaka-anime-collab-cafes-pop-culture-2026",
+        "osaka-anime-guide-den-den-town",
+        "ouran-host-club-20th-anniversary-cafes-2026",
+        "pokepark-kanto-tokyo-2026",
+        "re-zero-curemaid-cafe-akihabara-2026",
+        "rilakkuma-cafe-tokyo-osaka-2026",
+        "shibuya-harajuku-pop-culture-guide",
+        "ship-anime-figures-merch-home-japan",
+        "slam-dunk-kamakura-pilgrimage-2026",
+        "spy-family-tokyo-fan-day-2026",
+        "tokyo-anime-collab-cafes-spring-2026",
+        "tokyo-anime-collab-cafes-summer-2026",
+        "tokyo-anime-district-guide",
+        "universal-cool-japan-2026-guide",
+        "weathering-with-you-locations-tokyo",
+        "wonder-festival-figure-events-japan-2026",
+        "your-name-pilgrimage-tokyo"
+      ],
+      "inDegree": 70,
+      "outDegree": 11
+    },
+    {
+      "slug": "tokyo-anime-collab-cafes-summer-2026",
+      "category": "cafes",
+      "noindex": false,
+      "outgoing": [
+        "jojo-stone-ocean-cafe-jojo-world-2026",
+        "okami-20th-monster-hunter-sakaba-tokyo-osaka-2026",
+        "how-to-book-anime-collab-cafe-japan",
+        "animate-cafe-guide-japan",
+        "book-japan-anime-events-overseas-2026",
+        "tokyo-anime-collab-cafes-spring-2026"
+      ],
+      "incoming": [
+        "detective-conan-pilgrimage-events-2026"
+      ],
+      "inDegree": 1,
+      "outDegree": 6
+    },
+    {
+      "slug": "tokyo-anime-district-guide",
+      "category": "destinations",
+      "noindex": false,
+      "outgoing": [
+        "akihabara-complete-guide-2026",
+        "ikebukuro-anime-guide-2026",
+        "nakano-broadway-guide",
+        "shibuya-harajuku-pop-culture-guide",
+        "game-centers-arcades-japan",
+        "gachapon-guide-japan",
+        "anime-pilgrimage-spots-tokyo",
+        "japan-ic-card-transit-guide",
+        "jujutsu-kaisen-shibuya-locations-2026",
+        "tokyo-anime-collab-cafes-spring-2026"
+      ],
+      "incoming": [
+        "anime-hotels-tokyo-2026",
+        "anime-merch-shopping-guide-japan",
+        "chainsaw-man-pilgrimage-tokyo",
+        "first-timers-japan-playbook-anime-fans-2026",
+        "gaming-tokyo-2026",
+        "japan-travel-insurance-2026",
+        "luvlab-harajuku-diy-accessory-experience",
+        "nakano-broadway-guide",
+        "one-piece-kumamoto-statue-tour",
+        "shibuya-harajuku-pop-culture-guide",
+        "weathering-with-you-locations-tokyo"
+      ],
+      "inDegree": 11,
+      "outDegree": 10
+    },
+    {
+      "slug": "universal-cool-japan-2026-guide",
+      "category": "experiences",
+      "noindex": true,
+      "outgoing": [
+        "tokyo-anime-collab-cafes-spring-2026",
+        "golden-week-2026-anime-events-complete-guide",
+        "osaka-anime-cafes-complete-guide-2026",
+        "osaka-anime-guide-den-den-town"
+      ],
+      "incoming": [],
+      "inDegree": 0,
+      "outDegree": 4
+    },
+    {
+      "slug": "weathering-with-you-locations-tokyo",
+      "category": "destinations",
+      "noindex": false,
+      "outgoing": [
+        "tokyo-anime-district-guide",
+        "anime-pilgrimage-spots-tokyo",
+        "your-name-pilgrimage-tokyo",
+        "demon-slayer-pilgrimage-tokyo",
+        "one-piece-kumamoto-statue-tour",
+        "shibuya-harajuku-pop-culture-guide",
+        "jujutsu-kaisen-shibuya-locations-2026",
+        "spy-family-tokyo-fan-day-2026",
+        "tokyo-anime-collab-cafes-spring-2026"
+      ],
+      "incoming": [
+        "anime-pilgrimage-spots-tokyo",
+        "chainsaw-man-pilgrimage-tokyo",
+        "demon-slayer-pilgrimage-tokyo",
+        "jujutsu-kaisen-shibuya-locations-2026",
+        "one-piece-kumamoto-statue-tour",
+        "slam-dunk-kamakura-pilgrimage-2026",
+        "your-name-pilgrimage-tokyo"
+      ],
+      "inDegree": 7,
+      "outDegree": 9
+    },
+    {
+      "slug": "wonder-festival-figure-events-japan-2026",
+      "category": "experiences",
+      "noindex": false,
+      "outgoing": [
+        "book-japan-anime-events-overseas-2026",
+        "anime-merch-shopping-guide-japan",
+        "japan-esim-pocket-wifi-sim-card",
+        "tokyo-anime-collab-cafes-spring-2026"
+      ],
+      "incoming": [
+        "cosplay-experience-tokyo-2026"
+      ],
+      "inDegree": 1,
+      "outDegree": 4
+    },
+    {
+      "slug": "world-trigger-festival-2026-tokyo-dome-city-cafe",
+      "category": "cafes",
+      "noindex": false,
+      "outgoing": [
+        "demon-slayer-handmade-club-ufotable-cafe-2026",
+        "dark-moon-chara-cafe-ikebukuro-2026",
+        "lawson-ticket-anime-cafe-booking",
+        "japan-ic-card-transit-guide",
+        "jjk-sweets-paradise-complete-guide-2026",
+        "golden-kamuy-golden-week-shinjuku-popup-2026",
+        "re-zero-curemaid-cafe-akihabara-2026",
+        "ranma-japan-2026-exhibition-tree-village-guide"
+      ],
+      "incoming": [
+        "dark-moon-chara-cafe-ikebukuro-2026",
+        "golden-kamuy-golden-week-shinjuku-popup-2026",
+        "jjk-sweets-paradise-complete-guide-2026",
+        "re-zero-curemaid-cafe-akihabara-2026"
+      ],
+      "inDegree": 4,
+      "outDegree": 8
+    },
+    {
+      "slug": "your-name-pilgrimage-tokyo",
+      "category": "destinations",
+      "noindex": false,
+      "outgoing": [
+        "demon-slayer-pilgrimage-tokyo",
+        "weathering-with-you-locations-tokyo",
+        "jujutsu-kaisen-shibuya-locations-2026",
+        "chainsaw-man-pilgrimage-tokyo",
+        "one-piece-tokyo-guide-2026",
+        "kyoto-anime-guide-2026",
+        "tokyo-anime-collab-cafes-spring-2026"
+      ],
+      "incoming": [
+        "chainsaw-man-pilgrimage-tokyo",
+        "demon-slayer-pilgrimage-tokyo",
+        "jr-pass-anime-pilgrimage-routes-2026",
+        "jujutsu-kaisen-shibuya-locations-2026",
+        "naruto-tokyo-pilgrimage-2026",
+        "one-piece-kumamoto-statue-tour",
+        "slam-dunk-kamakura-pilgrimage-2026",
+        "weathering-with-you-locations-tokyo"
+      ],
+      "inDegree": 8,
+      "outDegree": 7
+    }
+  ]
+}

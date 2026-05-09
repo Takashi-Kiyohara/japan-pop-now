@@ -20,7 +20,7 @@ Tokyo gets all the attention when it comes to anime tourism, but Osaka has been 
 
 I started visiting Den Den Town in 2024 when a friend tipped me off about the secondhand figure prices — often 30-40% cheaper than Akihabara for the same items. Per visitor reports across more than a dozen return trips, every visit turns up something new: a collab cafe that just opened, a retro game shop expanding its arcade floor, or a limited gashapon machine that sold out in Tokyo weeks ago.
 
-This guide covers everything you need for a full day (or two) of anime shopping, gaming, and eating in Osaka. I’ve included exact addresses, current hours, and the specific floors where you’ll find what you’re looking for — plus a few spots outside Den Den Town that most guides miss entirely.
+This guide covers everything you need for a full day (or two) of anime shopping, gaming, and eating in Osaka. Exact addresses, current hours, and the specific floors are listed below where you’ll find what you’re looking for — plus a few spots outside Den Den Town that most guides miss entirely.
 
 ## Table of Contents
 

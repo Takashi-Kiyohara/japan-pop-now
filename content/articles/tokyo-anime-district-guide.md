@@ -186,7 +186,7 @@ Akihabara. It has the broadest selection, the most shops, and the full “anime 
 
 Yes. Ikebukuro has Animate Cafe and multiple collab cafes in Sunshine City. Akihabara has themed cafes throughout. Shibuya hosts box cafes at SHIBUYA109. Check our [anime collab cafe booking guide](/articles/how-to-book-anime-collab-cafe-japan/) for what’s currently running and how to reserve.
 
-**I’m traveling with someone who doesn’t care about anime. Which district works for both of us?**
+**Traveling with someone who doesn’t care about anime. Which district works for both of us?**
 
 Shibuya + Harajuku. Shibuya PARCO’s 6th floor handles the anime shopping in 90 minutes, while the rest of the building, the surrounding restaurants, and Scramble Crossing give your non-anime companion plenty to do. Harajuku’s fashion scene and Meiji Jingu shrine appeal to everyone.
 
