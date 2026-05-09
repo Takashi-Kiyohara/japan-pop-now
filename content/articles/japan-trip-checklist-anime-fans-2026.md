@@ -51,7 +51,7 @@ The JR Pass is essential if you’re planning to leave Tokyo for day trips or mu
 
 However: if you’re staying in Tokyo and Kyoto for the full trip, calculate your specific routes. Tokyo to Kyoto return on the Shinkansen (bullet train) is 27,880 yen round-trip, so a JR Pass only makes sense if you’re adding Hiroshima, Osaka, or multiple other cities. [Our detailed JR Pass guide](/articles/japan-rail-pass-2026-guide) breaks down every route anime fans typically take.
 
-Book your JR Pass exchange voucher through authorized dealers—I’ve used [JR East Official](https://www.jreast.co.jp) and [Klook](https://www.klook.com) (which sometimes has discounts of 5-10%). You’ll receive a voucher code to exchange at airports when you arrive. The pass only activates when you exchange it, so you can arrive and decide the timing.
+Book your JR Pass exchange voucher through authorized dealers — [JR East Official](https://www.jreast.co.jp) and [Klook](https://www.klook.com) are the two most-used by international visitors (Klook sometimes runs 5-10% discounts). You’ll receive a voucher code to exchange at airports when you arrive. The pass only activates when you exchange it, so you can arrive and decide the timing.
 
 ![A physical Japan Rail Pass card showing the layout and printed validity dates anime fans receive after airport exchange](/images/articles/japan-trip-checklist-anime-fans-2026/body-wikimedia-1.webp)
 *A real JR Rail Pass after exchange — the voucher you buy abroad gets swapped for a card like this at any major JR ticket office. Photo: DragonFury / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:JR_Rail_Pass_2023.jpg), CC BY-SA 4.0.*
@@ -109,7 +109,7 @@ Most travel insurance policies don’t explicitly cover event ticket refunds or 
 - Emergency medical and dental (important if you get food poisoning right before AnimeJapan)
 - Trip interruption (if you need to leave early)
 
-Annual multi-trip policies from [Allianz](https://www.allianzglobal.com) or [Blue Cross](https://www.bluecross.com/en/products/travel-insurance) run 150-300 USD per year and cover unlimited trips. Single-trip policies for a 10-day Japan trip typically cost 35-70 USD. I’ve never used it, but I also know people who’ve been grateful for baggage coverage after their suitcase got delayed 4 days in Narita and arrived after they’d already left Tokyo (forcing a hotel night in Kyoto to wait for luggage containing their event outfit).
+Annual multi-trip policies from [Allianz](https://www.allianzglobal.com) or [Blue Cross](https://www.bluecross.com/en/products/travel-insurance) run 150-300 USD per year and cover unlimited trips. Single-trip policies for a 10-day Japan trip typically cost 35-70 USD. The realistic risk: lost-luggage cases where a suitcase delayed 4 days at Narita arrives after the visitor has already left Tokyo, forcing a hotel night in Kyoto to wait for luggage that contains the cafe-event outfit.
 
 ### Make Money Decisions: Cash vs Cards vs IC Cards
 Japan’s payment system is split between cash, credit cards, and IC cards (prepaid transit/shopping cards like Suica or Pasmo). Most anime shops in Akihabara’s backstreets accept only cash or IC card, not credit cards.
@@ -143,7 +143,7 @@ With two weeks to go, you’re in the homestretch. Now you’re confirming detai
 ### Check Lottery Results and Plan Walk-In Strategy
 If you’ve entered collab cafe lotteries, results drop around this time. Check your email and account logins obsessively—some venues send results via email that might hit your spam folder. If you won, you’ll receive a confirmation email with your reserved time slot (usually a specific 2-hour window) and instructions for arrival.
 
-If you lost (odds are you will, at least once), don’t panic. Most collab cafes hold 30-40% of seating for walk-in customers. The strategy is to show up 90-120 minutes before closing time on a weekday (Tuesday-Thursday are slowest). Expect a 1-2 hour wait, but you’ll get in. Pro tip: Bring a book or charge your phone. Also, walk-in customers often get first dibs on merchandise if the limited collab goods start selling out—I’ve waited 90 minutes for a cafe and gotten the last five bromides in my target character.
+If you lost (odds are you will, at least once), don’t panic. Most collab cafes hold 30-40% of seating for walk-in customers. The strategy is to show up 90-120 minutes before closing time on a weekday (Tuesday-Thursday are slowest). Expect a 1-2 hour wait, but you’ll get in. Pro tip: Bring a book or charge your phone. Walk-in customers often get first dibs on merchandise once the lottery winners clear out — visitor reports note 90-minute waits regularly netting the last few bromides of a target character.
 
 ### Make Restaurant Reservations for Themed Dining
 Beyond collab cafes, Tokyo has restaurants specifically decorated with anime themes or that serve anime-inspired food. These don’t always require reservations, but popular ones do, especially for evening slots (6 PM – 8 PM) on weekends.
