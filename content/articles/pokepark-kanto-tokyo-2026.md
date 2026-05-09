@@ -20,7 +20,7 @@ wpPostId: 780
 PokéPark Kanto opened in February 2026 inside Yomiuriland, bringing Pokémon’s first permanent outdoor theme park to Tokyo.
 PokéPark Kanto opened on February 5, 2026 inside Yomiuriland in western Tokyo — the first permanent outdoor Pokémon theme park anywhere in the world. Tickets use dynamic pricing and come in three tiers: Elite Trainers Pass at ¥14,000+ (~$95), Trainers Pass at ¥7,900+ (~$54), and Town Pass at ¥4,700+ (~$32, available from May 2026). Every ticket requires advance online reservation. There are no walk-in sales, and popular weekends sell out fast.
 
-The park covers 2.6 hectares across three distinct zones: Pokémon Forest (an outdoor trail where you spot 600+ Pokémon species in wooded terrain), Kayatsuri Town (rides, shows, shops, and dining), and the Entrance Square. It’s not a traditional roller-coaster park — it’s closer to an immersive nature walk crossed with a Pokémon Center on steroids. I’ve talked to visitors who spent 5+ hours and still didn’t see everything in Pokémon Forest.
+The park covers 2.6 hectares across three distinct zones: Pokémon Forest (an outdoor trail where you spot 600+ Pokémon species in wooded terrain), Kayatsuri Town (rides, shows, shops, and dining), and the Entrance Square. It’s not a traditional roller-coaster park — it’s closer to an immersive nature walk crossed with a Pokémon Center on steroids. Visitor reports describe 5+ hour stays in Pokémon Forest alone, often without seeing every species.
 
 This guide covers all three ticket tiers, how international visitors can book, what each area contains, the best route to see everything, and where to stay nearby.
 
@@ -146,7 +146,7 @@ One day is enough for PokéPark Kanto if you arrive at opening. Here’s the rou
 7. **16:30-17:30** — Return to Pokémon Forest for a second pass (Elite only). The forest has different lighting in the late afternoon.
 8. **17:30-18:00** — Catch Pika Pika Paradise after dark for the illumination effect, then exit.
 
-Trainers Pass holders: since you only get one timed forest entry, I’d recommend the morning slot (10:30-12:30) when crowds are smallest and lighting is best. Then spend the afternoon in Kayatsuri Town.
+Trainers Pass holders: since you only get one timed forest entry, the recommended pick is the morning slot (10:30-12:30) when crowds are smallest and lighting is best. Then spend the afternoon in Kayatsuri Town.
 
 ## Where Should You Stay Near PokéPark Kanto?
 
