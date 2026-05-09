@@ -221,7 +221,7 @@ A: Most major locations have at least one staff member who speaks basic English.
 Q: How often do prices change across different locations?
 A: Prices are standardized across official retailers (Base Shop, Mugiwara Stores, Jump Shops). You'll pay the same amount for the same item at Shinjuku as you do at Odaiba. The only variation comes from exclusive items unique to specific locations. Secondary retailers !nd smaller independent shops sometimes undercut official prices, but selection and quality vary significantly.
 
-Q: What should I prioritize buying if my luggage space is limited?
+Q: What should I prioritize buying if luggage space is limited?
 A: Figurines and trading cards are your best value per cubic centimeter―small size, high collectible value, and easy to pack. Apparel takes up significant space relative to cost. Limited edition items unique to specific shops should be prioritized over items available everywhere. One Piece Cafe GENE exclusives (the acrylic stands) are notably rare and hold value, so grab those if you visit.
 
 Q: Is it worth visiting multiple Mugiwara Stores or should I focus on one?
