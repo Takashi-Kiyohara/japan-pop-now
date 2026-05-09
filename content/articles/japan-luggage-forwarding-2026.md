@@ -104,9 +104,9 @@ For travelers, it means: you drop your suitcase at a hotel, convenience store, o
 Most travelers’ first experience with takuhaibin is at their hotel. Here’s exactly what happens:
 
 ### Step 1: Tell the Front Desk You Want to Ship Your Bag
-Go to the front desk and say: “I’d like to use takuhaibin to send my luggage to [next hotel name].”
+Go to the front desk and say: “I’d like to use takuhaibin to send this bag to [next hotel name].”
 
-Or hand them this phrase: **“明日、別のホテルに荷物を送りたいです。どのサービスを使いますか?”** (Tomorrow, I want to send my luggage to a different hotel. Which service do you use?)
+Or hand them this phrase: **“明日、別のホテルに荷物を送りたいです。どのサービスを使いますか?”** (Tomorrow, I want to send these bags to a different hotel. Which service do you use?)
 
 They’ll almost always have Yamato. Some nicer hotels offer both Yamato and Sagawa.
 
