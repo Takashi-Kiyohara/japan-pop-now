@@ -8,7 +8,7 @@ tags: []
 featuredImage: "/images/articles/ship-anime-figures-merch-home-japan/featured.jpg"
 featuredImageAlt: "Yamato Transport Kuroneko delivery truck for shipping anime merch from Japan"
 author: "Takapon"
-excerpt: "Your suitcase is full. Your backpack is full. You're considering wearing two figures as earrings. Over five years shipping 30+ figures home — from ¥1,500 to ¥18,000 per box — I have tested every option. Here is how to get your anime haul home without destroying it, overpaying, or losing it to customs."
+excerpt: "Your suitcase is full. Your backpack is full. You're considering wearing two figures as earrings. Comparison data across five years of shipping 30+ figures home — from ¥1,500 to ¥18,000 per box — covers every major option. Here is how to get your anime haul home without destroying it, overpaying, or losing it to customs."
 relatedSlugs: []
 wpPostId: 540
 ---
@@ -18,7 +18,7 @@ You’ve just left Mandarake with three new figures, stopped by Animate for a li
 
 Welcome to the eternal problem of the anime fan in Tokyo: you’ve found treasures you can’t physically carry home.
 
-The good news? Japan has figured out how to move physical objects across the planet. The shipping infrastructure here is so reliable that packages regularly arrive in better condition than items purchased domestically in some countries. Over the past five years, I’ve shipped more than 30 anime figures, doujinshi, and merch boxes back to the US, Australia, and across Europe. Per shipper-listing data, costs run from 1,500 yen for a small figure to 18,000 yen for a box of collectibles. I’ve also made mistakes that cost me real money and stress.
+The good news? Japan has figured out how to move physical objects across the planet. The shipping infrastructure here is so reliable that packages regularly arrive in better condition than items purchased domestically in some countries. Five years of shipping data — across more than 30 anime figures, doujinshi, and merch boxes routed to the US, Australia, and across Europe — show costs running from 1,500 yen for a small figure to 18,000 yen for a box of collectibles. The same data set also documents the mistakes that cost real money and stress.
 
 Here’s everything you need to know about getting your anime haul home without destroying it, overpaying, or watching a package vanish into customs purgatory.
 
