@@ -1,14 +1,14 @@
 # Full-corpus 10-axis audit — 20260509
 
-Generated: 2026-05-09T09:18:55Z
+Generated: 2026-05-09T09:57:19Z
 Articles audited: 87
 
 ## Bucket totals
 
 | Bucket | Count |
 |---|---|
-| PASS_ALL_10 | 84 |
-| PASS_8plus  | 3 |
+| PASS_ALL_10 | 86 |
+| PASS_8plus  | 1 |
 | PASS_5_to_7 | 0 |
 | FAIL_under_5 | 0 |
 
@@ -25,15 +25,13 @@ Articles audited: 87
 | canonical | 0 |
 | freshness | 0 |
 | affiliate | 0 |
-| adsenseFitness | 3 |
+| adsenseFitness | 1 |
 
 ## Per-article scorecard (worst first)
 
 | Slug | Score | Bucket | Words | meta | title | fab | img | links | schema | canon | fresh | aff | ads |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | `jr-pass-anime-pilgrimage-routes-2026` (noindex) | 8/10 | PASS_8plus | 2931 | ✓ | ✓ | ✓ | ✗ | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ |
-| `animejapan-comiket-2026-guide` | 9/10 | PASS_8plus | 1433 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ |
-| `familymart-anime-collab-stores-2026` | 9/10 | PASS_8plus | 1020 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ |
 | `akihabara-arcade-rhythm-games-guide-2026` | 10/10 | PASS_ALL_10 | 2215 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `akihabara-complete-guide-2026` | 10/10 | PASS_ALL_10 | 4210 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `animate-cafe-guide-japan` | 10/10 | PASS_ALL_10 | 2735 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
@@ -42,6 +40,7 @@ Articles audited: 87
 | `anime-merch-shopping-guide-japan` | 10/10 | PASS_ALL_10 | 3589 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `anime-pilgrimage-spots-tokyo` | 10/10 | PASS_ALL_10 | 3090 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `animejapan-2026-guide-international-visitors` | 10/10 | PASS_ALL_10 | 1667 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| `animejapan-comiket-2026-guide` | 10/10 | PASS_ALL_10 | 1597 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `apothecary-diaries-oshi-tabi-osaka-shinkansen-2026` | 10/10 | PASS_ALL_10 | 2934 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `best-anime-tours-tokyo-2026` | 10/10 | PASS_ALL_10 | 4721 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `blue-lock-tokyo-skytree-cafe-2026` | 10/10 | PASS_ALL_10 | 2858 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
@@ -59,6 +58,7 @@ Articles audited: 87
 | `detective-conan-cafe-2026-japan-guide` (noindex) | 10/10 | PASS_ALL_10 | 1836 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `detective-conan-cafe-tokyo-osaka-3venue-2026` | 10/10 | PASS_ALL_10 | 3060 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `detective-conan-pilgrimage-events-2026` | 10/10 | PASS_ALL_10 | 2465 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| `familymart-anime-collab-stores-2026` | 10/10 | PASS_ALL_10 | 1545 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `first-timers-japan-playbook-anime-fans-2026` | 10/10 | PASS_ALL_10 | 2621 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `frieren-usj-story-walk-osaka-2026` | 10/10 | PASS_ALL_10 | 3187 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `gachapon-guide-japan` | 10/10 | PASS_ALL_10 | 2558 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |

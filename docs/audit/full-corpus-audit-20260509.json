@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-09T09:18:55.320Z",
+  "generated": "2026-05-09T09:57:19.582Z",
   "buckets": {
-    "PASS_ALL_10": 84,
-    "PASS_8plus": 3,
+    "PASS_ALL_10": 86,
+    "PASS_8plus": 1,
     "PASS_5_to_7": 0,
     "FAIL_under_5": 0
   },
@@ -16,7 +16,7 @@
     "canonical": 0,
     "freshness": 0,
     "affiliate": 0,
-    "adsenseFitness": 3
+    "adsenseFitness": 1
   },
   "results": [
     {
@@ -567,10 +567,10 @@
       "slug": "animejapan-comiket-2026-guide",
       "title": "AnimeJapan & Comiket 2026: Foreigner’s Survival Guide",
       "description": "AnimeJapan vs Comiket 2026 — international visitor survival guide: tickets, English support, queues, photo rules, hotels, and which one fits your trip.",
-      "wordCount": 1433,
+      "wordCount": 1597,
       "imageCount": 5,
       "bodyImageCount": 4,
-      "density": 2.7913468248429867,
+      "density": 2.504696305572949,
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -593,7 +593,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 2.7913468248429867,
+            "density": 2.504696305572949,
             "bodyImageCount": 4
           }
         },
@@ -621,15 +621,14 @@
           "pass": true
         },
         "adsenseFitness": {
-          "pass": false,
-          "reason": "word_count 1433 < 1500",
+          "pass": true,
           "metrics": {
-            "wordCount": 1433
+            "wordCount": 1597
           }
         }
       },
-      "passCount": 9,
-      "bucket": "PASS_8plus",
+      "passCount": 10,
+      "bucket": "PASS_ALL_10",
       "noindex": false
     },
     {
@@ -1792,10 +1791,10 @@
       "slug": "familymart-anime-collab-stores-2026",
       "title": "FamilyMart Anime Collab Stores: Japan’s Newest Trend (2026)",
       "description": "FamilyMart anime collab stores (2026): Japan's convenience chain turns branches into anime-fan destinations. Locations, current goods, and tips.",
-      "wordCount": 1020,
+      "wordCount": 1545,
       "imageCount": 4,
       "bodyImageCount": 3,
-      "density": 2.941176470588235,
+      "density": 1.941747572815534,
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -1818,7 +1817,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 2.941176470588235,
+            "density": 1.941747572815534,
             "bodyImageCount": 3
           }
         },
@@ -1846,15 +1845,14 @@
           "pass": true
         },
         "adsenseFitness": {
-          "pass": false,
-          "reason": "word_count 1020 < 1500",
+          "pass": true,
           "metrics": {
-            "wordCount": 1020
+            "wordCount": 1545
           }
         }
       },
-      "passCount": 9,
-      "bucket": "PASS_8plus",
+      "passCount": 10,
+      "bucket": "PASS_ALL_10",
       "noindex": false
     },
     {
