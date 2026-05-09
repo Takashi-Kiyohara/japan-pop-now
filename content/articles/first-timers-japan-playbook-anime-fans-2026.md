@@ -27,7 +27,7 @@ relatedSlugs:
 
 Most first-time anime tourists lose their first 24 hours in Japan to the same four mistakes: no IC card, no SIM, a suitcase they are dragging through Shibuya, and a pocket full of yen they did not actually need. The ones who recover fast all share the same boring preparation the week before they fly — IC card sorted in advance, eSIM installed, suitcase forwarded from the airport, and a small cash buffer pulled from the right ATM on arrival.
 
-This playbook is what I wish someone had handed me on my first Tokyo trip. It covers the three hours after you land, the seven things to book before you fly, the nine cash-only situations you will actually hit, and the unspoken rules that get foreigners side-eyed on the Yamanote Line. Everything here has been field-tested in the last 90 days, with prices and procedures current as of April 2026.
+This playbook captures the practices that first-time Tokyo visitors most commonly say they would have wanted at hand on day one. It covers the three hours after you land, the seven things to book before you fly, the nine cash-only situations you will actually hit, and the unspoken rules that get foreigners side-eyed on the Yamanote Line. Everything here has been verified across the last 90 days of operator pages and visitor reports, with prices and procedures current as of April 2026.
 
 <strong>The First-Timer's Japan Playbook is a single-session arrival and etiquette guide for international anime fans on their first trip to Japan, covering airport transit, IC card and eSIM setup, cash logistics, and cultural rules for Tokyo, Osaka, and Kyoto as of 2026.</strong>
 
