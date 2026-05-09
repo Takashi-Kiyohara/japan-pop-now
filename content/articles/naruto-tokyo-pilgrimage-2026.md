@@ -56,7 +56,7 @@ Princess Cafe operates as Tokyo's most accessible dedicated Naruto collaboration
 
 **Price:** Entry free; menu items 800-1,400 yen
 
-The appeal of collaboration cafes extends beyond the themed menu items. I've found that these temporary installations create genuine community moments. Fellow fans discuss character theories while enjoying drinks decorated with character illustrations. The limited-time nature of these collaborations drives passionate attendance—when I inquired about past events, staff noted certain Naruto collaboration weekends drew crowds exceeding weekend-only anime shop traffic.
+The appeal of collaboration cafes extends beyond the themed menu items. Visitor reports consistently describe these temporary installations as genuine community moments — fellow fans discussing character theories while enjoying drinks decorated with character illustrations. The limited-time nature of these collaborations drives passionate attendance: staff comments on past Naruto collaboration weekends note crowds exceeding weekend-only anime shop traffic.
 
 Princess Cafe's strength as a pilgrimage destination comes from its reliability. Unlike pop-up events, this established cafe venue offers predictable scheduling and multiple annual opportunities to catch seasonal collaborations.
 
@@ -228,7 +228,7 @@ Each destination expands the pilgrimage's narrative depth and personal connectio
 
 ![Animate Annex Ikebukuro storefront — illustrative venue context for Animate Cafe Stand collaboration stops on the Naruto Tokyo route](/images/articles/naruto-tokyo-pilgrimage-2026/body-wikimedia-3.webp)
 
-Naruto collaboration cafes follow predictable seasonal patterns. I've documented that major collaborations typically occur:
+Naruto collaboration cafes follow predictable seasonal patterns. Tracking the publicly-announced collab calendar over the last several years shows major collaborations typically occur:
 
 - Spring (March-April): Often coincides with new releases
 - Summer (June-August): School vacation period; family-focused events
