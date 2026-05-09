@@ -68,6 +68,19 @@ const PATTERNS_FABRICATION = [
   /\b(my (visit|visits|first trip|own experience|honest take|favourite|favorite|recommendation|go-to))\b/gi,
   /\b(in my experience|over the past (few|three|six|several) (months|years) I)\b/gi,
   /\bI (felt|believed|recommended|preferred|noticed|watched(\s\w+\s)+(more|over|in person))/gi,
+  // R4 (2026-05-09 RED-fix): multi-year/recurrence claims — operator started 2026-04,
+  // so any "first time I", "by year N", "[ordinal] year, I" is fabrication.
+  /\bfirst time[ ,]+I\b/gi,
+  /\b(first|second|third|fourth|fifth|sixth|seventh|eighth|ninth|tenth)\s+(year|time)[ ,]+I\b/gi,
+  /\bby year (one|two|three|four|five|six|seven|eight|nine|ten|\d+)\b/gi,
+  /\bafter (one|two|three|four|five|six|seven|eight|nine|ten|several|many|\d+)\s+years[ ,]+I\b/gi,
+  // R4 extended "I" + action verbs the prior list missed
+  /\bI (showed up|lasted|wished|figured out|developed|did better|got better|lost|survived|forgot)\b/gi,
+  /\bI wish\b/gi,
+  // R4 personal-system claims ("I had a system" / "I have a routine" / etc.)
+  /\bI (had|have) (a|my|the|some) (system|routine|method|approach|trick|hack|game plan|playbook|process|tradition|habit|rule|technique|favorite|favourite|go-to|notes|rhythm|workflow|formula)\b/gi,
+  // R4 personal body/possession context ("my feet gave out", "my shoes destroyed me")
+  /\bmy (feet|shoes|legs|back|hands|stomach|wallet|brain|memory|backpack|luggage|suitcase)\b/gi,
 ]
 
 // Targeted stale-year detection. We only flag boilerplate "as if current"

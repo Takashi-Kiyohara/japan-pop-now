@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-09T09:57:19.582Z",
+  "generated": "2026-05-09T10:38:09.537Z",
   "buckets": {
     "PASS_ALL_10": 86,
     "PASS_8plus": 1,
@@ -567,10 +567,10 @@
       "slug": "animejapan-comiket-2026-guide",
       "title": "AnimeJapan & Comiket 2026: Foreigner’s Survival Guide",
       "description": "AnimeJapan vs Comiket 2026 — international visitor survival guide: tickets, English support, queues, photo rules, hotels, and which one fits your trip.",
-      "wordCount": 1597,
+      "wordCount": 1620,
       "imageCount": 5,
       "bodyImageCount": 4,
-      "density": 2.504696305572949,
+      "density": 2.4691358024691357,
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -593,7 +593,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 2.504696305572949,
+            "density": 2.4691358024691357,
             "bodyImageCount": 4
           }
         },
@@ -623,7 +623,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 1597
+            "wordCount": 1620
           }
         }
       },
@@ -1859,10 +1859,10 @@
       "slug": "first-timers-japan-playbook-anime-fans-2026",
       "title": "The First-Timer's Japan Playbook for Anime Fans (2026)",
       "description": "Plan your first Japan trip: hour-by-hour arrival, IC card, eSIM, cash rules, collab cafe booking, and etiquette for first-time anime fans.",
-      "wordCount": 2621,
+      "wordCount": 2633,
       "imageCount": 5,
       "bodyImageCount": 4,
-      "density": 1.5261350629530714,
+      "density": 1.519179642992784,
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -1885,7 +1885,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.5261350629530714,
+            "density": 1.519179642992784,
             "bodyImageCount": 4
           }
         },
@@ -1915,7 +1915,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 2621
+            "wordCount": 2633
           }
         }
       },
@@ -2471,10 +2471,10 @@
       "slug": "how-to-ride-trains-japan-tourists-2026",
       "title": "How to Use Trains in Japan: A First-Timer's Anime Guide",
       "description": "How to use trains in Japan 2026: IC card pickup, ticket gates, Shinkansen booking, women-only cars, last-train clock, jet-lag day-one routes for anime fans.",
-      "wordCount": 3428,
+      "wordCount": 3416,
       "imageCount": 5,
       "bodyImageCount": 4,
-      "density": 1.1668611435239205,
+      "density": 1.17096018735363,
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -2497,7 +2497,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.1668611435239205,
+            "density": 1.17096018735363,
             "bodyImageCount": 4
           }
         },
@@ -2527,7 +2527,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 3428
+            "wordCount": 3416
           }
         }
       },
@@ -3697,10 +3697,10 @@
       "slug": "kyoto-anime-guide-2026",
       "title": "Kyoto Anime Guide 2026: Pilgrimages, Studios & Otaku Culture",
       "description": "Kyoto anime 2026: KyoAni studio area in Uji, Hibike Euphonium pilgrimage stops, K-On! filming locations, Fushimi Inari, and the city's anime shopping districts.",
-      "wordCount": 3781,
+      "wordCount": 3787,
       "imageCount": 8,
       "bodyImageCount": 7,
-      "density": 1.8513620735255223,
+      "density": 1.8484288354898337,
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -3723,7 +3723,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.8513620735255223,
+            "density": 1.8484288354898337,
             "bodyImageCount": 7
           }
         },
@@ -3753,7 +3753,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 3781
+            "wordCount": 3787
           }
         }
       },
@@ -4377,10 +4377,10 @@
       "slug": "one-piece-tokyo-guide-2026",
       "title": "One Piece Tokyo 2026: Every Straw Hat Experience Guide",
       "description": "One Piece in Tokyo 2026: Base Shop Shinjuku, 5 Mugiwara Stores, One Piece Cafe GENE, and Jump Shop Jimbocho — addresses, hours, and shopping route.",
-      "wordCount": 3584,
+      "wordCount": 3583,
       "imageCount": 10,
       "bodyImageCount": 9,
-      "density": 2.5111607142857144,
+      "density": 2.5118615685180017,
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -4403,7 +4403,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 2.5111607142857144,
+            "density": 2.5118615685180017,
             "bodyImageCount": 9
           }
         },
@@ -4433,7 +4433,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 3584
+            "wordCount": 3583
           }
         }
       },
@@ -5057,10 +5057,10 @@
       "slug": "rilakkuma-cafe-tokyo-osaka-2026",
       "title": "Rilakkuma Cafe Tokyo 2026: Shibuya 109 Booking & Menu Guide",
       "description": "Book the Rilakkuma Cafe Shibuya 109 for April 23 to May 31, 2026. Tokyo, Osaka, Nagoya dates, 715-yen deposit, menu, merch, and step-by-step reservation guide.",
-      "wordCount": 3238,
+      "wordCount": 3231,
       "imageCount": 6,
       "bodyImageCount": 5,
-      "density": 1.5441630636195183,
+      "density": 1.547508511296812,
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -5083,7 +5083,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.5441630636195183,
+            "density": 1.547508511296812,
             "bodyImageCount": 5
           }
         },
@@ -5113,7 +5113,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 3238
+            "wordCount": 3231
           }
         }
       },
