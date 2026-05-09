@@ -121,7 +121,7 @@ USJ park admission starts at ¥8,600 (~$59) for a 1-day pass. Express Passes for
 The [JR Pass](/articles/japan-rail-pass-2026-guide) covers Hikari and Kodama shinkansen to Osaka (not Nozomi). If you’re doing Tokyo + Osaka + day trips, the 7-day JR Pass (¥50,000) almost certainly pays for itself on the Tokyo-Osaka round trip alone (¥27,740 value) plus any JR-covered day trips.
 
 ## FAQ: Frequently Asked Questions
-**Is Den Den Town worth visiting if I’ve already been to Akihabara?**
+**Is Den Den Town worth visiting after Akihabara?**
 
 Yes, but set different expectations. Den Den Town is more compact and walkable, with a stronger secondhand and vintage goods scene. You won’t find as many exclusive limited drops as Akihabara, but the prices on secondhand figures and retro games are often better. The food surrounding Den Den Town (Namba’s takoyaki and ramen strips) easily outclasses Akihabara’s dining.
 
