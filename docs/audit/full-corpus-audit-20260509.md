@@ -1,14 +1,14 @@
 # Full-corpus 10-axis audit — 20260509
 
-Generated: 2026-05-09T10:38:09Z
+Generated: 2026-05-09T10:42:10Z
 Articles audited: 87
 
 ## Bucket totals
 
 | Bucket | Count |
 |---|---|
-| PASS_ALL_10 | 86 |
-| PASS_8plus  | 1 |
+| PASS_ALL_10 | 87 |
+| PASS_8plus  | 0 |
 | PASS_5_to_7 | 0 |
 | FAIL_under_5 | 0 |
 
@@ -19,19 +19,18 @@ Articles audited: 87
 | metaDesc | 0 |
 | title | 0 |
 | fabrication | 0 |
-| imageDensity | 1 |
+| imageDensity | 0 |
 | internalLinks | 0 |
 | schema | 0 |
 | canonical | 0 |
 | freshness | 0 |
 | affiliate | 0 |
-| adsenseFitness | 1 |
+| adsenseFitness | 0 |
 
 ## Per-article scorecard (worst first)
 
 | Slug | Score | Bucket | Words | meta | title | fab | img | links | schema | canon | fresh | aff | ads |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| `jr-pass-anime-pilgrimage-routes-2026` (noindex) | 8/10 | PASS_8plus | 2931 | ✓ | ✓ | ✓ | ✗ | ✓ | ✓ | ✓ | ✓ | ✓ | ✗ |
 | `akihabara-arcade-rhythm-games-guide-2026` | 10/10 | PASS_ALL_10 | 2215 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `akihabara-complete-guide-2026` | 10/10 | PASS_ALL_10 | 4210 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `animate-cafe-guide-japan` | 10/10 | PASS_ALL_10 | 2735 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
@@ -81,6 +80,7 @@ Articles audited: 87
 | `japan-trip-checklist-anime-fans-2026` | 10/10 | PASS_ALL_10 | 4649 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `jjk-sweets-paradise-complete-guide-2026` | 10/10 | PASS_ALL_10 | 3802 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `jojo-stone-ocean-cafe-jojo-world-2026` | 10/10 | PASS_ALL_10 | 2871 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| `jr-pass-anime-pilgrimage-routes-2026` (noindex) | 10/10 | PASS_ALL_10 | 2979 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `jujutsu-kaisen-cafes-japan-2026-guide` (noindex) | 10/10 | PASS_ALL_10 | 1715 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `jujutsu-kaisen-shibuya-locations-2026` | 10/10 | PASS_ALL_10 | 3982 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `kamakura-slam-dunk-pilgrimage-2026` | 10/10 | PASS_ALL_10 | 5638 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |

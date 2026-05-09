@@ -1,8 +1,8 @@
 {
-  "generated": "2026-05-09T10:38:09.537Z",
+  "generated": "2026-05-09T10:42:10.837Z",
   "buckets": {
-    "PASS_ALL_10": 86,
-    "PASS_8plus": 1,
+    "PASS_ALL_10": 87,
+    "PASS_8plus": 0,
     "PASS_5_to_7": 0,
     "FAIL_under_5": 0
   },
@@ -10,13 +10,13 @@
     "metaDesc": 0,
     "title": 0,
     "fabrication": 0,
-    "imageDensity": 1,
+    "imageDensity": 0,
     "internalLinks": 0,
     "schema": 0,
     "canonical": 0,
     "freshness": 0,
     "affiliate": 0,
-    "adsenseFitness": 1
+    "adsenseFitness": 0
   },
   "results": [
     {
@@ -3355,10 +3355,10 @@
       "slug": "jr-pass-anime-pilgrimage-routes-2026",
       "title": "JR Pass for Anime Pilgrimages 2026: Routes, Worth It, Prices",
       "description": "Is the JR Pass worth it for anime pilgrimages? 2026 prices, 4 route calculators (Your Name, Demon Slayer, One Piece, Anohana), when it saves money.",
-      "wordCount": 2931,
-      "imageCount": 3,
-      "bodyImageCount": 2,
-      "density": 0.6823609689525759,
+      "wordCount": 2979,
+      "imageCount": 4,
+      "bodyImageCount": 3,
+      "density": 1.0070493454179255,
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -3379,11 +3379,10 @@
           }
         },
         "imageDensity": {
-          "pass": false,
-          "reason": "density 0.68/k < 1.0",
+          "pass": true,
           "metrics": {
-            "density": 0.6823609689525759,
-            "bodyImageCount": 2
+            "density": 1.0070493454179255,
+            "bodyImageCount": 3
           }
         },
         "internalLinks": {
@@ -3410,15 +3409,14 @@
           "pass": true
         },
         "adsenseFitness": {
-          "pass": false,
-          "reason": "axes 1-9 fail: 1",
+          "pass": true,
           "metrics": {
-            "wordCount": 2931
+            "wordCount": 2979
           }
         }
       },
-      "passCount": 8,
-      "bucket": "PASS_8plus",
+      "passCount": 10,
+      "bucket": "PASS_ALL_10",
       "noindex": true
     },
     {

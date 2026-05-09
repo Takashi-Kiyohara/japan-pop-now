@@ -172,6 +172,9 @@ You need to:
 3. Exchange the voucher at a JR office (locations at every major train station; process takes about 15 minutes)
 4. Choose your activation date (your pass doesn’t start until you activate it, so you can buy before arrival and activate after sightseeing locally)
 
+![Tokyo Station Marunouchi-side red-brick facade — primary JR Pass exchange location for international visitors](/images/articles/jr-pass-anime-pilgrimage-routes-2026/body-wikimedia-3.webp)
+*Tokyo Station's Marunouchi-side red-brick building — the JR East Travel Service Center inside is the most common voucher-to-pass exchange location for international visitors arriving in Tokyo. Photo: Zairon / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Marunouchi_%26_Tokyo_Station_1.jpg), CC BY-SA 4.0.*
+
 The major JR Pass exchange locations:
 
 - Tokyo: JR East Travel Service Centers at Tokyo, Shinjuku, Shibuya, and Haneda stations (open 8:15am-7pm daily)
