@@ -1,6 +1,6 @@
 # Full-corpus 10-axis audit — 20260509
 
-Generated: 2026-05-09T10:42:10Z
+Generated: 2026-05-09T11:03:12Z
 Articles audited: 87
 
 ## Bucket totals
@@ -75,12 +75,12 @@ Articles audited: 87
 | `japan-luggage-forwarding-2026` | 10/10 | PASS_ALL_10 | 2746 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `japan-proxy-shopping-2026` | 10/10 | PASS_ALL_10 | 3074 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `japan-rail-pass-2026-guide` | 10/10 | PASS_ALL_10 | 3779 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| `japan-rail-pass-guide-anime-fans` (noindex) | 10/10 | PASS_ALL_10 | 2309 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| `japan-rail-pass-guide-anime-fans` (noindex) | 10/10 | PASS_ALL_10 | 2315 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `japan-travel-insurance-2026` | 10/10 | PASS_ALL_10 | 3104 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `japan-trip-checklist-anime-fans-2026` | 10/10 | PASS_ALL_10 | 4649 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `jjk-sweets-paradise-complete-guide-2026` | 10/10 | PASS_ALL_10 | 3802 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `jojo-stone-ocean-cafe-jojo-world-2026` | 10/10 | PASS_ALL_10 | 2871 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| `jr-pass-anime-pilgrimage-routes-2026` (noindex) | 10/10 | PASS_ALL_10 | 2979 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| `jr-pass-anime-pilgrimage-routes-2026` (noindex) | 10/10 | PASS_ALL_10 | 3000 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `jujutsu-kaisen-cafes-japan-2026-guide` (noindex) | 10/10 | PASS_ALL_10 | 1715 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `jujutsu-kaisen-shibuya-locations-2026` | 10/10 | PASS_ALL_10 | 3982 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `kamakura-slam-dunk-pilgrimage-2026` | 10/10 | PASS_ALL_10 | 5638 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |

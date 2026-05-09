@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-09T10:42:10.837Z",
+  "generated": "2026-05-09T11:03:12.052Z",
   "buckets": {
     "PASS_ALL_10": 87,
     "PASS_8plus": 0,
@@ -3015,10 +3015,10 @@
       "slug": "japan-rail-pass-guide-anime-fans",
       "title": "Japan Rail Pass Guide for Anime Fans: Is It Worth It? (2026)",
       "description": "Japan Rail Pass guide for anime fans (2026): collab cafes in Tokyo, One Piece statues in Kumamoto, Den Den Town — route, cost, and activation tips.",
-      "wordCount": 2309,
+      "wordCount": 2315,
       "imageCount": 7,
       "bodyImageCount": 6,
-      "density": 2.59852750108272,
+      "density": 2.591792656587473,
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -3035,13 +3035,13 @@
         "fabrication": {
           "pass": true,
           "metrics": {
-            "hits": 1
+            "hits": 0
           }
         },
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 2.59852750108272,
+            "density": 2.591792656587473,
             "bodyImageCount": 6
           }
         },
@@ -3071,7 +3071,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 2309
+            "wordCount": 2315
           }
         }
       },
@@ -3355,10 +3355,10 @@
       "slug": "jr-pass-anime-pilgrimage-routes-2026",
       "title": "JR Pass for Anime Pilgrimages 2026: Routes, Worth It, Prices",
       "description": "Is the JR Pass worth it for anime pilgrimages? 2026 prices, 4 route calculators (Your Name, Demon Slayer, One Piece, Anohana), when it saves money.",
-      "wordCount": 2979,
+      "wordCount": 3000,
       "imageCount": 4,
       "bodyImageCount": 3,
-      "density": 1.0070493454179255,
+      "density": 1,
       "axes": {
         "metaDesc": {
           "pass": true,
@@ -3375,13 +3375,13 @@
         "fabrication": {
           "pass": true,
           "metrics": {
-            "hits": 2
+            "hits": 0
           }
         },
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.0070493454179255,
+            "density": 1,
             "bodyImageCount": 3
           }
         },
@@ -3411,7 +3411,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 2979
+            "wordCount": 3000
           }
         }
       },

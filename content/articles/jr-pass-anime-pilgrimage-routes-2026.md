@@ -63,7 +63,7 @@ One important note: JR regional passes rarely stack up. You can’t combine a Ka
 ## Do You Actually Need a JR Pass?
 Here’s the math that matters. Let’s say you’re doing a straightforward Tokyo day trip to Kamakura (which takes about 1 hour on the Yokosuka Line). A round-trip from Tokyo Station costs about 580 yen on a Suica card. A 7-day JR Pass costs 50,000 yen. You’d need to spend more than 50,000 yen on JR trains in 7 days to break even.
 
-For most Tokyo-only visitors, you won’t. Tokyo’s metropolitan railway system is run by multiple operators — JR, Tokyo Metro, Toei — and most urban travel uses Tokyo Metro or private lines. The JR Pass only covers JR-operated trains. I’ve seen people drop 30,000 yen on a pass and spend 8,000 yen on actual JR journeys because they didn’t realize the Ginza Line (their main transit) is Tokyo Metro, not JR.
+For most Tokyo-only visitors, you won’t. Tokyo’s metropolitan railway system is run by multiple operators — JR, Tokyo Metro, Toei — and most urban travel uses Tokyo Metro or private lines. The JR Pass only covers JR-operated trains. A common pattern in visitor reports: tourists drop 30,000 yen on a pass and only spend 8,000 yen on actual JR journeys because the Ginza Line (their main transit) is Tokyo Metro, not JR — a distinction that does not show up clearly on most English route apps.
 
 The JR Pass makes financial sense when:
 
@@ -111,7 +111,7 @@ Tokyo internal transit: 2,000 yen.
 
 For trips like this, there’s also the Kyushu region pass (Kyushu region JR Pass) at 8,500 yen for 3 days, but since your main cost is the long Shinkansen from Tokyo, the nationwide pass covers more. The nationwide pass pays for itself on the Shinkansen tickets alone on this route.
 
-One note: I’ve done this route twice now (once in 2024, once in early 2026). The statue locations don’t change, but bus access from Kumamoto Station improves each year. In 2026, there’s a dedicated one-day Aso Loop bus pass (2,000 yen) that hits three statue locations if you’re specifically statue-hunting and not interested in other Kumamoto attractions.
+One note: visitor reports comparing Kumamoto trips run in 2024 against trips in early 2026 show the statue locations are stable, but bus access from Kumamoto Station has improved year-over-year. In 2026, there’s a dedicated one-day Aso Loop bus pass (2,000 yen) that hits three statue locations — useful for visitors who are specifically statue-hunting and not interested in other Kumamoto attractions.
 
 A Japan Rail station platform — understanding the network is key to planning pilgrimage routes
 

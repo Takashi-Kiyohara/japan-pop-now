@@ -189,7 +189,7 @@ For the full guide on IC cards: [Japan IC Card & Transit Guide for Anime Fans](/
 *Photo: そらみみ / Wikimedia Commons (CC BY-SA 4.0) — Kyushu Shinkansen platform at Kumamoto Station.*
 
 ### The #1 mistake: activating too early
-Your JR Pass clock starts ticking the moment you activate it at the counter. If you’re spending your first 3 days exploring Tokyo (where you mostly need Metro), don’t activate the pass until day 4 when you leave for Osaka. I’ve seen too many people activate at Narita Airport on arrival and waste 2-3 days of their pass on local Tokyo JR rides worth 400 yen each.
+Your JR Pass clock starts ticking the moment you activate it at the counter. If you’re spending your first 3 days exploring Tokyo (where you mostly need Metro), don’t activate the pass until day 4 when you leave for Osaka. A common visitor mistake is activating at Narita Airport on arrival and burning 2-3 days of the pass on local Tokyo JR rides worth 400 yen each — the math rarely works out.
 
 ### Use the Shinkansen smartly
 The JR Pass doesn’t cover Nozomi (fastest) or Mizuho trains. You need to take the Hikari or Kodama Shinkansen instead. Hikari is only about 20 minutes slower than Nozomi on the Tokyo-Osaka route — not a big deal.
