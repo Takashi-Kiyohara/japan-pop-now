@@ -33,6 +33,14 @@ export const viewport: Viewport = {
   maximumScale: 5,
   viewportFit: "cover",
   colorScheme: "light",
+  // R9-L6 (2026-05-10): theme-color signals to mobile browsers (Safari, Chrome
+  // Android) what color to paint the URL bar / system chrome. Brand navy keeps
+  // the app shell visually consistent on PWA installs and AdSense reviewer
+  // mobile previews.
+  themeColor: [
+    { media: "(prefers-color-scheme: light)", color: "#14213d" },
+    { media: "(prefers-color-scheme: dark)", color: "#14213d" },
+  ],
 };
 
 export const metadata: Metadata = {

@@ -65,6 +65,24 @@ export function middleware(request: NextRequest) {
   // pipeline). Vercel's auto apex redirect fires before middleware.ts, so
   // any middleware-layer apex rule is dead code. See 18e40da postmortem.
 
+  // R9-L9 (2026-05-10): case-canonicalization for /articles/ paths.
+  // R8-J tried to do this in next.config.ts redirects() with the rule
+  // `{ source: '/Articles/:path*', destination: '/articles/:path*' }` —
+  // but Next.js redirects() source matching is case-insensitive by default,
+  // so the rule also matched lowercase /articles/foo and 308'd it to itself,
+  // causing an infinite loop on every article URL (db5820b revert + critic R8 R2).
+  // The middleware-layer fix is safe because we explicitly check for an
+  // uppercase letter BEFORE redirecting to the lowercase form, so the
+  // destination doesn't trigger the rule.
+  if (
+    /^\/articles\//i.test(pathname) &&
+    pathname.toLowerCase() !== pathname
+  ) {
+    const url = request.nextUrl.clone()
+    url.pathname = pathname.toLowerCase()
+    return NextResponse.redirect(url, 301)
+  }
+
   // WP legacy query URLs: /?p=NNN etc land on the homepage and look like
   // duplicate content to Google. Return 410 to flush them from the index.
   // Only trigger when the request targets the root path — anything under
