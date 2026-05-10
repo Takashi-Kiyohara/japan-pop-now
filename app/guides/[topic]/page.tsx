@@ -132,7 +132,12 @@ function getHubArticles(hub: HubTopic) {
 
 // ── Helper: get contextual CTAs for hub page ─────────────────
 function getHubPlanYourTripCTAs(hub: HubTopic) {
-  const baseClookId = process.env.NEXT_PUBLIC_KLOOK_AFF_ID || '';
+  // R10 K-source-4 (2026-05-10): klook partner ID hardcoded literal '1251547'
+  // matching the article-corpus standard. Prior env-var pattern was unset in
+  // production; CTAs emitted empty 'aff_id=&utm_source=...' for the entire
+  // site lifetime (R10-46 P0 finding). Param name also corrected from
+  // 'aff_id=' to canonical 'aff_adid='.
+  const baseClookId = '1251547';
   const baseBookingId = process.env.NEXT_PUBLIC_BOOKING_AFF_ID || '';
 
   switch (hub.slug) {
@@ -143,7 +148,7 @@ function getHubPlanYourTripCTAs(hub: HubTopic) {
           title: 'Book Tokyo Cafes',
           description: 'Reserve your spot at Tokyo\'s hottest anime collaboration cafes with free cancellation and English support.',
           buttonText: 'Browse Experiences',
-          href: `https://www.klook.com/en-US/experiences/tokyo?aff_id=${baseClookId}`,
+          href: `https://www.klook.com/en-US/experiences/tokyo?aff_adid=${baseClookId}`,
           program: 'klook' as const,
           category: 'collab-cafes',
         },
@@ -152,7 +157,7 @@ function getHubPlanYourTripCTAs(hub: HubTopic) {
           title: 'Anime Restaurant Dining',
           description: 'Special menus and themed dining experiences at collaboration restaurants across Tokyo.',
           buttonText: 'Find Restaurants',
-          href: `https://www.klook.com/en-US/experiences/tokyo?aff_id=${baseClookId}`,
+          href: `https://www.klook.com/en-US/experiences/tokyo?aff_adid=${baseClookId}`,
           program: 'klook' as const,
           category: 'collab-cafes',
         },
@@ -173,7 +178,7 @@ function getHubPlanYourTripCTAs(hub: HubTopic) {
           title: 'JR Pass for Pilgrims',
           description: 'Visit multiple pilgrimage sites efficiently with Japan Rail Pass. Covers trains to all major holy lands from Tokyo.',
           buttonText: 'Get JR Pass',
-          href: `https://www.klook.com/en-US/activity/japan-rail-pass?aff_id=${baseClookId}`,
+          href: `https://www.klook.com/en-US/activity/japan-rail-pass?aff_adid=${baseClookId}`,
           program: 'klook' as const,
           category: 'anime-pilgrimage',
         },
@@ -191,7 +196,7 @@ function getHubPlanYourTripCTAs(hub: HubTopic) {
           title: 'Stay Connected',
           description: 'eSIM and mobile data plans so you can navigate pilgrimage routes offline and share updates.',
           buttonText: 'Get eSIM',
-          href: `https://www.klook.com/en-US/activity/japan-esim?aff_id=${baseClookId}`,
+          href: `https://www.klook.com/en-US/activity/japan-esim?aff_adid=${baseClookId}`,
           program: 'klook' as const,
           category: 'travel-tips',
         },
@@ -203,7 +208,7 @@ function getHubPlanYourTripCTAs(hub: HubTopic) {
           title: 'Osaka Anime Experiences',
           description: 'Book anime cafes, Den Den Town tours, and Universal Studios Japan anime attractions.',
           buttonText: 'Browse Osaka',
-          href: `https://www.klook.com/en-US/experiences/osaka?aff_id=${baseClookId}`,
+          href: `https://www.klook.com/en-US/experiences/osaka?aff_adid=${baseClookId}`,
           program: 'klook' as const,
           category: 'collab-cafes',
         },
@@ -221,7 +226,7 @@ function getHubPlanYourTripCTAs(hub: HubTopic) {
           title: 'Kansai Rail Pass',
           description: 'Day trips from Osaka to Kyoto, Kobe, and Nara. Perfect for expanding your anime pilgrimage.',
           buttonText: 'Get Kansai Pass',
-          href: `https://www.klook.com/en-US/activity/kansai-rail-pass?aff_id=${baseClookId}`,
+          href: `https://www.klook.com/en-US/activity/kansai-rail-pass?aff_adid=${baseClookId}`,
           program: 'klook' as const,
           category: 'travel-tips',
         },
@@ -233,7 +238,7 @@ function getHubPlanYourTripCTAs(hub: HubTopic) {
           title: 'JR Pass (7-Day)',
           description: 'Visit Kamakura, Chichibu, Odaiba, and more all in one week. Perfect for day trip collectors.',
           buttonText: 'Get JR Pass',
-          href: `https://www.klook.com/en-US/activity/japan-rail-pass?aff_id=${baseClookId}`,
+          href: `https://www.klook.com/en-US/activity/japan-rail-pass?aff_adid=${baseClookId}`,
           program: 'klook' as const,
           category: 'anime-pilgrimage',
         },
@@ -242,7 +247,7 @@ function getHubPlanYourTripCTAs(hub: HubTopic) {
           title: 'Kamakura Day Trip',
           description: 'Book skip-the-line access to temples and visit the Slam Dunk crossing with guided tours.',
           buttonText: 'Book Tour',
-          href: `https://www.klook.com/en-US/experiences/kamakura?aff_id=${baseClookId}`,
+          href: `https://www.klook.com/en-US/experiences/kamakura?aff_adid=${baseClookId}`,
           program: 'klook' as const,
           category: 'anime-pilgrimage',
         },
@@ -263,7 +268,7 @@ function getHubPlanYourTripCTAs(hub: HubTopic) {
           title: 'eSIM & Mobile Data',
           description: 'Instant eSIM activation. No physical SIM cards needed. From ¥1,000 for 7 days.',
           buttonText: 'Compare Plans',
-          href: `https://www.klook.com/en-US/activity/japan-esim?aff_id=${baseClookId}`,
+          href: `https://www.klook.com/en-US/activity/japan-esim?aff_adid=${baseClookId}`,
           program: 'klook' as const,
           category: 'travel-tips',
         },
@@ -272,7 +277,7 @@ function getHubPlanYourTripCTAs(hub: HubTopic) {
           title: 'JR Pass (All Durations)',
           description: '7, 14, or 21-day passes. Compare prices and find the best option for your trip length.',
           buttonText: 'Get JR Pass',
-          href: `https://www.klook.com/en-US/activity/japan-rail-pass?aff_id=${baseClookId}`,
+          href: `https://www.klook.com/en-US/activity/japan-rail-pass?aff_adid=${baseClookId}`,
           program: 'klook' as const,
           category: 'travel-tips',
         },
@@ -293,7 +298,7 @@ function getHubPlanYourTripCTAs(hub: HubTopic) {
           title: 'Book Anime Experiences',
           description: 'Theme parks, pop-ups, workshops, and exhibitions — instant confirmation with English support.',
           buttonText: 'Browse Experiences',
-          href: `https://www.klook.com/en-US/experiences/tokyo?aff_id=${baseClookId}`,
+          href: `https://www.klook.com/en-US/experiences/tokyo?aff_adid=${baseClookId}`,
           program: 'klook' as const,
           category: 'experiences',
         },
@@ -302,7 +307,7 @@ function getHubPlanYourTripCTAs(hub: HubTopic) {
           title: 'Universal Studios Japan',
           description: 'Osaka anime collabs at USJ — Universal Cool Japan, seasonal one-piece, jujutsu kaisen events.',
           buttonText: 'Get USJ Tickets',
-          href: `https://www.klook.com/en-US/activity/1321-universal-studios-japan-osaka/?aff_id=${baseClookId}`,
+          href: `https://www.klook.com/en-US/activity/1321-universal-studios-japan-osaka/?aff_adid=${baseClookId}`,
           program: 'klook' as const,
           category: 'experiences',
         },
