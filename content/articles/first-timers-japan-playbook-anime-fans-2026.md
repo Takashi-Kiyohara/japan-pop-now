@@ -161,7 +161,7 @@ These are the small cultural rules that most Tokyo locals will forgive you for b
 **Near pilgrimage spots.** This matters most for anime fans. Many *seichi junrei* (聖地巡礼) locations are residential neighborhoods or working shrines. Keep your voice down, do not block driveways, and never knock on real houses that appear in anime.
 
 
-## Why Japanese People Love This Quiet Way of Living
+## Why fans line up for this one
 
 Most visitors describe their first trip to Japan as a sensory overload followed by a strange feeling of calm. The contrast is real. Tokyo has 37 million people in the greater metro area — the largest in the world — and yet rush-hour trains are nearly silent and convenience stores are spotless at 3 AM.
 

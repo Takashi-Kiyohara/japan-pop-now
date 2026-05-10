@@ -276,7 +276,7 @@ Round1 Ikebukuro is a multi-storey entertainment complex, not a 70-floor tower. 
 Yes. Medal-game floors still use physical medals — buy around 200 medals for ¥1,000, play coin-pusher, horse-race, or slot-style medal games, and store any leftover medals on a membership card for next visit. Medals **cannot** be exchanged back for cash (this is how Japan keeps the games legal). Separately, the main shift in 2026 is Amusement IC cards and Suica/Pasmo replacing ¥100 coins on rhythm and crane cabinets — but medals for medal games are unchanged.
 
 
-## Why Japanese People Love Game Centers
+## The cultural pull behind the venue
 
 Game centers are one of the few public spaces in Japan where adults can be loud, competitive, and a little childish without anyone raising an eyebrow. For salarymen decompressing after work, office-lady friend groups taking purikura on a Friday night, or high-school students grinding a rhythm game score, the *gēsen* is a pressure-release valve in a culture that values quiet public behaviour. The social rule is simple: whatever happens on the rhythm floor stays on the rhythm floor. That is why you will see a 50-year-old in a suit playing Taiko no Tatsujin next to a teenager in a school uniform, and neither of them will find it strange.
 

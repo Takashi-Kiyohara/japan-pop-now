@@ -51,8 +51,7 @@ You found the collab cafe you want. You click the reservation link. It sends you
 - [More Practical Guides](#more-practical-guides)
 
 
-## At a Glance
-
+## Trip facts
 | Detail | Info |
 |--------|------|
 | Target Reader | First-time anime cafe bookers with no Japanese phone or credit card |
@@ -230,7 +229,7 @@ Japan has three major ticketing platforms. Each has different strengths for fore
 If an event offers both Lawson and eplus, **pick eplus**. If it's Lawson-only, follow this guide.
 
 
-## Why Japanese People Love This System
+## The fan-base angle
 
 Japan runs on *benri* (便利, convenience) culture, and Lawson Ticket is the physical expression of that value. The idea that you can walk into any of 14,000 corner stores at 2 AM, tap through a kiosk, and walk out 4 minutes later with a concert ticket in your hand feels obvious to locals — it's how Japan has handled ticketing since the early 2000s. The cash-at-counter step, which feels archaic to foreigners used to Apple Pay, is actually the feature that makes the system trustworthy: no credit card fraud, no chargeback risk, no mystery foreign-currency fees. For a country where roughly **40% of small transactions still happen in cash** (Bank of Japan, 2025), Loppi is perfectly tuned to everyday life.
 

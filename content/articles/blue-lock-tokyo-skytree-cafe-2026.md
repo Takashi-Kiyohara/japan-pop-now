@@ -22,7 +22,7 @@ description: "Visit 3 Blue Lock events in Tokyo: Skytree collab (Apr 9-Jul 6), A
 
 <strong>Blue Lock (ブルーロック) is a hit football manga and anime series by Muneyuki Kaneshiro and Yusuke Nomura, following 300 young strikers locked in a facility competing to become Japan's ultimate forward — the franchise has generated over 45 billion yen in revenue and currently has 3 major events running simultaneously across Tokyo in spring 2026.</strong>
 
-## At a Glance
+## Quick reference
 | Detail | Info |
 |--------|------|
 | Target Reader | Blue Lock fans visiting Tokyo (first-timers or repeat visitors) |
