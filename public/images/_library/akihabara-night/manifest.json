@@ -1,0 +1,79 @@
+{
+  "library": "akihabara-night",
+  "description": "Akihabara street + retail B-roll (cross-article reuse). Source: Takapon shot 2026-04 series.",
+  "license": "Photo: Takapon / Japan Pop Now (proprietary; cross-site reuse OK on japan-pop-now.com only)",
+  "shoot_date_range": "2026-04",
+  "source_videos": [
+    "akiba-night/IMG_7791.MOV",
+    "akiba-night/IMG_7809.MOV",
+    "akiba-night/IMG_7828.MOV",
+    "akiba-night/IMG_7832.MOV",
+    "akiba-night/IMG_7833.MOV"
+  ],
+  "frames": [
+    {
+      "name": "gigo-billboard-day",
+      "src_video": "IMG_7791.MOV",
+      "src_frame": "raw-001.jpg",
+      "subject": "GiGo arcade exterior + 'Mulan' anime billboard (red-haired character) on yellow building, Chuo-dori Akihabara",
+      "people": "no faces detected",
+      "ocr_readable": "yes (GiGo, Mulan, AKIBA visible)",
+      "recommended_use": "Akihabara establishment shot / arcade hub / nightlife (despite name, day shot)",
+      "variants_present": ["hero", "body", "portrait", "og", "twitter", "card", "schema-1x1", "schema-4x3"]
+    },
+    {
+      "name": "gigo-billboard-tight",
+      "src_video": "IMG_7791.MOV",
+      "src_frame": "raw-003.jpg",
+      "subject": "Tighter crop of GiGo + Mulan billboards, less foreground",
+      "people": "small distant pedestrians at street level (back-only)",
+      "ocr_readable": "yes",
+      "recommended_use": "Akihabara billboard close-up / mid-article visual variety",
+      "variants_present": ["body"]
+    },
+    {
+      "name": "onepiece-luffy-gear5-figure",
+      "src_video": "IMG_7828.MOV",
+      "src_frame": "raw-003.jpg",
+      "subject": "One Piece Luffy Gear 5 (white-haired transformation) figure in retail display case, ¥6600 price tag",
+      "people": "no faces",
+      "ocr_readable": "partial (price tag '¥6600')",
+      "recommended_use": "Anime retail / hobby shop / collectibles article visual",
+      "variants_present": ["body", "portrait"]
+    },
+    {
+      "name": "jjk-sukuna-figure",
+      "src_video": "IMG_7832.MOV",
+      "src_frame": "raw-003.jpg",
+      "subject": "Jujutsu Kaisen Sukuna (red flame energy) figure in display case",
+      "people": "no faces",
+      "ocr_readable": "no (Japanese box text small)",
+      "recommended_use": "JJK / shonen anime / collectibles article visual",
+      "variants_present": ["body"]
+    },
+    {
+      "name": "jjk-gojo-figure",
+      "src_video": "IMG_7833.MOV",
+      "src_frame": "raw-003.jpg",
+      "subject": "Jujutsu Kaisen Gojo Satoru figure in display case (white-haired character, action pose)",
+      "people": "no faces",
+      "ocr_readable": "partial (JUJUTSU KAISEN box text)",
+      "recommended_use": "JJK / shonen anime / collectibles article visual",
+      "variants_present": ["body"]
+    }
+  ],
+  "skipped_frames": [
+    {
+      "src_video": "IMG_7809.MOV",
+      "reason": "Lolita-fashion person prominently in frame (back-to-camera but recognizable outfit); skipped for privacy + topic mismatch (curry shop background, not Akihabara feature)"
+    }
+  ],
+  "generic_variants": {
+    "hero.webp": "default hero from gigo-billboard-day (1200x720 face-aware center crop)",
+    "og.webp": "default OG image from gigo-billboard-day (1200x630)",
+    "twitter.webp": "default Twitter card from gigo-billboard-day (1200x675)",
+    "card.webp": "default list card from gigo-billboard-day (800x450)",
+    "schema-1x1.webp": "default schema 1:1 from gigo-billboard-day (1200x1200)",
+    "schema-4x3.webp": "default schema 4:3 from gigo-billboard-day (1200x900)"
+  }
+}

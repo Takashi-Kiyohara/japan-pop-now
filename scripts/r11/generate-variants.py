@@ -28,7 +28,14 @@ from pathlib import Path
 from PIL import Image, ImageFilter
 
 REPO_ROOT = Path(r"C:\Users\user\OneDrive\ドキュメント\GitHub\japan-pop-now")
-PUBLIC_IMG = REPO_ROOT / "public" / "images" / "articles"
+PUBLIC_IMG_ARTICLES = REPO_ROOT / "public" / "images" / "articles"
+PUBLIC_IMG_LIBRARY = REPO_ROOT / "public" / "images" / "_library"
+
+def resolve_out_dir(slug: str) -> Path:
+    """Library slugs route to public/images/_library/, articles to public/images/articles/."""
+    if slug.startswith("_library/"):
+        return PUBLIC_IMG_LIBRARY / slug[len("_library/"):]
+    return PUBLIC_IMG_ARTICLES / slug
 
 VARIANTS = {
     "hero":       (1200, 720),
@@ -95,7 +102,7 @@ def face_aware_crop(img: Image.Image, target_w: int, target_h: int, face_box: di
 def generate_variants(input_path: Path, slug: str, base_name: str, only: str | None = None) -> dict:
     img = Image.open(input_path).convert("RGB")
     face_box = get_face_box(input_path)
-    out_dir = PUBLIC_IMG / slug
+    out_dir = resolve_out_dir(slug)
     out_dir.mkdir(parents=True, exist_ok=True)
     written = {}
 
