@@ -68,7 +68,7 @@ expected to flip to **APPROVE-WITH-OFF-PAGE-GATES**.
 | Instagram URL residuals | 0 (R6 carryover) | corpus grep |
 | takashi03157 email residuals | 0 (R8-B) | corpus grep |
 | CI/CD Pipeline green on HEAD | Expected GREEN (R7 fix carry-forward) | `gh run list` |
-| Independent Critic GREEN | R7 GREEN; R8 in flight | (background) |
+| Independent Critic GREEN | R7 GREEN; R8 R1 RED → hotfix → R8 R2 GREEN (5/5 article URLs HTTP 200, 0 redirect hops, 242KB-311KB content) | `db5820b` revert |
 | **GSC indexed URLs ≥ 5** | **TBD — needs `mcp__gsc__index_inspect`** | external |
 | **GA4 organic ≥ 1/day × 7 days** | **TBD** | external |
 | **`cwv-daily` workflow green** | **TBD** | external |
@@ -91,12 +91,39 @@ expected to flip to **APPROVE-WITH-OFF-PAGE-GATES**.
 **Recommended verdict: HOLD-AND-MONITOR for off-page indicators only.**
 On-page residual risk is structurally closed. Specific GO conditions:
 
-1. **External Critic R8** GREEN (background subagent, 4-stage verify in flight)
+1. ~~**External Critic R8** GREEN~~ — **DONE 2026-05-10**: R1 caught a P0 redirect-loop on R8-J (`50adb9f`); hotfix `db5820b` reverted; R2 GREEN on 5 random article URLs (one-piece-tokyo / chiikawa-bakery / luvlab / krispy-mario / kamakura-slam-dunk all 200 OK, 0 redirect hops, 242-311KB content).
 2. **GSC indexed URLs ≥ 5** — verify via `mcp__gsc__index_inspect`
 3. **GA4 organic ≥ 1/day × 7 consecutive days**
 4. **`cwv-daily` workflow** green on next scheduled fire
 
-If all four pass within next 7-10 day window, **APPROVE** for re-application.
+If all three remaining pass within next 7-10 day window, **APPROVE** for re-application.
+
+## R8-J P0 incident timeline (2026-05-10)
+
+```
+50adb9f (R8-batch1) added wildcard /Articles/:path* → /articles/:path*
+   ↓ Vercel deploy
+   ↓ ~30 min during R8-A/C/D work, no one tested article URLs (only homepage/about/category)
+2a5add4 (R8 docs)     ← regression already live, undetected in-session
+external Critic R8 R1 — Stage D curl --max-redirs 5 caught self-loop (FIRST detection)
+db5820b (REVERT)      ← hotfix pushed within ~5 min of critic flag
+24c0751 (revert docs) ← memory + session doc updated
+   ↓ Vercel redeploy
+external Critic R8 R2 — 5/5 article URLs verify HTTP 200, 0 redirect hops (P0 cleared)
+```
+
+Lesson captured in `feedback_nextjs_redirects_case_insensitive` memory:
+**Next.js `redirects()` source matching is case-insensitive by default. Any
+rule whose source is a case-variant of an existing canonical path (`/Articles`
+vs `/articles`) will self-loop.** For case-canonicalization use middleware
+(`middleware.ts`) with explicit `request.nextUrl.pathname.toLowerCase()`
+inspection. Verify ANY redirect-related deploy with `curl --max-redirs 3`
+on at least 3 random article URLs before declaring done.
+
+The probability dip during the regression window (~30 min) is not
+relevant for the AdSense estimate — Google would not have crawled fresh
+URLs in that window, and the cached HTML it has continues to point to
+the canonical lowercase paths. AdSense pass probability remains **75-82%**.
 
 ## Owner / next checkpoint
 
