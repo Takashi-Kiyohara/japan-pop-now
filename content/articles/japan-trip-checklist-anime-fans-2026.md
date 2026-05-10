@@ -56,7 +56,7 @@ The JR Pass is essential if you’re planning to leave Tokyo for day trips or mu
 
 However: if you’re staying in Tokyo and Kyoto for the full trip, calculate your specific routes. Tokyo to Kyoto return on the Shinkansen (bullet train) is 27,880 yen round-trip, so a JR Pass only makes sense if you’re adding Hiroshima, Osaka, or multiple other cities. [Our detailed JR Pass guide](/articles/japan-rail-pass-2026-guide) breaks down every route anime fans typically take.
 
-Book your JR Pass exchange voucher through authorized dealers — [JR East Official](https://www.jreast.co.jp) and [Klook](https://www.klook.com) are the two most-used by international visitors (Klook sometimes runs 5-10% discounts). You’ll receive a voucher code to exchange at airports when you arrive. The pass only activates when you exchange it, so you can arrive and decide the timing.
+Book your JR Pass exchange voucher through authorized dealers — [JR East Official](https://www.jreast.co.jp) and [Klook](https://www.klook.com?aff_adid=1251547) are the two most-used by international visitors (Klook sometimes runs 5-10% discounts). You’ll receive a voucher code to exchange at airports when you arrive. The pass only activates when you exchange it, so you can arrive and decide the timing.
 
 
 ![A physical Japan Rail Pass card showing the layout and printed validity dates anime fans receive after airport exchange](/images/articles/japan-trip-checklist-anime-fans-2026/body-wikimedia-1.webp)
