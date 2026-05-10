@@ -21,7 +21,7 @@ structural privacy/GDPR + em-dash density work landing.
 | **G** | robots meta on articles | Default index/follow + googleBot.max-image-preview='large' on EVERY article (was undefined when frontmatter `robots` field absent) | `50adb9f` |
 | **H** | Sitemap drift fix | Removed `validUntil`-past-today filter; 5 dropped articles back in sitemap (`animejapan-international-visitors`, `dark-moon`, `golden-week`, `jjk-sweets-paradise`, `mha-waffle-diner`). `robots: noindex` remains explicit signal | `50adb9f` |
 | **I** | BreadcrumbList dedupe | `components/Breadcrumb.tsx` no longer emits its own JSON-LD; `app/articles/[slug]/page.tsx` page-level emit is sole source | `50adb9f` |
-| **J** | `/Articles/:path*` 308 → lowercase | `next.config.ts` redirect rule | `50adb9f` |
+| **J** | `/Articles/:path*` 308 → lowercase | **REVERTED in `db5820b`** — Vercel redirect matching is case-insensitive by default, the rule also matched lowercase `/articles/foo` causing an infinite-loop P0. Re-attempt requires middleware-level case inspection. | `50adb9f` (added) → `db5820b` (reverted) |
 | **K** | okami FAQ empty acceptedAnswer | `lib/faq-schema.ts` `FAQ_QUESTION_DENYLIST` skips scaffolding H2/H3 (FAQ wrapper, More/Related, Image Credits, ToC, Sources, References, Explore by, Footnotes) | `50adb9f` |
 
 ## Buckets verified-as-already-done (skipped on premise check)
@@ -78,8 +78,30 @@ The estimate is conservative (not 80-85% as v3 claimed without R6 audit findings
 ```
 50adb9f fix(r8-batch1): R8-B+G+H+I+J+K — email unify, robots meta, sitemap, breadcrumb, uppercase, FAQ guard
 03bdbfb feat(privacy+newsletter): R8-A+C — privacy 645 -> 1500+ words; newsletter GDPR + CAN-SPAM
-(em-dash sweep commit) fix(em-dash-r8-D): R8-D — em-dash density reduction across 72 articles to <=7.5/k
+5ffb35d fix(em-dash-r8-D): R8-D — em-dash density reduction across 72 articles to <=7.5/k
+2a5add4 docs(r8): final-fix session report + section 5 readiness final
+db5820b fix(next-config): REVERT R8-J — uppercase /Articles redirect caused infinite loop (P0 hotfix)
 ```
+
+## R8-J P0 regression + hotfix
+
+External Critic R8 (Stage D) caught a production regression: the new
+`/Articles/:path*` 308 redirect (R8-J in `50adb9f`) shipped with an
+infinite-loop because Vercel/Next.js `redirects()` source matching is
+case-insensitive by default. The rule matched both `/Articles/foo` (intended)
+AND `/articles/foo` (lowercase canonical), and the latter 308'd to itself.
+curl with `--max-redirs 5` on `akihabara-arcade-rhythm-games-guide-2026`,
+`dark-moon-chara-cafe-ikebukuro-2026`, `sanrio-puroland-tokyo-guide-2026`
+all hit the limit with identical Location headers per hop.
+
+Reverted in `db5820b` ~5 min after critic flag. `/`, `/about`,
+`/category/cafes` were unaffected because the rule did not shadow their
+paths. After Vercel redeploy lag (2-4 min), all article URLs return 200.
+
+Lesson: any Next.js `redirects()` source containing a case variant of an
+existing canonical path will trigger the infinite-loop pattern. Use
+middleware (`middleware.ts`) with explicit `request.nextUrl.pathname`
+case inspection instead.
 
 ## Physical-action items for Takapon (separate from this session)
 

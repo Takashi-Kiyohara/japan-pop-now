@@ -51,7 +51,7 @@ expected to flip to **APPROVE-WITH-OFF-PAGE-GATES**.
 | SSR cookie banner | YES (initial HTML carries DOM) | `components/CookieConsent.tsx` |
 | Klook compliance ≥ 95% | YES (HTML 100% + MD 100%) | R6+R7 carry-forward |
 | Slam-dunk slug normalized | YES (308 redirect) | `next.config.ts` |
-| /Articles uppercase 308 → lowercase | YES (R8-J) | `next.config.ts` |
+| /Articles uppercase 308 → lowercase | REVERTED (P0 infinite-loop, see session doc) | `db5820b` revert in `next.config.ts` |
 | /terms page exists + ≥800 words | YES (1500+ words) | `app/terms/page.tsx` |
 | /dmca page exists | YES (800+ words) | `app/dmca/page.tsx` |
 | /about ≥1500 words | YES (1598 body words; critic measured 1843) | `app/about/page.tsx` |
