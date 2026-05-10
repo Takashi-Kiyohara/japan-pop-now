@@ -270,7 +270,7 @@ export default function Home() {
               title="Book Tokyo Anime Cafes"
               description="Reserve spots at Tokyo's hottest anime collaboration cafes with Klook. Free cancellation, English support, and skip-the-line access."
               buttonText="Browse Tokyo Cafes"
-              href={'https://www.klook.com/en-US/search/?query=anime+collab+cafe+experience+tokyo&aff_id=' + (process.env.NEXT_PUBLIC_KLOOK_AFF_ID || '')}
+              href={'https://www.klook.com/en-US/search/?query=anime+collab+cafe+experience+tokyo&aff_adid=1251547'}
               program="klook"
               category="cafes"
             />
@@ -279,7 +279,7 @@ export default function Home() {
               title="Japan Rail Pass"
               description="Explore pilgrimage sites across Japan. JR Pass covers trains to most holy lands. 7, 14, and 21-day options available."
               buttonText="Get JR Pass"
-              href={'https://www.klook.com/en-US/activity/1523-japan-rail-pass-jr-pass?aff_id=' + (process.env.NEXT_PUBLIC_KLOOK_AFF_ID || '')}
+              href={'https://www.klook.com/en-US/activity/1523-japan-rail-pass-jr-pass?aff_adid=1251547'}
               program="klook"
               category="experiences"
             />
