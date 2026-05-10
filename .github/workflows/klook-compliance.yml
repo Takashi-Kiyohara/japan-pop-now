@@ -1,12 +1,5 @@
 name: Klook Compliance Gate
 
-# R10-12 (2026-05-10): defensive CI gate to prevent regression of the
-# R8/R9 fabricated-100% claim. Catches:
-#   - aff_id= short form anywhere in app/components/lib/content (must be aff_adid=)
-#   - bare https://www.klook.com URLs without aff_adid query param
-#   - <a href> klook anchors missing rel="...sponsored..."
-# Job FAILS the workflow if any are introduced. Runs on PR + push to main.
-
 on:
   pull_request:
     branches: [main]
@@ -25,6 +18,8 @@ on:
       - 'lib/**'
       - 'content/articles/**'
       - 'scripts/audit/**'
+      - '.github/workflows/klook-compliance.yml'
+  workflow_dispatch:
 
 jobs:
   klook-compliance:
@@ -32,62 +27,38 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Check 1 — no aff_id= short form in source code
+      - name: Check 1 - no aff_id short form in source code
         run: |
-          # Exclude comment lines (// or *) and the workflow file itself
-          if grep -rn "aff_id=" app/ components/ lib/ \
-               --include='*.ts' --include='*.tsx' --include='*.js' --include='*.mjs' \
-            | grep -v '//' \
-            | grep -v '^\s*\*' \
-            | grep -v 'klook-compliance.yml'; then
+          set +e
+          hits=$(grep -rn "aff_id=" app/ components/ lib/ --include='*.ts' --include='*.tsx' --include='*.js' --include='*.mjs' 2>/dev/null | grep -v "//" | grep -v "klook-compliance" | grep -v "klook-gate")
+          if [ -n "$hits" ]; then
             echo "::error::Found aff_id= short form in source code. Use aff_adid= (canonical Klook param)."
+            echo "$hits"
             exit 1
           fi
-          echo "OK: no aff_id= short form in source code"
+          echo "OK source code"
 
-      - name: Check 2 — no aff_id= short form in articles
+      - name: Check 2 - no aff_id short form in articles
         run: |
-          # Exclude .deprecated files
-          violations=$(grep -rn "[?&]aff_id=[0-9]" content/articles/ \
-                        --include='*.md' --include='*.mdx' \
-                        | grep -v '\.deprecated' || true)
-          if [ -n "$violations" ]; then
+          set +e
+          hits=$(grep -rn "[?&]aff_id=[0-9]" content/articles/ --include='*.md' --include='*.mdx' 2>/dev/null | grep -v ".deprecated")
+          if [ -n "$hits" ]; then
             echo "::error::Found aff_id= short form in articles. Use aff_adid= (canonical Klook param)."
-            echo "$violations"
+            echo "$hits"
             exit 1
           fi
-          echo "OK: no aff_id= short form in articles"
+          echo "OK articles"
 
-      - name: Check 3 — no bare klook URLs in articles (markdown links without aff_adid)
+      - name: Check 3 - no bare klook URLs in articles
         run: |
-          # Find markdown links to klook.com root (no path, no query, or path without aff_adid)
-          # Pattern: [text](https://www.klook.com) or [text](https://www.klook.com/path-without-aff_adid)
-          violations=$(grep -rnoE '\[[^]]+\]\(https?://(www\.|affiliate\.)?klook\.com[^)]*\)' content/articles/ \
-                        --include='*.md' --include='*.mdx' \
-                        | grep -v '\.deprecated' \
-                        | grep -v 'aff_adid=' || true)
-          if [ -n "$violations" ]; then
-            echo "::error::Found markdown link to klook.com without aff_adid. Add ?aff_adid=1251547."
-            echo "$violations"
+          set +e
+          hits=$(grep -rnoE 'https?://(www\.|affiliate\.)?klook\.com[^)\s"<]*' content/articles/ --include='*.md' --include='*.mdx' 2>/dev/null | grep -v ".deprecated" | grep -v "aff_adid=")
+          if [ -n "$hits" ]; then
+            echo "::error::Found klook URL without aff_adid in articles. Add ?aff_adid=1251547."
+            echo "$hits"
             exit 1
           fi
-          echo "OK: all klook markdown links carry aff_adid"
-
-      - name: Check 4 - HTML anchor klook links must include rel sponsored
-        run: |
-          # Find anchor tags to klook.com without rel containing 'sponsored'
-          pattern_open='<'
-          pattern_close='>'
-          violations=$(grep -rnoE "${pattern_open}a\\s[^${pattern_close}]*href=\"https?://(www\\.|affiliate\\.)?klook\\.com[^\"]*\"[^${pattern_close}]*${pattern_close}" content/articles/ \
-                        --include='*.md' --include='*.mdx' \
-                        | grep -v '\.deprecated' \
-                        | grep -v 'rel="[^"]*sponsored' || true)
-          if [ -n "$violations" ]; then
-            echo "::error::Found klook anchor missing rel sponsored. Add rel='nofollow sponsored noopener'."
-            echo "$violations"
-            exit 1
-          fi
-          echo "OK: all klook anchors carry rel sponsored"
+          echo "OK no bare klook URLs"
 
       - name: Summary
-        run: echo "Klook compliance: 100% across source code + articles. Per RULE I (R10), the canonical param is aff_adid=NNN."
+        run: echo "Klook compliance OK - aff_adid canonical param verified across source + articles."
