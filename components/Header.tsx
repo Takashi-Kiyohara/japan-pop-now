@@ -108,12 +108,19 @@ export default function Header() {
                 key={link.href}
                 href={link.href}
                 style={{
+                  // R9-L5 (2026-05-10): tap target ≥48px for mobile + touch-screen
+                  // accessibility. Was 6px×14px (~30px tall) which fails Lighthouse
+                  // mobile audits and is below WCAG 2.5.5 (target size 44×44 minimum)
+                  // and Apple/Material Design 48px guideline.
                   display: 'inline-flex',
                   alignItems: 'center',
+                  justifyContent: 'center',
                   gap: '6px',
-                  fontSize: '0.825rem',
+                  minHeight: '48px',
+                  minWidth: '48px',
+                  fontSize: '0.875rem',
                   fontWeight: 600,
-                  padding: '6px 14px',
+                  padding: '12px 18px',
                   borderRadius: '9999px',
                   color: isActive(link.href) ? '#ea580c' : link.highlight ? '#0369a1' : '#44403c',
                   background: isActive(link.href) ? '#fff7ed' : link.highlight ? '#e0f2fe' : 'transparent',
@@ -145,8 +152,8 @@ export default function Header() {
 
             {/* Mobile search button */}
             <button
-              className="md:hidden p-2 rounded-lg"
-              style={{ color: '#44403c' }}
+              className="md:hidden rounded-lg flex items-center justify-center"
+              style={{ color: '#44403c', minHeight: '48px', minWidth: '48px' }}
               onClick={() => {
                 // Trigger search modal by dispatching a custom event or state
                 const searchBtn = document.querySelector('button[title="Press Cmd+K or Ctrl+K to search"]');
@@ -161,8 +168,8 @@ export default function Header() {
 
             {/* Mobile hamburger */}
             <button
-              className="md:hidden p-2 rounded-lg"
-              style={{ color: '#44403c' }}
+              className="md:hidden rounded-lg flex items-center justify-center"
+              style={{ color: '#44403c', minHeight: '48px', minWidth: '48px' }}
               onClick={() => setMobileOpen(!mobileOpen)}
               aria-label="Toggle menu"
               aria-expanded={mobileOpen}

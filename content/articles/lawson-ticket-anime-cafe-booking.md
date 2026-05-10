@@ -54,7 +54,7 @@ You found the collab cafe you want. You click the reservation link. It sends you
 <strong>Lawson Ticket (ローチケ, l-tike.com) is the ticketing arm of Lawson convenience stores and one of Japan's three major event-booking platforms, used by roughly 40% of anime collab cafes for reservations, pickup happens at the red Loppi kiosk inside any of the 14,000+ Lawson stores across Japan, with cash accepted at the counter.</strong>
 
 
-<div className="jpn-tip"><strong>Pro tip:</strong> If you don't want to fight with a Japanese phone-number wall at all, <a href="https://www.klook.com/" rel="nofollow" target="_blank">Klook offers pre-booked anime cafe tickets</a> in English for select venues — saves roughly 30 minutes of Loppi fumbling on your first try.</div>
+<div className="jpn-tip"><strong>Pro tip:</strong> If you don't want to fight with a Japanese phone-number wall at all, <a href="https://www.klook.com/?aff_adid=1251547" rel="nofollow sponsored noopener" target="_blank">Klook offers pre-booked anime cafe tickets</a> in English for select venues — saves roughly 30 minutes of Loppi fumbling on your first try.</div>
 
 
 ## Table of Contents

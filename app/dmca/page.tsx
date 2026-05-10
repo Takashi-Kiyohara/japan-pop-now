@@ -67,6 +67,13 @@ const SECTIONS: { heading: string; body: string[] }[] = [
       `Knowingly making a material misrepresentation in a DMCA notice or counter-notice may make you liable for damages, including costs and attorneys' fees, to the affected party under 17 U.S.C. §512(f) and similar provisions of applicable law in other jurisdictions. Please consult a lawyer if you are uncertain whether the use you wish to challenge actually infringes your copyright.`,
     ],
   },
+  {
+    heading: 'Designated agent and jurisdiction',
+    body: [
+      `Japan Pop Now operates under Japanese law and our designated agent for copyright matters is the site operator listed on the /about page. While we honor good-faith DMCA notices regardless of the requester's jurisdiction, the substantive copyright analysis we perform follows Japanese copyright law (Chosakuken-ho, the 1970 Copyright Act and its 2018-2020 platform-liability amendments) for content hosted on our infrastructure, with reference to U.S. DMCA procedures for processing where the requester is a U.S. rights holder.`,
+      `Disputes that escalate beyond the take-down/counter-notice exchange are subject to the courts of Tokyo District, Japan, as set out in our Terms of Service section 10. We do not consent to jurisdiction outside Japan for such disputes. Any takedown notice acknowledging this jurisdiction reduces processing time materially.`,
+    ],
+  },
 ];
 
 export default function DmcaPage() {
