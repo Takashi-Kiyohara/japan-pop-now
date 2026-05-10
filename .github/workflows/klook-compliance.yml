@@ -16,7 +16,7 @@ on:
       - 'lib/**'
       - 'content/articles/**'
       - 'scripts/audit/**'
-      - '.github/workflows/klook-gate.yml'
+      - '.github/workflows/klook-compliance.yml'
   push:
     branches: [main]
     paths:
@@ -39,7 +39,7 @@ jobs:
                --include='*.ts' --include='*.tsx' --include='*.js' --include='*.mjs' \
             | grep -v '//' \
             | grep -v '^\s*\*' \
-            | grep -v 'klook-gate.yml'; then
+            | grep -v 'klook-compliance.yml'; then
             echo "::error::Found aff_id= short form in source code. Use aff_adid= (canonical Klook param)."
             exit 1
           fi
@@ -73,19 +73,21 @@ jobs:
           fi
           echo "OK: all klook markdown links carry aff_adid"
 
-      - name: Check 4 — HTML <a href=klook> anchors must include rel="sponsored"
+      - name: Check 4 - HTML anchor klook links must include rel sponsored
         run: |
-          # Find <a href="...klook.com..."> without rel containing 'sponsored'
-          violations=$(grep -rnoE '<a\s[^>]*href="https?://(www\.|affiliate\.)?klook\.com[^"]*"[^>]*>' content/articles/ \
+          # Find anchor tags to klook.com without rel containing 'sponsored'
+          pattern_open='<'
+          pattern_close='>'
+          violations=$(grep -rnoE "${pattern_open}a\\s[^${pattern_close}]*href=\"https?://(www\\.|affiliate\\.)?klook\\.com[^\"]*\"[^${pattern_close}]*${pattern_close}" content/articles/ \
                         --include='*.md' --include='*.mdx' \
                         | grep -v '\.deprecated' \
                         | grep -v 'rel="[^"]*sponsored' || true)
           if [ -n "$violations" ]; then
-            echo "::error::Found <a href=klook> anchor without rel='sponsored'. Add rel='nofollow sponsored noopener'."
+            echo "::error::Found klook anchor missing rel sponsored. Add rel='nofollow sponsored noopener'."
             echo "$violations"
             exit 1
           fi
-          echo "OK: all <a href=klook> anchors carry rel=sponsored"
+          echo "OK: all klook anchors carry rel sponsored"
 
       - name: Summary
         run: echo "Klook compliance: 100% across source code + articles. Per RULE I (R10), the canonical param is aff_adid=NNN."

@@ -1,4 +1,4 @@
-name: CWV retry (PageSpeed Insights, +24h after quota exhaust)
+name: CWV PageSpeed Daily
 
 # Cycle E3 — retry CWV measurement once daily PageSpeed quota refreshes.
 # Fires at 2026-05-07 11:00 UTC (matches the Day 1 cron) and then daily.
@@ -17,7 +17,7 @@ on:
   push:
     branches: [main]
     paths:
-      - '.github/workflows/cwv-daily.yml'
+      - '.github/workflows/cwv-pagespeed.yml'
 
 permissions:
   contents: write

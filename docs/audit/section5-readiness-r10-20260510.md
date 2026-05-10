@@ -42,7 +42,7 @@
 | og-image exists | YES (1200×630, 17.8KB) | `public/og-image.png` |
 | AuthorBox renders on every article | YES | `app/articles/[slug]/page.tsx` (R8-B4) |
 | SSR cookie banner | YES | `components/CookieConsent.tsx` (R8-B5) |
-| **Klook compliance ≥ 95% (R10 strict standard: aff_adid=NNN only)** | **YES (100% post-R10 K-source + K-articles fixes)** | `tmp/k-articles-find.mjs` re-run after fixes returns `{}` empty; `grep -rn 'aff_id=' app/ components/ lib/` returns 0 (excluding comments) |
+| **Klook compliance ≥ 95% (R10 strict standard: aff_adid=NNN only)** | **YES (100% post-R10 K-source + K-articles fixes)** | `grep -rn '[?&]aff_id=' content/ app/ components/ lib/` returns 0; `lib/affiliate-map.ts:32` literal `KLOOK_AFF_ID = '1251547'` + `aff_adid=` param; per-article fix commits in `git log --grep='K-articles'` |
 | Slam-dunk image: Takapon majority | YES (5 Takapon vs 3 Wikimedia post-R10-28) | `kamakura-slam-dunk-pilgrimage-2026.mdx` body image refs |
 | Krispy attribution | YES (frontmatter `imageCredit` + 4 caption attributions) | R9 carryover, R10-29/30 verified PASS |
 | /Articles uppercase 301 → lowercase | YES (middleware-based) | `middleware.ts` (R9-L9) |
