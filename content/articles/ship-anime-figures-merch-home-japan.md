@@ -22,6 +22,7 @@ The good news? Japan has figured out how to move physical objects across the pla
 
 Here’s everything you need to know about getting your anime haul home without destroying it, overpaying, or watching a package vanish into customs purgatory.
 
+
 ## Table of Contents
 
 - [Option 1: Japan Post (Cheapest for Small Packages)](#japan-post)
@@ -33,8 +34,10 @@ Here’s everything you need to know about getting your anime haul home without 
 - [How to Pack Figures](#packing)
 - [Tax-Free Shopping in Japan](#tax-free)
 
+
 ## Option 1: Japan Post (Cheapest for Small Packages)
 Japan Post is your baseline. It’s cheap, it works, and it’s been moving mail since 1871. Unless you need your package in three days, you’ll probably use Japan Post. They offer three international services: EMS (Express Mail Service), SAL (Economy Air Mail), and Surface Mail (boat, essentially).
+
 
 ![Japan Post Isuzu Forward delivery truck — the red postal vehicle that handles EMS, SAL and surface mail pickups across Japan for international anime figure shipments](/images/articles/ship-anime-figures-merch-home-japan/body-wikimedia-7.webp)
 *A Japan Post Isuzu Forward delivery truck — Japan Post's red fleet handles EMS, SAL, and Surface Mail collections from local post offices, including the international anime-figure parcels you drop at the counter. Photo: Mj-bird / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:ISUZU_FORWARD,_Post_Office_Car.jpeg), CC BY-SA 3.0.*
@@ -59,11 +62,14 @@ You’ll fill out a customs declaration form (CN22 for parcels under 2kg, CN23 f
 
 The post office will give you a tracking number. Use it. You’ll be able to see your package move from Tokyo to the sorting facility, then to an airport, then to your destination country’s customs, then to your local postal service. It’s therapeutic watching a box of anime merch travel the world.
 
+
 ![Japan Post yuyu-madoguchi (extended-hours after-hours service window) where international parcels and EMS shipments are dropped off](/images/articles/ship-anime-figures-merch-home-japan/body-wikimedia-1.webp)
 *A Japan Post yuyu-madoguchi (after-hours service counter) — the dedicated window where you hand over EMS or SAL parcels and a CN22/CN23 customs form for your figure shipments. Photo: oddstranger / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2014_%E3%82%86%E3%81%86%E3%82%86%E3%81%86%E7%AA%93%E5%8F%A3_(14657154946).jpg), CC BY-SA 2.0.*
 
+
 ## Option 2: Kuroneko Yamato / Sagawa (Speed & Reliability)
 Kuroneko Yamato (the black cat delivery company) and Sagawa are Japan’s major domestic and international couriers. Think of them as UPS or DHL equivalents. They’re faster and more reliable than Japan Post but cost more.
+
 
 ![Kuroneko Yamato delivery truck in Hino — the same fleet that handles Ta-Q-BIN domestic and international anime figure shipments](/images/articles/ship-anime-figures-merch-home-japan/body-wikimedia-6.webp)
 *A Kuroneko Yamato delivery truck — the black cat livery you see across Japan picks up Ta-Q-BIN packages from hotel front desks and Yamada Denki collection points. Photo: Syced / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Yamato_delivery_electrick_truck,_Hino.jpg), CC0.*
@@ -78,6 +84,7 @@ To use Kuroneko, you can phone 0120-01-9625 (English available) or ask at a conv
 
 When to use Kuroneko/Sagawa over Japan Post? If your package is urgent (arriving within a week), if you value the convenience of hotel pickup, or if you’re shipping something relatively valuable and want insurance and signature confirmation built in. For casual merch hauls where you don’t care if it takes three weeks, Japan Post’s SAL service saves you 3,000-5,000 yen.
 
+
 ## Option 3: Ship from the Store (Buying for Shipping)
 Many large anime and collectible retailers in Japan offer international shipping directly. You buy in-store or online, pay for shipping, and it ships from their warehouse.
 
@@ -91,8 +98,10 @@ The real advantage of store shipping becomes apparent when you’re buying multi
 
 The disadvantage: You’re usually paying more per kilogram than Japan Post SAL, and there’s a transaction delay (they ship from warehouses, not immediately). But the convenience often justifies it, especially for expensive or hard-to-find pieces.
 
+
 ![Japan Post shipping boxes stacked at a convenience store counter](/images/articles/ship-anime-figures-merch-home-japan/body3.jpg)
 *Japan Post EMS boxes at a Lawson counter — the workhorse option for figure shipping under 20 kg.*
+
 
 ## Option 4: Proxy Shipping Services (Buyee, ZenMarket, Tenso)
 Proxy services are intermediaries. You find an item on a Japanese auction site or retailer that won’t ship internationally. The proxy service buys it for you, holds it in their warehouse, then ships it to your home address. This opens up Japanese Yahoo Auctions, Mercari, and countless small retailers.
@@ -109,6 +118,7 @@ The actual process: Sign up (free), add funds via PayPal or credit card, find it
 
 Insurance varies. Buyee includes 5,000 yen of shipping insurance. ZenMarket includes 2,000 yen. If you’re buying collectibles worth 50,000+ yen, pay for extra insurance (usually 1,000 yen per 10,000 yen of value). Items do get damaged. I once received a sealed figure with a crushed corner. The proxy service’s basic insurance didn’t cover it fully, but additional insurance would have.
 
+
 ## Option 5: Just Check Extra Luggage
 Sometimes the simplest solution is boring logistics. If you’re flying from Tokyo back home, checking an extra suitcase might be cheaper than shipping.
 
@@ -119,6 +129,7 @@ The catch: You have to carry it. If you’re doing a two-week trip and buying da
 Here’s the practical math: You’re flying from Narita to San Francisco. Airline baggage fee: 35 USD (4,900 yen). Your haul: 18kg of figures. Via Japan Post SAL to the US, this would cost 4,500 yen. The suitcase actually saves you 400 yen. But now you need luggage space in San Francisco, and your back hurts after the flight. There’s no perfect answer—weigh your personal tolerance for luggage versus your willingness to deal with shipping bureaucracy.
 
 If you go this route, pack properly (see the packing section below). Wrap each figure individually. Use socks and soft items as buffer padding. Don’t trust the luggage handlers to be gentle.
+
 
 ## Customs, Duties & Tax: What You’ll Actually Pay
 Here’s where people get nervous. Good news: anime figures and merchandise are rarely duty-checked. But you need to understand the rules so you’re not surprised.
@@ -141,8 +152,10 @@ What happens if your package does get flagged? Customs opens it, inspects conten
 
 Protecting your figure collection during transit requires careful packing
 
+
 ![Anime figure being wrapped in bubble wrap and placed in a padded shipping box](/images/articles/ship-anime-figures-merch-home-japan/body4.jpg)
 *Double-box anything over ¥10,000 in value — inner box for the figure, outer box with cushioning.*
+
 
 ## How to Pack Figures So They Don’t Break
 This is where care saves money. A carelessly packed figure arrives as plastic shrapnel. A properly packed figure arrives pristine.
@@ -175,6 +188,7 @@ This is where care saves money. A carelessly packed figure arrives as plastic sh
 
 Japan Post remains the most popular option for shipping anime goods overseas
 
+
 ## Tax-Free Shopping in Japan: How It Works for Tourists
 If you’re a tourist (non-resident), you can get tax-free shopping at many retailers. This saves 10% on your purchases if you’re buying above a certain threshold.
 
@@ -190,6 +204,7 @@ If you’re a tourist (non-resident), you can get tax-free shopping at many reta
 
 Don’t overthink tax-free. It’s a straightforward discount. Show your passport, save 10% on purchases over 5,000 yen, done.
 
+
 ## Quick Comparison: Which Option Is Right for You?
 **If you’re buying a single small figure and want it in three weeks:** Japan Post SAL. Cost: 2,500 yen. Time: 2-4 weeks.
 
@@ -203,6 +218,7 @@ Don’t overthink tax-free. It’s a straightforward discount. Show your passpor
 
 **If you’re buying from Animate/Mandarake/Tower and want zero hassle:** Have the store ship it. Cost: 2,800-3,500 yen per kilogram. Time: 1-3 weeks. Worth paying a bit extra for convenience if you’re not carrying fragile items yourself.
 
+
 ## Final Notes on Getting Anime Merch Home
 The fundamental truth: Japan’s shipping infrastructure is exceptional. Packages arrive. Tracking works. Customs clearance is smooth because Japan Post and the international postal services have handled millions of anime shipments. You’re not doing anything risky or unusual. You’re doing what thousands of collectors do monthly.
 
@@ -211,6 +227,7 @@ The worst that usually happens is your package takes an extra week because of cu
 Be honest on customs forms. Pack properly. Choose the service that matches your timeline and budget. And don’t overthink it. You’re shipping toys across oceans. It’s one of the most benign international logistics tasks that exists.
 
 One more thing: take photos of your collection before you pack it. Just in case something does get damaged, you’ll have documentation for the insurance claim. I learned this the hard way.
+
 
 ## More Practical Guides
 
@@ -227,6 +244,7 @@ Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)
 
+
 ## Never Miss a Cafe Opening or Anime Event
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.
 
@@ -234,20 +252,25 @@ Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and 
 
 Follow for weekly collab cafe updates & Japan pop culture content.
 
+
 ### Explore by Area
 [ Tokyo](/tag/tokyo/)[ Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[ Shibuya](/shibuya-anime-spots-guide/)[ Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[ Osaka](/osaka-anime-guide-2025/) Kyoto (Coming Soon)
 
 
 
+
 ## FAQ: Frequently Asked Questions
+
 
 ### What is the cheapest way to ship figures home from Japan?
 
 Japan Post SAL (surface-air lifted) if your country still accepts it — 3–6 weeks delivery at roughly half the EMS price. EMS is fastest (5–7 days) with full tracking.
 
+
 ### Do I need to declare anime figures at customs?
 
 Yes. Declare them as 'collectible figures' at their fair retail value. Most countries clear under the de-minimis threshold (typically $200–800) duty-free.
+
 
 ### Can I use hotel staff to arrange luggage forwarding to the airport?
 

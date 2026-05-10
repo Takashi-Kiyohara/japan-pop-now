@@ -21,6 +21,7 @@ The difference between a trip where you catch your target collab cafe before it 
 
 This system is organized by when to book each item — not by category — because timing matters more than category fit. Some events only accept lottery entries 60 days in advance. JR Pass discounts depend on booking windows. Collab cafes schedule announcements four to six weeks out. Here's what to do and when to do it.
 
+
 ## Table of Contents
 
 1. [3 Months Before: The Big Bookings](#three-months)
@@ -31,13 +32,16 @@ This system is organized by when to book each item — not by category — becau
 6. [Downloadable Checklist](#checklist-download)
 7. [More Practical Guides](#related)
 
+
 ## 3 Months Before: The Big Bookings
 Three months out is when the real planning begins. This is your window for locking in flights, accommodation, rail passes, and event tickets. Miss this window and you’ll be paying premium prices or taking whatever’s left.
+
 
 ### Book Your Flights
 Flights to Tokyo or Osaka book out fastest 8-12 weeks ahead if you’re flying from the US, Europe, or Australia. Prices typically drop 90 days before departure, then climb again starting 60 days out. If you’re flexible on dates by even two or three days, you can save 30-50% by flying mid-week (Tuesday to Thursday) versus weekend flights. Airlines flying the Japan route include ANA, JAL, United, American, Air France, and Lufthansa—compare them yourself rather than through an aggregator to see exact schedules.
 
 Book direct to Tokyo (Narita or Haneda) or Osaka (Kansai) depending on where the anime crowds are. For spring 2026, Tokyo is the epicenter of everything. Haneda Airport is 14km from central Tokyo; Kansai is about 75km from Osaka but has cheaper flights from certain regions. Round-trip flights from the US West Coast are running 550-850 USD in April 2026; from the East Coast, 700-1100 USD.
+
 
 ### Lock in Accommodation Near Anime Districts
 Where you stay matters more than you think. Repeat-visitor consensus is to stay in Nakano, Akihabara, or Ikebukuro if merch hunting and anime cafes are my priority, rather than the hyper-touristy areas like Shibuya or Shinjuku. These neighborhoods have the shops, the cafes, the vibe.
@@ -46,6 +50,7 @@ For moderate hotels (150-250 USD per night for a clean double room), [Booking.co
 
 Budget options: capsule pods in Shinjuku or Ikebukuro run 40-70 USD per night and are actually social spaces where you’ll meet other anime fans. Book these through specialized sites like [Nui](https://www.nui.jp) or look on Agoda. Budget hostels with private rooms (70-120 USD per night) offer better comfort than capsules but less community.
 
+
 ### Decide on a JR Pass
 The JR Pass is essential if you’re planning to leave Tokyo for day trips or multi-day excursions. A 7-day pass costs 50,000 yen (about 200 USD at current rates) and must be purchased before you arrive in Japan—you can buy it through travel agents, travel websites, or online retailers. A 14-day pass is 46,320 yen. These pay for themselves in three or four round trips between Tokyo and major cities.
 
@@ -53,8 +58,10 @@ However: if you’re staying in Tokyo and Kyoto for the full trip, calculate you
 
 Book your JR Pass exchange voucher through authorized dealers — [JR East Official](https://www.jreast.co.jp) and [Klook](https://www.klook.com) are the two most-used by international visitors (Klook sometimes runs 5-10% discounts). You’ll receive a voucher code to exchange at airports when you arrive. The pass only activates when you exchange it, so you can arrive and decide the timing.
 
+
 ![A physical Japan Rail Pass card showing the layout and printed validity dates anime fans receive after airport exchange](/images/articles/japan-trip-checklist-anime-fans-2026/body-wikimedia-1.webp)
 *A real JR Rail Pass after exchange — the voucher you buy abroad gets swapped for a card like this at any major JR ticket office. Photo: DragonFury / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:JR_Rail_Pass_2023.jpg), CC BY-SA 4.0.*
+
 
 ### Enter Anime Event Lotteries
 This is the non-negotiable step that separates prepared fans from disappointed ones. Three major events require lottery entries submitted 60 days in advance:
@@ -66,6 +73,7 @@ This is the non-negotiable step that separates prepared fans from disappointed o
 **Anime Japan Regional Events:** Throughout the year, smaller anime expos pop up in Osaka, Nagoya, and Fukuoka. Check the official event calendar to see if anything aligns with your dates. These are less crowded than Comiket and AnimeJapan.
 
 If you’re targeting specific voice actor panels, concert performances, or screening premieres, many require separate ticket purchases. Big voice actor events sell out within 48-72 hours of general release. Set reminders 60 days before any event you’re interested in.
+
 
 ### Research and Pre-Register for Collab Cafe Lotteries
 Collab cafes (collaboration cafes featuring anime, manga, or game themes) are the hardest-to-access experience in Tokyo for anime fans. Restaurants like [Marui’s collaborative venues](https://www.marui.co.jp) and standalone collab cafe operators announce new collaborations 4-6 weeks before launch. The most sought-after ones (especially for seasonal anime or ongoing fan-favorite series) require lottery registration to even get a seat. Typical odds are 10:1 or worse.
@@ -84,11 +92,14 @@ Pro tip: The biggest collab cafes have waiting lists. Even if you lose the lotte
 
 A month out is the sweet spot for locking in connectivity and travel insurance
 
+
 ![Haneda Airport International Terminal departure lobby with check-in counters and overhead signage typical of an anime fan's first arrival in Tokyo](/images/articles/japan-trip-checklist-anime-fans-2026/body-wikimedia-2.webp)
 *Haneda Airport International Terminal departure lobby — book flights into Haneda or Narita 8–12 weeks ahead for the best fares. Photo: Daniel L. Lu (user:dllu) / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Departure_Lobby_of_Haneda_Airport_International_Terminal_dllu.jpg), CC BY-SA 4.0.*
 
+
 ## 1 Month Before: Connectivity & Insurance
 Now that the big stuff is booked, focus on making sure you can actually function in Japan. This means internet, communication, money, and the unglamorous stuff like travel insurance that you’ll only care about if something goes wrong.
+
 
 ### Choose and Book Your Internet Solution
 You have three main options: eSIM, prepaid SIM card, or Pocket WiFi. Your choice depends on your phone compatibility, budget, and if you’re traveling with a companion.
@@ -101,6 +112,7 @@ You have three main options: eSIM, prepaid SIM card, or Pocket WiFi. Your choice
 
 I use eSIM now. It’s the smoothest experience: no activation required, switching is instant if you change your mind, and you don’t carry a second device. [Our full connectivity guide](/japan-esim-pocket-wifi-sim-card-guide/) includes speed tests from each provider, coverage maps, and which option works best for anime hunting in Akihabara’s basement floors (spoiler: Rakuten is weakest in underground areas, Docomo is strongest).
 
+
 ### Buy Travel Insurance With Event Coverage
 Most travel insurance policies don’t explicitly cover event ticket refunds or purchased merchandise if a collab cafe closes unexpectedly. You need insurance that covers event cancellation and lost baggage (important for merch hauls). Look for plans that include:
 
@@ -111,6 +123,7 @@ Most travel insurance policies don’t explicitly cover event ticket refunds or 
 
 Annual multi-trip policies from [Allianz](https://www.allianzglobal.com) or [Blue Cross](https://www.bluecross.com/en/products/travel-insurance) run 150-300 USD per year and cover unlimited trips. Single-trip policies for a 10-day Japan trip typically cost 35-70 USD. The realistic risk: lost-luggage cases where a suitcase delayed 4 days at Narita arrives after the visitor has already left Tokyo, forcing a hotel night in Kyoto to wait for luggage that contains the cafe-event outfit.
 
+
 ### Make Money Decisions: Cash vs Cards vs IC Cards
 Japan’s payment system is split between cash, credit cards, and IC cards (prepaid transit/shopping cards like Suica or Pasmo). Most anime shops in Akihabara’s backstreets accept only cash or IC card, not credit cards.
 
@@ -119,6 +132,7 @@ Japan’s payment system is split between cash, credit cards, and IC cards (prep
 **Credit Cards:** Visa and Mastercard work at chain restaurants, hotels, and large shops (Yodobashi, Akihabara’s big stores). American Express and Discover are less widely accepted. However, many anime-specific small shops, doujinshi sellers, and collab cafes prefer cash. Don’t rely on plastic alone.
 
 **IC Cards (Suica/Pasmo):** Buy a Suica card at the airport for 2,000 yen (includes 1,500 yen balance, 500 yen card deposit) or use a Suica app on your phone if it supports it. Load up 10,000 yen per week of your trip. Use it for every train ride, convenience store, and vending machine. You’ll use this card constantly—probably your most-used payment method after cash.
+
 
 ### Download Essential Apps Now
 Download and set up these apps before you travel. They work even without internet if you download maps/data beforehand:
@@ -131,19 +145,24 @@ Download and set up these apps before you travel. They work even without interne
 - **Twitter/X:** Follow anime shops, collab cafe announcements, and event organizers. Most breaking news about limited merch restocks or event changes hits Twitter first, sometimes hours before official channels.
 - **Manga Up or Comixology:** If you’re reading manga on transit, load up digital versions before you go. The manga reading experience in Japan feels different knowing you’re literally in the country where it’s published.
 
+
 ![Welcome Suica IC card with sakura cherry-blossom design issued to short-term visitors at JR ticket counters](/images/articles/japan-trip-checklist-anime-fans-2026/body-wikimedia-3.webp)
 *The Welcome Suica is the visitor-only version of Japan's main IC card — pick one up alongside your eSIM activation when you land. Photo: Ravi Dwivedi / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Welcome_Suica.jpg), CC BY-SA 4.0.*
+
 
 ## 2 Weeks Before: Collab Cafe & Event Prep
 With two weeks to go, you’re in the homestretch. Now you’re confirming details and making backup plans.
 
+
 ![Crowds queueing for the Yurikamome line after day 2 of Comiket 106 at Tokyo Big Sight, the scale of attendance anime fans plan around](/images/articles/japan-trip-checklist-anime-fans-2026/body-wikimedia-5.webp)
 *The Yurikamome line queue exiting Tokyo Big Sight after Comiket day 2 — if your trip overlaps with Comiket, Anime Japan, or a major collab opening, factor 2-3 hours of transit-line buffer into the day. Photo: Benlisquare / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Queueing_for_the_Yurikamome_line_after_day_2_of_Comiket_106.jpg), CC BY-SA 4.0.*
+
 
 ### Check Lottery Results and Plan Walk-In Strategy
 If you’ve entered collab cafe lotteries, results drop around this time. Check your email and account logins obsessively—some venues send results via email that might hit your spam folder. If you won, you’ll receive a confirmation email with your reserved time slot (usually a specific 2-hour window) and instructions for arrival.
 
 If you lost (odds are you will, at least once), don’t panic. Most collab cafes hold 30-40% of seating for walk-in customers. The strategy is to show up 90-120 minutes before closing time on a weekday (Tuesday-Thursday are slowest). Expect a 1-2 hour wait, but you’ll get in. Pro tip: Bring a book or charge your phone. Walk-in customers often get first dibs on merchandise once the lottery winners clear out — visitor reports note 90-minute waits regularly netting the last few bromides of a target character.
+
 
 ### Make Restaurant Reservations for Themed Dining
 Beyond collab cafes, Tokyo has restaurants specifically decorated with anime themes or that serve anime-inspired food. These don’t always require reservations, but popular ones do, especially for evening slots (6 PM – 8 PM) on weekends.
@@ -153,6 +172,7 @@ Beyond collab cafes, Tokyo has restaurants specifically decorated with anime the
 - **Karaoke boxes:** Book a private karaoke room (500-1,500 yen per hour, 3-5 USD per person) where you and friends can sing anime openings without judgment. Rooms often have extensive anime music libraries. Book through [Karaoke Bantam](https://www.karaokabantam.jp) (Japanese only) or ask your hotel concierge.
 
 Recommended approach: making reservations for any themed restaurant where ambiance is half the appeal, but being flexible for casual ramen shops.
+
 
 ### Book Studio Tours
 Ghibli Museum in Mitaka (30 minutes west of central Tokyo) is the most popular anime studio tour, and it requires advance tickets. Tickets go on sale the first of every month for visits 4-6 weeks ahead, and they sell out within 1-3 days. The museum was closed for renovation until March 2026 and is operating at reduced capacity through mid-2026, so book the moment tickets release. Tickets are 1,000 yen for adults (about 7 USD) and only available through [the official Ghibli Museum site](https://www.ghibli-museum.jp/en/) ([source: Ghibli Museum official EN site](https://www.ghibli-museum.jp/en/)).
@@ -167,20 +187,26 @@ None of these are easy to access for casual visitors, which is why the Ghibli Mu
 
 Getting your bookings locked in early means less stress and more time at the anime spots
 
+
 ![Akihabara Electric Town Sotokanda block at night lit up with anime billboards and arcade signage](/images/articles/japan-trip-checklist-anime-fans-2026/body-wikimedia-4.webp)
 *Akihabara's Sotokanda block at night — pack a foldable duffel because this is where your suitcase fills with merch. Photo: Phineyes / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sotokanda,_Akihabara_Electric_Town_at_night_20231114.png), CC0.*
+
 
 ## 1 Week Before: Packing for Anime Fans
 Packing for an anime trip is different than regular travel. You’re going to buy merch. Plan accordingly.
 
+
 ### Bring an Extra Suitcase or Foldable Tote Bag
 This is non-negotiable. I arrived in Tokyo once without planning for merch and ended up buying an extra suitcase (4,500 yen, about 30 USD) from a convenience store because my carry-on was full by day three. A better approach is to bring a flat, foldable duffel bag (available from any outdoor gear store for 20-40 USD) or even a collapsible tote bag. Leave it flat in your luggage on the flight, unfold it when you’re ready to haul merch back to your hotel. On day 10, you can either check this bag as additional luggage on the return flight (usually 50-100 USD per airline) or ship it home via international postal service (about 100-150 USD for a 20kg box from Japan to the US).
+
 
 ### Pack a Portable Charger and Cable
 Using Google Maps on transit drains battery fast. A 20,000mAh portable charger (30-50 USD) charges your phone 5-6 times. Bring two charging cables (one for your phone, one as backup) because you’ll be charging constantly while walking around Akihabara with your phone in hand.
 
+
 ### Bring Clear File Folders
 Anime events, cafes, and shops sell loose prints, bromides (trading cards), and postcards. A 100-yen clear file folder (about 70 cents from any 100-yen shop in Japan, or 5-8 USD online before arrival) protects these items from folding, water damage, or getting bent in your bag. Buy them once you’re in Japan, or pack two or three paper sleeves.
+
 
 ### Get Cash in Yen Before You Leave
 Many small anime shops, independent merch sellers, and street stalls only accept cash. While ATMs are everywhere, it’s reassuring to have 100,000-150,000 yen (680-1,020 USD) in your possession from the start. Some people order yen exchange before leaving home (through their bank), which avoids the airport exchange line entirely.
@@ -191,28 +217,36 @@ If you’re flying from the US, you can order yen through:
 - Your bank (usually available within 2-3 business days)
 - Airport exchange (convenience but rates are 3-5% worse)
 
+
 ### Wear Comfortable Shoes
 Anime shopping in Tokyo means miles of walking—Akihabara’s electric town district is dense and has narrow streets. Break in your shoes before departure. Bring an extra pair for swollen ankles on day 6 or 7. Japan has convenience stores everywhere, so you can buy replacement insoles or ankle support if you get sore.
+
 
 ## Day 1 in Japan: First Things to Do
 You’ve arrived. Here’s the immediate action list.
 
 If you’ve never used Japanese trains before, read [How to Use Trains in Japan: A First-Timer's Anime Guide](/articles/how-to-ride-trains-japan-tourists-2026) first — it covers the airport-to-hotel express choice, the IC card tap sequence, women-only car rules, and the Smart EX app for Shinkansen reservations, all in one walkthrough.
 
+
 ### Activate Your JR Pass (If You Have One)
 Go to the JR East office at Haneda or Narita to exchange your voucher for the physical JR Pass. This takes 10 minutes. The office is near the train station entrance on level 1 or B1 (depending on terminal). Hours are roughly 8:15 AM – 7:00 PM daily. Write down the activation date you want (some people activate immediately, others wait 2-3 days to use it for specific trips). The JR Pass is valid for 7 or 14 consecutive days from activation.
+
 
 ### Get an IC Card
 Even if you already bought a Suica app on your phone, having a physical IC card is useful because some vending machines and older ticket machines don’t accept phones. Buy a Suica or Pasmo card at any station for 2,000 yen and load it with 10,000 yen to start. Top it up whenever it dips below 5,000 yen using station machines or convenience store registers.
 
+
 ### Buy a Prepaid SIM or Activate Your eSIM
 If you’re using a prepaid SIM card, buy it at the airport phone shop (SoftBank, Docomo, or Rakuten kiosks are in the main terminal near exits). If you’re using eSIM, activate it now that you’re in Japan and need the data connection. Expect 10-15 minutes of setup time. Test it before leaving the airport by opening Google Maps or Twitter.
+
 
 ### Withdraw Cash at 7-Eleven ATM
 Head to any 7-Eleven and use the 7-Bank ATM (usually near the entrance) to withdraw yen using your home debit card. Withdraw in one transaction to minimize fees. The machine interface is available in English. Process takes about 3 minutes. You’ll pay zero foreign fees from 7-Eleven but check if your home bank charges a currency exchange fee (most do, around 2-3 USD).
 
+
 ### Get to Your Hotel
 Now you have internet, money, and transit options. Head to your accommodation. Most hotels check in after 3 PM, but many will hold luggage if you arrive earlier. Use this time to grab coffee and acclimate.
+
 
 ## Downloadable Checklist
 Copy this checklist and paste into a note-taking app, or print it out:
@@ -272,6 +306,7 @@ DAY 2 ONWARD:
 [ ] Check social media for limited drops and restocks
 [ ] Enjoy your trip
 
+
 ## More Practical Guides
 
 - [AnimeJapan 2026 International Visitor Guide](/articles/animejapan-2026-guide-international-visitors) — booking timeline, Family Festa access, and exhibitor-stand prep.
@@ -290,6 +325,7 @@ Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)
 
+
 ## Never Miss a Cafe Opening or Anime Event
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.
 
@@ -297,20 +333,25 @@ Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and 
 
 Follow for weekly collab cafe updates & Japan pop culture content.
 
+
 ### Explore by Area
 [ Tokyo](/tag/tokyo/)[ Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[ Shibuya](/shibuya-anime-spots-guide/)[ Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[ Osaka](/osaka-anime-guide-2025/) Kyoto (Coming Soon)
 
 
 
+
 ## FAQ: Frequently Asked Questions
+
 
 ### How far in advance should I start booking?
 
 6–8 weeks for collab cafes and hotels, 3–4 weeks for JR Pass and activities, 1–2 weeks for restaurants. Earlier for Golden Week, obon, and New Year travel windows.
 
+
 ### What is the one thing most anime-focused visitors forget?
 
 Cash. Small anime shops, second-hand figure stores, and most capsule machines still want 100-yen coins. Carry at least 10,000 yen in cash on any merch-heavy day.
+
 
 ### Do I need to book collab cafes before my flight?
 

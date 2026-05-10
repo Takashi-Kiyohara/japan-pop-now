@@ -23,6 +23,7 @@ This guide covers every statue, how to reach them, and the most practical way to
 
 Across years of Kumamoto's One Piece statue rollout from 2018 through 2022, the locations below have remained stable installations — confirm transit timetables and any temporary closures with the Kumamoto Prefectural tourism office before your trip.
 
+
 ## All 10 Statues: Locations and Characters
 
 | **#** | **Character** | **Location** | **Area** | **Public Transport** |
@@ -38,8 +39,10 @@ Across years of Kumamoto's One Piece statue rollout from 2018 through 2022, the 
 | 9 | **Brook** | Near the Dinosaur Museum | Mifune Town | Difficult — bus/car needed |
 | 10 | **Jinbe** | Sumiyoshi Kaigan Park | Uto City | Difficult — bus/car needed |
 
+
 ## The Luffy Statue — Kumamoto City
 The Luffy statue is the most visited of the ten and the easiest to reach. It stands at the entrance promenade of the Kumamoto Prefectural Government Office, surrounded by ginkgo trees. Luffy’s got his arm raised — the classic pose — and at the base you’ll find a cast of Eiichiro Oda’s actual hand print and his signature.
+
 
 ![Kumamoto Prefectural Government Office building — the entrance promenade in front of this building is where the Monkey D. Luffy bronze statue, the first of the ten Straw Hat statues, was installed in November 2018](/images/articles/one-piece-kumamoto-statue-tour/featured.jpg)
 *Kumamoto Prefectural Government Office — the Luffy bronze statue (174 cm, the canonical height of the character) stands on the entrance promenade visible in front of this building, surrounded by ginkgo trees. Photo: Wikimedia contributor / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kumamoto_Prefectural_office_2022-6-4.jpg), CC BY-SA 4.0.*
@@ -52,6 +55,7 @@ The statue is 174 centimeters tall (Luffy’s canonical height) and made of bron
 | **Hours** | 24/7 outdoor access (the statue is in the open promenade) |
 | **Cost** | Free |
 
+
 ## The Chopper Statue — Kumamoto City Zoo
 Chopper stands at the main entrance of Kumamoto City Zoological and Botanical Gardens — a fitting location for the crew’s doctor who was, after all, a reindeer first. The statue is smaller than Luffy’s (matching Chopper’s compact stature) and positioned so that visitors can pose alongside him.
 
@@ -61,15 +65,18 @@ If you have time, the zoo itself is a pleasant stop — well-maintained with a b
 | --- | --- |
 | **Cost** | Statue: Free (outside the gate). Zoo admission: ¥500 (adults) if you want to enter. |
 
+
 ## The Aso Region Statues — Usopp, Franky, Robin
 Three statues are in the Aso area — the volcanic caldera region northeast of Kumamoto city. This is the area that was hardest hit by the 2016 earthquakes, and placing the statues here was intentional. Each location connects to the reconstruction story.
 
 **Usopp** stands right in front of Aso Station — making him the easiest Aso statue to visit by public transport. The station itself was damaged in the earthquakes and rebuilt, and Usopp’s pose captures that spirit of rebuilding with optimism (and characteristic exaggeration).
 
+
 ![Aso Station building in Kumamoto Prefecture — the Usopp statue stands directly in front of this rebuilt station](/images/articles/one-piece-kumamoto-statue-tour/body-wikimedia-3.webp)
 *Aso Station — the rebuilt JR Hohi Line station that hosts the Usopp statue out front. The station was damaged in the 2016 Kumamoto earthquakes and reopened after reconstruction. Photo: Wikimedia contributor / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kumamoto-Aso-station-building2020.jpg), CC BY-SA 4.0.*
 
 **Franky** is near Takamori Station at the opposite end of the Aso area. Takamori is a small town known for its tunnel spring water and rural atmosphere. The station is the terminus of the Minami-Aso Railway, which was itself severely damaged in 2016 and has since been restored — another reconstruction story.
+
 
 ![Takamori Station in southern Aso, Kumamoto — the Minami-Aso Railway terminus that hosts the Franky statue nearby](/images/articles/one-piece-kumamoto-statue-tour/body-wikimedia-5.webp)
 *Takamori Station — terminus of the Minami-Aso Railway in southern Kumamoto Prefecture. The Franky statue stands a short walk from this rebuilt station, in another community heavily affected by the 2016 earthquakes. Photo: Wikimedia contributor / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Takamori_station,_Minami-Aso_Railway_station_building.jpg), CC BY-SA 4.0.*
@@ -78,13 +85,16 @@ Three statues are in the Aso area — the volcanic caldera region northeast of K
 
 **The Aso caldera is worth the trip even without the statues.** The volcanic landscape, Mount Aso’s smoking crater, the Kusasenri grasslands, and the hot springs make this one of Kyushu’s most spectacular natural areas. Plan to spend a full day combining the statues with the scenery.
 
+
 ![Mount Aso and its sweeping caldera in Kumamoto Prefecture, the volcanic landscape that frames the Usopp, Franky, and Robin statues on the One Piece statue tour](/images/articles/one-piece-kumamoto-statue-tour/body-wikimedia-2.webp)
 *Mount Aso and the surrounding caldera — the dramatic volcanic backdrop for three of the Straw Hat statues (Usopp at Aso Station, Franky near Takamori, Robin at the Earthquake Memorial Museum). Photo: Miya.m / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mt.Aso_and_caldera01.jpg), CC BY-SA 3.0.*
+
 
 ## The Scattered Statues — Zoro, Sanji, Nami, Brook, Jinbe
 The remaining five statues are spread across different towns in Kumamoto Prefecture. Each was placed in a community severely affected by the earthquake:
 
 **Zoro** (Ozu Town) — Near Higo-Ozu Station, walkable from the platform. One of the more accessible outlying statues.
+
 
 ![Higo-Ozu Station in Ozu Town, Kumamoto — the JR Hohi Line stop within walking distance of the Zoro Straw Hat statue](/images/articles/one-piece-kumamoto-statue-tour/body-wikimedia-4.webp)
 *Higo-Ozu Station — JR Hohi Line stop in Ozu Town. The Zoro statue stands in a nearby park, walkable from the station platform. Photo: Wikimedia contributor / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Higo-Ozu_Station_20171002.jpg), CC BY-SA 4.0.*
@@ -97,10 +107,13 @@ The remaining five statues are spread across different towns in Kumamoto Prefect
 
 **Jinbe** (Uto City) — The last statue completed (July 2022), standing at Sumiyoshi Kaigan Park on the coast. Jinbe, as the crew’s helmsman and former fishman pirate, watches over the sea. Bus connections from Kumamoto Station exist but require planning.
 
+
 ![Kumamoto Castle, the iconic prefectural landmark that anchors most visitor day trips around the Straw Hat statue route](/images/articles/one-piece-kumamoto-statue-tour/body-wikimedia.webp)
 *Kumamoto Castle — the natural visual anchor for a Straw Hat statue day trip, within walking distance of the Luffy statue at Kumamoto Prefectural Government Office. Photo: 663highland / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kumamoto_Castle_02n3200.jpg), CC BY 2.5.*
 
+
 ## How to See All 10: Transportation Options
+
 ### Option 1: Rental Car (Recommended)
 This is the most practical way to see all ten statues. The statues are spread across roughly 200 kilometers of the prefecture, and five of them are in locations with limited public transport. A rental car lets you see all ten in 1.5 to 2 days at a comfortable pace.
 
@@ -108,13 +121,16 @@ Rent from **Kumamoto Station** — several major rental companies (Toyota, Nippo
 
 **International Driving Permit required.** Japan does not accept foreign licenses alone. Get your IDP before leaving home — it takes minutes at most automobile associations and is valid for one year. Japan drives on the left.
 
+
 ### Option 2: Public Transport + Walking
 You can visit 5-6 statues by public transport without too much difficulty: Luffy, Chopper (both in Kumamoto city by tram), Usopp (Aso Station), Franky (Takamori Station), and Zoro (Higo-Ozu Station). The remaining statues require bus connections with infrequent schedules — possible but requires careful timetable planning.
 
 Budget 3-4 days to visit all ten by public transport. The blog “Higo Journal” has documented the full route by public transport — it’s doable but requires patience.
 
+
 ### Option 3: Guided Tour
 Private guides and tour services offer One Piece statue tour packages. This is the stress-free option — someone drives you to all ten, handles the navigation, and often includes stops at Kumamoto Castle and local restaurants. Prices vary, but expect ¥15,000–30,000 per person for a full-day tour.
+
 
 ## Recommended 2-Day Itinerary (By Car)
 
@@ -142,6 +158,7 @@ Private guides and tour services offer One Piece statue tour packages. This is t
 | **15:00** | Optional: Mount Aso crater viewpoint or Kusasenri grasslands |
 | **17:00** | Drive back to Kumamoto city, return rental car |
 
+
 ## Getting to Kumamoto
 
 | **From Fukuoka** | Kyushu Shinkansen: 30-40 min, ¥5,310. Highway bus: ~2 hours, ¥2,500. |
@@ -151,8 +168,10 @@ Private guides and tour services offer One Piece statue tour packages. This is t
 
 **If you have a Japan Rail Pass:** The Kyushu Shinkansen from Hakata (Fukuoka) to Kumamoto is covered. This makes a side trip from Fukuoka incredibly easy — you can even do a day trip.
 
+
 ![Kumamoto Castle keep — the defining landmark of Kumamoto Prefecture, near several One Piece statue locations](/images/articles/one-piece-kumamoto-statue-tour/body-wikimedia-1.webp)
 *Photo: そらみみ / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tenshu_of_Kumamoto_Castle_2.JPG), CC BY-SA 3.0. Kumamoto Castle keep — Kumamoto Prefecture's defining landmark, near several One Piece statue locations.*
+
 
 ## Kumamoto Castle — Don’t Skip It
 While you’re in Kumamoto for the statues, Kumamoto Castle is essential. The castle was severely damaged in the 2016 earthquake — the same event that inspired the One Piece statue project — and has been undergoing reconstruction since. The main keep reopened in 2021 with all six floors accessible, and a special viewing passage lets you observe the ongoing restoration work up close.
@@ -165,10 +184,12 @@ The connection between the castle’s reconstruction and the One Piece statues i
 | **Hours** | 9:00–17:00 (last entry 16:30) |
 | **Best time** | Late March – early April for cherry blossoms |
 
+
 ## One Piece Merchandise in Kumamoto
 Several shops in Kumamoto sell statue-related merchandise and Kumamoto-exclusive One Piece goods:
 
 **Sakuramachi Shopping Center (B1)** — A One Piece souvenir shop with Kumamoto-exclusive items, including Kumamon plush toys dressed in Luffy’s outfit. Located in the basement level of the city’s main bus terminal building.
+
 
 ![Sakuramachi Kumamoto shopping and bus terminal complex — basement level B1 hosts the One Piece souvenir shop with Kumamoto-exclusive merchandise](/images/articles/one-piece-kumamoto-statue-tour/body-wikimedia-6.webp)
 *SAKURAMACHI Kumamoto — the bus terminal and shopping complex in central Kumamoto City. The basement level (B1) hosts a One Piece souvenir shop selling Kumamoto-exclusive merchandise, including Luffy-outfit Kumamon plush. Photo: Wikimedia contributor / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:SAKURA-MACHI-Kumamoto.jpg), CC0.*
@@ -176,6 +197,7 @@ Several shops in Kumamoto sell statue-related merchandise and Kumamoto-exclusive
 **Mugiwara Store Kumamoto** — Inside Kumamoto Station’s shopping area. The standard Mugiwara Store lineup plus some Kumamoto-exclusive goods.
 
 There’s also an ongoing **exhibition at the Kumamoto Prefectural Museum of Art** running through May 2026, marking the 10th anniversary of the earthquakes with a One Piece collaboration. If your visit falls within this period, it’s worth checking out. Admission is free.
+
 
 ## Kumamoto City Transportation
 Kumamoto’s tram system is the most useful public transport for the city-center statues:
@@ -187,6 +209,7 @@ Kumamoto’s tram system is the most useful public transport for the city-center
 | **Coverage** | 2 lines covering Kumamoto Station, castle area, downtown, Suizenji Garden |
 
 **The combined tram + bus day pass is excellent value.** At ¥900 for the wakuwaku 1day pass, you’d break even after just 5 rides. If you’re spending a full day in Kumamoto city visiting the Luffy and Chopper statues, the castle, and downtown shopping, you’ll easily exceed that.
+
 
 ## FAQ: Frequently Asked Questions
 **Can I visit all 10 statues in one day?**
@@ -213,6 +236,7 @@ Late March to early April for cherry blossoms at Kumamoto Castle. Avoid winter f
 
 Kumamoto has run special campaigns with stamp rallies and collectible cards at various times. Check the official [ONE PIECE Kumamoto Revival Project](https://op-kumamoto.com/english/) website for current programs.
 
+
 ## More Pilgrimage Guides
 
 - [One Piece Cafe GENE at PARCO — Tokyo](/one-piece-cafe-gene-parco-2026/)
@@ -229,12 +253,14 @@ Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)
 
+
 ## Never Miss a Cafe Opening or Anime Event
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.
 
 [Follow on Threads](https://www.threads.net/@pop_now_jp)
 
 Follow for weekly collab cafe updates & Japan pop culture content.
+
 
 ### Explore by Area
 [ Tokyo](/tag/tokyo/)[ Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[ Shibuya](/shibuya-anime-spots-guide/)[ Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[ Osaka](/osaka-anime-guide-2025/) Kyoto (Coming Soon)

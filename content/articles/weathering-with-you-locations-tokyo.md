@@ -21,13 +21,16 @@ This guide covers every major visitable location from the film, organized into w
 
 Across years of Makoto Shinkai pilgrimage tradition in Tokyo, the locations below have stayed publicly accessible — confirm any rooftop or private-building access via the operator's site before visiting.
 
+
 ## Koenji: Japan’s Only Weather Shrine
 The most thematically perfect Weathering With You pilgrimage stop. Koenji Hikawa Shrine houses the **Kisho Shrine** (気象神社) — literally “Weather Shrine” — the only shrine in Japan dedicated to weather. In a film about a girl who can control the weather, this is as on-the-nose as it gets.
+
 
 ![Shinjuku neon signs at dusk — the districts Hodaka crosses through repeatedly during Weathering With You](/images/articles/weathering-with-you-locations-tokyo/body-wikimedia.webp)
 *Shinjuku at blue hour — the neon-lit district that appears throughout Hodaka's storyline in Weathering With You. Photo: Basile Morin / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Buildings_with_colorful_neon_street_signs_at_blue_hour,_Shinjuku,_Tokyo.jpg), CC BY-SA 4.0.*
 
 The shrine sells wooden geta (traditional clog) shaped prayer plaques, and you can buy a “clear weather charm” (晴守り / hare-mamori) for ¥800 — a popular souvenir among Weathering With You fans who want to channel their inner sunshine girl.
+
 
 ![Main hall of Koenji Hikawa Shrine in Suginami, the Tokyo shrine that houses Japan's only weather shrine and inspires the Weathering With You pilgrimage](/images/articles/weathering-with-you-locations-tokyo/body-wikimedia-2.webp)
 *Koenji Hikawa Shrine in Suginami ward — the grounds host Kisho Shrine, Japan's only shrine dedicated to weather and the most thematically perfect Weathering With You pilgrimage stop. Photo: Kentin / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hikawa_jinja_koenjiminami_suginami_tokyo.JPG), CC BY-SA 3.0.*
@@ -39,11 +42,14 @@ The shrine sells wooden geta (traditional clog) shaped prayer plaques, and you c
 | **Admission** | Free. Clear weather charm: ¥800. Geta ema (prayer plaque): ¥500. |
 | **Time needed** | 20-30 minutes |
 
+
 ![Yoyogi Park in spring with cherry blossoms in full bloom — the green expanse adjacent to the Sendagaya / Hatonomori area where Weathering With You's rooftop and shrine scenes are set](/images/articles/weathering-with-you-locations-tokyo/body-wikimedia-3.webp)
 *Yoyogi Park during cherry blossom season — the wide green space adjacent to the Sendagaya neighborhood and Hatonomori Hachiman shrine area that Shinkai used as visual reference for several Weathering With You scenes. Photo: 663highland / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sakura_in_Yoyogi_Park_Tokyo_20170403.jpg), CC0.*
 
+
 ## Tabata: Hina’s Neighborhood
 Tabata is one of the Yamanote Line’s quietest stations — no tourist attractions, no famous landmarks, just a residential neighborhood that most visitors never see. In the film, this is where Hina lives with her younger brother Nagi. It’s also where the final reunion scene takes place in the film’s 2024 ending sequence.
+
 
 ![JR Tabata Station exterior — the Yamanote Line stop where Hina lives in Weathering With You](/images/articles/weathering-with-you-locations-tokyo/body-wikimedia-4.webp)
 *JR Tabata Station — the Yamanote Line stop nearest Hina's apartment in Weathering With You. The South Exit slope, just below this station, matches the film's depiction. Photo: Wikimedia contributor / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tabata_station.jpg), CC0.*
@@ -57,8 +63,10 @@ The key location is the **steep slope below Tabata Station’s South Exit**. In 
 | **Admission** | Free (public street) |
 | **Time needed** | 15-20 minutes |
 
+
 ## Shinjuku & Kabukicho: Hodaka’s Arrival
 Shinjuku is where most of the film’s urban action takes place. Hodaka arrives in Tokyo as a runaway and immediately finds himself in the chaotic energy of Kabukicho — the entertainment district north of Shinjuku Station.
+
 
 ### McDonald’s Seibu-Shinjuku (Hodaka Meets Hina)
 The triangular McDonald’s building next to Seibu-Shinjuku Station is where Hodaka first meets Hina. She secretly gives him a Big Mac when he’s starving and broke. The building’s distinctive shape — like a slice of shortcake — is immediately recognizable from the film. It’s a functioning McDonald’s, so you can sit at the same counter and eat the same menu item as the scene.
@@ -69,8 +77,10 @@ The triangular McDonald’s building next to Seibu-Shinjuku Station is where Hod
 | **Hours** | Standard McDonald’s hours (typically 7:00-23:00) |
 | **Time needed** | 15-30 minutes (including your own Big Mac moment) |
 
+
 ### MANBOO Internet Cafe
 The internet cafe where Hodaka stays after running away from home. MANBOO is a real chain of manga/internet cafes — the Shinjuku Yasukuni-dori branch was the one depicted in the film, but it **permanently closed in August 2020**. However, MANBOO still operates several locations nearby, including the Kabukicho branch (2-33-11 Kabukicho) and the Shinjuku Sohonten (2-6-12 Shinjuku). You can stay overnight at any of these for the full Hodaka experience (about ¥1,500-2,500 for a night session), though a regular hotel is probably more comfortable.
+
 
 ## Ginza: The Real Rooftop Shrine
 The most iconic scene in Weathering With You — Hina standing on a rooftop shrine with torii gates above the city — was inspired by the **Asahi Inari Shrine** in Ginza. This is an actual Shinto shrine on the roof of an office building, accessed by elevator.
@@ -87,6 +97,7 @@ The building that originally inspired the scene — Yoyogi Kaikan near Yoyogi St
 
 **Be respectful.** This is a real shrine in a working office building. The tenants and staff are accustomed to visitors, but keep noise down in the elevator and corridors. Take your photos and offer a brief prayer if you wish, but don’t linger for extended shoots.
 
+
 ## Nozoki-zaka: The Dramatic Slope
 
 Nozoki-zaka (のぞき坂) near Mejiro is one of the steepest slopes in central Tokyo — 520 feet long with a 50-foot elevation change. In the film, sunlight breaks through the rain and sweeps down this slope in one of the most visually striking scenes. The name literally means “peeping slope,” because you have to lean forward to see the bottom.
@@ -99,6 +110,7 @@ Nozoki-zaka (のぞき坂) near Mejiro is one of the steepest slopes in central 
 
 **Best photo time:** Late afternoon when sunlight hits the slope at an angle — this recreates the film’s most famous visual of the slope. On a rainy day, the wet pavement reflections match the film even more closely.
 
+
 ## Roppongi Hills: The Sunset Prayer
 The observation deck at Roppongi Hills Mori Tower (52nd floor) is where Hina watches the sunset and prays for good weather before the fireworks festival. This is also the same observation deck that appears in Your Name — it’s where Taki takes Okudera-senpai on their date. Shinkai fans doing both pilgrimages can check off two films at one location.
 
@@ -109,8 +121,10 @@ The observation deck at Roppongi Hills Mori Tower (52nd floor) is where Hina wat
 | **Admission** | Adults ¥2,000 / University & High School ¥1,400 / Children (4–Middle School) ¥800 / Under 4 free |
 | **Time needed** | 45-60 minutes |
 
+
 ## Shiba Park & Tokyo Tower Views
 The park where Suga, Hina, and Hodaka spend time together. Shiba Park — one of Japan’s oldest parks, established in 1873 — offers a postcard-perfect view of Tokyo Tower framed by trees. The specific bench where characters sit in the film is against the stone wall of Shiba Tosho-gu Shrine, within the park grounds.
+
 
 ![Tokyo Tower viewed from Shiba Park — the postcard angle that frames the bench scene with Suga, Hina, and Hodaka in Weathering With You](/images/articles/weathering-with-you-locations-tokyo/body-wikimedia-5.webp)
 *Tokyo Tower as seen from Shiba Park — the exact framing that appears in Weathering With You's bench scene with Suga, Hina, and Hodaka. The bench sits against the stone wall of Shiba Tosho-gu Shrine within the park. Photo: Wikimedia contributor / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tokyo_Tower_seen_from_Shiba_Park.jpg), CC BY-SA 4.0.*
@@ -121,18 +135,23 @@ The park where Suga, Hina, and Hodaka spend time together. Shiba Park — one of
 | **Admission** | Free |
 | **Time needed** | 20-30 minutes |
 
+
 ## Odaiba & Takeshiba Pier: The Waterfront
 **Odaiba Marine Park** is where Hodaka and Hina take their first “sunshine girl” assignment — clearing the weather for a flea market. The observation area near the Statue of Liberty replica, with the Rainbow Bridge in the background, is the exact spot.
 
 **Takeshiba Pier** (竹芝桟橋) is where Hodaka first arrives in Tokyo by ferry at the beginning of the film. The marine passenger terminal is a public space with ocean views. The ferry route from the Izu Islands that Hodaka takes is still operated by Tokai Kisen (large passenger ships depart nightly, jet ferries run during daytime), so you can actually arrive in Tokyo the same way Hodaka did. The pier’s observation deck also offers great ocean views.
 
+
 ![Takeshiba Pier waterfront in Tokyo — the marine terminal where Hodaka first arrives in Weathering With You's opening scenes](/images/articles/weathering-with-you-locations-tokyo/body-wikimedia-6.webp)
 *Takeshiba Pier (竹芝桟橋) — the marine passenger terminal where Hodaka arrives in Tokyo from the Izu Islands at the start of Weathering With You. The Tokai Kisen ferry route depicted in the film still operates from this pier. Photo: Wikimedia contributor / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Takeshiba_Pier_2.jpg), CC0.*
+
 
 ![Main avenue in Yoyogi Park, Tokyo — one of the pilgrimage zones for Weathering With You (Tenki no Ko)](/images/articles/weathering-with-you-locations-tokyo/body-wikimedia-1.webp)
 *Photo: Shinjiro / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mainstreet_Yoyogipark.JPG), CC BY 3.0. Yoyogi Park main avenue — one of the named pilgrimage zones for Tenki no Ko.*
 
+
 ## Walking Routes
+
 ### Route A: Full-Day thorough (6-8 hours)
 **Morning (Koenji + Shinjuku):** Start at Koenji Hikawa Shrine (weather shrine, clear weather charm). Train to Shinjuku (10 min). McDonald’s Seibu-Shinjuku for a Big Mac. Walk through Kabukicho.
 
@@ -142,13 +161,16 @@ The park where Suga, Hina, and Hodaka spend time together. Shiba Park — one of
 
 **Transit cost:** About ¥800-1,000 total (IC card). Plus ¥2,000 for Roppongi Hills admission.
 
+
 ### Route B: Half-Day Yamanote Line Focus (3-4 hours)
 **Start at Tabata Station** (Yamanote Line). Walk the South Exit slope. One stop south to Nishi-Nippori or two stops to Ikebukuro area for Nozoki-zaka. Continue on Yamanote Line to Mejiro (walk to Nozoki-zaka, 15 min). End at Ikebukuro for anime shopping at [Animate and Sunshine City](/articles/ikebukuro-anime-guide-2026/).
 
 **Transit cost:** About ¥300-500 total.
 
+
 ### Route C: Evening Romance Route (3 hours)
 **Start at Takeshiba Pier** for waterfront views at golden hour. Train to Shiba Park (15 min). Walk through the park with Tokyo Tower behind you. Continue to Roppongi Hills for the evening observation deck. This route captures the film’s most atmospheric moments.
+
 
 ## Locations Shared With Your Name
 If you’re doing both Shinkai pilgrimages, these spots overlap:
@@ -156,6 +178,7 @@ If you’re doing both Shinkai pilgrimages, these spots overlap:
 - **Roppongi Hills Tokyo City View** — Your Name: Taki’s date. Weathering With You: Hina’s sunset prayer.
 - **Shinjuku area** — Both films use Shinjuku extensively, though different specific locations.
 - **Suga Shrine stairs** — Not in Weathering With You, but a 30-minute detour from the Shinjuku locations. See our [Your Name pilgrimage guide](/articles/your-name-pilgrimage-tokyo/) for the full route.
+
 
 ## FAQ: Frequently Asked Questions
 **Can I see the rooftop shrine from the film?**
@@ -174,16 +197,19 @@ Honestly? A rainy day makes the pilgrimage better. The film is about rain in Tok
 
 The Your Name pilgrimage is more concentrated (most spots are in Shinjuku/Yotsuya). Weathering With You is more spread out across Tokyo, which means more train time but also more variety. Both are worth doing.
 
+
 ## More Anime Pilgrimages
 
 - [10 Anime Pilgrimage Spots in Tokyo You Can Visit Today](/articles/anime-pilgrimage-spots-tokyo/)
 - [Your Name Pilgrimage Tokyo — Every Real Location + Walking Route](/articles/your-name-pilgrimage-tokyo/)
 - [Demon Slayer Real Locations in Tokyo — Complete Pilgrimage Guide](/articles/demon-slayer-pilgrimage-tokyo/)
 
+
 ### Makoto Shinkai Film Locations Tour
 A walking tour covering both Your Name and Weathering With You locations in one afternoon. A guide points out the exact camera angles and scene references.
 
 [Find Shinkai Film Tours on GetYourGuide](https://www.getyourguide.com/tokyo-l193/?q=anime+film+locations&partner_id=R7OISH9&utm_medium=online_publisher)
+
 ## More Pilgrimage Guides
 
 - [10 Anime Pilgrimage Spots in Tokyo: Real Locations + Walking Routes](/articles/anime-pilgrimage-spots-tokyo)
@@ -192,6 +218,7 @@ A walking tour covering both Your Name and Weathering With You locations in one 
 - [One Piece Kumamoto Statue Tour: All 10 Straw Hat Locations](/articles/one-piece-kumamoto-statue-tour)
 - [Shibuya & Harajuku Pop Culture Guide](/articles/shibuya-harajuku-pop-culture-guide)
 - [@pop_now_jp](https://www.threads.net/@pop_now_jp)
+
 
 ### More Anime Location Guides
 
@@ -206,12 +233,14 @@ Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)
 
+
 ## Never Miss a Cafe Opening or Anime Event
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.
 
 [Follow on Threads](https://www.threads.net/@pop_now_jp)
 
 Follow for weekly collab cafe updates & Japan pop culture content.
+
 
 ### Explore by Area
 [ Tokyo](/tag/tokyo/)[ Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[ Shibuya](/shibuya-anime-spots-guide/)[ Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[ Osaka](/osaka-anime-guide-2025/) Kyoto (Coming Soon)

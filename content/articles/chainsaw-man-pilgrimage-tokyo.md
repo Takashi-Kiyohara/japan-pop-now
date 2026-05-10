@@ -22,6 +22,7 @@ If you're planning an anime-heavy trip to Tokyo, you can pair this route with [A
 
 Across years of Japanese anime location pilgrimage practice, the Jinbocho-Ochanomizu route below remains broadly walkable as public space — respect any private property boundaries and resident privacy you encounter.
 
+
 ## Table of Contents
 
 - [Reze Arc Movie Locations](#reze-arc-locations)
@@ -37,7 +38,9 @@ Across years of Japanese anime location pilgrimage practice, the Jinbocho-Ochano
 - [FAQ](#faq)
 - [More Pilgrimage Guides](#more-guides)
 
+
 ## Reze Arc Movie Locations
+
 
 ![Secondhand bookstores in Kanda-Jinbocho district Tokyo — backdrop for Chainsaw Man Reze Arc pilgrimage](/images/articles/chainsaw-man-pilgrimage-tokyo/body-wikimedia-2.webp)
 
@@ -45,7 +48,9 @@ Every major location from the Reze Arc movie sits within a tight cluster around 
 
 All five locations below are within a 10-minute walk of each other. The recommended route starts from Suidobashi Station's East Exit and works south toward Jinbocho Station. The whole walk takes about 2-3 hours if you stop for photos and coffee.
 
+
 ![JR Suidobashi Station east exit Tokyo — gateway to the Chainsaw Man Reze Arc pilgrimage route in Jinbocho](/images/articles/chainsaw-man-pilgrimage-tokyo/body-wikimedia-3.webp)
+
 
 ## The Phone Booth — Where Denji Meets Reze
 
@@ -62,7 +67,9 @@ Go in the late afternoon if you want the same lighting as the movie scene. The s
 | Best Time to Visit | Late afternoon (4:00-5:00 PM) for movie-accurate lighting |
 | Cost | Free (outdoor location) |
 
+
 ![Ochanomizu Station JR Tokyo at night — neighbouring station for Chainsaw Man Reze Arc Sarugakucho route](/images/articles/chainsaw-man-pilgrimage-tokyo/body-wikimedia-4.webp)
+
 
 ## Aoi Building — Reze's Walking Scene
 The Aoi Building (葵ビル) appears as the background in the scene where Reze walks to her part-time cafe job. It's a Showa-era office building with a distinctive facade that stands out against the newer construction around it — the kind of building that's disappearing from Tokyo year by year.
@@ -78,7 +85,9 @@ This is a working office building, so stay on the sidewalk and don't enter. Fans
 | Best Time to Visit | Afternoon for the best facade lighting |
 | Cost | Free (exterior viewing only) |
 
+
 ![Otokozaka stone staircase in Sarugakucho Tokyo — sister staircase to Onnazaka in the Chainsaw Man Reze Arc](/images/articles/chainsaw-man-pilgrimage-tokyo/body-wikimedia-1.webp)
+
 
 ## Onnazaka Stairs — The Iconic Staircase
 
@@ -95,7 +104,9 @@ The stairs are public and accessible 24 hours, but visits after dark are best av
 | Best Time to Visit | Sunset (around 5:00-6:00 PM) for movie-matching atmosphere |
 | Cost | Free (public staircase) |
 
+
 ![Sanseido Bookstore Building in Jinbocho Tokyo — landmark of the Chainsaw Man Reze Arc neighbourhood](/images/articles/chainsaw-man-pilgrimage-tokyo/body-wikimedia-5.webp)
+
 
 ## Cafe Vale — The Real-Life Model for Reze's Cafe
 
@@ -114,7 +125,9 @@ A word of caution: these are small businesses, not tourist attractions. Order so
 | Typical Hours | 8:00 AM – 6:00 PM (varies; closed Sundays at some) |
 | Budget | Coffee: ~¥500-800 |
 
+
 ![Akihabara Electric Town Tokyo — one stop from Jinbocho on the JR Sobu Line for Chainsaw Man merch](/images/articles/chainsaw-man-pilgrimage-tokyo/body-wikimedia-6.webp)
+
 
 ## Season 1 Tokyo Locations
 Season 1 of Chainsaw Man is set broadly across Tokyo, but specific identifiable locations are harder to pin down than the Reze Arc spots. The anime uses a somewhat fictionalized version of the city — recognizable as Tokyo, but with enough changes that exact matches are rare.
@@ -128,6 +141,7 @@ That said, fans have identified a few connections worth noting:
 **Public Safety Bureau Office** — The government building where Makima works appears to be a composite of several real government buildings in Kasumigaseki and Nagatacho. The architecture combines elements from the Ministry of Economy building and other Meiji/Taisho-era government structures.
 
 For Season 1 fans, the practical recommendation is to combine a Jinbocho pilgrimage with a general Tokyo pop culture day. Hit [Akihabara](/articles/akihabara-complete-guide-2026) for Chainsaw Man merchandise (Animate and Mandarake both stock plenty), then head to [our merch shopping guide](/anime-merch-shopping-guide/) for the full rundown on where to find figures, manga, and limited-edition goods.
+
 
 ## Recommended Walking Route (2-3 Hours)
 
@@ -147,6 +161,7 @@ Here's the route I took, optimized for photo opportunities and walking efficienc
 
 Total walking distance: about 2.5 km. Flat terrain except for the Onnazaka stairs.
 
+
 ## Where to Eat Near the Pilgrimage Spots
 
 Jinbocho is one of Tokyo's best lunch neighborhoods, and it's criminally underrated by tourists. The area is packed with curry shops (Jinbocho is actually famous as Tokyo's curry district), old-school *kissaten*, and cheap ramen joints that cater to the neighborhood's university students and office workers.
@@ -156,6 +171,7 @@ Jinbocho is one of Tokyo's best lunch neighborhoods, and it's criminally underra
 **For ramen**: Ramen Jiro Jinbocho (ラーメン二郎 神保町店) is right in the area. If you've never tried Jiro-style ramen — massive portions, thick noodles, pork fat — this is your chance. Not for the faint of heart or stomach.
 
 **For coffee**: Ladrio (ラドリオ) has been serving coffee in Jinbocho since 1949. The interior hasn't changed much since then. It's the kind of place that makes you understand why the Reze Arc chose this neighborhood.
+
 
 ## Practical Info & Access
 
@@ -171,6 +187,7 @@ Jinbocho is one of Tokyo's best lunch neighborhoods, and it's criminally underra
 | Budget | ¥0 (all outdoor spots free) + ¥500-1,500 for food/coffee |
 | IC Card | Suica/PASMO work on all lines. See our [IC Card guide](/articles/japan-ic-card-transit-guide) |
 
+
 ## Pilgrimage Etiquette
 
 Anime pilgrimage — *seichi junrei* (聖地巡礼) — has become a mainstream part of Japanese tourism culture, and most locals welcome respectful fans. But Jinbocho is a working neighborhood, not a theme park. Keep these points in mind:
@@ -184,6 +201,7 @@ Anime pilgrimage — *seichi junrei* (聖地巡礼) — has become a mainstream 
 **Don't leave items at pilgrimage spots.** While fan offerings at the phone booth are charming, they create work for local businesses. Take your photos, post them online, and leave the spot as you found it.
 
 **Buy something.** If you visit a cafe or bookshop as part of your pilgrimage, order a drink or buy a book. Supporting local businesses ensures these spots stay around for future fans.
+
 
 ## FAQ
 **Q: Is Jinbocho safe to visit at night?**
@@ -210,6 +228,7 @@ A: The movie team used real Jinbocho locations as reference for the Reze Arc ani
 
 Chainsaw Man locations span several Tokyo neighborhoods. For a full overview of anime-friendly areas, see our [Tokyo Anime Districts Guide](/articles/tokyo-anime-district-guide) covering Akihabara, Ikebukuro, Nakano, and more.
 
+
 ## More Pilgrimage Guides
 
 - [Demon Slayer Pilgrimage: Asakusa, Saitama & Beyond](/articles/demon-slayer-pilgrimage-tokyo)
@@ -226,12 +245,14 @@ Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)
 
+
 ## Never Miss a Cafe Opening or Anime Event
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.
 
 [Follow on Threads](https://www.threads.net/@pop_now_jp)
 
 Follow for weekly collab cafe updates & Japan pop culture content.
+
 
 ### Explore by Area
 [ Tokyo](/tag/tokyo/)[ Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[ Shibuya](/shibuya-anime-spots-guide/)[ Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[ Osaka](/osaka-anime-guide-2025/) Kyoto (Coming Soon)

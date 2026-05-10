@@ -22,6 +22,7 @@ I started visiting Den Den Town in 2024 when a friend tipped me off about the se
 
 This guide covers everything you need for a full day (or two) of anime shopping, gaming, and eating in Osaka. Exact addresses, current hours, and the specific floors are listed below where you’ll find what you’re looking for — plus a few spots outside Den Den Town that most guides miss entirely.
 
+
 ## Table of Contents
 
 - [Getting to Den Den Town](#getting-there)
@@ -34,8 +35,10 @@ This guide covers everything you need for a full day (or two) of anime shopping,
 - [Sample Day Trip Itinerary](#day-trip-itinerary)
 - [Practical Info: Transport, IC Cards & Tips](#practical-info)
 
+
 ![Animate flagship store exterior at Osaka Nipponbashi, the largest female-oriented anime retailer in Den Den Town](/images/articles/osaka-anime-guide-den-den-town/body-wikimedia.webp)
 *Animate Osaka Nipponbashi — the Den Den Town anchor store for anime merchandise, doujinshi, and Animate Cafe lottery signups. Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Animate_Osaka_Nippombashi.jpg), CC0.*
+
 
 ## Getting to Den Den Town
 
@@ -50,10 +53,13 @@ The main otaku strip runs along Sakai-suji (Route 25) between Nipponbashi Statio
 | Area | Nipponbashi, Naniwa-ku, Osaka |
 | Best time to visit | Weekday afternoons for fewer crowds; weekends for street events and cosplayers |
 
+
 ![Street-level view of Den Den Town in Nipponbashi, Osaka with anime and electronics signage marking the entrance to the otaku shopping strip](/images/articles/osaka-anime-guide-den-den-town/body-wikimedia-4.webp)
 *Den Den Town along Sakai-suji in Nipponbashi, Osaka — the 800-meter otaku strip that runs between Nipponbashi and Ebisucho stations. Shops layer five and six floors deep, so plan a half-day minimum. Photo: Clemens Vasters / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Den-Den_Town,_Nipponbashi,_Osaka_-_Jul_12,_2023.jpg), CC BY 2.0.*
 
+
 ## Den Den Town: The Main Anime & Manga Shops
+
 
 ### Animate Osaka Nipponbashi
 The Osaka flagship Animate is smaller than the Ikebukuro main store but carries the same new releases and exclusive merchandise. The building has multiple floors covering manga, light novels, character goods, CDs, and DVDs. The exclusive Animate-only goods (collaborations, random acrylic stands) are on the upper floors.
@@ -64,6 +70,7 @@ What sets this location apart: the secondhand corner on the upper floor regularl
 | --- | --- |
 | Hours | 11:00-20:00 daily |
 | Station | Nipponbashi Station Exit 5, 2-minute walk |
+
 
 ### Mandarake Grand Chaos
 This is the store that justifies the trip to Osaka on its own. Mandarake Grand Chaos is one of the largest Mandarake locations in Japan, spread across multiple floors in a single building. The name isn’t exaggerating — the sheer volume of inventory here is overwhelming in the best way.
@@ -78,6 +85,7 @@ The pricing philosophy here seems more aggressive than Tokyo Mandarake locations
 | Station | Nipponbashi Station Exit 5, 3-minute walk |
 | Tip | Bring cash — the secondhand floor processes cash transactions faster, and some booths are cash-only |
 
+
 ### Super Potato Osaka
 If you’ve been to the Akihabara Super Potato, you know what to expect: walls of retro games, consoles from every generation, and a playable arcade floor. The Osaka location is more compact but the prices tend to be lower, especially for loose cartridges and common consoles.
 
@@ -91,12 +99,15 @@ For serious retro collectors: check the glass cases near the register for rare i
 | Station | Nipponbashi Station Exit 5, 4-minute walk south |
 | Budget | Loose retro cartridges from 100 yen; rare CIB games 5,000-50,000+ yen |
 
+
 ### Other Notable Shops on the Strip
 **Jungle** (multiple locations on the strip) specializes in figures, model kits, and character goods. They’re known for competitive buyback prices, so if you’re selling as well as buying, start here. **Volks Hobby Paradise** is the spot for Gunpla builders and garage kit enthusiasts — they carry tools and paints that are hard to find elsewhere. **Melonbooks Osaka** is the go-to for doujinshi, especially for visitors who can’t make it to Comiket.
+
 
 ## Gashapon Department Store Namba
 
 Located on the 6th floor of Namba Parks, this is one of the largest gashapon collections in the Kansai region. Over 600 machines line the walls, covering everything from Sanrio to Jujutsu Kaisen to weirdly specific Japanese humor capsules (tiny replicas of convenience store rice balls, anyone?).
+
 
 ![Gundam plastic-model recycling box outside Namco Nipponbashi, a signature Den Den Town street detail for Gunpla collectors](/images/articles/osaka-anime-guide-den-den-town/body-wikimedia-2.webp)
 *Gundam plastic-model recycling bin at Namco Nipponbashi — a Den Den Town detail that gives a sense of how deep the hobby-shop culture runs on the strip. Photo: Mr.ちゅらさん / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gundam_Plasticmodel_Recycle_Box_at_Namco_Nipponbashi.jpg), CC BY-SA 4.0.*
@@ -111,7 +122,9 @@ Most machines take 100-yen coins (some are 200 or 300 yen). There’s a change m
 | Station | Namba Station (Nankai) direct connection via Namba Parks mall |
 | Budget | 100-500 yen per capsule; bring plenty of 100-yen coins |
 
+
 ## Game Centers & Arcades in Osaka
+
 
 ### Round1 Stadium Sennichimae
 This massive entertainment complex operates 24 hours a day, which makes it the perfect late-night spot after Den Den Town shops close at 20:00. The arcade floors cover crane games (UFO catchers), rhythm games including the latest Taiko no Tatsujin cabinets, fighting games, and photo booth machines.
@@ -126,14 +139,18 @@ For more on Japan’s arcade culture, crane game strategies, and other game cent
 | Station | Namba Station, 5-minute walk north toward Dotonbori |
 | Price | Most games 100-200 yen per play; crane games 100-500 yen |
 
+
 ### Athena Nipponbashi
 A Den Den Town institution. Athena has been running game floors in Nipponbashi for decades. The ground floor is crane games with current anime prizes; upper floors have fighting games, retro cabinets, and medal games. It’s smaller and more intimate than Round1 — the kind of place where regulars know the staff and the staff knows which machines are “hot” for prizes.
+
 
 ## Collab Cafes in Osaka
 Osaka’s collab cafe scene is growing fast. While Tokyo still dominates with volume, Osaka gets many of the same collaborations — sometimes with exclusive menu items or merchandise that aren’t available at the Tokyo locations.
 
+
 ![Idolmaster concert-costume display at a Den Den Town shop, the idol-fandom merchandise that fills Nipponbashi storefronts](/images/articles/osaka-anime-guide-den-den-town/body-wikimedia-3.webp)
 *Idolmaster concert costumes on display in Den Den Town — a window onto the idol-anime fandom that shares the strip with Gundam, maid cafes, and doujinshi shops. Photo: Cloud668 / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Idolmaster_concert_costumes.JPG), CC BY-SA 3.0.*
+
 
 ### Key Collab Cafe Venues
 **Collabo Cafe Honpo Osaka** — A dedicated collaboration cafe space in Nipponbashi that rotates themes every 2-4 weeks. This is the most convenient option if you’re already in Den Den Town. Check their Twitter/X for the current collaboration before visiting.
@@ -145,6 +162,7 @@ Osaka’s collab cafe scene is growing fast. While Tokyo still dominates with vo
 For booking tips, what to expect at your first collab cafe, and a calendar of current collaborations, check our [How to Book an Anime Collab Cafe](/articles/how-to-book-anime-collab-cafe-japan/) guide and the [Spring 2026 Collab Cafe Calendar](/articles/tokyo-anime-collab-cafes-spring-2026/).
 
 **Osaka booking tip:** Collab cafes in Osaka are generally easier to book than Tokyo — especially for weekday slots. If a Tokyo collab sold out instantly, check whether the same collaboration is running in Osaka. Many national chains (like PARCO collab cafes) run simultaneous events in both cities.
+
 
 ## Shinsaibashi PARCO: Character Shop Floor
 
@@ -160,14 +178,17 @@ The 5th and 6th floors also host rotating pop-up shops and exhibition spaces. Re
 | Station | Shinsaibashi Station (Midosuji Line) Exit 7, direct connection |
 | Tip | Visit on the way to/from Den Den Town — it’s a 10-minute walk south from PARCO to the north end of the strip |
 
+
 ## Universal Studios Japan (USJ) — Anime & Gaming Zones
 
 USJ is in Osaka, and in 2026 it’s leaning harder into anime and gaming than ever. Even if theme parks aren’t usually your thing, the current lineup has some attractions worth the trip.
+
 
 ### Super Nintendo World
 Celebrating its 3rd anniversary in 2026, Super Nintendo World remains the park’s biggest draw for gaming fans. The area is built as a full-scale recreation of the Mushroom Kingdom, complete with interactive power-up bands (3,800 yen) that let you punch question blocks and collect coins tracked via app. The Mario Kart: Koopa’s Challenge ride uses AR goggles — it’s impressive even for people who aren’t Nintendo fans.
 
 The Donkey Kong Country expansion added a mine cart coaster and a dedicated DK-themed area. Lines are shortest on weekday mornings — aim to arrive at park opening and head straight to Nintendo World.
+
 
 ### Cool Japan 2026
 USJ’s seasonal Cool Japan event for Spring 2026 features Detective Conan (an escape-room-style attraction) and Jujutsu Kaisen (a 4D ride experience). These limited-time attractions run roughly January through June and require separate Express Passes for short waits. The JJK attraction has been one of the most popular Cool Japan additions in recent years — if it matters to you, buy the Express Pass in advance.
@@ -178,6 +199,7 @@ USJ’s seasonal Cool Japan event for Spring 2026 features Detective Conan (an e
 | Station | Universal City Station (JR Yumesaki Line), 5-minute walk from park entrance |
 | Tickets | 1-Day Studio Pass: Adults 8,600-9,800 yen (varies by date); Express Pass: 6,800-17,800 yen |
 | Access from Namba | JR Namba → Nishikujo (transfer) → Universal City, about 30 minutes total |
+
 
 ## Sample Day Trip Itinerary
 
@@ -199,16 +221,21 @@ If you’ve only got one day for Osaka anime tourism, here’s a route that cove
 
 **Two-day option:** If you have a second day, dedicate it to USJ. The park needs a full day to cover properly, especially if you want to experience both Super Nintendo World and the Cool Japan seasonal attractions.
 
+
 ## Practical Info: Transport, IC Cards & Tips
+
 
 ### IC Cards
 ICOCA is the Kansai region’s IC card (equivalent to Tokyo’s Suica/Pasmo). Buy one at any JR West ticket machine for 2,000 yen (500 yen deposit + 1,500 yen balance). It works on all trains, buses, and at convenience stores throughout Osaka. If you already have a Suica or Pasmo from Tokyo, those work in Osaka too — IC cards are interchangeable nationwide.
 
+
 ### From Kansai International Airport
 The **Nankai Rapi:t** express is the fastest route to Den Den Town: KIX to Namba in 38 minutes, 1,450 yen. Trains run every 30 minutes. From Namba, Den Den Town is a 5-minute walk east. The JR Haruka express goes to Shin-Osaka and Tennoji but doesn’t stop at Namba — only take this if your hotel is on the JR line.
 
+
 ### Money Tips
 Den Den Town is more cash-friendly than you might expect. While major chains like Animate and Mandarake accept credit cards, many smaller shops and all gashapon machines are cash-only. ATMs at 7-Eleven and Japan Post accept international cards. Budget at least 5,000-10,000 yen in cash for a full day of browsing.
+
 
 ### Luggage Storage
 If you’re visiting Den Den Town as a day trip, use the coin lockers at Namba Station (400-700 yen depending on size). The largest lockers fit a carry-on suitcase. If all lockers are full, ecbo cloak is a luggage storage service with drop-off points throughout Namba — book via their app.
@@ -219,10 +246,12 @@ If you’re visiting Den Den Town as a day trip, use the coin lockers at Namba S
 | Wi-Fi | Free Osaka City Wi-Fi available at stations; most shops have no Wi-Fi |
 | Tax-free | Most major shops offer tax-free shopping for purchases over 5,000 yen (bring passport) |
 
+
 ### Tokyo to Osaka: Save with a JR Pass
 If you’re combining Tokyo and Osaka on your anime trip, a Japan Rail Pass covers the Shinkansen round trip and all local JR trains. Check if it saves you money on our [JR Pass Guide](/articles/japan-rail-pass-2026-guide/).
 
 [Check JR Pass Prices on Klook](https://affiliate.klook.com/redirect?aid=117469&aff_adid=1251547&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US/search/?query=japan+rail+pass&aid=1117469)
+
 ## More Anime Shopping & Culture Guides
 
 - [Anime Merch Shopping Guide: Best Stores, Budget Tips & What to Buy](/articles/anime-merch-shopping-guide-japan/)
@@ -238,6 +267,7 @@ If you’re combining Tokyo and Osaka on your anime trip, a Japan Rail Pass cove
 
 For a complete list of anime collaboration cafes currently running in Osaka, check our [Osaka Anime Collab Cafe Guide 2026](/articles/osaka-anime-cafes-complete-guide-2026) — updated weekly with new collaborations.
 
+
 ## More Area Guides
 
 - [Akihabara Complete Guide 2026](/articles/akihabara-complete-guide-2026)
@@ -251,6 +281,7 @@ Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)
 
+
 ## Never Miss a Cafe Opening or Anime Event
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.
 
@@ -258,20 +289,25 @@ Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and 
 
 Follow for weekly collab cafe updates & Japan pop culture content.
 
+
 ### Explore by Area
 [ Tokyo](/tag/tokyo/)[ Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[ Shibuya](/shibuya-anime-spots-guide/)[ Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[ Osaka](/osaka-anime-guide-2025/) Kyoto (Coming Soon)
 
 
 
+
 ## FAQ: Frequently Asked Questions
+
 
 ### Is Den Den Town better than Akihabara for Osaka visitors?
 
 For a single-day Osaka trip, yes. Den Den Town condenses Akihabara's mix of figure shops, doujinshi, and retro games into a 3-block walkable strip near Nipponbashi Station.
 
+
 ### What is Nipponbashi Street Festa?
 
 A one-day cosplay parade every March across Den Den Town, free to attend. Checking the 2026 schedule before you book is worth the extra minute — locals compete for the best outfits.
+
 
 ### Which Den Den Town shops must first-time visitors see?
 

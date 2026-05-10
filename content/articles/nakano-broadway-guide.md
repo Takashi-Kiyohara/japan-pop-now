@@ -13,6 +13,7 @@ relatedSlugs: []
 wpPostId: 204
 ---
 
+
 ![Mandarake storefront inside Nakano Broadway — the anchor tenant that drives collector traffic through the building](/images/articles/nakano-broadway-guide/body-wikimedia.webp)
 *Mandarake at Nakano Broadway — one of 25+ specialty branches inside the building, each tuned to a different fandom. Photo: LeLaisserPasserA38 / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:MandarakeNakano2.jpg), CC0.*
 
@@ -24,8 +25,10 @@ Nakano Broadway is a multi-story shopping complex five minutes from Shinjuku on 
 
 This guide covers how to get there, what’s on each floor, which shops matter, and why serious collectors prefer it over Akihabara.
 
+
 ## How to Get to Nakano Broadway
 Take the **JR Chuo Line** (orange, rapid service) from Shinjuku Station. Nakano is the first stop — five minutes, ¥200. Trains run every few minutes throughout the day.
+
 
 ![Nakano Broadway entrance signage, the façade most visitors use to confirm they have arrived at the correct building](/images/articles/nakano-broadway-guide/body-wikimedia-2.webp)
 *Nakano Broadway entrance — the façade signage that confirms you have arrived. Photo: User:Kentin / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nakano_broadway_entrance.JPG), CC BY-SA 3.0.*
@@ -42,22 +45,28 @@ At Nakano Station, take the **North Exit**. Walk straight ahead and you’ll ent
 | **Most Shops** | 12:00–20:00 (some close Wednesdays) |
 | **Closed** | Third Wednesday of February (annual electrical inspection) |
 
+
 ## Floor-by-Floor Guide
 Nakano Broadway runs from basement level (B1) to the 4th floor. The layout is dense and maze-like — corridors branch off in every direction, and many shops are just a few square meters. Getting lost is part of the experience.
+
 
 ### B1 — Food and Everyday Life
 The basement is a local marketplace. You’ll find groceries, fishmongers, cheap lunch spots, and the famous **Daily Chico** soft serve stand (more on that below). There are also a few secondhand shops tucked in among the food stalls. The vibe here is completely different from the upper floors — it feels like your grandmother’s local shopping street, not an anime complex.
 
+
 ### 1F — The Ground Floor
 The ground floor is the transition zone. You’ll see clothing shops, shoe stores, general retail, and the entrance to the building. There’s a VR arcade space and some regular convenience shopping. The first Mandarake shop you’ll encounter is on this floor — a good warm-up for what’s upstairs.
+
 
 ### 2F–3F — The Main Event
 This is why you came. Floors 2 and 3 are packed with anime, manga, and collectible shops. Mandarake dominates both floors with separate stores for different categories — one shop just for manga, another for figures, another for doujinshi, another for vintage toys. Between the Mandarake stores, independent shops sell trading cards, idol goods, cosplay supplies, and things you didn’t know existed.
 
 If you only have an hour, spend it on these two floors. If you have three hours, you’ll use all of them here and still miss things.
 
+
 ### 4F — Specialty and Niche
 The top floor gets more specialized. You’ll find retro video game shops, musical instruments, idol merchandise deep cuts, and some of the more unusual Mandarake outlets. It’s quieter up here — fewer casual browsers, more serious hunters. Some of the best deals live on this floor because fewer people make it this far up.
+
 
 ## Mandarake: 30+ Stores in One Building
 Mandarake is the heart of Nakano Broadway. The company was **founded here in 1980** and has since expanded into over 30 individual shops within the building, each focused on a specific category. For comparison, their Akihabara location is a single building. Here, they have an entire ecosystem.
@@ -71,6 +80,7 @@ Mandarake is the heart of Nakano Broadway. The company was **founded here in 198
 
 Every Mandarake shop has a showcase wall near the entrance with their most valuable items — rare cells, signed artwork, first editions. You can spend 30 minutes just looking at showcases without buying anything. Staff across all shops are knowledgeable and used to international visitors. Some speak basic English; most are patient enough to work through a transaction with gestures and a calculator.
 
+
 ## Beyond Mandarake: Other Shops Worth Finding
 Mandarake gets all the attention, but the independent shops are what make Nakano Broadway feel like a treasure hunt rather than a retail chain.
 
@@ -80,8 +90,10 @@ Mandarake gets all the attention, but the independent shops are what make Nakano
 
 There are also multiple shops selling **trading cards** — Pokémon, Yu-Gi-Oh!, One Piece Card Game — with rare singles that card shops in Akihabara price higher. Prices here tend to be fair, though the most sought-after cards (vintage holographic Pokémon, tournament-legal Yu-Gi-Oh!) can still run into the tens of thousands of yen.
 
+
 ![Nakano Broadway shopping mall exterior in Tokyo — the four-floor otaku second-hand mecca](/images/articles/nakano-broadway-guide/body-wikimedia-1.webp)
 *Photo: Kentin / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nakano_broadway_tokyo_2015.jpg), CC BY-SA 4.0. Nakano Broadway exterior — the four-floor otaku mecca above Nakano Sun Mall.*
+
 
 ## Daily Chico: The Eight-Flavor Soft Serve Tower
 You will see people walking through Nakano Broadway holding enormous stacks of soft serve ice cream. This comes from **Daily Chico**, the legendary ice cream stand in the basement.
@@ -89,6 +101,7 @@ You will see people walking through Nakano Broadway holding enormous stacks of s
 Their signature item is the **Tokudai Soft Cream** — an eight-flavor tower standing about 40 centimeters tall. Vanilla, chocolate, strawberry, black sesame, pistachio, café au lait, ramune, and yakiimo (sweet potato), stacked one on top of the other. (Note: flavors rotate seasonally, so the lineup may differ when you visit.) It costs **¥1,000** and is absurdly photogenic.
 
 **The tower melts fast.** Tokyo humidity and eight layers of ice cream do not cooperate. Eat it immediately. Do not attempt to carry it upstairs for a photoshoot in front of the Mandarake showcase. (People try. It never ends well.)
+
 
 ## Nakano Broadway vs. Akihabara: Which One Should You Visit?
 Both. But if you’re forced to choose, here’s how to think about it:
@@ -107,6 +120,7 @@ Akihabara is the better choice if you want current-season goods, maid cafes, arc
 
 A common pattern among repeat Tokyo visitors: first trip, Akihabara. Second trip, Nakano Broadway. Third trip, both — plus [Ikebukuro](/articles/ikebukuro-anime-guide-2026/).
 
+
 ## Price Guide: What Things Actually Cost
 Prices vary wildly depending on rarity and condition, but here’s a rough guide so you know what to expect:
 
@@ -121,10 +135,12 @@ Prices vary wildly depending on rarity and condition, but here’s a rough guide
 
 **Tax-free shopping is available.** Mandarake and several other shops in Nakano Broadway offer tax-free purchases for foreign tourists on transactions over ¥5,000. Bring your passport. The 10% consumption tax savings adds up fast when you’re buying figures.
 
+
 ### Ship Your Nakano Broadway Finds Home
 Found rare figures at Mandarake but worried about luggage space? Amazon Japan and CDJapan ship internationally. Check if items are available online before paying full in-store price.
 
 [Check Prices on Amazon Japan](https://www.amazon.co.jp/-/en/?tag=placeholder)
+
 ## Practical Tips for Your Visit
 
 **Go on a weekday afternoon.** Nakano Broadway is busiest on weekends. Weekday afternoons between 13:00 and 16:00 give you the best browsing experience — more room in the narrow corridors, less competition for the good stuff, and staff with more time to help you.
@@ -136,6 +152,7 @@ Found rare figures at Mandarake but worried about luggage space? Amazon Japan an
 **Check Wednesday closures.** Some shops close on Wednesdays. It’s not all of them, but enough that a Wednesday visit means you’ll miss certain stores. If you can, go on a different day.
 
 **Combine with Shinjuku.** Since Nakano is one stop from Shinjuku, a natural itinerary is: morning in Shinjuku (Kabukicho Tower, Godzilla Head, Golden Gai for photos) → afternoon at Nakano Broadway → evening back in Shinjuku for dinner. The Chuo Line makes this effortless.
+
 
 ## FAQ: Frequently Asked Questions
 **Is Nakano Broadway worth visiting for non-collectors?**
@@ -158,6 +175,7 @@ The building has elevators, but the corridors are narrow and some shops are very
 
 Akihabara first, if it’s your first time in Tokyo. It gives you the full anime district experience and a sense of what things cost. Then visit Nakano Broadway knowing what you’re looking for — and what a fair price looks like.
 
+
 ## More Area Guides
 
 - [Tokyo Anime Districts — Complete Guide to Every Pop Culture Neighborhood](/articles/tokyo-anime-district-guide)
@@ -175,12 +193,14 @@ Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)
 
+
 ## Never Miss a Cafe Opening or Anime Event
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.
 
 [Follow on Threads](https://www.threads.net/@pop_now_jp)
 
 Follow for weekly collab cafe updates & Japan pop culture content.
+
 
 ### Explore by Area
 [ Tokyo](/tag/tokyo/)[ Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[ Shibuya](/shibuya-anime-spots-guide/)[ Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[ Osaka](/osaka-anime-guide-2025/) Kyoto (Coming Soon)

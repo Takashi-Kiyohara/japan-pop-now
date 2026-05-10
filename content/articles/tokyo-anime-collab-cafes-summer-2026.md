@@ -32,6 +32,7 @@ Plan your collab cafe day faster:
 - [**Booking Animate Cafe?** Read: Animate Cafe Guide Japan](/articles/animate-cafe-guide-japan)
 - [**Making a full day in Tokyo?** Add: Akihabara Complete Guide 2026](/akihabara-complete-guide/)
 
+
 ## Table of Contents
 
 - [Which Anime Collab Cafes Are Open in Tokyo This Summer?](#whats-open)
@@ -41,7 +42,9 @@ Plan your collab cafe day faster:
 - [Can You Visit Multiple Cafes in One Day?](#multi-cafe)
 - [Frequently Asked Questions](#faq)
 
+
 ## Which Anime Collab Cafes Are Open in Tokyo This Summer?
+
 
 ![Ikebukuro skyline view from Sunshine 60 Observatory — Ikebukuro hosts the densest cluster of summer collab cafe pop-ups across Animate Cafe, My Charaful Cafe and Sunshine City venues](/images/articles/tokyo-anime-collab-cafes-summer-2026/body-wikimedia-1.webp)
 *Photo: Guilhem Vellut / Wikimedia Commons, CC BY 2.0*
@@ -61,12 +64,15 @@ This table is a snapshot as of April 2026. Expect 10-15 additional cafes to be a
 
 The best real-time source for cafe announcements is [collabo-cafe.com](https://collabo-cafe.com/) (Japanese, but browser auto-translate works well). I check it weekly and update this article accordingly.
 
+
 ## Which Cafes Need Reservations and How Do You Book?
+
 
 ![Animate Akihabara storefront in Tokyo, the chain that runs the largest collab cafe reservation system](/images/articles/tokyo-anime-collab-cafes-summer-2026/body-wikimedia-2.webp)
 *Photo: Tofeiku / Wikimedia Commons, CC0*
 
 Each major cafe chain uses a different booking system. Here's how they work for international visitors:
+
 
 ### How to Book Animate Cafe in Tokyo Without a Japanese Phone Number
 Animate operates the largest number of collab cafes in Tokyo, with locations in Ikebukuro (multiple), Hareza Ikebukuro, and occasionally Shinjuku. Their reservation system at reserve.animatecafe.jp uses two methods:
@@ -76,6 +82,7 @@ Animate operates the largest number of collab cafes in Tokyo, with locations in 
 **Seat reservation (空席予約):** Real-time availability booking for remaining seats after the lottery period. First-come-first-served. This is where most overseas visitors end up booking — the lottery is competitive, but open seats appear regularly after the first week.
 
 Registration requires an email address — no Japanese phone number needed. The interface is in Japanese, but the flow is consistent: select date, time slot, number of guests, confirm. Bring your reservation confirmation email and a photo ID (passport works) to check in. For a step-by-step walkthrough, see our [Animate Cafe guide](/articles/animate-cafe-guide-japan).
+
 
 ### Why Collabo Cafe Honpo Is the Easiest Reservation for Overseas Visitors
 Uses TableCheck for reservations — fully English-supported, accepts international credit cards, and is the smoothest booking experience of any collab cafe chain. Check [their TableCheck page](https://www.tablecheck.com/en/shops/collabocafe-honpo-akihabara/reserve) for current events. Reservations open about a week before each collab starts.
@@ -87,14 +94,18 @@ If you want the easiest English-friendly reservation flow, start with Collabo Ca
 - [**Blocked by Lawson Loppi or Japanese checkout?** Read the overseas booking workaround guide](/articles/book-japan-anime-events-overseas-2026)
 - [**Trying to book Animate Cafe?** Use the full step-by-step Animate Cafe guide](/articles/animate-cafe-guide-japan)
 
+
 ### How BOX CAFE Reservations Work If You Need Lawson Loppi
 BOX CAFE runs collab events at multiple Tokyo venues (often in Shinjuku, Omotesando, and department store rooftops). Many BOX CAFE events use Loppi (Lawson's in-store kiosk) for ticket distribution, which means you need to physically visit a Lawson convenience store in Japan to book. For alternatives, see our [overseas booking guide](/articles/book-japan-anime-events-overseas-2026) — proxy booking services can handle Loppi reservations on your behalf.
+
 
 ### Is GiGO Collab Cafe Easier to Book Than Animate Cafe?
 GiGO operates cafes in Ikebukuro and Akihabara. Online booking is available via their event site, and international credit cards are accepted in most cases. Availability tends to be better than Animate Cafe since GiGO venues are often larger.
 
+
 ### When My Charaful Cafe Is Better for Longer-Run Anime Collabs
 A Hakusensha (publisher) brand that runs longer-duration collabs — often 3-6 months per IP, which is unusually long for the collab cafe world. Current locations in Ikebukuro and Awaji-cho. Online booking through their official site. Because these run longer, they're much easier to get into than short-run cafes — walk-in availability is common after the first month.
+
 
 ### Which Tokyo Anime Cafes Are Best for Walk-In Visits?
 Not every collab cafe requires a reservation. Several permanent or semi-permanent anime-themed cafes in Tokyo operate on a walk-in basis:
@@ -103,7 +114,9 @@ Not every collab cafe requires a reservation. Several permanent or semi-permanen
 
 **Gundam Cafe (Akihabara):** Reopened as Gundam Factory Store and Cafe. Walk-in only. Less crowded on weekday afternoons.
 
+
 ## What Are the Best Summer 2026 Cafes?
+
 
 ![Tokyo Solamachi at Tokyo Skytree, a key venue cluster for seasonal collab cafe events](/images/articles/tokyo-anime-collab-cafes-summer-2026/body-wikimedia-3.webp)
 *Photo: Kakidai / Wikimedia Commons, CC BY-SA 3.0*
@@ -116,7 +129,9 @@ Based on past collab quality, IP popularity among international fans, and bookin
 
 **Summer anime premiere cafes (July onward):** When Mushoku Tensei Season III and ONE PIECE HEROINES launch in July, expect collab cafes to follow within 1-2 weeks. These opening-week cafes ride the hype wave and tend to have the most creative menus and freshest merchandise. The trade-off: they'll be the hardest to book during the first week.
 
+
 ## How Much Does a Collab Cafe Visit Typically Cost?
+
 
 ![Akihabara Electric Town arcade and storefronts at night — the Akihabara cluster includes Collabo Cafe Honpo and GiGO collab cafes operating multiple summer 2026 anime tie-ins](/images/articles/tokyo-anime-collab-cafes-summer-2026/body-akihabara-collabocafe.webp)
 *Photo: Basile Morin / Wikimedia Commons, CC BY-SA 4.0*
@@ -136,7 +151,9 @@ Most cafes operate on a time-limited system — you get 70-90 minutes per seatin
 
 The real spending trap is merchandise. Every collab cafe sells exclusive goods — acrylic stands (¥1,100), coasters (¥550), mugs (¥2,200), clear files (¥440) — that are only available during that specific collab run. If your favorite character is featured, budget an extra ¥2,000-5,000 for merch you'll want to take home.
 
+
 ## Can You Visit Multiple Cafes in One Day?
+
 
 ![Hareza Ikebukuro complex in Toshima ward Tokyo — the multi-venue hub housing Animate Cafe Hareza Ikebukuro and other summer collab cafe venues](/images/articles/tokyo-anime-collab-cafes-summer-2026/body-wikimedia-5.webp)
 *Photo: スケトウダラ / Wikimedia Commons, CC BY-SA 4.0*
@@ -162,6 +179,7 @@ After this guide, read one of these next:
 - [**If reservations look difficult:** Book Japan Anime Events from Overseas (2026)](/articles/book-japan-anime-events-overseas-2026)
 - [**If you want more seasonal options:** Tokyo Anime Collab Cafes Spring 2026](/articles/tokyo-anime-collab-cafes-spring-2026)
 - [**If you want to build a wider fan itinerary:** Ikebukuro Anime Guide 2026](/ikebukuro-anime-guide/)
+
 
 ## FAQ: Frequently Asked Questions
 **How far in advance should I book a collab cafe?**
@@ -200,6 +218,7 @@ If collab cafes are only one part of your trip, use the hub below to pick the be
 - [**Comparing Tokyo vs day-trip routes?** Use the area filters and quick route finder](/category/destinations)
 - [**Still undecided?** Start with the FAQ and best-for filters to narrow your plan in one minute](/category/destinations)
 
+
 ## More Collab Cafe & Dining Guides
 
 - [How to Book Anime Collab Cafes in Japan (Step-by-Step)](/articles/how-to-book-anime-collab-cafe-japan)
@@ -215,7 +234,9 @@ Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)
 
+
 ## Never Miss a Cafe Opening or Anime Event
+
 
 ![Never Miss a Cafe Opening or Anime Event — Tokyo Anime Collab Cafes Summer 2026](/images/articles/tokyo-anime-collab-cafes-summer-2026/6.jpg)
 
@@ -224,6 +245,7 @@ Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and 
 [Follow on Threads](https://www.threads.net/@pop_now_jp)
 
 Follow for weekly collab cafe updates & Japan pop culture content.
+
 
 ### Explore by Area
 [ Tokyo](/tag/tokyo/)[ Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[ Shibuya](/shibuya-anime-spots-guide/)[ Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[ Osaka](/osaka-anime-guide-2025/) Kyoto (Coming Soon)

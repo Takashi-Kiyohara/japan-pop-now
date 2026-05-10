@@ -23,6 +23,7 @@ If you’re planning an anime pilgrimage that hops across prefectures, the JR Pa
 
 This guide walks through 2026 JR Pass prices, shows you exactly how much you’ll spend on four specific anime pilgrimage routes, and gives you a framework for deciding whether to buy one or skip it.
 
+
 ## Table of Contents
 
 - [JR Pass 2026: Current Prices and Types](#jr-pass-2026)
@@ -35,6 +36,7 @@ This guide walks through 2026 JR Pass prices, shows you exactly how much you’l
 - [Tips for Getting the Most Out of Your JR Pass](#maximize-pass)
 
 The Shinkansen with Mount Fuji in the background — the JR Pass opens up cross-country anime pilgrimages
+
 
 ## JR Pass 2026: Current Prices and Types
 The JR Pass pricing structure in 2026 remains unchanged from 2025. These prices apply to foreign tourists only (you need to show a temporary visitor stamp in your passport). If you’re a resident or on a work visa, you can’t buy these.
@@ -59,6 +61,7 @@ The nationwide pass covers all JR trains (including the Shinkansen), the JR Hokk
 | Kyushu | Southern island network | 8,500 yen (3-day) | Kumamoto, Fukuoka, Kagoshima |
 
 One important note: JR regional passes rarely stack up. You can’t combine a Kanto Pass and a Kyushu Pass to save money on a Tokyo-to-Kumamoto trip. It’s either a nationwide pass or individual tickets.
+
 
 ## Do You Actually Need a JR Pass?
 Here’s the math that matters. Let’s say you’re doing a straightforward Tokyo day trip to Kamakura (which takes about 1 hour on the Yokosuka Line). A round-trip from Tokyo Station costs about 580 yen on a Suica card. A 7-day JR Pass costs 50,000 yen. You’d need to spend more than 50,000 yen on JR trains in 7 days to break even.
@@ -115,8 +118,10 @@ One note: visitor reports comparing Kumamoto trips run in 2024 against trips in 
 
 A Japan Rail station platform — understanding the network is key to planning pilgrimage routes
 
+
 ![Shinkansen N700 series bullet train pulling into Hakata Station Sanyo Shinkansen platform](/images/articles/jr-pass-anime-pilgrimage-routes-2026/body-wikimedia-1.webp)
 *A Shinkansen N700 entering Hakata Station — the Tokyo–Hakata Sanyo Shinkansen run is exactly the kind of long-haul leg that makes a JR Pass pay off. Photo: ERIC SALARD / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Shinkansen_N700_at_Hakata_Station.jpg), CC BY-SA 2.0.*
+
 
 ## Anime Pilgrimage Route 4: Tokyo → Chichibu → Kawagoe (Anohana + Aqours)
 Anohana’s pilgrimage site is Chichibu (Saitama Prefecture), about 60 kilometers north of Tokyo. Aqours, the Love Live Sunshine group, has activities and locations in Numazu (about 150 kilometers southwest), but there’s also Kawagoe (30 kilometers west of Tokyo) which offers period architecture similar to Edo-era settings that appeal to anime fans generally.
@@ -150,11 +155,14 @@ Tokyo internal transit: 1,500 yen.
 
 This route doesn’t work for a JR Pass because the distances are short (you’re staying within Tokyo’s metro orbit) and the private Chichibu Railway doesn’t honor the pass. If you’re only hitting Anohana sites in Chichibu, just buy tickets. If you were adding Numazu (Aqours), that would be a different story, pushing the route toward a 14-day pass consideration, but even then you’d need to calculate carefully.
 
+
 ![Two physical Japan Rail Pass cards on a table beside a Japan railway map and a tea cup, the kind anime fans receive after exchanging their voucher](/images/articles/jr-pass-anime-pilgrimage-routes-2026/body-wikimedia-2.webp)
 *Two physical Japan Rail Pass cards next to a railway map — what your exchange voucher turns into at the JR ticket office. Photo: Emile Donzel / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Japan_Rail_Pass.jpg), CC BY-SA 4.0.*
 
+
 ## How to Buy a JR Pass in 2026
 There are two pathways to getting a JR Pass: exchange voucher (purchased before arrival) and direct purchase at Japanese JR offices.
+
 
 ![Kyoto Station main hall — major JR Pass exchange location for anime pilgrimages heading to Kansai](/images/articles/jr-pass-anime-pilgrimage-routes-2026/body-wikimedia-4.webp)
 *Kyoto Station's main hall — the central JR Kyoto Travel Service Center inside is the standard voucher-to-pass exchange point for anime pilgrimages routing through Kansai. Photo: Michael Coghlan / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kyoto_Station_Hall_(53415470255).jpg), CC BY-SA 2.0.*
@@ -175,6 +183,7 @@ You need to:
 3. Exchange the voucher at a JR office (locations at every major train station; process takes about 15 minutes)
 4. Choose your activation date (your pass doesn’t start until you activate it, so you can buy before arrival and activate after sightseeing locally)
 
+
 ![Tokyo Station Marunouchi-side red-brick facade — primary JR Pass exchange location for international visitors](/images/articles/jr-pass-anime-pilgrimage-routes-2026/body-wikimedia-3.webp)
 *Tokyo Station's Marunouchi-side red-brick building — the JR East Travel Service Center inside is the most common voucher-to-pass exchange location for international visitors arriving in Tokyo. Photo: Zairon / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Marunouchi_%26_Tokyo_Station_1.jpg), CC BY-SA 4.0.*
 
@@ -193,6 +202,7 @@ If you arrive without a voucher, you can buy directly at JR offices. Prices are 
 **Important Timing Consideration:**
 
 The pass covers an unlimited number of days once activated, but you pay per consecutive days. If you buy a 7-day pass, you must use it across 7 consecutive calendar days. You can’t activate it Monday, skip Tuesday, and continue Wednesday — once you start using it, the 7-day clock runs continuously. This matters for planning. If you’re in Japan for 10 days but only want to use the pass for days 3-9, you’d buy the 7-day voucher and activate it on day 3.
+
 
 ## Tips for Getting the Most Out of Your JR Pass
 **Seat Reservations Are Free With a JR Pass:**
@@ -219,6 +229,7 @@ Once you own a JR Pass, you’ve already paid. If you’re between Kyoto and Osa
 
 Get a Suica (JR’s rechargeable card, sold at any JR station for 2,050 yen with 1,500 yen value) or Pasmo card (equivalent from Tokyo Metro) for the urban metro systems and non-JR lines. The JR Pass doesn’t cover these, and they’re essential for Tokyo, Kyoto, and Osaka navigation. Load your card with 10,000 yen when you arrive; you’ll use it daily.
 
+
 ## More Practical Guides
 
 If you found this useful, check out these related articles:
@@ -239,6 +250,7 @@ Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)
 
+
 ## Never Miss a Cafe Opening or Anime Event
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.
 
@@ -246,20 +258,25 @@ Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and 
 
 Follow for weekly collab cafe updates & Japan pop culture content.
 
+
 ### Explore by Area
 [ Tokyo](/tag/tokyo/)[ Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[ Shibuya](/shibuya-anime-spots-guide/)[ Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[ Osaka](/osaka-anime-guide-2025/) Kyoto (Coming Soon)
 
 
 
+
 ## FAQ: Frequently Asked Questions
+
 
 ### Which anime pilgrimage routes make a JR Pass pay off?
 
 Tokyo → Kumamoto (One Piece statues), Tokyo → Kyoto → Osaka (multiple cafes), and Tokyo → Chichibu → Tokyo day trips in a single week. A 7-day pass saves 15,000–25,000 yen on these itineraries.
 
+
 ### Do Enoden and other scenic anime lines accept the JR Pass?
 
 No. Enoden (Slam Dunk), Odakyu Romancecar (Chichibu), and Keio lines need separate day passes. Factor in an extra 2,000–3,000 yen per day for these.
+
 
 ### Is the Regional Pass cheaper than the nationwide JR Pass?
 

@@ -21,6 +21,7 @@ Wonder Festival 2026 Summer takes place July 26 at Makuhari Messe in Chiba — a
 
 If you collect anime figures or have any interest in the craftsmanship behind them, Wonder Festival is the single best event in Japan for you. This guide covers tickets, what to expect, buying strategies, how to get your purchases home, and other figure events worth knowing about.
 
+
 ## Table of Contents
 
 - [What Is Wonder Festival and When Is It?](#what-is-wonfes)
@@ -31,8 +32,10 @@ If you collect anime figures or have any interest in the craftsmanship behind th
 - [What Other Figure Events Happen in Japan?](#other-events)
 - [Frequently Asked Questions](#faq)
 
+
 ![Makuhari Messe North Hall exterior — the venue that hosts Wonder Festival twice a year](/images/articles/wonder-festival-figure-events-japan-2026/body-wikimedia-1.webp)
 *Makuhari Messe North Hall in Chiba — the WonFes venue, a 30-minute train ride from Tokyo Station via the JR Keiyo Line. Photo: Wikimedia Commons (CC BY-SA)*
+
 
 ## What Is Wonder Festival and When Is It?
 
@@ -52,8 +55,10 @@ The event has two halves. **The dealer hall** is where individual artists and sm
 
 WonFes 2026 Summer features two special exhibitions: the Hiroshi Yokoyama Exhibition 2026 (centered on Maschinen Krieger — the first exhibition since 2016) and Imaginary Creatures WonderFes, a showcase of original monster and yokai-themed works.
 
+
 ![View of Makuhari Messe approach from Messe-Ohashi Bridge — typical access route for WonFes attendees](/images/articles/wonder-festival-figure-events-japan-2026/body-wikimedia-2.webp)
 *Makuhari Messe approach from Messe-Ohashi Bridge — most attendees walk this elevated pedestrian route from Kaihin-Makuhari Station. Photo: Wikimedia Commons (CC BY-SA)*
+
 
 ## How Do You Get Tickets as an International Visitor?
 
@@ -71,6 +76,7 @@ System fees add about ¥220 per ticket. Buy advance tickets if possible — the 
 
 For international visitors who arrive in Japan before the event: walk into any Lawson, use the Loppi kiosk, and search for “ワンダーフェスティバル” (or use the L-code if announced). Our [Loppi guide](/lawson-ticket-loppi-guide/) walks through the machine step by step. If you can’t access Loppi, our [overseas booking guide](/articles/book-japan-anime-events-overseas-2026) covers proxy purchase options.
 
+
 ## What’s the Best Strategy for Buying at WonderFes?
 
 WonFes operates differently from a normal shopping experience. Here’s what works:
@@ -85,8 +91,10 @@ WonFes operates differently from a normal shopping experience. Here’s what wor
 
 **Bring a bag and packing materials.** Garage kits are fragile resin pieces. Bring a sturdy bag, bubble wrap, and newspaper or towels to cushion your purchases for the train ride home. Some dealers provide basic packaging, but most hand you a bare kit in a plastic bag.
 
+
 ![Good Smile Company corporate booth display with Nendoroid figures at a major exhibition](/images/articles/wonder-festival-figure-events-japan-2026/body-wikimedia-3.webp)
 *Good Smile Company corporate booth display — the same manufacturer runs a flagship booth at WonFes with prototype Nendoroids and event-limited figures. Photo: Wikimedia Commons (CC BY-SA)*
+
 
 ## How Do You Ship Figures Home?
 Getting your WonFes haul back to your home country takes some planning. Here are your options:
@@ -99,6 +107,7 @@ Getting your WonFes haul back to your home country takes some planning. Here are
 
 **Proxy shipping services:** If you’re buying items through proxy services after the event (see next section), companies like ZenMarket, Japan Rabbit, and Buyee handle international shipping as part of their service. They’ll consolidate multiple purchases into one package.
 
+
 ## Can You Buy WonderFes Items After the Event?
 
 Most amateur garage kits are produced in tiny quantities and sell out at the event. However, some options exist after the fact:
@@ -109,8 +118,10 @@ Most amateur garage kits are produced in tiny quantities and sell out at the eve
 
 **Corporate exclusives:** Event-limited figures from major manufacturers occasionally get wider releases months later, but this isn’t guaranteed. If you see something you want at a corporate booth, buy it there.
 
+
 ![Good Smile Company Nendoroid Number 1000 Celebration banner at the manufacturer booth](/images/articles/wonder-festival-figure-events-japan-2026/body-wikimedia-4.webp)
 *Good Smile Company's Nendoroid 1000 milestone celebration — the kind of corporate-zone display you'll see at WonFes alongside prototype reveals from Max Factory and Kotobukiya. Photo: Wikimedia Commons (CC BY-SA)*
+
 
 ## What Other Figure Events Happen in Japan?
 
@@ -121,6 +132,7 @@ WonFes is the biggest, but not the only figure event worth knowing about:
 **AnimeJapan:** Annual trade show and fan event at Tokyo Big Sight, typically late March. Major studios and manufacturers show upcoming releases. More accessible and less chaotic than Comiket — closer to a professional expo. Admission ~¥2,600.
 
 **Treasure Festa:** A garage kit event similar to WonFes but smaller, held several times a year at various venues. Less crowded, more relaxed atmosphere. Good alternative if you can’t make WonFes dates.
+
 
 ## FAQ: Frequently Asked Questions
 **Do I need to speak Japanese to navigate WonFes?**
@@ -147,6 +159,7 @@ Yes, and it’s a smart move if you’re planning to spend heavily. Small rollin
 
 A garage kit is an unassembled, unpainted resin casting that you build and paint yourself (or commission someone to paint). A finished figure (PVC, ABS) comes fully painted and assembled out of the box. WonFes sells both — amateur dealers focus on garage kits, corporate booths sell finished figures. Garage kits are cheaper to buy (¥3,000-15,000) but require hobby skills to complete.
 
+
 ## More Event & Shopping Guides
 
 - [AnimeJapan & Comiket Guide 2026](/animejapan-comiket-guide/)
@@ -162,12 +175,14 @@ Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)
 
+
 ## Never Miss a Cafe Opening or Anime Event
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.
 
 [Follow on Threads](https://www.threads.net/@pop_now_jp)
 
 Follow for weekly collab cafe updates & Japan pop culture content.
+
 
 ### Explore by Area
 [ Tokyo](/tag/tokyo/)[ Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[ Shibuya](/shibuya-anime-spots-guide/)[ Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[ Osaka](/osaka-anime-guide-2025/) Kyoto (Coming Soon)

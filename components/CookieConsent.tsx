@@ -1,42 +1,53 @@
 'use client';
 
-import { useState, useEffect } from 'react';
+import { useEffect, useState } from 'react';
 
+/**
+ * SSR-rendered cookie consent banner.
+ *
+ * The banner DOM is in the initial server-rendered HTML so AdSense reviewers
+ * (and Googlebot) see the consent UI without waiting for client JS. Post-hydration
+ * the JS reads the cookie and either keeps the banner visible (default) or hides
+ * it (if the user already accepted/declined). Default is "visible" so anyone
+ * without prior consent gets the banner.
+ *
+ * Hydration safety: server renders `data-state="initial"` and visible CSS;
+ * client effect updates to `accepted`/`declined`/`pending` to suppress hydration
+ * mismatch warnings while still hiding the DOM when consent exists.
+ */
 export default function CookieConsent() {
-  const [visible, setVisible] = useState(false);
+  const [state, setState] = useState<'initial' | 'pending' | 'accepted' | 'declined'>('initial');
 
   useEffect(() => {
-    // Check if user already consented
+    if (typeof document === 'undefined') return;
     const consent = document.cookie.includes('jpn_cookie_consent=true');
-    if (!consent) {
-      // Show after 1s delay so it doesn't block initial paint
-      const timer = setTimeout(() => setVisible(true), 1000);
-      return () => clearTimeout(timer);
-    }
+    const declined = document.cookie.includes('jpn_cookie_consent=false');
+    if (consent) setState('accepted');
+    else if (declined) setState('declined');
+    else setState('pending');
   }, []);
 
   const accept = () => {
-    // Set cookie for 1 year
     document.cookie = 'jpn_cookie_consent=true; max-age=31536000; path=/; SameSite=Lax; Secure';
-    setVisible(false);
+    setState('accepted');
   };
 
   const decline = () => {
     document.cookie = 'jpn_cookie_consent=false; max-age=31536000; path=/; SameSite=Lax; Secure';
-    // Disable GA if user declines
     if (typeof window !== 'undefined') {
       // eslint-disable-next-line @typescript-eslint/no-explicit-any
       (window as any)['ga-disable-' + process.env.NEXT_PUBLIC_GA_ID] = true;
     }
-    setVisible(false);
+    setState('declined');
   };
 
-  if (!visible) return null;
+  const hidden = state === 'accepted' || state === 'declined';
 
   return (
     <div
       role="dialog"
       aria-label="Cookie consent"
+      data-consent-state={state}
       style={{
         position: 'fixed',
         bottom: 0,
@@ -46,20 +57,20 @@ export default function CookieConsent() {
         background: '#14213d',
         borderTop: '2px solid #f97316',
         padding: '16px 20px',
-        display: 'flex',
+        display: hidden ? 'none' : 'flex',
         flexWrap: 'wrap',
         alignItems: 'center',
         justifyContent: 'center',
         gap: '12px',
         fontSize: '0.85rem',
-        color: 'rgba(255,255,255,0.8)',
+        color: 'rgba(255,255,255,0.85)',
         boxShadow: '0 -4px 20px rgba(0,0,0,0.15)',
-        transform: visible ? 'translateY(0)' : 'translateY(100%)',
         transition: 'transform 0.3s ease-out',
       }}
     >
       <p style={{ maxWidth: '600px', margin: 0, lineHeight: 1.5 }}>
-        We use cookies for analytics and to improve your experience. By clicking &quot;Accept&quot;, you consent to our use of cookies.{' '}
+        We use cookies for analytics and advertising personalization. By clicking
+        &quot;Accept&quot;, you consent to our use of cookies.{' '}
         <a href="/privacy" style={{ color: '#fb923c', textDecoration: 'underline' }}>
           Privacy Policy
         </a>
@@ -67,6 +78,7 @@ export default function CookieConsent() {
       <div style={{ display: 'flex', gap: '8px' }}>
         <button
           onClick={accept}
+          aria-label="Accept cookies"
           style={{
             background: '#f97316',
             color: '#fff',
@@ -82,10 +94,11 @@ export default function CookieConsent() {
         </button>
         <button
           onClick={decline}
+          aria-label="Decline cookies"
           style={{
             background: 'transparent',
-            color: 'rgba(255,255,255,0.6)',
-            border: '1px solid rgba(255,255,255,0.2)',
+            color: 'rgba(255,255,255,0.7)',
+            border: '1px solid rgba(255,255,255,0.3)',
             padding: '8px 16px',
             borderRadius: '6px',
             fontSize: '0.85rem',

@@ -21,6 +21,7 @@ The core issue: Japan’s event ticketing ecosystem was built for domestic resid
 
 This guide breaks down every booking method by accessibility level, walks you through the self-service options first, and covers proxy booking services for everything else — including LocaTabi-style marketplaces and hotel concierge fallback for Loppi reservations.
 
+
 ## Table of Contents
 
 - [Which Japan Anime Events Can You Book from Overseas?](#which-events-can-you-book)
@@ -31,7 +32,9 @@ This guide breaks down every booking method by accessibility level, walks you th
 - [How Much Do Proxy Booking Services Cost?](#costs)
 - [Frequently Asked Questions](#faq)
 
+
 ## Which Japan Anime Events Can You Book from Overseas?
+
 
 ![Tokyo Big Sight convention center at night, the venue for Comiket and many anime events you can book from overseas](/images/articles/book-japan-anime-events-overseas-2026/body-wikimedia-1.webp)
 *Photo: Masato Ohta / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tokyo_Big_Sight_at_Night.jpg), CC BY 2.0.*
@@ -49,6 +52,7 @@ Japan’s major anime events fall into three tiers based on how easy they are to
 
 The good news: about 40% of anime events now offer some form of online booking that works with international cards. That number has been growing since 2024, partly because venue operators noticed the surge in overseas visitors (anime pilgrimage tourism grew from 4.6% to 8.5% of all inbound tourists between 2019 and 2023, according to [Japan Tourism Agency inbound tourism data](https://www.mlit.go.jp/kankocho/tokei_hakusho/index.html)). The bad news: the most popular, limited-seat events — the ones that sell out fastest — tend to use the hardest-to-access booking systems.
 
+
 ## Which Events Need a Japanese Address or Phone Number?
 
 Here’s where it gets frustrating. These platforms require something most overseas visitors don’t have:
@@ -61,10 +65,13 @@ Here’s where it gets frustrating. These platforms require something most overs
 
 The pattern: the more exclusive and limited the event, the more likely it uses a Japan-only booking system. Regular collab cafes with 50+ seats per session are usually bookable online. Limited 20-seat events with exclusive merchandise? Almost always Loppi or lottery.
 
+
 ## How Do You Book Each Type of Event? (Step-by-Step)
+
 
 ![Tokyo Big Sight inverted-pyramid conference tower exterior at the Ariake anime event venue](/images/articles/book-japan-anime-events-overseas-2026/body-wikimedia-2.webp)
 *Photo: Lombroso / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tokyo_Big_Sight_Inc.,_at_Ariake,_Koto,_Tokyo_(2018-08-09)_01.jpg), CC BY-SA 4.0.*
+
 
 ### Theme Parks (PokePark Kanto, Ghibli Park, USJ)
 These are the easiest. All three major anime-adjacent theme parks now have English booking options:
@@ -75,6 +82,7 @@ These are the easiest. All three major anime-adjacent theme parks now have Engli
 
 **USJ (Universal Studios Japan)**: Book directly at usj.co.jp (English available) or through [Klook](https://affiliate.klook.com/redirect?aid=117469&aff_adid=1251547&k_site=https%3A%2F%2Fwww.klook.com%2F) for occasional bundle deals. Standard 1-day pass is ¥8,600-¥10,400 (~$58-$71) depending on the date.
 
+
 ### Collab Cafes with Online Booking
 Many cafe operators now use web-based reservation systems. Here’s how to spot the ones you can book yourself:
 
@@ -84,15 +92,19 @@ Many cafe operators now use web-based reservation systems. Here’s how to spot 
 
 **GiGO Collab Cafe**: Online booking available via their event site. International cards accepted in most cases. FAQ available in English at cafe.gge-collabo.com.
 
+
 ### Lawson Ticket Online (ローチケ)
 This is the middle ground — technically possible from overseas, but hit-or-miss. The online version of Lawson Ticket (l-tike.com) accepts some international credit cards. Per visitor reports on r/JapanTravel, the typical success rates run about 70% Mastercard, 50% Visa, with American Express rarely working. If your card gets rejected, try a different card before giving up. Registration requires an email and phone number — international mobile numbers are accepted for the account, but not for SMS verification on lottery events.
 
 For a complete walkthrough of the Lawson Ticket system, see our [Lawson Ticket & Loppi Guide](/lawson-ticket-loppi-guide/).
 
+
 ### Loppi-Only and Lottery Events
 For events that can only be booked through Loppi machines or Japanese phone verification, you have two options: ask a friend in Japan, or use a proxy booking service. If you don’t know anyone in Japan, keep reading — the next two sections cover your options.
 
+
 ## What Are the Best Booking Proxy Services?
+
 
 ![Tokyo Big Sight entrance hall interior where anime event ticketing and registration takes place](/images/articles/book-japan-anime-events-overseas-2026/body-wikimedia-3.webp)
 *Photo: ja:User:take-y / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tokyo_Big_Sight_Entrance_Hall_Inside.jpg), CC BY-SA 3.0.*
@@ -111,6 +123,7 @@ The major proxy booking services available to overseas anime fans compare like t
 
 **Budget option: DIY with hotel concierge** — If you’re already booked at a full-service hotel in Japan, ask the concierge to help with Loppi reservations after you arrive. This works for events that aren’t sold out yet, but doesn’t help with lottery reservations or events that sell out before your arrival date.
 
+
 ## How Does ShingoTravel’s Anime Booking Service Work?
 
 ShingoTravel is a Tokyo-based anime tour and booking service run by Shingo, who’s been organizing anime fan experiences in Tokyo since 2023. Japan Pop Now partners with ShingoTravel for overseas booking referrals — here’s how the process works:
@@ -123,6 +136,7 @@ ShingoTravel is a Tokyo-based anime tour and booking service run by Shingo, who�
 Service fees typically range from ¥1,500-3,000 (~$10-20) per reservation, depending on complexity. Lottery events (where success isn’t guaranteed) are charged only on successful entry. ShingoTravel also offers anime walking tours in Tokyo and Akihabara if you want a guided experience.
 
 **Can’t book from overseas?** Use a Tokyo-based proxy booking service like [LocaTabi (Govoyagin)](https://www.govoyagin.com/) or arrange Loppi reservations through your hotel concierge after arrival. They handle Japanese-language bookings on your behalf for a service fee. Contact them at least 2 weeks before your event for the best chance of securing a reservation.
+
 
 ## How Much Do Proxy Booking Services Cost?
 
@@ -138,6 +152,7 @@ Here’s what you’ll typically pay for proxy booking, broken down by event typ
 Is it worth the fee? For events you can book yourself (theme parks with English sites, TableCheck cafes), obviously not — save your money and do it directly. But for a Loppi-only collab cafe you’ve been dreaming about? Paying ¥1,500 (~$10) to guarantee your seat is a small price compared to flying to Japan and finding out the cafe is fully booked.
 
 The real calculation: consider the proxy fee against the cost of your entire trip. If you’re spending ¥200,000+ (~$1,360) on flights and hotels, an extra ¥3,000 (~$20) to lock in the experiences you actually came for is a rounding error.
+
 
 ## FAQ: Frequently Asked Questions
 **Can I use a VPN to access Japanese-only booking sites?**
@@ -168,6 +183,7 @@ Use established services with reviews and a track record. ShingoTravel operates 
 
 Yes — if you’re already in Japan, walk into any Lawson or Ministop and use the Loppi machine directly. Our [Lawson Ticket & Loppi Guide](/lawson-ticket-loppi-guide/) has the step-by-step with photos. The machine interface is in Japanese only, but the flow is consistent across events.
 
+
 ## More Booking & Planning Guides
 
 - [How to Book Anime Collab Cafes in Japan (Step-by-Step)](/articles/how-to-book-anime-collab-cafe-japan)
@@ -183,6 +199,7 @@ Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)
 
+
 ## Never Miss a Cafe Opening or Anime Event
 
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.
@@ -190,6 +207,7 @@ Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and 
 [Follow on Threads](https://www.threads.net/@pop_now_jp)
 
 Follow for weekly collab cafe updates & Japan pop culture content.
+
 
 ### Explore by Area
 [ Tokyo](/tag/tokyo/)[ Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[ Shibuya](/shibuya-anime-spots-guide/)[ Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[ Osaka](/osaka-anime-guide-2025/) Kyoto (Coming Soon)

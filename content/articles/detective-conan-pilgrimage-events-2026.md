@@ -23,6 +23,7 @@ Detective Conan is running more events in 2026 than any other anime IP in Japan 
 
 Conan also has one of the deepest pilgrimage networks of any anime: real-world locations in Tokyo, Yokohama (the new movie’s setting), Osaka, and Tottori Prefecture (creator Gosho Aoyama’s hometown, complete with a renamed “Conan Station” and a full Conan-themed town). This guide covers every current event, the key pilgrimage locations, and how to plan an efficient Conan-focused itinerary across Japan.
 
+
 ## Table of Contents
 
 - [What Conan Events Are Happening in 2026?](#events-2026)
@@ -33,7 +34,9 @@ Conan also has one of the deepest pilgrimage networks of any anime: real-world l
 - [What About USJ’s Detective Conan World in Osaka?](#usj)
 - [Frequently Asked Questions](#faq)
 
+
 ## What Conan Events Are Happening in 2026?
+
 
 ![Yura Conan Station JR Sanin Main Line in Hokuei Tottori — Detective Conan creator hometown stop](/images/articles/detective-conan-pilgrimage-events-2026/body-wikimedia-1.webp)
 
@@ -48,10 +51,13 @@ Here’s everything running or confirmed as of April 2026:
 | **USJ Detective Conan World** | Osaka | Jan 30 – Jun 30 | Park admission + attraction fees |
 | **Gosho Aoyama Museum (special exhibit)** | Tottori | Ongoing | ~¥1,000 (~$7) |
 
+
 ![Yokohama Minato Mirai 21 waterfront — setting of Detective Conan 29th movie Highway’s Fallen Angel](/images/articles/detective-conan-pilgrimage-events-2026/body-wikimedia-5.webp)
+
 
 ### The 29th Movie: Highway’s Fallen Angel (ハイウェイの堕天使)
 Opening April 10, the 29th Conan theatrical film features Hagiwara Chihaya — nicknamed the “Wind Goddess” — in her big-screen debut. The setting is Yokohama Minato Mirai, built around a motorcycle festival that turns into a high-speed chase through the city. See the [official film site at conan-movie.jp](https://www.conan-movie.jp/) for theater listings, ticket presales, and key visuals. For pilgrimage fans, this means Yokohama gets a fresh batch of Conan-related real-world locations to visit. The movie’s Yokohama connections overlap with existing attractions like the Cup Noodles Museum and Cosmo Clock 21 Ferris wheel — all within the Minato Mirai waterfront area.
+
 
 ### 30th Anniversary TV Anime Exhibition
 The biggest Conan event of 2026. This touring exhibition covers the entire production process — from manga to animation to theme songs — with famous scene recreations, production materials, and a special screening theater. The Tokyo run at Tokyo Dome City Prism Hall ended in March, but the tour continues:
@@ -69,7 +75,9 @@ The biggest Conan event of 2026. This touring exhibition covers the entire produ
 
 Tickets are available through [Lawson Ticket (l-tike.com)](https://l-tike.com/) and [Seven Ticket (7ticket.jp)](https://7ticket.jp/). The Osaka run (Jul 11 – Aug 16) overlaps with peak summer travel season and could be combined with USJ if the Conan World event gets extended.
 
+
 ## Where Are the Best Conan Pilgrimage Spots in Tokyo?
+
 
 ![Tokyo Tower at night — appears as Toto Tower in Detective Conan series](/images/articles/detective-conan-pilgrimage-events-2026/body-wikimedia-3.webp)
 
@@ -83,7 +91,9 @@ Detective Conan is set in the fictional Beika City (米花町), but the Tokyo la
 
 **Sunshine City, Ikebukuro:** Currently hosting the 8th Conan collaboration event — titled "Detective Conan: The Sky City Soaring Through Heaven" — through June 7, 2026, with a Restaurant Fair running April 8–June 7 per the [official Sunshine City event page](https://sunshinecity.jp/). The observation deck "Tenbo Park" at the top of Sunshine 60 and the Sunshine Aquarium are both participating venues. Mystery-solving rally events run in two phases with different storylines. A Detective Conan Plaza pop-up store sells exclusive merchandise on the observation deck floor. A dedicated event microsite at [conan-sunshinecity.com](https://conan-sunshinecity.com/) carries the full attraction map.
 
+
 ## How Do You Get Tickets for the Sunshine City Conan Event?
+
 
 ![Sunshine City Ikebukuro Tokyo — venue for the 8th Detective Conan collaboration event 2026](/images/articles/detective-conan-pilgrimage-events-2026/body-wikimedia-2.webp)
 
@@ -99,6 +109,7 @@ No advance reservation is needed for the general event. The observation deck and
 
 Getting there: Sunshine City is a 10-minute walk from Ikebukuro Station’s east exit, or directly connected via underground passage from Higashi-Ikebukuro Station on the Yurakucho Line.
 
+
 ## Is the Conan Cafe Worth It?
 
 The 2026 Conan Cafe theme is "Harbor Town Retro" (港町レトロ) — a retro-modern Western restaurant aesthetic with custom character illustrations in vintage outfits. It's running at 8 venues across 6 cities, with Tokyo locations in Shibuya (from April 10) and Ikebukuro (from April 17). The full venue and reservation lineup, including the Shibuya, Osaka HEP FIVE, Solamachi, Aichi, and Kanagawa runs, is published on the [official conan-cafe.jp 2026 site](https://conan-cafe.jp/).
@@ -108,6 +119,7 @@ The Conan Cafe consistently produces some of the highest-quality collab cafe foo
 Prices run ¥990 for drinks, ¥1,200-1,990 for food items, and ¥1,100-2,200 for merchandise items. A typical visit (one food item + one drink + one merch piece) totals around ¥3,500 (~$24).
 
 For Tokyo visitors, the Ikebukuro cafe location is strategically smart — you can combine it with the Sunshine City Conan event (10-minute walk) for a full Conan half-day. Reservations are through the [official cafe site at conan-cafe.jp](https://conan-cafe.jp/). The Ikebukuro Phase 2 run (May 20 – August 2) will be easier to book than Phase 1, which overlaps with movie release hype.
+
 
 ## How Do You Visit Conan Town in Tottori?
 
@@ -128,7 +140,9 @@ The honest assessment: Conan Town is a pilgrimage destination for dedicated fans
 
 If you’re making the trip, combine it with Tottori Sand Dunes (Japan’s largest sand dunes, about 1 hour from Conan Town) to fill a full day. The [JR Pass](/articles/japan-rail-pass-2026-guide) covers all train legs, which significantly reduces the cost — the Tokyo-Tottori round trip alone is worth ¥34,000+ without a pass.
 
+
 ## What About USJ’s Detective Conan World in Osaka?
+
 
 ![Universal Studios Japan main entrance Osaka — venue for Detective Conan World Universal Cool Japan 2026](/images/articles/detective-conan-pilgrimage-events-2026/body-wikimedia-4.webp)
 
@@ -141,6 +155,7 @@ Universal Studios Japan runs Detective Conan World as part of its annual Univers
 **Detective Conan x Story Ride** — A themed ride featuring Conan, the Detective Boys, and Heiji Hattori in a runaway self-driving car scenario. Less cerebral than The Escape, more adrenaline-focused.
 
 USJ park admission starts at ¥8,600 (~$59) for a 1-day pass, with date-based pricing going up to ¥10,400 (~$71) on peak days. The Conan attractions require additional Express Passes or separate tickets. Book through [Klook](https://affiliate.klook.com/redirect?aid=117469&aff_adid=1251547&k_site=https%3A%2F%2Fwww.klook.com%2F) for occasional bundle deals, or directly via [the official USJ site at usj.co.jp](https://www.usj.co.jp/web/en/us). The 2026 Cool Japan event also features Jujutsu Kaisen, Frieren, and Monster Hunter — you can combine multiple IPs in one park visit.
+
 
 ## FAQ: Frequently Asked Questions
 **What’s the best single Conan event if I can only visit one?**
@@ -167,6 +182,7 @@ Phase 1 (opening weeks) sells out quickly due to movie premiere excitement. Phas
 
 Osaka native Heiji Hattori is a recurring character, and several cases are set in the Osaka area. The Conan Cafe also has an Osaka location. For a dedicated Osaka anime trip, combine USJ Conan World, the [Osaka collab cafe scene](/articles/osaka-anime-cafes-complete-guide-2026), and the [Den Den Town shopping district](/articles/osaka-anime-guide-den-den-town).
 
+
 ## More Pilgrimage & Event Guides
 
 - [10 Anime Pilgrimage Spots in Tokyo (2026)](/articles/anime-pilgrimage-spots-tokyo)
@@ -182,12 +198,14 @@ Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)
 
+
 ## Never Miss a Cafe Opening or Anime Event
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.
 
 [Follow on Threads](https://www.threads.net/@pop_now_jp)
 
 Follow for weekly collab cafe updates & Japan pop culture content.
+
 
 ### Explore by Area
 [ Tokyo](/tag/tokyo/)[ Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[ Shibuya](/shibuya-anime-spots-guide/)[ Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[ Osaka](/osaka-anime-guide-2025/) Kyoto (Coming Soon)

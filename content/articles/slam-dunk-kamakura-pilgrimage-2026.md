@@ -31,6 +31,7 @@ Plan your Kamakura pilgrimage faster:
 - [**Using local trains?** Read: Japan IC Card Transit Guide](/articles/japan-ic-card-transit-guide)
 - [**Want another anime day trip?** Read: 7 Anime Day Trips from Tokyo](/articles/anime-day-trips-from-tokyo-2026)
 
+
 ## Table of Contents
 
 - [Where Is the Famous Slam Dunk Train Crossing?](#famous-crossing)
@@ -41,7 +42,9 @@ Plan your Kamakura pilgrimage faster:
 - [What Should You Know About Etiquette and Local Rules?](#etiquette)
 - [Frequently Asked Questions](#faq)
 
+
 ## Where Is the Famous Slam Dunk Train Crossing?
+
 
 ![Tourists photographing the Enoden 305 train at Kamakurakokomae No.1 Railroad Crossing — the famous Slam Dunk pilgrimage spot in Kamakura](/images/articles/slam-dunk-kamakura-pilgrimage-2026/1.jpg)
 *Photo: Yuya Tamai / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Level_crossing_near_the_Kamakura-K%C5%8Dk%C5%8D-Mae_Station_01.jpg), CC BY 2.0.*
@@ -62,29 +65,38 @@ The scene from the opening: the crossing gates lower, an Enoden train passes fro
 
 For the best recreation of that shot, position yourself on the ocean side of the crossing (south side of the tracks) and wait for the Enoden to pass. The train comes every 12 minutes, so you won't wait long. Late afternoon light — around 4:00-5:00 PM — gives you the warm golden tones closest to the anime's color palette.
 
+
 ## What Other Slam Dunk Locations Can You Visit in Kamakura?
+
 
 ![Shichirigahama beach with Enoshima island in the distance — the Shonan coast featured in Slam Dunk's Enoden line scenes](/images/articles/slam-dunk-kamakura-pilgrimage-2026/2.webp)
 
 The crossing gets all the attention, but there are several other Slam Dunk-connected spots along the Enoden line and Shonan coast:
 
+
 ### Can You Visit Kamakura High School From the Slam Dunk Crossing?
 The Kanagawa Prefectural Kamakura High School sits on the hillside directly above the famous crossing. It served as the visual model for Ryonan High School (陵南高校) in the manga — not Shohoku, as many visitors assume. (Shohoku's model is actually Musashino Kita High School in Tokyo.) You can see the school building from the crossing area, but it's an active school campus — do not enter the grounds or disturb students. Photographing the exterior from the public road is fine.
+
 
 ### Why Shichirigahama Is the Best Extra Stop on a Slam Dunk Day Trip
 One station west of Kamakurakokomae on the Enoden line. The long beach and ocean views here appear in multiple manga panels, particularly Rukawa Kaede's cycling scenes along the coastal road. The stretch between Kamakurakokomae and Shichirigahama is one of the most scenic sections of the Enoden line — the train runs almost directly along the shoreline.
 
+
 ### Is Kugenuma Beach Worth Adding to Your Slam Dunk Pilgrimage?
 Further along the coast toward Fujisawa, this beach area is the backdrop for the Sakuragi and Rukawa reunion scene. It's accessible from Kugenuma-Kaigan Station on the Odakyu Enoshima line (not the Enoden). If you're extending your pilgrimage south, it adds about 30 minutes to the trip.
+
 
 ### Should You Add Enoshima After the Famous Slam Dunk Crossing?
 While not a specific Slam Dunk location, Enoshima island is visible from the famous crossing and appears in the background of numerous manga panels. Most visitors combine the Slam Dunk pilgrimage with a walk across the bridge to Enoshima — it's a natural extension of the coastal route and adds 1-2 hours to your day.
 
+
 ## How Do You Get to Kamakura from Tokyo?
+
 
 ![Enoden 1251 train at Kamakura Station — the private railway connecting JR Kamakura to Kamakura-Koko-Mae and the Slam Dunk crossing](/images/articles/slam-dunk-kamakura-pilgrimage-2026/3.webp)
 
 Two main routes, both straightforward:
+
 
 ### Fastest Route From Tokyo to Kamakurakokomae via the JR Yokosuka Line
 
@@ -102,12 +114,15 @@ Most readers get stuck deciding whether this trip is a JR-pass day, a simple IC-
 
 No transfers needed from Tokyo Station — the Yokosuka Line runs direct to Kamakura. At Kamakura Station, exit and follow signs to the Enoden platforms (it's a separate station building adjacent to JR). Board any Enoden train heading toward Fujisawa and get off at Kamakurakokomae, five stops later.
 
+
 ### Best Direct Route From Shinjuku to Kamakura for Slam Dunk Fans
 If you're coming from Shinjuku, Shibuya, or Ikebukuro, the Shonan-Shinjuku Line runs direct to Kamakura without needing to go via Tokyo Station. From Shinjuku, the ride takes about 60 minutes and costs ¥950. Same transfer to Enoden at Kamakura Station.
 
 Both routes are covered by the [Japan Rail Pass](/articles/japan-rail-pass-2026-guide) for the JR portion. The Enoden is a private railway, so JR Pass doesn't cover it — use your [IC card](/articles/japan-ic-card-transit-guide) (Suica/PASMO) or buy the Enoden Day Pass (のりおりくん) for ¥800 at Kamakura or Fujisawa Station. The day pass pays for itself if you make four or more Enoden trips.
 
+
 ## What's the Best Half-Day Pilgrimage Route?
+
 
 ![Enoden train arriving at Hase Station, Kamakura — a key stop on the Slam Dunk pilgrimage route to Kotoku-in](/images/articles/slam-dunk-kamakura-pilgrimage-2026/4.webp)
 
@@ -129,7 +144,9 @@ Here's my recommended 3-4 hour route that covers the key spots without backtrack
 
 **15:00-15:30 — Head back to Tokyo** from Kamakura Station (JR Yokosuka Line).
 
+
 ## Is the Crossing Still Crowded in 2026?
+
 
 ![Is the Crossing Still Crowded in 2026? — Slam Dunk Kamakura Pilgrimage 2026](/images/articles/slam-dunk-kamakura-pilgrimage-2026/5.jpg)
 
@@ -145,7 +162,9 @@ The result: the experience is significantly better than 2023-2024. You can still
 
 **Weekends and holidays:** Still busy. 30-100+ visitors at peak hours (11:00-15:00). The staff management system keeps it orderly, but expect to share the space. Go early morning (before 9:00 AM) or late afternoon (after 16:00) for the best experience.
 
+
 ## What Should You Know About Etiquette and Local Rules?
+
 
 ![What Should You Know About Etiquette and Local Rules? — Slam Dunk Kamakura Pilgrimage 2026](/images/articles/slam-dunk-kamakura-pilgrimage-2026/6.jpg)
 
@@ -181,6 +200,7 @@ If Slam Dunk is your first stop, use the hub below to compare Tokyo city routes,
 - [**Comparing Kamakura with Tokyo routes?** Use the quick filters to see which guide fits a half-day better](/category/destinations)
 - [**Planning a bigger anime itinerary?** Use the hub FAQ and series list to stack your next stop](/category/destinations)
 
+
 ## FAQ: Frequently Asked Questions
 **Is the Slam Dunk crossing free to visit?**
 
@@ -214,6 +234,7 @@ The crossing itself is in a quiet residential area without restaurants. Walk 10 
 
 Kamakura makes a perfect anime day trip from Tokyo. See our [Complete Guide to Anime Day Trips from Tokyo](/articles/anime-day-trips-from-tokyo-2026) for more destinations including Nikko, Hakone, and Enoshima.
 
+
 ## More Pilgrimage Guides
 
 - [10 Anime Pilgrimage Spots in Tokyo (2026)](/articles/anime-pilgrimage-spots-tokyo)
@@ -229,7 +250,9 @@ Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)
 
+
 ## Never Miss a Cafe Opening or Anime Event
+
 
 ![Never Miss a Cafe Opening or Anime Event — Slam Dunk Kamakura Pilgrimage 2026](/images/articles/slam-dunk-kamakura-pilgrimage-2026/7.jpg)
 
@@ -238,6 +261,7 @@ Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and 
 [Follow on Threads](https://www.threads.net/@pop_now_jp)
 
 Follow for weekly collab cafe updates & Japan pop culture content.
+
 
 ### Explore by Area
 [ Tokyo](/tag/tokyo/)[ Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[ Shibuya](/shibuya-anime-spots-guide/)[ Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[ Osaka](/osaka-anime-guide-2025/) Kyoto (Coming Soon)

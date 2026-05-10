@@ -23,13 +23,16 @@ relatedSlugs:
 ---
 
 
+
 ![First-time anime fan arriving in Tokyo with luggage, IC card and eSIM ready](/images/articles/first-timers-japan-playbook-anime-fans-2026/featured.jpg)
 
 Most first-time anime tourists lose their first 24 hours in Japan to the same four mistakes: no IC card, no SIM, a suitcase they are dragging through Shibuya, and a pocket full of yen they did not actually need. The ones who recover fast all share the same boring preparation the week before they fly — IC card sorted in advance, eSIM installed, suitcase forwarded from the airport, and a small cash buffer pulled from the right ATM on arrival.
 
 This playbook captures the practices that first-time Tokyo visitors most commonly say they would have wanted at hand on day one. It covers the three hours after you land, the seven things to book before you fly, the nine cash-only situations you will actually hit, and the unspoken rules that get foreigners side-eyed on the Yamanote Line. Everything here has been verified across the last 90 days of operator pages and visitor reports, with prices and procedures current as of April 2026.
 
+
 <strong>The First-Timer's Japan Playbook is a single-session arrival and etiquette guide for international anime fans on their first trip to Japan, covering airport transit, IC card and eSIM setup, cash logistics, and cultural rules for Tokyo, Osaka, and Kyoto as of 2026.</strong>
+
 
 ## Table of Contents
 
@@ -43,6 +46,7 @@ This playbook captures the practices that first-time Tokyo visitors most commonl
 - [Practical Info Quick Reference](#practical-info)
 - [Frequently Asked Questions](#faq)
 - [More Travel Tips Guides](#more-guides)
+
 
 ## The 3-Hour Arrival Plan (Narita / Haneda)
 
@@ -59,7 +63,9 @@ Here is the exact order I give friends landing at either airport:
 
 **Why the order matters:** if you grab the IC card first, you will be on the train before your SIM is active, which means no Google Maps. Always get SIM and cash before you move.
 
+
 ![Shinkansen bullet train pulling into a Tokyo platform — the first full Japan Rail experience most anime fans have after landing](/images/articles/first-timers-japan-playbook-anime-fans-2026/body1.jpg)
+
 
 ## What to Book Before You Fly
 
@@ -75,6 +81,7 @@ Here is the seven-item booking list I send friends two to four weeks before they
 - **Theme park tickets.** Tokyo Disney, USJ (for Universal Cool Japan), Ghibli Park — all sell out the popular dates. Ghibli Park in particular releases a month out at 2 PM JST.
 - **Travel insurance.** Japanese healthcare is excellent but not free for tourists. A bad ankle sprain at a pilgrimage spot can cost 30,000 to 80,000 yen out of pocket. See our [Japan travel insurance guide](/articles/japan-travel-insurance-2026).
 
+
 ## What to Grab at the Airport
 
 There are exactly three things worth spending time on at the airport: cash, SIM, and IC card. Everything else — souvenirs, rail passes you did not pre-buy, breakfast — will be cheaper or better in the city.
@@ -86,6 +93,7 @@ There are exactly three things worth spending time on at the airport: cash, SIM,
 **Do grab a printed station map if you are not confident with digital.** The JR East Travel Service Center at Narita hands out free English route maps that are easier to skim than the app during your first three days.
 
 **Do pick up luggage straps or locks if you forgot them.** The 100-yen equivalent shops inside Narita Terminal 1 and 2 sell travel accessories for around 330 yen each.
+
 
 ## Cash in 2026: Where You Still Need It
 
@@ -112,7 +120,9 @@ The biggest lie told about Japan online is that it is suddenly a cashless countr
 
 **My rule of thumb:** carry 10,000 yen in cash at all times, mostly in 1,000-yen notes and 100-yen coins. Refill at a konbini ATM before you run out.
 
+
 ![Japanese yen banknotes and coins fanned out on a konbini counter — cash is still king at small shrines and old-school shops](/images/articles/first-timers-japan-playbook-anime-fans-2026/body2.jpg)
+
 
 ## The Anime Fan's Pre-Trip Checklist
 
@@ -133,6 +143,7 @@ I keep this as a single list because it is exactly what I paste to every friend 
 
 If you are planning to do figure shopping or cosplay buying, see our [anime trip checklist for fans](/articles/japan-trip-checklist-anime-fans-2026) for the specific customs rules on bringing merchandise home.
 
+
 ## The Unspoken Rules Nobody Tells You
 
 These are the small cultural rules that most Tokyo locals will forgive you for breaking once, but notice every time. Getting them right makes you feel instantly comfortable.
@@ -149,6 +160,7 @@ These are the small cultural rules that most Tokyo locals will forgive you for b
 
 **Near pilgrimage spots.** This matters most for anime fans. Many *seichi junrei* (聖地巡礼) locations are residential neighborhoods or working shrines. Keep your voice down, do not block driveways, and never knock on real houses that appear in anime.
 
+
 ## Why Japanese People Love This Quiet Way of Living
 
 Most visitors describe their first trip to Japan as a sensory overload followed by a strange feeling of calm. The contrast is real. Tokyo has 37 million people in the greater metro area — the largest in the world — and yet rush-hour trains are nearly silent and convenience stores are spotless at 3 AM.
@@ -159,9 +171,12 @@ Part of it is aesthetic. Japanese pop culture — anime, manga, J-pop, gaming �
 
 That is why I think the first Japan trip hits anime fans harder than any other kind of tourism. The background art of your favorite show is real, the vending machines are real, the train announcements are real, and you already know what they sound like. You do not feel like a tourist. You feel like someone who finally got to walk onto a set.
 
+
 ![Quiet Tokyo residential alley at dusk with soft streetlamps — the slice-of-life aesthetic anime fans recognize instantly](/images/articles/first-timers-japan-playbook-anime-fans-2026/body3.jpg)
 
+
 ## Practical Info Quick Reference
+
 
 <div class="jpn-info-box">
 
@@ -179,6 +194,7 @@ That is why I think the first Japan trip hits anime fans harder than any other k
 | Language help | Google Translate camera mode works well for menus |
 
 </div>
+
 
 ## FAQ: Frequently Asked Questions
 
@@ -202,6 +218,7 @@ Yes, Tokyo is one of the safest major cities in the world for solo travelers inc
 
 Late July through mid-August (peak summer) is brutal — 35 degrees Celsius, humid, and long queues at every major pilgrimage spot. Golden Week (late April to early May) and New Year are also painful due to domestic travel congestion. The best first-timer windows are late March, mid-October, and early November.
 
+
 ## More Travel Tips Guides
 
 - [IC Card and Transit Guide](/articles/japan-ic-card-transit-guide) — which card to buy and how to tap through Tokyo like a local.
@@ -210,5 +227,6 @@ Late July through mid-August (peak summer) is brutal — 35 degrees Celsius, hum
 - [Anime Trip Checklist](/articles/japan-trip-checklist-anime-fans-2026) — customs rules, packing, merch space.
 - [Akihabara Complete Guide](/articles/akihabara-complete-guide-2026) — your first day's anime walking route.
 - [Tokyo Anime Districts](/articles/tokyo-anime-district-guide) — where to go after Akihabara.
+
 
 <div class="jpn-cta"><p><strong>Follow <a href="https://www.threads.net/@pop_now_jp" rel="nofollow" target="_blank">@pop_now_jp on Threads</a></strong> for daily Tokyo pop culture updates and first-timer tips.</p></div>

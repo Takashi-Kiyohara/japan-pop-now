@@ -21,6 +21,7 @@ The six destinations below are organized by travel time from central Tokyo, with
 
 Across years of bullet-train + JR Pass usage patterns, the day-trip envelope from Tokyo extends comfortably out to about three hours one-way before the math stops working — within that envelope, [Kyoto's anime scene](/articles/kyoto-anime-guide-2026) sits at the upper edge (2h15m by Shinkansen) and is treated as a separate guide rather than included below. The six destinations here are the under-2-hour subset. The full [Experiences silo](/category/experiences) collects related single-spot day-trip write-ups alongside the JR Pass / eSIM / IC card practical guides each of these trips needs.
 
+
 ## Table of Contents
 
 - [Which Anime Day Trips from Tokyo Are Worth It?](#overview)
@@ -34,7 +35,9 @@ Across years of bullet-train + JR Pass usage patterns, the day-trip envelope fro
 - [Nikko: Demon Slayer Connections](#nikko)
 - [Frequently Asked Questions](#faq)
 
+
 ## Which Anime Day Trips from Tokyo Are Worth It?
+
 
 ![The Great Buddha of Kamakura Kotoku-in temple, a key stop on the Kamakura Slam Dunk pilgrimage day trip from Tokyo](/images/articles/anime-day-trips-from-tokyo-2026/body-wikimedia-2.webp)
 *The Great Buddha (Daibutsu) at Kotoku-in in Kamakura — one of the highlights of the easiest anime day trip from Tokyo, paired with the Slam Dunk crossing on the Enoden line. Photo: Suicasmo / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kamakura_Daibutsu_20170210.jpg), CC BY-SA 4.0.*
@@ -52,6 +55,7 @@ Each destination offers something different. Here’s the quick comparison:
 
 If you can only pick one: Kamakura for the most efficient trip (closest, cheapest, iconic photo), Hakone for the most well-rounded day out (onsen + anime + nature), or Nikko for the most culturally rich experience (UNESCO World Heritage site with anime connections).
 
+
 ## How Do You Get to Each Location?
 
 | Destination | Route | Time | One-Way Cost |
@@ -64,6 +68,7 @@ If you can only pick one: Kamakura for the most efficient trip (closest, cheapes
 | **Nikko** | JR Shinkansen + Nikko Line via Utsunomiya | 120 min | ¥2,700-5,480 |
 
 All routes accept IC cards (Suica/PASMO). See our [IC card guide](/articles/japan-ic-card-transit-guide) for setup instructions.
+
 
 ## Does a JR Pass Cover These Day Trips?
 This is where the [Japan Rail Pass](/articles/japan-rail-pass-2026-guide) math gets interesting. Here’s the coverage breakdown:
@@ -79,6 +84,7 @@ This is where the [Japan Rail Pass](/articles/japan-rail-pass-2026-guide) math g
 
 The JR Pass gives the best value on Oarai and Nikko — both are fully JR routes. For Kamakura, it covers the expensive JR leg but not the cheap Enoden hop. For Hakone and Chichibu, the JR Pass barely helps because the main routes use private railways. Consider the Hakone Free Pass (¥6,100 from Shinjuku, covers all Hakone transport for 2 days) as an alternative.
 
+
 ## Kamakura: Slam Dunk Pilgrimage Route
 
 The closest and easiest anime day trip from Tokyo. The Kamakurakokomae No.1 Railroad Crossing — Slam Dunk’s most famous scene — is 55 minutes from Tokyo Station plus a 7-minute Enoden ride. You’ll see the exact ocean-and-rail composition from the anime’s opening credits, with Enoden trains passing every 12 minutes.
@@ -89,10 +95,12 @@ The closest and easiest anime day trip from Tokyo. The Kamakurakokomae No.1 Rail
 
 Read the full guide: [Slam Dunk Kamakura Pilgrimage 2026](/articles/kamakura-slam-dunk-pilgrimage-2026)
 
+
 ## Hakone: Evangelion Third Tokyo-3
 Hakone is the real-world model for NERV’s fortress city in Evangelion — and the town has embraced it completely. The Hakone Yumoto eva-ya store near the station has been running for 13+ years, selling exclusive Evangelion merchandise with a Japanese-craft aesthetic (traditional woodwork, fabric goods, ceramics with Eva designs). It’s one of the longest-running anime collaboration shops in Japan.
 
 **What to do:** Eva-ya shop at Hakone Yumoto (30 min) → Hakone Ropeway over volcanic valleys (45 min) → Lake Ashi pirate ship cruise (30 min) → onsen hot spring soak (60-90 min). The landscape — volcanic mountains, misty lake, dense forest — legitimately feels like the anime’s setting, especially on overcast days.
+
 
 ![Pirate-themed sightseeing cruise on Lake Ashi in Hakone, the volcanic-lake landscape that inspired Evangelion's Tokyo-3 setting](/images/articles/anime-day-trips-from-tokyo-2026/body-wikimedia-1.webp)
 *A pirate-themed cruise crosses Lake Ashi in Hakone — one of the day-trip stops that gives Evangelion fans the same volcanic-mountain atmosphere seen in the anime. Photo: Joli Rumi / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Pirate-themed_sightseeing_Cruise_at_Lake_Ashi,_Hakone,_Japan.jpg), CC BY-SA 4.0.*
@@ -102,6 +110,7 @@ Hakone is the real-world model for NERV’s fortress city in Evangelion — and 
 **Cost:** Transport ¥5,000 round trip + Hakone Free Pass activities + onsen ¥800-1,500 = ~¥7,000-8,000 for a full day.
 
 **Tip:** The Hakone Free Pass (¥6,100 from Shinjuku, 2-day validity) covers the Romance Car, all Hakone buses, ropeway, cable car, and the Lake Ashi cruise. If you’re doing more than just the Eva shop, the pass pays for itself immediately.
+
 
 ## Chichibu: Anohana Pilgrimage
 
@@ -115,8 +124,10 @@ Hakone is the real-world model for NERV’s fortress city in Evangelion — and 
 
 **Best for:** Fans of the series will find the pilgrimage deeply moving — the town embraced the anime warmly and the locations are beautifully maintained. Casual visitors might find it quiet — Chichibu is a genuine countryside town, not a theme park. That’s part of the appeal if you want a break from Tokyo’s intensity.
 
+
 ![Chichibu Bridge (Chichibubashi) — the iconic Anohana pilgrimage location overlooking the Arakawa River valley, about 80 minutes from Ikebukuro by Seibu Express](/images/articles/anime-day-trips-from-tokyo-2026/body-wikimedia-5.webp)
 *Chichibu Bridge (秩父橋) — the most recognized scene location from "Anohana: The Flower We Saw That Day," reachable by local bus from Seibu-Chichibu Station. Photo: I_LOVE_WIKI / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Anohana_chichibubashi.jpg), CC BY-SA 3.0.*
+
 
 ## Kawaguchiko: Yuru Camp Lakeside
 
@@ -130,8 +141,10 @@ The Yuru Camp (*Yuru Camp*, ゆるキャン△) anime is set around the Fuji Fiv
 
 **Important:** Mt. Fuji visibility is weather-dependent. Clear mornings (especially in winter and early spring) offer the best views. Summer afternoons are frequently cloudy. Check the webcam at fujisan-net.jp before committing to the trip.
 
+
 ![Mt. Fuji viewed across Lake Kawaguchi from the Fujikawaguchiko township shoreline, the lakeside used in Yuru Camp scenes](/images/articles/anime-day-trips-from-tokyo-2026/body-wikimedia-4.webp)
 *Mt. Fuji and Lake Kawaguchi — the most accessible Fuji Five Lakes location, paired with multiple Yuru Camp scene references in and around the basin. Photo: Suicasmo / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mount_Fuji_from_Lake_Kawaguchi_20170206.jpg), CC BY-SA 4.0.*
+
 
 ## Oarai: Girls und Panzer Town
 Oarai might be the most successful anime-town collaboration in Japan. Over 60 shops in the town’s shopping district display Girls und Panzer character panels, the local shrine (Oarai Isomaki Shrine) hosts anime-themed *ema* prayer boards, and annual GuP events draw 30,000-155,000 fans. The town didn’t just tolerate the anime connection — they built their entire tourism strategy around it.
@@ -144,8 +157,10 @@ Oarai might be the most successful anime-town collaboration in Japan. Over 60 sh
 
 **Events to know:** The Ankou Festival (あんこう祭, mid-November) is the biggest GuP event of the year — 155,000 visitors in 2025. If you’re in Japan in November, it’s worth planning around. The Kairaku Festival (海楽フェスタ, late March) draws about 30,000.
 
+
 ![Oarai Isosaki Shrine entrance gate — the seaside Ibaraki shrine that hosts Girls und Panzer ema prayer boards from fans nationwide](/images/articles/anime-day-trips-from-tokyo-2026/body-wikimedia-6.webp)
 *Oarai Isosaki Shrine — the seaside shrine that gathers Girls und Panzer fan ema (絵馬) and acts as the spiritual hub of the GuP collaboration day trip from Tokyo. Photo: Σ64 / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Oarai_Isosaki_Shrine_03.jpg), CC BY 3.0.*
+
 
 ## Nikko: Demon Slayer Connections
 
@@ -161,8 +176,10 @@ Nikko Toshogu Shrine — a UNESCO World Heritage site — has visual connections
 
 Nikko is the trip where the JR Pass makes the most dramatic difference. Without the pass, it’s the most expensive day trip on this list. With the pass, it’s the cheapest (transport is free).
 
+
 ![Yomeimon Gate at Nikko Toshogu Shrine — a UNESCO World Heritage carved facade often compared to scenes from Demon Slayer's mountain spirit world](/images/articles/anime-day-trips-from-tokyo-2026/body-wikimedia-3.webp)
 *The Yomeimon Gate (陽明門) at Nikko Toshogu — the elaborate carved facade and mountain setting that Demon Slayer fans often compare to the anime's Ubuyashiki estate and forested training grounds. Photo: Jpatokal / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nikko_Toshogu_Yomeimon_Gate_2024.jpg), CC BY-SA 4.0.*
+
 
 ## FAQ: Frequently Asked Questions
 **Which day trip is best for someone who isn’t a big anime fan?**
@@ -189,6 +206,7 @@ No advance booking needed for any of these destinations — just show up at the 
 
 Kamakura (beach + train ride) and Hakone (pirate ship + ropeway) are the most family-friendly. Chichibu and Oarai involve more walking. Nikko’s shrine grounds have many stairs. Kawaguchiko is ideal for older kids who enjoy nature and camping culture.
 
+
 ## More Area & Travel Guides
 
 - [Slam Dunk Kamakura Pilgrimage 2026](/articles/kamakura-slam-dunk-pilgrimage-2026)
@@ -207,12 +225,14 @@ Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)
 
+
 ## Never Miss a Cafe Opening or Anime Event
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.
 
 [Follow on Threads](https://www.threads.net/@pop_now_jp)
 
 Follow for weekly collab cafe updates & Japan pop culture content.
+
 
 ### Explore by Area
 [ Tokyo](/tag/tokyo/)[ Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[ Shibuya](/shibuya-anime-spots-guide/)[ Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[ Osaka](/osaka-anime-guide-2025/) Kyoto (Coming Soon)
