@@ -296,6 +296,10 @@ const nextConfig: NextConfig = {
     // Conan cafe cannibalization (2026-05-06): general 2026 guide superseded by
     // the venue-specific 3venue article. Source mdx noindex+canonical+redirect_to.
     { source: '/articles/detective-conan-cafe-2026-japan-guide', destination: '/articles/detective-conan-cafe-tokyo-osaka-3venue-2026', permanent: true },
+    // Slam Dunk Kamakura slug normalization (2026-05-10): old slam-dunk-kamakura-
+    // pre-dated the cleaner kamakura-slam-dunk- ordering. Old slug already noindex
+    // + canonical at the mdx level; this redirect collapses the URL hop at edge.
+    { source: '/articles/slam-dunk-kamakura-pilgrimage-2026', destination: '/articles/kamakura-slam-dunk-pilgrimage-2026', permanent: true },
 
     // Generic trailing-slash strip — REPLACES the framework's internal
     // /:path+/ priority rule that's removed by skipTrailingSlashRedirect.
