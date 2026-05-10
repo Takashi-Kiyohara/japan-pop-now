@@ -112,7 +112,7 @@ Our guide, Maria (Brazilian, living in Tokyo for 6 years), took us to a ramen sh
 
 **Cons:** The pace is faster than pure shopping tours, so you’ll have less time to actually examine merchandise. Not ideal if shopping is your main goal. One food stop (takoyaki stall) was in a small arcade—cramped and rushed.
 
-**Book on:** [Klook](https://www.klook.com) or [GetYourGuide](https://www.getyourguide.com)
+**Book on:** [Klook](https://www.klook.com?aff_adid=1251547) or [GetYourGuide](https://www.getyourguide.com)
 
 
 ### Should You Skip the Tour and Go Alone?
@@ -200,7 +200,7 @@ This works if you’re anime-curious rather than anime-focused, or if you’re b
 
 **Cons:** Shallow experience. Rushed between locations. Less time for actual contemplation at each site. If you have a favorite anime, you’ll wish for more detail about it.
 
-**Book on:** [Klook](https://www.klook.com), [Viator](https://www.viator.com), or [GetYourGuide](https://www.getyourguide.com)
+**Book on:** [Klook](https://www.klook.com?aff_adid=1251547), [Viator](https://www.viator.com), or [GetYourGuide](https://www.getyourguide.com)
 
 
 ![Sunshine City atrium in Ikebukuro with multi-storey shops and fountain — a typical Tokyo anime tour mall stop](/images/articles/best-anime-tours-tokyo-2026/body-wikimedia-2.webp)
@@ -234,7 +234,7 @@ Our guide explained why certain neighborhoods cluster around specific food types
 
 **Cons:** Limited shopping time means you’ll still need to return to Akihabara separately if you want to buy things. The ramen shop gets crowded, so there’s a risk of tight seating. One guide we had was knowledgeable about anime but less knowledgeable about food—felt unbalanced.
 
-**Book on:** [Klook](https://www.klook.com) or [GetYourGuide](https://www.getyourguide.com)
+**Book on:** [Klook](https://www.klook.com?aff_adid=1251547) or [GetYourGuide](https://www.getyourguide.com)
 
 
 ### Harajuku Vintage + Anime Subculture (4 hours)
@@ -258,7 +258,7 @@ The Meiji Shrine visit wasn’t anime-related, but it broke up the commercial fo
 
 **Cons:** Harajuku is inherently packed, so “tour” is relative—you’re still navigating crowds. Vintage shops have limited inventory, so you might not find what you’re looking for. One stop (the lunch restaurant) was mediocre—seemed chosen more for logistics than quality.
 
-**Book on:** [Klook](https://www.klook.com) or [Viator](https://www.viator.com)
+**Book on:** [Klook](https://www.klook.com?aff_adid=1251547) or [Viator](https://www.viator.com)
 
 
 ## Best Cosplay & Manga Workshop Experiences
@@ -286,7 +286,7 @@ The real value: Keisuke explained the manga publishing industry, why certain sty
 
 **Cons:** You need basic drawing ability to enjoy this (if you’ve never drawn, it’s frustrating). The 2.5-hour window is tight for actual skill development—this is observation and practice, not mastery. Materials quality is good but not professional-grade (pro manga artists spend JPY 5,000+ on individual pens).
 
-**Book on:** [Klook](https://www.klook.com) or [Viator](https://www.viator.com)
+**Book on:** [Klook](https://www.klook.com?aff_adid=1251547) or [Viator](https://www.viator.com)
 
 
 ### Cosplay Photography + Styling Session (3 hours)
