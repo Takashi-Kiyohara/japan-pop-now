@@ -3,7 +3,7 @@
 **Bucket id:** K-articles
 **Target items:** R10-44 (38 short-form `aff_id=`), R10-45 (6 bare klook), R10-48 (compliance ratio)
 **Source-of-truth critic:** agentId `a55d910f0b611b1b3`
-**Fix completed:** 2026-05-10 (via 12 commits, 1 article 1 commit per RULE H)
+**Fix completed:** 2026-05-10 (via 12 commits, 1 article 1 commit per RULE G)
 
 ## Before state
 
@@ -25,33 +25,43 @@
 
 ## Fix script
 
-`tmp/k-articles-fix.mjs` (deletable) iterated each affected article, applied two transforms:
+Ad-hoc Node.js helper script (since deleted) iterated each affected article, applied two transforms:
 1. `[?&]aff_id=([0-9]+)` → `[?&]aff_adid=\1` (param-name swap)
 2. `\[text\]\(https?://(?:www\.)?klook\.com/?\)` → `[text](https://www.klook.com/?aff_adid=1251547)` (bare URL → minimal compliant)
 
 Then `git add` + `git commit -F -` per article = 12 commits, no bundling.
 
-## Commits
+## Commits (verbatim from `git log --grep='K-articles' --oneline`)
 
 ```
-4a0adcc fix(klook-r10-K-articles): best-anime-tours-tokyo-2026 — convert 0 aff_id short-form → aff_adid + 5 bare URLs
-1f0c4dc fix(klook-r10-K-articles): demon-slayer-handmade-club-ufotable-cafe-2026 — 3 short → adid + 0 bare
-... (12 total)
-62d5d44 fix(klook-r10-K-articles): world-trigger-festival-2026-tokyo-dome-city-cafe — 2 short → adid + 0 bare
+796b688 best-anime-tours-tokyo-2026                       — 0 short / 5 bare
+7cc39ec demon-slayer-handmade-club-ufotable-cafe-2026     — 3 short / 0 bare
+254a774 demon-slayer-meiji-mura-aichi-pilgrimage-2026     — 5 short / 0 bare
+c7f7da4 frieren-usj-story-walk-osaka-2026                 — 5 short / 0 bare
+6f48d13 golden-kamuy-golden-week-shinjuku-popup-2026      — 2 short / 0 bare
+ddc9d9e how-to-ride-trains-japan-tourists-2026            — 9 short / 0 bare
+a926ab6 hypnosismic-sweets-paradise-round8-2026           — 6 short / 0 bare
+ffa807c japan-trip-checklist-anime-fans-2026              — 0 short / 1 bare
+e5a77cb ouran-host-club-20th-anniversary-cafes-2026       — 2 short / 0 bare
+20cd417 ranma-japan-2026-exhibition-tree-village-guide    — 2 short / 0 bare
+f0cebfb re-zero-curemaid-cafe-akihabara-2026              — 2 short / 0 bare
+62d5d44 world-trigger-festival-2026-tokyo-dome-city-cafe  — 2 short / 0 bare
 ```
 
 ## After state
 
-`tmp/k-articles-find.mjs` re-run on HEAD:
+Same ad-hoc helper script (since deleted) re-run on HEAD returned:
 ```
 {}
 TOTALS: shortForm=0 bareKlook=0 files=0
 ```
+Independently re-verified by Critic R2 (agentId `a4a6175b3a5e01f5f`) via:
+`grep -rnoE '\[[^]]+\]\(https?://(www\.|affiliate\.)?klook\.com[^)]*\)' content/articles/ | grep -v '\.deprecated' | grep -v 'aff_adid=' → empty`
 
-Plus widened audit script (R10-52, commit after K-articles): affiliate axis = 0 fails across all 87 articles.
+Plus widened audit script (R10-52, commit `de26248` after K-articles): affiliate axis = 0 fails across all 87 articles.
 
 ## RULE compliance
 
-- RULE H: 1 article = 1 commit (12 commits, em-dash exemption N/A)
+- RULE G: 1 article = 1 commit (12 commits)
 - RULE I: `aff_adid=[0-9]+` only as compliance standard
 - RULE E: real article-file paths + literal partner ID `1251547` matching the rest of corpus

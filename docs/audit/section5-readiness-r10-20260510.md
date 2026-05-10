@@ -59,11 +59,11 @@
 | theme-color meta | YES (R9-L6) | `app/layout.tsx` Viewport |
 | **Klook gate CI workflow** | **YES (R10-12)** | `.github/workflows/klook-gate.yml` |
 | **Audit script affiliate regex includes www.klook.com + flags aff_id=** | **YES (R10-52)** | `scripts/audit/full-corpus-audit.ts:309-323` |
-| CI/CD Pipeline green on HEAD | TBD post-R10-K-gate workflow first run | `gh run list` after deploy |
-| Independent Critic GREEN | Phase 0 enumeration PASS=35 / FAIL=18 → 16 P0/P1 closed in R10 batches; R1/R2/R3 verify rounds pending | (this session) |
+| CI/CD Pipeline green on HEAD | YES — 4/5 core workflows green on HEAD `ca5da45` (CI/CD ✓, security ✓, Klook Compliance Gate ✓, CWV PageSpeed Daily ✓; Visual QA Screenshots in_progress at R2 verification time) | `gh run list --limit 5` |
+| Independent Critic GREEN | Phase 0 enumeration PASS=35 / FAIL=18 → 16 P0/P1 closed in R10 batches; Critic R1 (a8e4f5ce24ef2bdc1) RED → fixed; Critic R2 (a4a6175b3a5e01f5f) GREEN-with-doc-hygiene; Critic R3 pending | (this session, RULE C compliant) |
 | **GSC indexed URLs ≥ 5** | **TBD — needs `mcp__gsc__index_inspect`** | external (Takapon) |
 | **GA4 organic ≥ 1/day × 7 days** | **TBD** | external (Takapon) |
-| **`cwv-daily` workflow green** | FAILING on push events (R10-13, P2 workflow-internal — guard-job pattern issue) | `gh run list --workflow=cwv-daily.yml` |
+| **`cwv-pagespeed` workflow green** | YES — guard-only step on push, registered name "CWV PageSpeed Daily" (rename from `cwv-daily.yml` forced fresh registration after parse-failure fallback per Critic R1 a8e4f5ce24ef2bdc1 + Critic R2 a4a6175b3a5e01f5f verified) | `gh run list --workflow=cwv-pagespeed.yml` (latest dbid `25623225418` success) |
 | **Giscus widget loads** | DEFERRED user-approved (R10-25) — needs Vercel env var | `docs/proposed-deferrals-20260510.md` |
 
 ## AdSense pass-probability — explicitly editorial, not measured
