@@ -17,6 +17,8 @@ const COMPANY_LINKS = [
   { href: '/contact', label: 'Contact' },
   { href: '/support', label: 'Support Us' },
   { href: '/privacy', label: 'Privacy Policy' },
+  { href: '/terms', label: 'Terms of Service' },
+  { href: '/dmca', label: 'DMCA' },
   { href: '/affiliate-disclosure', label: 'Affiliate Disclosure' },
 ];
 
