@@ -19,12 +19,22 @@ export interface AffiliateProduct {
   inlineCopy?: string;
 }
 
-const KLOOK_AFF_ID = process.env.NEXT_PUBLIC_KLOOK_AFF_ID || '';
+// R10 K-source fix (2026-05-10): klook attribution param MUST be `aff_adid=`
+// (Klook's canonical "additional ad ID" parameter), not the short `aff_id=`.
+// Article-level markdown links across the corpus use `aff_adid=1251547`; this
+// helper was emitting the WRONG param name AND was concatenating the empty
+// `process.env.NEXT_PUBLIC_KLOOK_AFF_ID` (the env var has been unset in
+// production for the entire site lifetime, per R10-46/47 critic finding).
+// Result before fix: every CTA from app/page.tsx, app/category/[slug]/page.tsx,
+// app/guides/[topic]/page.tsx emitted `?aff_id=&utm_source=...` — broken
+// attribution on every programmatic CTA. Now hard-coded to the canonical
+// param + literal partner ID matching the article corpus standard.
+const KLOOK_AFF_ID = '1251547';
 const BOOKING_AFF_ID = process.env.NEXT_PUBLIC_BOOKING_AFF_ID || '';
 const GYG_AFF_ID = process.env.NEXT_PUBLIC_GETYOURGUIDE_AFF_ID || '';
 
 const klook = (path: string) =>
-  `https://www.klook.com/en-US${path}${path.includes('?') ? '&' : '?'}aff_id=${KLOOK_AFF_ID}`;
+  `https://www.klook.com/en-US${path}${path.includes('?') ? '&' : '?'}aff_adid=${KLOOK_AFF_ID}`;
 
 export function getAffiliateProductForCategory(category: string): AffiliateProduct | null {
   switch (category) {
