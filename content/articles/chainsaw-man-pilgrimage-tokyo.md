@@ -11,7 +11,6 @@ author: "Takapon"
 excerpt: "Walk the real Jinbocho locations from Chainsaw Man's Reze Arc — phone booth, stone staircase, Showa-era office building, all within a 10-minute walking route."
 relatedSlugs: []
 wpPostId: 510
-voice: "friend-guide"
 ---
 
 
@@ -221,7 +220,7 @@ Chainsaw Man locations span several Tokyo neighborhoods. For a full overview of 
 - [10 Anime Pilgrimage Spots Every Fan Should Visit in Tokyo](/articles/anime-pilgrimage-spots-tokyo)
 - [One Piece Kumamoto Statue Tour](/articles/one-piece-kumamoto-statue-tour)
 
-**Follow [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)** for daily Tokyo pop culture updates.
+**Follow [@pop_now_jp](https://www.threads.net/@pop_now_jp)** for daily Tokyo pop culture updates.
 
 Planning a trip to Tokyo?
 
@@ -230,7 +229,7 @@ Planning a trip to Tokyo?
 ## Never Miss a Cafe Opening or Anime Event
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.
 
-[Follow on Instagram](https://www.instagram.com/pop_now_jp/)
+[Follow on Threads](https://www.threads.net/@pop_now_jp)
 
 Follow for weekly collab cafe updates & Japan pop culture content.
 

@@ -275,4 +275,4 @@ Shibuya PARCO has elevator access to all floors including 6F. The cafe interior 
 - [Shibuya-Harajuku Pop Culture Guide](/articles/shibuya-harajuku-pop-culture-guide)
 - [Lawson Ticket Guide for Overseas Visitors](/articles/lawson-ticket-anime-cafe-booking)
 
-<div className="jpn-cta"><p><strong>Follow <a href="https://www.instagram.com/japan_pop_now/" rel="nofollow" target="_blank">@japan_pop_now on Instagram</a></strong> for daily Tokyo pop culture updates.</p></div>
+<div className="jpn-cta"><p><strong>Follow <a href="https://www.threads.net/@pop_now_jp" rel="nofollow" target="_blank">@pop_now_jp on Threads</a></strong> for daily Tokyo pop culture updates.</p></div>

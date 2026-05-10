@@ -221,7 +221,7 @@ One more thing: take photos of your collection before you pack it. Just in case 
 - [eSIM vs Pocket WiFi Guide](/japan-esim-pocket-wifi-sim-card-guide/)
 - [Japan Rail Pass Guide](/articles/japan-rail-pass-2026-guide)
 
-**Follow [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)** for daily Tokyo pop culture updates.
+**Follow [@pop_now_jp](https://www.threads.net/@pop_now_jp)** for daily Tokyo pop culture updates.
 
 Planning a trip to Tokyo?
 
@@ -230,7 +230,7 @@ Planning a trip to Tokyo?
 ## Never Miss a Cafe Opening or Anime Event
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.
 
-[Follow on Instagram](https://www.instagram.com/pop_now_jp/)
+[Follow on Threads](https://www.threads.net/@pop_now_jp)
 
 Follow for weekly collab cafe updates & Japan pop culture content.
 

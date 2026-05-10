@@ -11,7 +11,6 @@ author: "Takapon"
 excerpt: "Every Weathering With You Tokyo location verified as publicly accessible — Tabata, Yoyogi, Asahi Inari Shrine — with half-day and full-day walking routes."
 relatedSlugs: []
 wpPostId: 203
-voice: "friend-guide"
 ---
 
 *Last updated: May 2026. All locations verified as publicly accessible unless noted. Includes walking routes optimized for a half-day or full-day visit.*
@@ -192,7 +191,7 @@ A walking tour covering both Your Name and Weathering With You locations in one 
 - [Demon Slayer Pilgrimage Tokyo: 7 Real Locations + Map](/articles/demon-slayer-pilgrimage-tokyo)
 - [One Piece Kumamoto Statue Tour: All 10 Straw Hat Locations](/articles/one-piece-kumamoto-statue-tour)
 - [Shibuya & Harajuku Pop Culture Guide](/articles/shibuya-harajuku-pop-culture-guide)
-- [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)
+- [@pop_now_jp](https://www.threads.net/@pop_now_jp)
 
 ### More Anime Location Guides
 
@@ -210,7 +209,7 @@ Planning a trip to Tokyo?
 ## Never Miss a Cafe Opening or Anime Event
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.
 
-[Follow on Instagram](https://www.instagram.com/pop_now_jp/)
+[Follow on Threads](https://www.threads.net/@pop_now_jp)
 
 Follow for weekly collab cafe updates & Japan pop culture content.
 

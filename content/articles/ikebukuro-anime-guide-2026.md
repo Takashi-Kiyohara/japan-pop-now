@@ -156,7 +156,7 @@ Ikebukuro station has dozens of hotels within 5 minutes walk. Staying here puts 
 - [Tokyo Collab Cafes Spring 2026: Currently Open](/articles/tokyo-anime-collab-cafes-spring-2026/)
 - [Anime Merch Shopping Guide: Where to Buy & How to Save](/articles/anime-merch-shopping-guide-japan/)
 
-**Follow [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)** for daily Tokyo pop culture updates.
+**Follow [@pop_now_jp](https://www.threads.net/@pop_now_jp)** for daily Tokyo pop culture updates.
 
 ## FAQ: Frequently Asked Questions
 ### Is Ikebukuro better than Akihabara for anime?
@@ -191,7 +191,7 @@ Planning a trip to Tokyo?
 ## Never Miss a Cafe Opening or Anime Event
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.
 
-[Follow on Instagram](https://www.instagram.com/pop_now_jp/)
+[Follow on Threads](https://www.threads.net/@pop_now_jp)
 
 Follow for weekly collab cafe updates & Japan pop culture content.
 

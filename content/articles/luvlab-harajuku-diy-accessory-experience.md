@@ -163,7 +163,7 @@ LuvLab sits at the intersection of two movements: the Italian charm boom and the
 | **Minimum spend** | 300 yen (single accessory piece) |
 | **Payment** | Cash and major credit cards |
 | **English** | Limited staff English, but the process is visual/intuitive |
-| **Instagram** | [@luvlab_harajuku](https://www.instagram.com/luvlab_harajuku/) |
+| **Threads** | [@pop_now_jp](https://www.threads.net/@pop_now_jp) |
 | **Opened** | April 10, 2026 |
 | **Other locations** | Shibuya, Yokohama Chinatown |
 
@@ -193,4 +193,4 @@ The Harajuku location carries two exclusive items not available at Shibuya or Yo
 - [Best Anime Merch Shopping Guide for Japan](/articles/anime-merch-shopping-guide-japan)
 - [Tokyo Anime District Guide](/articles/tokyo-anime-district-guide)
 
-<div className="jpn-cta"><p><strong>Follow <a href="https://www.instagram.com/japan_pop_now/" rel="nofollow" target="_blank">@japan_pop_now on Instagram</a></strong> for daily Tokyo pop culture updates.</p></div>
+<div className="jpn-cta"><p><strong>Follow <a href="https://www.threads.net/@pop_now_jp" rel="nofollow" target="_blank">@pop_now_jp on Threads</a></strong> for daily Tokyo pop culture updates.</p></div>

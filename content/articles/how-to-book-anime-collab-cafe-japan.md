@@ -12,7 +12,6 @@ author: "Takapon"
 excerpt: "Complete guide to booking anime collaboration cafes in Tokyo. Covers Lawson Ticket, lottery systems, walk-in tips, and what to expect at your first collab cafe..."
 relatedSlugs: []
 wpPostId: 100
-voice: "friend-guide"
 ---
 
 *Last updated: April 22, 2026. Covers all major booking platforms currently used by collab cafes in Tokyo.*
@@ -234,7 +233,7 @@ Beyond collab cafes, Tokyo has anime districts, pilgrimage spots, and exclusive 
 - [Collab Cafe Calendar — What’s Open Now](/collab-cafe-calendar/)
 - [FamilyMart Anime Collab Stores 2026](/articles/familymart-anime-collab-stores-2026)
 
-**Follow [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)** for daily Tokyo pop culture updates.
+**Follow [@pop_now_jp](https://www.threads.net/@pop_now_jp)** for daily Tokyo pop culture updates.
 
 *Japan Pop Now is a Tokyo-based English-language media covering Japanese pop culture for international visitors. We specialize in information that’s usually only available in Japanese — collab cafes, anime events, limited-edition merchandise, and the spots that guidebooks don’t cover.*
 
@@ -254,7 +253,7 @@ Planning a trip to Tokyo?
 ## Never Miss a Cafe Opening or Anime Event
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.
 
-[Follow on Instagram](https://www.instagram.com/pop_now_jp/)
+[Follow on Threads](https://www.threads.net/@pop_now_jp)
 
 Follow for weekly collab cafe updates & Japan pop culture content.
 

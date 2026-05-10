@@ -12,7 +12,6 @@ author: "Takapon"
 excerpt: "Rent a full cosplay outfit in Tokyo for ¥3,000–12,000 at English-friendly studios in Akihabara and Ikebukuro — wig, accessories, and photo studio time included."
 relatedSlugs: []
 wpPostId: 757
-voice: "friend-guide"
 ---
 
 
@@ -154,7 +153,7 @@ Akihabara and Ikebukuro both have cosplay supply shops. ACOS (by Animate) in Ike
 - [Game Centers & Arcades Japan: Complete Guide](/articles/game-centers-arcades-japan)
 - [Book Japan Anime Events from Overseas](/articles/book-japan-anime-events-overseas-2026)
 
-**Follow [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)** for daily Tokyo pop culture updates.
+**Follow [@pop_now_jp](https://www.threads.net/@pop_now_jp)** for daily Tokyo pop culture updates.
 
 Planning a trip to Tokyo?
 
@@ -163,7 +162,7 @@ Planning a trip to Tokyo?
 ## Never Miss a Cafe Opening or Anime Event
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.
 
-[Follow on Instagram](https://www.instagram.com/pop_now_jp/)
+[Follow on Threads](https://www.threads.net/@pop_now_jp)
 
 Follow for weekly collab cafe updates & Japan pop culture content.
 

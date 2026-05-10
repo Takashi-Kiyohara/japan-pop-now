@@ -12,7 +12,6 @@ author: "Takapon"
 excerpt: "Six different anime tours across three platforms over 18 months — comparison of bookings on Klook, Viator, GetYourGuide, and local operators. Not all anime tours are created equal: some are worth the premium, others are better off skipped. Here is the honest comparison with exact prices."
 relatedSlugs: []
 wpPostId: 539
-voice: "friend-guide"
 ---
 
 
@@ -356,7 +355,7 @@ Direct operators sometimes request bank transfer (especially for private tours).
 - [How to Book Collab Cafes](/articles/how-to-book-anime-collab-cafe-japan)
 - [Anime Merch Shopping Guide](/articles/anime-merch-shopping-guide-japan)
 
-**Follow [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)** for daily Tokyo pop culture updates.
+**Follow [@pop_now_jp](https://www.threads.net/@pop_now_jp)** for daily Tokyo pop culture updates.
 
 *Have you taken an anime tour in Tokyo? We want to hear about it—email us with your experience, and we’ll feature it in our next update.*
 
@@ -367,7 +366,7 @@ Planning a trip to Tokyo?
 ## Never Miss a Cafe Opening or Anime Event
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.
 
-[Follow on Instagram](https://www.instagram.com/pop_now_jp/)
+[Follow on Threads](https://www.threads.net/@pop_now_jp)
 
 Follow for weekly collab cafe updates & Japan pop culture content.
 

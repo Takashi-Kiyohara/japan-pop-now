@@ -182,7 +182,7 @@ A local guide takes you to every Kimetsu no Yaiba filming location in Tokyo, exp
 - [Anime Collab Cafe Calendar](https://japan-pop-now.com/collab-cafe-calendar/) — Check for Demon Slayer collabs during your visit
 - [Japan IC Card & Transit Guide](/articles/japan-ic-card-transit-guide/) — Navigate between pilgrimage spots easily
 
-**Follow [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)** for anime pilgrimage location guides, collab cafe updates, and Tokyo pop culture coverage.
+**Follow [@pop_now_jp](https://www.threads.net/@pop_now_jp)** for anime pilgrimage location guides, collab cafe updates, and Tokyo pop culture coverage.
 
 ## More Pilgrimage Guides
 
@@ -200,7 +200,7 @@ Planning a trip to Tokyo?
 ## Never Miss a Cafe Opening or Anime Event
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.
 
-[Follow on Instagram](https://www.instagram.com/pop_now_jp/)
+[Follow on Threads](https://www.threads.net/@pop_now_jp)
 
 Follow for weekly collab cafe updates & Japan pop culture content.
 

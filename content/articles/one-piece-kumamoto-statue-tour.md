@@ -11,7 +11,6 @@ author: "Takapon"
 excerpt: "All 10 Straw Hat crew statues in Kumamoto with maps, transit access, and a 2-day itinerary that pairs the statue tour with Kumamoto Castle and local food."
 relatedSlugs: []
 wpPostId: 207
-voice: "friend-guide"
 ---
 
 *Last updated: March 2026. Covers all 10 Straw Hat crew statues, maps, transportation, Kumamoto Castle, and a recommended 2-day itinerary for visiting every statue.*
@@ -224,7 +223,7 @@ Kumamoto has run special campaigns with stamp rallies and collectible cards at v
 - [Demon Slayer Pilgrimage Tokyo: 7 Real Locations + Map](/articles/demon-slayer-pilgrimage-tokyo)
 - [Weathering With You Locations Tokyo: 6 Film Spots + Route](/articles/weathering-with-you-locations-tokyo)
 - [Osaka Anime Guide: Den Den Town, Collab Cafes & Beyond](/articles/osaka-anime-guide-den-den-town)
-- [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)
+- [@pop_now_jp](https://www.threads.net/@pop_now_jp)
 
 Planning a trip to Tokyo?
 
@@ -233,7 +232,7 @@ Planning a trip to Tokyo?
 ## Never Miss a Cafe Opening or Anime Event
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.
 
-[Follow on Instagram](https://www.instagram.com/pop_now_jp/)
+[Follow on Threads](https://www.threads.net/@pop_now_jp)
 
 Follow for weekly collab cafe updates & Japan pop culture content.
 

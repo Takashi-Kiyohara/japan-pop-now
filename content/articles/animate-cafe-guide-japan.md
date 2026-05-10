@@ -158,7 +158,7 @@ DECOTTO is Animate Cafe’s take-out donut shop. The concept: donuts decorated w
 | **How it works** | Walk in, browse the display, order at the counter, take out. No reservation. |
 | --- | --- |
 | **Price** | ¥400-700 per donut. Sets available. |
-| **Location** | Animate Cafe Ikebukuro area. Check @decotto_ac on Instagram for current hours. |
+| **Location** | Animate Cafe Ikebukuro area. Check @decotto_ac on Threads for current hours. |
 | **Loyalty card** | Collect stamps for a bonus collaboration card gift. |
 
 DECOTTO rotates themes less frequently than Gratte (roughly monthly vs. biweekly), but the donuts are good standalone snacks. If you’re visiting the Ikebukuro anime district, it’s a 2-minute detour from the main Animate store.
@@ -219,7 +219,7 @@ Ikebukuro Main. Largest space, best kitchen, gets every collaboration, and it’
 - [Jujutsu Kaisen PLAZA Chair:Black Pop-Up Guide](/articles/tokyo-anime-collab-cafes-spring-2026)
 - [One Piece Cafe GENE at PARCO](/one-piece-cafe-gene-parco-2026/)
 - [Anime Collab Cafe Calendar](/articles/tokyo-anime-collab-cafes-spring-2026)
-- [@japan_pop_now on Instagram](https://www.instagram.com/japan_pop_now/)
+- [@pop_now_jp](https://www.threads.net/@pop_now_jp)
 
 ### More Collab Cafe & Event Guides
 
@@ -237,7 +237,7 @@ Planning a trip to Tokyo?
 ## Never Miss a Cafe Opening or Anime Event
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.
 
-[Follow on Instagram](https://www.instagram.com/pop_now_jp/)
+[Follow on Threads](https://www.threads.net/@pop_now_jp)
 
 Follow for weekly collab cafe updates & Japan pop culture content.
 
