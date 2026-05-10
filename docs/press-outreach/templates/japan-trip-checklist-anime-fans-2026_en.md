@@ -12,7 +12,7 @@
 - Country/Region: Japan
 - Media name: Japan Pop Now
 - Country of publication: Global (English-language site, Japan-based)
-- Email: takashi03157@gmail.com
+- Email: snsganbaro@gmail.com
 
 Inquiry content:
 
@@ -64,7 +64,7 @@ Thanks,
 
 Takapon
 Japan Pop Now
-takashi03157@gmail.com
+snsganbaro@gmail.com
 ```
 
 ## Submission checklist

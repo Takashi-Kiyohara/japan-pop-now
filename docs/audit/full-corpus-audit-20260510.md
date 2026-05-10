@@ -1,6 +1,6 @@
 # Full-corpus 10-axis audit — 20260510
 
-Generated: 2026-05-10T02:09:37Z
+Generated: 2026-05-10T04:44:12Z
 Articles audited: 87
 
 ## Bucket totals
@@ -42,10 +42,10 @@ Articles audited: 87
 | `animejapan-comiket-2026-guide` | 10/10 | PASS_ALL_10 | 1620 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `apothecary-diaries-oshi-tabi-osaka-shinkansen-2026` | 10/10 | PASS_ALL_10 | 2940 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `best-anime-tours-tokyo-2026` | 10/10 | PASS_ALL_10 | 4719 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| `blue-lock-tokyo-skytree-cafe-2026` | 10/10 | PASS_ALL_10 | 2857 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| `blue-lock-tokyo-skytree-cafe-2026` | 10/10 | PASS_ALL_10 | 2858 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `book-japan-anime-events-overseas-2026` | 10/10 | PASS_ALL_10 | 2504 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `chainsaw-man-pilgrimage-tokyo` | 10/10 | PASS_ALL_10 | 2607 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| `chiikawa-bakery-harajuku-guide-2026` | 10/10 | PASS_ALL_10 | 2677 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| `chiikawa-bakery-harajuku-guide-2026` | 10/10 | PASS_ALL_10 | 2679 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `chiikawa-land-tokyo-complete-2026` | 10/10 | PASS_ALL_10 | 3120 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `cosplay-experience-tokyo-2026` | 10/10 | PASS_ALL_10 | 2092 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `dark-moon-chara-cafe-ikebukuro-2026` | 10/10 | PASS_ALL_10 | 2069 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
@@ -53,12 +53,12 @@ Articles audited: 87
 | `demon-slayer-meiji-mura-aichi-pilgrimage-2026` | 10/10 | PASS_ALL_10 | 4241 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `demon-slayer-pilgrimage-tokyo` | 10/10 | PASS_ALL_10 | 2488 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `demon-slayer-rerun-cafe-ufotable-2026` (noindex) | 10/10 | PASS_ALL_10 | 2985 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| `demon-slayer-rerun-cafe-ufotable-kizuna-2026` | 10/10 | PASS_ALL_10 | 2937 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| `demon-slayer-rerun-cafe-ufotable-kizuna-2026` | 10/10 | PASS_ALL_10 | 2952 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `detective-conan-cafe-2026-japan-guide` (noindex) | 10/10 | PASS_ALL_10 | 1836 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `detective-conan-cafe-tokyo-osaka-3venue-2026` | 10/10 | PASS_ALL_10 | 3059 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `detective-conan-pilgrimage-events-2026` | 10/10 | PASS_ALL_10 | 2463 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `familymart-anime-collab-stores-2026` | 10/10 | PASS_ALL_10 | 1545 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| `first-timers-japan-playbook-anime-fans-2026` | 10/10 | PASS_ALL_10 | 2638 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| `first-timers-japan-playbook-anime-fans-2026` | 10/10 | PASS_ALL_10 | 2636 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `frieren-usj-story-walk-osaka-2026` | 10/10 | PASS_ALL_10 | 3188 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `gachapon-guide-japan` | 10/10 | PASS_ALL_10 | 2556 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `game-centers-arcades-japan` | 10/10 | PASS_ALL_10 | 4092 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
@@ -92,11 +92,11 @@ Articles audited: 87
 | `my-hero-academia-waffle-diner-ikebukuro-2026` | 10/10 | PASS_ALL_10 | 2669 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `nakano-broadway-guide` | 10/10 | PASS_ALL_10 | 2344 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `naruto-tokyo-pilgrimage-2026` | 10/10 | PASS_ALL_10 | 2583 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| `okami-20th-monster-hunter-sakaba-tokyo-osaka-2026` | 10/10 | PASS_ALL_10 | 2068 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| `okami-20th-monster-hunter-sakaba-tokyo-osaka-2026` | 10/10 | PASS_ALL_10 | 2070 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `one-piece-cafe-gene-shibuya-guide-2026` | 10/10 | PASS_ALL_10 | 3145 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `one-piece-kumamoto-statue-tour` | 10/10 | PASS_ALL_10 | 3027 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `one-piece-tokyo-guide-2026` | 10/10 | PASS_ALL_10 | 3581 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
-| `osaka-anime-cafes-complete-guide-2026` | 10/10 | PASS_ALL_10 | 3690 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
+| `osaka-anime-cafes-complete-guide-2026` | 10/10 | PASS_ALL_10 | 3689 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `osaka-anime-collab-cafes-pop-culture-2026` (noindex) | 10/10 | PASS_ALL_10 | 1838 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `osaka-anime-guide-den-den-town` | 10/10 | PASS_ALL_10 | 3407 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |
 | `ouran-host-club-20th-anniversary-cafes-2026` | 10/10 | PASS_ALL_10 | 3327 | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ | ✓ |

@@ -14,7 +14,7 @@ JNTO form is press-only. Identify as media (Japan Pop Now editorial).
 - **Media name**: Japan Pop Now
 - **Company**: Japan Pop Now
 - **Country of publication**: Global (English-language site, Japan-based editor)
-- **Email**: takashi03157@gmail.com
+- **Email**: snsganbaro@gmail.com
 - **Phone**: [Takapon の電話番号]
 - **Inquiry content** (max 800 chars):
 
@@ -43,7 +43,7 @@ Japan Photo & Video Library (business.jnto.go.jp → japan.travel) の素材
 
 清原 崇（Takapon）
 Japan Pop Now
-takashi03157@gmail.com
+snsganbaro@gmail.com
 ```
 
 - **Desired response deadline**: 2026-05-15（目安、柔軟に対応可）

@@ -39,7 +39,7 @@ TCVB 公開 press 素材から 3〜5 枚の使用許諾をいただけますと�
 
 清原 崇（Takapon）
 Japan Pop Now
-takashi03157@gmail.com
+snsganbaro@gmail.com
 ```
 
 ## JNTO 宛補足（並行送信）

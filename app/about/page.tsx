@@ -69,7 +69,7 @@ const SECTIONS: { heading: string; body: string[] }[] = [
   {
     heading: 'Business inquiries',
     body: [
-      `For partnership pitches, press kit submissions, sponsored-coverage proposals, or PR outreach, please use takashi03157@gmail.com with subject prefix "JPN BIZ —" so it routes correctly. We respond to most inquiries within 5 business days.`,
+      `For partnership pitches, press kit submissions, sponsored-coverage proposals, or PR outreach, please use snsganbaro@gmail.com with subject prefix "JPN BIZ —" so it routes correctly. We respond to most inquiries within 5 business days.`,
       `We accept editorial pitches for cafes, exhibitions, theme-park collabs, and pop-up events that fit the site's coverage areas (Tokyo-Osaka-Kyoto with occasional Kumamoto/Sapporo coverage). We do not accept paid editorial placement; coverage is offered when the event is genuinely interesting to the audience and we have capacity to verify the operator's claims.`,
       `We do accept review opportunities (complimentary tour seats, pre-launch venue walkthroughs, press previews). All such relationships are disclosed in the article body, per the affiliate-disclosure section above.`,
     ],
@@ -324,7 +324,7 @@ export default function AboutPage() {
               Tip, correction, or partnership inquiry — Takapon reads everything that lands.
             </p>
             <a
-              href="mailto:takashi03157@gmail.com"
+              href="mailto:snsganbaro@gmail.com"
               className="inline-block px-8 py-3 rounded-lg font-semibold text-sm hover:opacity-90 transition-opacity"
               style={{ background: '#f97316', color: '#fff' }}
             >

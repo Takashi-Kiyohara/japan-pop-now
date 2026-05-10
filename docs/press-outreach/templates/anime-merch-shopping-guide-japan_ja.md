@@ -58,7 +58,7 @@ published; do NOT send to an invented address.
 
 **FAX:** なし
 
-**Email:** takashi03157@gmail.com
+**Email:** snsganbaro@gmail.com
 
 ---
 
@@ -89,7 +89,7 @@ published; do NOT send to an invented address.
 清原 崇（Takapon）
 Japan Pop Now
 https://www.japan-pop-now.com
-takashi03157@gmail.com
+snsganbaro@gmail.com
 ```
 
 ---

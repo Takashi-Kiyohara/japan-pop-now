@@ -45,7 +45,7 @@ Japan Pop Now (https://www.japan-pop-now.com) の清原と申します。
 
 清原 崇（Takapon）
 Japan Pop Now
-takashi03157@gmail.com
+snsganbaro@gmail.com
 ```
 
 ## Submission checklist

@@ -31,7 +31,7 @@ const SECTIONS: { heading: string; body: string[] }[] = [
   {
     heading: 'How to submit',
     body: [
-      `Email the notice to ${AUTHOR.name} via takashi03157@gmail.com with the subject line "DMCA Takedown Notice — japan-pop-now.com".`,
+      `Email the notice to ${AUTHOR.name} via snsganbaro@gmail.com with the subject line "DMCA Takedown Notice — japan-pop-now.com".`,
       `Submitting the notice in writing via this address is sufficient; you do not need to mail a paper copy. We acknowledge receipt within 3 business days.`,
     ],
   },

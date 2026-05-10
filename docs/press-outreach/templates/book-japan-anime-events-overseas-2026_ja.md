@@ -31,7 +31,7 @@
 可否をご教示いただけますと幸いです。
 
 清原 崇（Takapon）
-takashi03157@gmail.com
+snsganbaro@gmail.com
 ```
 
 ## TCVB 宛（並行送信、tourist@tcvb.or.jp）
@@ -53,7 +53,7 @@ TCVB 公開の press 素材から使用許諾をいただけますと記事の�
 -----
 清原 崇
 Japan Pop Now
-takashi03157@gmail.com
+snsganbaro@gmail.com
 ```
 
 ## Submission checklist

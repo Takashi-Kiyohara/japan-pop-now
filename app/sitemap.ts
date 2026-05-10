@@ -78,18 +78,16 @@ export default function sitemap(): MetadataRoute.Sitemap {
   // sitemap to stay consistent with the meta tag emitted by
   // app/articles/[slug]/page.tsx — Google receives one signal, not two
   // contradictory ones.
-  // Articles with `validUntil` past today's date are also excluded —
-  // they describe time-limited events that have ended. Keeps stale
-  // event pages out of search results without requiring a manual
-  // robots-noindex sweep after every collab cafe ends.
-  const today = new Date();
+  // R8-H (2026-05-10): the previous validUntil-past-today filter dropped
+  // 5 indexable articles from the sitemap (animejapan international
+  // visitors, dark-moon, golden-week, jjk-sweets-paradise, mha waffle
+  // diner) when their event windows ended. The articles are still useful
+  // editorially as retrospectives. The explicit signal for "do not index
+  // any longer" is `robots: noindex` in frontmatter; validUntil should
+  // not also gate crawl-discovery. Filter removed.
   const articlePages: MetadataRoute.Sitemap = articles
     .filter((article) => {
       if (article.robots?.toLowerCase().includes('noindex')) return false;
-      if (article.validUntil) {
-        const validDate = new Date(article.validUntil);
-        if (!Number.isNaN(validDate.getTime()) && validDate < today) return false;
-      }
       return true;
     })
     .map((article) => ({

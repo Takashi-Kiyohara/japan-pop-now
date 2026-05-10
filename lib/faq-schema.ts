@@ -101,6 +101,26 @@ export function extractFAQFromContent(markdown: string): FAQItem[] {
  * @param markdown - Raw markdown content
  * @returns Array of FAQItem objects
  */
+// R8-K (2026-05-10): exclude scaffolding H2s (FAQ wrapper, Related/More/Image
+// sections, Table of Contents, etc.) from Q-extraction. These are container
+// headings whose body is bullets/links, not prose, so the prior implementation
+// produced empty acceptedAnswer entries that broke Google Rich Results Test.
+const FAQ_QUESTION_DENYLIST = [
+  /^FAQ:?\s/i, // "FAQ: Frequently Asked Questions"
+  /^Frequently Asked Questions/i,
+  /^More\s/i, // "More Collab Cafe Guides"
+  /^Related\s/i, // "Related Articles", "Related Resources"
+  /^Image Credits?$/i,
+  /^Photo Credits?$/i,
+  /^Table of Contents$/i,
+  /^See also/i,
+  /^Sources?$/i,
+  /^References?$/i,
+  /^Sources and (further reading|further info)/i,
+  /^Explore by\s/i, // "Explore by Area"
+  /^Footnotes?$/i,
+];
+
 export function extractQAFromHeadings(markdown: string): FAQItem[] {
   const faqs: FAQItem[] = [];
   const lines = markdown.split('\n');
@@ -112,6 +132,11 @@ export function extractQAFromHeadings(markdown: string): FAQItem[] {
     // Look for level 2 or 3 headings
     if (line.startsWith('## ') || line.startsWith('### ')) {
       const question = line.replace(/^#{2,3}\s*/, '').trim();
+      // Skip scaffolding H2/H3 (FAQ wrapper, Related/More, Image Credits, etc.)
+      if (FAQ_QUESTION_DENYLIST.some((re) => re.test(question))) {
+        i++;
+        continue;
+      }
 
       // Standard markdown puts a blank line between a heading and the
       // paragraph that follows. The original logic broke out of the loop

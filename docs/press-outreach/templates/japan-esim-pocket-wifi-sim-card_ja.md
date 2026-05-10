@@ -46,7 +46,7 @@ Affiliate 関係既存のケースは affiliate dashboard 側の partnership man
 
 清原 崇（Takapon）
 Japan Pop Now
-takashi03157@gmail.com
+snsganbaro@gmail.com
 ```
 
 ## Submission checklist

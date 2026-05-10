@@ -39,7 +39,7 @@ Thank you,
 
 Takapon (Takashi Kiyohara)
 Japan Pop Now
-takashi03157@gmail.com
+snsganbaro@gmail.com
 ```
 
 ## TCVB email (EN, to tourist@tcvb.or.jp)
@@ -62,7 +62,7 @@ Thanks for considering,
 
 Takapon
 Japan Pop Now
-takashi03157@gmail.com
+snsganbaro@gmail.com
 ```
 
 ## Submission checklist

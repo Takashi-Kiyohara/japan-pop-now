@@ -41,7 +41,7 @@ Buyee 等の買物代行経由の場合は別途代行会社の広報にも連�
 
 清原 崇（Takapon）
 Japan Pop Now
-takashi03157@gmail.com
+snsganbaro@gmail.com
 ```
 
 ## Submission checklist

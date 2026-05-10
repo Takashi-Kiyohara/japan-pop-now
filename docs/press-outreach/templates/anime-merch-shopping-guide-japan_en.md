@@ -60,7 +60,7 @@ Best regards,
 
 Takapon (Takashi Kiyohara)
 Japan Pop Now
-takashi03157@gmail.com
+snsganbaro@gmail.com
 https://www.japan-pop-now.com
 
 ---

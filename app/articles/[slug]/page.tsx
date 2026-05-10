@@ -57,12 +57,32 @@ export async function generateMetadata({
   const url = getArticleUrl(slug);
 
   const robotsRaw = article.robots?.toLowerCase() ?? '';
+  // R8-G: emit explicit robots + googleBot meta on every article page.
+  // Frontmatter `robots: noindex,follow` opts out; otherwise default to
+  // index/follow with max-image-preview=large for AdSense-grade signaling.
   const robotsMeta = robotsRaw
     ? {
         index: !robotsRaw.includes('noindex'),
         follow: !robotsRaw.includes('nofollow'),
+        googleBot: {
+          index: !robotsRaw.includes('noindex'),
+          follow: !robotsRaw.includes('nofollow'),
+          'max-image-preview': 'large' as const,
+          'max-snippet': -1,
+          'max-video-preview': -1,
+        },
       }
-    : undefined;
+    : {
+        index: true,
+        follow: true,
+        googleBot: {
+          index: true,
+          follow: true,
+          'max-image-preview': 'large' as const,
+          'max-snippet': -1,
+          'max-video-preview': -1,
+        },
+      };
 
   return {
     title: article.title,

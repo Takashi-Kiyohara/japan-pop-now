@@ -13,7 +13,7 @@ For each article we checked four candidate paths:
 
 - **A. Existing legacy assets usable** — `public/images/articles/{slug}/` walked for non-Unsplash JPG/WEBP files NOT already referenced in the body. Cross-checked against the in-article `![...](...)` references with Grep.
 - **B. Press-kit ready** — `docs/press-outreach/templates/{slug}_{ja,en}.md` and `docs/press-outreach/research/*.md` checked for an existing send-ready outreach.
-- **C. Public-domain / Wikimedia coverage** — Commons file-namespace search (`srnamespace=6`) via `commons.wikimedia.org/w/api.php` with the User-Agent `japan-pop-now/1.0 (takashi03157@gmail.com)`. Storefronts of the venue chain (Animate, Sweets Paradise, Karaoke Manekineko, PARCO) are permissible if photo is CC; fictional-character merchandise / collab-cafe IP art is NOT permissible.
+- **C. Public-domain / Wikimedia coverage** — Commons file-namespace search (`srnamespace=6`) via `commons.wikimedia.org/w/api.php` with the User-Agent `japan-pop-now/1.0 (snsganbaro@gmail.com)`. Storefronts of the venue chain (Animate, Sweets Paradise, Karaoke Manekineko, PARCO) are permissible if photo is CC; fictional-character merchandise / collab-cafe IP art is NOT permissible.
 - **D. Takapon photoshoot needed** — fallback when A/B/C all dry.
 
 **Important folder-level finding (Category A):** None of the 5 cafe slugs have any unreferenced legacy JPG/WEBP in their image folder. Every existing local image is already used in the body. Category A is therefore inapplicable across all 5.

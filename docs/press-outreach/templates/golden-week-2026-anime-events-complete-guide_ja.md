@@ -39,7 +39,7 @@ GW 期間中（4/29-5/5）の東京・大阪で稼働している 15 のアニ�
 
 清原 崇（Takapon）
 Japan Pop Now
-takashi03157@gmail.com
+snsganbaro@gmail.com
 ```
 
 ## Submission checklist

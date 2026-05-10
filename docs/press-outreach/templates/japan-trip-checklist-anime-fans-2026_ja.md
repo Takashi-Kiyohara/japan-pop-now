@@ -13,7 +13,7 @@ Name: 清原 崇 (Takashi Kiyohara / Takapon)
 Title: 編集者
 Country/Region: 日本
 Media name: Japan Pop Now
-Email: takashi03157@gmail.com
+Email: snsganbaro@gmail.com
 
 Inquiry content:
 

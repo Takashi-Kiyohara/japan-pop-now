@@ -37,7 +37,7 @@ Thanks,
 
 Takapon
 Japan Pop Now
-takashi03157@gmail.com
+snsganbaro@gmail.com
 ```
 
 ## Submission checklist
