@@ -8,6 +8,16 @@ on:
   schedule:
     - cron: '15 11 * * *'  # daily at 11:15 UTC; close to Day 1 trigger
   workflow_dispatch:
+  # R10-13 (2026-05-10): explicit push trigger so the always-success guard
+  # job runs on every push and the workflow concludes success. Without this,
+  # GitHub creates implicit push runs (when the workflow file itself changes)
+  # but no jobs match the trigger → workflow reported as failure. See
+  # `gh run list --workflow=cwv-daily.yml --json event,conclusion` showing
+  # `event=push, conclusion=failure` on every push for the prior 30 days.
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/cwv-daily.yml'
 
 permissions:
   contents: write
