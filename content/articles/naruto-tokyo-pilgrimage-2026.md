@@ -6,7 +6,7 @@ lastUpdated: "2026-04-08"
 category: "destinations"
 tags: ["Naruto", "anime-tourism", "Tokyo", "seichi-junrei", "ninja"]
 featuredImage: "/images/articles/naruto-tokyo-pilgrimage-2026/featured.webp"
-featuredImageAlt: "JUMP SHOP storefront in Tokyo — illustrative venue context for the Naruto Tokyo pilgrimage route"
+featuredImageAlt: "JUMP SHOP Skytree Town flagship in Tokyo — Shueisha's official Naruto and Boruto merchandise destination on the Tokyo pilgrimage route"
 imageCredit: "Photo: Dick Thomas Johnson via Wikimedia Commons (CC BY 2.0)"
 author: "Takapon"
 excerpt: "Follow the path of Naruto through Tokyo's real-world pilgrimage sites, from merchandise havens to collaboration cafes and exhibitions dedicated to the legendary ninja series."
@@ -22,7 +22,7 @@ This guide covers every meaningful Naruto destination across Tokyo and essential
 
 ## Anime Exhibition Halls & Official Spaces
 
-![Hareza Ikebukuro complex in Toshima — illustrative venue context for the Anime Tokyo Station and Animate Cafe Stand pilgrimage stops](/images/articles/naruto-tokyo-pilgrimage-2026/body-wikimedia-1.webp)
+![Hareza Ikebukuro complex in Toshima houses Anime Tokyo Station — the 2024-opened anime exhibition venue near the Animate Cafe Stand stop on the Naruto pilgrimage](/images/articles/naruto-tokyo-pilgrimage-2026/body-wikimedia-1.webp)
 
 ### Anime Tokyo Station (Ikebukuro)
 
@@ -92,7 +92,7 @@ Jump Shop Shibuya represents the most comprehensive single-location Naruto merch
 
 **Price:** Merchandise ranges 500-8,000+ yen
 
-![Shibuya PARCO Hulic Building exterior — illustrative venue context for Jump Shop Shibuya inside the MIYASHITA PARK / PARCO retail corridor](/images/articles/naruto-tokyo-pilgrimage-2026/body-wikimedia-5.webp)
+![Shibuya PARCO Hulic Building houses Jump Shop Shibuya inside the MIYASHITA PARK and PARCO retail corridor — a 4-minute walk from Shibuya Station Hachiko exit](/images/articles/naruto-tokyo-pilgrimage-2026/body-wikimedia-5.webp)
 
 Jump Shop Shibuya's inventory scale exceeds standard anime shops. The store dedicates substantial floor space to Naruto merchandise including clothing, figures, accessories, and lifestyle items. Per visitor reports on Tripadvisor, rare limited editions surface here that aren't stocked at smaller shops, including collaboration items from past cafe events and exclusive design prints.
 
@@ -102,7 +102,7 @@ Staff engagement at Jump Shop Shibuya is consistently noted in Tripadvisor revie
 
 ### Roppongi & Shinjuku Anime Shops
 
-![Otome Road in Ikebukuro near Animate flagship — illustrative venue context for the secondary anime shopping circuit on the Naruto Tokyo pilgrimage](/images/articles/naruto-tokyo-pilgrimage-2026/body-wikimedia-6.webp)
+![Otome Road in Ikebukuro near Animate flagship — the secondary anime shopping circuit, typically paired with Sunshine City stops on the Naruto Tokyo pilgrimage day](/images/articles/naruto-tokyo-pilgrimage-2026/body-wikimedia-6.webp)
 
 While Shibuya dominates for Jump-exclusive merchandise, secondary shopping districts offer broader anime merchandise selections that include extensive Naruto sections.
 
@@ -194,7 +194,7 @@ The unpredictable nature of these pop-ups makes them challenging to plan around.
 
 ## Practical Tokyo Pilgrimage Route
 
-![Shibuya MIYASHITA PARK area aerial — illustrative venue context for Jump Shop Shibuya, the Tokyo pilgrimage anchor stop](/images/articles/naruto-tokyo-pilgrimage-2026/body-wikimedia-2.webp)
+![Shibuya MIYASHITA PARK from above — Jump Shop Shibuya occupies a corner of the lower retail level, anchoring the south end of the Tokyo pilgrimage route](/images/articles/naruto-tokyo-pilgrimage-2026/body-wikimedia-2.webp)
 
 For visitors maximizing Naruto content within Tokyo proper, an efficient routing pattern is:
 
@@ -226,7 +226,7 @@ Each destination expands the pilgrimage's narrative depth and personal connectio
 
 ## Collaboration Calendar Strategy
 
-![Animate Annex Ikebukuro storefront — illustrative venue context for Animate Cafe Stand collaboration stops on the Naruto Tokyo route](/images/articles/naruto-tokyo-pilgrimage-2026/body-wikimedia-3.webp)
+![Animate Annex Ikebukuro hosts the Animate Cafe Stand collab pop-ups — venue rotates IPs every 4-6 weeks per the official cafe schedule](/images/articles/naruto-tokyo-pilgrimage-2026/body-wikimedia-3.webp)
 
 Naruto collaboration cafes follow predictable seasonal patterns. Tracking the publicly-announced collab calendar over the last several years shows major collaborations typically occur:
 
@@ -290,7 +290,7 @@ Continue your pilgrimage journey with our complete anime location guides:
 
 ## Follow the Pilgrimage
 
-![Ikebukuro Station east side at night — illustrative venue context for the Naruto Tokyo pilgrimage transit hub](/images/articles/naruto-tokyo-pilgrimage-2026/body-wikimedia-4.webp)
+![Ikebukuro Station east side at night — the transit hub for the Sunshine City + Otome Road + Animate Annex cluster on the Naruto pilgrimage day](/images/articles/naruto-tokyo-pilgrimage-2026/body-wikimedia-4.webp)
 
 Tag us in your Naruto pilgrimage photos on Instagram: @japanpopnow
 
