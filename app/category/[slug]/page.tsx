@@ -28,7 +28,7 @@ function getCategoryAffiliateCTA(category: { slug: string; label: string }) {
           title="Book Anime Cafes with Klook"
           description="Reserve your spot at anime collaboration cafes across Japan with English support and free cancellation on most bookings."
           buttonText="Browse Cafe Experiences"
-          href={'https://www.klook.com/en-US/experiences?aff_id=' + (process.env.NEXT_PUBLIC_KLOOK_AFF_ID || '')}
+          href={'https://www.klook.com/en-US/experiences?aff_adid=1251547'}
           program="klook"
           category="cafes"
         />
@@ -40,7 +40,7 @@ function getCategoryAffiliateCTA(category: { slug: string; label: string }) {
           title="Get Your JR Pass"
           description="Reach pilgrimage sites and anime districts across Japan efficiently with the Japan Rail Pass. 7, 14, and 21-day options cover every region."
           buttonText="Compare JR Pass"
-          href={'https://www.klook.com/en-US/activity/japan-rail-pass?aff_id=' + (process.env.NEXT_PUBLIC_KLOOK_AFF_ID || '')}
+          href={'https://www.klook.com/en-US/activity/japan-rail-pass?aff_adid=1251547'}
           program="klook"
           category="destinations"
         />
@@ -52,7 +52,7 @@ function getCategoryAffiliateCTA(category: { slug: string; label: string }) {
           title="Book Anime Experiences in Japan"
           description="Theme parks, pop-ups, DIY workshops, exhibitions plus practical travel essentials — reserve one-of-a-kind experiences with English support."
           buttonText="Browse Experiences"
-          href={'https://www.klook.com/en-US/experiences/tokyo?aff_id=' + (process.env.NEXT_PUBLIC_KLOOK_AFF_ID || '')}
+          href={'https://www.klook.com/en-US/experiences/tokyo?aff_adid=1251547'}
           program="klook"
           category="experiences"
         />
