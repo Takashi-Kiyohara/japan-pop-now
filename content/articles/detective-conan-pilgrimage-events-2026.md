@@ -1,18 +1,29 @@
 ---
-title: "Detective Conan Pilgrimage & Events 2026: 30th Anniversary"
-description: "Detective Conan 2026: 12-city exhibition, 29th movie Yokohama tie-ins, annual cafe, USJ Conan World, and pilgrimage spots in Tottori and Osaka."
-date: "2026-04-04"
-lastUpdated: "2026-04-04"
-validUntil: "2026-08-03"
-category: "destinations"
+title: 'Detective Conan Pilgrimage & Events 2026: 30th Anniversary'
+description: >-
+  Detective Conan 2026: 12-city exhibition, 29th movie Yokohama tie-ins, annual
+  cafe, USJ Conan World, and pilgrimage spots in Tottori and Osaka.
+date: '2026-04-04'
+lastUpdated: '2026-04-04'
+validUntil: '2026-08-03'
+category: destinations
 tags: []
-featuredImage: "/images/articles/detective-conan-pilgrimage-events-2026/hero.webp"
-featuredImageAlt: "Yura Conan Station in Hokuei Tottori — JR Sanin Main Line stop themed for Detective Conan creator Gosho Aoyama's hometown"
-heroImage: "/images/articles/detective-conan-pilgrimage-events-2026/hero.webp"
-heroImageAlt: "Yura Conan Station — JR Sanin Main Line stop in Hokuei, Tottori, themed for Detective Conan creator Gosho Aoyama's hometown with character signage at the entrance"
-imageCredit: "Photo: Hsu Tzu-hsun / Wikimedia Commons, CC BY-SA 4.0"
-author: "Takapon"
-excerpt: "Detective Conan is running more events in 2026 than any other anime IP in Japan. The 30th anniversary exhibition tours 12 cities, the 29th movie opens April 10, Conan Cafe serves 6 cities, Sunshine City hosts the 8th Conan collab, and USJ's Detective Conan World runs through June 30."
+featuredImage: /images/articles/detective-conan-pilgrimage-events-2026/hero.webp
+featuredImageAlt: >-
+  Yura Conan Station in Hokuei Tottori — JR Sanin Main Line stop themed for
+  Detective Conan creator Gosho Aoyama's hometown
+heroImage: /images/articles/detective-conan-pilgrimage-events-2026/hero.webp
+heroImageAlt: >-
+  Yura Conan Station — JR Sanin Main Line stop in Hokuei, Tottori, themed for
+  Detective Conan creator Gosho Aoyama's hometown with character signage at the
+  entrance
+imageCredit: 'Photo: Hsu Tzu-hsun / Wikimedia Commons, CC BY-SA 4.0'
+author: Takapon
+excerpt: >-
+  Detective Conan is running more events in 2026 than any other anime IP in
+  Japan. The 30th anniversary exhibition tours 12 cities, the 29th movie opens
+  April 10, Conan Cafe serves 6 cities, Sunshine City hosts the 8th Conan
+  collab, and USJ's Detective Conan World runs through June 30.
 relatedSlugs: []
 wpPostId: 753
 ---
@@ -38,7 +49,7 @@ Conan also has one of the deepest pilgrimage networks of any anime: real-world l
 ## What Conan Events Are Happening in 2026?
 
 
-![Yura Conan Station JR Sanin Main Line in Hokuei Tottori — Detective Conan creator hometown stop](/images/articles/detective-conan-pilgrimage-events-2026/body-wikimedia-1.webp)
+![Yura Conan Station JR Sanin Main Line in Hokuei Tottori. Detective Conan creator hometown stop](/images/articles/detective-conan-pilgrimage-events-2026/body-wikimedia-1.webp)
 
 Here’s everything running or confirmed as of April 2026:
 
@@ -56,11 +67,11 @@ Here’s everything running or confirmed as of April 2026:
 
 
 ### The 29th Movie: Highway’s Fallen Angel (ハイウェイの堕天使)
-Opening April 10, the 29th Conan theatrical film features Hagiwara Chihaya — nicknamed the “Wind Goddess” — in her big-screen debut. The setting is Yokohama Minato Mirai, built around a motorcycle festival that turns into a high-speed chase through the city. See the [official film site at conan-movie.jp](https://www.conan-movie.jp/) for theater listings, ticket presales, and key visuals. For pilgrimage fans, this means Yokohama gets a fresh batch of Conan-related real-world locations to visit. The movie’s Yokohama connections overlap with existing attractions like the Cup Noodles Museum and Cosmo Clock 21 Ferris wheel — all within the Minato Mirai waterfront area.
+Opening April 10, the 29th Conan theatrical film features Hagiwara Chihaya — nicknamed the “Wind Goddess”, in her big-screen debut. The setting is Yokohama Minato Mirai, built around a motorcycle festival that turns into a high-speed chase through the city. See the [official film site at conan-movie.jp](https://www.conan-movie.jp/) for theater listings, ticket presales, and key visuals. For pilgrimage fans, this means Yokohama gets a fresh batch of Conan-related real-world locations to visit. The movie’s Yokohama connections overlap with existing attractions like the Cup Noodles Museum and Cosmo Clock 21 Ferris wheel — all within the Minato Mirai waterfront area.
 
 
 ### 30th Anniversary TV Anime Exhibition
-The biggest Conan event of 2026. This touring exhibition covers the entire production process — from manga to animation to theme songs — with famous scene recreations, production materials, and a special screening theater. The Tokyo run at Tokyo Dome City Prism Hall ended in March, but the tour continues:
+The biggest Conan event of 2026. This touring exhibition covers the entire production process — from manga to animation to theme songs, with famous scene recreations, production materials, and a special screening theater. The Tokyo run at Tokyo Dome City Prism Hall ended in March, but the tour continues:
 
 | City | Dates | Venue |
 | --- | --- | --- |
@@ -87,7 +98,7 @@ Detective Conan is set in the fictional Beika City (米花町), but the Tokyo la
 
 **Tokyo Skytree:** Modeled as “Bell Tree Tower” in the anime. The Tembo Deck (350m) costs ¥2,100 and the Tembo Galleria (450m) is an additional ¥1,000. The surrounding Solamachi shopping complex occasionally hosts Conan merchandise pop-ups.
 
-**Shibuya Scramble Crossing:** Featured in several major cases, including movie scenes where the crossing becomes a crime scene. Free to visit — just walk through it. The Shibuya Sky observation deck (¥2,000) gives you the overhead view that matches several anime frames.
+**Shibuya Scramble Crossing:** Featured in several major cases, including movie scenes where the crossing becomes a crime scene. Free to visit, just walk through it. The Shibuya Sky observation deck (¥2,000) gives you the overhead view that matches several anime frames.
 
 **Sunshine City, Ikebukuro:** Currently hosting the 8th Conan collaboration event — titled "Detective Conan: The Sky City Soaring Through Heaven" — through June 7, 2026, with a Restaurant Fair running April 8–June 7 per the [official Sunshine City event page](https://sunshinecity.jp/). The observation deck "Tenbo Park" at the top of Sunshine 60 and the Sunshine Aquarium are both participating venues. Mystery-solving rally events run in two phases with different storylines. A Detective Conan Plaza pop-up store sells exclusive merchandise on the observation deck floor. A dedicated event microsite at [conan-sunshinecity.com](https://conan-sunshinecity.com/) carries the full attraction map.
 
@@ -95,7 +106,7 @@ Detective Conan is set in the fictional Beika City (米花町), but the Tokyo la
 ## How Do You Get Tickets for the Sunshine City Conan Event?
 
 
-![Sunshine City Ikebukuro Tokyo — venue for the 8th Detective Conan collaboration event 2026](/images/articles/detective-conan-pilgrimage-events-2026/body-wikimedia-2.webp)
+![Sunshine City Ikebukuro Tokyo, venue for the 8th Detective Conan collaboration event 2026](/images/articles/detective-conan-pilgrimage-events-2026/body-wikimedia-2.webp)
 
 The Sunshine City collaboration (April 8 – June 7, 2026) is one of the most accessible Conan events for international visitors because most of it is free:
 
@@ -103,7 +114,7 @@ The Sunshine City collaboration (April 8 – June 7, 2026) is one of the most ac
 
 **Paid elements:** The mystery-solving rally (requires purchase of a rally kit, typically ¥1,000-1,500), Sunshine 60 Tenbo Park observation deck admission (¥700-1,200), and Sunshine Aquarium admission (¥2,600 adults). The aquarium features exclusive Conan-collaboration merchandise and a special sea lion performance during the event period.
 
-**Special dates:** Character photo sessions run during Golden Week (May 1-5) — expect longer queues during these days.
+**Special dates:** Character photo sessions run during Golden Week (May 1-5), expect longer queues during these days.
 
 No advance reservation is needed for the general event. The observation deck and aquarium sell tickets at the door or online through their respective websites. For the mystery rally, buy the kit on-site at the designated counter. The rally runs in two phases (Phase 1 and Phase 2 have different stories), so dedicated fans can visit twice.
 
@@ -138,7 +149,7 @@ The honest assessment: Conan Town is a pilgrimage destination for dedicated fans
 
 **From Osaka:** JR to Yura Station via Sanin Main Line, about 2.5-3 hours. More manageable as a day trip if you leave early.
 
-If you’re making the trip, combine it with Tottori Sand Dunes (Japan’s largest sand dunes, about 1 hour from Conan Town) to fill a full day. The [JR Pass](/articles/japan-rail-pass-2026-guide) covers all train legs, which significantly reduces the cost — the Tokyo-Tottori round trip alone is worth ¥34,000+ without a pass.
+If you’re making the trip, combine it with Tottori Sand Dunes (Japan’s largest sand dunes, about 1 hour from Conan Town) to fill a full day. The [JR Pass](/articles/japan-rail-pass-2026-guide) covers all train legs, which significantly reduces the cost, the Tokyo-Tottori round trip alone is worth ¥34,000+ without a pass.
 
 
 ## What About USJ’s Detective Conan World in Osaka?
@@ -148,13 +159,13 @@ If you’re making the trip, combine it with Tottori Sand Dunes (Japan’s large
 
 Universal Studios Japan runs Detective Conan World as part of its annual Universal Cool Japan event. The 2026 edition (January 30 – June 30) features three attractions:
 
-**Detective Conan: The Escape** — A live-action puzzle adventure where you’re a “hostage” trying to solve clues and stop a bombing. New for 2026: wristband-based interaction system that tracks your progress. Time-limited with groups of 20-30 participants. This is the most immersive Conan experience available anywhere — it’s part escape room, part live theater, part theme park ride.
+**Detective Conan: The Escape** — A live-action puzzle adventure where you’re a “hostage” trying to solve clues and stop a bombing. New for 2026: wristband-based interaction system that tracks your progress. Time-limited with groups of 20-30 participants. This is the most immersive Conan experience available anywhere, it’s part escape room, part live theater, part theme park ride.
 
 **Detective Conan: Mystery Restaurant** — A sit-down dinner show where you solve a mystery while eating a full course meal. Live singing performances are part of the storyline. This is the most expensive option (requires separate ticket + park admission) but also the most memorable.
 
 **Detective Conan x Story Ride** — A themed ride featuring Conan, the Detective Boys, and Heiji Hattori in a runaway self-driving car scenario. Less cerebral than The Escape, more adrenaline-focused.
 
-USJ park admission starts at ¥8,600 (~$59) for a 1-day pass, with date-based pricing going up to ¥10,400 (~$71) on peak days. The Conan attractions require additional Express Passes or separate tickets. Book through [Klook](https://affiliate.klook.com/redirect?aid=117469&aff_adid=1251547&k_site=https%3A%2F%2Fwww.klook.com%2F) for occasional bundle deals, or directly via [the official USJ site at usj.co.jp](https://www.usj.co.jp/web/en/us). The 2026 Cool Japan event also features Jujutsu Kaisen, Frieren, and Monster Hunter — you can combine multiple IPs in one park visit.
+USJ park admission starts at ¥8,600 (~$59) for a 1-day pass, with date-based pricing going up to ¥10,400 (~$71) on peak days. The Conan attractions require additional Express Passes or separate tickets. Book through [Klook](https://affiliate.klook.com/redirect?aid=117469&aff_adid=1251547&k_site=https%3A%2F%2Fwww.klook.com%2F) for occasional bundle deals, or directly via [the official USJ site at usj.co.jp](https://www.usj.co.jp/web/en/us). The 2026 Cool Japan event also features Jujutsu Kaisen, Frieren, and Monster Hunter, you can combine multiple IPs in one park visit.
 
 
 ## FAQ: Frequently Asked Questions
@@ -172,7 +183,7 @@ Easily. The Conan Cafe Ikebukuro and Sunshine City event are both in Ikebukuro, 
 
 **Do I need to understand Japanese for these events?**
 
-The movie is in Japanese with no subtitles in domestic theaters. The Sunshine City mystery rally is primarily in Japanese (some English support available). The Conan Cafe is fully navigable without Japanese — point and order. USJ’s The Escape is in Japanese, which limits the puzzle-solving aspect for non-speakers, but the theatrical experience still works. The Gosho Aoyama Museum has some English signage.
+The movie is in Japanese with no subtitles in domestic theaters. The Sunshine City mystery rally is primarily in Japanese (some English support available). The Conan Cafe is fully navigable without Japanese, point and order. USJ’s The Escape is in Japanese, which limits the puzzle-solving aspect for non-speakers, but the theatrical experience still works. The Gosho Aoyama Museum has some English signage.
 
 **Are the Conan Cafe reservations hard to get?**
 

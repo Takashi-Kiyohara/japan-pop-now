@@ -1,18 +1,25 @@
 ---
-title: "JR Pass for Anime Pilgrimages 2026: Routes, Worth It, Prices"
-description: "Is the JR Pass worth it for anime pilgrimages? 2026 prices, 4 route calculators (Your Name, Demon Slayer, One Piece, Anohana), when it saves money."
-date: "2026-04-02"
-lastUpdated: "2026-04-02"
-category: "destinations"
+title: 'JR Pass for Anime Pilgrimages 2026: Routes, Worth It, Prices'
+description: >-
+  Is the JR Pass worth it for anime pilgrimages? 2026 prices, 4 route
+  calculators (Your Name, Demon Slayer, One Piece, Anohana), when it saves
+  money.
+date: '2026-04-02'
+lastUpdated: '2026-04-02'
+category: destinations
 tags: []
-featuredImage: "/images/articles/jr-pass-anime-pilgrimage-routes-2026/featured.jpg"
-featuredImageAlt: "Enoden train at Kamakura seaside crossing on anime pilgrimage route"
-author: "Takapon"
-excerpt: "Is the JR Pass worth it for hitting multiple anime locations? Sometimes yes, sometimes not. Visitor reports show plenty of cases where IC cards would have saved ¥15,000, and others where the pass paid for itself three times over on Tokyo-Kyoto-Osaka. Here are four specific pilgrimage routes with exact math."
+featuredImage: /images/articles/jr-pass-anime-pilgrimage-routes-2026/featured.jpg
+featuredImageAlt: Enoden train at Kamakura seaside crossing on anime pilgrimage route
+author: Takapon
+excerpt: >-
+  Is the JR Pass worth it for hitting multiple anime locations? Sometimes yes,
+  sometimes not. Visitor reports show plenty of cases where IC cards would have
+  saved ¥15,000, and others where the pass paid for itself three times over on
+  Tokyo-Kyoto-Osaka. Here are four specific pilgrimage routes with exact math.
 relatedSlugs: []
 wpPostId: 538
-robots: "noindex,follow"
-canonical: "https://www.japan-pop-now.com/articles/japan-rail-pass-2026-guide"
+robots: 'noindex,follow'
+canonical: 'https://www.japan-pop-now.com/articles/japan-rail-pass-2026-guide'
 ---
 
 
@@ -157,7 +164,7 @@ This route doesn’t work for a JR Pass because the distances are short (you’r
 
 
 ![Two physical Japan Rail Pass cards on a table beside a Japan railway map and a tea cup, the kind anime fans receive after exchanging their voucher](/images/articles/jr-pass-anime-pilgrimage-routes-2026/body-wikimedia-2.webp)
-*Two physical Japan Rail Pass cards next to a railway map — what your exchange voucher turns into at the JR ticket office. Photo: Emile Donzel / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Japan_Rail_Pass.jpg), CC BY-SA 4.0.*
+*Two physical Japan Rail Pass cards next to a railway map, what your exchange voucher turns into at the JR ticket office. Photo: Emile Donzel / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Japan_Rail_Pass.jpg), CC BY-SA 4.0.*
 
 
 ## How to Buy a JR Pass in 2026

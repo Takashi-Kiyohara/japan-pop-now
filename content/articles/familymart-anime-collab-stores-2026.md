@@ -1,15 +1,24 @@
 ---
-title: "FamilyMart Anime Collab Stores: Japan’s Newest Trend (2026)"
-description: "FamilyMart anime collab stores (2026): Japan's convenience chain turns branches into anime-fan destinations. Locations, current goods, and tips."
-date: "2026-04-03"
-lastUpdated: "2026-04-03"
-category: "cafes"
+title: 'FamilyMart Anime Collab Stores: Japan’s Newest Trend (2026)'
+description: >-
+  FamilyMart anime collab stores (2026): Japan's convenience chain turns
+  branches into anime-fan destinations. Locations, current goods, and tips.
+date: '2026-04-03'
+lastUpdated: '2026-04-03'
+category: cafes
 tags: []
-featuredImage: "/images/articles/familymart-anime-collab-stores-2026/featured.webp"
-featuredImageAlt: "FamilyMart BUSTA Shinjuku store inside Shinjuku Expressway Bus Terminal — flagship Tokyo storefront"
-imageNote: "Images show generic FamilyMart and Ikebukuro context — Durarara!! collab-store interior photography pending Takapon visit. See docs/audit/collab-image-exhausted-20260427.md."
-author: "Takapon"
-excerpt: "FamilyMart Anime Collab Stores: Japan’s Newest Trend (2026) FamilyMart just cracked the code on making convenience stores into tourist..."
+featuredImage: /images/articles/familymart-anime-collab-stores-2026/featured.webp
+featuredImageAlt: >-
+  FamilyMart BUSTA Shinjuku store inside Shinjuku Expressway Bus Terminal —
+  flagship Tokyo storefront
+imageNote: >-
+  Images show generic FamilyMart and Ikebukuro context — Durarara!! collab-store
+  interior photography pending Takapon visit. See
+  docs/audit/collab-image-exhausted-20260427.md.
+author: Takapon
+excerpt: >-
+  FamilyMart Anime Collab Stores: Japan’s Newest Trend (2026) FamilyMart just
+  cracked the code on making convenience stores into tourist...
 relatedSlugs: []
 wpPostId: 608
 ---
@@ -49,9 +58,9 @@ Duration: Typically 4–8 weeks (check dates)
 
 ## Exclusive Merch: What You Can Only Buy Here
 
-![Animate Ikebukuro main store — anchor of the Otome Road anime merch district near the FamilyMart collab store](/images/articles/familymart-anime-collab-stores-2026/body-wikimedia-3.webp)
+![Animate Ikebukuro main store, anchor of the Otome Road anime merch district near the FamilyMart collab store](/images/articles/familymart-anime-collab-stores-2026/body-wikimedia-3.webp)
 **Exclusive to this store:** FamilyMart-branded tote bags, store-exclusive acrylic stands/keychains, limited-edition food packaging, collaboration posters.
-**The buying strategy:** Prioritize exclusive items you can’t get elsewhere. Skip standard merch—buy it on Amazon Japan later.
+**The buying strategy:** Prioritize exclusive items you can’t get elsewhere. Skip standard merch, buy it on Amazon Japan later.
 
 ## Food Items: Limited-Edition Offerings
 - **Character bentos:** ¥980–¥1,200, unique packaging

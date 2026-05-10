@@ -1,14 +1,18 @@
 ---
-title: "One Piece Tokyo 2026: Every Straw Hat Experience Guide"
-description: "One Piece in Tokyo 2026: Base Shop Shinjuku, 5 Mugiwara Stores, One Piece Cafe GENE, and Jump Shop Jimbocho — addresses, hours, and shopping route."
-date: "2026-04-02"
-lastUpdated: "2026-04-02"
-category: "destinations"
+title: 'One Piece Tokyo 2026: Every Straw Hat Experience Guide'
+description: >-
+  One Piece in Tokyo 2026: Base Shop Shinjuku, 5 Mugiwara Stores, One Piece Cafe
+  GENE, and Jump Shop Jimbocho — addresses, hours, and shopping route.
+date: '2026-04-02'
+lastUpdated: '2026-04-02'
+category: destinations
 tags: []
-featuredImage: "/images/articles/one-piece-tokyo-guide-2026/hero-wikimedia.webp"
-featuredImageAlt: "Tokyo Solamachi at Skytree Town — home of the Mugiwara Store flagship"
-author: "Takapon"
-excerpt: "One Piece in Tokyo 2026: Base Shop Shinjuku, 5 Mugiwara Stores, One Piece Cafe GENE at Shibuya PARCO, and Jump Shop Jimbocho — full addresses, hours, route."
+featuredImage: /images/articles/one-piece-tokyo-guide-2026/hero-wikimedia.webp
+featuredImageAlt: Tokyo Solamachi at Skytree Town — home of the Mugiwara Store flagship
+author: Takapon
+excerpt: >-
+  One Piece in Tokyo 2026: Base Shop Shinjuku, 5 Mugiwara Stores, One Piece Cafe
+  GENE at Shibuya PARCO, and Jump Shop Jimbocho — full addresses, hours, route.
 relatedSlugs: []
 wpPostId: 512
 ---
@@ -46,7 +50,7 @@ The flagship One Piece Base Shop opened in December 2025 at Shinjuku Marui Main 
 
 The store's section layout is organized by character and category — the Luffy section alone occupies three full display walls per the operator's floor map. Roughly 500 of the 800 SKUs are Base Shop exclusives unavailable at other retailers, including limited-run figures, collaborations with Japanese fashion brands, and special bundles released monthly.
 
-The store tracks restocks daily and clearly marks quantities for limited items per the operator's display policy. Visitors on Tripadvisor and Twitter (X) regularly report "Sold Out" signs on popular items within 1–2 weeks of arrival — restocks are not guaranteed for limited drops, so plan visits around announcements.
+The store tracks restocks daily and clearly marks quantities for limited items per the operator's display policy. Visitors on Tripadvisor and Twitter (X) regularly report "Sold Out" signs on popular items within 1–2 weeks of arrival, restocks are not guaranteed for limited drops, so plan visits around announcements.
 
             **One Piece Base Shop Shinjuku Details**
 
@@ -67,7 +71,7 @@ Per the operator's listings, exclusive items at the Base Shop typically include 
 ## Mugiwara Store Locations Across Tokyo
 
 
-![Tokyo Solamachi 2F pedway inside Tokyo Skytree Town — Mugiwara Store sits in this complex](/images/articles/one-piece-tokyo-guide-2026/body-wikimedia-2.webp)
+![Tokyo Solamachi 2F pedway inside Tokyo Skytree Town. Mugiwara Store sits in this complex](/images/articles/one-piece-tokyo-guide-2026/body-wikimedia-2.webp)
 
 The Mugiwara Store chain operates 5 locations across Tokyo per the chain directory and remains the most accessible official One Piece retail presence. While the locations carry overlapping inventory, each one has distinct advantages depending on your travel route.
 
@@ -108,7 +112,7 @@ Both the Harajuku and Ikebukuro Mugiwara Stores follow similar patterns: roughly
 
 One Piece Cafe GENE reopened for its Part 2 run on April 1st, 2026, and runs through May 18th. This is a time-limited experience, so if you want to try it, book now. The cafe occupies the 6th floor of Shibuya PARCO in the heart of Shibuya district, about 8 minutes from the station depending on which exit you use.
 
-Reservations open ~3 days in advance per the operator's PARCO Cafe page, with 90-minute seating slots and free reservation (food charges only). Walk-ins face 1-2 hour waits on weekends per visitor reports. The menu features 8 signature dishes themed around different Straw Hat crew members per the operator's menu card — character-themed mains like Luffy-themed bowls and Nami-themed parfaits run in the 1,200-2,000 yen range typical of Tokyo collab cafes per BOX cafe&space's published Tokyo pricing.
+Reservations open ~3 days in advance per the operator's PARCO Cafe page, with 90-minute seating slots and free reservation (food charges only). Walk-ins face 1-2 hour waits on weekends per visitor reports. The menu features 8 signature dishes themed around different Straw Hat crew members per the operator's menu card, character-themed mains like Luffy-themed bowls and Nami-themed parfaits run in the 1,200-2,000 yen range typical of Tokyo collab cafes per BOX cafe&space's published Tokyo pricing.
 
 Each menu item comes with a limited-edition acrylic stand you keep as a souvenir. Across the 8 main menu items, you could theoretically collect 8 different stands per the cafe menu — visitor reports note repeat-visitors trying to complete the set. Drink prices range from 750 to 1,200 yen per the menu, and the cafe offers a limited merchandise selection: enamel pins (850 yen each), clear files (600 yen), and character-specific trays (1,500 yen).
 
@@ -166,7 +170,7 @@ The Shinjuku location is the smallest Jump Shop and feels more like a kiosk than
 ## Recommended Shopping Route
 
 
-![Shibuya PARCO building — home of the One Piece Cafe GENE on the 6th floor](/images/articles/one-piece-tokyo-guide-2026/body-wikimedia-4.webp)
+![Shibuya PARCO building, home of the One Piece Cafe GENE on the 6th floor](/images/articles/one-piece-tokyo-guide-2026/body-wikimedia-4.webp)
 
 Three shopping routes have been mapped using Tokyo Metro / JR transit data — the route below minimizes transit time while hitting the major locations. Use it as a one-day plan:
 
@@ -204,7 +208,7 @@ A handful of practical patterns recur across these locations — useful for shop
 
 
 ### Payment Methods
-All major Tokyo retail locations accept IC cards (Suica, Pasmo), credit cards, and cash. Smaller shops occasionally limit options to cash only. Recommended approach: carry at least 10,000 yen in cash to avoid any friction. Per JNTO's tax-exemption page, many retailers offer tax refunds for foreign tourists making purchases over ¥5,000 — bring your passport if eligible.
+All major Tokyo retail locations accept IC cards (Suica, Pasmo), credit cards, and cash. Smaller shops occasionally limit options to cash only. Recommended approach: carry at least 10,000 yen in cash to avoid any friction. Per JNTO's tax-exemption page, many retailers offer tax refunds for foreign tourists making purchases over ¥5,000, bring your passport if eligible.
 
 
 ### Sizing & Language

@@ -1,17 +1,26 @@
 ---
-title: "My Hero Academia Cafe Tokyo 2026: Ikebukuro Travel Guide"
-description: "Archive of the My Hero Academia 'Diner' pop-up at DECOTTO Animate Cafe Ikebukuro (Apr 3-26, 2026). Event has ended. See current MHA coverage in body."
-date: "2026-04-06"
-lastUpdated: "2026-05-06"
-validUntil: "2026-04-27"
-robots: "noindex,follow"
-category: "cafes"
+title: 'My Hero Academia Cafe Tokyo 2026: Ikebukuro Travel Guide'
+description: >-
+  Archive of the My Hero Academia 'Diner' pop-up at DECOTTO Animate Cafe
+  Ikebukuro (Apr 3-26, 2026). Event has ended. See current MHA coverage in body.
+date: '2026-04-06'
+lastUpdated: '2026-05-06'
+validUntil: '2026-04-27'
+robots: 'noindex,follow'
+category: cafes
 tags: []
-featuredImage: "/images/articles/my-hero-academia-cafe-tokyo-2026/featured.jpg"
-featuredImageAlt: "Kabukicho neon street at night in Shinjuku Tokyo anime district"
-imageNote: "exhausted-permanent — DECOTTO Animate Cafe collab ended 2026-04-26; retroactive Takapon photoshoot impossible. Wikimedia venue photos with caption disclosure are the permanent state. Audit doc: docs/audit/collab-image-exhausted-20260427.md"
-author: "Takapon"
-excerpt: "Planning to visit the My Hero Academia Cafe in Ikebukuro in 2026? This practical guide explains the dates, why Ikebukuro is the best base, and how to turn the..."
+featuredImage: /images/articles/my-hero-academia-cafe-tokyo-2026/featured.jpg
+featuredImageAlt: Kabukicho neon street at night in Shinjuku Tokyo anime district
+imageNote: >-
+  exhausted-permanent — DECOTTO Animate Cafe collab ended 2026-04-26;
+  retroactive Takapon photoshoot impossible. Wikimedia venue photos with caption
+  disclosure are the permanent state. Audit doc:
+  docs/audit/collab-image-exhausted-20260427.md
+author: Takapon
+excerpt: >-
+  Planning to visit the My Hero Academia Cafe in Ikebukuro in 2026? This
+  practical guide explains the dates, why Ikebukuro is the best base, and how to
+  turn the...
 relatedSlugs: []
 wpPostId: 833
 ---
@@ -104,7 +113,7 @@ In other words, this cafe is strongest when either **My Hero Academia is one of 
 ## How to build a better Ikebukuro day around the cafe
 
 
-![How to build a better Ikebukuro day around the cafe — My Hero Academia Cafe Tokyo 2026](/images/articles/my-hero-academia-cafe-tokyo-2026/3.jpg)
+![How to build a better Ikebukuro day around the cafe. My Hero Academia Cafe Tokyo 2026](/images/articles/my-hero-academia-cafe-tokyo-2026/3.jpg)
 
 
 ### Option 1: Cafe-first half day
@@ -131,7 +140,7 @@ If you want to combine neighborhoods, keep it realistic. Ikebukuro and Akihabara
 This is useful because not every traveler should choose the same kind of anime experience. My Hero Academia Cafe is best for **compact Tokyo planning**, not for people who want one giant convention-scale day.
 
 
-![Universal Studios Japan entrance globe — the larger-scale alternative for fans wanting a destination MHA day via USJ Universal Cool Japan](/images/articles/my-hero-academia-cafe-tokyo-2026/body-wikimedia-4.webp)
+![Universal Studios Japan entrance globe, the larger-scale alternative for fans wanting a destination MHA day via USJ Universal Cool Japan](/images/articles/my-hero-academia-cafe-tokyo-2026/body-wikimedia-4.webp)
 *Universal Studios Japan entrance — USJ has historically hosted large-scale My Hero Academia attractions through Universal Cool Japan (Photo: Wikimedia Commons, CC BY-SA 4.0)*
 
 

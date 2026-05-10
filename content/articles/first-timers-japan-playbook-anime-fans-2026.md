@@ -1,25 +1,36 @@
-﻿---
-title: "The First-Timer's Japan Playbook for Anime Fans (2026)"
-description: "Plan your first Japan trip: hour-by-hour arrival, IC card, eSIM, cash rules, collab cafe booking, and etiquette for first-time anime fans."
-date: "2026-04-10"
-lastUpdated: "2026-04-10"
-updated: "2026-04-10"
-category: "experiences"
-feature: "first-timers-field-notes"
-tags: ["first-time", "tokyo", "arrival", "planning", "playbook", "anime-tourism"]
-featuredImage: "/images/articles/first-timers-japan-playbook-anime-fans-2026/featured.jpg"
-featuredImageAlt: "First-time anime fan arriving at Tokyo station with luggage and IC card ready"
-author: "Takapon"
-excerpt: "An hour-by-hour first-timer's playbook: what to book before you fly, what to grab at the airport, how cash works in 2026, and the unspoken rules nobody tells you."
+---
+title: The First-Timer's Japan Playbook for Anime Fans (2026)
+description: >-
+  Plan your first Japan trip: hour-by-hour arrival, IC card, eSIM, cash rules,
+  collab cafe booking, and etiquette for first-time anime fans.
+date: '2026-04-10'
+lastUpdated: '2026-04-10'
+updated: '2026-04-10'
+category: experiences
+feature: first-timers-field-notes
+tags:
+  - first-time
+  - tokyo
+  - arrival
+  - planning
+  - playbook
+  - anime-tourism
+featuredImage: /images/articles/first-timers-japan-playbook-anime-fans-2026/featured.jpg
+featuredImageAlt: First-time anime fan arriving at Tokyo station with luggage and IC card ready
+author: Takapon
+excerpt: >-
+  An hour-by-hour first-timer's playbook: what to book before you fly, what to
+  grab at the airport, how cash works in 2026, and the unspoken rules nobody
+  tells you.
 relatedSlugs:
-  - "japan-ic-card-transit-guide"
-  - "japan-esim-pocket-wifi-sim-card"
-  - "japan-rail-pass-2026-guide"
-  - "japan-luggage-forwarding-2026"
-  - "japan-trip-checklist-anime-fans-2026"
-  - "how-to-book-anime-collab-cafe-japan"
-  - "akihabara-complete-guide-2026"
-  - "tokyo-anime-district-guide"
+  - japan-ic-card-transit-guide
+  - japan-esim-pocket-wifi-sim-card
+  - japan-rail-pass-2026-guide
+  - japan-luggage-forwarding-2026
+  - japan-trip-checklist-anime-fans-2026
+  - how-to-book-anime-collab-cafe-japan
+  - akihabara-complete-guide-2026
+  - tokyo-anime-district-guide
 ---
 
 
@@ -54,7 +65,7 @@ This playbook captures the practices that first-time Tokyo visitors most commonl
 
 Here is the exact order I give friends landing at either airport:
 
-1. **Immigration and baggage claim (30-50 min).** Have your QR code from [Visit Japan Web](https://www.digital.go.jp/en/) ready on your phone — the [Digital Agency](https://www.digital.go.jp/en/) operates this entry portal as the official immigration and customs declaration channel. The paper arrival card is being phased out.
+1. **Immigration and baggage claim (30-50 min).** Have your QR code from [Visit Japan Web](https://www.digital.go.jp/en/) ready on your phone, the [Digital Agency](https://www.digital.go.jp/en/) operates this entry portal as the official immigration and customs declaration channel. The paper arrival card is being phased out.
 2. **ATM before you exit the arrivals hall (5 min).** Pull 30,000 to 50,000 yen from a 7-Bank or Japan Post ATM. Both accept foreign cards. Airport currency-exchange counters give you a worse rate.
 3. **SIM or pocket wifi pickup (10 min).** If you pre-ordered an eSIM you are done in 2 minutes. If you booked pocket wifi, pick up at the Ninja WiFi or Japan Wireless counter.
 4. **IC card (10 min).** Buy a Welcome Suica or PASMO Passport at the JR East Travel Service Center. Or enable a mobile Suica on your phone at your seat before you even stand up — this takes 90 seconds in the Apple Wallet or Google Wallet and skips every queue.
@@ -75,7 +86,7 @@ Here is the seven-item booking list I send friends two to four weeks before they
 
 - **Accommodation in the right neighborhood.** For anime fans, the winners are Akihabara, Ikebukuro, Shibuya, and Shinjuku. Sleeping in Asakusa or Ginza is pretty but puts 25 minutes of commute between you and every shop or cafe you came for.
 - **eSIM or pocket wifi.** An eSIM is faster. See our [eSIM and pocket wifi comparison](/articles/japan-esim-pocket-wifi-sim-card) for the three plans I actually recommend.
-- **JR Pass — only if it pays off.** The 7-day JR Pass is priced at 50,000 yen per [japanrailpass.net](https://www.japanrailpass.net/en/) at the time of writing. It only pays off if you are doing a Tokyo to Kyoto round trip plus Osaka, or heavy anime pilgrimage travel. Our [JR Pass 2026 guide](/articles/japan-rail-pass-2026-guide) has a break-even calculator.
+- **JR Pass, only if it pays off.** The 7-day JR Pass is priced at 50,000 yen per [japanrailpass.net](https://www.japanrailpass.net/en/) at the time of writing. It only pays off if you are doing a Tokyo to Kyoto round trip plus Osaka, or heavy anime pilgrimage travel. Our [JR Pass 2026 guide](/articles/japan-rail-pass-2026-guide) has a break-even calculator.
 - **Collab cafe reservations.** Most Tokyo anime collab cafes open bookings 2 to 4 weeks ahead and fill up in under an hour. The Japanese-only reservation flow is the single biggest blocker for international fans. See our [collab cafe booking guide](/articles/how-to-book-anime-collab-cafe-japan).
 - **Airport transfer (optional).** Narita Express ticket in advance if you do not have a JR Pass. Skyliner tickets are cheaper through Klook.
 - **Theme park tickets.** Tokyo Disney, USJ (for Universal Cool Japan), Ghibli Park — all sell out the popular dates. Ghibli Park in particular releases a month out at 2 PM JST.
@@ -84,7 +95,7 @@ Here is the seven-item booking list I send friends two to four weeks before they
 
 ## What to Grab at the Airport
 
-There are exactly three things worth spending time on at the airport: cash, SIM, and IC card. Everything else — souvenirs, rail passes you did not pre-buy, breakfast — will be cheaper or better in the city.
+There are exactly three things worth spending time on at the airport: cash, SIM, and IC card. Everything else — souvenirs, rail passes you did not pre-buy, breakfast, will be cheaper or better in the city.
 
 **Skip the airport limousine bus counters.** The bus is comfortable but not faster than the train for most Tokyo destinations. It also costs more.
 
@@ -102,7 +113,7 @@ The biggest lie told about Japan online is that it is suddenly a cashless countr
 **You will need cash for:**
 
 - Small ramen shops and old-school *izakaya* (居酒屋) that still do not accept cards
-- Shrine and temple offerings — always 5 or 10 yen coins
+- Shrine and temple offerings, always 5 or 10 yen coins
 - Small collab cafe bento shops, pop-up stands, and doujin market payments
 - Many coin lockers (though Suica-enabled lockers are spreading)
 - Most taxis outside of Tokyo's 23 wards
@@ -113,7 +124,7 @@ The biggest lie told about Japan online is that it is suddenly a cashless countr
 
 **You will not need cash for:**
 
-- Konbini (7-Eleven, Lawson, FamilyMart) — all accept cards and mobile pay
+- Konbini (7-Eleven, Lawson, FamilyMart), all accept cards and mobile pay
 - Major department stores, chain restaurants, and train companies
 - Anime chain retailers like Animate, Mandarake, Kotobukiya
 - Most hotel chains and reputable booking platforms
@@ -139,7 +150,7 @@ I keep this as a single list because it is exactly what I paste to every friend 
 - Power adapter (Japan uses Type A, 100V)
 - An empty water bottle to refill at vending machines
 - Small hand sanitizer (some older shops still prefer it)
-- A handkerchief or small towel — public restrooms often have no paper towels or dryers
+- A handkerchief or small towel, public restrooms often have no paper towels or dryers
 
 If you are planning to do figure shopping or cosplay buying, see our [anime trip checklist for fans](/articles/japan-trip-checklist-anime-fans-2026) for the specific customs rules on bringing merchandise home.
 
@@ -156,7 +167,7 @@ These are the small cultural rules that most Tokyo locals will forgive you for b
 
 **On the sidewalk.** Walk on the left in Tokyo, right in Osaka — yes, really. Do not eat while walking in most neighborhoods. Smoke only in designated smoking areas. Keep trash with you until you find a bin, because there are almost none in public.
 
-**At shrines and temples.** Bow once before passing through the *torii* (鳥居). Rinse hands at the *temizuya* (手水舎). Toss a 5-yen coin before praying — 5 yen (*go-en*, 五円) is homophonous with the word for a good connection (also pronounced *go-en*). Do not take photos inside the main hall.
+**At shrines and temples.** Bow once before passing through the *torii* (鳥居). Rinse hands at the *temizuya* (手水舎). Toss a 5-yen coin before praying. 5 yen (*go-en*, 五円) is homophonous with the word for a good connection (also pronounced *go-en*). Do not take photos inside the main hall.
 
 **Near pilgrimage spots.** This matters most for anime fans. Many *seichi junrei* (聖地巡礼) locations are residential neighborhoods or working shrines. Keep your voice down, do not block driveways, and never knock on real houses that appear in anime.
 
@@ -167,12 +178,12 @@ Most visitors describe their first trip to Japan as a sensory overload followed 
 
 Part of this is practical. Public trust is high, so shops run on low-friction systems. Service workers are paid stable wages rather than tips, so the interaction is warm but transactional rather than performative. Noise is minimized everywhere because shared space is taken seriously.
 
-Part of it is aesthetic. Japanese pop culture — anime, manga, J-pop, gaming — grew up inside that context. The slice-of-life genre exists because ordinary life here actually has a lot of quiet moments worth showing on screen. When you visit a real *seichi junrei* spot, you are walking through the same kind of quiet street the animators drew from memory.
+Part of it is aesthetic. Japanese pop culture, anime, manga, J-pop, gaming — grew up inside that context. The slice-of-life genre exists because ordinary life here actually has a lot of quiet moments worth showing on screen. When you visit a real *seichi junrei* spot, you are walking through the same kind of quiet street the animators drew from memory.
 
 That is why I think the first Japan trip hits anime fans harder than any other kind of tourism. The background art of your favorite show is real, the vending machines are real, the train announcements are real, and you already know what they sound like. You do not feel like a tourist. You feel like someone who finally got to walk onto a set.
 
 
-![Quiet Tokyo residential alley at dusk with soft streetlamps — the slice-of-life aesthetic anime fans recognize instantly](/images/articles/first-timers-japan-playbook-anime-fans-2026/body3.jpg)
+![Quiet Tokyo residential alley at dusk with soft streetlamps, the slice-of-life aesthetic anime fans recognize instantly](/images/articles/first-timers-japan-playbook-anime-fans-2026/body3.jpg)
 
 
 ## Practical Info Quick Reference
@@ -212,7 +223,7 @@ Yes, but most reservation portals are Japanese-only and require a Japanese phone
 
 **Q: Is Tokyo really safe for solo travelers?**
 
-Yes, Tokyo is one of the safest major cities in the world for solo travelers including solo women. Late-night train rides, 24-hour convenience stores, and walking back to your hotel at midnight are all routine. Normal travel precautions still apply — keep your bag zipped, watch for drunk crowds near Shinjuku Kabukicho, and do not leave valuables on cafe tables.
+Yes, Tokyo is one of the safest major cities in the world for solo travelers including solo women. Late-night train rides, 24-hour convenience stores, and walking back to your hotel at midnight are all routine. Normal travel precautions still apply, keep your bag zipped, watch for drunk crowds near Shinjuku Kabukicho, and do not leave valuables on cafe tables.
 
 **Q: What is the worst time of year for a first-time anime trip?**
 
@@ -222,10 +233,10 @@ Late July through mid-August (peak summer) is brutal — 35 degrees Celsius, hum
 ## More Travel Tips Guides
 
 - [IC Card and Transit Guide](/articles/japan-ic-card-transit-guide) — which card to buy and how to tap through Tokyo like a local.
-- [eSIM and Pocket Wifi Guide](/articles/japan-esim-pocket-wifi-sim-card) — the three plans I actually recommend.
+- [eSIM and Pocket Wifi Guide](/articles/japan-esim-pocket-wifi-sim-card), the three plans I actually recommend.
 - [Luggage Forwarding Guide](/articles/japan-luggage-forwarding-2026) — how to skip the suitcase-on-the-Shinkansen stress.
 - [Anime Trip Checklist](/articles/japan-trip-checklist-anime-fans-2026) — customs rules, packing, merch space.
-- [Akihabara Complete Guide](/articles/akihabara-complete-guide-2026) — your first day's anime walking route.
+- [Akihabara Complete Guide](/articles/akihabara-complete-guide-2026), your first day's anime walking route.
 - [Tokyo Anime Districts](/articles/tokyo-anime-district-guide) — where to go after Akihabara.
 
 

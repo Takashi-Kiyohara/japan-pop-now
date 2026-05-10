@@ -1,14 +1,20 @@
 ---
-title: "Jujutsu Kaisen Shibuya Locations: Complete 2026 Guide"
-description: "Jujutsu Kaisen Shibuya pilgrimage guide 2026: Shibuya Incident arc locations, walking routes, and where the show's scenes actually map onto real streets."
-date: "2026-04-03"
-lastUpdated: "2026-04-03"
-category: "destinations"
+title: 'Jujutsu Kaisen Shibuya Locations: Complete 2026 Guide'
+description: >-
+  Jujutsu Kaisen Shibuya pilgrimage guide 2026: Shibuya Incident arc locations,
+  walking routes, and where the show's scenes actually map onto real streets.
+date: '2026-04-03'
+lastUpdated: '2026-04-03'
+category: destinations
 tags: []
-featuredImage: "/images/articles/jujutsu-kaisen-shibuya-locations-2026/featured.webp"
-featuredImageAlt: "Shibuya Scramble Crossing aerial view, the iconic Jujutsu Kaisen pilgrimage location"
-author: "Takapon"
-excerpt: "Jujutsu Kaisen Shibuya Pilgrimage Guide: Location Matching & Walking Routes Shibuya in 2024 became the epicenter of Jujutsu Kaisen’s..."
+featuredImage: /images/articles/jujutsu-kaisen-shibuya-locations-2026/featured.webp
+featuredImageAlt: >-
+  Shibuya Scramble Crossing aerial view, the iconic Jujutsu Kaisen pilgrimage
+  location
+author: Takapon
+excerpt: >-
+  Jujutsu Kaisen Shibuya Pilgrimage Guide: Location Matching & Walking Routes
+  Shibuya in 2024 became the epicenter of Jujutsu Kaisen’s...
 relatedSlugs: []
 wpPostId: 604
 ---
@@ -17,7 +23,7 @@ Jujutsu Kaisen Shibuya Pilgrimage Guide: Location Matching & Walking Routes
 
 Shibuya in 2024 became the epicenter of Jujutsu Kaisen’s most devastating arc. The Shibuya Incident episode runs, which aired between September and November 2024, turned one of Tokyo’s most recognizable districts into a pilgrimage destination for anime fans willing to walk real streets and stand in the exact locations where Gojo and Yuji faced off against Sukuna. The last six months of editorial mapping work — comparing satellite imagery to key scenes, and figuring out the most efficient 2-3 hour walking route. This guide tells you exactly where to go.
 
-The anime’s location accuracy is nearly perfect. Director Sunghoo Park and the [MAPPA](https://mappa.co.jp/) team didn’t just use Shibuya as inspiration—they mapped the actual geography into their storyboards ([source: official Jujutsu Kaisen anime site](https://jujutsukaisen-anime.com/)). The result: you can stand in Hachiko Square and see the exact angle where the barrier activated in episode 148. You can walk to Shibuya 109 and recognize the building’s curves in the backdrop of a curse encounter. This isn’t vague anime pilgrimage stuff. These are specific coordinates with specific scenes.
+The anime’s location accuracy is nearly perfect. Director Sunghoo Park and the [MAPPA](https://mappa.co.jp/) team didn’t just use Shibuya as inspiration, they mapped the actual geography into their storyboards ([source: official Jujutsu Kaisen anime site](https://jujutsukaisen-anime.com/)). The result: you can stand in Hachiko Square and see the exact angle where the barrier activated in episode 148. You can walk to Shibuya 109 and recognize the building’s curves in the backdrop of a curse encounter. This isn’t vague anime pilgrimage stuff. These are specific coordinates with specific scenes.
 
 
 ## Why Shibuya Matters in Jujutsu Kaisen
@@ -29,7 +35,7 @@ The manga, written by Gege Akutami, treated Shibuya as a detailed set. In interv
 
 ## Before You Go: Logistics
 
-*Shibuya is also a major anime and pop culture hub — see our [Shibuya & Harajuku Pop Culture Guide](/articles/shibuya-harajuku-pop-culture-guide) for shops and cafes nearby.*
+*Shibuya is also a major anime and pop culture hub, see our [Shibuya & Harajuku Pop Culture Guide](/articles/shibuya-harajuku-pop-culture-guide) for shops and cafes nearby.*
 
 **Best time to visit:** Weekday mornings (Tuesday-Thursday, 7am-9am) give you empty streets. This matters for two reasons: you’ll get clean photos of Scramble Crossing without 3,000 people in frame, and you’ll actually feel the scale of the locations without crowd noise. Weekends turn Shibuya into a scrum of tourists and shoppers. Go early.
 
@@ -47,7 +53,7 @@ For solo pilgrims: download Google Maps offline and grab the location coordinate
 Hachiko Square is where the Shibuya Incident actually begins in the anime. This is the location where the curse barrier first appears—where you see the blue-ish distortion effect that traps thousands of people in Shibuya. In episode 148, the barrier activation is shown from multiple angles, and those angles are accurate to real Hachiko Square geography.
 
 
-![Hachiko bronze statue in Hachiko Square, Shibuya — the southeast-corner landmark of the plaza where the JJK barrier activation scene begins](/images/articles/jujutsu-kaisen-shibuya-locations-2026/body-wikimedia-2.webp)
+![Hachiko bronze statue in Hachiko Square, Shibuya, the southeast-corner landmark of the plaza where the JJK barrier activation scene begins](/images/articles/jujutsu-kaisen-shibuya-locations-2026/body-wikimedia-2.webp)
 *Hachiko bronze statue at Hachiko Square — the iconic landmark on the southeast corner of the plaza where the JJK Shibuya Incident barrier first activates. The square geometry visible here matches the anime's depiction. Photo: Bryan Ledgard / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hachiko_(49994232413).jpg), CC BY 2.0.*
 
 The square itself is a 40m x 40m plaza in front of Shibuya Station’s Hachiko exit. The famous Hachiko statue sits on the southeast corner. In the anime, the barrier appears roughly in the center of the square, which means standing center-square and photographing outward roughly matches the animation’s perspective. The JR train station building is visible in several shots—that’s the real building you see now.
@@ -71,11 +77,11 @@ Photos: Face south toward the station building for matching angles
 Time to spend here: 15-20 minutes for photos and scene matching.
 
 
-### 2. Shibuya 109 — The Barrier Core
+### 2. Shibuya 109. The Barrier Core
 [Shibuya 109](https://shibuya109.jp/) is the cylindrical shopping building that’s impossible to miss. The official site lists building hours as 10:00–21:00 and floors B2 through 8F covering fashion, cosmetics, dining and tax-free retail ([source: Shibuya 109 official site](https://shibuya109.jp/)). In the anime, it serves as a visual anchor point for the barrier’s core location. You see it in multiple episodes as the camera pans across the barrier zone. The building’s distinctive circular architecture appears in several frames showing the curse barrier’s perimeter.
 
 
-![Shibuya 109 cylindrical fashion building — the iconic Dogenzaka landmark used as a visual anchor for the barrier core in JJK Shibuya Incident](/images/articles/jujutsu-kaisen-shibuya-locations-2026/body-wikimedia-3.webp)
+![Shibuya 109 cylindrical fashion building, the iconic Dogenzaka landmark used as a visual anchor for the barrier core in JJK Shibuya Incident](/images/articles/jujutsu-kaisen-shibuya-locations-2026/body-wikimedia-3.webp)
 *Shibuya 109 — the cylindrical 10-story fashion building at the Dogenzaka / Center-gai intersection. Its distinctive curved facade appears in multiple JJK Shibuya Incident wide-shot establishing frames. Photo: Wikimedia contributor / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Shibuya_109_-_1.jpg), CC BY-SA 4.0.*
 
 109 is a 10-story building devoted entirely to fashion retail. From Hachiko Square, you walk southwest for about 400m to reach it. The walk itself takes you through Dogenzaka, which is also depicted in the anime (we’ll cover that separately).
@@ -99,12 +105,12 @@ Instagram: @shibuya109official
 Time to spend: 10-15 minutes for exterior photos. If you want to shop, add 30+ minutes.
 
 
-### 3. Shibuya Scramble Crossing — The Battle Stage
+### 3. Shibuya Scramble Crossing. The Battle Stage
 Shibuya Scramble Crossing is the world’s most crowded pedestrian crossing, handling roughly 3,000 people per crossing cycle during peak hours. In the anime, it appears as an open arena where major battles unfold. Several episodes show character confrontations happening across the crossing itself—where in reality, 3,000 people would be walking.
 
 
 ![Shibuya Scramble Crossing at dusk — the real-world stage for the JJK Shibuya Incident arc battle scenes](/images/articles/jujutsu-kaisen-shibuya-locations-2026/body-wikimedia.webp)
-*Shibuya Scramble Crossing at night — the main intersection used as the combat stage during the JJK Shibuya Incident arc. Photo: Benh LIEU SONG / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tokyo_Shibuya_Scramble_Crossing_2018-10-09.jpg), CC BY-SA 2.0.*
+*Shibuya Scramble Crossing at night, the main intersection used as the combat stage during the JJK Shibuya Incident arc. Photo: Benh LIEU SONG / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tokyo_Shibuya_Scramble_Crossing_2018-10-09.jpg), CC BY-SA 2.0.*
 
 The crossing sits directly in front of Shibuya Station, accessible from the Hachiko exit by crossing the main street. The anime depicts it from above (drone/aerial perspective) and from ground level. The aerial shots are accurate to actual crossing geometry. The ground-level shots show specific building facades in the background that you can match with current-day Shibuya.
 
@@ -133,7 +139,7 @@ Time to spend: 20-30 minutes (including waits for crossing cycles).
 Dogenzaka is the main commercial street running from Hachiko Square southwestward toward 109 and beyond. In the anime, several curse encounters happen along this street. The road’s geometry, building placement, and street-level architecture all match the anime’s depiction.
 
 
-![Dogenzaka street in Shibuya — the main commercial slope running from Hachiko Square toward 109, used as a chase route in JJK's Shibuya Incident](/images/articles/jujutsu-kaisen-shibuya-locations-2026/body-wikimedia-9.webp)
+![Dogenzaka street in Shibuya, the main commercial slope running from Hachiko Square toward 109, used as a chase route in JJK's Shibuya Incident](/images/articles/jujutsu-kaisen-shibuya-locations-2026/body-wikimedia-9.webp)
 *Dogenzaka — the wide commercial slope that connects Hachiko Square to Shibuya 109. The street's geometry and building placement match several JJK fight-scene backdrops. Photo: Wikimedia contributor / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Dogenzaka_shibuya_2403.jpg), CC0.*
 
 Walking down Dogenzaka now, you’ll recognize certain building shapes, street widths, and intersection angles from episode fight scenes. The street is lined with restaurants, clothing shops, and game arcades. In the anime, this becomes a chase route and battle location. The actual street is wide enough and straight enough that the anime’s depiction feels accurate.
@@ -161,7 +167,7 @@ Time to spend: 15-20 minutes walking and photographing.
 Center-gai is a pedestrian-only shopping street running perpendicular to Meiji-dori. In the anime, it appears as a secondary arena where characters move between the main barrier zone and surrounding areas. The street’s layout, building curvature, and pedestrian-friendly design all appear in the show.
 
 
-![Center-Gai pedestrian street in Shibuya on a rainy afternoon — the main shopping artery of Shibuya used as a secondary arena in JJK Shibuya Incident](/images/articles/jujutsu-kaisen-shibuya-locations-2026/body-wikimedia-4.webp)
+![Center-Gai pedestrian street in Shibuya on a rainy afternoon, the main shopping artery of Shibuya used as a secondary arena in JJK Shibuya Incident](/images/articles/jujutsu-kaisen-shibuya-locations-2026/body-wikimedia-4.webp)
 *Center-Gai — the pedestrian-only shopping street running perpendicular to Meiji-dori. Several JJK scene compositions match specific angles you see walking down this street. Photo: Wikimedia contributor / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Shibuya_Center_Gai_on_a_rainy_afternoon.jpg), CC BY-SA 4.0.*
 
 This is where you’ll see some of the anime’s most accurate architectural recreation. Certain buildings on Center-gai have distinctive curved facades or angled corners that appear in multiple episodes. Standing at specific points along Center-gai and looking in certain directions recreates several scene compositions from the Shibuya Incident arc.
@@ -182,7 +188,7 @@ Time to spend: 10-15 minutes.
 
 
 ### 6. Shibuya Mark City — Evacuation Route Backdrop
-Shibuya Mark City is the large commercial-office building on the east side of Shibuya Station. In the anime, it appears in several wide shots showing the barrier zone’s perimeter and the evacuation routes. The building’s distinctive architecture—particularly its upper floors and connecting bridge—appears in multiple episode frames.
+Shibuya Mark City is the large commercial-office building on the east side of Shibuya Station. In the anime, it appears in several wide shots showing the barrier zone’s perimeter and the evacuation routes. The building’s distinctive architecture—particularly its upper floors and connecting bridge, appears in multiple episode frames.
 
 
 ![Shibuya Mark City East tower — the large mixed-use commercial and office building adjacent to Shibuya Station, used as a wide-shot backdrop in JJK Shibuya Incident](/images/articles/jujutsu-kaisen-shibuya-locations-2026/body-wikimedia-8.webp)
@@ -205,12 +211,12 @@ Price: Free to walk outside
 Time to spend: 5-10 minutes for exterior photos.
 
 
-### 7. Miyashita Park Area — Upper Barrier Zone
+### 7. Miyashita Park Area. Upper Barrier Zone
 Miyashita Park is a multi-level shopping and dining complex slightly south of the main Scramble Crossing. In the anime, it appears as part of the expanded barrier zone—representing the boundary between the central curse-sealed area and the surrounding streets. The park’s architecture is modern and distinctive, and it appears in several aerial shots.
 
 
 ![Miyashita Park elevated multi-level park complex in Shibuya — the modern architecture appears as part of the expanded barrier zone in JJK Shibuya Incident](/images/articles/jujutsu-kaisen-shibuya-locations-2026/body-wikimedia-7.webp)
-*Miyashita Park (opened 2019) — the elevated multi-level shopping and dining complex south of Scramble Crossing. The park's distinctive horizontal architecture appears in several JJK aerial barrier-perimeter shots. Photo: Wikimedia contributor / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Miyashita_Park_seen_from_Shibuya_Stream.jpg), CC0.*
+*Miyashita Park (opened 2019), the elevated multi-level shopping and dining complex south of Scramble Crossing. The park's distinctive horizontal architecture appears in several JJK aerial barrier-perimeter shots. Photo: Wikimedia contributor / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Miyashita_Park_seen_from_Shibuya_Stream.jpg), CC0.*
 
 Miyashita Park opened in 2019, so it’s newer than the manga’s original writing, but it’s integrated into how people now navigate south Shibuya. In the anime, the park area’s relationship to surrounding streets is accurate enough for location matching.
 
@@ -316,7 +322,7 @@ Website: [ichiran.com](https://ichiran.com/)
 
 **Omotesando Koffee (near Miyashita Park)**
 
-Omotesando Koffee is a upscale coffee roastery about 10 minutes from Miyashita Park (you’d encounter it if you walk west toward Omotesando Avenue). They serve exceptional pour-overs and seasonal espresso drinks in a minimalist space. Cost: ¥1,200-1,600 for specialty coffees. This is a slower, more deliberate coffee experience—better suited for after the pilgrimage rather than during.
+Omotesando Koffee is a upscale coffee roastery about 10 minutes from Miyashita Park (you’d encounter it if you walk west toward Omotesando Avenue). They serve exceptional pour-overs and seasonal espresso drinks in a minimalist space. Cost: ¥1,200-1,600 for specialty coffees. This is a slower, more deliberate coffee experience, better suited for after the pilgrimage rather than during.
 
 **Omotesando Koffee**
 
@@ -335,7 +341,7 @@ Website: omotesando-koffee.com
 
 ## Combining with Other Anime Pilgrimages
 
-If you’re doing a multi-day anime tourism trip to Tokyo, Shibuya fits logically with several other locations. [Shibuya and Harajuku share overlapping geography](/articles/shibuya-harajuku-pop-culture-guide/)—Meiji-dori connects them directly, and you can walk between the two neighborhoods in about 20 minutes. If you’re combining pilgrimage spots, consider doing Shibuya in the morning and Harajuku in the afternoon.
+If you’re doing a multi-day anime tourism trip to Tokyo, Shibuya fits logically with several other locations. [Shibuya and Harajuku share overlapping geography](/articles/shibuya-harajuku-pop-culture-guide/). Meiji-dori connects them directly, and you can walk between the two neighborhoods in about 20 minutes. If you’re combining pilgrimage spots, consider doing Shibuya in the morning and Harajuku in the afternoon.
 
 If you’re interested in broader anime location tourism, [Tokyo anime pilgrimage spots](/articles/anime-pilgrimage-spots-tokyo/) covers locations across the city. Shibuya is one of the densest zones (roughly 10 significant locations in 3 square kilometers), which makes it ideal for a single morning or afternoon session.
 
@@ -361,7 +367,7 @@ If you visit Shibuya Station’s crowded passages, be aware that station staff m
 
 ## The Bigger Picture: Why Shibuya Matters
 
-The Shibuya Incident arc is Jujutsu Kaisen’s turning point. It’s where fans watch the story fundamentally change. Walking these locations now—in April 2026, roughly 1.5 years after the anime aired—lets you experience the setting in a way that re-reading the manga can’t quite match. You’re standing in the actual spaces the animation referenced. You’re seeing the real geography that the mangaka studied.
+The Shibuya Incident arc is Jujutsu Kaisen’s turning point. It’s where fans watch the story fundamentally change. Walking these locations now—in April 2026, roughly 1.5 years after the anime aired, lets you experience the setting in a way that re-reading the manga can’t quite match. You’re standing in the actual spaces the animation referenced. You’re seeing the real geography that the mangaka studied.
 
 That’s what makes anime pilgrimage worth doing: understanding the creator’s vision for spatial layout and atmosphere. Shibuya’s density makes this clear. Akutami designed the arc around Shibuya’s specific geography because the geography mattered to the story. Walking it confirms that relationship.
 
@@ -411,12 +417,12 @@ Yes, Shibuya is well-lit and patrolled. Avoid standing still in the middle of th
 
 ### Are there current Jujutsu Kaisen pop-ups in Shibuya?
 
-Rotating. Check the Shibuya Jump Shop and PARCO 6F event space — both run JJK-themed pop-ups 3–4 times a year. Dates appear on the official Jump Shop X account.
+Rotating. Check the Shibuya Jump Shop and PARCO 6F event space, both run JJK-themed pop-ups 3–4 times a year. Dates appear on the official Jump Shop X account.
 
 
 ![Shibuya PARCO building exterior — the 6F event space here regularly hosts JJK pop-up shops and themed cafes](/images/articles/jujutsu-kaisen-shibuya-locations-2026/body-wikimedia-5.webp)
 *Shibuya PARCO — the redeveloped flagship that reopened in 2019. The 6F event space regularly hosts Jujutsu Kaisen pop-up stores and themed promotions, typically tied to anime broadcast windows. Photo: Wikimedia contributor / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Shibuya_Parco_191229b.jpg), CC BY-SA 4.0.*
 
 
-![Cerulean Tower Tokyu Hotel in Shibuya — the high-rise that appears in JJK Shibuya Incident establishing wide shots above the barrier zone](/images/articles/jujutsu-kaisen-shibuya-locations-2026/body-wikimedia-6.webp)
+![Cerulean Tower Tokyu Hotel in Shibuya, the high-rise that appears in JJK Shibuya Incident establishing wide shots above the barrier zone](/images/articles/jujutsu-kaisen-shibuya-locations-2026/body-wikimedia-6.webp)
 *Cerulean Tower — the high-rise hotel and office tower south of Shibuya Station. It appears in several JJK Shibuya Incident wide-angle aerial shots showing the barrier-zone perimeter from the south. Photo: Wikimedia contributor / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cerulean_Tower.jpg), CC0.*

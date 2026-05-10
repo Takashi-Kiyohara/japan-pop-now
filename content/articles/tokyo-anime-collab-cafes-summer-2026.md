@@ -1,15 +1,19 @@
 ---
-title: "Tokyo Anime Cafes Summer 2026: What's Open & How to Book"
-description: "Tokyo anime collab cafes summer 2026: 15-20 active themed cafes, what's open by month, plus how to book reservations and walk-in venues across the city."
-date: "2026-04-05"
-lastUpdated: "2026-04-05"
-validUntil: "2026-08-31"
-category: "cafes"
+title: 'Tokyo Anime Cafes Summer 2026: What''s Open & How to Book'
+description: >-
+  Tokyo anime collab cafes summer 2026: 15-20 active themed cafes, what's open
+  by month, plus how to book reservations and walk-in venues across the city.
+date: '2026-04-05'
+lastUpdated: '2026-04-05'
+validUntil: '2026-08-31'
+category: cafes
 tags: []
-featuredImage: "/images/articles/tokyo-anime-collab-cafes-summer-2026/featured.jpg"
-featuredImageAlt: "Rainbow Bridge and Tokyo Harbor summer cityscape"
-author: "Takapon"
-excerpt: "Tokyo anime collab cafes summer 2026: 15-20 active themed cafes, what's open by month, plus how to book reservations and walk-in venues across the city."
+featuredImage: /images/articles/tokyo-anime-collab-cafes-summer-2026/featured.jpg
+featuredImageAlt: Rainbow Bridge and Tokyo Harbor summer cityscape
+author: Takapon
+excerpt: >-
+  Tokyo anime collab cafes summer 2026: 15-20 active themed cafes, what's open
+  by month, plus how to book reservations and walk-in venues across the city.
 relatedSlugs: []
 wpPostId: 752
 ---
@@ -18,7 +22,7 @@ wpPostId: 752
 Tokyo's collab cafe scene rotates constantly — there are usually 15-20 anime-themed cafes running at any given time across the city. Photo: Japan Pop Now
 Tokyo runs at least 15 anime collab cafes at any given time between June and August, with new ones launching almost weekly as summer anime premieres kick off. Confirmed summer 2026 cafes include Haikyuu!! at Animate Cafe Ikebukuro (July 26 – August 20), Maid-sama! at My Charaful Cafe through August 23, and a steady rotation of short-run cafes at BOX CAFE, GiGO, and Collabo Cafe Honpo in Akihabara and Ikebukuro. Budget ¥2,000-3,500 (~$14-24) per visit for food and a drink, plus ¥1,000-3,000 (~$7-20) if you buy exclusive merchandise.
 
-Summer is peak collab cafe season in Tokyo for two reasons: the summer anime broadcast season launches in July, bringing a wave of new IP-themed cafes, and international tourist traffic spikes during school holidays worldwide. The result is more cafes running simultaneously — but also higher demand for reservations, especially during the first two weeks of any collab's run.
+Summer is peak collab cafe season in Tokyo for two reasons: the summer anime broadcast season launches in July, bringing a wave of new IP-themed cafes, and international tourist traffic spikes during school holidays worldwide. The result is more cafes running simultaneously, but also higher demand for reservations, especially during the first two weeks of any collab's run.
 
 This guide covers every confirmed summer 2026 cafe with dates and reservation info, explains the booking systems for each major chain, breaks down typical costs, and suggests multi-cafe routes for hitting several in one day.
 
@@ -49,7 +53,7 @@ Plan your collab cafe day faster:
 ![Ikebukuro skyline view from Sunshine 60 Observatory — Ikebukuro hosts the densest cluster of summer collab cafe pop-ups across Animate Cafe, My Charaful Cafe and Sunshine City venues](/images/articles/tokyo-anime-collab-cafes-summer-2026/body-wikimedia-1.webp)
 *Photo: Guilhem Vellut / Wikimedia Commons, CC BY 2.0*
 
-This list covers confirmed cafes running during June-August 2026. Updates land here as new cafes are announced — collab cafes typically confirm dates 2-4 weeks before opening, so check back regularly.
+This list covers confirmed cafes running during June-August 2026. Updates land here as new cafes are announced, collab cafes typically confirm dates 2-4 weeks before opening, so check back regularly.
 
 | Anime/IP | Venue | Dates | Reservation |
 | --- | --- | --- | --- |
@@ -85,7 +89,7 @@ Registration requires an email address — no Japanese phone number needed. The 
 
 
 ### Why Collabo Cafe Honpo Is the Easiest Reservation for Overseas Visitors
-Uses TableCheck for reservations — fully English-supported, accepts international credit cards, and is the smoothest booking experience of any collab cafe chain. Check [their TableCheck page](https://www.tablecheck.com/en/shops/collabocafe-honpo-akihabara/reserve) for current events. Reservations open about a week before each collab starts.
+Uses TableCheck for reservations, fully English-supported, accepts international credit cards, and is the smoothest booking experience of any collab cafe chain. Check [their TableCheck page](https://www.tablecheck.com/en/shops/collabocafe-honpo-akihabara/reserve) for current events. Reservations open about a week before each collab starts.
 
 Best next step**Choose the booking path that matches your cafe type**
 If you want the easiest English-friendly reservation flow, start with Collabo Cafe Honpo on TableCheck. If your target cafe uses Lawson Loppi or a Japanese-only system, switch to the overseas workaround guide before you waste time on a dead-end booking flow.
@@ -110,7 +114,7 @@ A Hakusensha (publisher) brand that runs longer-duration collabs — often 3-6 m
 ### Which Tokyo Anime Cafes Are Best for Walk-In Visits?
 Not every collab cafe requires a reservation. Several permanent or semi-permanent anime-themed cafes in Tokyo operate on a walk-in basis:
 
-**Capcom Cafe (Ikebukuro):** Rotates through Capcom game IPs (Monster Hunter, Resident Evil, Street Fighter). No reservation — queue in person. Wait times vary from 15 minutes to over an hour on weekends.
+**Capcom Cafe (Ikebukuro):** Rotates through Capcom game IPs (Monster Hunter, Resident Evil, Street Fighter). No reservation, queue in person. Wait times vary from 15 minutes to over an hour on weekends.
 
 **Gundam Cafe (Akihabara):** Reopened as Gundam Factory Store and Cafe. Walk-in only. Less crowded on weekday afternoons.
 
@@ -123,9 +127,9 @@ Not every collab cafe requires a reservation. Several permanent or semi-permanen
 
 Based on past collab quality, IP popularity among international fans, and booking accessibility, here are my top picks for summer 2026:
 
-**Haikyuu!! at Animate Cafe Ikebukuro (Jul 26 – Aug 20):** Haikyuu!! collabs consistently deliver excellent themed food presentation and exclusive merchandise. Animate Cafe's Ikebukuro location is one of their largest, which means more seats and better availability. The timing — late July to late August — aligns well with international summer travel. Book through Animate Cafe's open seat system after the lottery period.
+**Haikyuu!! at Animate Cafe Ikebukuro (Jul 26 – Aug 20):** Haikyuu!! collabs consistently deliver excellent themed food presentation and exclusive merchandise. Animate Cafe's Ikebukuro location is one of their largest, which means more seats and better availability. The timing, late July to late August — aligns well with international summer travel. Book through Animate Cafe's open seat system after the lottery period.
 
-**Maid-sama! at My Charaful Cafe (through Aug 23):** This collab has been running since March, which means two things: the initial rush has passed, and walk-in availability is very likely. My Charaful Cafe produces high-quality character illustrations specifically for each collab — the menu items feature exclusive artwork you won't find anywhere else.
+**Maid-sama! at My Charaful Cafe (through Aug 23):** This collab has been running since March, which means two things: the initial rush has passed, and walk-in availability is very likely. My Charaful Cafe produces high-quality character illustrations specifically for each collab, the menu items feature exclusive artwork you won't find anywhere else.
 
 **Summer anime premiere cafes (July onward):** When Mushoku Tensei Season III and ONE PIECE HEROINES launch in July, expect collab cafes to follow within 1-2 weeks. These opening-week cafes ride the hype wave and tend to have the most creative menus and freshest merchandise. The trade-off: they'll be the hardest to book during the first week.
 
@@ -149,7 +153,7 @@ Collab cafes aren't cheap compared to regular restaurants, but you're paying for
 
 Most cafes operate on a time-limited system — you get 70-90 minutes per seating. One food item and one drink is the standard minimum order. The food is honestly average in taste (it's themed cafes, not Michelin dining), but the presentation is where the value lies: character latte art, plates arranged to look like anime scenes, drinks in colors matching character palettes. You're paying for Instagram content and the experience of eating inside your favorite anime's world.
 
-The real spending trap is merchandise. Every collab cafe sells exclusive goods — acrylic stands (¥1,100), coasters (¥550), mugs (¥2,200), clear files (¥440) — that are only available during that specific collab run. If your favorite character is featured, budget an extra ¥2,000-5,000 for merch you'll want to take home.
+The real spending trap is merchandise. Every collab cafe sells exclusive goods — acrylic stands (¥1,100), coasters (¥550), mugs (¥2,200), clear files (¥440), that are only available during that specific collab run. If your favorite character is featured, budget an extra ¥2,000-5,000 for merch you'll want to take home.
 
 
 ## Can You Visit Multiple Cafes in One Day?
@@ -166,7 +170,7 @@ Here's a realistic three-cafe route:
 
 **13:00-14:30 — Cafe 2 (Ikebukuro or Akihabara):** If staying in Ikebukuro, walk to your second cafe. If heading to Akihabara, take the JR Yamanote Line (20 minutes). Collabo Cafe Honpo Akihabara or GiGO Cafe are both near Akihabara Station's Electric Town exit.
 
-**15:30-17:00 — Cafe 3 (Akihabara or Shinjuku):** Afternoon slot at a walk-in cafe (Capcom Cafe in Ikebukuro, or any BOX CAFE pop-up). Walk-in cafes are easier to fit into a multi-cafe day since you aren't locked to a reservation time.
+**15:30-17:00. Cafe 3 (Akihabara or Shinjuku):** Afternoon slot at a walk-in cafe (Capcom Cafe in Ikebukuro, or any BOX CAFE pop-up). Walk-in cafes are easier to fit into a multi-cafe day since you aren't locked to a reservation time.
 
 Tips for multi-cafe days: eat light at each cafe (one drink + one dessert rather than a full meal), book your must-visit cafe first and leave the walk-in options for later slots, and check reservation time buffers — arriving even 5 minutes late can forfeit your reservation at Animate Cafe.
 
@@ -200,7 +204,7 @@ A collab cafe is a temporary event — it runs for 2-8 weeks, features one speci
 
 **Are collab cafe menus any good?**
 
-In terms of taste, they range from decent to mediocre — you're not going for culinary excellence. In terms of presentation and creativity, they can be spectacular: character-shaped desserts, color-coordinated drinks, plates arranged as mini dioramas. The food is the art, not the fuel. Eat a real meal before or after, and treat the cafe as an experience rather than a dining destination.
+In terms of taste, they range from decent to mediocre, you're not going for culinary excellence. In terms of presentation and creativity, they can be spectacular: character-shaped desserts, color-coordinated drinks, plates arranged as mini dioramas. The food is the art, not the fuel. Eat a real meal before or after, and treat the cafe as an experience rather than a dining destination.
 
 **Can I buy collab cafe merchandise without eating?**
 

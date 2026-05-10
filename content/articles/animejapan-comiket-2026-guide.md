@@ -1,14 +1,20 @@
 ---
-title: "AnimeJapan & Comiket 2026: Foreigner’s Survival Guide"
-description: "AnimeJapan vs Comiket 2026 — international visitor survival guide: tickets, English support, queues, photo rules, hotels, and which one fits your trip."
-date: "2026-04-03"
-lastUpdated: "2026-04-03"
-category: "experiences"
+title: 'AnimeJapan & Comiket 2026: Foreigner’s Survival Guide'
+description: >-
+  AnimeJapan vs Comiket 2026 — international visitor survival guide: tickets,
+  English support, queues, photo rules, hotels, and which one fits your trip.
+date: '2026-04-03'
+lastUpdated: '2026-04-03'
+category: experiences
 tags: []
-featuredImage: "/images/articles/animejapan-comiket-2026-guide/featured.jpg"
-featuredImageAlt: "Massive crowd at Comiket convention at Tokyo Big Sight"
-author: "Takapon"
-excerpt: "AnimeJapan vs. Comiket: Complete Guide to Tokyo’s Biggest Anime Events 2026 Across multiple AnimeJapan and Comiket cycles documented in operator press kits and visitor reports, the comparisons below stay broadly stable. The first..."
+featuredImage: /images/articles/animejapan-comiket-2026-guide/featured.jpg
+featuredImageAlt: Massive crowd at Comiket convention at Tokyo Big Sight
+author: Takapon
+excerpt: >-
+  AnimeJapan vs. Comiket: Complete Guide to Tokyo’s Biggest Anime Events 2026
+  Across multiple AnimeJapan and Comiket cycles documented in operator press
+  kits and visitor reports, the comparisons below stay broadly stable. The
+  first...
 relatedSlugs: []
 wpPostId: 606
 ---
@@ -19,7 +25,7 @@ If you’re timing a trip around Japan’s biggest anime events, you need to kno
 ## AnimeJapan: The Official Convention for Industry & Fans
 
 ![Tokyo Big Sight Conference Tower entrance canopy under blue sky — the AnimeJapan 2026 venue in Ariake, Koto-ku](/images/articles/animejapan-comiket-2026-guide/body-wikimedia-1.webp)
-*Tokyo Big Sight (東京ビッグサイト) — the inverted-pyramid convention center in Ariake, Koto-ku that hosts AnimeJapan every March in its East Halls. Photo: Guilhem Vellut / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tokyo_Big_Sight_@_Ariake_(9654319240).jpg), CC BY 2.0.*
+*Tokyo Big Sight (東京ビッグサイト), the inverted-pyramid convention center in Ariake, Koto-ku that hosts AnimeJapan every March in its East Halls. Photo: Guilhem Vellut / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tokyo_Big_Sight_@_Ariake_(9654319240).jpg), CC BY 2.0.*
 
 ### When It Happens & How to Get Tickets
 AnimeJapan 2026 runs March 28-31, but public attendance is only March 28-29. Industry and media get March 30-31. Unless you work in anime production or have media credentials, you’re attending the public days.
@@ -108,7 +114,7 @@ For [anime-themed stays](/articles/how-to-book-anime-collab-cafe-japan/), some c
 [Akihabara complete guide](/articles/akihabara-complete-guide-2026/) | [Collab cafe guide](/articles/tokyo-anime-collab-cafes-spring-2026/) | [Anime merch shopping guide](/articles/anime-merch-shopping-guide-japan/)
 
 ### Related Guides
-- [AnimeJapan 2026 International Visitor Playbook](/articles/animejapan-2026-guide-international-visitors) — exhibitor lineup, ticketing, and Family Festa walkthrough.
+- [AnimeJapan 2026 International Visitor Playbook](/articles/animejapan-2026-guide-international-visitors), exhibitor lineup, ticketing, and Family Festa walkthrough.
 - [Tokyo Anime Collab Cafes Spring 2026](/articles/tokyo-anime-collab-cafes-spring-2026)
 - [How to Book Anime Collab Cafes](/articles/how-to-book-anime-collab-cafe-japan)
 - [Lawson Ticket & Loppi Guide](/lawson-ticket-loppi-guide/)

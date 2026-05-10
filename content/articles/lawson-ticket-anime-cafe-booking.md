@@ -1,22 +1,43 @@
 ---
-title: "Book Anime Cafe via Lawson 2026: Step-by-Step English Guide"
-slug: "lawson-ticket-anime-cafe-booking"
-date: "2026-03-28"
-updated: "2026-04-28"
-lastUpdated: "2026-04-28"
-dateModified: "2026-04-28"
-author: "Takapon"
-category: "experiences"
-tags: ["lawson-ticket", "loppi", "anime-cafe", "booking-guide", "2026-spring", "travel-tips"]
-hero_image: "/images/articles/lawson-ticket-anime-cafe-booking/featured.jpg"
-featuredImage: "/images/articles/lawson-ticket-anime-cafe-booking/featured.jpg"
-featuredImageAlt: "Lawson convenience store exterior in Japan for Loppi ticket booking"
-heroImageAlt: "Lawson convenience store exterior in Japan for Loppi ticket booking"
-imageCredit: "Photo: Japan Pop Now editorial (Loppi kiosk placeholder)"
-keywords: ["lawson ticket booking 2026", "anime cafe reservation english", "how to book anime cafe japan", "loppi machine guide", "l-tike.com english"]
-description: "Book an anime cafe via Lawson Ticket, 2026: step-by-step Loppi machine walkthrough, QR code pickup, cash payment rules, and 5 common FAQs."
-excerpt: "Step-by-step English guide to booking anime cafes through Lawson Ticket (l-tike.com) and Loppi machines — 6-step flow, phone-number workarounds, and the 5 questions foreign visitors ask most."
-relatedSlugs: ["tokyo-anime-collab-cafes-spring-2026", "demon-slayer-rerun-cafe-ufotable-kizuna-2026", "apothecary-diaries-oshi-tabi-osaka-shinkansen-2026", "ouran-host-club-20th-anniversary-cafes-2026", "osaka-anime-cafes-complete-guide-2026"]
+title: 'Book Anime Cafe via Lawson 2026: Step-by-Step English Guide'
+slug: lawson-ticket-anime-cafe-booking
+date: '2026-03-28'
+updated: '2026-04-28'
+lastUpdated: '2026-04-28'
+dateModified: '2026-04-28'
+author: Takapon
+category: experiences
+tags:
+  - lawson-ticket
+  - loppi
+  - anime-cafe
+  - booking-guide
+  - 2026-spring
+  - travel-tips
+hero_image: /images/articles/lawson-ticket-anime-cafe-booking/featured.jpg
+featuredImage: /images/articles/lawson-ticket-anime-cafe-booking/featured.jpg
+featuredImageAlt: Lawson convenience store exterior in Japan for Loppi ticket booking
+heroImageAlt: Lawson convenience store exterior in Japan for Loppi ticket booking
+imageCredit: 'Photo: Japan Pop Now editorial (Loppi kiosk placeholder)'
+keywords:
+  - lawson ticket booking 2026
+  - anime cafe reservation english
+  - how to book anime cafe japan
+  - loppi machine guide
+  - l-tike.com english
+description: >-
+  Book an anime cafe via Lawson Ticket, 2026: step-by-step Loppi machine
+  walkthrough, QR code pickup, cash payment rules, and 5 common FAQs.
+excerpt: >-
+  Step-by-step English guide to booking anime cafes through Lawson Ticket
+  (l-tike.com) and Loppi machines — 6-step flow, phone-number workarounds, and
+  the 5 questions foreign visitors ask most.
+relatedSlugs:
+  - tokyo-anime-collab-cafes-spring-2026
+  - demon-slayer-rerun-cafe-ufotable-kizuna-2026
+  - apothecary-diaries-oshi-tabi-osaka-shinkansen-2026
+  - ouran-host-club-20th-anniversary-cafes-2026
+  - osaka-anime-cafes-complete-guide-2026
 reading_time: 9
 featured: true
 wpPostId: 201
@@ -25,12 +46,12 @@ wpPostId: 201
 
 
 ![Lawson convenience store at night in Tokyo — home of the Loppi ticket machine used for anime cafe reservations](/images/articles/lawson-ticket-anime-cafe-booking/featured.jpg)
-*Lawson storefront in Tokyo — Loppi kiosks live just inside the entrance. Photo: Japan Pop Now editorial.*
+*Lawson storefront in Tokyo. Loppi kiosks live just inside the entrance. Photo: Japan Pop Now editorial.*
 
-You found the collab cafe you want. You click the reservation link. It sends you to **l-tike.com** — Lawson Ticket — and the whole page is in Japanese. Or the cafe tells you to pick up your reservation at a **Loppi** (ロッピー) machine inside a Lawson, and you have no idea what that means. The 6-step kiosk flow below is sourced from l-tike.com's English help center and Lawson Loppi documentation — once you know where to tap, the in-kiosk pickup typically takes under 5 minutes per the operator's reference flow. This guide gives you the exact 6-step booking path, the cash-pickup trick that skips the Japanese-credit-card problem, and five fixes for the phone-number wall that blocks most foreign visitors.
+You found the collab cafe you want. You click the reservation link. It sends you to **l-tike.com** — Lawson Ticket, and the whole page is in Japanese. Or the cafe tells you to pick up your reservation at a **Loppi** (ロッピー) machine inside a Lawson, and you have no idea what that means. The 6-step kiosk flow below is sourced from l-tike.com's English help center and Lawson Loppi documentation — once you know where to tap, the in-kiosk pickup typically takes under 5 minutes per the operator's reference flow. This guide gives you the exact 6-step booking path, the cash-pickup trick that skips the Japanese-credit-card problem, and five fixes for the phone-number wall that blocks most foreign visitors.
 
 
-<strong>Lawson Ticket (ローチケ, l-tike.com) is the ticketing arm of Lawson convenience stores and one of Japan's three major event-booking platforms, used by roughly 40% of anime collab cafes for reservations — pickup happens at the red Loppi kiosk inside any of the 14,000+ Lawson stores across Japan, with cash accepted at the counter.</strong>
+<strong>Lawson Ticket (ローチケ, l-tike.com) is the ticketing arm of Lawson convenience stores and one of Japan's three major event-booking platforms, used by roughly 40% of anime collab cafes for reservations, pickup happens at the red Loppi kiosk inside any of the 14,000+ Lawson stores across Japan, with cash accepted at the counter.</strong>
 
 
 <div className="jpn-tip"><strong>Pro tip:</strong> If you don't want to fight with a Japanese phone-number wall at all, <a href="https://www.klook.com/" rel="nofollow" target="_blank">Klook offers pre-booked anime cafe tickets</a> in English for select venues — saves roughly 30 minutes of Loppi fumbling on your first try.</div>
@@ -63,7 +84,7 @@ You found the collab cafe you want. You click the reservation link. It sends you
 
 ## What Is Lawson Ticket and Loppi?
 
-**Lawson Ticket** (ローチケ / l-tike.com) is the ticketing service run by Lawson, Japan's third-largest convenience store chain. It sells reservations for concerts, sports, theater, museum exhibitions, and — most relevant here — anime collab cafes. A typical reservation costs **¥500-2,000** and covers a time-slotted seat at a themed cafe for 80-90 minutes.
+**Lawson Ticket** (ローチケ / l-tike.com) is the ticketing service run by Lawson, Japan's third-largest convenience store chain. It sells reservations for concerts, sports, theater, museum exhibitions, and, most relevant here — anime collab cafes. A typical reservation costs **¥500-2,000** and covers a time-slotted seat at a themed cafe for 80-90 minutes.
 
 **Loppi** (ロッピー) is the bright red self-service kiosk sitting near the entrance of almost every Lawson store. There are **over 14,000 Lawson stores** across Japan, and each one has at least one Loppi. The kiosk is where you pick up tickets you booked online, pay for them, and occasionally book on the spot using a reservation code.
 
@@ -82,7 +103,7 @@ You have four real workarounds:
 
 
 ### Option 1: Get a Japanese Phone Number (Best long-term)
-If you're buying a SIM card for your Japan trip anyway — and you should, for maps and translation apps alone — get one with a Japanese number and SMS capability. Not all tourist SIMs include this. Look for **Mobal** (voice/SMS eSIM, orderable before arrival), airport prepaid SIMs marked "SMS-capable" at Narita or Haneda counters, or short-term **IIJmio / Rakuten Mobile** plans if you're in Japan more than a week. You only need the number for initial verification; everything after that runs on email.
+If you're buying a SIM card for your Japan trip anyway, and you should, for maps and translation apps alone — get one with a Japanese number and SMS capability. Not all tourist SIMs include this. Look for **Mobal** (voice/SMS eSIM, orderable before arrival), airport prepaid SIMs marked "SMS-capable" at Narita or Haneda counters, or short-term **IIJmio / Rakuten Mobile** plans if you're in Japan more than a week. You only need the number for initial verification; everything after that runs on email.
 
 
 ### Option 2: Ask Your Hotel (Decent workaround)
@@ -90,11 +111,11 @@ Some hotels will let you use their phone and address for ticket bookings. Touris
 
 
 ### Option 3: Borrow Someone Else's Booking (Easiest)
-If you have a Japanese friend, a travel agent, or you're using a booking concierge, they can reserve under their account and send you the reservation code. **The Loppi machine only checks the code** — it doesn't care who created the account. This is the fastest path if you know anyone local.
+If you have a Japanese friend, a travel agent, or you're using a booking concierge, they can reserve under their account and send you the reservation code. **The Loppi machine only checks the code**, it doesn't care who created the account. This is the fastest path if you know anyone local.
 
 
 ### Option 4: Book Through the Cafe Directly (Sometimes available)
-Not every anime cafe routes through Lawson Ticket. Some use **eplus** (e+), which has a genuine international site. Some use their own system. Check the cafe's official X post first — if it offers a non-Lawson option, grab that one. The live [/cafes hub](/cafes) lists every active and upcoming collab cafe in Japan with its reservation system noted; the [Tokyo Spring 2026 round-up](/articles/tokyo-anime-collab-cafes-spring-2026) covers the date-bounded slice.
+Not every anime cafe routes through Lawson Ticket. Some use **eplus** (e+), which has a genuine international site. Some use their own system. Check the cafe's official X post first, if it offers a non-Lawson option, grab that one. The live [/cafes hub](/cafes) lists every active and upcoming collab cafe in Japan with its reservation system noted; the [Tokyo Spring 2026 round-up](/articles/tokyo-anime-collab-cafes-spring-2026) covers the date-bounded slice.
 
 
 ## Step-by-Step: Booking Online at l-tike.com
@@ -103,7 +124,7 @@ Once you have an account (or someone to book for you), the online flow looks lik
 
 
 ### Step 1: Find Your Event
-Go to **l-tike.com**. There's an English toggle at the top — it's limited but covers the essentials. Search the event name in English or Japanese (copy-paste the Japanese title from the cafe's official announcement for fastest results).
+Go to **l-tike.com**. There's an English toggle at the top, it's limited but covers the essentials. Search the event name in English or Japanese (copy-paste the Japanese title from the cafe's official announcement for fastest results).
 
 
 ### Step 2: Select Date and Time
@@ -112,7 +133,7 @@ Click into the event listing. You'll see a calendar with these availability symb
 | Symbol | Meaning |
 |--------|---------|
 | ◯ (circle) | Available — slots open |
-| △ (triangle) | Nearly full — a few slots remain. Move fast. |
+| △ (triangle) | Nearly full, a few slots remain. Move fast. |
 | ✕ (X) | Sold out — no slots left for this date/time |
 | — (dash) | Not yet on sale, or not applicable |
 
@@ -120,7 +141,7 @@ Collab cafe time slots are typically **80-90 minutes**. Popular Saturday slots s
 
 
 ### Step 3: Enter Your Information
-Email, phone number (the one you registered with), guest count, name. The name field sometimes demands katakana — if you're entering a non-Japanese name, look for the **"English/Roman" input option** or just type in regular alphabet letters.
+Email, phone number (the one you registered with), guest count, name. The name field sometimes demands katakana, if you're entering a non-Japanese name, look for the **"English/Roman" input option** or just type in regular alphabet letters.
 
 
 ### Step 4: Choose Pickup Method
@@ -130,7 +151,7 @@ Select **"Lawson store pickup"** (ローソン店頭受取). This is the option 
 ### Step 5: Confirm and Note Your Codes
 You'll receive a confirmation email with:
 - A **reservation number** (予約番号)
-- An **L-code** (Lコード) — a short numeric code specific to Lawson's system
+- An **L-code** (Lコード), a short numeric code specific to Lawson's system
 
 **Screenshot this. Write it down.** You need the L-code at the Loppi machine. The email sometimes also includes a QR code (二次元バーコード) image — save it to your phone's photo library so you can show it offline.
 
@@ -139,7 +160,7 @@ You'll receive a confirmation email with:
 
 
 ![Loppi ticket kiosk inside a Lawson convenience store in Japan, with Japanese touchscreen menu for reservation pickup](/images/articles/lawson-ticket-anime-cafe-booking/body-loppi.webp)
-*The red Loppi kiosk — the touchscreen where you redeem your reservation code. Photo: Wikimedia Commons, CC BY-SA 3.0.*
+*The red Loppi kiosk, the touchscreen where you redeem your reservation code. Photo: Wikimedia Commons, CC BY-SA 3.0.*
 
 The Loppi is a red touchscreen kiosk, usually parked near the store entrance next to the ATM. The interface is Japanese-only, but you only need to get through 3-4 screens. Here's the walkthrough.
 
@@ -147,7 +168,7 @@ The Loppi is a red touchscreen kiosk, usually parked near the store entrance nex
 ### Screen 1: Main Menu
 You'll see several large buttons. The two that matter:
 - **Left button (Lコードで探す)** — "Search by L-code." Press this if you have an L-code from your email.
-- **Middle button** — QR code (二次元バーコード) scan. If your email includes a QR image, use this and hold your phone up to the small scanner lens on the machine.
+- **Middle button**. QR code (二次元バーコード) scan. If your email includes a QR image, use this and hold your phone up to the small scanner lens on the machine.
 
 
 ### If Using L-Code
@@ -172,7 +193,7 @@ Take the receipt to the Lawson cashier. Hand it over, and they'll process paymen
 
 
 ![Person scanning a QR code (二次元バーコード) with a smartphone at a shop counter, demonstrating the Lawson Loppi pickup flow](/images/articles/lawson-ticket-anime-cafe-booking/body-qr.webp)
-*Smartphone QR code (二次元バーコード) scan — what your hand looks like at the Loppi kiosk if you're using the QR option. Photo: Wikimedia Commons, CC BY-SA 4.0.*
+*Smartphone QR code (二次元バーコード) scan, what your hand looks like at the Loppi kiosk if you're using the QR option. Photo: Wikimedia Commons, CC BY-SA 4.0.*
 
 **Google Translate camera mode is your friend.** Open Google Translate, set Japanese → English, tap the camera icon, point it at the Loppi screen. The translation isn't perfect, but it'll tell you what each button does. Works surprisingly well for menu navigation.
 
@@ -198,7 +219,7 @@ Here's the end-to-end flow in six steps, from Lawson entrance to receiving your 
 | 5 | Receive the printed QR / ticket slip | Register | 10 sec |
 | 6 | Show the slip at the cafe on your visit day | Cafe entrance | 15 sec |
 
-**Total kiosk time: 3-5 minutes.** Save the printed slip in your wallet — the cafe staff will check it against your reservation on entry.
+**Total kiosk time: 3-5 minutes.** Save the printed slip in your wallet, the cafe staff will check it against your reservation on entry.
 
 
 ## Which Anime Events Use Lawson Ticket?
@@ -235,14 +256,14 @@ Japan runs on *benri* (便利, convenience) culture, and Lawson Ticket is the ph
 
 
 ![Current-generation Loppi self-service kiosk inside a Lawson convenience store, with red signage and Japanese touchscreen menu](/images/articles/lawson-ticket-anime-cafe-booking/body-wikimedia-2.webp)
-*Current-generation Loppi kiosk inside a Lawson store — illustrative chain venue interior, the same model you tap through to redeem an L-code or scan a QR. Photo: Rebirth10 / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Loppi_2019,04.jpg), CC BY-SA 4.0.*
+*Current-generation Loppi kiosk inside a Lawson store, illustrative chain venue interior, the same model you tap through to redeem an L-code or scan a QR. Photo: Rebirth10 / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Loppi_2019,04.jpg), CC BY-SA 4.0.*
 
 
 ## Common Mistakes and How to Avoid Them
 
 **Don't wait until the last minute.** Popular collab cafe reservations sell out within **5-10 minutes of opening**. Set an alarm for the exact moment booking opens — the date and time always appear in advance on the cafe's official X (Twitter) account.
 
-**Don't forget to actually pick up your tickets.** Online reservation is not enough. Each booking has a pickup deadline (usually **2-3 days before the event**) — miss it and your reservation auto-cancels with no refund.
+**Don't forget to actually pick up your tickets.** Online reservation is not enough. Each booking has a pickup deadline (usually **2-3 days before the event**), miss it and your reservation auto-cancels with no refund.
 
 **Pick up your tickets the day before.** Don't leave it for event morning. There's a Lawson within 3 minutes' walk of wherever you're staying in central Tokyo — sort the pickup the night before, without time pressure.
 
@@ -253,7 +274,7 @@ Japan runs on *benri* (便利, convenience) culture, and Lawson Ticket is the ph
 
 **Can foreigners without a Japanese phone number book through Lawson Ticket?**
 
-Not directly — registering a Lawson Ticket account requires SMS verification at a Japanese number. The three working paths are: buy a **Mobal SMS-capable SIM** before you fly (roughly **¥3,000 for a 7-day tourist plan**), ask your hotel front desk to book on their account, or have a Japanese friend or booking concierge reserve under their account and send you the L-code — the Loppi machine only checks the code, not who registered.
+Not directly — registering a Lawson Ticket account requires SMS verification at a Japanese number. The three working paths are: buy a **Mobal SMS-capable SIM** before you fly (roughly **¥3,000 for a 7-day tourist plan**), ask your hotel front desk to book on their account, or have a Japanese friend or booking concierge reserve under their account and send you the L-code, the Loppi machine only checks the code, not who registered.
 
 **What's the fastest way to pay at a Loppi machine?**
 
@@ -261,11 +282,11 @@ Pay in **cash at the counter**. From the moment you tap the Loppi, the fastest f
 
 **Does Lawson Ticket accept Apple Pay, credit cards, or IC cards?**
 
-Yes for most events. At the Lawson counter you can pay with cash (yen), credit card (Visa / Mastercard / JCB / AMEX), IC cards (Suica / PASMO / ICOCA / Kitaca / TOICA / manaca / SUGOCA / nimoca / hayakaken / PiTaPa), or Apple Pay through QUICPay. A small slice of events — usually independent anime screenings and lottery-based premium seats — are cash-only. The confirmation email specifies payment method; if it says **「現金のみ」** (genkin nomi, cash only), carry yen.
+Yes for most events. At the Lawson counter you can pay with cash (yen), credit card (Visa / Mastercard / JCB / AMEX), IC cards (Suica / PASMO / ICOCA / Kitaca / TOICA / manaca / SUGOCA / nimoca / hayakaken / PiTaPa), or Apple Pay through QUICPay. A small slice of events, usually independent anime screenings and lottery-based premium seats, are cash-only. The confirmation email specifies payment method; if it says **「現金のみ」** (genkin nomi, cash only), carry yen.
 
 **What's the cancellation policy on Lawson Ticket bookings?**
 
-Cancellation rules are set per event, not by Lawson Ticket itself, but the default for anime collab cafe reservations is: **non-refundable once payment is completed at the Loppi counter**. Before payment (online reservation only, no kiosk pickup yet), most events allow free cancellation up to the pickup deadline. Check the **「キャンセル」** (kyanseru) clause in your confirmation email — it states the exact cutoff time.
+Cancellation rules are set per event, not by Lawson Ticket itself, but the default for anime collab cafe reservations is: **non-refundable once payment is completed at the Loppi counter**. Before payment (online reservation only, no kiosk pickup yet), most events allow free cancellation up to the pickup deadline. Check the **「キャンセル」** (kyanseru) clause in your confirmation email, it states the exact cutoff time.
 
 **Which anime cafes use Lawson Ticket vs direct booking?**
 
@@ -276,12 +297,12 @@ Roughly **40% of anime collab cafes** route through Lawson Ticket, **35%** throu
 
 Booking the platform is step one. What to actually do next depends on your Tokyo itinerary:
 
-- [Tokyo Anime Collab Cafes Spring 2026](/tokyo-anime-collab-cafes-spring-2026/) — every cafe currently open, with booking platform noted per venue
+- [Tokyo Anime Collab Cafes Spring 2026](/tokyo-anime-collab-cafes-spring-2026/), every cafe currently open, with booking platform noted per venue
 - [Demon Slayer Rerun Cafe ufotable Kizuna 2026](/articles/demon-slayer-rerun-cafe-ufotable-kizuna-2026) — LivePocket weekly lottery walkthrough, not Lawson
 - [Apothecary Diaries Oshi-Tabi Osaka 2026](/apothecary-diaries-oshi-tabi-osaka-shinkansen-2026/) — Lawson booking for the Osaka Shinkansen cafe
-- [Ouran Host Club 20th Anniversary Cafes 2026](/ouran-host-club-20th-anniversary-cafes-2026/) — Lawson-routed for the Tree Village Tokyo venue
+- [Ouran Host Club 20th Anniversary Cafes 2026](/ouran-host-club-20th-anniversary-cafes-2026/). Lawson-routed for the Tree Village Tokyo venue
 - [Osaka Anime Cafes Complete Guide 2026](/osaka-anime-cafes-complete-guide-2026/) — Osaka-specific booking tactics
-- [Tokyo Anime District Guide](/tokyo-anime-collab-cafes-spring-2026/) — where the cafes cluster (Ikebukuro, Shibuya, Akihabara)
+- [Tokyo Anime District Guide](/tokyo-anime-collab-cafes-spring-2026/), where the cafes cluster (Ikebukuro, Shibuya, Akihabara)
 
 
 
@@ -296,7 +317,7 @@ Booking the platform is step one. What to actually do next depends on your Tokyo
 
 - Hero image: Japan Pop Now editorial (Loppi kiosk placeholder, 2026)
 - Body image (Loppi kiosk): Wikimedia Commons, *Lawson Loppi.jpg* by Corpse Reviver, CC BY-SA 3.0 — [https://commons.wikimedia.org/wiki/File:Lawson_Loppi.jpg](https://commons.wikimedia.org/wiki/File:Lawson_Loppi.jpg)
-- Body image (QR code at counter): Wikimedia Commons, *Symbole QR Code pointé utilisé dans commerce 2.jpg* by SimonTom67, CC BY-SA 4.0 — [https://commons.wikimedia.org/wiki/File:Symbole_QR_Code_point%C3%A9_utilis%C3%A9_dans_commerce_2.jpg](https://commons.wikimedia.org/wiki/File:Symbole_QR_Code_point%C3%A9_utilis%C3%A9_dans_commerce_2.jpg)
+- Body image (QR code at counter): Wikimedia Commons, *Symbole QR Code pointé utilisé dans commerce 2.jpg* by SimonTom67, CC BY-SA 4.0, [https://commons.wikimedia.org/wiki/File:Symbole_QR_Code_point%C3%A9_utilis%C3%A9_dans_commerce_2.jpg](https://commons.wikimedia.org/wiki/File:Symbole_QR_Code_point%C3%A9_utilis%C3%A9_dans_commerce_2.jpg)
 
 
 <div className="jpn-cta"><p><strong>Follow <a href="https://www.threads.net/@pop_now_jp" rel="nofollow" target="_blank">@pop_now_jp on Threads</a></strong> for weekly Tokyo pop culture and anime cafe booking updates.</p></div>
@@ -326,7 +347,7 @@ export const faqSchema = {
       "name": "Does Lawson Ticket accept Apple Pay, credit cards, or IC cards?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Yes for most events. The Lawson counter accepts cash (yen), credit cards (Visa/Mastercard/JCB/AMEX), IC cards (Suica/PASMO/ICOCA and others), and Apple Pay via QUICPay. A small slice of events — usually independent anime screenings — are cash-only and the email will say 現金のみ."
+        "text": "Yes for most events. The Lawson counter accepts cash (yen), credit cards (Visa/Mastercard/JCB/AMEX), IC cards (Suica/PASMO/ICOCA and others), and Apple Pay via QUICPay. A small slice of events, usually independent anime screenings — are cash-only and the email will say 現金のみ."
       }
     },
     {

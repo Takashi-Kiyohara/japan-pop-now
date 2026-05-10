@@ -1,25 +1,44 @@
 ---
-title: "One Piece Cafe GENE Shibuya 2026: Real Visitor Guide"
-description: "One Piece Cafe GENE at Shibuya PARCO — reservation, Phase 2 menu with prices, skull bowl ramen, birthday cards, and tips for international visitors."
-date: "2026-04-14"
-lastUpdated: "2026-04-14"
-validUntil: "2026-05-19"
-category: "cafes"
-tags: ["one-piece", "shibuya", "2026-spring", "limited-time"]
-featuredImage: "/images/articles/one-piece-cafe-gene-shibuya-guide-2026/moe-featured.jpg"
-featuredImageAlt: "Moe from Japan Pop Now holding two signature One Piece character drinks at One Piece Cafe GENE in Shibuya PARCO"
-heroImage: "/images/articles/one-piece-cafe-gene-shibuya-guide-2026/moe-hero.jpg"
-heroImageAlt: "Full table spread at One Piece Cafe GENE Shibuya showing skull bowl ramen, crepe bowl, two character drinks, and Straw Hat Crew placemat with Moe from Japan Pop Now"
-imageCredit: "Photo: Japan Pop Now"
-author: "Takapon"
-excerpt: "One Piece Cafe GENE at Shibuya PARCO 6F runs through May 18, 2026. After a full afternoon testing the Phase 2 menu — skull bowl ramen, birthday cards, and ¥1,100 character drinks — here is what to order, how to book, and the 3 things international visitors keep getting wrong."
-relatedSlugs: ["tokyo-anime-collab-cafes-spring-2026", "how-to-book-anime-collab-cafe-japan", "shibuya-harajuku-pop-culture-guide", "lawson-ticket-anime-cafe-booking"]
+title: 'One Piece Cafe GENE Shibuya 2026: Real Visitor Guide'
+description: >-
+  One Piece Cafe GENE at Shibuya PARCO — reservation, Phase 2 menu with prices,
+  skull bowl ramen, birthday cards, and tips for international visitors.
+date: '2026-04-14'
+lastUpdated: '2026-04-14'
+validUntil: '2026-05-19'
+category: cafes
+tags:
+  - one-piece
+  - shibuya
+  - 2026-spring
+  - limited-time
+featuredImage: /images/articles/one-piece-cafe-gene-shibuya-guide-2026/moe-featured.jpg
+featuredImageAlt: >-
+  Moe from Japan Pop Now holding two signature One Piece character drinks at One
+  Piece Cafe GENE in Shibuya PARCO
+heroImage: /images/articles/one-piece-cafe-gene-shibuya-guide-2026/moe-hero.jpg
+heroImageAlt: >-
+  Full table spread at One Piece Cafe GENE Shibuya showing skull bowl ramen,
+  crepe bowl, two character drinks, and Straw Hat Crew placemat with Moe from
+  Japan Pop Now
+imageCredit: 'Photo: Japan Pop Now'
+author: Takapon
+excerpt: >-
+  One Piece Cafe GENE at Shibuya PARCO 6F runs through May 18, 2026. After a
+  full afternoon testing the Phase 2 menu — skull bowl ramen, birthday cards,
+  and ¥1,100 character drinks — here is what to order, how to book, and the 3
+  things international visitors keep getting wrong.
+relatedSlugs:
+  - tokyo-anime-collab-cafes-spring-2026
+  - how-to-book-anime-collab-cafe-japan
+  - shibuya-harajuku-pop-culture-guide
+  - lawson-ticket-anime-cafe-booking
 ---
 
 *Last updated: May 7, 2026 — verified against the official PARCO Cafe listing.*
 
 
-![Moe from Japan Pop Now with full table spread at One Piece Cafe GENE Shibuya — skull bowl ramen, crepe bowl, two character drinks, Luffy standee, and Straw Hat Crew placemat](/images/articles/one-piece-cafe-gene-shibuya-guide-2026/moe-table-spread.jpg)
+![Moe from Japan Pop Now with full table spread at One Piece Cafe GENE Shibuya, skull bowl ramen, crepe bowl, two character drinks, Luffy standee, and Straw Hat Crew placemat](/images/articles/one-piece-cafe-gene-shibuya-guide-2026/moe-table-spread.jpg)
 
 **One Piece Cafe GENE is a limited-time collaboration cafe at THE GUEST cafe&diner inside Shibuya PARCO 6F, running through May 18, 2026.** The cafe serves character-themed dishes priced between ¥1,320 and ¥2,090, reservation costs ¥550 via Lawson Ticket (includes a novelty GENE Band), and it shares the same floor as Nintendo TOKYO, Pokemon Center Shibuya, and JUMP SHOP — making it the single best one-stop anime floor in Tokyo right now.
 
@@ -77,7 +96,7 @@ If you are combining this with our [Shibuya-Harajuku pop culture walking route](
 
 ## How do I book a reservation?
 
-**Lawson Ticket is the only reservation method.** Each ticket costs ¥550 (tax included) and comes with a random GENE Band with charm — a wristband collectible that many fans specifically visit to collect.
+**Lawson Ticket is the only reservation method.** Each ticket costs ¥550 (tax included) and comes with a random GENE Band with charm, a wristband collectible that many fans specifically visit to collect.
 
 **Booking steps:**
 1. Go to [Lawson Ticket event page](https://l-tike.com/event/mevent/?mid=773977)
@@ -111,7 +130,7 @@ For a full breakdown of Lawson Ticket for overseas visitors, see our [Lawson Tic
 
 ## What should I order? (Phase 2 menu)
 
-Phase 2 runs April 1 through May 18, 2026 with a completely refreshed menu. The ordering rule is strict: maximum 3 food/dessert items and 5 drinks per person. **Based on my April 2026 visit, the skull-bowl Straw Hat Salt Ramen runs low late in the evening on busy days** — if that bowl is non-negotiable, aim for an afternoon slot rather than an after-dinner one. Here is what stood out.
+Phase 2 runs April 1 through May 18, 2026 with a completely refreshed menu. The ordering rule is strict: maximum 3 food/dessert items and 5 drinks per person. **Based on my April 2026 visit, the skull-bowl Straw Hat Salt Ramen runs low late in the evening on busy days**, if that bowl is non-negotiable, aim for an afternoon slot rather than an after-dinner one. Here is what stood out.
 
 
 <div className="jpn-tip">
@@ -119,7 +138,7 @@ Phase 2 runs April 1 through May 18, 2026 with a completely refreshed menu. The 
 **Quick ranking per visitor reports**
 
 - **Most photogenic:** Straw Hat Salt Ramen (the skull bowl lid lift is the money shot)
-- **Best value:** Nakama Wrap Sandwich Plate at ¥1,320 — cheapest food, generous portion
+- **Best value:** Nakama Wrap Sandwich Plate at ¥1,320, cheapest food, generous portion
 - **Fan-service pick:** Law & Corazon Memory Sweets Plate (¥2,090) — only order if you love Law
 - **Skip if pressed for time:** Shabondy Bread Gratin — tasty but takes 15 min to arrive
 
@@ -127,13 +146,13 @@ Phase 2 runs April 1 through May 18, 2026 with a completely refreshed menu. The 
 
 
 ![Skull bowl ramen being served at One Piece Cafe GENE — staff lifting the Trafalgar Law Jolly Roger lid to reveal salt ramen inside](/images/articles/one-piece-cafe-gene-shibuya-guide-2026/skull-bowl-ramen.jpg)
-*The skull bowl moment — staff lift the lid tableside and steam rolls out. The bowl is Trafalgar Law's Jolly Roger. Photo: Japan Pop Now*
+*The skull bowl moment, staff lift the lid tableside and steam rolls out. The bowl is Trafalgar Law's Jolly Roger. Photo: Japan Pop Now*
 
 **Straw Hat Salt Ramen (麦わら塩ラーメン) - ¥1,980**
 The signature item. It arrives in a branded bowl with salt broth, thin noodles, egg, seaweed, and a Zoro character acrylic pick. The broth is lighter than typical Tokyo ramen but rich enough to finish. The real selling point is the bowl itself — it is a full ceramic piece with the GENE logo that you keep as a souvenir (just kidding, you cannot — but it is worth photographing from every angle).
 
 **Zoro's Deadly Spice Keema Curry (ゾロ 決死のスパイスキーマカレー) - ¥1,980**
-Green-tinted keema curry with a serious kick. The spice level is about a 6 out of 10 by Japanese standards — noticeable but manageable for most visitors.
+Green-tinted keema curry with a serious kick. The spice level is about a 6 out of 10 by Japanese standards, noticeable but manageable for most visitors.
 
 **Shabondy Bread Gratin (シャボンディ パングラタン) - ¥1,870**
 Served in a ceramic mug with the Shabondy Archipelago design. Creamy cheese gratin inside a bread bowl. Filling and photogenic.
@@ -170,7 +189,7 @@ Drinks range from ¥990 to ¥1,100. Each one is themed after a Straw Hat crew me
 The premium drink. An orange banana lassi with a skull Jolly Roger silicone cup topper you keep. The topper alone makes this worth the ¥110 premium over the regular character drinks.
 
 **Regular character drinks - ¥990 each:**
-Luffy (Pink Grapefruit Soda), Sanji (Blue Butterfly Pea Tea), Nami (Orange Juice), Usopp (Berry Pineapple Soda), Chopper (Pink Lemonade). The Nami and Chopper are the most approachable flavors for first-timers. The Sanji is visually striking — the butterfly pea tea shifts color when you stir it.
+Luffy (Pink Grapefruit Soda), Sanji (Blue Butterfly Pea Tea), Nami (Orange Juice), Usopp (Berry Pineapple Soda), Chopper (Pink Lemonade). The Nami and Chopper are the most approachable flavors for first-timers. The Sanji is visually striking, the butterfly pea tea shifts color when you stir it.
 
 Order 2 drinks minimum for the table spread photo. The placemat, coasters, and 2 drinks together make the best flat-lay shot for Instagram.
 
@@ -210,7 +229,7 @@ Every visitor receives two freebies regardless of what you order:
 
 That is 4-5 collectibles for roughly ¥3,630 including the reservation — better merch-to-yen ratio than most pop-up cafes in Tokyo right now.
 
-**Resale note (not the main reason to visit, but worth knowing):** Previous-phase GENE Band charms are actively listed on Mercari at ¥800-¥1,200, and prior-phase placemats regularly trade above their original effective cost. Once Phase 2 ends on May 18, 2026, the current designs leave circulation. Translation: the ¥550 reservation ticket has real collectible upside, not just sunk cost. (Prices vary — check Mercari before banking on resale value.)
+**Resale note (not the main reason to visit, but worth knowing):** Previous-phase GENE Band charms are actively listed on Mercari at ¥800-¥1,200, and prior-phase placemats regularly trade above their original effective cost. Once Phase 2 ends on May 18, 2026, the current designs leave circulation. Translation: the ¥550 reservation ticket has real collectible upside, not just sunk cost. (Prices vary, check Mercari before banking on resale value.)
 
 </div>
 
@@ -219,7 +238,7 @@ That is 4-5 collectibles for roughly ¥3,630 including the reservation — bette
 
 The 6th floor is the highest-density anime merchandise floor in Tokyo. If you are visiting the cafe, do not leave without walking the rest of the floor. Here is a tested route:
 
-1. **0:00-0:10** - Arrive at PARCO 6F. Check wait time at the cafe entrance podium — if busy, staff hand out a QR code or paper slip so you can leave and come back when your turn is near. Do not just stand in line.
+1. **0:00-0:10** - Arrive at PARCO 6F. Check wait time at the cafe entrance podium, if busy, staff hand out a QR code or paper slip so you can leave and come back when your turn is near. Do not just stand in line.
 2. **0:10-0:30** - Hit JUMP SHOP next door for One Piece collaboration goods while your wait ticks down. JUMP SHOP typically carries phase-linked acrylic stands and pin badges that the cafe itself does not sell.
 3. **0:30-0:45** - Quick lap through Pokemon Center Shibuya (the Mega Mewtwo statue is worth the detour).
 4. **0:45-1:45** - Cafe visit. Order food + drink, collect your placemat + coaster + card.
@@ -255,7 +274,7 @@ The location inside Shibuya PARCO's anime-dedicated 6th floor amplifies the atmo
 
 **Save this before you leave the hotel (April 2026, Phase 2):**
 
-- [ ] Phone charged above 60% — Lawson Ticket is digital-only, and staff scan the QR at the door
+- [ ] Phone charged above 60%. Lawson Ticket is digital-only, and staff scan the QR at the door
 - [ ] Screenshot of your reservation saved (backup if the app fails)
 - [ ] Cash or IC card loaded with at least ¥3,500 per person
 - [ ] Passport or ID — rare but sometimes requested to match the reservation name
@@ -279,7 +298,7 @@ A typical visit runs ¥3,000-5,000 per person. One food item (¥1,320-1,980) plu
 
 ### Can I visit without speaking Japanese?
 
-Yes. The menu has photos of every item, so pointing works. The PARCO English website lists the full menu with translations. Staff speak limited English but are experienced with international visitors — Shibuya PARCO is a major tourist destination. Download the menu page beforehand: [en.cafe.parco.jp](https://en.cafe.parco.jp/event/onepiece_cafe_gene_shibuya?area=029438)
+Yes. The menu has photos of every item, so pointing works. The PARCO English website lists the full menu with translations. Staff speak limited English but are experienced with international visitors. Shibuya PARCO is a major tourist destination. Download the menu page beforehand: [en.cafe.parco.jp](https://en.cafe.parco.jp/event/onepiece_cafe_gene_shibuya?area=029438)
 
 
 ### Is there a time limit for seating?

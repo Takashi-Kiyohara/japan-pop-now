@@ -1,23 +1,32 @@
 ---
-title: "Wonder Festival 2026: Figure Events Tickets, Tips & Shipping"
-description: "Wonder Festival 2026 Summer (July 26, Makuhari Messe): ¥3,500 tickets, 2,000+ booths, buying strategies, plus Treasure Festa and Mega Hobby."
-date: "2026-04-05"
-lastUpdated: "2026-04-05"
-validUntil: "2026-07-27"
-category: "experiences"
+title: 'Wonder Festival 2026: Figure Events Tickets, Tips & Shipping'
+description: >-
+  Wonder Festival 2026 Summer (July 26, Makuhari Messe): ¥3,500 tickets, 2,000+
+  booths, buying strategies, plus Treasure Festa and Mega Hobby.
+date: '2026-04-05'
+lastUpdated: '2026-04-05'
+validUntil: '2026-07-27'
+category: experiences
 tags: []
-featuredImage: "/images/articles/wonder-festival-figure-events-japan-2026/featured.webp"
-featuredImageAlt: "Makuhari Messe convention hall in Chiba — Wonder Festival venue for figure events"
-imageCredit: "Photo: Wikimedia Commons (CC BY-SA)"
-author: "Takapon"
-excerpt: "Wonder Festival 2026 Summer takes place July 26 at Makuhari Messe — the world's largest figure and garage kit event with 2,000+ dealer booths. Tickets ¥3,500 in advance, 10:00-17:00 single-day event, popular items sell out by early afternoon. If you collect figures, this is the single best event in Japan."
+featuredImage: /images/articles/wonder-festival-figure-events-japan-2026/featured.webp
+featuredImageAlt: >-
+  Makuhari Messe convention hall in Chiba — Wonder Festival venue for figure
+  events
+imageCredit: 'Photo: Wikimedia Commons (CC BY-SA)'
+author: Takapon
+excerpt: >-
+  Wonder Festival 2026 Summer takes place July 26 at Makuhari Messe — the
+  world's largest figure and garage kit event with 2,000+ dealer booths. Tickets
+  ¥3,500 in advance, 10:00-17:00 single-day event, popular items sell out by
+  early afternoon. If you collect figures, this is the single best event in
+  Japan.
 relatedSlugs: []
 wpPostId: 756
 ---
 
 
 Wonder Festival packs 2,000+ dealer tables into Makuhari Messe twice a year — the world’s largest figure and garage kit event. Photo: Japan Pop Now
-Wonder Festival 2026 Summer takes place July 26 at Makuhari Messe in Chiba — about 30 minutes by train from Tokyo Station. It’s the world’s largest figure and garage kit event, with 2,000+ dealer booths selling handmade resin figures, professional prototype reveals from major manufacturers, and one-of-a-kind custom pieces you can’t buy anywhere else. General admission tickets cost ¥3,500 in advance (¥4,000 at the door), and no pre-registration is needed beyond buying a ticket. The event runs 10:00-17:00 in a single day, and popular items sell out by early afternoon.
+Wonder Festival 2026 Summer takes place July 26 at Makuhari Messe in Chiba, about 30 minutes by train from Tokyo Station. It’s the world’s largest figure and garage kit event, with 2,000+ dealer booths selling handmade resin figures, professional prototype reveals from major manufacturers, and one-of-a-kind custom pieces you can’t buy anywhere else. General admission tickets cost ¥3,500 in advance (¥4,000 at the door), and no pre-registration is needed beyond buying a ticket. The event runs 10:00-17:00 in a single day, and popular items sell out by early afternoon.
 
 If you collect anime figures or have any interest in the craftsmanship behind them, Wonder Festival is the single best event in Japan for you. This guide covers tickets, what to expect, buying strategies, how to get your purchases home, and other figure events worth knowing about.
 
@@ -39,7 +48,7 @@ If you collect anime figures or have any interest in the craftsmanship behind th
 
 ## What Is Wonder Festival and When Is It?
 
-Wonder Festival (ワンダーフェスティバル, commonly shortened to WonFes or WF) is a biannual figure and garage kit event held at Makuhari Messe in Chiba. It’s been running since 1984 and happens twice a year — once in winter (February) and once in summer (July). The 2026 Summer edition is confirmed for July 26.
+Wonder Festival (ワンダーフェスティバル, commonly shortened to WonFes or WF) is a biannual figure and garage kit event held at Makuhari Messe in Chiba. It’s been running since 1984 and happens twice a year, once in winter (February) and once in summer (July). The 2026 Summer edition is confirmed for July 26.
 
 | Detail | Info |
 | --- | --- |
@@ -56,7 +65,7 @@ The event has two halves. **The dealer hall** is where individual artists and sm
 WonFes 2026 Summer features two special exhibitions: the Hiroshi Yokoyama Exhibition 2026 (centered on Maschinen Krieger — the first exhibition since 2016) and Imaginary Creatures WonderFes, a showcase of original monster and yokai-themed works.
 
 
-![View of Makuhari Messe approach from Messe-Ohashi Bridge — typical access route for WonFes attendees](/images/articles/wonder-festival-figure-events-japan-2026/body-wikimedia-2.webp)
+![View of Makuhari Messe approach from Messe-Ohashi Bridge, typical access route for WonFes attendees](/images/articles/wonder-festival-figure-events-japan-2026/body-wikimedia-2.webp)
 *Makuhari Messe approach from Messe-Ohashi Bridge — most attendees walk this elevated pedestrian route from Kaihin-Makuhari Station. Photo: Wikimedia Commons (CC BY-SA)*
 
 
@@ -72,7 +81,7 @@ Tickets are sold through Lawson Ticket (ローソンチケット). You can buy t
 | **Day-of purchase** | ¥4,000 (~$27) | Buy at venue if not sold out |
 | **Children** | Free | Under elementary school age, with guardian |
 
-System fees add about ¥220 per ticket. Buy advance tickets if possible — the day-of price is ¥500 more and availability isn’t guaranteed for popular editions.
+System fees add about ¥220 per ticket. Buy advance tickets if possible, the day-of price is ¥500 more and availability isn’t guaranteed for popular editions.
 
 For international visitors who arrive in Japan before the event: walk into any Lawson, use the Loppi kiosk, and search for “ワンダーフェスティバル” (or use the L-code if announced). Our [Loppi guide](/lawson-ticket-loppi-guide/) walks through the machine step by step. If you can’t access Loppi, our [overseas booking guide](/articles/book-japan-anime-events-overseas-2026) covers proxy purchase options.
 
@@ -87,7 +96,7 @@ WonFes operates differently from a normal shopping experience. Here’s what wor
 
 **Buy the catalog.** The official WonFes catalog (sold at the venue entrance, ~¥2,500) lists every dealer with booth numbers and sample photos of their items. Study it while waiting in line to plan your route. Digital catalog previews go up on the official site before the event.
 
-**Priority: dealer hall first, corporate zone later.** Corporate booths don’t sell out the same way — their exclusive items have larger stock, and the displays are viewable all day. The one-of-a-kind amateur garage kits are the time-sensitive purchases.
+**Priority: dealer hall first, corporate zone later.** Corporate booths don’t sell out the same way, their exclusive items have larger stock, and the displays are viewable all day. The one-of-a-kind amateur garage kits are the time-sensitive purchases.
 
 **Bring a bag and packing materials.** Garage kits are fragile resin pieces. Bring a sturdy bag, bubble wrap, and newspaper or towels to cushion your purchases for the train ride home. Some dealers provide basic packaging, but most hand you a bare kit in a plastic bag.
 
@@ -99,7 +108,7 @@ WonFes operates differently from a normal shopping experience. Here’s what wor
 ## How Do You Ship Figures Home?
 Getting your WonFes haul back to your home country takes some planning. Here are your options:
 
-**EMS (Express Mail Service):** Ship from any post office in Japan. Delivery in 3-5 business days to most countries. Pricing depends on weight and destination — a box of figures typically runs ¥3,000-8,000 (~$20-55) for international EMS. Tracking included. This is the best balance of speed, cost, and reliability.
+**EMS (Express Mail Service):** Ship from any post office in Japan. Delivery in 3-5 business days to most countries. Pricing depends on weight and destination, a box of figures typically runs ¥3,000-8,000 (~$20-55) for international EMS. Tracking included. This is the best balance of speed, cost, and reliability.
 
 **Yamato Takkyubin (宅急便):** Ship from any convenience store or Yamato office. International service available to many countries. Slightly cheaper than EMS for heavier packages. See our [luggage forwarding guide](/luggage-forwarding-japan/) for details.
 
@@ -120,7 +129,7 @@ Most amateur garage kits are produced in tiny quantities and sell out at the eve
 
 
 ![Good Smile Company Nendoroid Number 1000 Celebration banner at the manufacturer booth](/images/articles/wonder-festival-figure-events-japan-2026/body-wikimedia-4.webp)
-*Good Smile Company's Nendoroid 1000 milestone celebration — the kind of corporate-zone display you'll see at WonFes alongside prototype reveals from Max Factory and Kotobukiya. Photo: Wikimedia Commons (CC BY-SA)*
+*Good Smile Company's Nendoroid 1000 milestone celebration, the kind of corporate-zone display you'll see at WonFes alongside prototype reveals from Max Factory and Kotobukiya. Photo: Wikimedia Commons (CC BY-SA)*
 
 
 ## What Other Figure Events Happen in Japan?
@@ -141,7 +150,7 @@ Not necessarily. The event is visual — you see figures, you point, you pay cas
 
 **Can I take photos inside WonFes?**
 
-Yes — photography is allowed and encouraged in most areas. Some corporate displays may restrict photography of unannounced products (they’ll have signs). Amateur dealer tables generally welcome photos. Ask before photographing cosplayers (gesture toward your camera and wait for a nod).
+Yes, photography is allowed and encouraged in most areas. Some corporate displays may restrict photography of unannounced products (they’ll have signs). Amateur dealer tables generally welcome photos. Ask before photographing cosplayers (gesture toward your camera and wait for a nod).
 
 **Is WonFes only for figure collectors?**
 
@@ -153,7 +162,7 @@ Makuhari Messe is air-conditioned, but with 30,000+ bodies in an enclosed space,
 
 **Can I bring a carry-on suitcase to pack purchases?**
 
-Yes, and it’s a smart move if you’re planning to spend heavily. Small rolling suitcases are common at WonFes. Lockers at Kaihin-Makuhari Station fill up fast, so keep your bag with you. Note that large suitcases can be unwieldy in the crowded dealer hall — a medium carry-on is the sweet spot.
+Yes, and it’s a smart move if you’re planning to spend heavily. Small rolling suitcases are common at WonFes. Lockers at Kaihin-Makuhari Station fill up fast, so keep your bag with you. Note that large suitcases can be unwieldy in the crowded dealer hall, a medium carry-on is the sweet spot.
 
 **What’s the difference between a garage kit and a finished figure?**
 

@@ -1,22 +1,34 @@
 ---
-title: "PokéPark Kanto Complete Guide 2026: Tickets, Areas & Tips"
-description: "PokéPark Kanto (Yomiuriland): tickets from ¥4,700, advance-only reservations, 3 zones, Pokémon Forest with 600+ species, why 5 hours isn't enough."
-date: "2026-04-05"
-lastUpdated: "2026-04-05"
-category: "experiences"
+title: 'PokéPark Kanto Complete Guide 2026: Tickets, Areas & Tips'
+description: >-
+  PokéPark Kanto (Yomiuriland): tickets from ¥4,700, advance-only reservations,
+  3 zones, Pokémon Forest with 600+ species, why 5 hours isn't enough.
+date: '2026-04-05'
+lastUpdated: '2026-04-05'
+category: experiences
 tags: []
-featuredImage: "/images/articles/pokepark-kanto-tokyo-2026/hero-wikimedia.webp"
-featuredImageAlt: "Aerial view of Yomiuriland in Inagi, Tokyo — host venue of PokePark Kanto opened February 2026"
-imageNote: "Hero is aerial of Yomiuriland (host venue, but PokéPark gate not visible at scale); body images use Pokemon Center Mega Tokyo as visual proxy for Pokemon IP retail. PokéPark-specific photography pending Takapon visit. See docs/audit/collab-image-exhausted-20260427.md."
-author: "Takapon"
-excerpt: "PokéPark Kanto opened February 5, 2026 inside Yomiuriland — the world's first permanent outdoor Pokémon theme park. Dynamic-pricing tickets from ¥4,700 to ¥14,000+, advance-only reservations, and three zones across 2.6 hectares. Visitors who spend 5 hours still miss parts of Pokémon Forest."
+featuredImage: /images/articles/pokepark-kanto-tokyo-2026/hero-wikimedia.webp
+featuredImageAlt: >-
+  Aerial view of Yomiuriland in Inagi, Tokyo — host venue of PokePark Kanto
+  opened February 2026
+imageNote: >-
+  Hero is aerial of Yomiuriland (host venue, but PokéPark gate not visible at
+  scale); body images use Pokemon Center Mega Tokyo as visual proxy for Pokemon
+  IP retail. PokéPark-specific photography pending Takapon visit. See
+  docs/audit/collab-image-exhausted-20260427.md.
+author: Takapon
+excerpt: >-
+  PokéPark Kanto opened February 5, 2026 inside Yomiuriland — the world's first
+  permanent outdoor Pokémon theme park. Dynamic-pricing tickets from ¥4,700 to
+  ¥14,000+, advance-only reservations, and three zones across 2.6 hectares.
+  Visitors who spend 5 hours still miss parts of Pokémon Forest.
 relatedSlugs: []
 wpPostId: 780
 ---
 
 ![Aerial view of Yomiuriland in Inagi, western Tokyo — the host venue where PokéPark Kanto opened on February 5, 2026](/images/articles/pokepark-kanto-tokyo-2026/hero-wikimedia.webp)
 PokéPark Kanto opened in February 2026 inside Yomiuriland, bringing Pokémon’s first permanent outdoor theme park to Tokyo.
-PokéPark Kanto opened on February 5, 2026 inside Yomiuriland in western Tokyo — the first permanent outdoor Pokémon theme park anywhere in the world. Tickets use dynamic pricing and come in three tiers: Elite Trainers Pass at ¥14,000+ (~$95), Trainers Pass at ¥7,900+ (~$54), and Town Pass at ¥4,700+ (~$32, available from May 2026). Every ticket requires advance online reservation. There are no walk-in sales, and popular weekends sell out fast.
+PokéPark Kanto opened on February 5, 2026 inside Yomiuriland in western Tokyo, the first permanent outdoor Pokémon theme park anywhere in the world. Tickets use dynamic pricing and come in three tiers: Elite Trainers Pass at ¥14,000+ (~$95), Trainers Pass at ¥7,900+ (~$54), and Town Pass at ¥4,700+ (~$32, available from May 2026). Every ticket requires advance online reservation. There are no walk-in sales, and popular weekends sell out fast.
 The park covers 2.6 hectares across three distinct zones: Pokémon Forest (an outdoor trail where you spot 600+ Pokémon species in wooded terrain), Kayatsuri Town (rides, shows, shops, and dining), and the Entrance Square. It’s not a traditional roller-coaster park — it’s closer to an immersive nature walk crossed with a Pokémon Center on steroids. Visitor reports describe 5+ hour stays in Pokémon Forest alone, often without seeing every species.
 This guide covers all three ticket tiers, how international visitors can book, what each area contains, the best route to see everything, and where to stay nearby.
 **Start here**
@@ -36,7 +48,7 @@ Plan your PokéPark day faster:
 
 ## How Much Do PokéPark Kanto Tickets Cost?
 
-![Pokémon Center Mega Tokyo entrance in Sunshine City, Ikebukuro — the largest Pokémon Center in Japan and the closest analog to PokéPark Kanto's themed retail experience](/images/articles/pokepark-kanto-tokyo-2026/body-wikimedia-1.webp)
+![Pokémon Center Mega Tokyo entrance in Sunshine City, Ikebukuro, the largest Pokémon Center in Japan and the closest analog to PokéPark Kanto's themed retail experience](/images/articles/pokepark-kanto-tokyo-2026/body-wikimedia-1.webp)
 PokéPark Kanto uses dynamic pricing — costs fluctuate based on predicted crowd levels, so weekdays are generally cheaper than weekends and holidays. The prices below are base rates; actual prices on your selected date may be higher.
 | Ticket Tier | Adult (13+) | Child (3-12) | What’s Included |
 | --- | --- | --- | --- |
@@ -45,21 +57,21 @@ PokéPark Kanto uses dynamic pricing — costs fluctuate based on predicted crow
 | **Trainers Pass**
 (トレーナーズパス) | ¥7,900+ (~$54) | ¥5,900+ (~$40) | Pokémon Forest (one timed entry, no re-entry) + unlimited Kayatsuri Town access |
 | **Town Pass**
-(タウンパス) *From May 2026* | ¥4,700+ (~$32) | — | Kayatsuri Town only (no Pokémon Forest) |
+(タウンパス) *From May 2026* | ¥4,700+ (~$32) |, | Kayatsuri Town only (no Pokémon Forest) |
 Children aged 2 and under enter free. All ticket tiers include admission to Yomiuriland’s general areas. Senior (65+) and disability tickets are available at slightly reduced rates (¥13,500+ and ¥11,000+ respectively for Elite Trainers). Ride attractions inside the park cost extra: ¥1,200 (~$8) per adult and ¥800 (~$5.50) per child for each ride.
 Recommended pick for international visitors: the Elite Trainers Pass. Per the official ticket-tier comparison, the ¥6,100 gap above the standard Trainers Pass buys unlimited Pokémon Forest re-entry (the standard pass closes after one timed session), priority ride access, the exclusive Pikachu and Eevee meet-and-greet, and reserved seats for the Kayatsuri Gym Show. For visitors flying to Japan specifically for this park, the upgrade typically pays back in time saved.
 
 ## How Do You Buy Tickets from Overseas?
 
 ![Pokémon Center Mega Tokyo interior — Pokémon merchandise display similar in scale to what visitors will find at PokéPark Kanto's Kayatsuri Town shops](/images/articles/pokepark-kanto-tokyo-2026/body-wikimedia-2.webp)
-This is where PokéPark Kanto is genuinely better than most Japanese attractions for international visitors. There’s a dedicated English-language booking portal specifically for overseas guests — no Japanese phone number, no SMS verification, no membership registration required.
+This is where PokéPark Kanto is genuinely better than most Japanese attractions for international visitors. There’s a dedicated English-language booking portal specifically for overseas guests, no Japanese phone number, no SMS verification, no membership registration required.
 
 ### Best Way to Book PokéPark Kanto From Overseas: Official English Site
 Book directly at [ticket-en.pokepark-kanto.co.jp](https://ticket-en.pokepark-kanto.co.jp/). The interface is fully in English, accepts international credit cards, and lets you select your preferred date and time slot. You’ll receive an e-ticket by email — show the QR code at the gate along with your passport.
 The international site has its own ticket allocation separate from the domestic lottery system, so you’re not competing with Japanese residents for the same pool. That said, weekend slots still fill up weeks in advance, so book as early as possible.
 
 ### When the Domestic Lottery System Matters for PokéPark Kanto Tickets
-Japanese residents buy through a monthly lottery — applications open on the 1st through 12th of each month for the following month’s dates. This requires Japanese SMS verification and a domestic payment method, making it impractical for most international visitors unless you have a local friend willing to help.
+Japanese residents buy through a monthly lottery, applications open on the 1st through 12th of each month for the following month’s dates. This requires Japanese SMS verification and a domestic payment method, making it impractical for most international visitors unless you have a local friend willing to help.
 
 ### What to Do If PokéPark Kanto Tickets Are Sold Out
 If your preferred dates show no availability on the international portal, check [our proxy booking guide](/articles/book-japan-anime-events-overseas-2026) for services that can secure tickets through the domestic lottery system on your behalf. Proxy fees typically run ¥1,500-3,000 per booking.
@@ -75,16 +87,16 @@ If your dates are still open, book the official English site immediately. If the
 PokéPark Kanto is divided into three zones, each with a completely different feel. Here’s what to expect in each:
 
 ### Is Pokémon Forest Worth Prioritizing First at PokéPark Kanto?
-This is what makes PokéPark Kanto different from every other Pokémon experience in the world. The park uses the natural hilly terrain of the Tama hills to create an outdoor forest trail where 600+ Pokémon species appear in their “natural habitat.” You’re walking through actual woods, looking for Pokémon hidden among trees, streams, and rock formations — not staring at screens.
+This is what makes PokéPark Kanto different from every other Pokémon experience in the world. The park uses the natural hilly terrain of the Tama hills to create an outdoor forest trail where 600+ Pokémon species appear in their “natural habitat.” You’re walking through actual woods, looking for Pokémon hidden among trees, streams, and rock formations, not staring at screens.
 The forest is massive, and most visitors report needing 2-3 hours minimum to explore it properly. Important note for Trainers Pass holders: your forest entry is timed, and once you exit, you cannot re-enter. Elite Trainers Pass holders get unlimited access.
 
 ### What You Can Do in Kayatsuri Town Beyond the Forest
 The urban zone with the park’s built attractions:
 - **Pika Pika Paradise** — An illuminated ride featuring 30+ Electric-type Pokémon. ¥1,200 adult / ¥800 child. Especially impressive after dark.
 - **Vee Vee Voyage** — An Eevee evolution-themed merry-go-round with flying chairs and Ponyta-drawn gondolas. ¥1,200 adult / ¥800 child.
-- **Kayatsuri Gym Show (“Pika Pika Sparks!”)** — A live performance show. Elite Trainers get reserved seating; others queue for general admission.
+- **Kayatsuri Gym Show (“Pika Pika Sparks!”)**. A live performance show. Elite Trainers get reserved seating; others queue for general admission.
 - **Pokémon Interaction House** — Daily rotating character appearances (Clefairy, Vulpix, Psyduck, Growlithe, Slowpoke, Gengar, Lapras, Dragonite confirmed). Free with park entry.
-- **Daily Parade** — A Pokémon-themed parade through the town area.
+- **Daily Parade**. A Pokémon-themed parade through the town area.
 Kayatsuri Town also has the park’s main shopping area with PokéPark-exclusive merchandise you can’t find at regular Pokémon Centers, plus multiple dining options.
 
 ### What to Expect at the PokéPark Entrance Square Before You Enter
@@ -92,11 +104,11 @@ The entry zone with photo spots, an introductory exhibit, and additional shops. 
 
 ## How Do You Get to PokéPark Kanto from Central Tokyo?
 
-![Pokémon Center Mega Tokyo entrance area — the central Tokyo Pokémon shopping anchor before the Keio Line ride to Yomiuriland](/images/articles/pokepark-kanto-tokyo-2026/body-wikimedia-4.webp)
+![Pokémon Center Mega Tokyo entrance area, the central Tokyo Pokémon shopping anchor before the Keio Line ride to Yomiuriland](/images/articles/pokepark-kanto-tokyo-2026/body-wikimedia-4.webp)
 PokéPark Kanto is inside Yomiuriland, located in Inagi City on the western edge of Tokyo. It’s about 40-60 minutes from central Tokyo depending on your route.
 
 ### Fastest Route From Central Tokyo: Keio Line and Sky Shuttle Gondola
-Take the Keio Line from Shinjuku Station to **Keio-Yomiuriland Station** (京王よみうりランド駅), then transfer to the **Sky Shuttle Gondola** — a cable car that lifts you directly to the park entrance in 5-10 minutes. The gondola ride itself has great views and makes for an exciting start to the day.
+Take the Keio Line from Shinjuku Station to **Keio-Yomiuriland Station** (京王よみうりランド駅), then transfer to the **Sky Shuttle Gondola**, a cable car that lifts you directly to the park entrance in 5-10 minutes. The gondola ride itself has great views and makes for an exciting start to the day.
 | Segment | Duration | Cost |
 | --- | --- | --- |
 | Shinjuku → Keio-Yomiuriland (Keio Line) | ~25 min | ¥270 (~$2) |
@@ -109,23 +121,23 @@ Take the Odakyu Line from Shinjuku to **Shin-Yurigaoka Station** (新百合ヶ�
 
 ## What’s the Best Route to See Everything in One Day?
 
-![Pokémon Center Mega Tokyo merchandise wares — exclusive Pokémon goods comparable to PokéPark Kanto's Kayatsuri Town shop floor](/images/articles/pokepark-kanto-tokyo-2026/body-wikimedia-5.webp)
+![Pokémon Center Mega Tokyo merchandise wares, exclusive Pokémon goods comparable to PokéPark Kanto's Kayatsuri Town shop floor](/images/articles/pokepark-kanto-tokyo-2026/body-wikimedia-5.webp)
 One day is enough for PokéPark Kanto if you arrive at opening. Here’s the route that maximizes your time:
 **Recommended Day Plan (Elite Trainers Pass):**
 1. **10:00-10:30** — Arrive at park opening. Head straight to Pokémon Forest entrance before crowds build.
-2. **10:30-13:00** — Explore Pokémon Forest thoroughly. Morning light is best for spotting Pokémon in the wooded areas.
+2. **10:30-13:00**. Explore Pokémon Forest thoroughly. Morning light is best for spotting Pokémon in the wooded areas.
 3. **13:00-13:45** — Lunch in Kayatsuri Town. The park restaurants get crowded after 12:30, so either eat early (before forest) or at 13:00 when the first wave clears.
-4. **13:45-14:30** — Ride Pika Pika Paradise and Vee Vee Voyage. Use your Elite priority lanes.
+4. **13:45-14:30**. Ride Pika Pika Paradise and Vee Vee Voyage. Use your Elite priority lanes.
 5. **14:30-15:30** — Pokémon Interaction House + check daily parade schedule.
 6. **15:30-16:30** — Shopping for exclusive merchandise. Popular items sell out by afternoon on busy days, so don’t leave this until closing.
-7. **16:30-17:30** — Return to Pokémon Forest for a second pass (Elite only). The forest has different lighting in the late afternoon.
+7. **16:30-17:30**. Return to Pokémon Forest for a second pass (Elite only). The forest has different lighting in the late afternoon.
 8. **17:30-18:00** — Catch Pika Pika Paradise after dark for the illumination effect, then exit.
 Trainers Pass holders: since you only get one timed forest entry, the recommended pick is the morning slot (10:30-12:30) when crowds are smallest and lighting is best. Then spend the afternoon in Kayatsuri Town.
 
 ## Where Should You Stay Near PokéPark Kanto?
 
-![Yomiuriland park grounds with the wooden coaster and cherry blossoms — the broader Yomiuriland complex surrounding PokéPark Kanto](/images/articles/pokepark-kanto-tokyo-2026/body-wikimedia-6.webp)
-Most visitors to PokéPark Kanto are staying in central Tokyo and making a day trip. But if you want to be close to the park — especially for an early morning arrival — here are the best options:
+![Yomiuriland park grounds with the wooden coaster and cherry blossoms, the broader Yomiuriland complex surrounding PokéPark Kanto](/images/articles/pokepark-kanto-tokyo-2026/body-wikimedia-6.webp)
+Most visitors to PokéPark Kanto are staying in central Tokyo and making a day trip. But if you want to be close to the park — especially for an early morning arrival, here are the best options:
 | Hotel | Price/Night | Distance to Park | Best For |
 | --- | --- | --- | --- |
 | **Hotel Morino Shin-Yurigaoka**
@@ -170,13 +182,13 @@ The main differences are: Elite gets unlimited Pokémon Forest re-entry (Trainer
 Yes. Children aged 2 and under enter free. The Pokémon Forest trail is stroller-accessible on the main paths (though some side trails are not), and the Pokémon Interaction House is a hit with toddlers. Ride attractions require children under 5 to be accompanied by a paid adult. The park has nursing rooms and changing facilities.
 
 ### Can You Buy Exclusive Merchandise Without the Highest PokéPark Pass?
-Yes — PokéPark Kanto has park-exclusive merchandise that isn’t available at regular Pokémon Centers. Popular items (plush toys, pins, apparel) sell out by early afternoon on busy days. If exclusive merch is a priority, head to the shops before 14:00. Elite Trainers Pass holders also receive an exclusive gift item at entry.
+Yes. PokéPark Kanto has park-exclusive merchandise that isn’t available at regular Pokémon Centers. Popular items (plush toys, pins, apparel) sell out by early afternoon on busy days. If exclusive merch is a priority, head to the shops before 14:00. Elite Trainers Pass holders also receive an exclusive gift item at entry.
 
 ## More Area Guides
 - [How to Book Japan Anime Events from Overseas](/articles/book-japan-anime-events-overseas-2026) — Proxy booking for sold-out dates
-- [Ghibli Park Complete Guide 2026](/articles/ghibli-park-complete-guide-2026) — Another must-visit theme park
+- [Ghibli Park Complete Guide 2026](/articles/ghibli-park-complete-guide-2026). Another must-visit theme park
 - [Gaming Tokyo 2026](/articles/gaming-tokyo-2026) — Pokémon Center, Nintendo Store & more
-- [Japan Rail Pass 2026 Guide](/articles/japan-rail-pass-2026-guide) — Is the pass worth it for your trip?
+- [Japan Rail Pass 2026 Guide](/articles/japan-rail-pass-2026-guide). Is the pass worth it for your trip?
 - [Japan eSIM & Pocket WiFi Guide](/articles/japan-esim-pocket-wifi-sim-card) — Stay connected to check ticket availability
 Planning a trip to Tokyo?
 [Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)

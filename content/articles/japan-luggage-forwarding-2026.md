@@ -1,15 +1,22 @@
 ---
-title: "Japan Luggage Forwarding 2026: Ship Bags for ¥2,000"
-description: "Japan luggage forwarding (takkyubin) 2026: Yamato, Sagawa, ¥2,000-3,000 per bag between cities, hotel-to-hotel delivery — how to use it as a tourist."
-date: "2026-04-03"
-lastUpdated: "2026-04-03"
-category: "experiences"
+title: 'Japan Luggage Forwarding 2026: Ship Bags for ¥2,000'
+description: >-
+  Japan luggage forwarding (takkyubin) 2026: Yamato, Sagawa, ¥2,000-3,000 per
+  bag between cities, hotel-to-hotel delivery — how to use it as a tourist.
+date: '2026-04-03'
+lastUpdated: '2026-04-03'
+category: experiences
 tags: []
-featuredImage: "/images/articles/japan-luggage-forwarding-2026/featured.webp"
-featuredImageAlt: "Sagawa Express delivery truck parked on a Japanese street, ready for takkyubin pickup"
-imageCredit: "Photo: Syced / Wikimedia Commons, CC0"
-author: "Takapon"
-excerpt: "Skip the heavy suitcase shuffle. Here is exactly how takkyubin (Japanese luggage forwarding) works, costs ¥2,000-3,000 per bag, and how to use it so you can enjoy your trip hands-free between Tokyo, Kyoto, Osaka and beyond."
+featuredImage: /images/articles/japan-luggage-forwarding-2026/featured.webp
+featuredImageAlt: >-
+  Sagawa Express delivery truck parked on a Japanese street, ready for takkyubin
+  pickup
+imageCredit: 'Photo: Syced / Wikimedia Commons, CC0'
+author: Takapon
+excerpt: >-
+  Skip the heavy suitcase shuffle. Here is exactly how takkyubin (Japanese
+  luggage forwarding) works, costs ¥2,000-3,000 per bag, and how to use it so
+  you can enjoy your trip hands-free between Tokyo, Kyoto, Osaka and beyond.
 relatedSlugs: []
 wpPostId: 612
 ---
@@ -31,7 +38,7 @@ For travelers, it means: you drop your suitcase at a hotel, convenience store, o
 
 ## The Main Players: Yamato, Sagawa, JAL ABC
 
-### Yamato Transport (Kuroneko/クロネコヤマト) — The Default Choice
+### Yamato Transport (Kuroneko/クロネコヤマト). The Default Choice
 **Market share:** ~40% of Japan’s parcel market. Easiest to recognize (black cat logo). Available at most hotels, train stations, and convenience stores ([source: Yamato Transport official site](https://www.kuronekoyamato.co.jp/en/)).
 **Strengths:**
 - Available literally everywhere (7-Eleven, FamilyMart, hotels, train stations)
@@ -85,7 +92,7 @@ They’ll almost always have Yamato. Some nicer hotels offer both Yamato and Sag
 ### Step 2: Fill Out the Shipping Slip (English or Japanese)
 
 ![Yamato Transport takkyubin compact shipping slip with sender, recipient, and time-window fields — the actual form Japanese hotel front desks hand you](/images/articles/japan-luggage-forwarding-2026/body-wikimedia-3.webp)
-*A Yamato Transport (クロネコヤマト) Takkyubin Compact shipping slip — the form you fill out at the hotel front desk for hotel-to-hotel forwarding. Photo: TAKA@P.P.R.S / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%E5%AE%85%E6%80%A5%E4%BE%BF%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88_2015_(21895527629).jpg), CC BY-SA 2.0.*
+*A Yamato Transport (クロネコヤマト) Takkyubin Compact shipping slip, the form you fill out at the hotel front desk for hotel-to-hotel forwarding. Photo: TAKA@P.P.R.S / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:%E5%AE%85%E6%80%A5%E4%BE%BF%E3%82%B3%E3%83%B3%E3%83%91%E3%82%AF%E3%83%88_2015_(21895527629).jpg), CC BY-SA 2.0.*
 The front desk will give you a form. It looks more intimidating than it is.
 **Fields to fill:**
 - **From:** Your current hotel name and address (already printed, usually)
@@ -109,7 +116,7 @@ Most default to next-day delivery. For ¥500-800 extra, some hotels offer same-d
 
 ### Step 5: Pay and Hand Over the Bag
 Payment is usually at checkout or billed to your room. Hand your suitcase to staff. They’ll put the shipping sticker on it and it gets picked up later that day or next morning.
-**What to expect:** Your bag arrives at the next hotel by 6-9 PM (next-day service). The hotel will call you or text you when it arrives. Pick it up from the front desk — no extra cost.
+**What to expect:** Your bag arrives at the next hotel by 6-9 PM (next-day service). The hotel will call you or text you when it arrives. Pick it up from the front desk, no extra cost.
 
 ## Alternatives: When Luggage Forwarding Doesn’t Make Sense
 
@@ -165,7 +172,7 @@ You use Yamato to ship your purchases home to your next hotel (or back to your f
 You land at Narita or Haneda. You want your bag at your Tokyo hotel by 6 PM so you can go out that night.
 **Option 1: JAL ABC** — If you flew Japan Airlines, JAL ABC counters at both Narita and Haneda will ship your bag to a Tokyo hotel for ¥2,500-3,500. Same-day delivery by 6-9 PM.
 **Option 2: Yamato at Airport** — Both Narita and Haneda have Yamato service counters. Same-day delivery available to central Tokyo (¥3,000-3,500).
-**Option 3: Hotel Arrange It** — Email your hotel before you arrive. Most hotels will arrange Yamato delivery from the airport (¥2,500-3,500 additional).
+**Option 3: Hotel Arrange It**. Email your hotel before you arrive. Most hotels will arrange Yamato delivery from the airport (¥2,500-3,500 additional).
 **Real cost analysis:** Airport → hotel Yamato (¥3,000) vs. Taxi (¥8,000-15,000 from Narita). Yamato saves ¥5,000-12,000. Worth it.
 
 ![Yamato Transport (Kuroneko) walk-through delivery van at Haneda Airport's Chronogate logistics hub — the same fleet that handles airport-to-hotel takkyubin shipments](/images/articles/japan-luggage-forwarding-2026/body-wikimedia-1.webp)

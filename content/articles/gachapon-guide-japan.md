@@ -1,14 +1,20 @@
 ---
-title: "Gachapon Japan 2026: Where to Find Them & 7 Best Machines"
-description: "Where to find gachapon in Japan, how to use the machines, and 7 best multi-floor buildings — Akihabara, Ikebukuro, Shibuya stops with capsule toy details."
-date: "2026-03-28"
-lastUpdated: "2026-03-28"
-category: "experiences"
+title: 'Gachapon Japan 2026: Where to Find Them & 7 Best Machines'
+description: >-
+  Where to find gachapon in Japan, how to use the machines, and 7 best
+  multi-floor buildings — Akihabara, Ikebukuro, Shibuya stops with capsule toy
+  details.
+date: '2026-03-28'
+lastUpdated: '2026-03-28'
+category: experiences
 tags: []
-featuredImage: "/images/articles/gachapon-guide-japan/featured.jpg"
-featuredImageAlt: "Bandai Gashapon store with capsule toy machines in Japan"
-author: "Takapon"
-excerpt: "Where to find gachapon in Japan, how to use the machines, and 7 best multi-floor buildings — Akihabara, Ikebukuro, Shibuya stops with capsule toy details."
+featuredImage: /images/articles/gachapon-guide-japan/featured.jpg
+featuredImageAlt: Bandai Gashapon store with capsule toy machines in Japan
+author: Takapon
+excerpt: >-
+  Where to find gachapon in Japan, how to use the machines, and 7 best
+  multi-floor buildings — Akihabara, Ikebukuro, Shibuya stops with capsule toy
+  details.
 relatedSlugs: []
 wpPostId: 268
 ---
@@ -35,7 +41,7 @@ Gachapon spend adds up faster than first-time visitors expect. This guide covers
 Gachapon machines lined up at a Tokyo arcade
 
 ## What Is Gachapon? A Quick Primer
-The word *gachapon* comes from two sounds: *gacha* (the crank turning) and *pon* (the capsule dropping). You’ll also see it written as *gashapon* (Bandai’s trademark version) or just *gacha*. They all mean the same thing — coin-operated capsule toy dispensers.
+The word *gachapon* comes from two sounds: *gacha* (the crank turning) and *pon* (the capsule dropping). You’ll also see it written as *gashapon* (Bandai’s trademark version) or just *gacha*. They all mean the same thing, coin-operated capsule toy dispensers.
 
 Japan has an estimated 600,000+ gachapon machines nationwide. The market hit 610 billion yen in 2023 and shows no sign of slowing down. What started as cheap toys for kids in the 1960s has evolved into a serious collectibles market. Today you’ll find gachapon featuring licensed anime characters, museum-quality miniature food replicas, functional phone accessories, and art pieces from independent designers. The two dominant brands behind these machines are [Bandai Gashapon](https://gashapon.jp/) — Bandai’s capsule toy division — and [Takara Tomy Arts](https://www.takaratomy-arts.co.jp/), whose gashapon line is currently observing its 60th anniversary with new collaboration product runs.
 
@@ -43,7 +49,7 @@ The key difference from Western vending machines: Japanese gachapon almost alway
 
 
 ![Aisle of capsule toy gachapon machines lining the walls of a Gashapon shop in Akihabara, Tokyo](/images/articles/gachapon-guide-japan/body-wikimedia-1.webp)
-*A gashapon shop aisle in Akihabara — each machine is a themed set of 4-6 designs. Photo: Ubahnverleih / Wikimedia Commons (CC0).*
+*A gashapon shop aisle in Akihabara, each machine is a themed set of 4-6 designs. Photo: Ubahnverleih / Wikimedia Commons (CC0).*
 
 
 ## How to Use a Gachapon Machine (Step by Step)
@@ -59,7 +65,7 @@ Using a gachapon machine takes about 15 seconds once you know the process.
 
 
 ![Close-up of capsule toy machine cranks, coin slots and price stickers on a row of gachapon dispensers in Japan](/images/articles/gachapon-guide-japan/body-wikimedia-2.webp)
-*Close-up of the cranks and coin slots — turn clockwise after inserting coins and the capsule drops into the bottom tray. Photo: Ka23 13 / Wikimedia Commons (CC BY 4.0).*
+*Close-up of the cranks and coin slots, turn clockwise after inserting coins and the capsule drops into the bottom tray. Photo: Ka23 13 / Wikimedia Commons (CC BY 4.0).*
 
 
 ## Price Guide: What to Expect in 2026
@@ -94,15 +100,15 @@ Gachapon machines are everywhere in Japan, but some locations are worth making a
 
 **Gashapon Bandai Official Shop (Tokyo Station)** — Bandai’s own shop inside Tokyo Station Character Street. Focuses on Bandai-exclusive releases. Smaller than Akihabara shops but convenient if you’re passing through. Some machines here carry Tokyo Station limited editions.
 
-**Kenelephant Gachapon Department (Shibuya)** — Inside Shibuya PARCO. Known for art-toy crossover lines and trendy collaborations. Smaller space but hand-picked selection that skews toward the premium 400-500 yen range.
+**Kenelephant Gachapon Department (Shibuya)**. Inside Shibuya PARCO. Known for art-toy crossover lines and trendy collaborations. Smaller space but hand-picked selection that skews toward the premium 400-500 yen range.
 
 
 ### Big Retail Stores with Large Gachapon Sections
-**Yodobashi Camera Akihabara** — The 6th floor toy section has 200+ gachapon machines lined up along the wall. Good selection of anime-licensed machines. The advantage here: you’re already in a store that accepts credit cards, so you can buy 100-yen coins from the change machine without hunting for a convenience store first.
+**Yodobashi Camera Akihabara**. The 6th floor toy section has 200+ gachapon machines lined up along the wall. Good selection of anime-licensed machines. The advantage here: you’re already in a store that accepts credit cards, so you can buy 100-yen coins from the change machine without hunting for a convenience store first.
 
 **Animate (all locations)** — Every Animate store has a gachapon corner, usually near the entrance or on a dedicated floor. The Ikebukuro main store has the largest anime-focused gachapon selection. Tilts heavily toward anime and manga series.
 
-**Don Quijote** — The discount chain always has gachapon machines on the ground floor or near the entrance. Selection varies by location, but you’ll usually find 50 to 100 machines. The Shibuya mega store and Akihabara branch have the best selections.
+**Don Quijote**. The discount chain always has gachapon machines on the ground floor or near the entrance. Selection varies by location, but you’ll usually find 50 to 100 machines. The Shibuya mega store and Akihabara branch have the best selections.
 
 
 ### Everyday Spots (Free, No Detour Needed)
@@ -123,13 +129,13 @@ Not all gachapon are created equal. These brands and series consistently deliver
 
 **Takara Tomy Arts** — Known for clever, functional items. Their miniature appliance series (tiny working fans, miniature vending machines) went viral internationally. Also produces excellent animal figurine lines. See the official [Takara Tomy Arts gashapon portal](https://www.takaratomy-arts.co.jp/) for the current lineup, including the Panda’s Hole, Capsule Plarail, and PERIHAPI! brand strands.
 
-**Qualia** — The premium indie brand. Qualia makes miniature food replicas that are almost uncomfortably realistic. Their sushi and ramen lines are display-worthy. Typically 400-500 yen, but the quality justifies it.
+**Qualia**. The premium indie brand. Qualia makes miniature food replicas that are almost uncomfortably realistic. Their sushi and ramen lines are display-worthy. Typically 400-500 yen, but the quality justifies it.
 
 **Kitan Club** — Masters of the “weird but charming” category. If you’ve seen photos of a cat wearing a banana hat or a frog sitting on a mushroom, that’s probably Kitan Club. Their Cup no Fuchiko (figure that hangs on the rim of a cup) was a cultural phenomenon.
 
 
 ### Hot Series in 2026
-Anime gachapon cycles fast, so what’s popular changes every few months. As of early 2026, these are the series taking up the most shelf space: **Jujutsu Kaisen** (still going strong with new movie tie-ins), **One Piece** (constant stream of releases — the Gear 5 Luffy figures sell out fast), **SPY x FAMILY** (Anya figures in every possible pose), **Chiikawa** (Japan’s current mascot obsession — expect long lines at Chiikawa gachapon), and **Demon Slayer** (Hashira collection continues).
+Anime gachapon cycles fast, so what’s popular changes every few months. As of early 2026, these are the series taking up the most shelf space: **Jujutsu Kaisen** (still going strong with new movie tie-ins), **One Piece** (constant stream of releases — the Gear 5 Luffy figures sell out fast), **SPY x FAMILY** (Anya figures in every possible pose), **Chiikawa** (Japan’s current mascot obsession, expect long lines at Chiikawa gachapon), and **Demon Slayer** (Hashira collection continues).
 
 Beyond anime, look for the **miniature food replica** lines (ramen, sushi, convenience store bento) — these make the best souvenirs because they’re uniquely Japanese and universally understood. The **animal figurine** series (especially Schleich collaborations and the “sleeping animals” line) are also consistently popular with international visitors.
 
@@ -147,7 +153,7 @@ With thousands of machines to choose from, here are five categories that consist
 
 
 ![Pile of opened gachapon capsules with character figures and stickers visible inside](/images/articles/gachapon-guide-japan/body-wikimedia-5.webp)
-*A typical gachapon haul — capsules pop open to reveal small figures, stickers and accessories. Photo: Charles Nguyen / Wikimedia Commons (CC BY-SA 4.0).*
+*A typical gachapon haul, capsules pop open to reveal small figures, stickers and accessories. Photo: Charles Nguyen / Wikimedia Commons (CC BY-SA 4.0).*
 
 
 ## Tips From a Capsule Toy Addict

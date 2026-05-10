@@ -1,22 +1,38 @@
-﻿---
-title: "LuvLab Harajuku DIY: Italian Charms, Snake Bracelets"
-description: "LuvLab Harajuku is a walk-in DIY accessory shop 2 min from JR Harajuku Station. Make Italian charm watches, snake bracelets, and custom keychains from 300 yen."
-slug: "luvlab-harajuku-diy-accessory-experience"
-category: "experiences"
-tags: ["harajuku", "diy-experience", "shopping", "accessories", "2026-spring"]
-date: "2026-04-15"
-lastUpdated: "2026-04-15"
-updated: "2026-04-15"
-featured: "/images/articles/luvlab-harajuku/interior-table.webp"
-featuredImage: "/images/articles/luvlab-harajuku/interior-table.webp"
-featuredImageAlt: "LuvLab Harajuku crafting table with colorful keycaps, charm displays, and pegboard wall"
-heroImage: "/images/articles/luvlab-harajuku/interior-table.webp"
-heroImageAlt: "LuvLab Harajuku crafting table with colorful keycaps, charm displays, and pegboard wall"
-imageCredit: "Photos by Japan Pop Now"
-author: "Takapon"
-excerpt: "LuvLab Harajuku opened April 10, 2026 — a walk-in DIY accessory workshop 2 minutes from JR Harajuku Station where you can make Italian charm watches, snake bracelets, custom keyboard keychains, and lip chains starting from just 300 yen."
+---
+title: 'LuvLab Harajuku DIY: Italian Charms, Snake Bracelets'
+description: >-
+  LuvLab Harajuku is a walk-in DIY accessory shop 2 min from JR Harajuku
+  Station. Make Italian charm watches, snake bracelets, and custom keychains
+  from 300 yen.
+slug: luvlab-harajuku-diy-accessory-experience
+category: experiences
+tags:
+  - harajuku
+  - diy-experience
+  - shopping
+  - accessories
+  - 2026-spring
+date: '2026-04-15'
+lastUpdated: '2026-04-15'
+updated: '2026-04-15'
+featured: /images/articles/luvlab-harajuku/interior-table.webp
+featuredImage: /images/articles/luvlab-harajuku/interior-table.webp
+featuredImageAlt: >-
+  LuvLab Harajuku crafting table with colorful keycaps, charm displays, and
+  pegboard wall
+heroImage: /images/articles/luvlab-harajuku/interior-table.webp
+heroImageAlt: >-
+  LuvLab Harajuku crafting table with colorful keycaps, charm displays, and
+  pegboard wall
+imageCredit: Photos by Japan Pop Now
+author: Takapon
+excerpt: >-
+  LuvLab Harajuku opened April 10, 2026 — a walk-in DIY accessory workshop 2
+  minutes from JR Harajuku Station where you can make Italian charm watches,
+  snake bracelets, custom keyboard keychains, and lip chains starting from just
+  300 yen.
 spotlight: true
-spotlightExpiry: "2026-05-15"
+spotlightExpiry: '2026-05-15'
 ---
 
 
@@ -24,7 +40,7 @@ spotlightExpiry: "2026-05-15"
 ![Colorful mechanical keycaps organized in display trays at LuvLab Harajuku](/images/articles/luvlab-harajuku/keycap-wall.webp)
 *Hundreds of keycap designs to choose from — Hello Kitty, emoji faces, food motifs, anime characters, and more.*
 
-**LuvLab Harajuku opened on April 10, 2026, just a 2-minute walk from JR Harajuku Station's Takeshita Exit.** With 5 different craft experiences starting from 300 yen and no reservation required, it fills a gap that most Harajuku shopping guides miss: a place where you actually *make* the souvenir instead of buying one off the shelf. Every piece comes out different because *you* pick each charm, each color, each layout — no two people walk out with the same thing. I stopped by on opening week, spent about 40 minutes building a custom keyboard keychain, and left with something no store in the world sells.
+**LuvLab Harajuku opened on April 10, 2026, just a 2-minute walk from JR Harajuku Station's Takeshita Exit.** With 5 different craft experiences starting from 300 yen and no reservation required, it fills a gap that most Harajuku shopping guides miss: a place where you actually *make* the souvenir instead of buying one off the shelf. Every piece comes out different because *you* pick each charm, each color, each layout, no two people walk out with the same thing. I stopped by on opening week, spent about 40 minutes building a custom keyboard keychain, and left with something no store in the world sells.
 
 
 <strong>LuvLab (pronounced "love lab") is a hands-on accessory workshop brand with 3 locations in Shibuya, Harajuku, and Yokohama Chinatown, specializing in Italian charm watches, snake bracelets, custom keyboard keychains, and lip chains that visitors assemble themselves from hundreds of individual parts.</strong>
@@ -56,7 +72,7 @@ LuvLab offers 5 core experiences, each with a different price point and time com
 ![Custom keyboard keychain displaying colorful mechanical keycaps](/images/articles/luvlab-harajuku/product-keyboard.webp)
 *A selection of finished custom keyboard keychains showing the variety of keycap designs available.*
 
-**Lip Chains** round out the lineup — decorative chains that clip onto lip gloss tubes, trending on Japanese TikTok and Instagram right now.
+**Lip Chains** round out the lineup, decorative chains that clip onto lip gloss tubes, trending on Japanese TikTok and Instagram right now.
 
 
 ![Lip chain accessory with detailed charms](/images/articles/luvlab-harajuku/product-lipchain.webp)
@@ -117,7 +133,7 @@ The main crafting area has standing-height tables where you assemble your piece.
 
 
 ![Wall of colorful custom keycaps at LuvLab](/images/articles/luvlab-harajuku/keycap-wall.webp)
-*The keycap selection wall — over 100 designs organized by color, including anime characters, food items, animals, and letter tiles.*
+*The keycap selection wall, over 100 designs organized by color, including anime characters, food items, animals, and letter tiles.*
 
 This is the featured experience. Per the operator's flow, the process takes about 15-20 minutes:
 
@@ -131,13 +147,13 @@ This is the featured experience. Per the operator's flow, the process takes abou
 
 
 ![Choosing custom keyboard keycaps from the display](/images/articles/luvlab-harajuku/keyboard-hand.webp)
-*Picking out keycaps — the designs are small but packed with detail.*
+*Picking out keycaps, the designs are small but packed with detail.*
 
 
 ![Finished custom keyboard keychains in heart-shaped trays](/images/articles/luvlab-harajuku/keyboard-trays.webp)
 *Two finished keyboard keychains displayed in heart-shaped trays — one spelling out a name, the other mixing character caps with food motifs.*
 
-**The result is a one-of-a-kind accessory** that clips onto a bag, phone case, or actual keyboard. Spell out your name, match your *oshi*'s color scheme, or mix random keycaps for pure chaos — the combination possibilities run into the thousands. At 1,300 yen for a single piece (about 9 USD), it is one of the most affordable handmade souvenirs in Harajuku and the kind of thing that gets "where did you get that?" comments for months.
+**The result is a one-of-a-kind accessory** that clips onto a bag, phone case, or actual keyboard. Spell out your name, match your *oshi*'s color scheme, or mix random keycaps for pure chaos, the combination possibilities run into the thousands. At 1,300 yen for a single piece (about 9 USD), it is one of the most affordable handmade souvenirs in Harajuku and the kind of thing that gets "where did you get that?" comments for months.
 
 
 ## What About the Snake Bracelets?
@@ -160,7 +176,7 @@ Snake bracelets are the Harajuku-exclusive item and the one that draws the most 
 
 
 ![Cat Street in Harajuku at night with boutique storefronts and quiet pedestrian flow](/images/articles/luvlab-harajuku/body-wikimedia-2.webp)
-*Cat Street in Harajuku — the calmer side street that runs parallel to Takeshita and Omotesando, lined with boutiques and a natural extension of any LuvLab visit. Photo: Rs1421 / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Harajuku-Cat-street-05.jpg), CC BY-SA 3.0.*
+*Cat Street in Harajuku, the calmer side street that runs parallel to Takeshita and Omotesando, lined with boutiques and a natural extension of any LuvLab visit. Photo: Rs1421 / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Harajuku-Cat-street-05.jpg), CC BY-SA 3.0.*
 
 
 ## Why This Is Trending Right Now
@@ -184,7 +200,7 @@ LuvLab sits at the intersection of two movements: the Italian charm boom and the
 | **Access** | 2-min walk from JR Harajuku Station Takeshita Exit |
 | **Hours** | 12:00-18:00 daily |
 | **Closed** | Essentially none (check Instagram for rare closures) |
-| **Reservation** | Not required — walk-in only |
+| **Reservation** | Not required, walk-in only |
 | **Time needed** | 15-40 min depending on the craft |
 | **Minimum spend** | 300 yen (single accessory piece) |
 | **Payment** | Cash and major credit cards |
