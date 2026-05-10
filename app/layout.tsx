@@ -102,8 +102,11 @@ export default function RootLayout({
         <link rel="preconnect" href="https://fonts.googleapis.com" />
         <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="anonymous" />
         <link rel="preconnect" href="https://www.googletagmanager.com" crossOrigin="anonymous" />
-        <link rel="preconnect" href="https://pagead2.googlesyndication.com" crossOrigin="anonymous" />
         <link rel="preconnect" href="https://www.google-analytics.com" crossOrigin="anonymous" />
+        {/* AdSense preconnect only when explicitly enabled — keeps the "we plan to use ads" signal off the page until approval lands */}
+        {process.env.NEXT_PUBLIC_ADSENSE_ENABLED === 'true' && process.env.NEXT_PUBLIC_ADSENSE_ID && (
+          <link rel="preconnect" href="https://pagead2.googlesyndication.com" crossOrigin="anonymous" />
+        )}
 
         {/* Structured Data - WebSite Schema */}
         <script
@@ -178,9 +181,11 @@ export default function RootLayout({
         <CookieConsent />
         <BottomNav />
 
-        {/* Google AdSense — deferred until after window load to protect LCP/TBT.
-            Review bots still receive the script in rendered HTML. */}
-        {process.env.NEXT_PUBLIC_ADSENSE_ID && (
+        {/* Google AdSense — gated behind BOTH NEXT_PUBLIC_ADSENSE_ENABLED=true AND
+            NEXT_PUBLIC_ADSENSE_ID. Belt-and-suspenders: until approval lands, the
+            ENABLED flag stays false in Vercel env so the script never reaches a
+            reviewer's HTML. Flip ENABLED=true post-approval. */}
+        {process.env.NEXT_PUBLIC_ADSENSE_ENABLED === 'true' && process.env.NEXT_PUBLIC_ADSENSE_ID && (
           <Script
             id="adsense-loader"
             strategy="lazyOnload"

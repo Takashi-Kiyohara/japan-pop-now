@@ -25,6 +25,7 @@ import AffiliateDisclosure from '@/components/AffiliateDisclosure';
 import NewsletterSignup from '@/components/NewsletterSignup';
 import ShareButtons from '@/components/ShareButtons';
 import ScrollDepthTracker from '@/components/ScrollDepthTracker';
+import AuthorBox from '@/components/AuthorBox';
 import dynamic from 'next/dynamic';
 import { getBlurPlaceholder } from '@/lib/image-utils';
 import { notFound } from 'next/navigation';
@@ -398,6 +399,11 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
               {/* Bottom Share Buttons */}
               <div className="mt-8 pt-6" style={{ borderTop: '1px solid #e7e5e4' }}>
                 <ShareButtons url={url} title={article.title} />
+              </div>
+
+              {/* Author Box — every article, regardless of frontmatter author value */}
+              <div className="mt-8">
+                <AuthorBox variant="full" />
               </div>
 
               {/* Article Footer — circulation design */}
