@@ -42,7 +42,7 @@ This playbook captures the practices that first-time Tokyo visitors most commonl
 - [Cash in 2026: Where You Still Need It](#cash-rules)
 - [The Anime Fan's Pre-Trip Checklist](#pre-trip-checklist)
 - [The Unspoken Rules Nobody Tells You](#unspoken-rules)
-- [Why Japanese People Love This Quiet Way of Living](#why-japan-feels)
+- [Why fans line up for this one](#why-fans-line-up-for-this-one)
 - [Practical Info Quick Reference](#practical-info)
 - [Frequently Asked Questions](#faq)
 - [More Travel Tips Guides](#more-guides)

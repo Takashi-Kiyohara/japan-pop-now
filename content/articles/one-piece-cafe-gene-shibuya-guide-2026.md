@@ -228,7 +228,7 @@ The 6th floor is the highest-density anime merchandise floor in Tokyo. If you ar
 If you are short on time, JUMP SHOP plus the cafe alone is a solid 90-minute loop.
 
 
-## Why do Japanese fans love this cafe?
+## What gives this cafe its repeat-visit pull
 
 ONE PIECE has run for over 25 years and its cafe collaborations carry a specific weight that newer franchises cannot match. Japanese fans treat these events less like themed restaurants and more like *seichi junrei* (聖地巡礼, sacred site pilgrimage) — each dish recreates a food that appeared in the manga. The salt ramen references a scene from Water Seven, Zoro's curry ties to a specific arc moment, and the skull bowl is Trafalgar Law's entire aesthetic compressed into tableware.
 

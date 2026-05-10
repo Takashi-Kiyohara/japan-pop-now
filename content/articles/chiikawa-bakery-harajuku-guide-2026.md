@@ -118,7 +118,7 @@ Chiikawa Bakery is on the Jingumae crossing, which puts you within walking dista
 ![Chiikawa Bakery iced café latte in a branded logo cup photographed on an outdoor bench near Tokyu Plaza Omotesando](/images/articles/chiikawa-bakery-harajuku-guide-2026/02.jpg)
 *A takeaway café latte from Chiikawa Bakery — the nearby Tokyu Plaza terrace is a good spot to enjoy it. Photo: Japan Pop Now*
 
-## Why Japanese fans treat this as a pilgrimage
+## What turns the Harajuku bakery into a Chiikawa pilgrimage stop
 Chiikawa (ちいかわ) started as a Twitter manga by artist Nagano and grew into one of Japan's largest character IPs. The affection for the series goes deeper than cuteness. The stories handle everyday adult anxieties — work, money, unfair situations, small friendships — through three tiny characters who are clearly doing their best in a world that keeps challenging them. Japanese readers see themselves in the characters in a way that pure mascot properties do not allow.
 That emotional layer is why the bakery functions as a quiet pilgrimage, not just a souvenir stop. Local fans come here on birthdays, on difficult workdays, and on slow Saturdays when they want to feel something gentle. Notice how long people spend looking at a bread before picking it up. The bakery sells a ten-minute feeling, not just a pastry.
 
