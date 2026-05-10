@@ -306,7 +306,16 @@ function auditArticle(filename: string, allSlugs: Set<string>, noindexSlugs: Set
     : undefined
 
   // Axis 9: affiliate
-  const klookHits = [...content.matchAll(/https?:\/\/affiliate\.klook\.com\/[^)\s]+/g)]
+  // R10-52 (2026-05-10): WIDENED regex to include `www.klook.com` (canonical
+  // Klook domain used by 74% of corpus links — critic agentId a55d910f0b611b1b3).
+  // Prior regex only matched `affiliate.klook.com` (Awin proxy domain) and
+  // missed `aff_id=` short-form non-compliance. R10 standard:
+  //  - canonical query param is `aff_adid=[0-9]+`
+  //  - `aff_id=` short form is NOT compliant per project policy
+  //    (memory: feedback_bare_klook_url_ban)
+  const klookHits = [
+    ...content.matchAll(/https?:\/\/(?:www\.|affiliate\.)?klook\.com\/[^)\s"'<>]+/g)
+  ]
   const placeholderHits = [...content.matchAll(/REPLACE_WITH_/g)]
   let affiliatePass = true
   const affiliateReasons: string[] = []
@@ -316,14 +325,18 @@ function auditArticle(filename: string, allSlugs: Set<string>, noindexSlugs: Set
   }
   for (const m of klookHits) {
     const url = m[0]
-    if (!url.includes('aff_adid')) {
+    // Compliant standard: aff_adid=NNN. aff_id=NNN (short form) and bare are NOT.
+    if (!/[?&]aff_adid=\d+/.test(url)) {
       affiliatePass = false
-      affiliateReasons.push(`klook URL missing aff_adid`)
+      const reason = /[?&]aff_id=\d+/.test(url)
+        ? `klook URL using aff_id= short form (use aff_adid=)`
+        : `klook URL missing aff_adid (bare or unparameterized)`
+      affiliateReasons.push(reason)
       break
     }
   }
-  // Check rel="sponsored" near klook anchors — only test bare anchors, not JSX components.
-  const bareKlookA = [...content.matchAll(/<a\s[^>]*href="https?:\/\/affiliate\.klook\.com[^"]*"[^>]*>/gi)]
+  // Check rel="sponsored" near klook anchors — both `affiliate.` and `www.` domains.
+  const bareKlookA = [...content.matchAll(/<a\s[^>]*href="https?:\/\/(?:www\.|affiliate\.)?klook\.com[^"]*"[^>]*>/gi)]
   for (const m of bareKlookA) {
     if (!/rel="[^"]*sponsored/i.test(m[0])) {
       affiliatePass = false

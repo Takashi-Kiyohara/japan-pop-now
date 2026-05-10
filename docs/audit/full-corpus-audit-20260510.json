@@ -1,5 +1,5 @@
 {
-  "generated": "2026-05-10T04:44:12.287Z",
+  "generated": "2026-05-10T07:28:26.494Z",
   "buckets": {
     "PASS_ALL_10": 87,
     "PASS_8plus": 0,
@@ -25,10 +25,10 @@
       "slug": "akihabara-arcade-rhythm-games-guide-2026",
       "title": "Akihabara Arcade Rhythm Games: First-Timer Guide 2026",
       "description": "Akihabara's 6 rhythm-game arcades, tested over 3 days. Which machine to try first, best cabinets, and what regulars wish tourists knew. 2026 guide.",
-      "wordCount": 2220,
+      "wordCount": 2204,
       "imageCount": 5,
       "bodyImageCount": 4,
-      "density": 1.8018018018018018,
+      "density": 1.8148820326678765,
       "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
@@ -52,7 +52,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.8018018018018018,
+            "density": 1.8148820326678765,
             "bodyImageCount": 4
           }
         },
@@ -82,7 +82,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 2220
+            "wordCount": 2204
           }
         }
       },
@@ -94,10 +94,10 @@
       "slug": "akihabara-complete-guide-2026",
       "title": "Akihabara: The Complete Pop Culture Guide for 2026",
       "description": "The real Akihabara guide for 2026. Retro game shops, hidden specialist stores, maid cafes, collab cafes, and the side streets most tourists miss.",
-      "wordCount": 4208,
+      "wordCount": 4173,
       "imageCount": 6,
       "bodyImageCount": 5,
-      "density": 1.188212927756654,
+      "density": 1.1981787682722262,
       "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
@@ -121,7 +121,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.188212927756654,
+            "density": 1.1981787682722262,
             "bodyImageCount": 5
           }
         },
@@ -151,7 +151,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 4208
+            "wordCount": 4173
           }
         }
       },
@@ -163,10 +163,10 @@
       "slug": "animate-cafe-guide-japan",
       "title": "Animate Cafe Japan 2026: Lottery, Locations, Gratte Guide",
       "description": "Book Animate Cafe 2026: lottery entry, Tokyo and Osaka locations, Gratte stands, DECOTTO donuts. Tips to win the draw and secure reservations.",
-      "wordCount": 2733,
+      "wordCount": 2712,
       "imageCount": 6,
       "bodyImageCount": 5,
-      "density": 1.8294914013904136,
+      "density": 1.8436578171091444,
       "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
@@ -190,7 +190,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.8294914013904136,
+            "density": 1.8436578171091444,
             "bodyImageCount": 5
           }
         },
@@ -220,7 +220,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 2733
+            "wordCount": 2712
           }
         }
       },
@@ -232,10 +232,10 @@
       "slug": "anime-day-trips-from-tokyo-2026",
       "title": "7 Anime Day Trips from Tokyo 2026: JR Pass Pilgrimage Guide",
       "description": "Six anime pilgrimage spots within 2hrs of Tokyo — Kamakura (Slam Dunk), Hakone (Evangelion), Oarai (Girls und Panzer), Chichibu, Nikko. Routes + JR Pass math.",
-      "wordCount": 2782,
+      "wordCount": 2764,
       "imageCount": 7,
       "bodyImageCount": 6,
-      "density": 2.156721782890007,
+      "density": 2.1707670043415344,
       "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
@@ -259,7 +259,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 2.156721782890007,
+            "density": 2.1707670043415344,
             "bodyImageCount": 6
           }
         },
@@ -289,7 +289,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 2782
+            "wordCount": 2764
           }
         }
       },
@@ -301,10 +301,10 @@
       "slug": "anime-hotels-tokyo-2026",
       "title": "Best Anime Hotels Tokyo 2026: Manga Rooms from ¥3,000/Night",
       "description": "5 anime-themed Tokyo hotels compared from official sources. Manga Art Hotel, Hotel Gracery Godzilla, Tavinos Asakusa, Sunshine City Prince IKEPRI25.",
-      "wordCount": 3560,
+      "wordCount": 3543,
       "imageCount": 8,
       "bodyImageCount": 7,
-      "density": 1.9662921348314608,
+      "density": 1.9757267852102736,
       "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
@@ -328,7 +328,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.9662921348314608,
+            "density": 1.9757267852102736,
             "bodyImageCount": 7
           }
         },
@@ -358,7 +358,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 3560
+            "wordCount": 3543
           }
         }
       },
@@ -439,10 +439,10 @@
       "slug": "anime-pilgrimage-spots-tokyo",
       "title": "10 Anime Pilgrimage Spots in Tokyo You Can Visit Today",
       "description": "Visit real anime locations in Tokyo: Your Name stairs, Shibuya Crossing (JJK), Sensoji (Demon Slayer), Akihabara (Steins;Gate), Kamakura (Slam Dunk), and more.",
-      "wordCount": 3088,
+      "wordCount": 3047,
       "imageCount": 10,
       "bodyImageCount": 9,
-      "density": 2.9145077720207255,
+      "density": 2.953724975385625,
       "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
@@ -466,7 +466,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 2.9145077720207255,
+            "density": 2.953724975385625,
             "bodyImageCount": 9
           }
         },
@@ -496,7 +496,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 3088
+            "wordCount": 3047
           }
         }
       },
@@ -577,10 +577,10 @@
       "slug": "animejapan-comiket-2026-guide",
       "title": "AnimeJapan & Comiket 2026: Foreigner’s Survival Guide",
       "description": "AnimeJapan vs Comiket 2026 — international visitor survival guide: tickets, English support, queues, photo rules, hotels, and which one fits your trip.",
-      "wordCount": 1620,
+      "wordCount": 1618,
       "imageCount": 5,
       "bodyImageCount": 4,
-      "density": 2.4691358024691357,
+      "density": 2.472187886279357,
       "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
@@ -604,7 +604,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 2.4691358024691357,
+            "density": 2.472187886279357,
             "bodyImageCount": 4
           }
         },
@@ -634,7 +634,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 1620
+            "wordCount": 1618
           }
         }
       },
@@ -646,10 +646,10 @@
       "slug": "apothecary-diaries-oshi-tabi-osaka-shinkansen-2026",
       "title": "Apothecary Diaries Osaka Oshi-Tabi 2026: Shinkansen Guide",
       "description": "JR Tokai Oshi-Tabi Vol.3 pairs Apothecary Diaries with the Tokaido Shinkansen Apr 17–Jul 20, 2026. Route, stamp rally, BOX cafes, guidebook tips.",
-      "wordCount": 2940,
+      "wordCount": 2912,
       "imageCount": 5,
       "bodyImageCount": 4,
-      "density": 1.3605442176870748,
+      "density": 1.3736263736263736,
       "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
@@ -673,7 +673,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.3605442176870748,
+            "density": 1.3736263736263736,
             "bodyImageCount": 4
           }
         },
@@ -703,7 +703,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 2940
+            "wordCount": 2912
           }
         }
       },
@@ -784,10 +784,10 @@
       "slug": "blue-lock-tokyo-skytree-cafe-2026",
       "title": "Blue Lock Tokyo 2026: Skytree, Cafe & Exhibition Guide",
       "description": "Visit 3 Blue Lock events in Tokyo: Skytree collab (Apr 9-Jul 6), Akihabara cafe (Apr 15-May 24), and Shibuya exhibition (Apr 24-May 10). Tickets, menus, and ...",
-      "wordCount": 2858,
+      "wordCount": 2830,
       "imageCount": 7,
       "bodyImageCount": 6,
-      "density": 2.099370188943317,
+      "density": 2.1201413427561837,
       "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
@@ -811,7 +811,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 2.099370188943317,
+            "density": 2.1201413427561837,
             "bodyImageCount": 6
           }
         },
@@ -841,7 +841,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 2858
+            "wordCount": 2830
           }
         }
       },
@@ -853,10 +853,10 @@
       "slug": "book-japan-anime-events-overseas-2026",
       "title": "How to Book Japan Anime Events from Overseas (2026 Guide)",
       "description": "How to book Japan anime collab cafes, events, and theme parks from overseas — which platforms work internationally, which don't, proxy services compared.",
-      "wordCount": 2504,
+      "wordCount": 2497,
       "imageCount": 4,
       "bodyImageCount": 3,
-      "density": 1.1980830670926517,
+      "density": 1.2014417300760913,
       "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
@@ -880,7 +880,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.1980830670926517,
+            "density": 1.2014417300760913,
             "bodyImageCount": 3
           }
         },
@@ -910,7 +910,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 2504
+            "wordCount": 2497
           }
         }
       },
@@ -922,10 +922,10 @@
       "slug": "chainsaw-man-pilgrimage-tokyo",
       "title": "Chainsaw Man Tokyo Pilgrimage 2026: Reze Arc Jinbocho Spots",
       "description": "Walk the real-world Jinbocho locations from Chainsaw Man's Reze Arc — phone booth, stone staircase, Showa-era office building, all within a 10-minute route.",
-      "wordCount": 2607,
+      "wordCount": 2581,
       "imageCount": 7,
       "bodyImageCount": 6,
-      "density": 2.3014959723820483,
+      "density": 2.324680356450988,
       "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
@@ -949,7 +949,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 2.3014959723820483,
+            "density": 2.324680356450988,
             "bodyImageCount": 6
           }
         },
@@ -979,7 +979,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 2607
+            "wordCount": 2581
           }
         }
       },
@@ -991,10 +991,10 @@
       "slug": "chiikawa-bakery-harajuku-guide-2026",
       "title": "Chiikawa Bakery Harajuku 2026: Real Visitor Guide",
       "description": "Chiikawa Bakery Harajuku: no-reservation afternoon entry, menu with prices, ¥1,200 snack plan, Lawson Ticket vouchers—verified April 2026.",
-      "wordCount": 2679,
+      "wordCount": 2657,
       "imageCount": 11,
       "bodyImageCount": 10,
-      "density": 3.732736095558044,
+      "density": 3.7636432066240117,
       "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
@@ -1018,7 +1018,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 3.732736095558044,
+            "density": 3.7636432066240117,
             "bodyImageCount": 10
           }
         },
@@ -1048,7 +1048,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 2679
+            "wordCount": 2657
           }
         }
       },
@@ -1060,10 +1060,10 @@
       "slug": "chiikawa-land-tokyo-complete-2026",
       "title": "Chiikawa Land Tokyo 2026: Tokyo Station Store Complete Guide",
       "description": "Visit Chiikawa Land Tokyo at Tokyo Station in 2026: ticket times, 2026 spring new sections, mokomoko plush lineup, hours, and the overseas visitor walkthrough.",
-      "wordCount": 3120,
+      "wordCount": 3104,
       "imageCount": 5,
       "bodyImageCount": 4,
-      "density": 1.2820512820512822,
+      "density": 1.288659793814433,
       "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
@@ -1087,7 +1087,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.2820512820512822,
+            "density": 1.288659793814433,
             "bodyImageCount": 4
           }
         },
@@ -1117,7 +1117,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 3120
+            "wordCount": 3104
           }
         }
       },
@@ -1129,10 +1129,10 @@
       "slug": "cosplay-experience-tokyo-2026",
       "title": "Cosplay Tokyo 2026: Rental Studios, Photo Spots & Events",
       "description": "Rent a Tokyo cosplay outfit ¥3,000-12,000 — wig, accessories, studio time, English staff. Akihabara + Ikebukuro studios compared, plus Comiket rules.",
-      "wordCount": 2092,
+      "wordCount": 2082,
       "imageCount": 6,
       "bodyImageCount": 5,
-      "density": 2.390057361376673,
+      "density": 2.4015369836695486,
       "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
@@ -1156,7 +1156,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 2.390057361376673,
+            "density": 2.4015369836695486,
             "bodyImageCount": 5
           }
         },
@@ -1186,7 +1186,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 2092
+            "wordCount": 2082
           }
         }
       },
@@ -1198,10 +1198,10 @@
       "slug": "dark-moon-chara-cafe-ikebukuro-2026",
       "title": "Dark Moon Ikebukuro 2026: THE Chara CAFE 12-Day Collab",
       "description": "DARK MOON cafe Ikebukuro 2026: 12-day collab at THE Chara CAFE Grandscape 2F, April 25 to May 6. Booking, menu prices, K-pop walk plan.",
-      "wordCount": 2069,
+      "wordCount": 2056,
       "imageCount": 4,
       "bodyImageCount": 3,
-      "density": 1.4499758337361044,
+      "density": 1.4591439688715953,
       "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
@@ -1225,7 +1225,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.4499758337361044,
+            "density": 1.4591439688715953,
             "bodyImageCount": 3
           }
         },
@@ -1255,7 +1255,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 2069
+            "wordCount": 2056
           }
         }
       },
@@ -1267,10 +1267,10 @@
       "slug": "demon-slayer-handmade-club-ufotable-cafe-2026",
       "title": "Demon Slayer Handmade Club ufotable Cafe 2026 Guide",
       "description": "Book Demon Slayer Handmade Club at ufotable Cafe (Apr 28-May 31, 2026): 7 venues, pour-your-own craft menu, LivePocket lottery, 5 cloth patterns.",
-      "wordCount": 3374,
+      "wordCount": 3349,
       "imageCount": 5,
       "bodyImageCount": 4,
-      "density": 1.1855364552459988,
+      "density": 1.1943863839952225,
       "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
@@ -1294,7 +1294,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.1855364552459988,
+            "density": 1.1943863839952225,
             "bodyImageCount": 4
           }
         },
@@ -1324,7 +1324,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 3374
+            "wordCount": 3349
           }
         }
       },
@@ -1336,10 +1336,10 @@
       "slug": "demon-slayer-meiji-mura-aichi-pilgrimage-2026",
       "title": "Demon Slayer × Meiji-mura 2026: Aichi Pilgrimage Guide",
       "description": "Demon Slayer × Meiji-mura runs Mar 7 – May 31, 2026: 3 escape-game courses, 13 collab dishes, 4 attractions, ufotable art — English day-trip guide from Nagoya.",
-      "wordCount": 4241,
+      "wordCount": 4210,
       "imageCount": 6,
       "bodyImageCount": 5,
-      "density": 1.1789672247111531,
+      "density": 1.187648456057007,
       "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
@@ -1363,7 +1363,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.1789672247111531,
+            "density": 1.187648456057007,
             "bodyImageCount": 5
           }
         },
@@ -1393,7 +1393,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 4241
+            "wordCount": 4210
           }
         }
       },
@@ -1405,10 +1405,10 @@
       "slug": "demon-slayer-pilgrimage-tokyo",
       "title": "Demon Slayer Pilgrimage Tokyo 2026: Every Kimetsu Location",
       "description": "Updated May 2026 after Mugen Castle Chapter 1. Every Demon Slayer location in and around Tokyo — Asakusa, guardian shrines, Mt. Kumotori, goods.",
-      "wordCount": 2488,
+      "wordCount": 2461,
       "imageCount": 4,
       "bodyImageCount": 3,
-      "density": 1.2057877813504825,
+      "density": 1.219016659894352,
       "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
@@ -1432,7 +1432,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.2057877813504825,
+            "density": 1.219016659894352,
             "bodyImageCount": 3
           }
         },
@@ -1462,7 +1462,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 2488
+            "wordCount": 2461
           }
         }
       },
@@ -1474,10 +1474,10 @@
       "slug": "demon-slayer-rerun-cafe-ufotable-2026",
       "title": "Demon Slayer Rerun Cafe ufotable 2026: Menu & Booking",
       "description": "Book the Demon Slayer rerun cafe at ufotable 2026. Menu, prices, 7 locations, lottery guide, and merch for the Kimetsu no Yaiba collab through May 6.",
-      "wordCount": 2985,
+      "wordCount": 2962,
       "imageCount": 4,
       "bodyImageCount": 3,
-      "density": 1.0050251256281408,
+      "density": 1.012829169480081,
       "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
@@ -1501,7 +1501,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.0050251256281408,
+            "density": 1.012829169480081,
             "bodyImageCount": 3
           }
         },
@@ -1531,7 +1531,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 2985
+            "wordCount": 2962
           }
         }
       },
@@ -1543,10 +1543,10 @@
       "slug": "demon-slayer-rerun-cafe-ufotable-kizuna-2026",
       "title": "Demon Slayer Cafe Tokyo 2026: Kizuna ufotable Guide",
       "description": "Demon Slayer ufotable Cafe 2026 Kizuna Phase 2 'Bonds Forged' guide — May 8 to July 7, 5 venues, pricing, and the LivePocket lottery booking flow in English.",
-      "wordCount": 2952,
+      "wordCount": 2925,
       "imageCount": 6,
       "bodyImageCount": 5,
-      "density": 1.6937669376693767,
+      "density": 1.7094017094017093,
       "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
@@ -1570,7 +1570,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.6937669376693767,
+            "density": 1.7094017094017093,
             "bodyImageCount": 5
           }
         },
@@ -1600,7 +1600,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 2952
+            "wordCount": 2925
           }
         }
       },
@@ -1681,10 +1681,10 @@
       "slug": "detective-conan-cafe-tokyo-osaka-3venue-2026",
       "title": "Detective Conan Cafe 2026: Tokyo Osaka Nagoya 3-Venue Guide",
       "description": "Detective Conan Cafe 2026 in Tokyo, Osaka, and Nagoya: verified dates, menu prices, 715 vs 3,850 yen reservation tiers, puzzle reward, and booking flow.",
-      "wordCount": 3059,
+      "wordCount": 3004,
       "imageCount": 9,
       "bodyImageCount": 8,
-      "density": 2.615233736515201,
+      "density": 2.663115845539281,
       "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
@@ -1708,7 +1708,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 2.615233736515201,
+            "density": 2.663115845539281,
             "bodyImageCount": 8
           }
         },
@@ -1738,7 +1738,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 3059
+            "wordCount": 3004
           }
         }
       },
@@ -1750,10 +1750,10 @@
       "slug": "detective-conan-pilgrimage-events-2026",
       "title": "Detective Conan Pilgrimage & Events 2026: 30th Anniversary",
       "description": "Detective Conan 2026: 12-city exhibition, 29th movie Yokohama tie-ins, annual cafe, USJ Conan World, and pilgrimage spots in Tottori and Osaka.",
-      "wordCount": 2463,
+      "wordCount": 2453,
       "imageCount": 6,
       "bodyImageCount": 5,
-      "density": 2.0300446609825418,
+      "density": 2.038320423970648,
       "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
@@ -1777,7 +1777,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 2.0300446609825418,
+            "density": 2.038320423970648,
             "bodyImageCount": 5
           }
         },
@@ -1807,7 +1807,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 2463
+            "wordCount": 2453
           }
         }
       },
@@ -1888,10 +1888,10 @@
       "slug": "first-timers-japan-playbook-anime-fans-2026",
       "title": "The First-Timer's Japan Playbook for Anime Fans (2026)",
       "description": "Plan your first Japan trip: hour-by-hour arrival, IC card, eSIM, cash rules, collab cafe booking, and etiquette for first-time anime fans.",
-      "wordCount": 2636,
+      "wordCount": 2624,
       "imageCount": 5,
       "bodyImageCount": 4,
-      "density": 1.5174506828528074,
+      "density": 1.524390243902439,
       "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
@@ -1915,7 +1915,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.5174506828528074,
+            "density": 1.524390243902439,
             "bodyImageCount": 4
           }
         },
@@ -1945,7 +1945,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 2636
+            "wordCount": 2624
           }
         }
       },
@@ -1957,10 +1957,10 @@
       "slug": "frieren-usj-story-walk-osaka-2026",
       "title": "Frieren USJ Story Walk Osaka 2026: Pre-Launch Guide",
       "description": "Pre-launch guide. Frieren Story Walk opens at USJ Osaka May 30, 2026–Jan 11, 2027. Tickets, e-seitai-ken, restaurant, ride — from official press.",
-      "wordCount": 3188,
+      "wordCount": 3170,
       "imageCount": 5,
       "bodyImageCount": 4,
-      "density": 1.2547051442910915,
+      "density": 1.2618296529968456,
       "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
@@ -1984,7 +1984,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.2547051442910915,
+            "density": 1.2618296529968456,
             "bodyImageCount": 4
           }
         },
@@ -2014,7 +2014,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 3188
+            "wordCount": 3170
           }
         }
       },
@@ -2026,10 +2026,10 @@
       "slug": "gachapon-guide-japan",
       "title": "Gachapon Japan 2026: Where to Find Them & 7 Best Machines",
       "description": "Where to find gachapon in Japan, how to use the machines, and 7 best multi-floor buildings — Akihabara, Ikebukuro, Shibuya stops with capsule toy details.",
-      "wordCount": 2556,
+      "wordCount": 2547,
       "imageCount": 6,
       "bodyImageCount": 5,
-      "density": 1.9561815336463224,
+      "density": 1.9630938358853554,
       "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
@@ -2053,7 +2053,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.9561815336463224,
+            "density": 1.9630938358853554,
             "bodyImageCount": 5
           }
         },
@@ -2083,7 +2083,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 2556
+            "wordCount": 2547
           }
         }
       },
@@ -2095,10 +2095,10 @@
       "slug": "game-centers-arcades-japan",
       "title": "Japan Game Centers & Arcades 2026: Crane, Rhythm, 70F Tower",
       "description": "Updated April 2026. Tokyo game centers, the 70-floor tower at RED° TOKYO TOWER, crane games, rhythm games, and Round1 Ikebukuro 24h arcade guide.",
-      "wordCount": 4092,
+      "wordCount": 4058,
       "imageCount": 6,
       "bodyImageCount": 5,
-      "density": 1.2218963831867058,
+      "density": 1.232134056185313,
       "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
@@ -2122,7 +2122,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.2218963831867058,
+            "density": 1.232134056185313,
             "bodyImageCount": 5
           }
         },
@@ -2152,7 +2152,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 4092
+            "wordCount": 4058
           }
         }
       },
@@ -2233,10 +2233,10 @@
       "slug": "ghibli-park-complete-guide-2026",
       "title": "Ghibli Park Complete Guide 2026: Tickets, Access & Tips",
       "description": "Ghibli Park 2026 guide: 5 areas, ¥1,000-7,800 tickets, buying from overseas, access from Tokyo or Nagoya, and why one day is not enough.",
-      "wordCount": 2998,
+      "wordCount": 2987,
       "imageCount": 8,
       "bodyImageCount": 7,
-      "density": 2.334889926617745,
+      "density": 2.343488449949782,
       "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
@@ -2260,7 +2260,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 2.334889926617745,
+            "density": 2.343488449949782,
             "bodyImageCount": 7
           }
         },
@@ -2290,7 +2290,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 2998
+            "wordCount": 2987
           }
         }
       },
@@ -2302,10 +2302,10 @@
       "slug": "golden-kamuy-golden-week-shinjuku-popup-2026",
       "title": "Golden Kamuy Golden Week 2026 Shinjuku Popup Cafe Guide",
       "description": "Golden Kamuy Golden Week popup in Shinjuku Apr 28–May 27, 2026. Pasela + Loscabos menus, prices, free coaster rule, photo spots, and Hokkaido tie-in plan.",
-      "wordCount": 3225,
+      "wordCount": 3193,
       "imageCount": 5,
       "bodyImageCount": 4,
-      "density": 1.2403100775193798,
+      "density": 1.2527403695584092,
       "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
@@ -2329,7 +2329,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.2403100775193798,
+            "density": 1.2527403695584092,
             "bodyImageCount": 4
           }
         },
@@ -2359,7 +2359,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 3225
+            "wordCount": 3193
           }
         }
       },
@@ -2371,10 +2371,10 @@
       "slug": "golden-week-2026-anime-events-complete-guide",
       "title": "Golden Week 2026 Anime Events Japan: Complete English Guide",
       "description": "15 anime cafes, pop-ups, and fairs running during Golden Week 2026 (Apr 29–May 5). Reservation windows, venue access, and three 1-hour area plans.",
-      "wordCount": 2326,
+      "wordCount": 2295,
       "imageCount": 4,
       "bodyImageCount": 3,
-      "density": 1.2897678417884781,
+      "density": 1.3071895424836601,
       "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
@@ -2398,7 +2398,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.2897678417884781,
+            "density": 1.3071895424836601,
             "bodyImageCount": 3
           }
         },
@@ -2428,7 +2428,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 2326
+            "wordCount": 2295
           }
         }
       },
@@ -2440,10 +2440,10 @@
       "slug": "how-to-book-anime-collab-cafe-japan",
       "title": "Book Anime Collab Cafe Japan 2026: Lottery & Walk-In Guide",
       "description": "Book anime collab cafes in Tokyo, 2026: Lawson Ticket, lottery systems, walk-in tips, and how to reserve even when every slot shows sold out.",
-      "wordCount": 3021,
+      "wordCount": 3003,
       "imageCount": 6,
       "bodyImageCount": 5,
-      "density": 1.6550810989738498,
+      "density": 1.665001665001665,
       "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
@@ -2467,7 +2467,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.6550810989738498,
+            "density": 1.665001665001665,
             "bodyImageCount": 5
           }
         },
@@ -2497,7 +2497,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 3021
+            "wordCount": 3003
           }
         }
       },
@@ -2509,10 +2509,10 @@
       "slug": "how-to-ride-trains-japan-tourists-2026",
       "title": "How to Use Trains in Japan: A First-Timer's Anime Guide",
       "description": "How to use trains in Japan 2026: IC card pickup, ticket gates, Shinkansen booking, women-only cars, last-train clock, jet-lag day-one routes for anime fans.",
-      "wordCount": 3409,
+      "wordCount": 3393,
       "imageCount": 5,
       "bodyImageCount": 4,
-      "density": 1.1733646230566148,
+      "density": 1.1788977306218684,
       "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
@@ -2536,7 +2536,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.1733646230566148,
+            "density": 1.1788977306218684,
             "bodyImageCount": 4
           }
         },
@@ -2566,7 +2566,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 3409
+            "wordCount": 3393
           }
         }
       },
@@ -2578,10 +2578,10 @@
       "slug": "hypnosismic-sweets-paradise-round8-2026",
       "title": "Hypnosismic × Sweets Paradise Round 8 — 2026 Visitor Guide",
       "description": "Hypnosismic × Sweets Paradise round 8, May 1–31 2026. Verified 9-venue calendar, buffet prices, app reservation rule, novelty rules, tourist route.",
-      "wordCount": 3606,
+      "wordCount": 3576,
       "imageCount": 5,
       "bodyImageCount": 4,
-      "density": 1.1092623405435387,
+      "density": 1.1185682326621924,
       "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
@@ -2605,7 +2605,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.1092623405435387,
+            "density": 1.1185682326621924,
             "bodyImageCount": 4
           }
         },
@@ -2635,7 +2635,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 3606
+            "wordCount": 3576
           }
         }
       },
@@ -2647,10 +2647,10 @@
       "slug": "ikebukuro-anime-guide-2026",
       "title": "Ikebukuro Anime 2026: Animate, Otome Road, Collab Cafes",
       "description": "Ikebukuro anime fan guide: 9-floor Animate flagship, Otome Road, 4 collab cafe venues, Sunshine City events, and why locals prefer it over Akihabara.",
-      "wordCount": 2426,
+      "wordCount": 2417,
       "imageCount": 7,
       "bodyImageCount": 6,
-      "density": 2.4732069249793898,
+      "density": 2.4824162184526273,
       "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
@@ -2674,7 +2674,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 2.4732069249793898,
+            "density": 2.4824162184526273,
             "bodyImageCount": 6
           }
         },
@@ -2704,7 +2704,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 2426
+            "wordCount": 2417
           }
         }
       },
@@ -2716,10 +2716,10 @@
       "slug": "japan-esim-pocket-wifi-sim-card",
       "title": "Japan eSIM vs Pocket WiFi vs SIM Card: 2026 Tourist Guide",
       "description": "Japan eSIM vs pocket WiFi vs physical SIM card 2026 — provider rates, coverage maps, activation steps, and which option fits solo, family, and group travel.",
-      "wordCount": 3219,
+      "wordCount": 3192,
       "imageCount": 6,
       "bodyImageCount": 5,
-      "density": 1.5532774153463809,
+      "density": 1.5664160401002505,
       "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
@@ -2743,7 +2743,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.5532774153463809,
+            "density": 1.5664160401002505,
             "bodyImageCount": 5
           }
         },
@@ -2773,7 +2773,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 3219
+            "wordCount": 3192
           }
         }
       },
@@ -2854,10 +2854,10 @@
       "slug": "japan-luggage-forwarding-2026",
       "title": "Japan Luggage Forwarding 2026: Ship Bags for ¥2,000",
       "description": "Japan luggage forwarding (takkyubin) 2026: Yamato, Sagawa, ¥2,000-3,000 per bag between cities, hotel-to-hotel delivery — how to use it as a tourist.",
-      "wordCount": 2748,
+      "wordCount": 2744,
       "imageCount": 6,
       "bodyImageCount": 5,
-      "density": 1.8195050946142648,
+      "density": 1.8221574344023324,
       "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
@@ -2881,7 +2881,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.8195050946142648,
+            "density": 1.8221574344023324,
             "bodyImageCount": 5
           }
         },
@@ -2911,7 +2911,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 2748
+            "wordCount": 2744
           }
         }
       },
@@ -2923,10 +2923,10 @@
       "slug": "japan-proxy-shopping-2026",
       "title": "Japan Proxy Shopping 2026: Buy Anime Figures & Merch Online",
       "description": "Japan proxy shopping 2026: Buyee, ZenMarket, Tenso, FromJapan, Jauce compared. Fees, shipping, Mercari + Yahoo Auctions for international anime fans.",
-      "wordCount": 3071,
+      "wordCount": 3066,
       "imageCount": 6,
       "bodyImageCount": 5,
-      "density": 1.62813415825464,
+      "density": 1.6307893020221786,
       "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
@@ -2950,7 +2950,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.62813415825464,
+            "density": 1.6307893020221786,
             "bodyImageCount": 5
           }
         },
@@ -2980,7 +2980,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 3071
+            "wordCount": 3066
           }
         }
       },
@@ -3061,10 +3061,10 @@
       "slug": "japan-rail-pass-guide-anime-fans",
       "title": "Japan Rail Pass Guide for Anime Fans: Is It Worth It? (2026)",
       "description": "Japan Rail Pass guide for anime fans (2026): collab cafes in Tokyo, One Piece statues in Kumamoto, Den Den Town — route, cost, and activation tips.",
-      "wordCount": 2312,
+      "wordCount": 2302,
       "imageCount": 7,
       "bodyImageCount": 6,
-      "density": 2.5951557093425603,
+      "density": 2.6064291920069507,
       "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
@@ -3088,7 +3088,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 2.5951557093425603,
+            "density": 2.6064291920069507,
             "bodyImageCount": 6
           }
         },
@@ -3118,7 +3118,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 2312
+            "wordCount": 2302
           }
         }
       },
@@ -3268,10 +3268,10 @@
       "slug": "jjk-sweets-paradise-complete-guide-2026",
       "title": "JJK Sweets Paradise 2026: 9-Store Complete Guide",
       "description": "Book JJK x Sweets Paradise 2026 at 9 stores nationwide. Menu from 900 yen, per-venue April dates, app reservation walkthrough, and the plan that beats sellout.",
-      "wordCount": 3800,
+      "wordCount": 3770,
       "imageCount": 7,
       "bodyImageCount": 6,
-      "density": 1.5789473684210527,
+      "density": 1.5915119363395225,
       "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
@@ -3295,7 +3295,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.5789473684210527,
+            "density": 1.5915119363395225,
             "bodyImageCount": 6
           }
         },
@@ -3325,7 +3325,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 3800
+            "wordCount": 3770
           }
         }
       },
@@ -3337,10 +3337,10 @@
       "slug": "jojo-stone-ocean-cafe-jojo-world-2026",
       "title": "JoJo Stone Ocean Cafe 2026: JoJo World Harajuku Guide",
       "description": "Book the JoJo Stone Ocean cafe at JoJo World Harajuku 2026. 6 Stand drinks at 850 yen, figure lottery, 800 yen entry — English guide with menu prices.",
-      "wordCount": 2868,
+      "wordCount": 2847,
       "imageCount": 4,
       "bodyImageCount": 3,
-      "density": 1.0460251046025104,
+      "density": 1.053740779768177,
       "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
@@ -3364,7 +3364,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.0460251046025104,
+            "density": 1.053740779768177,
             "bodyImageCount": 3
           }
         },
@@ -3394,7 +3394,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 2868
+            "wordCount": 2847
           }
         }
       },
@@ -3406,10 +3406,10 @@
       "slug": "jr-pass-anime-pilgrimage-routes-2026",
       "title": "JR Pass for Anime Pilgrimages 2026: Routes, Worth It, Prices",
       "description": "Is the JR Pass worth it for anime pilgrimages? 2026 prices, 4 route calculators (Your Name, Demon Slayer, One Piece, Anohana), when it saves money.",
-      "wordCount": 3052,
+      "wordCount": 3051,
       "imageCount": 5,
       "bodyImageCount": 4,
-      "density": 1.3106159895150722,
+      "density": 1.3110455588331695,
       "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
@@ -3433,7 +3433,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.3106159895150722,
+            "density": 1.3110455588331695,
             "bodyImageCount": 4
           }
         },
@@ -3463,7 +3463,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 3052
+            "wordCount": 3051
           }
         }
       },
@@ -3544,10 +3544,10 @@
       "slug": "jujutsu-kaisen-shibuya-locations-2026",
       "title": "Jujutsu Kaisen Shibuya Locations: Complete 2026 Guide",
       "description": "Jujutsu Kaisen Shibuya pilgrimage guide 2026: Shibuya Incident arc locations, walking routes, and where the show's scenes actually map onto real streets.",
-      "wordCount": 3982,
+      "wordCount": 3975,
       "imageCount": 10,
       "bodyImageCount": 9,
-      "density": 2.260170768458061,
+      "density": 2.2641509433962264,
       "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
@@ -3571,7 +3571,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 2.260170768458061,
+            "density": 2.2641509433962264,
             "bodyImageCount": 9
           }
         },
@@ -3601,7 +3601,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 3982
+            "wordCount": 3975
           }
         }
       },
@@ -3613,10 +3613,10 @@
       "slug": "kamakura-slam-dunk-pilgrimage-2026",
       "title": "Slam Dunk Kamakura 2026: Crossing, Enoden Pass, 3 Spots",
       "description": "Slam Dunk Kamakura 2026 day trip guide: the real crossing, Enoden 1-Day Pass buying flow, seasonal best-time table, plus Hachimangu, Komachi-dori, Hasedera.",
-      "wordCount": 5638,
+      "wordCount": 5609,
       "imageCount": 9,
       "bodyImageCount": 8,
-      "density": 1.4189428875487762,
+      "density": 1.4262791941522555,
       "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
@@ -3640,7 +3640,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.4189428875487762,
+            "density": 1.4262791941522555,
             "bodyImageCount": 8
           }
         },
@@ -3670,7 +3670,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 5638
+            "wordCount": 5609
           }
         }
       },
@@ -3682,10 +3682,10 @@
       "slug": "krispy-kreme-mario-galaxy-shibuya-2026",
       "title": "Krispy Kreme x Mario Galaxy Donuts 2026: Shibuya Guide",
       "description": "Krispy Kreme Japan x Super Mario Galaxy launched 4 donuts Apr 8, 2026 (¥388–540) with a Shibuya Cine Tower makeover. What to order before it ends.",
-      "wordCount": 1520,
+      "wordCount": 1549,
       "imageCount": 5,
       "bodyImageCount": 4,
-      "density": 2.631578947368421,
+      "density": 2.5823111684958038,
       "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
@@ -3709,7 +3709,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 2.631578947368421,
+            "density": 2.5823111684958038,
             "bodyImageCount": 4
           }
         },
@@ -3739,7 +3739,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 1520
+            "wordCount": 1549
           }
         }
       },
@@ -3820,10 +3820,10 @@
       "slug": "lawson-ticket-anime-cafe-booking",
       "title": "Book Anime Cafe via Lawson 2026: Step-by-Step English Guide",
       "description": "Book an anime cafe via Lawson Ticket, 2026: step-by-step Loppi machine walkthrough, QR code pickup, cash payment rules, and 5 common FAQs.",
-      "wordCount": 3768,
+      "wordCount": 3744,
       "imageCount": 6,
       "bodyImageCount": 5,
-      "density": 1.326963906581741,
+      "density": 1.3354700854700854,
       "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
@@ -3847,7 +3847,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.326963906581741,
+            "density": 1.3354700854700854,
             "bodyImageCount": 5
           }
         },
@@ -3877,7 +3877,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 3768
+            "wordCount": 3744
           }
         }
       },
@@ -3889,10 +3889,10 @@
       "slug": "luvlab-harajuku-diy-accessory-experience",
       "title": "LuvLab Harajuku DIY: Italian Charms, Snake Bracelets",
       "description": "LuvLab Harajuku is a walk-in DIY accessory shop 2 min from JR Harajuku Station. Make Italian charm watches, snake bracelets, and custom keychains from 300 yen.",
-      "wordCount": 2160,
+      "wordCount": 2153,
       "imageCount": 17,
       "bodyImageCount": 16,
-      "density": 7.407407407407407,
+      "density": 7.431490942870414,
       "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
@@ -3916,7 +3916,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 7.407407407407407,
+            "density": 7.431490942870414,
             "bodyImageCount": 16
           }
         },
@@ -3946,7 +3946,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 2160
+            "wordCount": 2153
           }
         }
       },
@@ -3958,10 +3958,10 @@
       "slug": "my-hero-academia-cafe-tokyo-2026",
       "title": "My Hero Academia Cafe Tokyo 2026: Ikebukuro Travel Guide",
       "description": "Archive of the My Hero Academia 'Diner' pop-up at DECOTTO Animate Cafe Ikebukuro (Apr 3-26, 2026). Event has ended. See current MHA coverage in body.",
-      "wordCount": 1758,
+      "wordCount": 1756,
       "imageCount": 6,
       "bodyImageCount": 5,
-      "density": 2.844141069397042,
+      "density": 2.847380410022779,
       "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
@@ -3985,7 +3985,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 2.844141069397042,
+            "density": 2.847380410022779,
             "bodyImageCount": 5
           }
         },
@@ -4015,7 +4015,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 1758
+            "wordCount": 1756
           }
         }
       },
@@ -4027,10 +4027,10 @@
       "slug": "my-hero-academia-waffle-diner-ikebukuro-2026",
       "title": "My Hero Academia Waffle Diner Ikebukuro 2026: Final Weekend",
       "description": "My Hero Academia waffle diner at DECOTTO Ikebukuro, through Apr 26, 2026. Menu, prices, queue times, TableCheck booking, and what to order first.",
-      "wordCount": 2669,
+      "wordCount": 2648,
       "imageCount": 5,
       "bodyImageCount": 4,
-      "density": 1.4986886474334957,
+      "density": 1.5105740181268883,
       "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
@@ -4054,7 +4054,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.4986886474334957,
+            "density": 1.5105740181268883,
             "bodyImageCount": 4
           }
         },
@@ -4084,7 +4084,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 2669
+            "wordCount": 2648
           }
         }
       },
@@ -4096,10 +4096,10 @@
       "slug": "nakano-broadway-guide",
       "title": "Nakano Broadway 2026: Tokyo's Best-Kept Anime Shopping Spot",
       "description": "Nakano Broadway 2026: 300+ anime shops, 30+ Mandarake stores, Daily Chico soft serve, floor-by-floor guide, and why serious collectors skip Akihabara.",
-      "wordCount": 2344,
+      "wordCount": 2326,
       "imageCount": 4,
       "bodyImageCount": 3,
-      "density": 1.2798634812286689,
+      "density": 1.2897678417884781,
       "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
@@ -4123,7 +4123,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.2798634812286689,
+            "density": 1.2897678417884781,
             "bodyImageCount": 3
           }
         },
@@ -4153,7 +4153,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 2344
+            "wordCount": 2326
           }
         }
       },
@@ -4234,10 +4234,10 @@
       "slug": "okami-20th-monster-hunter-sakaba-tokyo-osaka-2026",
       "title": "Okami x Monster Hunter Sakaba 2026: Tokyo & Osaka Cafe",
       "description": "Okami 20th x Monster Hunter Sakaba collab (Apr 20–Jun 1, 2026). Menu, prices, Akihabara and Namba reservations, and a Tokyo-vs-Osaka verdict.",
-      "wordCount": 2070,
+      "wordCount": 2049,
       "imageCount": 4,
       "bodyImageCount": 3,
-      "density": 1.4492753623188406,
+      "density": 1.4641288433382138,
       "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
@@ -4261,7 +4261,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.4492753623188406,
+            "density": 1.4641288433382138,
             "bodyImageCount": 3
           }
         },
@@ -4291,7 +4291,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 2070
+            "wordCount": 2049
           }
         }
       },
@@ -4303,10 +4303,10 @@
       "slug": "one-piece-cafe-gene-shibuya-guide-2026",
       "title": "One Piece Cafe GENE Shibuya 2026: Real Visitor Guide",
       "description": "One Piece Cafe GENE at Shibuya PARCO — reservation, Phase 2 menu with prices, skull bowl ramen, birthday cards, and tips for international visitors.",
-      "wordCount": 3145,
+      "wordCount": 3134,
       "imageCount": 8,
       "bodyImageCount": 7,
-      "density": 2.2257551669316378,
+      "density": 2.2335673261008298,
       "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
@@ -4330,8 +4330,491 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 2.2257551669316378,
+            "density": 2.2335673261008298,
             "bodyImageCount": 7
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": true,
+          "metrics": {}
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": true,
+          "metrics": {
+            "wordCount": 3134
+          }
+        }
+      },
+      "passCount": 10,
+      "bucket": "PASS_ALL_10",
+      "noindex": false
+    },
+    {
+      "slug": "one-piece-kumamoto-statue-tour",
+      "title": "One Piece Kumamoto 2026: 10 Straw Hat Statues & Itinerary",
+      "description": "All 10 Straw Hat crew statues in Kumamoto with maps, transit access, and a 2-day itinerary that pairs the statue tour with Kumamoto Castle and local food.",
+      "wordCount": 2966,
+      "imageCount": 9,
+      "bodyImageCount": 8,
+      "density": 2.6972353337828725,
+      "fabricationCandidates": [],
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 154
+          }
+        },
+        "title": {
+          "pass": true,
+          "metrics": {
+            "length": 57
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 2.6972353337828725,
+            "bodyImageCount": 8
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": true,
+          "metrics": {}
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": true,
+          "metrics": {
+            "wordCount": 2966
+          }
+        }
+      },
+      "passCount": 10,
+      "bucket": "PASS_ALL_10",
+      "noindex": false
+    },
+    {
+      "slug": "one-piece-tokyo-guide-2026",
+      "title": "One Piece Tokyo 2026: Every Straw Hat Experience Guide",
+      "description": "One Piece in Tokyo 2026: Base Shop Shinjuku, 5 Mugiwara Stores, One Piece Cafe GENE, and Jump Shop Jimbocho — addresses, hours, and shopping route.",
+      "wordCount": 3576,
+      "imageCount": 10,
+      "bodyImageCount": 9,
+      "density": 2.5167785234899327,
+      "fabricationCandidates": [],
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 147
+          }
+        },
+        "title": {
+          "pass": true,
+          "metrics": {
+            "length": 54
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 2.5167785234899327,
+            "bodyImageCount": 9
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": true,
+          "metrics": {}
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": true,
+          "metrics": {
+            "wordCount": 3576
+          }
+        }
+      },
+      "passCount": 10,
+      "bucket": "PASS_ALL_10",
+      "noindex": false
+    },
+    {
+      "slug": "osaka-anime-cafes-complete-guide-2026",
+      "title": "Osaka Anime Cafes 2026: 12+ Collab Cafes & Pop-Ups Open",
+      "description": "Active anime collab cafes in Osaka, 2026: Demon Slayer ufotable, Jujutsu Kaisen, Blue Lock, Okami 20th, Black Jack, plus a Umeda-to-Namba plan.",
+      "wordCount": 3653,
+      "imageCount": 6,
+      "bodyImageCount": 5,
+      "density": 1.368738023542294,
+      "fabricationCandidates": [],
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 143
+          }
+        },
+        "title": {
+          "pass": true,
+          "metrics": {
+            "length": 55
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 1.368738023542294,
+            "bodyImageCount": 5
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": true,
+          "metrics": {}
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": true,
+          "metrics": {
+            "wordCount": 3653
+          }
+        }
+      },
+      "passCount": 10,
+      "bucket": "PASS_ALL_10",
+      "noindex": false
+    },
+    {
+      "slug": "osaka-anime-collab-cafes-pop-culture-2026",
+      "title": "Osaka Anime Cafes 2026: Den Den Town, Namba & Beyond",
+      "description": "Osaka anime 2026: 8-12 collab cafes, Capcom Cafe Umeda, Chugai Grace, Den Den Town shopping, USJ attractions — Tokyo vs Osaka for anime fans.",
+      "wordCount": 1825,
+      "imageCount": 7,
+      "bodyImageCount": 6,
+      "density": 3.2876712328767126,
+      "fabricationCandidates": [],
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 141
+          }
+        },
+        "title": {
+          "pass": true,
+          "metrics": {
+            "length": 52
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 3.2876712328767126,
+            "bodyImageCount": 6
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": true,
+          "metrics": {}
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": true,
+          "metrics": {
+            "wordCount": 1825
+          }
+        }
+      },
+      "passCount": 10,
+      "bucket": "PASS_ALL_10",
+      "noindex": true
+    },
+    {
+      "slug": "osaka-anime-guide-den-den-town",
+      "title": "Osaka Anime Guide 2026: Den Den Town, Collab Cafes & Beyond",
+      "description": "Den Den Town is Osaka's answer to Akihabara — smaller, less crowded, packed with anime deals. 2026 guide covers shops, gachapon, maid cafes, and routes.",
+      "wordCount": 3386,
+      "imageCount": 5,
+      "bodyImageCount": 4,
+      "density": 1.1813349084465445,
+      "fabricationCandidates": [],
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 152
+          }
+        },
+        "title": {
+          "pass": true,
+          "metrics": {
+            "length": 59
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 1.1813349084465445,
+            "bodyImageCount": 4
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": true,
+          "metrics": {}
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": true,
+          "metrics": {
+            "wordCount": 3386
+          }
+        }
+      },
+      "passCount": 10,
+      "bucket": "PASS_ALL_10",
+      "noindex": false
+    },
+    {
+      "slug": "ouran-host-club-20th-anniversary-cafes-2026",
+      "title": "Ouran Host Club 20th Anniversary Cafes 2026: Japan Guide",
+      "description": "2026 Ouran 20th Anniversary cafes: motto cafe Osaka Apr 22-Jul 5, Tree Village Tokyo through May 1, Osaka+Hakata May 23-Jun 4. Dates, menu, fees.",
+      "wordCount": 3317,
+      "imageCount": 5,
+      "bodyImageCount": 4,
+      "density": 1.2059089538739824,
+      "fabricationCandidates": [],
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 145
+          }
+        },
+        "title": {
+          "pass": true,
+          "metrics": {
+            "length": 56
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 1.2059089538739824,
+            "bodyImageCount": 4
+          }
+        },
+        "internalLinks": {
+          "pass": true,
+          "metrics": {
+            "broken": 0,
+            "noindexRefs": 0
+          }
+        },
+        "schema": {
+          "pass": true,
+          "metrics": {
+            "missing": []
+          }
+        },
+        "canonical": {
+          "pass": true
+        },
+        "freshness": {
+          "pass": true,
+          "metrics": {}
+        },
+        "affiliate": {
+          "pass": true
+        },
+        "adsenseFitness": {
+          "pass": true,
+          "metrics": {
+            "wordCount": 3317
+          }
+        }
+      },
+      "passCount": 10,
+      "bucket": "PASS_ALL_10",
+      "noindex": false
+    },
+    {
+      "slug": "pokemon-center-tokyo-complete-guide-2026",
+      "title": "Pokemon Center Tokyo 2026: 4 Stores + Cafe Complete Guide",
+      "description": "Visit all 4 Pokemon Centers in Tokyo: Shibuya, Ikebukuro Mega, Nihonbashi DX, Skytree. Store exclusives, opening hours, and the Pokemon Cafe reservation flow.",
+      "wordCount": 3145,
+      "imageCount": 7,
+      "bodyImageCount": 6,
+      "density": 1.9077901430842608,
+      "fabricationCandidates": [],
+      "axes": {
+        "metaDesc": {
+          "pass": true,
+          "metrics": {
+            "length": 158
+          }
+        },
+        "title": {
+          "pass": true,
+          "metrics": {
+            "length": 57
+          }
+        },
+        "fabrication": {
+          "pass": true,
+          "metrics": {
+            "hits": 0
+          }
+        },
+        "imageDensity": {
+          "pass": true,
+          "metrics": {
+            "density": 1.9077901430842608,
+            "bodyImageCount": 6
           }
         },
         "internalLinks": {
@@ -4369,496 +4852,13 @@
       "noindex": false
     },
     {
-      "slug": "one-piece-kumamoto-statue-tour",
-      "title": "One Piece Kumamoto 2026: 10 Straw Hat Statues & Itinerary",
-      "description": "All 10 Straw Hat crew statues in Kumamoto with maps, transit access, and a 2-day itinerary that pairs the statue tour with Kumamoto Castle and local food.",
-      "wordCount": 3027,
-      "imageCount": 9,
-      "bodyImageCount": 8,
-      "density": 2.642880740006607,
-      "fabricationCandidates": [],
-      "axes": {
-        "metaDesc": {
-          "pass": true,
-          "metrics": {
-            "length": 154
-          }
-        },
-        "title": {
-          "pass": true,
-          "metrics": {
-            "length": 57
-          }
-        },
-        "fabrication": {
-          "pass": true,
-          "metrics": {
-            "hits": 0
-          }
-        },
-        "imageDensity": {
-          "pass": true,
-          "metrics": {
-            "density": 2.642880740006607,
-            "bodyImageCount": 8
-          }
-        },
-        "internalLinks": {
-          "pass": true,
-          "metrics": {
-            "broken": 0,
-            "noindexRefs": 0
-          }
-        },
-        "schema": {
-          "pass": true,
-          "metrics": {
-            "missing": []
-          }
-        },
-        "canonical": {
-          "pass": true
-        },
-        "freshness": {
-          "pass": true,
-          "metrics": {}
-        },
-        "affiliate": {
-          "pass": true
-        },
-        "adsenseFitness": {
-          "pass": true,
-          "metrics": {
-            "wordCount": 3027
-          }
-        }
-      },
-      "passCount": 10,
-      "bucket": "PASS_ALL_10",
-      "noindex": false
-    },
-    {
-      "slug": "one-piece-tokyo-guide-2026",
-      "title": "One Piece Tokyo 2026: Every Straw Hat Experience Guide",
-      "description": "One Piece in Tokyo 2026: Base Shop Shinjuku, 5 Mugiwara Stores, One Piece Cafe GENE, and Jump Shop Jimbocho — addresses, hours, and shopping route.",
-      "wordCount": 3581,
-      "imageCount": 10,
-      "bodyImageCount": 9,
-      "density": 2.513264451270595,
-      "fabricationCandidates": [],
-      "axes": {
-        "metaDesc": {
-          "pass": true,
-          "metrics": {
-            "length": 147
-          }
-        },
-        "title": {
-          "pass": true,
-          "metrics": {
-            "length": 54
-          }
-        },
-        "fabrication": {
-          "pass": true,
-          "metrics": {
-            "hits": 0
-          }
-        },
-        "imageDensity": {
-          "pass": true,
-          "metrics": {
-            "density": 2.513264451270595,
-            "bodyImageCount": 9
-          }
-        },
-        "internalLinks": {
-          "pass": true,
-          "metrics": {
-            "broken": 0,
-            "noindexRefs": 0
-          }
-        },
-        "schema": {
-          "pass": true,
-          "metrics": {
-            "missing": []
-          }
-        },
-        "canonical": {
-          "pass": true
-        },
-        "freshness": {
-          "pass": true,
-          "metrics": {}
-        },
-        "affiliate": {
-          "pass": true
-        },
-        "adsenseFitness": {
-          "pass": true,
-          "metrics": {
-            "wordCount": 3581
-          }
-        }
-      },
-      "passCount": 10,
-      "bucket": "PASS_ALL_10",
-      "noindex": false
-    },
-    {
-      "slug": "osaka-anime-cafes-complete-guide-2026",
-      "title": "Osaka Anime Cafes 2026: 12+ Collab Cafes & Pop-Ups Open",
-      "description": "Active anime collab cafes in Osaka, 2026: Demon Slayer ufotable, Jujutsu Kaisen, Blue Lock, Okami 20th, Black Jack, plus a Umeda-to-Namba plan.",
-      "wordCount": 3689,
-      "imageCount": 6,
-      "bodyImageCount": 5,
-      "density": 1.3553808620222283,
-      "fabricationCandidates": [],
-      "axes": {
-        "metaDesc": {
-          "pass": true,
-          "metrics": {
-            "length": 143
-          }
-        },
-        "title": {
-          "pass": true,
-          "metrics": {
-            "length": 55
-          }
-        },
-        "fabrication": {
-          "pass": true,
-          "metrics": {
-            "hits": 0
-          }
-        },
-        "imageDensity": {
-          "pass": true,
-          "metrics": {
-            "density": 1.3553808620222283,
-            "bodyImageCount": 5
-          }
-        },
-        "internalLinks": {
-          "pass": true,
-          "metrics": {
-            "broken": 0,
-            "noindexRefs": 0
-          }
-        },
-        "schema": {
-          "pass": true,
-          "metrics": {
-            "missing": []
-          }
-        },
-        "canonical": {
-          "pass": true
-        },
-        "freshness": {
-          "pass": true,
-          "metrics": {}
-        },
-        "affiliate": {
-          "pass": true
-        },
-        "adsenseFitness": {
-          "pass": true,
-          "metrics": {
-            "wordCount": 3689
-          }
-        }
-      },
-      "passCount": 10,
-      "bucket": "PASS_ALL_10",
-      "noindex": false
-    },
-    {
-      "slug": "osaka-anime-collab-cafes-pop-culture-2026",
-      "title": "Osaka Anime Cafes 2026: Den Den Town, Namba & Beyond",
-      "description": "Osaka anime 2026: 8-12 collab cafes, Capcom Cafe Umeda, Chugai Grace, Den Den Town shopping, USJ attractions — Tokyo vs Osaka for anime fans.",
-      "wordCount": 1838,
-      "imageCount": 7,
-      "bodyImageCount": 6,
-      "density": 3.264417845484222,
-      "fabricationCandidates": [],
-      "axes": {
-        "metaDesc": {
-          "pass": true,
-          "metrics": {
-            "length": 141
-          }
-        },
-        "title": {
-          "pass": true,
-          "metrics": {
-            "length": 52
-          }
-        },
-        "fabrication": {
-          "pass": true,
-          "metrics": {
-            "hits": 0
-          }
-        },
-        "imageDensity": {
-          "pass": true,
-          "metrics": {
-            "density": 3.264417845484222,
-            "bodyImageCount": 6
-          }
-        },
-        "internalLinks": {
-          "pass": true,
-          "metrics": {
-            "broken": 0,
-            "noindexRefs": 0
-          }
-        },
-        "schema": {
-          "pass": true,
-          "metrics": {
-            "missing": []
-          }
-        },
-        "canonical": {
-          "pass": true
-        },
-        "freshness": {
-          "pass": true,
-          "metrics": {}
-        },
-        "affiliate": {
-          "pass": true
-        },
-        "adsenseFitness": {
-          "pass": true,
-          "metrics": {
-            "wordCount": 1838
-          }
-        }
-      },
-      "passCount": 10,
-      "bucket": "PASS_ALL_10",
-      "noindex": true
-    },
-    {
-      "slug": "osaka-anime-guide-den-den-town",
-      "title": "Osaka Anime Guide 2026: Den Den Town, Collab Cafes & Beyond",
-      "description": "Den Den Town is Osaka's answer to Akihabara — smaller, less crowded, packed with anime deals. 2026 guide covers shops, gachapon, maid cafes, and routes.",
-      "wordCount": 3407,
-      "imageCount": 5,
-      "bodyImageCount": 4,
-      "density": 1.174053419430584,
-      "fabricationCandidates": [],
-      "axes": {
-        "metaDesc": {
-          "pass": true,
-          "metrics": {
-            "length": 152
-          }
-        },
-        "title": {
-          "pass": true,
-          "metrics": {
-            "length": 59
-          }
-        },
-        "fabrication": {
-          "pass": true,
-          "metrics": {
-            "hits": 0
-          }
-        },
-        "imageDensity": {
-          "pass": true,
-          "metrics": {
-            "density": 1.174053419430584,
-            "bodyImageCount": 4
-          }
-        },
-        "internalLinks": {
-          "pass": true,
-          "metrics": {
-            "broken": 0,
-            "noindexRefs": 0
-          }
-        },
-        "schema": {
-          "pass": true,
-          "metrics": {
-            "missing": []
-          }
-        },
-        "canonical": {
-          "pass": true
-        },
-        "freshness": {
-          "pass": true,
-          "metrics": {}
-        },
-        "affiliate": {
-          "pass": true
-        },
-        "adsenseFitness": {
-          "pass": true,
-          "metrics": {
-            "wordCount": 3407
-          }
-        }
-      },
-      "passCount": 10,
-      "bucket": "PASS_ALL_10",
-      "noindex": false
-    },
-    {
-      "slug": "ouran-host-club-20th-anniversary-cafes-2026",
-      "title": "Ouran Host Club 20th Anniversary Cafes 2026: Japan Guide",
-      "description": "2026 Ouran 20th Anniversary cafes: motto cafe Osaka Apr 22-Jul 5, Tree Village Tokyo through May 1, Osaka+Hakata May 23-Jun 4. Dates, menu, fees.",
-      "wordCount": 3327,
-      "imageCount": 5,
-      "bodyImageCount": 4,
-      "density": 1.2022843402464682,
-      "fabricationCandidates": [],
-      "axes": {
-        "metaDesc": {
-          "pass": true,
-          "metrics": {
-            "length": 145
-          }
-        },
-        "title": {
-          "pass": true,
-          "metrics": {
-            "length": 56
-          }
-        },
-        "fabrication": {
-          "pass": true,
-          "metrics": {
-            "hits": 0
-          }
-        },
-        "imageDensity": {
-          "pass": true,
-          "metrics": {
-            "density": 1.2022843402464682,
-            "bodyImageCount": 4
-          }
-        },
-        "internalLinks": {
-          "pass": true,
-          "metrics": {
-            "broken": 0,
-            "noindexRefs": 0
-          }
-        },
-        "schema": {
-          "pass": true,
-          "metrics": {
-            "missing": []
-          }
-        },
-        "canonical": {
-          "pass": true
-        },
-        "freshness": {
-          "pass": true,
-          "metrics": {}
-        },
-        "affiliate": {
-          "pass": true
-        },
-        "adsenseFitness": {
-          "pass": true,
-          "metrics": {
-            "wordCount": 3327
-          }
-        }
-      },
-      "passCount": 10,
-      "bucket": "PASS_ALL_10",
-      "noindex": false
-    },
-    {
-      "slug": "pokemon-center-tokyo-complete-guide-2026",
-      "title": "Pokemon Center Tokyo 2026: 4 Stores + Cafe Complete Guide",
-      "description": "Visit all 4 Pokemon Centers in Tokyo: Shibuya, Ikebukuro Mega, Nihonbashi DX, Skytree. Store exclusives, opening hours, and the Pokemon Cafe reservation flow.",
-      "wordCount": 3167,
-      "imageCount": 7,
-      "bodyImageCount": 6,
-      "density": 1.8945374171139882,
-      "fabricationCandidates": [],
-      "axes": {
-        "metaDesc": {
-          "pass": true,
-          "metrics": {
-            "length": 158
-          }
-        },
-        "title": {
-          "pass": true,
-          "metrics": {
-            "length": 57
-          }
-        },
-        "fabrication": {
-          "pass": true,
-          "metrics": {
-            "hits": 0
-          }
-        },
-        "imageDensity": {
-          "pass": true,
-          "metrics": {
-            "density": 1.8945374171139882,
-            "bodyImageCount": 6
-          }
-        },
-        "internalLinks": {
-          "pass": true,
-          "metrics": {
-            "broken": 0,
-            "noindexRefs": 0
-          }
-        },
-        "schema": {
-          "pass": true,
-          "metrics": {
-            "missing": []
-          }
-        },
-        "canonical": {
-          "pass": true
-        },
-        "freshness": {
-          "pass": true,
-          "metrics": {}
-        },
-        "affiliate": {
-          "pass": true
-        },
-        "adsenseFitness": {
-          "pass": true,
-          "metrics": {
-            "wordCount": 3167
-          }
-        }
-      },
-      "passCount": 10,
-      "bucket": "PASS_ALL_10",
-      "noindex": false
-    },
-    {
       "slug": "pokemon-karaoke-manekineko-30th-anniversary-2026",
       "title": "Pokemon Karaoke Manekineko 30th Anniversary 2026 Guide",
       "description": "Book a Pokemon 30th collab room at Karaoke Manekineko April 24 to June 14, 2026. Dates, prefectures, pack tiers, wallpapers, cards, and foreign-visitor tips.",
-      "wordCount": 2862,
+      "wordCount": 2838,
       "imageCount": 7,
       "bodyImageCount": 6,
-      "density": 2.0964360587002098,
+      "density": 2.1141649048625792,
       "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
@@ -4882,7 +4882,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 2.0964360587002098,
+            "density": 2.1141649048625792,
             "bodyImageCount": 6
           }
         },
@@ -4912,7 +4912,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 2862
+            "wordCount": 2838
           }
         }
       },
@@ -4924,10 +4924,10 @@
       "slug": "pokepark-kanto-tokyo-2026",
       "title": "PokéPark Kanto Complete Guide 2026: Tickets, Areas & Tips",
       "description": "PokéPark Kanto (Yomiuriland): tickets from ¥4,700, advance-only reservations, 3 zones, Pokémon Forest with 600+ species, why 5 hours isn't enough.",
-      "wordCount": 2694,
+      "wordCount": 2675,
       "imageCount": 8,
       "bodyImageCount": 7,
-      "density": 2.5983667409057167,
+      "density": 2.6168224299065423,
       "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
@@ -4951,7 +4951,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 2.5983667409057167,
+            "density": 2.6168224299065423,
             "bodyImageCount": 7
           }
         },
@@ -4981,7 +4981,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 2694
+            "wordCount": 2675
           }
         }
       },
@@ -4993,10 +4993,10 @@
       "slug": "ranma-japan-2026-exhibition-tree-village-guide",
       "title": "Ranma 1/2 Japan 2026: Exhibition + Tree Village Pop-Up Guide",
       "description": "Ranma 1/2 Japan 2026: Sunshine City Exhibition Apr 23-May 12 + Tree Village Pop-Up Tokyo May 2-29, Osaka/Hakata Jun 20-Jul 2. Tickets, merch, plan.",
-      "wordCount": 3657,
+      "wordCount": 3637,
       "imageCount": 5,
       "bodyImageCount": 4,
-      "density": 1.0937927262783702,
+      "density": 1.0998075336816058,
       "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
@@ -5020,7 +5020,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.0937927262783702,
+            "density": 1.0998075336816058,
             "bodyImageCount": 4
           }
         },
@@ -5050,7 +5050,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 3657
+            "wordCount": 3637
           }
         }
       },
@@ -5062,10 +5062,10 @@
       "slug": "re-zero-curemaid-cafe-akihabara-2026",
       "title": "Re:Zero × Cure Maid Café Akihabara 2026 Visitor Guide",
       "description": "Re:Zero × Cure Maid Café Akihabara collab Apr 29–May 17, 2026. Verified menu, prices, 11-card novelty rule, Atre popup tie-in, matoca queue, Akihabara plan.",
-      "wordCount": 3443,
+      "wordCount": 3415,
       "imageCount": 5,
       "bodyImageCount": 4,
-      "density": 1.1617775196049958,
+      "density": 1.171303074670571,
       "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
@@ -5089,7 +5089,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.1617775196049958,
+            "density": 1.171303074670571,
             "bodyImageCount": 4
           }
         },
@@ -5119,7 +5119,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 3443
+            "wordCount": 3415
           }
         }
       },
@@ -5131,10 +5131,10 @@
       "slug": "rilakkuma-cafe-tokyo-osaka-2026",
       "title": "Rilakkuma Cafe Tokyo 2026: Shibuya 109 Booking & Menu Guide",
       "description": "Book the Rilakkuma Cafe Shibuya 109 for April 23 to May 31, 2026. Tokyo, Osaka, Nagoya dates, 715-yen deposit, menu, merch, and step-by-step reservation guide.",
-      "wordCount": 3256,
+      "wordCount": 3242,
       "imageCount": 6,
       "bodyImageCount": 5,
-      "density": 1.5356265356265355,
+      "density": 1.5422578655151142,
       "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
@@ -5158,7 +5158,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.5356265356265355,
+            "density": 1.5422578655151142,
             "bodyImageCount": 5
           }
         },
@@ -5188,7 +5188,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 3256
+            "wordCount": 3242
           }
         }
       },
@@ -5200,10 +5200,10 @@
       "slug": "shibuya-harajuku-pop-culture-guide",
       "title": "Shibuya & Harajuku Pop Culture 2026: Gaming, Kawaii, Walking",
       "description": "Shibuya PARCO 6F Cyberspace, Harajuku's Takeshita Street, Cat Street, Kiddy Land, and a 2026 walking route through Tokyo's pop culture and kawaii districts.",
-      "wordCount": 2721,
+      "wordCount": 2676,
       "imageCount": 4,
       "bodyImageCount": 3,
-      "density": 1.1025358324145536,
+      "density": 1.1210762331838564,
       "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
@@ -5227,7 +5227,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.1025358324145536,
+            "density": 1.1210762331838564,
             "bodyImageCount": 3
           }
         },
@@ -5257,7 +5257,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 2721
+            "wordCount": 2676
           }
         }
       },
@@ -5338,10 +5338,10 @@
       "slug": "slam-dunk-kamakura-pilgrimage-2026",
       "title": "Slam Dunk Kamakura Pilgrimage 2026: Famous Crossing & More",
       "description": "Slam Dunk's iconic Kamakurakokomae No.1 Railroad Crossing with the Shonan coast behind it — full pilgrimage route, transit access, and seasonal photo timing.",
-      "wordCount": 2820,
+      "wordCount": 2803,
       "imageCount": 8,
       "bodyImageCount": 7,
-      "density": 2.4822695035460995,
+      "density": 2.4973242953977883,
       "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
@@ -5365,7 +5365,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 2.4822695035460995,
+            "density": 2.4973242953977883,
             "bodyImageCount": 7
           }
         },
@@ -5395,7 +5395,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 2820
+            "wordCount": 2803
           }
         }
       },
@@ -5407,10 +5407,10 @@
       "slug": "spy-family-tokyo-fan-day-2026",
       "title": "SPY×FAMILY Tokyo Fan Day: Events, Shops & Cafes (2026)",
       "description": "SPY×FAMILY Tokyo fan day: current events, merch shops, and collab cafes in one plan — where to go, what to buy, and how to line up the day.",
-      "wordCount": 1598,
+      "wordCount": 1596,
       "imageCount": 4,
       "bodyImageCount": 3,
-      "density": 1.8773466833541927,
+      "density": 1.8796992481203008,
       "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
@@ -5434,7 +5434,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.8773466833541927,
+            "density": 1.8796992481203008,
             "bodyImageCount": 3
           }
         },
@@ -5464,7 +5464,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 1598
+            "wordCount": 1596
           }
         }
       },
@@ -5476,10 +5476,10 @@
       "slug": "tokyo-anime-collab-cafes-spring-2026",
       "title": "Tokyo Anime Collab Cafes Spring 2026: 12 Open, Map & Booking",
       "description": "Updated weekly. Every anime collaboration cafe in Tokyo for Spring 2026: JJK PLAZA, One Piece Cafe GENE, My Dress-Up Darling, and more. Dates, locations,...",
-      "wordCount": 4576,
+      "wordCount": 4532,
       "imageCount": 6,
       "bodyImageCount": 5,
-      "density": 1.0926573426573427,
+      "density": 1.1032656663724625,
       "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
@@ -5503,7 +5503,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.0926573426573427,
+            "density": 1.1032656663724625,
             "bodyImageCount": 5
           }
         },
@@ -5533,7 +5533,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 4576
+            "wordCount": 4532
           }
         }
       },
@@ -5545,10 +5545,10 @@
       "slug": "tokyo-anime-collab-cafes-summer-2026",
       "title": "Tokyo Anime Cafes Summer 2026: What's Open & How to Book",
       "description": "Tokyo anime collab cafes summer 2026: 15-20 active themed cafes, what's open by month, plus how to book reservations and walk-in venues across the city.",
-      "wordCount": 2811,
+      "wordCount": 2802,
       "imageCount": 7,
       "bodyImageCount": 6,
-      "density": 2.1344717182497335,
+      "density": 2.1413276231263385,
       "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
@@ -5572,7 +5572,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 2.1344717182497335,
+            "density": 2.1413276231263385,
             "bodyImageCount": 6
           }
         },
@@ -5602,7 +5602,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 2811
+            "wordCount": 2802
           }
         }
       },
@@ -5614,10 +5614,10 @@
       "slug": "tokyo-anime-district-guide",
       "title": "Tokyo Anime Districts 2026: Akihabara, Nakano + 3 More",
       "description": "All 6 Tokyo anime neighborhoods in 2026: Akihabara arcades, Nakano vintage, Ikebukuro BL, Shibuya flagships, Harajuku kawaii. Maps & 1-day routes.",
-      "wordCount": 2644,
+      "wordCount": 2613,
       "imageCount": 6,
       "bodyImageCount": 5,
-      "density": 1.8910741301059002,
+      "density": 1.9135093761959434,
       "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
@@ -5641,7 +5641,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.8910741301059002,
+            "density": 1.9135093761959434,
             "bodyImageCount": 5
           }
         },
@@ -5671,7 +5671,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 2644
+            "wordCount": 2613
           }
         }
       },
@@ -5752,10 +5752,10 @@
       "slug": "weathering-with-you-locations-tokyo",
       "title": "Weathering With You Tokyo 2026: Every Real Tenki Spot",
       "description": "Every Weathering With You Tokyo location verified as publicly accessible — Tabata, Yoyogi, Asahi Inari Shrine — with half-day and full-day walking routes.",
-      "wordCount": 2636,
+      "wordCount": 2600,
       "imageCount": 8,
       "bodyImageCount": 7,
-      "density": 2.655538694992413,
+      "density": 2.692307692307692,
       "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
@@ -5779,7 +5779,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 2.655538694992413,
+            "density": 2.692307692307692,
             "bodyImageCount": 7
           }
         },
@@ -5809,7 +5809,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 2636
+            "wordCount": 2600
           }
         }
       },
@@ -5821,10 +5821,10 @@
       "slug": "wonder-festival-figure-events-japan-2026",
       "title": "Wonder Festival 2026: Figure Events Tickets, Tips & Shipping",
       "description": "Wonder Festival 2026 Summer (July 26, Makuhari Messe): ¥3,500 tickets, 2,000+ booths, buying strategies, plus Treasure Festa and Mega Hobby.",
-      "wordCount": 2018,
+      "wordCount": 2009,
       "imageCount": 5,
       "bodyImageCount": 4,
-      "density": 1.9821605550049552,
+      "density": 1.991040318566451,
       "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
@@ -5848,7 +5848,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.9821605550049552,
+            "density": 1.991040318566451,
             "bodyImageCount": 4
           }
         },
@@ -5878,7 +5878,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 2018
+            "wordCount": 2009
           }
         }
       },
@@ -5890,10 +5890,10 @@
       "slug": "world-trigger-festival-2026-tokyo-dome-city-cafe",
       "title": "World Trigger Festival 2026 Tokyo Dome City Cafe Guide",
       "description": "Visit the World Trigger Festival 2026 cafe at Tokyo Dome City Apr 27-May 10. Hours, Suidobashi access, free coaster rule, and Golden Week timing.",
-      "wordCount": 2872,
+      "wordCount": 2846,
       "imageCount": 5,
       "bodyImageCount": 4,
-      "density": 1.392757660167131,
+      "density": 1.4054813773717498,
       "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
@@ -5917,7 +5917,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.392757660167131,
+            "density": 1.4054813773717498,
             "bodyImageCount": 4
           }
         },
@@ -5947,7 +5947,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 2872
+            "wordCount": 2846
           }
         }
       },
@@ -5959,10 +5959,10 @@
       "slug": "your-name-pilgrimage-tokyo",
       "title": "Your Name Pilgrimage Tokyo: Every Location + Walking Route",
       "description": "Every Your Name (Kimi no Na wa) location in Tokyo: Suga Shrine stairs, Shinjuku overpass, Shinanomachi Station, plus a half-day walking route.",
-      "wordCount": 2279,
+      "wordCount": 2249,
       "imageCount": 4,
       "bodyImageCount": 3,
-      "density": 1.3163668275559457,
+      "density": 1.3339261894175187,
       "fabricationCandidates": [],
       "axes": {
         "metaDesc": {
@@ -5986,7 +5986,7 @@
         "imageDensity": {
           "pass": true,
           "metrics": {
-            "density": 1.3163668275559457,
+            "density": 1.3339261894175187,
             "bodyImageCount": 3
           }
         },
@@ -6016,7 +6016,7 @@
         "adsenseFitness": {
           "pass": true,
           "metrics": {
-            "wordCount": 2279
+            "wordCount": 2249
           }
         }
       },
