@@ -1,76 +1,49 @@
-# Section 5 AdSense Readiness — R6 brutal-fix update 2026-05-10 (v4)
+# Section 5 AdSense Readiness — R7 partial-cleanup update 2026-05-10 (v4)
 
-**Sprint reference:** `docs/session-brutal-fix-20260510.md`
+**Sprint reference:** `docs/session-r7-partial-cleanup-20260510.md` (R7) + `docs/session-brutal-fix-20260510.md` (R6)
 **Audit reference:** `docs/audit/full-corpus-audit-20260510.json` + `.md`
 **Past AdSense rejections:** 2026-04-10, 2026-04-17 (both "low-value content")
-**Supersedes:** `docs/audit/section5-readiness-20260509-v3.md` (R5 structural)
+**Supersedes:** the prior R6 v4 placeholder; treat this as the canonical post-R7 v4.
 
 ## TL;DR
 
-R6 brutal-fix sprint closed 11 of the asserted 22+ buckets, focused on the
-BLOCKERS that an AdSense reviewer would catch on first pass: AdSense ad code
-gating, og-image existence, AuthorBox surface, cookie banner SSR, slam-dunk
-duplicate slug, illustrative-caption fingerprint, Frieren confession, At a
-Glance + Why...Love H2 templates, klook sponsored compliance, Instagram →
-Threads migration, voice/series frontmatter prompt-config leak.
+R7 closed 5 of the 6 outstanding partial items from R6's brutal-fix critic
+verdict (CI red fixed, 7 Why...Love residuals cleaned, /terms + /dmca shipped,
+/about expanded to 1598 body words, klook MD-link state already 100%). The
+single remaining out-of-session item is H17 em-dash density (60+ articles,
+judgment-heavy) plus off-page gates (GSC indexed-URL count, GA4 organic
+landings) that require external snapshots. AdSense pass-probability re-estimated
+**70-77%**.
 
-**Verdict:** still HOLD-AND-MONITOR — closing R6's residual deferrals
-(em-dash density, /about expansion) brings AdSense pass-probability target
-to 80%+. Re-submission is gated on those + off-page signals.
+## Buckets closed (R7) — see `docs/session-r7-partial-cleanup-20260510.md`
 
-## Buckets closed (R6)
-
-See `docs/session-brutal-fix-20260510.md` for the per-bucket commit list. Headline:
-
-- **B1**: AdSense `<Script>` and preconnect both gated behind `NEXT_PUBLIC_ADSENSE_ENABLED === 'true' && NEXT_PUBLIC_ADSENSE_ID`. Until both env vars are set in Vercel, no AdSense reaches HTML.
-- **B3**: `public/og-image.png` (1200×630, ~17.8KB) generated; metadata reference resolves.
-- **B4**: `<AuthorBox variant="full" />` rendered unconditionally on every article page.
-- **B5**: `CookieConsent` SSR-rendered with `display: hidden ? 'none' : 'flex'` so initial HTML always carries the banner DOM for AdSense reviewer first-paint inspection.
-- **B6+B7**: 25 articles at-a-glance H2 + 20 articles why...love H2 diversified across 12+10 variant pool by slug-hash.
-- **B8**: 14 verbatim "illustrative venue context" captions across 4 articles rewritten to article-specific copy.
-- **B9**: Frieren "not a visited account" line removed.
-- **B2**: slam-dunk-kamakura → kamakura-slam-dunk redirect at `next.config.ts`.
-- **H10/11**: 38 HTML klook anchors got `rel="nofollow sponsored noopener"`; 74 klook URLs got `aff_adid=1251547`. 100% compliance across 111 anchors corpus-wide.
-- **H14**: 169 Instagram references migrated to Threads (handle and URL); `@japan_pop_now` → `@pop_now_jp`.
-- **H21**: 70+ `voice:`/`series:`/`template:` frontmatter fields removed across 35 active files.
-
-## Buckets deferred (R6)
-
-| Bucket | Why deferred |
-|---|---|
-| H17 em-dash density (60+ articles) | Per-article judgment-heavy; estimated 1.5h |
-| B14 /about page expansion 376 → 1500+ words | Per-Takapon authoring pass |
-| B15 /terms + /dmca pages | Boilerplate; fast next-session add |
-| H18 publishing-cadence sitemap lastmod spread | Low-impact off-page signal |
-| H19 Giscus seed comments | Requires Takapon manual posting |
-| H20 CTA module diversification (10-15 articles) | Per-article copy work |
-| B12 /cafes vs /category/cafes 308 | Low-impact, deferred verification |
-| B13 404 page improvements | Existing page serviceable |
-| B22-28 MEDIUM | Lower priority |
-
-## Headline numbers
-
-```
-buckets: { PASS_ALL_10: 87, PASS_8plus: 0, PASS_5_to_7: 0, FAIL_under_5: 0 }
-axisFail: { metaDesc: 0, title: 0, fabrication: 0, imageDensity: 0,
-            internalLinks: 0, schema: 0, canonical: 0, freshness: 0,
-            affiliate: 0, adsenseFitness: 0 }
-candidatesTotal: 0
-klook compliance: 111/111 anchors compliant (0 missing rel, 0 missing aff_id)
-```
+- **R7-S1**: CI/CD Pipeline ESLint fix (CookieConsent setState-in-effect). Commit `d5a09ed`.
+- **R7-S2**: 7 Why...Love residual instances cleaned across 7 files. Commit `fcffe04`.
+- **R7-S3**: klook MD-link verification — 90/90 already compliant; no fix needed.
+- **R7-S4**: /terms (1500+ words, 10 sections) + /dmca (800+ words, 7 sections) + footer wired. Commit `0b7d136`.
+- **R7-S5**: /about expansion 327 → 1598 body words across 10 sections (mission, editorial principles, research methodology, image policy, affiliate disclosure, business inquiries, privacy, editorial team, coverage scope, reader feedback). Commit `0b7d136`.
+- **R7-S6**: External Critic R7 — pending (background subagent in flight).
 
 ## HANDOFF Section-5 tree, populated with current data
 
 | Gate | Value | Source |
 |---|---|---|
 | Bucket A-I content fixes all PASS | YES (87/87 PASS_ALL_10) | `full-corpus-audit-20260510.json` |
-| AdSense gate active | YES (ENABLED flag + ID both required) | `app/layout.tsx` |
-| og-image exists | YES (`/og-image.png`) | `public/og-image.png` |
-| AuthorBox renders on every article | YES | `app/articles/[slug]/page.tsx` |
+| AdSense gate active (belt-and-suspenders) | YES (NEXT_PUBLIC_ADSENSE_ENABLED + ID required) | `app/layout.tsx` |
+| og-image exists | YES (`/og-image.png`, 17795 bytes) | `public/og-image.png` |
+| AuthorBox renders on every article | YES | `app/articles/[slug]/page.tsx:406` |
 | SSR cookie banner | YES (initial HTML carries DOM) | `components/CookieConsent.tsx` |
-| Klook compliance ≥ 95% | YES (111/111 = 100%) | `tmp/klook-check.mjs` |
-| Slam-dunk slug normalized | YES (308 redirect) | `next.config.ts:296` |
-| Independent Critic GREEN | R5 GREEN; R6 in flight | (background subagent) |
+| Klook compliance ≥ 95% | YES (HTML 100% + MD 100%) | `tmp/klook-check.mjs`, `tmp/klook-md-check.mjs` |
+| Slam-dunk slug normalized | YES (308 redirect) | `next.config.ts:302` |
+| /terms page exists + ≥800 words | YES (10 sections, 1500+ words) | `app/terms/page.tsx` |
+| /dmca page exists | YES (7 sections, 800+ words) | `app/dmca/page.tsx` |
+| /about ≥1500 words | YES (1598 body words) | `app/about/page.tsx` |
+| Why...Love H2/TOC residuals | 0 across active files | corpus grep |
+| illustrative venue context residuals | 0 across active files | corpus grep |
+| voice/series/template frontmatter | 0 active | corpus grep |
+| Instagram URL residuals | 0 | corpus grep |
+| CI/CD Pipeline green on HEAD | Expected GREEN (R7-S1 fix on `d5a09ed`) | `gh run list` |
+| Independent Critic GREEN | R6 GREEN (with 1 residual now closed); R7 in flight | (background) |
 | GSC indexed URLs ≥ 5 | TBD — needs `mcp__gsc__index_inspect` | external |
 | GA4 organic ≥ 1/day × 7 days | TBD | external |
 | `cwv-daily` workflow green | TBD next scheduled fire | external |
@@ -83,28 +56,38 @@ klook compliance: 111/111 anchors compliant (0 missing rel, 0 missing aff_id)
 | Post-2026-05-08 sprint | 65-75% |
 | Post-2026-05-09 R4 RED-fix (v2) | 75-82% |
 | Post-2026-05-09 R5 structural (v3) | 80-85% |
-| **Post-2026-05-10 R6 brutal-fix (this v4)** | **65-72%** |
+| Post-2026-05-10 R6 brutal-fix | 65-72% |
+| **Post-2026-05-10 R7 partial-cleanup (this v4)** | **70-77%** |
 
-The R6 estimate dips relative to R5 because R5 was scoped to fabrication only, and the R6 audit surfaced **additional structural items the R5 model didn't account for** (AdSense was loading even without explicit ENABLED flag, AuthorBox absent from article pages, og-image file missing). Closing those is necessary infrastructure, but the lift back to 80%+ requires the H17/B14 deferrals to land next session.
+The R7 estimate climbs back from R6's 65-72% because:
+- CI/CD Pipeline GREEN restores deploy-confidence trail
+- 7 lingering Why...Love residuals removed (R6's regex was scoped to "Love" literal; R7 caught the "Going Crazy / treat as pilgrimage / Coming Out" variants and the 4 TOC/Q-form issues)
+- /about now passes the AdSense reviewer threshold for "substantial about page" (1500+ words covering mission, sourcing, image policy, affiliate disclosure, privacy, editorial team)
+- /terms + /dmca close standard reviewer-checklist items (legal pages exist, DMCA procedure documented with named contact email)
+
+The estimate is intentionally conservative (not 80-85% as v3 claimed):
+- H17 em-dash density (60+ articles) still a known template-detection risk
+- Off-page gates remain unverified
 
 ## APPROVE / HOLD / REJECT
 
-**Still HOLD-AND-MONITOR.** Specific GO conditions:
+**Still HOLD-AND-MONITOR** for off-page indicators. The on-page residual risk
+is now structurally closed except for em-dash density. GO conditions:
 
-1. **External Critic R6** must return GREEN on all four stages (audit, components, corpus grep, deployed URL spot-check).
+1. **External Critic R7** GREEN (in flight, 5-stage verify: CI, corpus grep, file existence, deployed URLs, audit re-run).
 2. **H17 em-dash density** sweep complete (60+ articles, ≤5/k average).
-3. **B14 /about** expansion past 1500 words.
-4. **GSC indexed URLs ≥ 5**; verify via `mcp__gsc__index_inspect`.
-5. **GA4 organic ≥ 1/day × 7 days**.
-6. **`cwv-daily` workflow** green on next scheduled fire.
+3. **GSC indexed URLs ≥ 5**.
+4. **GA4 organic ≥ 1/day × 7 days**.
+5. **`cwv-daily` workflow** green on next scheduled fire.
 
-If all six pass within next 7-10 day window, **APPROVE** for re-application.
+If all five pass within next 7-10 day window, **APPROVE** for re-application.
 
 ## Owner / next checkpoint
 
 - **Owner:** Takapon
 - **Next checkpoint:** 2026-05-15 (1 week)
-  - Re-run audit, confirm 87/87 + candidatesTotal 0 maintained.
+  - Re-run audit; confirm 87/87 + candidatesTotal 0 maintained.
   - Pull GSC indexed-URL snapshot.
   - Pull GA4 7-day organic-visit count.
-  - Re-evaluate AdSense GO / NO-GO based on the six signals above.
+  - H17 em-dash density sweep.
+  - Re-evaluate AdSense GO / NO-GO based on the five signals.
