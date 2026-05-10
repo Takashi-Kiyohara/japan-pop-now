@@ -22,8 +22,11 @@ export default function CookieConsent() {
     if (typeof document === 'undefined') return;
     const consent = document.cookie.includes('jpn_cookie_consent=true');
     const declined = document.cookie.includes('jpn_cookie_consent=false');
+    // eslint-disable-next-line react-hooks/set-state-in-effect -- intentional: read DOM-side cookie post-hydration to either hide the SSR-rendered banner (already-consented users) or leave it visible (pending users). The setState IS the synchronization between the cookie store and React state.
     if (consent) setState('accepted');
+    // eslint-disable-next-line react-hooks/set-state-in-effect -- intentional: see above
     else if (declined) setState('declined');
+    // eslint-disable-next-line react-hooks/set-state-in-effect -- intentional: see above
     else setState('pending');
   }, []);
 
