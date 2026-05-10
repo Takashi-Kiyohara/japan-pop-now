@@ -300,10 +300,14 @@ const nextConfig: NextConfig = {
     // pre-dated the cleaner kamakura-slam-dunk- ordering. Old slug already noindex
     // + canonical at the mdx level; this redirect collapses the URL hop at edge.
     { source: '/articles/slam-dunk-kamakura-pilgrimage-2026', destination: '/articles/kamakura-slam-dunk-pilgrimage-2026', permanent: true },
-    // R8-J (2026-05-10): case-insensitive duplicate URL fix. Some inbound
-    // links arrive as /Articles/<slug> (capital A); 308 to canonical
-    // lowercase /articles/<slug> to collapse the duplicate.
-    { source: '/Articles/:path*', destination: '/articles/:path*', permanent: true },
+    // R8-J REVERTED (2026-05-10): Vercel/Next.js redirect source matching is
+    // case-INSENSITIVE by default, so `/Articles/:path*` also matched the
+    // lowercase canonical `/articles/:path*` and 308'd it to itself — every
+    // article URL went into an infinite redirect loop in production. The
+    // intended uppercase-canonicalization needs middleware-level handling
+    // (see `middleware.ts`) where the request URL case can be inspected
+    // explicitly. Hypothetical uppercase inbound traffic should be measured
+    // in GSC first before re-attempting.
 
     // Generic trailing-slash strip — REPLACES the framework's internal
     // /:path+/ priority rule that's removed by skipTrailingSlashRedirect.
