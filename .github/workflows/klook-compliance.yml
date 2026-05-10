@@ -49,16 +49,29 @@ jobs:
           fi
           echo "OK articles"
 
-      - name: Check 3 - no bare klook URLs in articles
+      - name: Check 3 - markdown klook links must include aff_adid
         run: |
           set +e
-          hits=$(grep -rnoE 'https?://(www\.|affiliate\.)?klook\.com[^)\s"<]*' content/articles/ --include='*.md' --include='*.mdx' 2>/dev/null | grep -v ".deprecated" | grep -v "aff_adid=")
+          # Match markdown form [text](https://...klook.com...) and require aff_adid in the URL
+          hits=$(grep -rnoE '\[[^]]+\]\(https?://(www\.|affiliate\.)?klook\.com[^)]*\)' content/articles/ --include='*.md' --include='*.mdx' 2>/dev/null | grep -v ".deprecated" | grep -v "aff_adid=")
           if [ -n "$hits" ]; then
-            echo "::error::Found klook URL without aff_adid in articles. Add ?aff_adid=1251547."
+            echo "::error::Found markdown klook link without aff_adid. Add ?aff_adid=1251547."
             echo "$hits"
             exit 1
           fi
-          echo "OK no bare klook URLs"
+          echo "OK markdown klook links"
+
+      - name: Check 4 - HTML anchor klook links must include aff_adid
+        run: |
+          set +e
+          # Match <a href="https://...klook.com..."> and require aff_adid in the URL
+          hits=$(grep -rnoE 'href="https?://(www\.|affiliate\.)?klook\.com[^"]*"' content/articles/ --include='*.md' --include='*.mdx' 2>/dev/null | grep -v ".deprecated" | grep -v "aff_adid=")
+          if [ -n "$hits" ]; then
+            echo "::error::Found HTML anchor klook link without aff_adid. Add ?aff_adid=1251547."
+            echo "$hits"
+            exit 1
+          fi
+          echo "OK HTML klook anchors"
 
       - name: Summary
         run: echo "Klook compliance OK - aff_adid canonical param verified across source + articles."
