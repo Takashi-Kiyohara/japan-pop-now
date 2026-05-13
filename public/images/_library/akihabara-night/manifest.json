@@ -15,9 +15,9 @@
       "name": "gigo-billboard-day",
       "src_video": "IMG_7791.MOV",
       "src_frame": "raw-001.jpg",
-      "subject": "GiGo arcade exterior + 'Mulan' anime billboard (red-haired character) on yellow building, Chuo-dori Akihabara",
+      "subject": "GiGo arcade exterior + anime character billboard (red-haired character) on adjacent yellow building, Chuo-dori Akihabara",
       "people": "no faces detected",
-      "ocr_readable": "yes (GiGo, Mulan, AKIBA visible)",
+      "ocr_readable": "partial (GiGO + AKIBA legible; specific anime title art visible but not OCR-confirmable at this crop)",
       "recommended_use": "Akihabara establishment shot / arcade hub / nightlife (despite name, day shot)",
       "variants_present": ["hero", "body", "portrait", "og", "twitter", "card", "schema-1x1", "schema-4x3"]
     },
