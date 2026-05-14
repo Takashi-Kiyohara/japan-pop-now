@@ -13,7 +13,6 @@ excerpt: "You are in Tokyo, 3 AM, something hurts. The bill for three hours and 
 relatedSlugs: []
 wpPostId: 611
 ---
-**Affiliate Disclosure:** Some links in this article are affiliate links. We earn a small commission at no extra cost to you — it helps keep Japan Pop Now running.
 Japan Travel Insurance 2026: Best Plans Compared (from $45)
 You’re in Tokyo. It’s 3 AM. Something hurts. You walk into a hospital emergency room. The doctor doesn’t speak English. The bill is ¥45,000 (~$315) for three hours and some antibiotics. You didn’t have travel insurance.
 This happens to tourists constantly. Japan’s healthcare is excellent but expensive for the uninsured. Visitor reports across travel forums and consulate-issued advisory pages consistently flag the same outcome: tourists who skipped insurance, got sick, and ended up paying more for medical care than for the round-trip airfare.

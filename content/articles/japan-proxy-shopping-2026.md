@@ -21,7 +21,6 @@ excerpt: >-
 relatedSlugs: []
 wpPostId: 610
 ---
-**Affiliate Disclosure:** Some links in this article are affiliate links. We earn a small commission at no extra cost to you — it helps keep Japan Pop Now running.
 Japan Proxy Shopping 2026: Buy Anime Figures & Merch Online
 Mercari Japan has the anime figure you’ve been hunting for three months. It’s on Yahoo Auctions. You’re in Portland. Problem: these sites don’t ship internationally, and they don’t speak English. Solution: a proxy service. Instead of giving up, you use a middleman to buy it for you.
 Five major proxy services have been compared across two years of real anime-figure, vintage-manga, rare-gacha, and miscellaneous-merch orders. Some are great. Some charge hidden fees. Here’s the breakdown based on actual spending data, not theory.

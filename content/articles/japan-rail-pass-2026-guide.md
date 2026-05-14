@@ -14,7 +14,6 @@ relatedSlugs: []
 wpPostId: 613
 ---
 **Last updated: May 2026**
-**Affiliate Disclosure:** Some links in this article are affiliate links. We earn a small commission at no extra cost to you — it helps keep Japan Pop Now running.
 Japan Rail Pass 2026: Worth ¥50,000? Honest Calculator Inside
 The JR Pass costs ¥50,000 ($330) for 7 days in 2026 — up from ¥29,650 in 2022. We break down exactly when it saves money, when you’re better off with regional passes, and how to calculate your own trip before you buy.
 

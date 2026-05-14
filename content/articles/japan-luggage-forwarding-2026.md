@@ -20,7 +20,6 @@ excerpt: >-
 relatedSlugs: []
 wpPostId: 612
 ---
-**Affiliate Disclosure:** Some links in this article are affiliate links. We earn a small commission at no extra cost to you — it helps keep Japan Pop Now running.
 Japan Luggage Forwarding 2026: Ship Your Bags for ¥2,000 Between Cities
 Skip the heavy suitcase shuffle. Here’s exactly how takuhaibin (Japanese luggage forwarding) works, costs ¥2,000-3,000 per bag, and how to use it so you actually enjoy your trip instead of playing pack mule between hotels.
 

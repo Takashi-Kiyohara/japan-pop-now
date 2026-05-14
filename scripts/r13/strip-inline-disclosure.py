@@ -16,10 +16,19 @@ ROOT = Path(r"C:\Users\user\OneDrive\ドキュメント\GitHub\japan-pop-now\con
 # Two patterns observed in the corpus:
 #   1. <div className="jpn-tip"><strong>Disclosure:</strong> ...affiliate links...</div>
 #   2. Multi-line jpn-tip block
-PATTERN = re.compile(
+PATTERN_HTML = re.compile(
     r'<div className="jpn-tip"><strong>Disclosure:</strong>[^<]*This article contains affiliate links\.[^<]*</div>\s*\n?',
     re.MULTILINE,
 )
+
+# Older markdown variant used in 5 article-set articles:
+# **Affiliate Disclosure:** Some links in this article are affiliate links...
+PATTERN_MARKDOWN = re.compile(
+    r'\*\*Affiliate Disclosure:\*\*\s+Some links in this article are affiliate links\.[^\n]*\n?',
+    re.MULTILINE,
+)
+
+PATTERNS = [PATTERN_HTML, PATTERN_MARKDOWN]
 
 modified = 0
 total = 0
@@ -28,11 +37,14 @@ for path in sorted(ROOT.iterdir()):
         continue
     total += 1
     text = path.read_text(encoding="utf-8")
-    new_text, n = PATTERN.subn("", text)
-    if n > 0:
-        path.write_text(new_text, encoding="utf-8")
+    total_n = 0
+    for pattern in PATTERNS:
+        text, n = pattern.subn("", text)
+        total_n += n
+    if total_n > 0:
+        path.write_text(text, encoding="utf-8")
         modified += 1
-        print(f"  stripped {n} inline disclosure(s): {path.name}")
+        print(f"  stripped {total_n} inline disclosure(s): {path.name}")
 
 print(f"\nTotal articles scanned: {total}")
 print(f"Articles modified: {modified}")

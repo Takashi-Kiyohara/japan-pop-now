@@ -21,7 +21,6 @@ relatedSlugs: []
 wpPostId: 609
 ---
 **Last updated: May 2026 — operator-source comparison.**
-**Affiliate Disclosure:** Some links in this article are affiliate links. We earn a small commission at no extra cost to you, it helps keep Japan Pop Now running.
 Tokyo has a small but distinct cluster of anime / manga / pop-culture hotels that publish their themed-room inventory on their own websites and on Booking.com or Agoda. Five of them are reviewed below from operator-published information and listed booking-channel rate ranges — three priced as budget-to-mid-range options and two with explicit anime IP collaborations. Each section cites the operator's own website as the primary source.
 
 ## Quick Comparison Table
