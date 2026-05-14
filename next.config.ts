@@ -260,12 +260,14 @@ const nextConfig: NextConfig = {
     },
 
     // ── Existing structural rules ──
-    // WordPress date-based URLs → Next.js article URLs
-    {
-      source: '/:year(\\d{4})/:month(\\d{2})/:day(\\d{2})/:slug',
-      destination: '/articles/:slug',
-      permanent: true,
-    },
+    // R13-E1 (2026-05-14): WordPress date-based URL rule REMOVED from
+    // next.config.ts and moved to middleware.ts with an existence guard.
+    // Previously this rule blindly 308'd /YYYY/MM/DD/<slug> to
+    // /articles/<slug> regardless of whether <slug> still exists.
+    // Result: deleted-and-not-redirected legacy slugs bounced through
+    // /articles/<slug> and 404'd anyway, wasting crawl budget and earning
+    // "Redirect error" GSC flags. Middleware version checks slug existence
+    // first; missing slugs return 410 Gone (drop signal) instead.
     // WordPress category URLs → Next.js category URLs
     {
       source: '/category/:slug/page/:num',

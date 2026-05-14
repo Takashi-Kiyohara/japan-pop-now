@@ -91,8 +91,9 @@ export const metadata: Metadata = {
   },
   alternates: {
     canonical: "https://www.japan-pop-now.com",
+    // R13-E3 (2026-05-14): keep only x-default for English-only site.
+    // Emitting both 'en' and 'x-default' at the same URL is duplicate noise.
     languages: {
-      en: "https://www.japan-pop-now.com",
       "x-default": "https://www.japan-pop-now.com",
     },
     types: {

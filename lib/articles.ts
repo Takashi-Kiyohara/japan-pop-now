@@ -29,6 +29,8 @@ export type Article = {
   robots?: string
   /** ISO date (YYYY-MM-DD). When in the past, the article is excluded from sitemap. */
   validUntil?: string
+  /** R13-E2: explicit canonical URL override for cannibalization/dedup. */
+  canonical?: string
 }
 
 export type ArticleMeta = Omit<Article, 'content'>

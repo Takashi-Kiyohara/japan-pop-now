@@ -84,15 +84,21 @@ export async function generateMetadata({
         },
       };
 
+  // R13-E2 (2026-05-14): honor frontmatter canonical override when set.
+  // Cannibalization slugs already carry robots:noindex, but the canonical
+  // pointer makes the dedup signal explicit to Google.
+  const canonicalUrl = article.canonical ?? url
   return {
     title: article.title,
     description: article.description,
     robots: robotsMeta,
     alternates: {
-      canonical: url,
+      canonical: canonicalUrl,
+      // R13-E3 (2026-05-14): hreflang redundancy resolved. Previously emitted
+      // both 'en' and 'x-default' pointing at the same URL — duplicate signal
+      // and zero added value for an English-only site. Keep x-default only.
       languages: {
-        'en': url,
-        'x-default': url,
+        'x-default': canonicalUrl,
       },
     },
     openGraph: {

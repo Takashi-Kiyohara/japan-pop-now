@@ -1,5 +1,6 @@
 import { NextResponse } from 'next/server'
 import type { NextRequest } from 'next/server'
+import { getAllArticleSlugs } from '@/lib/articles'
 
 // Legacy article slugs from pre-Next.js site structure.
 // Google still has these old URLs in its index; 301 them to the canonical /articles/{slug}.
@@ -108,6 +109,33 @@ export function middleware(request: NextRequest) {
   // Normalize: strip leading/trailing slashes, take first segment only.
   const trimmed = pathname.replace(/^\/+|\/+$/g, '')
 
+  // R13-E1 (2026-05-14): WordPress-style /:year/:month/:day/:slug URLs.
+  // The next.config.ts rule was blind 308 -> /articles/:slug regardless of
+  // whether :slug still resolves. That bounced deleted-and-not-listed slugs
+  // through /articles/ and 404'd them (GSC "Redirect error"). Middleware
+  // version validates :slug against getAllArticleSlugs() first:
+  //   - exists -> 308 to /articles/:slug (preserve crawl budget)
+  //   - missing -> 410 Gone (drop signal so Google removes the URL cleanly)
+  const dateUrlMatch = pathname.match(/^\/(\d{4})\/(\d{2})\/(\d{2})\/([^/]+)\/?$/)
+  if (dateUrlMatch) {
+    const dateSlug = dateUrlMatch[4]
+    const existsAsArticle = getAllArticleSlugs().includes(dateSlug)
+    if (existsAsArticle) {
+      const url = new URL(`/articles/${dateSlug}`, request.url)
+      return NextResponse.redirect(url, 308)
+    }
+    return new NextResponse(
+      'This dated URL has been permanently removed.',
+      {
+        status: 410,
+        headers: {
+          'Content-Type': 'text/plain; charset=utf-8',
+          'X-Robots-Tag': 'noindex',
+        },
+      }
+    )
+  }
+
   // 410 Gone for permanently deleted articles — match either /<slug> or
   // /articles/<slug>. Must run before the LEGACY redirect so the deleted
   // slug does not bounce through /articles/ first.
@@ -203,6 +231,13 @@ export function middleware(request: NextRequest) {
 }
 
 export const config = {
+  // R13-E1 (2026-05-14): switch to Node runtime so middleware can call
+  // getAllArticleSlugs() from lib/articles.ts (which uses fs/path).
+  // Edge runtime trade-off: slightly slower cold start, but the existence
+  // guard on the date-URL redirect requires filesystem access, and the
+  // bot-whitelist + redirect logic don't benefit enough from edge to
+  // justify rebuilding a separate slug-snapshot module.
+  runtime: 'nodejs',
   matcher: [
     /*
      * Match all request paths except for the ones starting with:
