@@ -249,8 +249,6 @@ Many anime locations are just a short train ride away. Explore [Jujutsu Kaisen l
 - [The Complete Gachapon Guide for Tourists in Japan](/articles/gachapon-guide-japan)
 - [Game Centers & Arcades in Japan. The Complete Guide](/articles/game-centers-arcades-japan)
 - [Japan IC Card & Transit Guide for Anime Fans](/articles/japan-ic-card-transit-guide)
-- [@pop_now_jp](https://www.threads.net/@pop_now_jp)
-
 ## FAQ: Frequently Asked Questions
 
 ### How long should I spend in Akihabara?

@@ -258,7 +258,6 @@ Planning a full Tokyo itinerary? GetYourGuide and Klook both offer discounted bu
 ## This Guide Is Updated Weekly
 New anime collab cafes are announced constantly in Tokyo, sometimes with as little as two weeks’ notice before opening. We update this page every week with the latest openings, closings, and reservation information.
 Disclosure: this section may include partner links. Confirm inventory, meeting points, and refund terms on the destination site.
-For the fastest updates, follow **[@pop_now_jp](https://www.threads.net/@pop_now_jp)**. We post new collab cafe announcements in English as soon as they’re confirmed — often before other English-language media picks them up.
 *Related guides:*
 - [How to Book an Anime Collab Cafe in Japan. Complete Step-by-Step Guide](/articles/how-to-book-anime-collab-cafe-japan/)
 - [Akihabara Deep Dive: The Real Otaku Guide for 2026](/articles/akihabara-complete-guide-2026/)
@@ -272,7 +271,6 @@ For the fastest updates, follow **[@pop_now_jp](https://www.threads.net/@pop_now
 - [Lawson Ticket & Loppi Machine Guide — How to Book Anime Cafes and Events](/lawson-ticket-loppi-guide/)
 - [Anime Collab Cafe Calendar. Every Current Collaboration](/collab-cafe-calendar/)
 - [Live Collab Cafe Calendar](/collab-cafe-calendar/)
-- [@pop_now_jp](https://www.threads.net/@pop_now_jp)
 Planning a trip to Tokyo?
 [Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)
 

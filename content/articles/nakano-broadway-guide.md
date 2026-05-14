@@ -192,8 +192,6 @@ Akihabara first, if it’s your first time in Tokyo. It gives you the full anime
 - [Ikebukuro Anime Guide: Animate, Otome Road & Walking Route](/articles/ikebukuro-anime-guide-2026)
 - [Shibuya & Harajuku Pop Culture Guide](/articles/shibuya-harajuku-pop-culture-guide)
 - [Anime Merch Shopping Guide: Where to Buy & How to Save](/anime-merch-shopping-guide/)
-- [@pop_now_jp](https://www.threads.net/@pop_now_jp)
-
 Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)

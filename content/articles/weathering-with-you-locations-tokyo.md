@@ -225,9 +225,6 @@ A walking tour covering both Your Name and Weathering With You locations in one 
 - [Demon Slayer Pilgrimage Tokyo: 7 Real Locations + Map](/articles/demon-slayer-pilgrimage-tokyo)
 - [One Piece Kumamoto Statue Tour: All 10 Straw Hat Locations](/articles/one-piece-kumamoto-statue-tour)
 - [Shibuya & Harajuku Pop Culture Guide](/articles/shibuya-harajuku-pop-culture-guide)
-- [@pop_now_jp](https://www.threads.net/@pop_now_jp)
-
-
 ### More Anime Location Guides
 
 - [10 Must-Visit Anime Pilgrimage Spots in Tokyo](/articles/anime-pilgrimage-spots-tokyo)

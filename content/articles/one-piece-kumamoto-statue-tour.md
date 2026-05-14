@@ -256,8 +256,6 @@ Kumamoto has run special campaigns with stamp rallies and collectible cards at v
 - [Demon Slayer Pilgrimage Tokyo: 7 Real Locations + Map](/articles/demon-slayer-pilgrimage-tokyo)
 - [Weathering With You Locations Tokyo: 6 Film Spots + Route](/articles/weathering-with-you-locations-tokyo)
 - [Osaka Anime Guide: Den Den Town, Collab Cafes & Beyond](/articles/osaka-anime-guide-den-den-town)
-- [@pop_now_jp](https://www.threads.net/@pop_now_jp)
-
 Planning a trip to Tokyo?
 
 [Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)

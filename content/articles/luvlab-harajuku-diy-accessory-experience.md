@@ -205,7 +205,6 @@ LuvLab sits at the intersection of two movements: the Italian charm boom and the
 | **Minimum spend** | 300 yen (single accessory piece) |
 | **Payment** | Cash and major credit cards |
 | **English** | Limited staff English, but the process is visual/intuitive |
-| **Threads** | [@pop_now_jp](https://www.threads.net/@pop_now_jp) |
 | **Opened** | April 10, 2026 |
 | **Other locations** | Shibuya, Yokohama Chinatown |
 
