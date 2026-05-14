@@ -31,13 +31,13 @@ Across years of Makoto Shinkai pilgrimage tradition in Tokyo, the locations belo
 
 
 ## Koenji: Japan’s Only Weather Shrine
-The most thematically perfect Weathering With You pilgrimage stop. Koenji Hikawa Shrine houses the **Kisho Shrine** (気象神社), literally “Weather Shrine” — the only shrine in Japan dedicated to weather. In a film about a girl who can control the weather, this is as on-the-nose as it gets.
+The most thematically perfect Weathering With You pilgrimage stop. Koenji Hikawa Shrine houses the **Kisho Shrine** (気象神社), literally “Weather Shrine”, the only shrine in Japan dedicated to weather. In a film about a girl who can control the weather, this is as on-the-nose as it gets.
 
 
 ![Shinjuku neon signs at dusk, the districts Hodaka crosses through repeatedly during Weathering With You](/images/articles/weathering-with-you-locations-tokyo/body-wikimedia.webp)
 *Shinjuku at blue hour, the neon-lit district that appears throughout Hodaka's storyline in Weathering With You. Photo: Basile Morin / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Buildings_with_colorful_neon_street_signs_at_blue_hour,_Shinjuku,_Tokyo.jpg), CC BY-SA 4.0.*
 
-The shrine sells wooden geta (traditional clog) shaped prayer plaques, and you can buy a “clear weather charm” (晴守り / hare-mamori) for ¥800 — a popular souvenir among Weathering With You fans who want to channel their inner sunshine girl.
+The shrine sells wooden geta (traditional clog) shaped prayer plaques, and you can buy a “clear weather charm” (晴守り / hare-mamori) for ¥800, a popular souvenir among Weathering With You fans who want to channel their inner sunshine girl.
 
 
 ![Main hall of Koenji Hikawa Shrine in Suginami, the Tokyo shrine that houses Japan's only weather shrine and inspires the Weathering With You pilgrimage](/images/articles/weathering-with-you-locations-tokyo/body-wikimedia-2.webp)
@@ -51,7 +51,7 @@ The shrine sells wooden geta (traditional clog) shaped prayer plaques, and you c
 | **Time needed** | 20-30 minutes |
 
 
-![Yoyogi Park in spring with cherry blossoms in full bloom — the green expanse adjacent to the Sendagaya / Hatonomori area where Weathering With You's rooftop and shrine scenes are set](/images/articles/weathering-with-you-locations-tokyo/body-wikimedia-3.webp)
+![Yoyogi Park in spring with cherry blossoms in full bloom, the green expanse adjacent to the Sendagaya / Hatonomori area where Weathering With You's rooftop and shrine scenes are set](/images/articles/weathering-with-you-locations-tokyo/body-wikimedia-3.webp)
 *Yoyogi Park during cherry blossom season, the wide green space adjacent to the Sendagaya neighborhood and Hatonomori Hachiman shrine area that Shinkai used as visual reference for several Weathering With You scenes. Photo: 663highland / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sakura_in_Yoyogi_Park_Tokyo_20170403.jpg), CC0.*
 
 
@@ -73,7 +73,7 @@ The key location is the **steep slope below Tabata Station’s South Exit**. In 
 
 
 ## Shinjuku & Kabukicho: Hodaka’s Arrival
-Shinjuku is where most of the film’s urban action takes place. Hodaka arrives in Tokyo as a runaway and immediately finds himself in the chaotic energy of Kabukicho — the entertainment district north of Shinjuku Station.
+Shinjuku is where most of the film’s urban action takes place. Hodaka arrives in Tokyo as a runaway and immediately finds himself in the chaotic energy of Kabukicho, the entertainment district north of Shinjuku Station.
 
 
 ### McDonald’s Seibu-Shinjuku (Hodaka Meets Hina)
@@ -93,7 +93,7 @@ The internet cafe where Hodaka stays after running away from home. MANBOO is a r
 ## Ginza: The Real Rooftop Shrine
 The most iconic scene in Weathering With You — Hina standing on a rooftop shrine with torii gates above the city, was inspired by the **Asahi Inari Shrine** in Ginza. This is an actual Shinto shrine on the roof of an office building, accessed by elevator.
 
-The building that originally inspired the scene — Yoyogi Kaikan near Yoyogi Station, was demolished in January 2020. But Asahi Inari Shrine, which provided the visual reference for the rooftop shrine design, still exists and is open to the public.
+The building that originally inspired the scene. Yoyogi Kaikan near Yoyogi Station, was demolished in January 2020. But Asahi Inari Shrine, which provided the visual reference for the rooftop shrine design, still exists and is open to the public.
 
 | **Location** | Asahi Inari Shrine (朝日稲荷神社), 3-8-12 Ginza, Chuo-ku, Tokyo |
 | --- | --- |
@@ -108,7 +108,7 @@ The building that originally inspired the scene — Yoyogi Kaikan near Yoyogi St
 
 ## Nozoki-zaka: The Dramatic Slope
 
-Nozoki-zaka (のぞき坂) near Mejiro is one of the steepest slopes in central Tokyo — 520 feet long with a 50-foot elevation change. In the film, sunlight breaks through the rain and sweeps down this slope in one of the most visually striking scenes. The name literally means “peeping slope,” because you have to lean forward to see the bottom.
+Nozoki-zaka (のぞき坂) near Mejiro is one of the steepest slopes in central Tokyo: 520 feet long with a 50-foot elevation change. In the film, sunlight breaks through the rain and sweeps down this slope in one of the most visually striking scenes. The name literally means “peeping slope,” because you have to lean forward to see the bottom.
 
 | **Location** | Nozoki-zaka (のぞき坂), Mejiro area, Toshima-ku |
 | --- | --- |
@@ -116,7 +116,7 @@ Nozoki-zaka (のぞき坂) near Mejiro is one of the steepest slopes in central 
 | **Admission** | Free (public road) |
 | **Time needed** | 10-15 minutes |
 
-**Best photo time:** Late afternoon when sunlight hits the slope at an angle — this recreates the film’s most famous visual of the slope. On a rainy day, the wet pavement reflections match the film even more closely.
+**Best photo time:** Late afternoon when sunlight hits the slope at an angle, this recreates the film’s most famous visual of the slope. On a rainy day, the wet pavement reflections match the film even more closely.
 
 
 ## Roppongi Hills: The Sunset Prayer
@@ -191,7 +191,7 @@ If you’re doing both Shinkai pilgrimages, these spots overlap:
 ## FAQ: Frequently Asked Questions
 **Can I see the rooftop shrine from the film?**
 
-The original building (Yoyogi Kaikan) was demolished in 2020. However, Asahi Inari Shrine in Ginza — the real-world rooftop shrine that inspired the design, is still open and accessible by elevator. It’s a small shrine on top of an office building with a torii gate on the roof. It’s not identical to the film but captures the same feeling.
+The original building (Yoyogi Kaikan) was demolished in 2020. However, Asahi Inari Shrine in Ginza, the real-world rooftop shrine that inspired the design, is still open and accessible by elevator. It’s a small shrine on top of an office building with a torii gate on the roof. It’s not identical to the film but captures the same feeling.
 
 **Is the McDonald’s actually worth visiting?**
 
@@ -199,7 +199,7 @@ As a pilgrimage stop, yes, it takes 15 minutes and costs ¥500 for a Big Mac. Th
 
 **Should I visit on a rainy day?**
 
-Honestly? A rainy day makes the pilgrimage better. The film is about rain in Tokyo, and many locations — the slopes, the streets, the station, look more like the film when wet. The rainy season (tsuyu, June-July) is the most atmospheric time, but any rainy day works.
+Honestly? A rainy day makes the pilgrimage better. The film is about rain in Tokyo, and many locations, the slopes, the streets, the station, look more like the film when wet. The rainy season (tsuyu, June-July) is the most atmospheric time, but any rainy day works.
 
 **How does this compare to the Your Name pilgrimage?**
 
@@ -209,7 +209,7 @@ The Your Name pilgrimage is more concentrated (most spots are in Shinjuku/Yotsuy
 ## More Anime Pilgrimages
 
 - [10 Anime Pilgrimage Spots in Tokyo You Can Visit Today](/articles/anime-pilgrimage-spots-tokyo/)
-- [Your Name Pilgrimage Tokyo — Every Real Location + Walking Route](/articles/your-name-pilgrimage-tokyo/)
+- [Your Name Pilgrimage Tokyo. Every Real Location + Walking Route](/articles/your-name-pilgrimage-tokyo/)
 - [Demon Slayer Real Locations in Tokyo. Complete Pilgrimage Guide](/articles/demon-slayer-pilgrimage-tokyo/)
 
 

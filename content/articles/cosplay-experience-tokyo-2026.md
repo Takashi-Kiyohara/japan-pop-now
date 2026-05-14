@@ -25,7 +25,7 @@ You can rent a full cosplay outfit in Tokyo for ¥3,000-12,000 (~$20-82) at stud
 
 Cosplay rental is one of those Tokyo experiences that sounds intimidating but is actually straightforward once you know which studios to book. This guide covers the best English-friendly studios, pricing, what's included, where you can wear cosplay in public, and the rules for cosplaying at major events like [Comiket](https://www.comiket.co.jp/) (the official Comic Market Preparatory Committee) and [Tokyo Game Show](https://expo.tokyogameshow.com/).
 
-Across years of Tokyo's character-experience economy, costume rental sits alongside hands-on workshop formats — the [LuvLab Harajuku DIY accessory experience](/articles/luvlab-harajuku-diy-accessory-experience) is the natural Harajuku-side companion if you want to make a piece to wear with the rented outfit, and most studios will allow rented accessories alongside their costume kits. The full [Experiences silo](/category/experiences) collects every active hands-on / spot-experience write-up plus the practical travel guides (JR Pass, eSIM, IC card) you may need to reach them.
+Across years of Tokyo's character-experience economy, costume rental sits alongside hands-on workshop formats, the [LuvLab Harajuku DIY accessory experience](/articles/luvlab-harajuku-diy-accessory-experience) is the natural Harajuku-side companion if you want to make a piece to wear with the rented outfit, and most studios will allow rented accessories alongside their costume kits. The full [Experiences silo](/category/experiences) collects every active hands-on / spot-experience write-up plus the practical travel guides (JR Pass, eSIM, IC card) you may need to reach them.
 
 
 ## Table of Contents
@@ -39,7 +39,7 @@ Across years of Tokyo's character-experience economy, costume rental sits alongs
 
 
 ![Cosplayer in Akihabara on a Tokyo street, illustrating cosplay rental walking experience](/images/articles/cosplay-experience-tokyo-2026/body-wikimedia-1.webp)
-*Cosplayer photographed on an Akihabara side street — many studios offer outdoor walking permission so renters can shoot in the neighborhood after their session. Photo: Wikimedia Commons (CC BY-SA)*
+*Cosplayer photographed on an Akihabara side street, many studios offer outdoor walking permission so renters can shoot in the neighborhood after their session. Photo: Wikimedia Commons (CC BY-SA)*
 
 
 ## How Much Does Cosplay Rental Cost in Tokyo?
@@ -62,7 +62,7 @@ Additional costs to budget for: extra digital photo downloads (¥500-1,000 per s
 ## Which Studios Offer English Support?
 
 
-### Studio Crown — Akihabara (Best Overall)
+### Studio Crown. Akihabara (Best Overall)
 The go-to studio for international visitors. Located within walking distance of Akihabara Station, Studio Crown offers three tiers of cosplay experience and has an English reservation form on their website. Some staff speak English, and the booking system is designed with overseas visitors in mind.
 
 | Course | Price | Includes |
@@ -74,8 +74,8 @@ The go-to studio for international visitors. Located within walking distance of 
 Studio rental runs ¥1,700 for 3 hours on weekdays, ¥2,400 on weekends. Reservations can be made up to 7 days in advance, no membership required. The studio has a decent selection of popular anime costumes (Naruto, Demon Slayer, Attack on Titan, Genshin Impact) plus seasonal additions based on currently airing anime.
 
 
-### Cosset Photo Studio — Ikebukuro (Best for Professional Photos)
-Operated by the Animate Group, Cosset is located in Ikebukuro’s anime district and specializes in professional-quality cosplay photography. The package includes an English-speaking guide, costume selection assistance, makeup help, professional photographer, and a hand-picked photo set. Pricing is higher than Studio Crown but the output is portfolio-quality — if you want cosplay photos that look like they belong on a magazine cover, this is the studio.
+### Cosset Photo Studio. Ikebukuro (Best for Professional Photos)
+Operated by the Animate Group, Cosset is located in Ikebukuro’s anime district and specializes in professional-quality cosplay photography. The package includes an English-speaking guide, costume selection assistance, makeup help, professional photographer, and a hand-picked photo set. Pricing is higher than Studio Crown but the output is portfolio-quality, if you want cosplay photos that look like they belong on a magazine cover, this is the studio.
 
 Book through tour platforms like Abracadabra Tours or directly. The Animate connection means their costume inventory skews toward currently popular IPs and often includes exclusive designs tied to ongoing Animate Cafe collaborations.
 
@@ -83,7 +83,7 @@ Book through tour platforms like Abracadabra Tours or directly. The Animate conn
 ### Espacio. Akihabara (Best for Goth-Lolita & Maid)
 A specialist in gothic lolita, maid, and alternative fashion cosplay. Espacio has a smaller but well-chosen costume selection focused on Japanese street fashion subcultures rather than specific anime characters. Pricing is lower: ¥2,500 for in-store rental (includes 1 Instax photo) or ¥4,000 for outdoor rental with 2 Instax photos.
 
-Hours: 11:00-20:00. Rental reception runs 11:00-18:00 with returns by 20:00. They accept cash, credit cards, and contactless IC payments. English and Japanese spoken. The outdoor rental option lets you walk Akihabara’s streets in full goth-lolita — Espacio will brief you on where to go and photograph along the way.
+Hours: 11:00-20:00. Rental reception runs 11:00-18:00 with returns by 20:00. They accept cash, credit cards, and contactless IC payments. English and Japanese spoken. The outdoor rental option lets you walk Akihabara’s streets in full goth-lolita. Espacio will brief you on where to go and photograph along the way.
 
 
 ## Where Can You Wear Cosplay in Public in Tokyo?
@@ -94,7 +94,7 @@ Hours: 11:00-20:00. Rental reception runs 11:00-18:00 with returns by 20:00. The
 
 Tokyo is more cosplay-tolerant than most cities, but there are still unwritten rules about where it’s appropriate:
 
-**Akihabara:** The most cosplay-friendly neighborhood in Tokyo. Walking Akihabara’s main streets (Chuo-dori, the Electric Town area) in cosplay is completely normal — you’ll blend in with the maid cafe promoters and fellow cosplayers. Weekends especially; the pedestrian zone on Sundays is prime cosplay-walking territory.
+**Akihabara:** The most cosplay-friendly neighborhood in Tokyo. Walking Akihabara’s main streets (Chuo-dori, the Electric Town area) in cosplay is completely normal, you’ll blend in with the maid cafe promoters and fellow cosplayers. Weekends especially; the pedestrian zone on Sundays is prime cosplay-walking territory.
 
 **Ikebukuro (Otome Road area):** The east exit side around Sunshine City and Otome Road is accustomed to cosplayers, particularly female-oriented character designs. Less dense than Akihabara but equally accepting.
 
@@ -138,7 +138,7 @@ Ask before photographing anyone in cosplay, a simple gesture toward your camera 
 
 Yes, and there are good reasons to consider it. Your own costume fits better, matches your character perfectly, and costs nothing to rent. Pack it carefully, foam and structured pieces should go in your carry-on to avoid crushing in checked luggage. Wigs travel well if you stuff them inside a hat box or padded bag.
 
-Things to know about bringing costumes through Japanese customs: standard cosplay costumes are personal items and don’t attract customs duty. Prop weapons (swords, guns, even obviously fake ones) may be inspected and potentially confiscated at airport security — Japan’s weapon laws are strict. Leave realistic-looking prop weapons at home; buy lightweight convention-safe props in Japan at cosplay shops in Akihabara’s Den Den Town or Ikebukuro.
+Things to know about bringing costumes through Japanese customs: standard cosplay costumes are personal items and don’t attract customs duty. Prop weapons (swords, guns, even obviously fake ones) may be inspected and potentially confiscated at airport security. Japan’s weapon laws are strict. Leave realistic-looking prop weapons at home; buy lightweight convention-safe props in Japan at cosplay shops in Akihabara’s Den Den Town or Ikebukuro.
 
 Rental studios also welcome customers who bring their own costumes and just want to use the studio and photographer. Studio Crown charges ¥1,700-2,400 for studio time only, without costume rental. This is a good option if you have your own outfit but want professional photos in a controlled lighting environment.
 

@@ -33,7 +33,7 @@ Short answer: for most solo travelers in 2026, an **eSIM is the best choice**. F
 ## Table of Contents
 
 - [Quick Comparison Table](#quick-comparison)
-- [Option 1: eSIM — Best for Solo Travelers](#esim)
+- [Option 1: eSIM: Best for Solo Travelers](#esim)
 - [Option 2: Pocket WiFi. Best for Groups](#pocket-wifi)
 - [Option 3: Physical SIM Card — Best for Older Phones](#physical-sim)
 - [Free WiFi in Japan. What You Can Actually Expect](#free-wifi)
@@ -85,20 +85,20 @@ An eSIM is a digital SIM card built into your phone. No physical card to swap, n
 
 
 ### Why eSIMs work for most travelers
-The convenience factor is hard to beat. Per visitor reports, eSIMs like Ubigi can be activated while still on the plane (during taxi-to-gate when in-flight WiFi is available). By the time travelers clear immigration and grab their bags, they typically already have full 4G/5G coverage — much faster than the 20-minute SIM-counter queue while jet-lagged.
+The convenience factor is hard to beat. Per visitor reports, eSIMs like Ubigi can be activated while still on the plane (during taxi-to-gate when in-flight WiFi is available). By the time travelers clear immigration and grab their bags, they typically already have full 4G/5G coverage, much faster than the 20-minute SIM-counter queue while jet-lagged.
 
 eSIMs also let you keep your home phone number active. Your phone runs two connections, your regular SIM for calls/texts from home, and the eSIM for Japan data. This matters if you need to receive bank verification codes or stay reachable on your normal number.
 
 
 ### eSIM limitations to know
-Your phone needs to support eSIM. Most phones from 2019 onward do — iPhone XS and later, Samsung Galaxy S20 and later, Google Pixel 3 and later. If you’re not sure, check Settings > Cellular > Add eSIM on iPhone, or Settings > Connections > SIM manager on Samsung.
+Your phone needs to support eSIM. Most phones from 2019 onward do, iPhone XS and later, Samsung Galaxy S20 and later, Google Pixel 3 and later. If you’re not sure, check Settings > Cellular > Add eSIM on iPhone, or Settings > Connections > SIM manager on Samsung.
 
 The other catch: one eSIM = one device. If you’re traveling with a partner who also needs data, you each need your own eSIM (or consider pocket WiFi instead).
 
 
 ## Option 2: Pocket WiFi. Best for Groups
 
-Pocket WiFi devices connect up to 10 devices at once — ideal for groups or families.
+Pocket WiFi devices connect up to 10 devices at once, ideal for groups or families.
 A pocket WiFi is a small battery-powered device (about the size of a credit card, but thicker) that creates a personal WiFi hotspot using Japan’s cellular network. You rent it at the airport or have it delivered to your hotel.
 
 
@@ -119,7 +119,7 @@ Return logistics add a small hassle too. Most rentals require you to drop the de
 ## Option 3: Physical SIM Card. Best for Older Phones
 
 
-![Nano SIM card next to its phone tray with a ruler showing centimeter and inch scale — the typical setup for swapping a Japan prepaid SIM into an unlocked phone](/images/articles/japan-esim-pocket-wifi-sim-card/body-wikimedia-2.webp)
+![Nano SIM card next to its phone tray with a ruler showing centimeter and inch scale, the typical setup for swapping a Japan prepaid SIM into an unlocked phone](/images/articles/japan-esim-pocket-wifi-sim-card/body-wikimedia-2.webp)
 *A nano SIM card and ejector tray, the same swap procedure used at Narita/Haneda SIM counters. Photo: BwDraco / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nano_SIM_card_and_tray.jpg), CC BY-SA 3.0.*
 
 Physical SIM cards are still the go-to for phones that don’t support eSIM.
@@ -133,7 +133,7 @@ You can also **buy prepaid Japan SIM cards on Amazon before your trip**. Brands 
 
 
 ### Physical SIM downsides
-You lose access to your home phone number while the Japan SIM is in your phone (unless your phone has dual physical SIM slots, which most don’t). This means no receiving calls or texts on your regular number. You’ll also need a SIM ejector pin and a safe place to store your home SIM — losing it abroad is a nightmare.
+You lose access to your home phone number while the Japan SIM is in your phone (unless your phone has dual physical SIM slots, which most don’t). This means no receiving calls or texts on your regular number. You’ll also need a SIM ejector pin and a safe place to store your home SIM, losing it abroad is a nightmare.
 
 Prices tend to be higher per GB than eSIMs, especially at airport counters where convenience pricing applies. A typical airport SIM runs 3,000-5,000 yen ($20-33) for 3-5GB over 7-15 days.
 
@@ -157,11 +157,11 @@ Recommended approach: **don't rely on free WiFi as your primary connection**. Us
 
 
 ![Smartphone displaying eSIM activation QR code next to a pocket WiFi device for comparison](/images/articles/japan-esim-pocket-wifi-sim-card/body5.jpg)
-*eSIM activates in minutes via QR code — no physical SIM swap needed for modern iPhones and Pixels.*
+*eSIM activates in minutes via QR code, no physical SIM swap needed for modern iPhones and Pixels.*
 
 
 ![Rakuten Mobile multi-cut SIM card with mini SIM, micro SIM, and nano SIM punch-outs, the same flexible SIM format Japan carriers issue to international travelers](/images/articles/japan-esim-pocket-wifi-sim-card/body-wikimedia-3.webp)
-*A Rakuten Mobile multi-cut SIM showing the standard, micro, and nano sizes — Japan’s domestic carrier SIMs typically ship in this layout. Photo: Project Kei / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Multi-cut_SIM_Rakuten_Mobile.jpg), CC BY-SA 4.0.*
+*A Rakuten Mobile multi-cut SIM showing the standard, micro, and nano sizes. Japan’s domestic carrier SIMs typically ship in this layout. Photo: Project Kei / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Multi-cut_SIM_Rakuten_Mobile.jpg), CC BY-SA 4.0.*
 
 
 ## Top eSIM Providers for Japan (2026)
@@ -202,7 +202,7 @@ Instant QR code delivery. Works with iPhone XS+ and recent Android.
 | **Klook WiFi Rental** | From $3/day | Unlimited | Airport pickup + delivery |
 | **Sakura Mobile** | From 563 yen/day | Unlimited | Delivery to hotel/Airbnb |
 
-For pocket WiFi, recommended booking channel: [Klook's Japan WiFi rental page](https://affiliate.klook.com/redirect?aid=117469&aff_adid=1251547&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US/wifi-sim-card/?region=26-Japan&aid=1117469) — listed prices typically run 10-20% cheaper than booking direct, and airport pickup is seamless per visitor reports. Ninja WiFi and Japan Wireless are both reliable choices with unlimited data and good airport counter presence.
+For pocket WiFi, recommended booking channel: [Klook's Japan WiFi rental page](https://affiliate.klook.com/redirect?aid=117469&aff_adid=1251547&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US/wifi-sim-card/?region=26-Japan&aid=1117469), listed prices typically run 10-20% cheaper than booking direct, and airport pickup is seamless per visitor reports. Ninja WiFi and Japan Wireless are both reliable choices with unlimited data and good airport counter presence.
 
 **Booking tip:** Reserve your pocket WiFi at least 1 week before your trip. Airport walk-in rentals cost 30-50% more and frequently sell out during peak travel seasons (cherry blossom in March-April, autumn leaves in November).
 
@@ -234,7 +234,7 @@ Free cancellation available. Pick up at Narita, Haneda, or Kansai airport.
 
 1. **Pick up the device** at your designated airport counter (bring your booking confirmation)
 2. **Power on**, press and hold the power button for 3 seconds
-3. **Check the screen** — it displays the WiFi network name and password
+3. **Check the screen**, it displays the WiFi network name and password
 4. **Connect your phone**, join the network like any WiFi. Save the password for reconnecting
 5. **Charge nightly** — plug in the device every night at your hotel
 
@@ -244,7 +244,7 @@ Free cancellation available. Pick up at Narita, Haneda, or Kansai airport.
 1. **Buy from a vending machine or counter**, vending machines in arrival halls work 24/7 and support English
 2. **Eject your home SIM** — use the pin tool included in the package. Store your home SIM safely (zip pocket or card holder)
 3. **Insert the Japan SIM**, follow the tray orientation guide
-4. **Restart your phone** — some SIMs auto-configure, others require APN settings (included in the package instructions)
+4. **Restart your phone**, some SIMs auto-configure, others require APN settings (included in the package instructions)
 
 
 ## Pro Tips from Experience

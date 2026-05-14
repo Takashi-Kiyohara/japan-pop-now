@@ -68,14 +68,14 @@ Here is the exact order I give friends landing at either airport:
 1. **Immigration and baggage claim (30-50 min).** Have your QR code from [Visit Japan Web](https://www.digital.go.jp/en/) ready on your phone, the [Digital Agency](https://www.digital.go.jp/en/) operates this entry portal as the official immigration and customs declaration channel. The paper arrival card is being phased out.
 2. **ATM before you exit the arrivals hall (5 min).** Pull 30,000 to 50,000 yen from a 7-Bank or Japan Post ATM. Both accept foreign cards. Airport currency-exchange counters give you a worse rate.
 3. **SIM or pocket wifi pickup (10 min).** If you pre-ordered an eSIM you are done in 2 minutes. If you booked pocket wifi, pick up at the Ninja WiFi or Japan Wireless counter.
-4. **IC card (10 min).** Buy a Welcome Suica or PASMO Passport at the JR East Travel Service Center. Or enable a mobile Suica on your phone at your seat before you even stand up — this takes 90 seconds in the Apple Wallet or Google Wallet and skips every queue.
+4. **IC card (10 min).** Buy a Welcome Suica or PASMO Passport at the JR East Travel Service Center. Or enable a mobile Suica on your phone at your seat before you even stand up, this takes 90 seconds in the Apple Wallet or Google Wallet and skips every queue.
 5. **Luggage forwarding (15 min).** If you are coming for more than 5 days, forward your big suitcase from the airport to your second-stop hotel via Yamato Transport. See our [Japan luggage forwarding guide](/articles/japan-luggage-forwarding-2026) for the exact counter locations. You save yourself Shinkansen suitcase drama on day 4.
 6. **Train to the city (60-90 min from Narita, 30-45 min from Haneda).** Narita Express or Skyliner for Narita; Keikyu Line or Tokyo Monorail for Haneda.
 
 **Why the order matters:** if you grab the IC card first, you will be on the train before your SIM is active, which means no Google Maps. Always get SIM and cash before you move.
 
 
-![Shinkansen bullet train pulling into a Tokyo platform — the first full Japan Rail experience most anime fans have after landing](/images/articles/first-timers-japan-playbook-anime-fans-2026/body1.jpg)
+![Shinkansen bullet train pulling into a Tokyo platform, the first full Japan Rail experience most anime fans have after landing](/images/articles/first-timers-japan-playbook-anime-fans-2026/body1.jpg)
 
 
 ## What to Book Before You Fly
@@ -89,7 +89,7 @@ Here is the seven-item booking list I send friends two to four weeks before they
 - **JR Pass, only if it pays off.** The 7-day JR Pass is priced at 50,000 yen per [japanrailpass.net](https://www.japanrailpass.net/en/) at the time of writing. It only pays off if you are doing a Tokyo to Kyoto round trip plus Osaka, or heavy anime pilgrimage travel. Our [JR Pass 2026 guide](/articles/japan-rail-pass-2026-guide) has a break-even calculator.
 - **Collab cafe reservations.** Most Tokyo anime collab cafes open bookings 2 to 4 weeks ahead and fill up in under an hour. The Japanese-only reservation flow is the single biggest blocker for international fans. See our [collab cafe booking guide](/articles/how-to-book-anime-collab-cafe-japan).
 - **Airport transfer (optional).** Narita Express ticket in advance if you do not have a JR Pass. Skyliner tickets are cheaper through Klook.
-- **Theme park tickets.** Tokyo Disney, USJ (for Universal Cool Japan), Ghibli Park — all sell out the popular dates. Ghibli Park in particular releases a month out at 2 PM JST.
+- **Theme park tickets.** Tokyo Disney, USJ (for Universal Cool Japan), Ghibli Park, all sell out the popular dates. Ghibli Park in particular releases a month out at 2 PM JST.
 - **Travel insurance.** Japanese healthcare is excellent but not free for tourists. A bad ankle sprain at a pilgrimage spot can cost 30,000 to 80,000 yen out of pocket. See our [Japan travel insurance guide](/articles/japan-travel-insurance-2026).
 
 
@@ -120,7 +120,7 @@ The biggest lie told about Japan online is that it is suddenly a cashless countr
 - Small gachapon machines (almost all coin-only)
 - Rural buses with no IC reader
 - Traditional *ryokan* and family-run minshuku
-- Tipping a tour guide politely in an envelope — not standard practice, but done for private guides
+- Tipping a tour guide politely in an envelope, not standard practice, but done for private guides
 
 **You will not need cash for:**
 
@@ -159,13 +159,13 @@ If you are planning to do figure shopping or cosplay buying, see our [anime trip
 
 These are the small cultural rules that most Tokyo locals will forgive you for breaking once, but notice every time. Getting them right makes you feel instantly comfortable.
 
-**On the train.** Phone on silent, no calls, no speakerphone. Backpack to the front of your body during rush hour. Do not eat or drink except bottled water. Queue in the marked lines on the platform. The first and last cars are often women-only during morning rush — check the pink signs on the floor.
+**On the train.** Phone on silent, no calls, no speakerphone. Backpack to the front of your body during rush hour. Do not eat or drink except bottled water. Queue in the marked lines on the platform. The first and last cars are often women-only during morning rush, check the pink signs on the floor.
 
-**In collab cafes and themed restaurants.** Do not photograph staff faces without asking. Do not photograph other guests' tables. Finish drinks before leaving. Say *gochisousama* (ごちそうさま) when you leave — staff will smile every time.
+**In collab cafes and themed restaurants.** Do not photograph staff faces without asking. Do not photograph other guests' tables. Finish drinks before leaving. Say *gochisousama* (ごちそうさま) when you leave, staff will smile every time.
 
 **In shops.** Do not haggle. Prices are fixed. Receive change with both hands when possible, or at least one hand with a small nod. Do not open packaged merch to inspect it.
 
-**On the sidewalk.** Walk on the left in Tokyo, right in Osaka — yes, really. Do not eat while walking in most neighborhoods. Smoke only in designated smoking areas. Keep trash with you until you find a bin, because there are almost none in public.
+**On the sidewalk.** Walk on the left in Tokyo, right in Osaka, yes, really. Do not eat while walking in most neighborhoods. Smoke only in designated smoking areas. Keep trash with you until you find a bin, because there are almost none in public.
 
 **At shrines and temples.** Bow once before passing through the *torii* (鳥居). Rinse hands at the *temizuya* (手水舎). Toss a 5-yen coin before praying. 5 yen (*go-en*, 五円) is homophonous with the word for a good connection (also pronounced *go-en*). Do not take photos inside the main hall.
 
@@ -234,10 +234,10 @@ Late July through mid-August (peak summer) is brutal — 35 degrees Celsius, hum
 
 - [IC Card and Transit Guide](/articles/japan-ic-card-transit-guide) — which card to buy and how to tap through Tokyo like a local.
 - [eSIM and Pocket Wifi Guide](/articles/japan-esim-pocket-wifi-sim-card), the three plans I actually recommend.
-- [Luggage Forwarding Guide](/articles/japan-luggage-forwarding-2026) — how to skip the suitcase-on-the-Shinkansen stress.
-- [Anime Trip Checklist](/articles/japan-trip-checklist-anime-fans-2026) — customs rules, packing, merch space.
+- [Luggage Forwarding Guide](/articles/japan-luggage-forwarding-2026), how to skip the suitcase-on-the-Shinkansen stress.
+- [Anime Trip Checklist](/articles/japan-trip-checklist-anime-fans-2026), customs rules, packing, merch space.
 - [Akihabara Complete Guide](/articles/akihabara-complete-guide-2026), your first day's anime walking route.
-- [Tokyo Anime Districts](/articles/tokyo-anime-district-guide) — where to go after Akihabara.
+- [Tokyo Anime Districts](/articles/tokyo-anime-district-guide), where to go after Akihabara.
 
 
 <div class="jpn-cta"><p><strong>Follow <a href="https://www.threads.net/@pop_now_jp" rel="nofollow" target="_blank">@pop_now_jp on Threads</a></strong> for daily Tokyo pop culture updates and first-timer tips.</p></div>

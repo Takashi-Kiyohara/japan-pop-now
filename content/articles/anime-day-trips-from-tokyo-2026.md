@@ -27,7 +27,7 @@ Six of Japan’s best anime pilgrimage spots sit within day-trip range of Tokyo,
 
 The six destinations below are organized by travel time from central Tokyo, with exact train routes, costs, JR Pass coverage, and suggested itineraries for each. If you’re building a week-long Tokyo itinerary, two or three of these day trips fill out the schedule and give you stories that no Akihabara shopping haul can match.
 
-Across years of bullet-train + JR Pass usage patterns, the day-trip envelope from Tokyo extends comfortably out to about three hours one-way before the math stops working — within that envelope, [Kyoto's anime scene](/articles/kyoto-anime-guide-2026) sits at the upper edge (2h15m by Shinkansen) and is treated as a separate guide rather than included below. The six destinations here are the under-2-hour subset. The full [Experiences silo](/category/experiences) collects related single-spot day-trip write-ups alongside the JR Pass / eSIM / IC card practical guides each of these trips needs.
+Across years of bullet-train + JR Pass usage patterns, the day-trip envelope from Tokyo extends comfortably out to about three hours one-way before the math stops working, within that envelope, [Kyoto's anime scene](/articles/kyoto-anime-guide-2026) sits at the upper edge (2h15m by Shinkansen) and is treated as a separate guide rather than included below. The six destinations here are the under-2-hour subset. The full [Experiences silo](/category/experiences) collects related single-spot day-trip write-ups alongside the JR Pass / eSIM / IC card practical guides each of these trips needs.
 
 
 ## Table of Contents
@@ -83,10 +83,10 @@ This is where the [Japan Rail Pass](/articles/japan-rail-pass-2026-guide) math g
 
 | Destination | JR Pass Coverage | What’s NOT Covered |
 | --- | --- | --- |
-| **Kamakura** | Partial — JR to Kamakura covered | Enoden private railway (¥200-800) |
+| **Kamakura** | Partial. JR to Kamakura covered | Enoden private railway (¥200-800) |
 | **Hakone** | Partial. JR to Odawara covered | Odakyu Railway, ropeway, cruise (¥1,500+) |
 | **Chichibu** | Not covered | Seibu Railway is fully private (¥1,700) |
-| **Kawaguchiko** | Partial — JR to Otsuki covered | Fuji Kyuko Railway (¥1,170) |
+| **Kawaguchiko** | Partial. JR to Otsuki covered | Fuji Kyuko Railway (¥1,170) |
 | **Oarai** | Fully covered | Local buses only (¥200-400) |
 | **Nikko** | Fully covered | Local buses only (¥200-600) |
 
@@ -107,7 +107,7 @@ Read the full guide: [Slam Dunk Kamakura Pilgrimage 2026](/articles/kamakura-sla
 ## Hakone: Evangelion Third Tokyo-3
 Hakone is the real-world model for NERV’s fortress city in Evangelion, and the town has embraced it completely. The Hakone Yumoto eva-ya store near the station has been running for 13+ years, selling exclusive Evangelion merchandise with a Japanese-craft aesthetic (traditional woodwork, fabric goods, ceramics with Eva designs). It’s one of the longest-running anime collaboration shops in Japan.
 
-**What to do:** Eva-ya shop at Hakone Yumoto (30 min) → Hakone Ropeway over volcanic valleys (45 min) → Lake Ashi pirate ship cruise (30 min) → onsen hot spring soak (60-90 min). The landscape — volcanic mountains, misty lake, dense forest — legitimately feels like the anime’s setting, especially on overcast days.
+**What to do:** Eva-ya shop at Hakone Yumoto (30 min) → Hakone Ropeway over volcanic valleys (45 min) → Lake Ashi pirate ship cruise (30 min) → onsen hot spring soak (60-90 min). The landscape, volcanic mountains, misty lake, dense forest — legitimately feels like the anime’s setting, especially on overcast days.
 
 
 ![Pirate-themed sightseeing cruise on Lake Ashi in Hakone, the volcanic-lake landscape that inspired Evangelion's Tokyo-3 setting](/images/articles/anime-day-trips-from-tokyo-2026/body-wikimedia-1.webp)
@@ -126,14 +126,14 @@ Hakone is the real-world model for NERV’s fortress city in Evangelion, and the
 
 **Key locations:** Chichibu Bridge (秩父橋) — the most iconic scene location, accessible by local bus from the station. The bridge overlooks the Arakawa River valley, and the view matches the anime’s emotional climax. Other locations are scattered across town, rent a bicycle at the station (available at the tourism office) to cover them efficiently in about 2 hours.
 
-**Getting there:** Seibu Railway Express from Ikebukuro, 80 minutes, ¥1,700 one way. This is a private railway — JR Pass does not cover it.
+**Getting there:** Seibu Railway Express from Ikebukuro, 80 minutes, ¥1,700 one way. This is a private railway. JR Pass does not cover it.
 
 **Cost:** ¥3,400 transport + ¥500 bike rental + lunch = ~¥5,000-5,500.
 
-**Best for:** Fans of the series will find the pilgrimage deeply moving, the town embraced the anime warmly and the locations are beautifully maintained. Casual visitors might find it quiet — Chichibu is a genuine countryside town, not a theme park. That’s part of the appeal if you want a break from Tokyo’s intensity.
+**Best for:** Fans of the series will find the pilgrimage deeply moving, the town embraced the anime warmly and the locations are beautifully maintained. Casual visitors might find it quiet. Chichibu is a genuine countryside town, not a theme park. That’s part of the appeal if you want a break from Tokyo’s intensity.
 
 
-![Chichibu Bridge (Chichibubashi) — the iconic Anohana pilgrimage location overlooking the Arakawa River valley, about 80 minutes from Ikebukuro by Seibu Express](/images/articles/anime-day-trips-from-tokyo-2026/body-wikimedia-5.webp)
+![Chichibu Bridge (Chichibubashi), the iconic Anohana pilgrimage location overlooking the Arakawa River valley, about 80 minutes from Ikebukuro by Seibu Express](/images/articles/anime-day-trips-from-tokyo-2026/body-wikimedia-5.webp)
 *Chichibu Bridge (秩父橋), the most recognized scene location from "Anohana: The Flower We Saw That Day," reachable by local bus from Seibu-Chichibu Station. Photo: I_LOVE_WIKI / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Anohana_chichibubashi.jpg), CC BY-SA 3.0.*
 
 
@@ -185,7 +185,7 @@ Nikko Toshogu Shrine, a UNESCO World Heritage site, has visual connections to th
 Nikko is the trip where the JR Pass makes the most dramatic difference. Without the pass, it’s the most expensive day trip on this list. With the pass, it’s the cheapest (transport is free).
 
 
-![Yomeimon Gate at Nikko Toshogu Shrine — a UNESCO World Heritage carved facade often compared to scenes from Demon Slayer's mountain spirit world](/images/articles/anime-day-trips-from-tokyo-2026/body-wikimedia-3.webp)
+![Yomeimon Gate at Nikko Toshogu Shrine, a UNESCO World Heritage carved facade often compared to scenes from Demon Slayer's mountain spirit world](/images/articles/anime-day-trips-from-tokyo-2026/body-wikimedia-3.webp)
 *The Yomeimon Gate (陽明門) at Nikko Toshogu, the elaborate carved facade and mountain setting that Demon Slayer fans often compare to the anime's Ubuyashiki estate and forested training grounds. Photo: Jpatokal / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Nikko_Toshogu_Yomeimon_Gate_2024.jpg), CC BY-SA 4.0.*
 
 
@@ -200,7 +200,7 @@ Technically possible with Kamakura + one nearby destination (Enoshima extends na
 
 **Which trips work best with the JR Pass?**
 
-Nikko and Oarai offer the best JR Pass value — both are fully on JR lines. Kamakura is partially covered. Chichibu is not covered at all (private Seibu Railway). Hakone is barely covered (the scenic route uses private Odakyu lines).
+Nikko and Oarai offer the best JR Pass value, both are fully on JR lines. Kamakura is partially covered. Chichibu is not covered at all (private Seibu Railway). Hakone is barely covered (the scenic route uses private Odakyu lines).
 
 **What’s the best order to schedule multiple day trips in a week?**
 
@@ -218,7 +218,7 @@ Kamakura (beach + train ride) and Hakone (pirate ship + ropeway) are the most fa
 ## More Area & Travel Guides
 
 - [Slam Dunk Kamakura Pilgrimage 2026](/articles/kamakura-slam-dunk-pilgrimage-2026)
-- [Demon Slayer × Meiji-mura 2026 — Aichi Pilgrimage Guide](/articles/demon-slayer-meiji-mura-aichi-pilgrimage-2026). A Nagoya day-trip that pairs naturally with the Tokyo-side day-trip routes above
+- [Demon Slayer × Meiji-mura 2026: Aichi Pilgrimage Guide](/articles/demon-slayer-meiji-mura-aichi-pilgrimage-2026). A Nagoya day-trip that pairs naturally with the Tokyo-side day-trip routes above
 - [Ranma 1/2 Japan 2026 Exhibition + Tree Village Pop-Up Guide](/articles/ranma-japan-2026-exhibition-tree-village-guide) — Ikebukuro Sunshine City exhibition (Apr 23 – May 12) plus Tree Village Tokyo / Osaka / Hakata pop-up cafe legs
 - [10 Anime Pilgrimage Spots in Tokyo (2026)](/articles/anime-pilgrimage-spots-tokyo)
 - [Ghibli Park Complete Guide 2026](/articles/ghibli-park-complete-guide-2026)

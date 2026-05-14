@@ -20,8 +20,8 @@ wpPostId: 105
 ---
 *Last updated: May 2026.*
 Quiet Tokyo neighborhood stairs, residential areas like Yotsuya hide famous anime locations
-Anime pilgrimage — called *seichi junrei* (聖地巡礼), literally “holy land pilgrimage”, is one of the most uniquely rewarding ways to experience Tokyo. You’re not sightseeing in the traditional sense. You’re standing in the exact spot where a fictional character stood, seeing the same view they saw, walking streets that exist simultaneously in the real world and in a story that moved you.
-A 2024 survey by Japan’s Tourism Agency found that nearly 12% of international visitors cited anime or film locations as a motivation for traveling to Japan. What started as a niche fan practice has become a genuine pillar of Japanese tourism — and Tokyo is ground zero.
+Anime pilgrimage, called *seichi junrei* (聖地巡礼), literally “holy land pilgrimage”, is one of the most uniquely rewarding ways to experience Tokyo. You’re not sightseeing in the traditional sense. You’re standing in the exact spot where a fictional character stood, seeing the same view they saw, walking streets that exist simultaneously in the real world and in a story that moved you.
+A 2024 survey by Japan’s Tourism Agency found that nearly 12% of international visitors cited anime or film locations as a motivation for traveling to Japan. What started as a niche fan practice has become a genuine pillar of Japanese tourism, and Tokyo is ground zero.
 Here are 10 locations you can visit today. No tickets, no reservations, no planning required, just your phone (with comparison screenshots saved) and comfortable walking shoes.
 **Anime pilgrimage (seichi junrei, 聖地巡礼) is the practice of visiting real-world locations in Japan that appeared as settings in anime, manga, or light novels, and Tokyo alone contains over 200 verified pilgrimage spots across all 23 wards.** The tradition has become a major driver of domestic and international tourism, with popular locations like the Jujutsu Kaisen Shibuya crossing and Your Name stairs in Yotsuya attracting thousands of fans each year.
 Across years of Japanese pilgrimage culture's evolution, the 10 spots below stay accessible as public space, confirm any private-property boundaries on the day. For the IP-specific deep dives this listicle only summarizes, see the dedicated [Naruto Tokyo pilgrimage walkthrough](/articles/naruto-tokyo-pilgrimage-2026); for the costume side of pilgrimage culture (rental + on-location shoots), the [Cosplay experience guide](/articles/cosplay-experience-tokyo-2026) is the companion reference. Logistics-side reading (transit passes, IC cards, luggage forwarding) lives in the [Experiences silo](/category/experiences) alongside other practical travel guides.
@@ -30,7 +30,7 @@ Across years of Japanese pilgrimage culture's evolution, the 10 spots below stay
 1. [Suga Shrine Stairs — Your Name](#spot1)
 2. [Shibuya Crossing. Weathering With You / Jujutsu Kaisen](#spot2)
 3. [Sensoji Temple. Demon Slayer](#spot3)
-4. [Akihabara — Steins;Gate](#spot4)
+4. [Akihabara. Steins;Gate](#spot4)
 5. [Ikebukuro. Durarara!!](#spot5)
 6. [Takadanobaba Station — Astro Boy](#spot6)
 7. [Inokashira Park. Various Anime & Ghibli](#spot7)
@@ -52,7 +52,7 @@ Nearly a decade after the film’s release, you’ll still find fans visiting ev
 | **Cost** | Free |
 [→ Read our complete Your Name pilgrimage guide with all Tokyo locations and a walking route](/articles/your-name-pilgrimage-tokyo/)
 
-## 2. Shibuya Crossing — [Weathering With You](/articles/weathering-with-you-locations-tokyo) / [Jujutsu Kaisen](/articles/jujutsu-kaisen-shibuya-locations-2026)
+## 2. Shibuya Crossing: [Weathering With You](/articles/weathering-with-you-locations-tokyo) / [Jujutsu Kaisen](/articles/jujutsu-kaisen-shibuya-locations-2026)
 
 ![Aerial view of Shibuya Scramble Crossing at night, a location featured in Weathering With You and the Jujutsu Kaisen Shibuya Incident arc](/images/articles/anime-pilgrimage-spots-tokyo/body-wikimedia-2.webp)
 *Shibuya scramble crossing from above, the recognizable backdrop for Weathering With You and the Jujutsu Kaisen Shibuya Incident arc. Photo: David Kernan / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Shibuya_Crossing,_Aerial.jpg), CC BY 4.0.*
@@ -63,7 +63,7 @@ The experience of walking through Shibuya after watching either series is notice
 | **Access** | Shibuya Station, any exit |
 | **Best angle** | For the aerial view: Shibuya Sky observation deck, 47F of Shibuya Scramble Square (¥2,200 online / ¥2,500 walk-up). For the street-level crossing experience: stand at the Hachiko exit and wait for the light to turn. |
 
-## 3. Sensoji Temple, Asakusa — Demon Slayer (Kimetsu no Yaiba)
+## 3. Sensoji Temple, Asakusa. Demon Slayer (Kimetsu no Yaiba)
 
 ![Sensoji Temple Hozomon Gate in Asakusa, the Taisho-era temple grounds that match the Demon Slayer aesthetic](/images/articles/anime-pilgrimage-spots-tokyo/body-wikimedia-3.webp)
 *Sensoji's Hozomon Gate in Asakusa. Tokyo's oldest temple and a Demon Slayer pilgrimage spot. Photo: LMP 2001 / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sensoji_Temple_Asakusa_Tokyo_2024-12-02.jpg), CC BY-SA 4.0.*
@@ -81,7 +81,7 @@ Sensoji. Tokyo’s oldest temple, founded in 645 AD — evokes the Taisho-era (1
 
 ![Akihabara Radio Kaikan exterior, the building that appears throughout Steins;Gate and the Electric Town skyline](/images/articles/anime-pilgrimage-spots-tokyo/body-wikimedia-4.webp)
 *Akihabara Radio Kaikan facade, the Electric Town landmark Suzuha falls past in the Steins;Gate opening, faithfully reproduced in the anime. Photo: Yuukokusya / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:AKIHABARA_New_Radio_Kaikan.jpg), CC BY-SA 4.0.*
-The science-fiction thriller Steins;Gate is set almost entirely in Akihabara, and the real neighborhood is reproduced with documentary-level accuracy. Radio Kaikan (the yellow-facade building at the Electric Town exit — see our [complete Akihabara guide](/articles/akihabara-complete-guide-2026) for floor-by-floor details), the UDX building, and specific street corners and side alleys all appear in the anime exactly as they look in real life.
+The science-fiction thriller Steins;Gate is set almost entirely in Akihabara, and the real neighborhood is reproduced with documentary-level accuracy. Radio Kaikan (the yellow-facade building at the Electric Town exit, see our [complete Akihabara guide](/articles/akihabara-complete-guide-2026) for floor-by-floor details), the UDX building, and specific street corners and side alleys all appear in the anime exactly as they look in real life.
 What makes this pilgrimage special: unlike locations from period pieces or fantasy anime, Akihabara hasn’t changed much since Steins;Gate aired. Walking through the neighborhood with screenshots on your phone produces an uncanny sense of inhabiting the show, the buildings, signs, and street layouts match almost perfectly.
 | **Anime** | Steins;Gate / シュタインズ・ゲート (2011) |
 | --- | --- |
@@ -89,7 +89,7 @@ What makes this pilgrimage special: unlike locations from period pieces or fanta
 | **Access** | JR Akihabara Station, Electric Town Exit |
 [→ Read our complete Akihabara guide for everything else to do in the area](/articles/akihabara-complete-guide-2026/)
 
-## 5. [Ikebukuro](/articles/ikebukuro-anime-guide-2026) — Durarara!!
+## 5. [Ikebukuro](/articles/ikebukuro-anime-guide-2026): Durarara!!
 
 ![Sunshine 60 Street in Ikebukuro, the main avenue from the Durarara!! anime, lined with shops and signage](/images/articles/anime-pilgrimage-spots-tokyo/body-wikimedia-5.webp)
 *Sunshine 60 Street in Ikebukuro, the main avenue running east from the station that anchors most Durarara!! key scenes. Photo: Asanagi / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sunshine_60_Street_2020-04-19.jpg), CC0.*
@@ -163,22 +163,22 @@ Visiting anime filming locations is more fun with a local guide who knows the ex
 ## Planning Your Pilgrimage
 **Use the Butai Meguri app.** This dedicated pilgrimage app (iOS/Android) provides maps, exact camera positions, and AR character overlays for anime locations across Japan. The interface is in Japanese, but the visual maps and location pins work regardless of language ability.
 **Save comparison screenshots before your trip.** Download or screenshot the specific anime scenes you want to recreate, and save them to a dedicated folder on your phone. On-site, hold up the screenshot next to the real view for a side-by-side comparison photo. These posts consistently perform extremely well on social media.
-**Respect every location.** Many pilgrimage spots are residential neighborhoods, active shrines, or real transportation infrastructure — not theme parks. Take photos quickly, don’t block pedestrian traffic, keep noise levels appropriate, and never enter private property. The continued welcome that fans receive at these locations depends on visitors being respectful.
+**Respect every location.** Many pilgrimage spots are residential neighborhoods, active shrines, or real transportation infrastructure, not theme parks. Take photos quickly, don’t block pedestrian traffic, keep noise levels appropriate, and never enter private property. The continued welcome that fans receive at these locations depends on visitors being respectful.
 **Combine pilgrimage with other activities.** Most of these locations are in or near neighborhoods with plenty of other things to do. After visiting the Suga Shrine stairs, explore Shinjuku. After Akihabara’s Steins;Gate spots, browse the anime shops. After Kamakura’s Slam Dunk crossing, visit the Great Buddha and the beach. Don’t just visit the single spot and leave, let the pilgrimage be a doorway into the neighborhood.
 *Related guides:*
 - [Your Name Pilgrimage Tokyo: Every Location With Walking Route](/articles/your-name-pilgrimage-tokyo/)
-- [Tokyo Anime Collab Cafes — Spring 2026 Guide](/articles/tokyo-anime-collab-cafes-spring-2026/)
+- [Tokyo Anime Collab Cafes. Spring 2026 Guide](/articles/tokyo-anime-collab-cafes-spring-2026/)
 - [Akihabara: The Complete Pop Culture Guide for 2026](/articles/akihabara-complete-guide-2026/)
 - [Ikebukuro for Anime Fans: Animate, Otome Road & Beyond](/articles/ikebukuro-anime-guide-2026/)
 *Japan Pop Now is a Tokyo-based English-language media covering Japanese pop culture for international visitors. We specialize in information that’s usually only available in Japanese, collab cafes, anime events, limited-edition merchandise, and the spots that guidebooks don’t cover.*
 
 ## Related Guides
 - [Demon Slayer Pilgrimage Tokyo. Every Real Location from Kimetsu no Yaiba](/articles/demon-slayer-pilgrimage-tokyo/)
-- [Weathering With You Locations Tokyo — Every Real Spot from Tenki no Ko](/articles/weathering-with-you-locations-tokyo/)
+- [Weathering With You Locations Tokyo. Every Real Spot from Tenki no Ko](/articles/weathering-with-you-locations-tokyo/)
 - [JR Pass Anime Pilgrimages 2026. Routes, Prices & Whether It Saves You Money](/articles/japan-rail-pass-2026-guide/)
 - [Best Anime Tours Tokyo 2026. Klook vs Viator Compared](/articles/best-anime-tours-tokyo-2026/)
 - [Japan Trip Checklist for Anime Fans 2026](/articles/japan-trip-checklist-anime-fans-2026/)
-- [One Piece Kumamoto Statue Tour — All 10 Straw Hat Statues](/articles/one-piece-kumamoto-statue-tour/)
+- [One Piece Kumamoto Statue Tour. All 10 Straw Hat Statues](/articles/one-piece-kumamoto-statue-tour/)
 **Follow [@pop_now_jp](https://www.threads.net/@pop_now_jp)** for daily Tokyo pop culture updates.
 
 ### New In-Depth Pilgrimage Guides

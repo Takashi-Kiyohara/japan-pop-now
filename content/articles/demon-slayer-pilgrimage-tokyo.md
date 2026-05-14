@@ -35,9 +35,9 @@ A note before the routes, because timing changes how this trip feels.
 
 **Goods note.** The Mugen Castle Chapter 1 theatrical exclusives (clear cards, pamphlets, Akaza acrylic stands) are now resale-only via Animate Akihabara/Ikebukuro secondhand counters, Mandarake, and Surugaya. Prices have stabilized but Akaza-focused goods still carry a premium.
 
-Demon Slayer is set in Taisho-era Japan (1912-1926), and the creators drew heavily from real locations. Tanjiro’s mountain home, the streets where he first meets Muzan, the Entertainment District arc’s setting — they all have real-world counterparts you can visit today.
+Demon Slayer is set in Taisho-era Japan (1912-1926), and the creators drew heavily from real locations. Tanjiro’s mountain home, the streets where he first meets Muzan, the Entertainment District arc’s setting, they all have real-world counterparts you can visit today.
 
-Tokyo and its surrounding areas hold most of the key spots. Some are famous tourist destinations you’d visit anyway. Others are quiet neighborhood shrines where dedicated fans go to collect special Demon Slayer-themed goshuin (temple seals). And then there’s Mt. Kumotori. Tanjiro’s actual hometown — which is a full-day mountain hike in western Tokyo.
+Tokyo and its surrounding areas hold most of the key spots. Some are famous tourist destinations you’d visit anyway. Others are quiet neighborhood shrines where dedicated fans go to collect special Demon Slayer-themed goshuin (temple seals). And then there’s Mt. Kumotori. Tanjiro’s actual hometown, which is a full-day mountain hike in western Tokyo.
 
 This guide covers every visitable Demon Slayer location in and around Tokyo, organized by area so you can combine multiple spots into efficient routes.
 
@@ -49,7 +49,7 @@ The match between anime and reality is strong. Senso-ji’s Nakamise Shopping St
 
 
 ![Kaminarimon (Thunder Gate) at Senso-ji Temple in Asakusa, the landmark that opens the Taisho-era streets referenced throughout Demon Slayer](/images/articles/demon-slayer-pilgrimage-tokyo/body-kaminarimon.webp)
-*Kaminarimon at Senso-ji, Asakusa — the gate that anchors the Demon Slayer Tokyo pilgrimage route. Photo: Daderot / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kaminarimon_%28outer_gate%29%2C_Sensoji_Temple%2C_Akakusa%2C_Tokyo.jpg), Public domain.*
+*Kaminarimon at Senso-ji, Asakusa, the gate that anchors the Demon Slayer Tokyo pilgrimage route. Photo: Daderot / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kaminarimon_%28outer_gate%29%2C_Sensoji_Temple%2C_Akakusa%2C_Tokyo.jpg), Public domain.*
 
 | **Location** | Senzoku 4-chome, Taito-ku, Tokyo (former Yoshiwara) |
 | --- | --- |
@@ -58,7 +58,7 @@ The match between anime and reality is strong. Senso-ji’s Nakamise Shopping St
 | **Admission** | Free (outdoor walking) |
 
 
-![Senso-ji Temple complex in Asakusa with the five-story pagoda and main hall — the Taisho-era backdrop the anime renders for the Tanjiro and Nezuko sequences](/images/articles/demon-slayer-pilgrimage-tokyo/body-wikimedia-2.webp)
+![Senso-ji Temple complex in Asakusa with the five-story pagoda and main hall, the Taisho-era backdrop the anime renders for the Tanjiro and Nezuko sequences](/images/articles/demon-slayer-pilgrimage-tokyo/body-wikimedia-2.webp)
 *Senso-ji Temple, Asakusa, the wider complex behind Kaminarimon, including the Hozomon gate, Nakamise shopping street, and the five-story pagoda referenced in Demon Slayer's Tokyo arc. Photo: Bernard Spragg / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sens%C5%8D-ji._Asakusa_Tokyo._(41781495365).jpg), Public domain.*
 
 
@@ -66,7 +66,7 @@ The match between anime and reality is strong. Senso-ji’s Nakamise Shopping St
 Two Tokyo shrines serve as “guardian shrines” (産土神社 / ubusuna jinja) for Demon Slayer characters, based on the characters’ canonical birthplaces. Both offer special Demon Slayer-themed goshuin, the vermilion seal stamps that Japanese shrines give as proof of visit. These two shrines participate in an official “Ubusuna Holy Land Two Shrines Tour” that dedicated fans collect.
 
 
-### Numabukuro Hikawa Shrine — Tomioka Giyu (Water Pillar)
+### Numabukuro Hikawa Shrine. Tomioka Giyu (Water Pillar)
 This small, quiet shrine in Nakano ward is the guardian shrine for Tomioka Giyu, the Water Pillar, the first Hashira Tanjiro encounters and the character who changes his fate by sparing Nezuko. The shrine was founded in 1346 and is a genuine historical site, not a commercial tie-in. The Demon Slayer connection brought a new wave of visitors, and the shrine now offers special character-themed goshuin for fans.
 
 | **Location** | 1-31-4 Numabukuro, Nakano-ku, Tokyo |
@@ -78,7 +78,7 @@ This small, quiet shrine in Nakano ward is the guardian shrine for Tomioka Giyu,
 
 
 ### Takinogawa Hachiman Shrine. Kocho Shinobu (Insect Pillar)
-The guardian shrine for Kocho Shinobu, the Insect Pillar. Located in Kita-ku, this 800-year-old shrine offers a butterfly-designed goshuin — fitting for a character whose combat techniques use butterfly motifs. The shrine is in a residential neighborhood, far from tourist areas, which makes it feel like a genuine pilgrimage rather than a tourist stop.
+The guardian shrine for Kocho Shinobu, the Insect Pillar. Located in Kita-ku, this 800-year-old shrine offers a butterfly-designed goshuin, fitting for a character whose combat techniques use butterfly motifs. The shrine is in a residential neighborhood, far from tourist areas, which makes it feel like a genuine pilgrimage rather than a tourist stop.
 
 | **Location** | 5-26-15 Takinogawa, Kita-ku, Tokyo |
 | --- | --- |
@@ -128,7 +128,7 @@ A pop-up food event that returns periodically to major department stores in Toky
 
 
 ### Sweets Paradise Collaborations
-Sweets Paradise, a buffet-style dessert restaurant chain — regularly runs Demon Slayer collaborations at multiple locations across Japan. These typically require advance reservation through [Lawson Ticket](/articles/lawson-ticket-anime-cafe-booking/). The advantage: Sweets Paradise has locations in Shinjuku, Ikebukuro, Shibuya, and beyond, so you have more venue options.
+Sweets Paradise, a buffet-style dessert restaurant chain, regularly runs Demon Slayer collaborations at multiple locations across Japan. These typically require advance reservation through [Lawson Ticket](/articles/lawson-ticket-anime-cafe-booking/). The advantage: Sweets Paradise has locations in Shinjuku, Ikebukuro, Shibuya, and beyond, so you have more venue options.
 
 
 ## Demon Slayer Merchandise in Tokyo
@@ -207,9 +207,9 @@ A local guide takes you to every Kimetsu no Yaiba filming location in Tokyo, exp
 
 ### More Anime Pilgrimages
 
-- [Jujutsu Kaisen Shibuya Pilgrimage Guide](/articles/jujutsu-kaisen-shibuya-locations-2026/) — Walk the real Shibuya locations from JJK
+- [Jujutsu Kaisen Shibuya Pilgrimage Guide](/articles/jujutsu-kaisen-shibuya-locations-2026/): Walk the real Shibuya locations from JJK
 - [Weathering With You Locations Tokyo](/articles/weathering-with-you-locations-tokyo/). Another Shinkai masterpiece pilgrimage
-- [SPY×FAMILY Tokyo Fan Day Guide](/articles/spy-family-tokyo-fan-day-2026/) — Visit real Tokyo spots from SPY×FAMILY
+- [SPY×FAMILY Tokyo Fan Day Guide](/articles/spy-family-tokyo-fan-day-2026/): Visit real Tokyo spots from SPY×FAMILY
 - [One Piece Kumamoto Statue Tour](/articles/one-piece-kumamoto-statue-tour/). A day trip pilgrimage for One Piece fans
 - [Anime Collab Cafe Calendar](https://japan-pop-now.com/collab-cafe-calendar/) — Check for Demon Slayer collabs during your visit
 - [Japan IC Card & Transit Guide](/articles/japan-ic-card-transit-guide/). Navigate between pilgrimage spots easily

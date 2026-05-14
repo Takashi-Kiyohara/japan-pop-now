@@ -42,7 +42,7 @@ The mistake most visitors make is going to Akihabara and thinking they’ve seen
 | **Harajuku** | Kawaii culture, character goods, Sanrio, street fashion | Colorful, youthful, creative | 2–4 hours |
 
 
-## Akihabara — The One Everyone Knows
+## Akihabara. The One Everyone Knows
 **[Read our complete Akihabara guide →](/articles/akihabara-complete-guide-2026)**
 
 Akihabara is the world’s most famous anime district for a reason. The concentration of shops per square meter is unmatched. You can walk from one end of the main strip to the other in 15 minutes, passing multi-story anime retailers, figure shops, manga stores, arcades, maid cafes, and trading card specialists on every block.
@@ -55,7 +55,7 @@ Akihabara is the world’s most famous anime district for a reason. The concentr
 
 Read the full guide: [Akihabara Complete Guide 2026](/articles/akihabara-complete-guide-2026/)
 
-| **Station** | JR Akihabara Station (Yamanote Line, Chuo-Sobu Line) — Electric Town Exit |
+| **Station** | JR Akihabara Station (Yamanote Line, Chuo-Sobu Line): Electric Town Exit |
 | --- | --- |
 | **Also served by** | Tokyo Metro Hibiya Line, Tsukuba Express |
 | **Peak hours** | Weekday: 14:00–19:00. Weekend: 12:00–18:00 (extremely crowded) |
@@ -69,7 +69,7 @@ Read the full guide: [Akihabara Complete Guide 2026](/articles/akihabara-complet
 ![Ikebukuro skyline from Sunshine 60 Observatory, the Sunshine City and Otome Road area is the heart of female-oriented anime fandom in Tokyo](/images/articles/tokyo-anime-district-guide/body-ikebukuro.webp)
 *Photo: Guilhem Vellut / Wikimedia Commons, CC BY 2.0*
 
-If Akihabara leans male-oriented (shonen, mecha, figure collecting), Ikebukuro is its counterpart. **Otome Road** — a stretch of shops along the east side of Sunshine 60 Street, is the heart of Japan’s female fandom scene. BL (boys’ love), otome games, voice actor goods, idol merchandise, and doujinshi for every ship imaginable.
+If Akihabara leans male-oriented (shonen, mecha, figure collecting), Ikebukuro is its counterpart. **Otome Road**, a stretch of shops along the east side of Sunshine 60 Street, is the heart of Japan’s female fandom scene. BL (boys’ love), otome games, voice actor goods, idol merchandise, and doujinshi for every ship imaginable.
 
 But Ikebukuro isn’t only for female fans. It’s also home to:
 
@@ -91,7 +91,7 @@ Read the full guide: [Ikebukuro Anime Guide 2026](/articles/ikebukuro-anime-guid
 **[Read our Nakano Broadway guide →](/articles/nakano-broadway-guide)**
 
 
-![Nakano Broadway entrance signage — the vertical shopping complex housing the Mandarake secondhand anime empire across four floors](/images/articles/tokyo-anime-district-guide/body-nakano.webp)
+![Nakano Broadway entrance signage, the vertical shopping complex housing the Mandarake secondhand anime empire across four floors](/images/articles/tokyo-anime-district-guide/body-nakano.webp)
 *Photo: User:Kentin / Wikimedia Commons, CC BY-SA 3.0*
 
 Five minutes from Shinjuku on the JR Chuo Line, Nakano Broadway is a vertical shopping complex with over 300 shops across four floors. This is where Mandarake, the world’s largest secondhand anime retailer — was born in 1980, and where they operate **over 30 individual specialty stores** under one roof.
@@ -115,7 +115,7 @@ Read the full guide: [Nakano Broadway Guide. Tokyo’s Best-Kept Anime Secret](/
 ![Shibuya night-life street near Shibuya PARCO, the building's 6th floor concentrates Nintendo TOKYO, Pokemon Center Shibuya, Jump Shop, Capcom Store and Godzilla Store in one place](/images/articles/tokyo-anime-district-guide/body-shibuya-parco.webp)
 *Photo: Syced / Wikimedia Commons, CC0*
 
-Shibuya’s pop culture identity has crystallized around **Shibuya PARCO**, where the entire 6th floor — branded “Cyberspace SHIBUYA”, houses Nintendo TOKYO, Pokémon Center Shibuya, Jump Shop, Capcom Store, and Godzilla Store, all in one place. It’s the most efficient single-floor anime/gaming shopping experience in Tokyo.
+Shibuya’s pop culture identity has crystallized around **Shibuya PARCO**, where the entire 6th floor, branded “Cyberspace SHIBUYA”, houses Nintendo TOKYO, Pokémon Center Shibuya, Jump Shop, Capcom Store, and Godzilla Store, all in one place. It’s the most efficient single-floor anime/gaming shopping experience in Tokyo.
 
 Beyond PARCO, Shibuya offers MEGA Don Quijote’s 24-hour cosplay and anime goods floor, Tower Records’ anime music section with rotating pop-up collaborations, and MAGNET by SHIBUYA109’s gacha-gacha paradise and anime collab stores.
 
@@ -123,12 +123,12 @@ Shibuya doesn’t feel like an “anime district” the way Akihabara does. It f
 
 Read the full guide: [Shibuya & Harajuku Pop Culture Guide](/articles/shibuya-harajuku-pop-culture-guide/)
 
-| **Station** | JR Shibuya Station (Yamanote Line) — Hachiko Exit |
+| **Station** | JR Shibuya Station (Yamanote Line): Hachiko Exit |
 | --- | --- |
 | **Key destination** | Shibuya PARCO 6F. 7 min walk uphill from the station |
 
 
-## Harajuku — Where Kawaii Culture Lives
+## Harajuku. Where Kawaii Culture Lives
 
 
 ![Takeshita Street kawaii banner in Harajuku Tokyo, the visual source code of Japanese pop culture and home to Kiddy Land and Sanrio Kawaii Factory](/images/articles/tokyo-anime-district-guide/body-harajuku.webp)
@@ -226,7 +226,7 @@ A guided anime district tour hits Akihabara, Ikebukuro, and Nakano in a single d
 
 - [Akihabara Complete Guide 2026](/articles/akihabara-complete-guide-2026/)
 - [Ikebukuro Anime Guide 2026](/articles/ikebukuro-anime-guide-2026/)
-- [Nakano Broadway Guide — Tokyo’s Best-Kept Anime Secret](/articles/nakano-broadway-guide/)
+- [Nakano Broadway Guide. Tokyo’s Best-Kept Anime Secret](/articles/nakano-broadway-guide/)
 - [Shibuya & Harajuku Pop Culture Guide. Beyond the Tourist Surface](/articles/shibuya-harajuku-pop-culture-guide/)
 - [How to Book an Anime Collab Cafe in Japan](/articles/how-to-book-anime-collab-cafe-japan/)
 - [10 Anime Pilgrimage Spots in Tokyo You Can Visit Today](/articles/anime-pilgrimage-spots-tokyo/)
@@ -249,9 +249,9 @@ A guided anime district tour hits Akihabara, Ikebukuro, and Nakano in a single d
 
 ### Explore Specific Tokyo Neighborhoods
 
-- [Jujutsu Kaisen Shibuya Pilgrimage Guide](/articles/jujutsu-kaisen-shibuya-locations-2026) — Walk the real Shibuya locations from JJK with maps, photos, and access tips
+- [Jujutsu Kaisen Shibuya Pilgrimage Guide](/articles/jujutsu-kaisen-shibuya-locations-2026): Walk the real Shibuya locations from JJK with maps, photos, and access tips
 - [SPY×FAMILY Tokyo Location Guide](/spy-family-tokyo-guide/). Visit real Tokyo spots from SPY×FAMILY including cafes, parks, and event venues
-- [Best Anime Hotels & Themed Rooms in Japan](/anime-hotels-themed-rooms-tokyo/) — Stay in anime-themed rooms across Tokyo and Japan, from Shibuya to Akihabara
+- [Best Anime Hotels & Themed Rooms in Japan](/anime-hotels-themed-rooms-tokyo/): Stay in anime-themed rooms across Tokyo and Japan, from Shibuya to Akihabara
 - [AnimeJapan & Comiket Survival Guide](/animejapan-comiket-guide/). Everything you need for Japan’s biggest anime events at Tokyo Big Sight
 
 Planning a trip to Tokyo?

@@ -21,7 +21,7 @@ wpPostId: 106
 Quiet Tokyo neighborhood stairs, residential areas like Yotsuya hide famous anime locations
 In 2016, Makoto Shinkai’s “Your Name” (*Kimi no Na wa* / 君の名は。) became the highest-grossing anime film of its time and introduced millions of international viewers to the concept of anime pilgrimage. Nearly a decade later, the stairs at Suga Shrine in Shinjuku’s Yotsuya neighborhood still draw fans from around the world — smartphones held up to match the exact angle of the film’s final, devastating scene.
 But the film’s real-life locations extend far beyond that one famous staircase. Shinkai and his team reproduced every Tokyo location with obsessive accuracy, the handrails, the surrounding buildings, the precise angle of afternoon light. Visiting these locations in sequence creates a walking route that takes you through parts of Tokyo that most tourists never see, and that hits differently once you’ve watched the film.
-This is *seichi junrei* (聖地巡礼) — “holy land pilgrimage.” The practice of visiting real places that inspired anime scenes. And “Your Name” remains one of the most rewarding anime to do it with.
+This is *seichi junrei* (聖地巡礼): “holy land pilgrimage.” The practice of visiting real places that inspired anime scenes. And “Your Name” remains one of the most rewarding anime to do it with.
 
 ## Table of Contents
 - [Location 1: Suga Shrine Stairs (The Famous Scene)](#suga)
@@ -36,11 +36,11 @@ This is *seichi junrei* (聖地巡礼) — “holy land pilgrimage.” The pract
 ## Location 1: Suga Shrine Stairs. The Final Scene
 
 ![Suga Shrine stairs in Yotsuya, Tokyo, the iconic Your Name (Kimi no Na wa) ending-scene location](/images/articles/your-name-pilgrimage-tokyo/body-wikimedia-1.webp)
-*Photo: Hisagi / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Suga_Shrine_stairs_low-angle_20161113-071158.jpg), CC BY-SA 4.0. Suga Shrine stairs in Yotsuya — the literal Your Name ending-scene location.*
+*Photo: Hisagi / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Suga_Shrine_stairs_low-angle_20161113-071158.jpg), CC BY-SA 4.0. Suga Shrine stairs in Yotsuya, the literal Your Name ending-scene location.*
 Tokyo residential stairway, the kind of everyday scenery that Makoto Shinkai captures in his films
 
 ![Suga Shrine torii gate in Yotsuya, the shrine above the famous staircase from the Your Name climax](/images/articles/your-name-pilgrimage-tokyo/body-wikimedia.webp)
-*Suga Shrine (Suga-jinja), Yotsuya — the torii gate at the top of the stairs where Taki and Mitsuha finally meet in Your Name's final scene. Photo: Monado / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Suga_jinja.jpg), CC BY-SA 2.5.*
+*Suga Shrine (Suga-jinja), Yotsuya, the torii gate at the top of the stairs where Taki and Mitsuha finally meet in Your Name's final scene. Photo: Monado / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Suga_jinja.jpg), CC BY-SA 2.5.*
 This is the pilgrimage’s centerpiece. The staircase where Taki and Mitsuha finally meet again in the film’s climactic final scene. Shinkai’s team captured the location with near-photographic precision: the red handrails, the surrounding residential buildings, the way light falls across the steps in the late afternoon.
 A traditional shrine gate in Tokyo, quiet sanctuaries tucked away between modern buildings
 Standing at the top of these stairs and looking down is one of those moments where the boundary between fiction and reality blurs. You’ve seen this exact view dozens of times in screenshots and fan photos, but the physical experience of being there, feeling the air and hearing the neighborhood sounds that the film couldn’t capture, adds a dimension that no screen can replicate.
@@ -60,13 +60,13 @@ Multiple scenes in the film are set around Shinjuku Station’s southern exit ar
 | **Best angle** | From the overpass looking south toward the DOCOMO Tower, especially at twilight. The film uses several scenes set at this blue-orange moment. |
 
 ## Location 3: Shinanomachi Station Area
-The area around Shinanomachi Station on the JR Sobu Line appears in several scenes. The pedestrian bridge crossing over the train tracks and the view of the station platform are both reproduced in the film. This is one of the quieter locations — you may have the spot entirely to yourself, especially on weekdays.
+The area around Shinanomachi Station on the JR Sobu Line appears in several scenes. The pedestrian bridge crossing over the train tracks and the view of the station platform are both reproduced in the film. This is one of the quieter locations, you may have the spot entirely to yourself, especially on weekdays.
 | **Access** | JR Shinanomachi Station (信濃町駅) on the Sobu Line. The station itself is the starting point, walk the pedestrian bridge for the best views. |
 | --- | --- |
 | **Best moment** | When a train passes through the station while you’re on the pedestrian bridge. The motion and sound add to the cinematic feeling. |
 
 ## Location 4: National Art Center, Tokyo (Roppongi)
-The distinctive undulating glass facade of the National Art Center appears in the film as a background element. The building itself — designed by architect Kisho Kurokawa, is architecturally stunning regardless of its anime connection. The interior cafe (on an elevated cone-shaped platform) offers one of the best views in Roppongi.
+The distinctive undulating glass facade of the National Art Center appears in the film as a background element. The building itself, designed by architect Kisho Kurokawa, is architecturally stunning regardless of its anime connection. The interior cafe (on an elevated cone-shaped platform) offers one of the best views in Roppongi.
 
 ![National Art Center Tokyo, the undulating glass facade designed by Kisho Kurokawa that appears in Your Name's Roppongi scenes](/images/articles/your-name-pilgrimage-tokyo/body-wikimedia-2.webp)
 *National Art Center, Tokyo, the Roppongi glass facade referenced in the film's backgrounds. Photo: Kakidai / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2018_National_Art_Center,_Tokyo_2.jpg), CC BY-SA 4.0.*
@@ -77,7 +77,7 @@ The distinctive undulating glass facade of the National Art Center appears in th
 | **Entry** | Building is free to enter. Individual exhibitions charge separately (typically ¥1,500–2,500). |
 
 ## Location 5: Yotsuya Station & Surrounding Streets
-Yotsuya Station appears directly in several scenes, and the residential streets between the station and Suga Shrine serve as backgrounds throughout the film. These quiet, hilly streets with their mix of old and new architecture give you a sense of the “everyday Tokyo” that Shinkai captures so well — the version of the city that exists between the famous landmarks.
+Yotsuya Station appears directly in several scenes, and the residential streets between the station and Suga Shrine serve as backgrounds throughout the film. These quiet, hilly streets with their mix of old and new architecture give you a sense of the “everyday Tokyo” that Shinkai captures so well, the version of the city that exists between the famous landmarks.
 | **Access** | JR Yotsuya Station (四ツ谷駅), same station as Location 1. Start here and walk to Suga Shrine. |
 | --- | --- |
 
@@ -85,7 +85,7 @@ Yotsuya Station appears directly in several scenes, and the residential streets 
 You can visit all the main Tokyo locations in a single half-day walk. Here’s the most efficient route:
 | **Time** | **Location** | **How** |
 | --- | --- | --- |
-| 13:00 | Start at JR Yotsuya Station (South Exit) | — |
+| 13:00 | Start at JR Yotsuya Station (South Exit) |: |
 | 13:00–13:15 | Yotsuya Station surroundings | Walk and photograph |
 | 13:15–13:45 | Walk to Suga Shrine stairs | 10 min walk through residential streets. Take your time, the walk is part of the experience. |
 | 13:45–14:15 | Suga Shrine stairs + shrine visit | The main event. Spend as long as you want. |
@@ -127,7 +127,7 @@ A local guide takes you to every filming location from Your Name, explains the s
 - [SPY×FAMILY Tokyo Fan Day Guide](/articles/spy-family-tokyo-fan-day-2026/). Another great pilgrimage through Tokyo
 - [Shibuya & Harajuku Pop Culture Guide](/articles/shibuya-harajuku-pop-culture-guide/). Explore the area around Suga Shrine
 - [Ikebukuro Anime Guide 2026](/articles/ikebukuro-anime-guide-2026/). Continue your anime tour in Ikebukuro
-- [Japan IC Card & Transit Guide](/articles/japan-ic-card-transit-guide/) — Navigate between pilgrimage spots easily
+- [Japan IC Card & Transit Guide](/articles/japan-ic-card-transit-guide/): Navigate between pilgrimage spots easily
 - [Anime Collab Cafe Calendar](https://japan-pop-now.com/collab-cafe-calendar/). Check for Your Name or Shinkai collabs during your visit
 **Follow [@pop_now_jp](https://www.threads.net/@pop_now_jp)** for daily Tokyo pop culture updates.
 *Japan Pop Now is a Tokyo-based English-language media covering Japanese pop culture for international visitors.*

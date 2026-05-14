@@ -63,15 +63,15 @@ Here’s everything running or confirmed as of April 2026:
 | **Gosho Aoyama Museum (special exhibit)** | Tottori | Ongoing | ~¥1,000 (~$7) |
 
 
-![Yokohama Minato Mirai 21 waterfront — setting of Detective Conan 29th movie Highway’s Fallen Angel](/images/articles/detective-conan-pilgrimage-events-2026/body-wikimedia-5.webp)
+![Yokohama Minato Mirai 21 waterfront, setting of Detective Conan 29th movie Highway’s Fallen Angel](/images/articles/detective-conan-pilgrimage-events-2026/body-wikimedia-5.webp)
 
 
 ### The 29th Movie: Highway’s Fallen Angel (ハイウェイの堕天使)
-Opening April 10, the 29th Conan theatrical film features Hagiwara Chihaya — nicknamed the “Wind Goddess”, in her big-screen debut. The setting is Yokohama Minato Mirai, built around a motorcycle festival that turns into a high-speed chase through the city. See the [official film site at conan-movie.jp](https://www.conan-movie.jp/) for theater listings, ticket presales, and key visuals. For pilgrimage fans, this means Yokohama gets a fresh batch of Conan-related real-world locations to visit. The movie’s Yokohama connections overlap with existing attractions like the Cup Noodles Museum and Cosmo Clock 21 Ferris wheel — all within the Minato Mirai waterfront area.
+Opening April 10, the 29th Conan theatrical film features Hagiwara Chihaya, nicknamed the “Wind Goddess”, in her big-screen debut. The setting is Yokohama Minato Mirai, built around a motorcycle festival that turns into a high-speed chase through the city. See the [official film site at conan-movie.jp](https://www.conan-movie.jp/) for theater listings, ticket presales, and key visuals. For pilgrimage fans, this means Yokohama gets a fresh batch of Conan-related real-world locations to visit. The movie’s Yokohama connections overlap with existing attractions like the Cup Noodles Museum and Cosmo Clock 21 Ferris wheel, all within the Minato Mirai waterfront area.
 
 
 ### 30th Anniversary TV Anime Exhibition
-The biggest Conan event of 2026. This touring exhibition covers the entire production process — from manga to animation to theme songs, with famous scene recreations, production materials, and a special screening theater. The Tokyo run at Tokyo Dome City Prism Hall ended in March, but the tour continues:
+The biggest Conan event of 2026. This touring exhibition covers the entire production process, from manga to animation to theme songs, with famous scene recreations, production materials, and a special screening theater. The Tokyo run at Tokyo Dome City Prism Hall ended in March, but the tour continues:
 
 | City | Dates | Venue |
 | --- | --- | --- |
@@ -90,7 +90,7 @@ Tickets are available through [Lawson Ticket (l-tike.com)](https://l-tike.com/) 
 ## Where Are the Best Conan Pilgrimage Spots in Tokyo?
 
 
-![Tokyo Tower at night — appears as Toto Tower in Detective Conan series](/images/articles/detective-conan-pilgrimage-events-2026/body-wikimedia-3.webp)
+![Tokyo Tower at night, appears as Toto Tower in Detective Conan series](/images/articles/detective-conan-pilgrimage-events-2026/body-wikimedia-3.webp)
 
 Detective Conan is set in the fictional Beika City (米花町), but the Tokyo landmarks that appear throughout the series are very real:
 
@@ -100,7 +100,7 @@ Detective Conan is set in the fictional Beika City (米花町), but the Tokyo la
 
 **Shibuya Scramble Crossing:** Featured in several major cases, including movie scenes where the crossing becomes a crime scene. Free to visit, just walk through it. The Shibuya Sky observation deck (¥2,000) gives you the overhead view that matches several anime frames.
 
-**Sunshine City, Ikebukuro:** Currently hosting the 8th Conan collaboration event — titled "Detective Conan: The Sky City Soaring Through Heaven" — through June 7, 2026, with a Restaurant Fair running April 8–June 7 per the [official Sunshine City event page](https://sunshinecity.jp/). The observation deck "Tenbo Park" at the top of Sunshine 60 and the Sunshine Aquarium are both participating venues. Mystery-solving rally events run in two phases with different storylines. A Detective Conan Plaza pop-up store sells exclusive merchandise on the observation deck floor. A dedicated event microsite at [conan-sunshinecity.com](https://conan-sunshinecity.com/) carries the full attraction map.
+**Sunshine City, Ikebukuro:** Currently hosting the 8th Conan collaboration event, titled "Detective Conan: The Sky City Soaring Through Heaven" — through June 7, 2026, with a Restaurant Fair running April 8–June 7 per the [official Sunshine City event page](https://sunshinecity.jp/). The observation deck "Tenbo Park" at the top of Sunshine 60 and the Sunshine Aquarium are both participating venues. Mystery-solving rally events run in two phases with different storylines. A Detective Conan Plaza pop-up store sells exclusive merchandise on the observation deck floor. A dedicated event microsite at [conan-sunshinecity.com](https://conan-sunshinecity.com/) carries the full attraction map.
 
 
 ## How Do You Get Tickets for the Sunshine City Conan Event?
@@ -129,7 +129,7 @@ The Conan Cafe consistently produces some of the highest-quality collab cafe foo
 
 Prices run ¥990 for drinks, ¥1,200-1,990 for food items, and ¥1,100-2,200 for merchandise items. A typical visit (one food item + one drink + one merch piece) totals around ¥3,500 (~$24).
 
-For Tokyo visitors, the Ikebukuro cafe location is strategically smart — you can combine it with the Sunshine City Conan event (10-minute walk) for a full Conan half-day. Reservations are through the [official cafe site at conan-cafe.jp](https://conan-cafe.jp/). The Ikebukuro Phase 2 run (May 20 – August 2) will be easier to book than Phase 1, which overlaps with movie release hype.
+For Tokyo visitors, the Ikebukuro cafe location is strategically smart, you can combine it with the Sunshine City Conan event (10-minute walk) for a full Conan half-day. Reservations are through the [official cafe site at conan-cafe.jp](https://conan-cafe.jp/). The Ikebukuro Phase 2 run (May 20 – August 2) will be easier to book than Phase 1, which overlaps with movie release hype.
 
 
 ## How Do You Visit Conan Town in Tottori?
@@ -171,11 +171,11 @@ USJ park admission starts at ¥8,600 (~$59) for a 1-day pass, with date-based pr
 ## FAQ: Frequently Asked Questions
 **What’s the best single Conan event if I can only visit one?**
 
-For accessibility and value, the Sunshine City collaboration in Ikebukuro. It’s mostly free, doesn’t require advance booking, runs through June 7, and you can combine it with the Conan Cafe in Ikebukuro for a full half-day. For a more immersive experience, USJ’s The Escape is the best single attraction — but it requires being in Osaka and buying park admission.
+For accessibility and value, the Sunshine City collaboration in Ikebukuro. It’s mostly free, doesn’t require advance booking, runs through June 7, and you can combine it with the Conan Cafe in Ikebukuro for a full half-day. For a more immersive experience, USJ’s The Escape is the best single attraction, but it requires being in Osaka and buying park admission.
 
 **Is Conan Town in Tottori worth the long trip?**
 
-For hardcore Conan fans, yes — there’s nothing else like it in the world, and the Gosho Aoyama Museum has original manuscripts you can’t see anywhere else. For casual fans, the 6-hour travel time from Tokyo makes it hard to justify unless you’re already visiting the San’in region. The 30th anniversary special exhibition running April 4-26 adds extra incentive if your timing works.
+For hardcore Conan fans, yes, there’s nothing else like it in the world, and the Gosho Aoyama Museum has original manuscripts you can’t see anywhere else. For casual fans, the 6-hour travel time from Tokyo makes it hard to justify unless you’re already visiting the San’in region. The 30th anniversary special exhibition running April 4-26 adds extra incentive if your timing works.
 
 **Can I visit multiple Conan events in one Tokyo trip?**
 
