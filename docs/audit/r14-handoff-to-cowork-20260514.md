@@ -5,7 +5,7 @@
 **Branch:** main
 **Starting HEAD (post-R13):** `baa1f0a`
 **Final HEAD:** `175adbb` (R14-cleanup phase critic-doc update) + this commit
-**Critic round chain:** R14 Critic R1 (`a1d84ff8e77644b21`) GREEN → R14-cleanup Critic R1 (TBD, pending Task subagent)
+**Critic round chain:** R14 Critic R1 (`a1d84ff8e77644b21`) GREEN-scoped → R14-cleanup Critic R1 (`a97fb6296e7eee19b`) RED (caught 3rd pattern) → R14-cleanup Critic R2 (`a42608700c3d8a564`) GREEN (sprint truly closes)
 
 ## TL;DR
 
@@ -54,8 +54,9 @@ R14 + R14-cleanup deliver **5 bucket fixes + comprehensive ThreadsCTA dedup**. S
 
 | Round | Date | agentId | Verdict |
 |---|---|---|---|
-| R14 Critic R1 (pre-cleanup) | 2026-05-14 | `a1d84ff8e77644b21` | GREEN — sprint closes |
-| R14-cleanup Critic R1 | 2026-05-14 | (Task subagent invocation pending in this commit chain) | (to be filled by next critic) |
+| R14 Critic R1 (pre-cleanup) | 2026-05-14 | `a1d84ff8e77644b21` | GREEN-scoped (missed 2nd+3rd patterns) |
+| R14-cleanup Critic R1 | 2026-05-14 | `a97fb6296e7eee19b` | RED — caught 3rd pattern (H2 boilerplate) |
+| R14-cleanup Critic R2 | 2026-05-14 | `a42608700c3d8a564` | GREEN — sprint truly closes (all 3 patterns stripped, 1-render confirmed) |
 
 ## Verification gates (Cowork to re-run)
 
