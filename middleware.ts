@@ -176,19 +176,13 @@ export function middleware(request: NextRequest) {
 
   const response = NextResponse.next()
 
-  // R13-B1 followup (R13 Critic R1 a725834279f50ab82): Next.js App Router
-  // emits Vary: rsc,next-router-state-tree,next-router-prefetch,next-router-segment-prefetch
-  // for RSC payload routing, and the next.config.ts headers() setting of
-  // Vary:User-Agent gets clobbered (not merged) in production. Append
-  // User-Agent to the existing framework Vary list in middleware so the
-  // CDN edge keys cache on UA in addition to RSC routing.
-  const existingVary = response.headers.get('Vary') || ''
-  if (!/\bUser-Agent\b/i.test(existingVary)) {
-    response.headers.set(
-      'Vary',
-      existingVary ? `${existingVary}, User-Agent` : 'User-Agent'
-    )
-  }
+  // R13-B1 (post-R2 Critic a21a55759f86ef1cc): Vary:User-Agent now set at
+  // CDN edge via vercel.json headers stanza ("later wins, comma-joined"
+  // merge semantics with the Next.js framework Vary). Middleware-level
+  // Vary mutation was tried in commit 4ca138e but the value didn't survive
+  // to the production response (likely framework overwrite or Vercel edge
+  // normalizer stripping non-framework Vary tokens). vercel.json applies
+  // headers AFTER Next.js framework, so it composes correctly.
 
   // Geo-personalization: Set geo cookie from Vercel geo header
   // Next.js 16+ removed request.geo, use x-vercel-ip-country header directly
