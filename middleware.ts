@@ -158,11 +158,44 @@ export function middleware(request: NextRequest) {
   })
 
   // Bot management: Tag unknown bots
+  // R12-P0 (2026-05-14): expanded whitelist to cover every Google verification
+  // bot AdSense + GSC use. The prior pattern only matched `Googlebot` as a literal
+  // substring, so `AdsBot-Google` (AdSense crawler) hit isBotLike via "Bot" yet
+  // failed isKnownBot via no `Googlebot` match — receiving X-Robots-Tag:noindex.
+  // Likely culprit for the 11-cycle indexation failure surfaced by external
+  // Critic Round 2 against the live site. Other Google bots that lack the
+  // literal `bot` substring (Mediapartners-Google, Google-InspectionTool,
+  // APIs-Google, FeedFetcher-Google) were not noindex-tagged under the old
+  // regex but are now explicitly listed for clarity + future-proofing.
+  const KNOWN_BOT_PATTERNS = [
+    // Google
+    /Googlebot/i,
+    /Mediapartners-Google/i,
+    /AdsBot-Google/i,
+    /Google-InspectionTool/i,
+    /Googlebot-Image/i,
+    /Googlebot-Video/i,
+    /APIs-Google/i,
+    /FeedFetcher-Google/i,
+    // Other major search engines
+    /Bingbot/i,
+    /DuckDuckBot/i,
+    /Baiduspider/i,
+    /Yandex/i,
+    /Slurp/i,
+    /Applebot/i,
+    // LLM crawlers
+    /GPTBot/i,
+    /ClaudeBot/i,
+    /PerplexityBot/i,
+  ]
+  function isKnownBot(ua: string): boolean {
+    return KNOWN_BOT_PATTERNS.some((p) => p.test(ua))
+  }
   const ua = request.headers.get('user-agent') || ''
-  const isKnownBot = /Googlebot|Bingbot|GPTBot|ClaudeBot|PerplexityBot|Applebot|Slurp|DuckDuckBot|Baiduspider|Yandex/i.test(ua)
   const isBotLike = /bot|crawler|spider|scraper|fetch|curl|wget|python|java(?!script)/i.test(ua)
 
-  if (isBotLike && !isKnownBot) {
+  if (isBotLike && !isKnownBot(ua)) {
     response.headers.set('X-Robots-Tag', 'noindex, nofollow')
   }
 
