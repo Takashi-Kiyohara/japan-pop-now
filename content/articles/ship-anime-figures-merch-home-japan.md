@@ -238,7 +238,6 @@ One more thing: take photos of your collection before you pack it. Just in case 
 - [eSIM vs Pocket WiFi Guide](/japan-esim-pocket-wifi-sim-card-guide/)
 - [Japan Rail Pass Guide](/articles/japan-rail-pass-2026-guide)
 
-**Follow [@pop_now_jp](https://www.threads.net/@pop_now_jp)** for daily Tokyo pop culture updates.
 
 Planning a trip to Tokyo?
 

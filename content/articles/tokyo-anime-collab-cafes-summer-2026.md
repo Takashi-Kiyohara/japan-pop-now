@@ -232,7 +232,6 @@ If collab cafes are only one part of your trip, use the hub below to pick the be
 - [Akihabara Complete Guide 2026](/akihabara-complete-guide/)
 - [Ikebukuro Anime Guide 2026](/ikebukuro-anime-guide/)
 
-**Follow [@pop_now_jp](https://www.threads.net/@pop_now_jp)** for daily Tokyo pop culture updates.
 
 Planning a trip to Tokyo?
 

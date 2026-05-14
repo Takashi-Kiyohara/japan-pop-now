@@ -118,7 +118,6 @@ The items themselves are cheap (¥150–¥600 for the qualifying purchase) but t
 - [How to Book Anime Collab Cafes](/articles/how-to-book-anime-collab-cafe-japan)
 - [Ikebukuro Anime Guide 2026](/articles/ikebukuro-anime-guide-2026)
 - [Anime Merch Shopping Guide Japan](/anime-merch-shopping-guide/)
-Follow [@pop_now_jp](https://www.threads.net/@pop_now_jp) for weekly updates on SPY×FAMILY events and Tokyo anime news.
 Planning a trip to Tokyo?
 [Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)
 

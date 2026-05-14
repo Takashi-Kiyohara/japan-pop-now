@@ -129,7 +129,6 @@ A local guide takes you to every filming location from Your Name, explains the s
 - [Ikebukuro Anime Guide 2026](/articles/ikebukuro-anime-guide-2026/). Continue your anime tour in Ikebukuro
 - [Japan IC Card & Transit Guide](/articles/japan-ic-card-transit-guide/): Navigate between pilgrimage spots easily
 - [Anime Collab Cafe Calendar](https://japan-pop-now.com/collab-cafe-calendar/). Check for Your Name or Shinkai collabs during your visit
-**Follow [@pop_now_jp](https://www.threads.net/@pop_now_jp)** for daily Tokyo pop culture updates.
 *Japan Pop Now is a Tokyo-based English-language media covering Japanese pop culture for international visitors.*
 
 ## More Pilgrimage Guides
