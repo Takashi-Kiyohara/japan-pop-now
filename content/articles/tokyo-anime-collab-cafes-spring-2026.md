@@ -21,10 +21,10 @@ wpPostId: 101
 ---
 *Last updated: April 29, 2026.*
 *Updated weekly. Last update: April 29, 2026, six collabs ended over the past week (full list below); Golden Week openings noted.*
-For the live cross-Japan tracker (active + upcoming, not just spring Tokyo), see the [/cafes hub](/cafes) — it's updated against operator official sites whenever a collab opens, ends, or cancels.
+For the live cross-Japan tracker (active + upcoming, not just spring Tokyo), see the [/cafes hub](/cafes), it's updated against operator official sites whenever a collab opens, ends, or cancels.
 
 ![Akihabara Electric Town main intersection in Tokyo, the primary anime collab-cafe district](/images/articles/tokyo-anime-collab-cafes-spring-2026/body-wikimedia-1.webp)
-*Photo: Jakub Hałun / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Akihabara_Electric_Town,_Tokyo,_20240823_1617_5580.jpg), CC BY 4.0. Akihabara Electric Town — the primary Tokyo anime collab-cafe district.*
+*Photo: Jakub Hałun / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Akihabara_Electric_Town,_Tokyo,_20240823_1617_5580.jpg), CC BY 4.0. Akihabara Electric Town, the primary Tokyo anime collab-cafe district.*
 Shibuya street scene near PARCO, the heart of Tokyo’s pop culture shopping district
 Image: Collabo Cafe
 If you visit Tokyo between now and the end of April, you’ll find over a dozen limited-time anime collaboration cafes scattered across the city — each one offering exclusive themed menus, character merchandise you can’t buy anywhere else, and immersive decorations that pull you straight into the world of your favorite series.
@@ -50,14 +50,14 @@ Use this page differently depending on how fixed your trip already is.
 - [FAQ: Booking, walk-ins, and timing](#faq)
 
 ## What Is a Collab Cafe? (And What to Expect Inside)
-Tokyo neon streets at night — the electric atmosphere of neighborhoods like Akihabara and Shinjuku
+Tokyo neon streets at night, the electric atmosphere of neighborhoods like Akihabara and Shinjuku
 Image: Collabo Cafe
-A collaboration cafe, *korabo kafe* (コラボカフェ) in Japanese — is a temporary, themed pop-up restaurant built around a specific anime, manga, game, or character franchise. They run for anywhere from three weeks to three months before closing or switching to a new theme.
+A collaboration cafe, *korabo kafe* (コラボカフェ) in Japanese, is a temporary, themed pop-up restaurant built around a specific anime, manga, game, or character franchise. They run for anywhere from three weeks to three months before closing or switching to a new theme.
 When you walk in, you’ll find the entire space transformed: wall decorations featuring original artwork, life-size character standees for photo opportunities, a menu where every dish and drink looks like a scene or character from the series, and a merchandise corner selling items that are produced exclusively for that specific cafe run and will never be sold again after it ends.
 Here’s the typical experience, step by step:
 1. **Check in at your reserved time slot.** A staff member will verify your booking (usually by showing the confirmation email on your phone) and seat you. Most cafes assign 80 to 90 minutes per table.
 2. **Order from a picture menu.** Each item costs ¥800 to ¥2,500. The food looks great but taste is secondary, think of it as edible art. That said, quality has improved significantly in recent years, and many cafes now serve solid food.
-3. **Receive a random bonus item with each order.** For every menu item you order, you receive a collectible — typically a coaster, postcard, or clear file featuring the collab artwork. The character you receive is random, which is part of the fun (and the reason some people order five drinks).
+3. **Receive a random bonus item with each order.** For every menu item you order, you receive a collectible, typically a coaster, postcard, or clear file featuring the collab artwork. The character you receive is random, which is part of the fun (and the reason some people order five drinks).
 4. **Browse the exclusive merchandise.** This is where many visitors spend more money than on food. Acrylic stands, tapestries, badges, clear files, stickers, all featuring artwork created specifically for this cafe collaboration. Once the cafe closes, these items are gone forever.
 5. **Take photos.** Most collab cafes actively encourage photography of the food and decorations (flash is usually prohibited). Some have dedicated photo spots with character standees or themed backdrops.
 A typical visit costs ¥2,500 to ¥5,000 per person including food, drinks, and a small merchandise purchase.
@@ -66,24 +66,24 @@ A typical visit costs ¥2,500 to ¥5,000 per person including food, drinks, and 
 The following collab cafes are running in Tokyo right now. We’ve included everything you need to plan a visit: dates, location with the nearest station and walking directions, reservation requirements, what makes each one worth going to, and a local tip you won’t find on the official site.
 
 ![Cherry blossoms framing a Tokyo street in spring 2024, the seasonal backdrop that overlaps with the April-May collab cafe rotation](/images/articles/tokyo-anime-collab-cafes-spring-2026/body-wikimedia-4.webp)
-*Spring in Tokyo — sakura street view from April 2024. Most spring 2026 collab cafes overlap with the cherry blossom window in the first half of April, so plan for sakura crowds plus collab queues if you visit Shibuya or Shinjuku that week. Photo: Raita Futo / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Spring_in_Tokyo_(53637626755).jpg), CC BY 2.0.*
+*Spring in Tokyo, sakura street view from April 2024. Most spring 2026 collab cafes overlap with the cherry blossom window in the first half of April, so plan for sakura crowds plus collab queues if you visit Shibuya or Shinjuku that week. Photo: Raita Futo / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Spring_in_Tokyo_(53637626755).jpg), CC BY 2.0.*
 How to use this list fast
 If you only have one slot, prioritize **reservation difficulty first**, **location second**, and **merchandise appeal third**. Reservation-heavy venues like BOX cafe&space and PARCO cafes can sell out fast, while Gratte stands and merch pop-ups are better same-week options.
 
 ### 1. Jujutsu Kaisen PLAZA, “Chair:Black” (Sendai now open; Kyoto May 13)
-Tokyo Skytree and the Solamachi shopping complex — a hub for anime pop-ups and character goods
+Tokyo Skytree and the Solamachi shopping complex, a hub for anime pop-ups and character goods
 Image: Collabo Cafe
 Jujutsu Kaisen’s newest “Chair:Black” visual series has launched across five venues in Japan. This is a merchandise pop-up rather than a full cafe, no food, no reservation needed. The new artwork features Itadori Yuji, Fushiguro Megumi, Okkotsu Yuta, Choso, and Zen’in Naoya in a dark, monochrome seated pose inspired by the Culling Game arc. Products include acrylic stands (¥880), clear files (¥440), tapestries (¥2,200), and badges (¥440).
 | **Currently running** | Sendai Loft (April 24 – May 20, 2026), open now, Chair:Black standees and merch on display |
 | --- | --- |
 | **Coming next** | Kyoto Loft (May 13 – June 10, 2026), final venue |
 | **Recently ended** | Tokyo Solamachi Loft (closed April 26), Umeda Loft (closed April 12), Hands Nagoya (closed April 15) |
-| **Sendai Loft address** | Sendai Loft 2F “Loft Market” area — 6 min walk from JR Sendai Station West Exit |
+| **Sendai Loft address** | Sendai Loft 2F “Loft Market” area: 6 min walk from JR Sendai Station West Exit |
 | **Hours** | 10:00–21:00 |
 | **Reservation** | Not required, walk in anytime |
 | **Tax-free** | Available for purchases over ¥5,000 with passport |
 | **Official info** | [@jujutsu_plaza on X](https://x.com/jujutsu_plaza) |
- **Local tip:** Popular character merch sells out within the first few days. If there’s something specific you want, go on opening day. These pop-ups do not restock — once an item is sold out at a location, it’s gone. Spend ¥2,200+ to get a bonus postcard; ¥4,400+ for an oversized Chair:Black shopping bag.
+ **Local tip:** Popular character merch sells out within the first few days. If there’s something specific you want, go on opening day. These pop-ups do not restock, once an item is sold out at a location, it’s gone. Spend ¥2,200+ to get a bonus postcard; ¥4,400+ for an oversized Chair:Black shopping bag.
  **Combine with:** Sendai Loft is a short walk from Sendai Station; if you’re basing your trip in Tokyo, the Tohoku Shinkansen reaches Sendai in about 90 minutes. Going to Kyoto in May? Block out time at Kyoto Loft after May 13.
 
 ### 2. [One Piece](/one-piece-cafe-gene-parco-2026/) Cafe GENE. Shibuya PARCO 6F (Two Menu Periods)
@@ -100,7 +100,7 @@ The world’s best-selling manga gets a full collab cafe that takes an unusually
 | **Budget** | Main dishes ¥1,500–2,500 / Drinks ¥800–1,200 / Desserts ¥1,200–1,800. Expect ¥2,500–4,500 per person. |
 | **Official info** | [cafe.parco.jp](https://cafe.parco.jp/) |
  **Local tip:** The dessert items photograph the best and get the most engagement on social media. If you’re going with a group, order different dishes to see the full range of “scene recreations.” The collectible bonus items (random character coasters) are given per menu item ordered, drinks are the cheapest way to collect more.
- **Important:** Period 2 is now running (April 1 – May 18) with a completely new menu. This is a great time to visit — the new menu launched April 1 with fresh scene-recreation dishes and new collectible items.
+ **Important:** Period 2 is now running (April 1 – May 18) with a completely new menu. This is a great time to visit, the new menu launched April 1 with fresh scene-recreation dishes and new collectible items.
 
 ![Shibuya PARCO exterior, illustrative venue building exterior, home to THE GUEST cafe&diner on the 6th floor](/images/articles/tokyo-anime-collab-cafes-spring-2026/body-wikimedia-1.webp)
 *Shibuya PARCO exterior — illustrative venue building (THE GUEST cafe&diner sits on the 6th floor). Photo: Syced / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Shibuya_PARCO_2.jpg), CC0.*
@@ -150,7 +150,7 @@ This rare Reborn! collab at and GALLERY closed on April 22, 2026. Reborn! collab
 **Status:** Ended April 22, 2026
 **Tip:** and GALLERY rotates collabs roughly every 2–3 weeks. Check the venue’s schedule directly if you’re in Tokyo for Golden Week and want a smaller, walk-friendly gallery cafe.
 
-### 8. My Hero Academia — DECOTTO by animate cafe, Ikebukuro (ENDED April 26)
+### 8. My Hero Academia. DECOTTO by animate cafe, Ikebukuro (ENDED April 26)
 The MHA “Waffle Sandwich Diner” run at DECOTTO closed on April 26, 2026. The 10th-anniversary fair across Animate stores nationwide ran on the same calendar. DECOTTO rotates collabs every 1–2 months, so check the venue’s next theme if you’re in Ikebukuro during Golden Week.
 | **Status** | Ended April 26, 2026 |
 | --- | --- |
@@ -159,7 +159,7 @@ The MHA “Waffle Sandwich Diner” run at DECOTTO closed on April 26, 2026. The
 | **Hours** | 11:30–21:20 (typical DECOTTO hours when a new collab launches) |
 | **What instead?** | A new Animate Cafe collab is running now: i7 (アイドリッシュセブン) × Animate Cafe Tokyo/Osaka “Rivare Chaya” (りばぁれ茶屋), April 7 – May 10, 2026. See the [Animate Cafe guide](/articles/animate-cafe-guide-japan/) for the full lottery walkthrough. |
 | **Official info** | [animatecafe.jp](https://www.animatecafe.jp/). Follow [@animate_cafe on X](https://x.com/animate_cafe) for the next collab announcement. |
- **Local tip:** Animate has *four* separate cafe locations in Ikebukuro alone (DECOTTO, 2go, 3 Shop, 4go). Make sure you go to the right one — they run different collabs simultaneously. DECOTTO is on the 1st floor of the Annex building, not in the main Animate store.
+ **Local tip:** Animate has *four* separate cafe locations in Ikebukuro alone (DECOTTO, 2go, 3 Shop, 4go). Make sure you go to the right one, they run different collabs simultaneously. DECOTTO is on the 1st floor of the Annex building, not in the main Animate store.
 
 ### 9. HUNTER×HUNTER Zoldyck Family Arc. Gratte at Animate (ENDED April 15)
 This Gratte stand collab inside Animate stores wrapped on April 15, 2026. Gratte themes rotate every two weeks — walk into any Animate Gratte counter (Ikebukuro basement, Akihabara ANNEX, Shibuya, Kichijoji PARCO) to see what is currently running. No reservation, ¥700–900 per drink with a random collectible.
@@ -173,7 +173,7 @@ Tied to the new 2026 movie *Detective Conan: Highway no Datenshi* (名探偵コ�
 | **Reservation** | Required. BOX cafe&space website (slots open in waves; expect competition during Golden Week) |
 | **Time limit** | 70 minutes per table |
 | **Official info** | [conan-cafe.jp](https://conan-cafe.jp/) |
-Conan cafes are among the most elaborately decorated in Tokyo. The interior changes with each movie — this year’s theme features Hagiwara Chihaya (a new character: a Kanagawa Police motorcycle officer voiced by Sawashiro Miyuki) and Conan against a highway-chase backdrop.
+Conan cafes are among the most elaborately decorated in Tokyo. The interior changes with each movie, this year’s theme features Hagiwara Chihaya (a new character: a Kanagawa Police motorcycle officer voiced by Sawashiro Miyuki) and Conan against a highway-chase backdrop.
  **Local tip:** The May 20 menu switch resets the bonus collectibles, fans aiming to complete sets often book once in each period. The Solamachi location pairs naturally with the JJK PLAZA Sendai trip if you’re combining a Tokyo–Tohoku itinerary.
 
 ### 11. Black Jack Collab Cafe — Collabo_Index Tokyo / Osaka / Nagoya (April 10 – May 18 in Tokyo)
@@ -194,7 +194,7 @@ This is the part that trips up most international visitors. Here’s the condens
 4. **If sold out:** Check back for cancellations (especially 24-48 hours before your desired date), or try walk-in on a weekday morning.
 **Common booking platforms:** BOX cafe&space official site (Conan, Sanrio), Animate cafe official site (MHA, other Animate collabs), EPARK (various).
 
-### 12. Blue Lock × Collabo Cafe Honpo — Akihabara & Osaka (April 15 – May 24)
+### 12. Blue Lock × Collabo Cafe Honpo. Akihabara & Osaka (April 15 – May 24)
 | Anime | Blue Lock |
 | --- | --- |
 | Venues | Collabo Cafe Honpo Akihabara / Collabo Cafe Honpo Osaka Nipponbashi |
@@ -226,16 +226,16 @@ These are things you won’t find on the official cafe websites, from someone wh
 **The bonus item system is random, but you can trade.** Each menu order comes with a random character collectible. If you get a character you don’t want, it’s common and accepted to ask other guests if they want to trade. Some cafes even have a designated trading area. In Japanese, you can say “*koukan dekimasu ka?*” (交換できますか？ — Can we trade?).
 **Order the cheapest drink if you just want the bonus items.** A ¥800 drink earns the same bonus as a ¥2,500 main dish. If you’re here to collect rather than eat, this is the strategic play.
 **Check for “after-cafe” online merch sales.** Some cafes sell leftover exclusive merchandise online after the physical cafe closes. Follow the cafe’s X account for announcements, you might be able to buy items you missed even after leaving Japan.
-**The last time slot of the day is underrated.** Everyone wants the first or middle slots. The final slot (often 19:00 or 20:00) is frequently the easiest to book and the most relaxed — the cafe is winding down, staff are less rushed, and you’ll often get a few extra minutes.
+**The last time slot of the day is underrated.** Everyone wants the first or middle slots. The final slot (often 19:00 or 20:00) is frequently the easiest to book and the most relaxed, the cafe is winding down, staff are less rushed, and you’ll often get a few extra minutes.
 
 ![Shibuya PARCO Hulic Building, illustrative venue exterior view of the Shibuya pop culture shopping complex](/images/articles/tokyo-anime-collab-cafes-spring-2026/body-wikimedia-2.webp)
 *Shibuya PARCO Hulic Building, illustrative venue exterior view. Photo: 稲妻ノ歯鯨 / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Shibuya_Parco_Hulic_Building.jpg), CC BY-SA 4.0.*
 
 ## Where to Find Collab Cafes: Tokyo Neighborhood Guide
 Tokyo’s collab cafes cluster in three neighborhoods. Here’s where to focus based on what you’re interested in:
-**Ikebukuro** — The collab cafe capital. Animate cafes (4 locations), mottocafé, BOX cafe&space Grandscape, plus Animate main store, Otome Road, and Sunshine City for anime shopping and events. If you only have time for one neighborhood, start here. [→ Read our Ikebukuro anime guide](/articles/ikebukuro-anime-guide-2026/)
+**Ikebukuro**: The collab cafe capital. Animate cafes (4 locations), mottocafé, BOX cafe&space Grandscape, plus Animate main store, Otome Road, and Sunshine City for anime shopping and events. If you only have time for one neighborhood, start here. [→ Read our Ikebukuro anime guide](/articles/ikebukuro-anime-guide-2026/)
 **Shibuya**. Shibuya PARCO 6F is a pop culture hub: THE GUEST cafe&diner (One Piece, rotating collabs), Jump Shop, Nintendo TOKYO, and CAPCOM STORE all in one building. Loft Shibuya and BOX cafe&space GEMS Shibuya are nearby.
-**Akihabara** — More permanent themed cafes (Eorzea Cafe, Square Enix Cafe) than rotating collabs, but Animate Akihabara ANNEX has a Gratte stand, and various pop-up shops appear regularly. [→ Read our Akihabara guide](/articles/akihabara-complete-guide-2026/)
+**Akihabara**: More permanent themed cafes (Eorzea Cafe, Square Enix Cafe) than rotating collabs, but Animate Akihabara ANNEX has a Gratte stand, and various pop-up shops appear regularly. [→ Read our Akihabara guide](/articles/akihabara-complete-guide-2026/)
 
 ## Budget Guide: How Much Will You Spend?
 Here’s a realistic breakdown for a single collab cafe visit:
@@ -265,7 +265,7 @@ For the fastest updates, follow **[@pop_now_jp](https://www.threads.net/@pop_now
 - [Ikebukuro for Anime Fans: Animate, Otome Road & Beyond](/articles/ikebukuro-anime-guide-2026/)
 - [10 Anime Pilgrimage Spots in Tokyo You Can Visit Today](/articles/anime-pilgrimage-spots-tokyo/)
 **Planning beyond spring?** Check our [Live Collab Cafe Calendar](/collab-cafe-calendar/) for all current collaborations, updated every Monday. Visiting Osaka? See the [Osaka Anime Collab Cafe Guide](/articles/osaka-anime-cafes-complete-guide-2026), or for the long-tail Osaka attraction queue, the [Frieren × USJ Story Walk Osaka 2026 guide](/articles/frieren-usj-story-walk-osaka-2026) covers the May 30 to January 11 walk-through. For the Shinjuku side of Golden Week, the [Golden Kamuy Shinjuku Popup 2026 guide](/articles/golden-kamuy-golden-week-shinjuku-popup-2026) walks the Pasela + Loscabos two-floor cafe in Kabukicho. Anniversary-cluster picks for May: the [Ouran Host Club 20th Anniversary Cafes guide](/articles/ouran-host-club-20th-anniversary-cafes-2026) covers three parallel venues across Tokyo, Osaka and Hakata, and the [Hypnosismic × Sweets Paradise Round 8 guide](/articles/hypnosismic-sweets-paradise-round8-2026) maps the 9-venue nationwide May rollout with the buffet-plus-collab pricing math.
-*Japan Pop Now is a Tokyo-based English-language media covering Japanese pop culture for international visitors. We specialize in information that’s usually only available in Japanese — collab cafes, anime events, limited-edition merchandise, and the spots that guidebooks don’t cover.*
+*Japan Pop Now is a Tokyo-based English-language media covering Japanese pop culture for international visitors. We specialize in information that’s usually only available in Japanese, collab cafes, anime events, limited-edition merchandise, and the spots that guidebooks don’t cover.*
 
 ## [FamilyMart Anime Collab Stores 2026](/articles/familymart-anime-collab-stores-2026)
 - [Animate Cafe Guide. Lottery Booking, Gratte, DECOTTO & All Locations](/articles/animate-cafe-guide-japan)
