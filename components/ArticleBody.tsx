@@ -1,5 +1,6 @@
 import { MDXRemote } from 'next-mdx-remote/rsc';
 import remarkGfm from 'remark-gfm';
+import rehypeExternalLinks from 'rehype-external-links';
 import Link from 'next/link';
 import AdUnit from './AdUnit';
 import AffiliateCTA from './AffiliateCTA';
@@ -14,8 +15,24 @@ import { mdxComponents } from './mdx-components';
  * MDX compiler options
  * - remark-gfm: GFM tables, strikethrough, autolinks
  * - remark-affiliate: swap REPLACE_WITH_*_AFF_ID placeholders for env values
+ * - rehype-external-links (R13-F1, 2026-05-14): every external <a> emits
+ *   rel="nofollow noopener noreferrer" + target="_blank". Klook links
+ *   already carry rel="sponsored" via inline HTML wrapping (R12-tail), so
+ *   this plugin layers nofollow+noopener on top of those without removing
+ *   sponsored. For citation links added in F2 batch, this is the
+ *   sole rel-emission source (no per-link inline HTML needed).
  */
-const mdxOptions = { mdxOptions: { remarkPlugins: [remarkGfm, remarkAffiliate] } };
+const mdxOptions = {
+  mdxOptions: {
+    remarkPlugins: [remarkGfm, remarkAffiliate],
+    rehypePlugins: [
+      [rehypeExternalLinks, { rel: ['nofollow', 'noopener', 'noreferrer'], target: '_blank' }] as [
+        typeof rehypeExternalLinks,
+        { rel: string[]; target: string },
+      ],
+    ],
+  },
+};
 
 interface ArticleBodyProps {
   content: string;
