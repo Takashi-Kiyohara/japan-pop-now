@@ -82,6 +82,13 @@ export const metadata: Metadata = {
       "max-video-preview": -1,
     },
   },
+  // R13-B3 (2026-05-14): belt-and-suspenders google site verification meta
+  // alongside the existing file-method (/google5364a8f3197d1e76.html). Either
+  // can satisfy GSC ownership; both means a single missed deploy doesn't
+  // cause GSC verification regression.
+  verification: {
+    google: "5364a8f3197d1e76",
+  },
   alternates: {
     canonical: "https://www.japan-pop-now.com",
     languages: {

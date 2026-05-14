@@ -58,6 +58,13 @@ const securityHeaders = [
   { key: 'Referrer-Policy', value: 'strict-origin-when-cross-origin' },
   { key: 'Permissions-Policy', value: 'camera=(), microphone=(), geolocation=(), interest-cohort=(), payment=(), usb=(), magnetometer=(), gyroscope=(), accelerometer=()' },
   { key: 'X-DNS-Prefetch-Control', value: 'on' },
+  // R13-B1 (2026-05-14): Vary on UA so Vercel CDN treats bot vs browser as
+  // distinct cache keys. Prevents the prior cache-poisoning failure mode
+  // where one bot response with X-Robots-Tag noindex could be served to a
+  // human visitor on the same edge cache (or vice versa).
+  { key: 'Vary', value: 'User-Agent' },
+  // R13-B2: declare site language for crawlers + accessibility tools.
+  { key: 'Content-Language', value: 'en' },
   { key: 'X-XSS-Protection', value: '1; mode=block' },
   { key: 'Cross-Origin-Opener-Policy', value: 'same-origin-allow-popups' },
 ];
