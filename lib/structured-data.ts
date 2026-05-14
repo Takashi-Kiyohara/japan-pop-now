@@ -46,15 +46,30 @@ function absolutize(path: string): string {
 }
 
 export function getArticleSchema(article: Article, url: string, options?: ArticleSchemaOptions) {
+  // R13-D1 (2026-05-14): conditional NewsArticle vs BlogPosting.
+  // NewsArticle is intended for time-sensitive editorial with a clear
+  // expiry signal (validUntil). Evergreen content fails Google Rich Results
+  // when typed as NewsArticle without dateCreated/expiry. We type:
+  //   - cafes/experiences WITH validUntil -> NewsArticle (event-driven)
+  //   - everything else                   -> BlogPosting (evergreen safe)
+  const isTimeSensitive =
+    (article.category === 'cafes' || article.category === 'experiences') &&
+    typeof article.validUntil === 'string' &&
+    article.validUntil.length > 0
+  const articleType = isTimeSensitive ? 'NewsArticle' : 'BlogPosting'
+
   const schema: Record<string, unknown> = {
     '@context': 'https://schema.org',
-    '@type': 'NewsArticle',
+    '@type': articleType,
     headline: article.title,
     description: article.description,
     image: article.featuredImage ? absolutize(article.featuredImage) : LOGO_URL,
     datePublished: article.date,
     dateModified: article.lastUpdated || article.date,
-    author: getAuthorSchema(),
+    // R13-D2 (2026-05-14): pass includeContext=false so nested Person schema
+    // doesn't emit a redundant inner @context. JSON-LD context only needs
+    // to appear on the outermost graph node.
+    author: getAuthorSchema(undefined, undefined, undefined, false),
     publisher: {
       '@type': 'Organization',
       name: SITE_NAME,
@@ -197,10 +212,13 @@ export function getTouristAttractionSchema(
 export function getAuthorSchema(
   name: string = AUTHOR.name,
   url?: string,
-  image?: string
+  image?: string,
+  includeContext: boolean = true
 ) {
-  return {
-    '@context': 'https://schema.org',
+  // R13-D2 (2026-05-14): includeContext defaults true for standalone Person
+  // schema injection. Callers nesting Person inside Article/Organization should
+  // pass false to avoid redundant inner @context emission.
+  const base: Record<string, unknown> = {
     '@type': 'Person',
     name,
     url: url || `${SITE_URL}${AUTHOR.profilePath}`,
@@ -210,6 +228,9 @@ export function getAuthorSchema(
     sameAs: [...AUTHOR_SAME_AS],
     knowsAbout: [...AUTHOR.knowsAbout],
   }
+  return includeContext
+    ? { '@context': 'https://schema.org', ...base }
+    : base
 }
 
 /**

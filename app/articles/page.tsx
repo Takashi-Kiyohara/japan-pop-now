@@ -34,7 +34,7 @@ export const metadata: Metadata = {
   twitter: {
     card: 'summary_large_image',
     title: 'All Articles — Japan Pop Now',
-    site: '@japanpopnow',
+    site: '@pop_now_jp',
   },
 };
 

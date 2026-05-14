@@ -68,8 +68,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    site: "@japanpopnow",
-    creator: "@japanpopnow",
+    site: "@pop_now_jp",
+    creator: "@pop_now_jp",
   },
   robots: {
     index: true,
