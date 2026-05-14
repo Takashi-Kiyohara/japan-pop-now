@@ -381,7 +381,7 @@ That’s what makes anime pilgrimage worth doing: understanding the creator’s 
 - [SPY×FAMILY Tokyo Fan Day 2026](/articles/spy-family-tokyo-fan-day-2026)
 - [Shibuya & Harajuku Pop Culture Guide](/articles/shibuya-harajuku-pop-culture-guide)
 
-Planning your anime pilgrimage? Follow [@pop_now_jp](https://www.threads.net/@pop_now_jp) for weekly location updates and cafe alerts.
+Planning your anime pilgrimage? Weekly location updates and cafe alerts appear at the bottom of every article (Threads CTA auto-injected).
 
 Planning a trip to Tokyo?
 
