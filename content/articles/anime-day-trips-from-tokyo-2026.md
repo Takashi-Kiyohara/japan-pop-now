@@ -227,7 +227,6 @@ Kamakura (beach + train ride) and Hakone (pirate ship + ropeway) are the most fa
 - [Japan IC Card Transit Guide](/articles/japan-ic-card-transit-guide)
 - [Japan eSIM vs Pocket WiFi: Best Pick for 2026](/articles/japan-esim-pocket-wifi-sim-card)
 
-**Follow [@pop_now_jp](https://www.threads.net/@pop_now_jp)** for daily Tokyo pop culture updates.
 
 Planning a trip to Tokyo?
 

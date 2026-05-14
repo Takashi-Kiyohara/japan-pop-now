@@ -247,7 +247,6 @@ Chainsaw Man locations span several Tokyo neighborhoods. For a full overview of 
 - [10 Anime Pilgrimage Spots Every Fan Should Visit in Tokyo](/articles/anime-pilgrimage-spots-tokyo)
 - [One Piece Kumamoto Statue Tour](/articles/one-piece-kumamoto-statue-tour)
 
-**Follow [@pop_now_jp](https://www.threads.net/@pop_now_jp)** for daily Tokyo pop culture updates.
 
 Planning a trip to Tokyo?
 

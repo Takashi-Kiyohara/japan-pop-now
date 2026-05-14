@@ -179,7 +179,6 @@ Visiting anime filming locations is more fun with a local guide who knows the ex
 - [Best Anime Tours Tokyo 2026. Klook vs Viator Compared](/articles/best-anime-tours-tokyo-2026/)
 - [Japan Trip Checklist for Anime Fans 2026](/articles/japan-trip-checklist-anime-fans-2026/)
 - [One Piece Kumamoto Statue Tour. All 10 Straw Hat Statues](/articles/one-piece-kumamoto-statue-tour/)
-**Follow [@pop_now_jp](https://www.threads.net/@pop_now_jp)** for daily Tokyo pop culture updates.
 
 ### New In-Depth Pilgrimage Guides
 - [Jujutsu Kaisen Shibuya Pilgrimage Guide 2026](/articles/jujutsu-kaisen-shibuya-locations-2026). Complete walking route with 10+ real JJK locations in Shibuya

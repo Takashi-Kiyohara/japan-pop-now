@@ -225,7 +225,6 @@ New merchandise launches align with anime seasons (January, April, July, October
 - [Gachapon Guide: Where to Find, How to Use & What to Collect](/articles/gachapon-guide-japan/)
 - [Game Centers Guide: Crane Games, Rhythm & Retro Arcades](/articles/game-centers-arcades-japan/)
 - [Tokyo Anime District Guide: Which Neighborhood Matches Your Fandom](/articles/tokyo-anime-district-guide/)
-**Follow [@pop_now_jp](https://www.threads.net/@pop_now_jp)** for daily Tokyo pop culture updates.
 
 ### More Shopping & Travel Guides
 - [Proxy Shopping Japan 2026](/japan-proxy-shopping-guide/) — Buy Japan-exclusive anime figures and merch from anywhere in the world

@@ -121,7 +121,6 @@ For [anime-themed stays](/articles/how-to-book-anime-collab-cafe-japan/), some c
 - [Anime Merch Shopping Guide Japan](/anime-merch-shopping-guide/)
 - [Akihabara Complete Guide 2026](/articles/akihabara-complete-guide-2026)
 - [Japan IC Card Transit Guide](/articles/japan-ic-card-transit-guide)
-Follow [@pop_now_jp](https://www.threads.net/@pop_now_jp) for event updates and insider tips.
 Planning a trip to Tokyo?
 [Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)
 

@@ -203,7 +203,6 @@ Osaka native Heiji Hattori is a recurring character, and several cases are set i
 - [Japan Rail Pass 2026: Is It Worth It?](/articles/japan-rail-pass-2026-guide)
 - [Japan eSIM vs Pocket WiFi: Best Pick for 2026](/articles/japan-esim-pocket-wifi-sim-card)
 
-**Follow [@pop_now_jp](https://www.threads.net/@pop_now_jp)** for daily Tokyo pop culture updates.
 
 Planning a trip to Tokyo?
 

@@ -178,7 +178,6 @@ Akihabara and Ikebukuro both have cosplay supply shops. ACOS (by Animate) in Ike
 - [Game Centers & Arcades Japan: Complete Guide](/articles/game-centers-arcades-japan)
 - [Book Japan Anime Events from Overseas](/articles/book-japan-anime-events-overseas-2026)
 
-**Follow [@pop_now_jp](https://www.threads.net/@pop_now_jp)** for daily Tokyo pop culture updates.
 
 Planning a trip to Tokyo?
 
