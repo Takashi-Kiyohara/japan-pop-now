@@ -333,11 +333,3 @@ A local guide shows you the best game center floors, teaches crane game tricks, 
 - Taiko no Tatsujin arcade cabinet (`body-taiko.webp`) — Minseong Kim, *Taiko no tatsujin arcade machine.jpg*, via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Taiko_no_tatsujin_arcade_machine.jpg), CC BY-SA 4.0.
 
 
-## Never Miss a Cafe Opening or Anime Event
-
-
-Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.
-
-
-### Explore by Area
-[Tokyo](/tag/tokyo/) · [Akihabara](/akihabara-complete-guide-2026/) · [Shibuya](/shibuya-anime-spots-guide/) · [Ikebukuro](/ikebukuro-anime-guide-2026/) · [Osaka](/osaka-anime-guide-2025/)

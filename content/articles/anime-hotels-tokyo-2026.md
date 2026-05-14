@@ -189,17 +189,6 @@ Tokyo levies a per-person, per-night accommodation tax of ¥100–10,000 scaled 
 Planning a trip to Tokyo?
 [Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)
 
-## Never Miss a Cafe Opening or Anime Event
-Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.
-[Follow on Threads](https://www.threads.net/@pop_now_jp)
-Follow for weekly collab cafe updates & Japan pop culture content.
-
-### Explore by Area
-- [Akihabara Complete Guide](/articles/akihabara-complete-guide-2026/) — the otaku electric-town district one Yamanote stop from Shinjuku
-- [Ikebukuro Anime Guide 2026](/articles/ikebukuro-anime-guide-2026/). Otome Road + Sunshine City Anime Store + IKEPRI25 base
-- [Shibuya & Harajuku Pop Culture Guide](/articles/shibuya-harajuku-pop-culture-guide/) — Weathering With You + JJK Shibuya area
-- [Osaka Anime Guide. Den Den Town](/articles/osaka-anime-guide-den-den-town/) — Kansai's anime district
-- [Kyoto Anime Guide 2026](/articles/kyoto-anime-guide-2026/). KyoAni + Hibike Euphonium pilgrimage
 
 ## FAQ: Frequently Asked Questions
 

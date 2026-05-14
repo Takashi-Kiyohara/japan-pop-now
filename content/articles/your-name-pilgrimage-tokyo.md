@@ -141,17 +141,6 @@ A local guide takes you to every filming location from Your Name, explains the s
 Planning a trip to Tokyo?
 [Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)
 
-## Never Miss a Cafe Opening or Anime Event
-Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.
-[Follow on Threads](https://www.threads.net/@pop_now_jp)
-Follow for weekly collab cafe updates & Japan pop culture content.
-
-### Explore by Area
-- [Akihabara Complete Guide](/articles/akihabara-complete-guide-2026/). Steins;Gate pilgrimage district + electronics town
-- [Shibuya & Harajuku Pop Culture Guide](/articles/shibuya-harajuku-pop-culture-guide/). Weathering With You + Jujutsu Kaisen Shibuya area
-- [Ikebukuro Anime Guide 2026](/articles/ikebukuro-anime-guide-2026/) — Otome Road + Animate flagship
-- [Osaka Anime Guide. Den Den Town](/articles/osaka-anime-guide-den-den-town/) — Kansai's anime district
-- [Kyoto Anime Guide 2026](/articles/kyoto-anime-guide-2026/). KyoAni + Hibike Euphonium pilgrimage
 
 ## FAQ: Frequently Asked Questions
 

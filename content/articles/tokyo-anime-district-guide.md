@@ -258,13 +258,3 @@ Planning a trip to Tokyo?
 [Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)
 
 
-## Never Miss a Cafe Opening or Anime Event
-Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.
-
-[Follow on Threads](https://www.threads.net/@pop_now_jp)
-
-Follow for weekly collab cafe updates & Japan pop culture content.
-
-
-### Explore by Area
-[ Tokyo](/tag/tokyo/)[ Akihabara](/akihabara-shopping-guide-anime-fans-2025/)[ Shibuya](/shibuya-anime-spots-guide/)[ Ikebukuro](/ikebukuro-otaku-guide-top-anime-spots/)[ Osaka](/osaka-anime-guide-2025/) Kyoto (Coming Soon)

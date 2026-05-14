@@ -231,10 +231,6 @@ New merchandise launches align with anime seasons (January, April, July, October
 - [AnimeJapan & Comiket 2026: Survival Guide](/animejapan-comiket-guide/) — Score event-exclusive merch at major anime events
 - [Best Anime Hotels & Themed Rooms in Tokyo 2026](/anime-hotels-themed-rooms-tokyo/) — Character-themed rooms to complete your otaku trip
 
-## Never Miss a Cafe Opening or Anime Event
-Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.
-[Follow on Threads](https://www.threads.net/@pop_now_jp)
-Follow for weekly collab cafe updates & Japan pop culture content.
 
 ### Explore by Area
 [ Tokyo](/tag/tokyo/)
