@@ -20,6 +20,11 @@ export const metadata: Metadata = {
   description:
     'Every section of Japan Pop Now — browse articles, categories, guides, features, and about pages in one place.',
   alternates: { canonical: 'https://www.japan-pop-now.com/menu' },
+  // R15 fix E (2026-05-14): /menu is intentionally excluded from sitemap.ts
+  // (navigation aid with thin content). Add noindex to align meta tag with
+  // sitemap absence — prevents Google from indexing it via internal-link
+  // discovery and earning the sitemap-vs-meta-tag contradiction signal.
+  robots: { index: false, follow: true },
 };
 
 type Section = {
