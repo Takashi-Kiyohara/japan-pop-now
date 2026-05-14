@@ -118,7 +118,7 @@ export async function generateMetadata({
     twitter: {
       card: 'summary_large_image',
       title: `${category.label} — Japan Pop Now`,
-      site: '@japanpopnow',
+      site: '@pop_now_jp',
     },
   };
 }
