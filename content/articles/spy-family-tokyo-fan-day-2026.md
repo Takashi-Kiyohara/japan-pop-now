@@ -114,7 +114,7 @@ The items themselves are cheap (¥150–¥600 for the qualifying purchase) but t
 ### More Anime Location Guides
 - [10 Must-Visit Anime Pilgrimage Spots in Tokyo](/articles/anime-pilgrimage-spots-tokyo)
 - [Jujutsu Kaisen Shibuya Locations 2026](/articles/jujutsu-kaisen-shibuya-locations-2026)
-- [Tokyo Anime Collab Cafes Spring 2026](/articles/tokyo-anime-collab-cafes-spring-2026)
+- [our spring collab cafe roundup](/articles/tokyo-anime-collab-cafes-spring-2026)
 - [How to Book Anime Collab Cafes](/articles/how-to-book-anime-collab-cafe-japan)
 - [Ikebukuro Anime Guide 2026](/articles/ikebukuro-anime-guide-2026)
 - [Anime Merch Shopping Guide Japan](/anime-merch-shopping-guide/)

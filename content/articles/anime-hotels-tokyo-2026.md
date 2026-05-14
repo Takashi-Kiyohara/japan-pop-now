@@ -181,7 +181,7 @@ Tokyo levies a per-person, per-night accommodation tax of ¥100–10,000 scaled 
 ### Plan Your Anime Tokyo Trip
 - [Tokyo Anime District Guide: 5 Areas Every Fan Must Visit](/articles/tokyo-anime-district-guide)
 - [Akihabara Complete Guide 2026](/articles/akihabara-complete-guide-2026)
-- [Ikebukuro Anime Guide 2026](/articles/ikebukuro-anime-guide-2026)
+- [the Ikebukuro Otome Road guide](/articles/ikebukuro-anime-guide-2026)
 - [Japan IC Card Transit Guide](/articles/japan-ic-card-transit-guide)
 - [Japan eSIM vs Pocket WiFi vs SIM Card](/articles/japan-esim-pocket-wifi-sim-card)
 - [Japan Rail Pass 2026 Guide](/articles/japan-rail-pass-2026-guide)

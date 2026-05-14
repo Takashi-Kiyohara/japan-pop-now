@@ -163,7 +163,7 @@ This matters because some travelers now react against overly polished “perfect
 ## FAQ
 
 ### Where was the My Hero Academia Cafe in Tokyo in 2026?
-The 2026 pop-up cafe was hosted at **DECOTTO by animate cafe in Ikebukuro**.[1] The event has since ended; check [Tokyo Anime Collab Cafes Spring 2026](/articles/tokyo-anime-collab-cafes-spring-2026) for current cafe options.
+The 2026 pop-up cafe was hosted at **DECOTTO by animate cafe in Ikebukuro**.[1] The event has since ended; check [our spring collab cafe roundup](/articles/tokyo-anime-collab-cafes-spring-2026) for current cafe options.
 
 
 ### When was the My Hero Academia Cafe in Ikebukuro open?

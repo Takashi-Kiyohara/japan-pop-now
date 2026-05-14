@@ -245,7 +245,7 @@ It’s improved significantly over the past few years. Five years ago, collab ca
 
 Yes, collab cafes are just one piece of Tokyo’s pop culture scene. [Akihabara](/articles/akihabara-complete-guide-2026/) has permanent anime shops, retro game stores, and maid cafes. [Ikebukuro](/articles/ikebukuro-anime-guide-2026/) has Animate (Japan’s largest anime store), Otome Road, and Sunshine City events. Shibuya PARCO has the Jump Shop and Nintendo TOKYO year-round.
 
-For the latest on what’s open right now, check our [Tokyo Anime Collab Cafe Guide for Spring 2026](/articles/tokyo-anime-collab-cafes-spring-2026), updated weekly.
+For the latest on what’s open right now, check our [our spring collab cafe roundup](/articles/tokyo-anime-collab-cafes-spring-2026), updated weekly.
 
 
 ### Planning Your Tokyo Anime Trip?
@@ -267,7 +267,7 @@ Beyond collab cafes, Tokyo has anime districts, pilgrimage spots, and exclusive 
 - [One Piece Cafe GENE at PARCO 2026](/one-piece-cafe-gene-parco-2026/)
 - [Animate Cafe Guide Japan](/articles/animate-cafe-guide-japan)
 - [Collab Cafe Calendar. What’s Open Now](/collab-cafe-calendar/)
-- [FamilyMart Anime Collab Stores 2026](/articles/familymart-anime-collab-stores-2026)
+- [the FamilyMart anime store tracker](/articles/familymart-anime-collab-stores-2026)
 
 **Follow [@pop_now_jp](https://www.threads.net/@pop_now_jp)** for daily Tokyo pop culture updates.
 
@@ -280,7 +280,7 @@ Beyond collab cafes, Tokyo has anime districts, pilgrimage spots, and exclusive 
 - [Anime Collab Cafe Guide Japan](/articles/animate-cafe-guide-japan)
 - [Animate Cafe Complete Guide](/articles/animate-cafe-guide-japan)
 - [Lawson Ticket Anime Booking Guide](/lawson-ticket-loppi-guide/)
-- [Akihabara Complete Guide 2026](/articles/akihabara-complete-guide-2026)
+- [the Akihabara district guide](/articles/akihabara-complete-guide-2026)
 - [Ikebukuro Anime Guide 2026](/articles/ikebukuro-anime-guide-2026)
 
 Planning a trip to Tokyo?

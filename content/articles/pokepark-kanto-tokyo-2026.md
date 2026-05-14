@@ -35,7 +35,7 @@ This guide covers all three ticket tiers, how international visitors can book, w
 Plan your PokéPark day faster:
 - [**Need a backup if tickets sell out?** Read: Book Japan Anime Events from Overseas](/articles/book-japan-anime-events-overseas-2026)
 - [**Comparing transport costs?** Read: Japan Rail Pass 2026 Guide](/articles/japan-rail-pass-2026-guide)
-- [**Building a wider Pokémon day in Tokyo?** Add: Gaming Tokyo 2026](/articles/gaming-tokyo-2026)
+- [the Tokyo gaming walkthrough](/articles/gaming-tokyo-2026)
 
 ## Table of Contents
 - [How Much Do PokéPark Kanto Tickets Cost?](#ticket-prices)
@@ -154,7 +154,7 @@ That said, most visitors are better off staying in Shinjuku, the Keio Line ride 
 After this guide, read one of these next:
 - [**If official booking looks difficult:** Book Japan Anime Events from Overseas](/articles/book-japan-anime-events-overseas-2026)
 - [**If you are optimizing train value:** Japan Rail Pass 2026 Guide](/articles/japan-rail-pass-2026-guide)
-- [**If you want more Pokémon and game spots:** Gaming Tokyo 2026](/articles/gaming-tokyo-2026)
+- [the Tokyo gaming-spot roundup](/articles/gaming-tokyo-2026)
 **Choose your next anime plan**
 If PokéPark is one stop in a bigger Japan trip, use the hub below to compare Tokyo-only plans, day trips, and anime routes by series before you book the rest.
 - [**Want the fastest next click?** Open Find by Anime and sort by area, trip style, or series](/category/destinations)
@@ -187,7 +187,7 @@ Yes. PokéPark Kanto has park-exclusive merchandise that isn’t available at re
 ## More Area Guides
 - [How to Book Japan Anime Events from Overseas](/articles/book-japan-anime-events-overseas-2026): Proxy booking for sold-out dates
 - [Ghibli Park Complete Guide 2026](/articles/ghibli-park-complete-guide-2026). Another must-visit theme park
-- [Gaming Tokyo 2026](/articles/gaming-tokyo-2026): Pokémon Center, Nintendo Store & more
+- [the Tokyo gaming walkthrough](/articles/gaming-tokyo-2026): Pokémon Center, Nintendo Store & more
 - [Japan Rail Pass 2026 Guide](/articles/japan-rail-pass-2026-guide). Is the pass worth it for your trip?
 - [Japan eSIM & Pocket WiFi Guide](/articles/japan-esim-pocket-wifi-sim-card) — Stay connected to check ticket availability
 Planning a trip to Tokyo?

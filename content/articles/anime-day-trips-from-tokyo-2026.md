@@ -101,7 +101,7 @@ The closest and easiest anime day trip from Tokyo. The Kamakurakokomae No.1 Rail
 
 **Cost:** ¥950 (JR from Tokyo) + ¥800 (Enoden day pass) + ¥300 (Great Buddha) + lunch = ~¥3,500-4,500.
 
-Read the full guide: [Slam Dunk Kamakura Pilgrimage 2026](/articles/kamakura-slam-dunk-pilgrimage-2026)
+Read the full guide: [our Slam Dunk Kamakura walkthrough](/articles/kamakura-slam-dunk-pilgrimage-2026)
 
 
 ## Hakone: Evangelion Third Tokyo-3
@@ -218,12 +218,12 @@ Kamakura (beach + train ride) and Hakone (pirate ship + ropeway) are the most fa
 ## More Area & Travel Guides
 
 - [Slam Dunk Kamakura Pilgrimage 2026](/articles/kamakura-slam-dunk-pilgrimage-2026)
-- [Demon Slayer × Meiji-mura 2026: Aichi Pilgrimage Guide](/articles/demon-slayer-meiji-mura-aichi-pilgrimage-2026). A Nagoya day-trip that pairs naturally with the Tokyo-side day-trip routes above
+- [the Demon Slayer × Meiji-mura visit notes](/articles/demon-slayer-meiji-mura-aichi-pilgrimage-2026). A Nagoya day-trip that pairs naturally with the Tokyo-side day-trip routes above
 - [Ranma 1/2 Japan 2026 Exhibition + Tree Village Pop-Up Guide](/articles/ranma-japan-2026-exhibition-tree-village-guide) — Ikebukuro Sunshine City exhibition (Apr 23 – May 12) plus Tree Village Tokyo / Osaka / Hakata pop-up cafe legs
-- [10 Anime Pilgrimage Spots in Tokyo (2026)](/articles/anime-pilgrimage-spots-tokyo)
+- [10 spots for Tokyo anime pilgrimage](/articles/anime-pilgrimage-spots-tokyo)
 - [Ghibli Park Complete Guide 2026](/articles/ghibli-park-complete-guide-2026)
 - [Tokyo Anime District Guide: 5 Areas](/tokyo-anime-districts-guide/)
-- [Japan Rail Pass 2026: Is It Worth It?](/articles/japan-rail-pass-2026-guide)
+- [our Japan Rail Pass walkthrough](/articles/japan-rail-pass-2026-guide)
 - [Japan IC Card Transit Guide](/articles/japan-ic-card-transit-guide)
 - [Japan eSIM vs Pocket WiFi: Best Pick for 2026](/articles/japan-esim-pocket-wifi-sim-card)
 

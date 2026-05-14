@@ -183,7 +183,7 @@ Visiting anime filming locations is more fun with a local guide who knows the ex
 
 ### New In-Depth Pilgrimage Guides
 - [Jujutsu Kaisen Shibuya Pilgrimage Guide 2026](/articles/jujutsu-kaisen-shibuya-locations-2026). Complete walking route with 10+ real JJK locations in Shibuya
-- [SPY x FAMILY Fan Day in Tokyo 2026](/articles/spy-family-tokyo-fan-day-2026) — European-aesthetic locations, merch shops, and collab cafes
+- [the Spy x Family fan day notes](/articles/spy-family-tokyo-fan-day-2026) — European-aesthetic locations, merch shops, and collab cafes
 Planning a trip to Tokyo?
 [Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)
 
