@@ -188,7 +188,6 @@ Ikebukuro station has dozens of hotels within 5 minutes walk. Staying here puts 
 - [Tokyo Collab Cafes Spring 2026: Currently Open](/articles/tokyo-anime-collab-cafes-spring-2026/)
 - [Anime Merch Shopping Guide: Where to Buy & How to Save](/articles/anime-merch-shopping-guide-japan/)
 
-**Follow [@pop_now_jp](https://www.threads.net/@pop_now_jp)** for daily Tokyo pop culture updates.
 
 
 ## FAQ: Frequently Asked Questions

@@ -272,7 +272,6 @@ Once you've conquered the One Piece locations, explore these related Tokyo shopp
 - [Japan IC Card Transit Guide](/articles/japan-ic-card-transit-guide) – Master Tokyo's train system with practical payment tips
 - [Anime Pilgrimage Spots Tokyo](/articles/anime-pilgrimage-spots-tokyo) – *seichi junrei* locations beyond merchandise shopping
 
-**Follow [@pop_now_jp](https://www.threads.net/@pop_now_jp)** for daily Tokyo pop culture updates.
 
 Planning a trip to Tokyo?
 

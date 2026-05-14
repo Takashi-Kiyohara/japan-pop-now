@@ -251,7 +251,6 @@ If you found this useful, check out these related articles:
 - [eSIM vs Pocket WiFi Guide](/japan-esim-pocket-wifi-sim-card-guide/)
 - [Japan IC Card Transit Guide](/articles/japan-ic-card-transit-guide)
 
-**Follow [@pop_now_jp](https://www.threads.net/@pop_now_jp)** for daily Tokyo pop culture updates.
 
 Planning a trip to Tokyo?
 

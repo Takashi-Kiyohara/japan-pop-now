@@ -159,7 +159,6 @@ See our [Akihabara complete guide](/articles/akihabara-complete-guide-2026/), [I
 - [Gachapon Guide Japan](/articles/gachapon-guide-japan)
 - [Tokyo Anime District Guide](/articles/tokyo-anime-district-guide)
 - [Anime Merch Shopping Guide Japan](/anime-merch-shopping-guide/)
-Follow [@pop_now_jp](https://www.threads.net/@pop_now_jp) for weekly updates on Tokyo gaming drops and new cafe openings.
 Planning a trip to Tokyo?
 [Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)
 

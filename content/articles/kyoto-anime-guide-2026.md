@@ -186,7 +186,6 @@ A 3-4 day trip covering major locations costs roughly ¥8,000-¥12,000 in admiss
 - [Osaka Anime Guide](/osaka-anime-guide/) – Anime culture and shopping in Kansai's second-largest city
 - [Japan IC Card Transit Guide](/articles/japan-ic-card-transit-guide) – Everything you need to know about Suica and ICOCA cards
 - [Anime Merchandise Shopping Guide](/anime-merch-shopping-guide/) – Where to find rare collectibles across Japan
-**Follow [@pop_now_jp](https://www.threads.net/@pop_now_jp)** for daily Tokyo pop culture updates.
 Planning a trip to Tokyo?
 [Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)
 

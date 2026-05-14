@@ -125,7 +125,6 @@ Once a FamilyMart collab closes, the exclusive items move to Mercari, Yahoo Auct
 - [One Piece Cafe GENE at PARCO 2026](/one-piece-cafe-gene-parco-2026/)
 - [Lawson Ticket & Loppi Guide](/lawson-ticket-loppi-guide/)
 - [Collab Cafe Calendar](/collab-cafe-calendar/)
-Follow [@pop_now_jp](https://www.threads.net/@pop_now_jp) for weekly updates.
 Planning a trip to Tokyo?
 [Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)
 
