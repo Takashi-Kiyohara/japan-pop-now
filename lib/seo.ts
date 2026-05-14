@@ -48,7 +48,7 @@ export function generateArticleMetadata(article: ArticleMeta, slug: string) {
       card: 'summary_large_image' as const,
       title: article.title,
       description: article.description,
-      creator: '@japanpopnow',
+      creator: '@pop_now_jp',
       image: article.featuredImage || DEFAULT_OG_IMAGE,
     },
   };

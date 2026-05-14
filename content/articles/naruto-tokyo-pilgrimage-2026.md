@@ -323,7 +323,7 @@ Continue your pilgrimage journey with our complete anime location guides:
 
 ![Ikebukuro Station east side at night — the transit hub for the Sunshine City + Otome Road + Animate Annex cluster on the Naruto pilgrimage day](/images/articles/naruto-tokyo-pilgrimage-2026/body-wikimedia-4.webp)
 
-Tag us in your Naruto pilgrimage photos on Threads: @japanpopnow
+Tag us in your Naruto pilgrimage photos on Threads: @pop_now_jp
 
 Share your findings and favorite discoveries from these Tokyo locations. We feature pilgrimage photos monthly, connecting our community of seichi junrei adventurers worldwide.
 
