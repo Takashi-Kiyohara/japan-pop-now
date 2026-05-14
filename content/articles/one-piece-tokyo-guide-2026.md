@@ -24,7 +24,7 @@ wpPostId: 512
 
 Finding your way through Tokyo's One Piece merchandise landscape in 2026.
 
-This guide covers Tokyo's One Piece retail and cafe surface — Base Shop, Mugiwara Store chain, One Piece Cafe GENE at Shibuya PARCO, Jump Shop locations including the new Jimbocho branch — sourced from operator pages, Toei Animation's broadcast-schedule announcements, and the publishers' store directories. Use it to plan a *seichi junrei* (聖地巡礼) shopping route through 12 locations across 8 districts.
+This guide covers Tokyo's One Piece retail and cafe surface — Base Shop, Mugiwara Store chain, One Piece Cafe GENE at Shibuya PARCO, [Jump Shop](https://www.shonenjump.com/j/jumpshop/) locations including the new Jimbocho branch — sourced from operator pages, [Toei Animation](https://www.toei-anim.co.jp/en/)'s broadcast-schedule announcements, and the [Shueisha One Piece official portal](https://one-piece.com/). Use it to plan a *seichi junrei* (聖地巡礼) shopping route through 12 locations across 8 districts.
 
 The city's One Piece infrastructure expanded significantly in the past 12 months: two major new locations opened this spring, the anime series ramped up production around the Elbaph Arc premiere on April 5, 2026 per Toei Animation's announcement, and the publishers competed harder than ever for fan attention.
 

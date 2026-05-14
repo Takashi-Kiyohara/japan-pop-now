@@ -26,7 +26,7 @@ wpPostId: 206
 
 Tokyo doesn’t have one anime district. It has at least five, and each one serves a completely different type of fan.
 
-Akihabara is the name everyone knows, and it deserves its reputation. But there’s also Ikebukuro, which is the center of the female-oriented fandom universe. Nakano Broadway, where serious collectors hunt for rare vintage goods. Shibuya, where the gaming flagships and official brand stores have quietly gathered. And Harajuku, where the kawaii aesthetic that fuels half of anime’s visual language was born.
+Akihabara is the name everyone knows, and it deserves its reputation. But there's also Ikebukuro, which is the center of the female-oriented fandom universe ([Animate flagship](https://www.animate.co.jp/shop/ikebukuro/) anchors the Otome Road strip). Nakano Broadway, where serious collectors hunt for rare vintage goods. Shibuya, where the gaming flagships and official brand stores have quietly gathered ([THE JOJO WORLD at Shibuya PARCO 6F](https://bandainamco-am.co.jp/official_shop/jojo/) is the newest permanent arrival). And Harajuku, where the kawaii aesthetic that fuels half of anime's visual language was born ([Kiddy Land Harajuku](https://www.kiddyland.co.jp/harajuku/) is the multi-IP flagship).
 
 The mistake most visitors make is going to Akihabara and thinking they’ve seen “anime Tokyo.” They haven’t. They’ve seen one version of it. This guide covers all the major districts, what each one is best for, and how to plan an efficient route across multiple areas during your trip.
 
