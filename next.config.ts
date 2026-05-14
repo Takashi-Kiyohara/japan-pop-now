@@ -275,12 +275,15 @@ const nextConfig: NextConfig = {
     // /articles/<slug> and 404'd anyway, wasting crawl budget and earning
     // "Redirect error" GSC flags. Middleware version checks slug existence
     // first; missing slugs return 410 Gone (drop signal) instead.
-    // WordPress category URLs → Next.js category URLs
-    {
-      source: '/category/:slug/page/:num',
-      destination: '/category/:slug',
-      permanent: true,
-    },
+    // R15 fix A (2026-05-14): WordPress category pagination rule REMOVED
+    // from next.config.ts and consolidated into middleware.ts. Previously
+    // this rule + the CATEGORY_REDIRECTS map composed into 2-hop chains
+    // (e.g. /category/area-guides/page/2 → /category/area-guides →
+    // /category/destinations). next.config.ts redirects() fires BEFORE
+    // middleware in the Next.js routing pipeline on Vercel, so the
+    // middleware short-circuit couldn't take effect. Removing the
+    // next.config.ts rule lets middleware handle the full mapping in
+    // a single hop. See middleware.ts categoryPageMatch (R15-A).
     // WordPress feed URLs
     {
       source: '/feed',
