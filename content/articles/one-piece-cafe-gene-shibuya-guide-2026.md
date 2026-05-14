@@ -326,4 +326,3 @@ Shibuya PARCO has elevator access to all floors including 6F. The cafe interior 
 - [Lawson Ticket Guide for Overseas Visitors](/articles/lawson-ticket-anime-cafe-booking)
 
 
-<div className="jpn-cta"><p><strong>Follow <a href="https://www.threads.net/@pop_now_jp" rel="nofollow" target="_blank">@pop_now_jp on Threads</a></strong> for daily Tokyo pop culture updates.</p></div>

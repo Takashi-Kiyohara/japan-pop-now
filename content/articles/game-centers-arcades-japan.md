@@ -339,8 +339,5 @@ A local guide shows you the best game center floors, teaches crane game tricks, 
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.
 
 
-<div className="jpn-cta"><p><strong>Follow <a href="https://www.threads.net/@pop_now_jp" rel="nofollow" target="_blank">@pop_now_jp on Threads</a></strong> for daily Tokyo pop culture updates.</p></div>
-
-
 ### Explore by Area
 [Tokyo](/tag/tokyo/) · [Akihabara](/akihabara-complete-guide-2026/) · [Shibuya](/shibuya-anime-spots-guide/) · [Ikebukuro](/ikebukuro-anime-guide-2026/) · [Osaka](/osaka-anime-guide-2025/)

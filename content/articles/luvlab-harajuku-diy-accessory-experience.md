@@ -238,4 +238,3 @@ The Harajuku location carries two exclusive items not available at Shibuya or Yo
 - [Tokyo Anime District Guide](/articles/tokyo-anime-district-guide)
 
 
-<div className="jpn-cta"><p><strong>Follow <a href="https://www.threads.net/@pop_now_jp" rel="nofollow" target="_blank">@pop_now_jp on Threads</a></strong> for daily Tokyo pop culture updates.</p></div>

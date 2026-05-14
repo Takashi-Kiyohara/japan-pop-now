@@ -181,4 +181,3 @@ Drinks, coasters, and the atmosphere are still worth the visit. Every drink orde
 - [Animate Cafe Guide Japan](/articles/animate-cafe-guide-japan)
 - [Shibuya & Harajuku Pop Culture Guide](/articles/shibuya-harajuku-pop-culture-guide)
 
-<div className="jpn-cta"><p><strong>Follow <a href="https://www.threads.net/@pop_now_jp" rel="nofollow" target="_blank">@pop_now_jp on Threads</a></strong> for real-time Tokyo pop culture updates — new collab cafes every week.</p></div>

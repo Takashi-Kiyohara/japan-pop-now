@@ -240,4 +240,3 @@ Late July through mid-August (peak summer) is brutal — 35 degrees Celsius, hum
 - [Tokyo Anime Districts](/articles/tokyo-anime-district-guide), where to go after Akihabara.
 
 
-<div class="jpn-cta"><p><strong>Follow <a href="https://www.threads.net/@pop_now_jp" rel="nofollow" target="_blank">@pop_now_jp on Threads</a></strong> for daily Tokyo pop culture updates and first-timer tips.</p></div>

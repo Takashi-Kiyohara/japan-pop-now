@@ -320,8 +320,6 @@ Booking the platform is step one. What to actually do next depends on your Tokyo
 - Body image (QR code at counter): Wikimedia Commons, *Symbole QR Code pointé utilisé dans commerce 2.jpg* by SimonTom67, CC BY-SA 4.0, [https://commons.wikimedia.org/wiki/File:Symbole_QR_Code_point%C3%A9_utilis%C3%A9_dans_commerce_2.jpg](https://commons.wikimedia.org/wiki/File:Symbole_QR_Code_point%C3%A9_utilis%C3%A9_dans_commerce_2.jpg)
 
 
-<div className="jpn-cta"><p><strong>Follow <a href="https://www.threads.net/@pop_now_jp" rel="nofollow" target="_blank">@pop_now_jp on Threads</a></strong> for weekly Tokyo pop culture and anime cafe booking updates.</p></div>
-
 export const faqSchema = {
   "@context": "https://schema.org",
   "@type": "FAQPage",
