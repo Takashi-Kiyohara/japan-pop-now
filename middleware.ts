@@ -155,12 +155,31 @@ export function middleware(request: NextRequest) {
     )
   }
 
-  // Handle legacy slug redirects (301) for alive articles.
+  // R15 fix B (2026-05-14): case-fold bare-slug LEGACY lookup. GSC has 7+
+  // mixed-case slugs in its index from the WP era (e.g. /Your-Name-Pilgrimage-Tokyo).
+  // Without case-folding these returned 404 instead of redirecting to the
+  // lowercase article URL. Match case-insensitively against the
+  // LEGACY_ARTICLE_SLUGS Set keys.
   if (trimmed && !trimmed.includes('/') && !RESERVED_TOP_PATHS.has(trimmed)) {
-    if (LEGACY_ARTICLE_SLUGS.has(trimmed)) {
-      const url = new URL(`/articles/${trimmed}`, request.url)
+    const trimmedLower = trimmed.toLowerCase()
+    if (LEGACY_ARTICLE_SLUGS.has(trimmedLower)) {
+      const url = new URL(`/articles/${trimmedLower}`, request.url)
       return NextResponse.redirect(url, 301)
     }
+  }
+
+  // R15 fix A (2026-05-14): consolidate /category/<old>/page/<N> redirects
+  // into a single 301 → /category/<new>. Previously /page/<N> stripped to
+  // /category/<old> via next.config.ts redirects(), then /category/<old>
+  // hit the migration rule below = 2 hops total. GSC reports 2-hop chains
+  // as "redirect error" — 4 old categories × 5 paginated forms = 20 errors.
+  // Match the /page/<N> form upfront and short-circuit to the new category.
+  const categoryPageMatch = pathname.match(/^\/category\/([^/]+)\/page\/\d+\/?$/)
+  if (categoryPageMatch) {
+    const oldOrCurrentSlug = categoryPageMatch[1]
+    const newSlug = CATEGORY_REDIRECTS[oldOrCurrentSlug] ?? oldOrCurrentSlug
+    const url = new URL(`/category/${newSlug}`, request.url)
+    return NextResponse.redirect(url, 301)
   }
 
   // Category slug migration: /category/<old> -> /category/<new>, 301.
@@ -172,6 +191,30 @@ export function middleware(request: NextRequest) {
       const url = new URL(`/category/${newSlug}`, request.url)
       return NextResponse.redirect(url, 301)
     }
+  }
+
+  // R15 fix D (2026-05-14): WP residue 410. /wp-admin, /wp-content/uploads/*,
+  // /wp-includes/* etc. are pre-Next legacy paths. Currently 403 (default
+  // Vercel response for non-existent paths under certain conditions) or 404.
+  // Convert to 410 + noindex so Google drops them from the index.
+  if (
+    pathname === '/wp-admin' ||
+    pathname.startsWith('/wp-admin/') ||
+    pathname.startsWith('/wp-content/') ||
+    pathname.startsWith('/wp-includes/') ||
+    pathname === '/wp-login.php' ||
+    pathname === '/xmlrpc.php'
+  ) {
+    return new NextResponse(
+      'This WordPress legacy path has been permanently removed.',
+      {
+        status: 410,
+        headers: {
+          'Content-Type': 'text/plain; charset=utf-8',
+          'X-Robots-Tag': 'noindex',
+        },
+      }
+    )
   }
 
   const response = NextResponse.next()
