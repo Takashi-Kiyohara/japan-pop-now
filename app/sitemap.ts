@@ -2,7 +2,15 @@ import { MetadataRoute } from 'next';
 import { getAllArticles, CATEGORIES } from '@/lib/articles';
 import { getAllUniqueTags } from '@/lib/auto-tags';
 import { getActiveFeatureSlugs } from '@/lib/features';
+import { getCafesForSitemap } from '@/lib/cafes';
 import { getSiteUrl, articleUrl as getArticleUrl, tagUrl, guideUrl } from '@/lib/url';
+
+// R13-C1 (2026-05-14): ISR with 1h revalidate so frontmatter / cafe-DB edits
+// land in the sitemap without a fresh build + deploy. The previous static-only
+// generation meant any post-deploy article edit (e.g. validUntil change) was
+// invisible to GSC until the next push. 3600s gives near-realtime sitemap
+// freshness while keeping edge cache benefits.
+export const revalidate = 3600;
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const baseUrl = getSiteUrl();
@@ -50,6 +58,15 @@ export default function sitemap(): MetadataRoute.Sitemap {
     },
     {
       url: `${baseUrl}/cafes`,
+      changeFrequency: 'daily',
+      priority: 0.9,
+      lastModified: latestArticleDate,
+    },
+    // R13-C2 (2026-05-14): /articles hub listing was previously absent from
+    // sitemap. Auto-included indirectly via Next.js route discovery but
+    // explicit inclusion ensures GSC sees the indexable hub.
+    {
+      url: `${baseUrl}/articles`,
       changeFrequency: 'daily',
       priority: 0.9,
       lastModified: latestArticleDate,
@@ -164,6 +181,15 @@ export default function sitemap(): MetadataRoute.Sitemap {
     };
   });
 
-  const all = [...staticPages, ...articlePages, ...categoryPages, ...guidePages, ...featurePages, ...tagPages];
+  // R13-C2 (2026-05-14): individual cafe pSEO pages from cafes.json
+  // (status-filtered: active + upcoming + ended; cancelled excluded).
+  const cafePages: MetadataRoute.Sitemap = getCafesForSitemap().map((cafe) => ({
+    url: `${baseUrl}/cafes/${cafe.slug}`,
+    changeFrequency: 'weekly' as const,
+    priority: 0.8,
+    lastModified: latestArticleDate,
+  }));
+
+  const all = [...staticPages, ...articlePages, ...categoryPages, ...guidePages, ...featurePages, ...cafePages, ...tagPages];
   return all.filter((u) => !u.url.includes('/tags/'));
 }
