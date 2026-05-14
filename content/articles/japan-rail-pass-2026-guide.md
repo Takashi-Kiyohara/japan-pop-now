@@ -307,7 +307,6 @@ Buy the JR Pass if you’re doing a real Japan road trip. Skip it if you’re mo
 - [Japan Travel Insurance 2026](/articles/japan-travel-insurance-2026)
 - [One Piece Kumamoto Statue Tour](/articles/one-piece-kumamoto-statue-tour)
 - [Osaka Anime Guide: Den Den Town & Beyond](/articles/osaka-anime-guide-den-den-town)
-**Share on Threads:** Your JR Pass experience? Tag **[@pop_now_jp](https://www.threads.net/@pop_now_jp)** or use **#JapanPopNow**
 Planning a trip to Tokyo?
 [Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)
 

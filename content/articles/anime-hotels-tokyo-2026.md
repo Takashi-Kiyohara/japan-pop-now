@@ -185,7 +185,6 @@ Tokyo levies a per-person, per-night accommodation tax of ¥100–10,000 scaled 
 - [Japan IC Card Transit Guide](/articles/japan-ic-card-transit-guide)
 - [Japan eSIM vs Pocket WiFi vs SIM Card](/articles/japan-esim-pocket-wifi-sim-card)
 - [Japan Rail Pass 2026 Guide](/articles/japan-rail-pass-2026-guide)
-**Share on Threads:** "Tokyo's anime-themed hotels compared: from ¥3k hostels in Takadanobaba to ¥122k Godzilla suites in Shinjuku to IKEPRI25 official anime collab floors in Ikebukuro. #TokyoHotels #AnimeTravel #Japan" — Tag **[@pop_now_jp](https://www.threads.net/@pop_now_jp)**
 Planning a trip to Tokyo?
 [Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)
 

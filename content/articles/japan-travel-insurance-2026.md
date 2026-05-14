@@ -244,7 +244,6 @@ But get something. A ¥30,000 ER visit or a ¥500,000 evacuation will ruin your 
 - [Japan Luggage Forwarding 2026](/articles/japan-luggage-forwarding-2026)
 - [Best Anime Hotels Tokyo 2026](/articles/anime-hotels-tokyo-2026)
 - [Tokyo Anime District Guide](/articles/tokyo-anime-district-guide)
-**Share on Threads:** “Travel insurance for Japan from $45. Why you need it, what actually costs money, and which plan is best for your trip. (Spoiler: it’s not optional.) #JapanTravel #TravelTips #TravelInsurance” — Tag **[@pop_now_jp](https://www.threads.net/@pop_now_jp)**
 Planning a trip to Tokyo?
 [Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)
 

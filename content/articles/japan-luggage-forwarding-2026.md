@@ -227,7 +227,6 @@ Takuhaibin is one of Japan’s best-kept travel secrets. It’s cheap (¥2,000-3
 - [Japan IC Card Transit Guide](/articles/japan-ic-card-transit-guide)
 - [Japan Travel Insurance 2026](/articles/japan-travel-insurance-2026)
 - [Japan eSIM vs Pocket WiFi vs SIM Card](/articles/japan-esim-pocket-wifi-sim-card)
-**Have a luggage forwarding story from Japan?** Share your experience on Threads — tag **[@pop_now_jp](https://www.threads.net/@pop_now_jp)** or use **#JapanPopNow**
 Planning a trip to Tokyo?
 [Check our complete guide to anime collaboration cafes currently open →](/articles/tokyo-anime-collab-cafes-spring-2026)
 
