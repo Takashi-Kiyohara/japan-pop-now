@@ -22,7 +22,7 @@ wpPostId: 510
 ---
 
 
-The Chainsaw Man movie *Reze Arc* turned Jinbocho into one of Tokyo's hottest anime pilgrimage spots overnight. Fans have been lining up at a phone booth, climbing an old stone staircase, and snapping photos in front of a Showa-era office building, all within a 10-minute walk of each other. Per visitor reports on Twitter (X), weekday afternoons see the route nearly empty, with weekend crowds significantly heavier.
+The [Chainsaw Man movie *Reze Arc*](https://chainsawman.dog/) (Studio MAPPA, official portal) turned Jinbocho into one of Tokyo's hottest anime pilgrimage spots overnight. Fans have been lining up at a phone booth, climbing an old stone staircase, and snapping photos in front of a Showa-era office building, all within a 10-minute walk of each other. Per visitor reports on Twitter (X) and the [Shueisha Jump+ Chainsaw Man portal](https://shonenjumpplus.com/episode/3269632237288328772), weekday afternoons see the route nearly empty, with weekend crowds significantly heavier.
 
 This guide covers every confirmed filming location from the Reze Arc movie, plus related spots from Chainsaw Man Season 1. All locations sit in the Jinbocho-Ochanomizu-Suidobashi triangle — a quiet, walkable neighborhood tucked between the flashier districts most tourists hit first. That's part of what makes this pilgrimage so good: the area itself feels like the manga.
 

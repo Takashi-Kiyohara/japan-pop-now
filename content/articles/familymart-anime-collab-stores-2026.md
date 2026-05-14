@@ -22,8 +22,8 @@ excerpt: >-
 relatedSlugs: []
 wpPostId: 608
 ---
-FamilyMart Anime Collab Stores: Japan’s Newest Trend (2026)
-FamilyMart just cracked the code on making convenience stores into tourist destinations. By launching anime-themed collab stores, Japan’s largest convenience chain has turned everyday shopping into an experience that draws fans from across the city. The model is simple but brilliant: transform a single store location into a pop-up themed around one anime series, stock exclusive merch and food items, and let word-of-mouth do the work. Here’s what’s actually happening, where to find them, and why they matter.
+FamilyMart Anime Collab Stores: Japan's Newest Trend (2026)
+[FamilyMart](https://www.family.co.jp/) just cracked the code on making convenience stores into tourist destinations. By launching anime-themed collab stores, Japan's largest convenience chain has turned everyday shopping into an experience that draws fans from across the city. The Durarara!! tie-up runs through the [official FamilyMart campaign page](https://www.family.co.jp/campaign/) under their rotating anime collab program. The model is simple but brilliant: transform a single store location into a pop-up themed around one anime series, stock exclusive merch and food items, and let word-of-mouth do the work. Here’s what’s actually happening, where to find them, and why they matter.
 
 ## What Is a FamilyMart Anime Collab Store?
 
