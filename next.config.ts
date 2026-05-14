@@ -256,6 +256,15 @@ const nextConfig: NextConfig = {
       destination: '/feed.xml',
       permanent: true,
     },
+    // R15 fix C (2026-05-14): WordPress generates /sitemap_index.xml at the
+    // root for its multi-sitemap layout. Google has this URL indexed from
+    // the WP era and currently returns 404. Redirect to /sitemap.xml so
+    // GSC discovers our actual sitemap via the legacy URL.
+    {
+      source: '/sitemap_index.xml',
+      destination: '/sitemap.xml',
+      permanent: true,
+    },
 
     // ── Existing structural rules ──
     // R13-E1 (2026-05-14): WordPress date-based URL rule REMOVED from
