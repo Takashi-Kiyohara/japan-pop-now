@@ -55,13 +55,24 @@ No required fixes. All 5 buckets land cleanly with no regressions.
 ```
 a484a9d fix(r14-A): @japanpopnow → @pop_now_jp full migration
 1e1ad85 fix(r14-B): og:authors SSoT fallback
-e1d3... + 503ec39 + 5badf8b: r14-C batch 1/2/3 (em-dash sweep top 25)
-~c0ce... fix(r14-D step 1/2): ThreadsCTA component + auto-inject
-~30c5... fix(r14-D step 2/2): strip inline ThreadsCTA from 29 articles
+ad357d2 fix(r14-C batch 1/3): em-dash sweep top 9
+503ec39 fix(r14-C batch 2/3): em-dash sweep next 8
+5badf8b fix(r14-C batch 3/3): em-dash sweep total top 25
+db5779c feat(r14-D step 1/2): ThreadsCTA component + auto-inject
+815e80d fix(r14-D step 2/2): strip inline ThreadsCTA HTML wrapper from 29 articles
 02362ef feat(r14-E): anchor diversity sweep top 10 articles
+eab8bd7 docs(r14): external Critic Round 1 GREEN
 ```
 
-9 commits total. Spec target was 7+; delivered 9.
+Post-Critic-R1 cleanup (this section added after the markdown-variant inline-strip pattern was discovered):
+```
+d9d9ce2 fix(r14-cleanup batch 1/3): markdown Threads CTA strip first 10
+896eeba fix(r14-cleanup batch 2/3): markdown Threads CTA strip next 10
+642f5c8 fix(r14-cleanup batch 3/3): markdown Threads CTA strip remaining 8
+f4ab3f5 fix(r14-cleanup): jjk-shibuya inline mid-paragraph (29th + final article)
+```
+
+**13 commits total** (9 R14 main + 4 R14-cleanup). Spec target was 7+; delivered 13.
 
 ## Carry-forward (unchanged from R13)
 
