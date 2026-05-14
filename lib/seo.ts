@@ -1,5 +1,5 @@
 import { ArticleMeta } from './articles';
-import { AUTHOR_SAME_AS } from './author';
+import { AUTHOR, AUTHOR_SAME_AS } from './author';
 
 export const SITE_URL = 'https://www.japan-pop-now.com';
 export const SITE_NAME = 'Japan Pop Now';
@@ -41,7 +41,11 @@ export function generateArticleMetadata(article: ArticleMeta, slug: string) {
           ],
       publishedTime: article.date,
       modifiedTime: article.date,
-      authors: [article.author],
+      // R14-B (2026-05-14): og:authors SSoT enforcement — fall back to
+      // AUTHOR.name (Takapon) when frontmatter author is empty. Prevents
+      // OG meta from emitting an empty authors array, which OG validators
+      // and Twitter Card validators both flag as malformed.
+      authors: [article.author || AUTHOR.name],
       tags: article.tags,
     },
     twitter: {
