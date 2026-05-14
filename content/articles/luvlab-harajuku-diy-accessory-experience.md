@@ -50,9 +50,9 @@ spotlightExpiry: '2026-05-15'
 
 
 ![Takeshita Street entrance gateway in Harajuku with crowds heading toward the famous shopping street where LuvLab Harajuku is located](/images/articles/luvlab-harajuku/body-wikimedia-1.webp)
-*Takeshita Street's iconic flower-shaped gateway near JR Harajuku Station — LuvLab Harajuku sits a 2-minute walk from this entrance. Photo: Syced / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Takeshita_Street_entrance_on_Meiji_Avenue_side.jpg), CC0.*
+*Takeshita Street's iconic flower-shaped gateway near JR Harajuku Station. LuvLab Harajuku sits a 2-minute walk from this entrance. Photo: Syced / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Takeshita_Street_entrance_on_Meiji_Avenue_side.jpg), CC0.*
 
-LuvLab offers 5 core experiences, each with a different price point and time commitment. The sweet spot for most visitors is the custom keyboard keychain — fast to make, easy to understand without Japanese, and one of the lowest entry prices. Whether you want a matching set with your travel partner, a gift in your best friend's favorite colors, an *oshi-katsu* accessory decked out in your favorite character's theme, or just a one-of-a-kind Harajuku souvenir for yourself, there is a craft here for it.
+LuvLab offers 5 core experiences, each with a different price point and time commitment. The sweet spot for most visitors is the custom keyboard keychain, fast to make, easy to understand without Japanese, and one of the lowest entry prices. Whether you want a matching set with your travel partner, a gift in your best friend's favorite colors, an *oshi-katsu* accessory decked out in your favorite character's theme, or just a one-of-a-kind Harajuku souvenir for yourself, there is a craft here for it.
 
 **Italian Charm Watches** are the flagship product and the most popular among Japanese customers. You pick a watch face (round, heart-shaped, or square), then snap on individual Italian charms to build the band. The result looks like a high-end fashion watch, but every charm is one you chose yourself. Bracelet versions and Apple Watch bands are also available.
 
@@ -60,7 +60,7 @@ LuvLab offers 5 core experiences, each with a different price point and time com
 ![Italian charm watch with multiple decorative charms](/images/articles/luvlab-harajuku/product-italian-charm.webp)
 *A finished Italian charm watch showing the range of charm options available at LuvLab.*
 
-**Snake Bracelets** are a Harajuku-exclusive item you can't get at the Shibuya or Yokohama locations. These Pandora-style bracelets use a snake chain base with clip-on charms — skulls, hearts, crystals, flowers. The base set comes with 3 parts, and you add extras at 300-800 yen each.
+**Snake Bracelets** are a Harajuku-exclusive item you can't get at the Shibuya or Yokohama locations. These Pandora-style bracelets use a snake chain base with clip-on charms, skulls, hearts, crystals, flowers. The base set comes with 3 parts, and you add extras at 300-800 yen each.
 
 
 ![Snake bracelet showing detailed charm arrangement](/images/articles/luvlab-harajuku/product-snake-bracelet.webp)
@@ -107,14 +107,14 @@ Here is the complete pricing breakdown. All prices listed are before tax (add 10
 
 </div>
 
-**Budget tip:** The absolute minimum spend is 300 yen for a single add-on accessory keychain piece. For a satisfying experience, budget around 2,500-3,000 yen — enough for a 4-piece keyboard keychain set or a snake bracelet with a few extra charms. At that price point, you are getting a completely unique handmade accessory for less than a Starbucks seasonal tumbler.
+**Budget tip:** The absolute minimum spend is 300 yen for a single add-on accessory keychain piece. For a satisfying experience, budget around 2,500-3,000 yen, enough for a 4-piece keyboard keychain set or a snake bracelet with a few extra charms. At that price point, you are getting a completely unique handmade accessory for less than a Starbucks seasonal tumbler.
 
 
 ## What Is the Store Like Inside?
 
 
 ![LuvLab Harajuku wide interior shot with crafting stations](/images/articles/luvlab-harajuku/interior-full.webp)
-*Clean white walls, a disco ball, and star-shaped lights — the Harajuku location leans into a minimalist aesthetic that feels welcoming regardless of gender.*
+*Clean white walls, a disco ball, and star-shaped lights, the Harajuku location leans into a minimalist aesthetic that feels welcoming regardless of gender.*
 
 **The interior is intentionally gender-neutral.** White walls, black ceiling with spotlights and a disco ball, and clean display tables replace the pastel overload you might expect from a Harajuku accessory shop. The owner designed it so that boyfriends, guy friends, and solo male visitors feel just as comfortable walking in as anyone else.
 
@@ -126,7 +126,7 @@ Here is the complete pricing breakdown. All prices listed are before tax (add 10
 ![Crafting workspace and pegboard display](/images/articles/luvlab-harajuku/interior-table.webp)
 *A pegboard wall displays finished snake bracelets and Italian charms as inspiration, with colorful keycaps organized in clear bins on the right.*
 
-The main crafting area has standing-height tables where you assemble your piece. Staff members are nearby if you need help, but the process is intuitive enough that most visitors figure it out on their own. There is no pressure to buy — you can browse the charm wall for as long as you want before committing.
+The main crafting area has standing-height tables where you assemble your piece. Staff members are nearby if you need help, but the process is intuitive enough that most visitors figure it out on their own. There is no pressure to buy, you can browse the charm wall for as long as you want before committing.
 
 
 ## How Do Custom Keyboard Keychains Work?
@@ -143,7 +143,7 @@ This is the featured experience. Per the operator's flow, the process takes abou
 
 3. Snap the keycaps onto the bar. They click into place with a satisfying mechanical keyboard sound.
 
-4. Add dangling accessories — small charms, ribbons, or chains that hang below the keycaps. These cost 300-900 yen each.
+4. Add dangling accessories, small charms, ribbons, or chains that hang below the keycaps. These cost 300-900 yen each.
 
 
 ![Choosing custom keyboard keycaps from the display](/images/articles/luvlab-harajuku/keyboard-hand.webp)
@@ -181,7 +181,7 @@ Snake bracelets are the Harajuku-exclusive item and the one that draws the most 
 
 ## Why This Is Trending Right Now
 
-The "make it yourself" (*tezukuri*, 手作り) culture runs deeper in Japan than most visitors realize. It connects to *oshi-katsu* (推し活) — the practice of expressing fandom through personalized items. For Gen Z visitors especially, the appeal is not just the finished product but the content moment: filming the process, showing off the charm selection, and posting the result with a Harajuku location tag. LuvLab taps into this by letting customers build accessories that represent *their* taste, not a mass-produced version of it.
+The "make it yourself" (*tezukuri*, 手作り) culture runs deeper in Japan than most visitors realize. It connects to *oshi-katsu* (推し活), the practice of expressing fandom through personalized items. For Gen Z visitors especially, the appeal is not just the finished product but the content moment: filming the process, showing off the charm selection, and posting the result with a Harajuku location tag. LuvLab taps into this by letting customers build accessories that represent *their* taste, not a mass-produced version of it.
 
 **Italian charms specifically exploded on Japanese social media in late 2025**, driven by TikTok creators showing off watch builds with dozens of character charms. The trend crossed over from Italy (where Nomination and Composable brands dominate) but took on a distinctly Japanese flavor — more anime motifs, more color, more maximalism. If you visit in spring 2026, you are catching this trend near its peak.
 

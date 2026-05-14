@@ -24,7 +24,7 @@ wpPostId: 199
 ![Animate Akihabara storefront in Tokyo — flagship retail of the chain that runs the Animate Cafe collab brand](/images/articles/animate-cafe-guide-japan/body-wikimedia-1.webp)
 *Photo: Dick Thomas Johnson / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Animate_Akihabara_(53152038454).jpg), CC BY 2.0. Animate Akihabara flagship, the chain that operates Animate Cafe.*
 
-Animate Cafe is Japan’s biggest anime collaboration cafe chain — and one of the most confusing for international visitors to figure out. Unlike most collab cafes that use a first-come-first-served online system, Animate Cafe runs on a **lottery**. You don’t race to grab a slot. You enter a draw and hope your name gets picked.
+Animate Cafe is Japan’s biggest anime collaboration cafe chain, and one of the most confusing for international visitors to figure out. Unlike most collab cafes that use a first-come-first-served online system, Animate Cafe runs on a **lottery**. You don’t race to grab a slot. You enter a draw and hope your name gets picked.
 
 The good news: this actually levels the playing field. You don’t need lightning-fast reflexes or a Japanese phone number. You just need to know how the system works and when to enter.
 
@@ -34,8 +34,8 @@ This guide covers everything, the booking lottery, what the cafe experience is a
 ## What Is Currently Running (Late April 2026)
 The lottery system below works the same way no matter the franchise, but here are the active Animate Cafe collabs as of April 29, 2026:
 
-- **IDOLiSH7 (アイドリッシュセブン) × Animate Cafe — “Rivare Chaya” (りばぁれ茶屋)**. Animate Cafe Tokyo (Ikebukuro) and Osaka Nipponbashi, April 7 – May 10, 2026. Lottery results have already been announced; check the booking page a few days before your preferred date for any released cancellation slots.
-- **DECOTTO by animate cafe (Ikebukuro Annex 1F)** — between collabs as of April 27. The MHA × DECOTTO Waffle Sandwich Diner closed April 26, 2026. Watch [@animate_cafe](https://x.com/animate_cafe) on X for the next theme.
+- **IDOLiSH7 (アイドリッシュセブン) × Animate Cafe: “Rivare Chaya” (りばぁれ茶屋)**. Animate Cafe Tokyo (Ikebukuro) and Osaka Nipponbashi, April 7 – May 10, 2026. Lottery results have already been announced; check the booking page a few days before your preferred date for any released cancellation slots.
+- **DECOTTO by animate cafe (Ikebukuro Annex 1F)**, between collabs as of April 27. The MHA × DECOTTO Waffle Sandwich Diner closed April 26, 2026. Watch [@animate_cafe](https://x.com/animate_cafe) on X for the next theme.
 - **Gratte stands (Ikebukuro basement, Akihabara ANNEX, Shibuya, Kichijoji PARCO)**, themes rotate every two weeks. The HUNTER×HUNTER Zoldyck Family Arc Gratte run ended April 15; the current Gratte theme is announced on the Animate Gratte X account.
 
 If you are choosing between Animate Cafe locations for Golden Week (April 29 – May 6), Ikebukuro PACKS 7F-8F is the safest bet: it is the flagship space and the only one running the i7 Rivare Chaya menu in Tokyo.
@@ -44,7 +44,7 @@ If you are choosing between Animate Cafe locations for Golden Week (April 29 –
 ## How Animate Cafe Works — The Basics
 Animate Cafe is operated by **Animate Corporation**, the company behind Japan’s largest anime retail chain. They run dedicated cafe spaces that swap collaboration themes roughly every 2-4 weeks. One month it’s My Hero Academia, the next it’s Haikyuu!!, then Jujutsu Kaisen, the lineup rotates constantly.
 
-Each collaboration features a themed menu (food, drinks, and desserts), exclusive merchandise available only during that collab period, and interior decorations matching the franchise. Every food or drink order earns you a random collectible bonus — usually a coaster or postcard featuring exclusive artwork drawn specifically for that collaboration.
+Each collaboration features a themed menu (food, drinks, and desserts), exclusive merchandise available only during that collab period, and interior decorations matching the franchise. Every food or drink order earns you a random collectible bonus, usually a coaster or postcard featuring exclusive artwork drawn specifically for that collaboration.
 
 The key difference from other collab cafes: **almost everything at Animate Cafe requires a lottery reservation**. You cannot walk in. You cannot buy tickets on the day. You enter the lottery during a specific window, wait for results, and either get in or you don’t.
 
@@ -92,7 +92,7 @@ If you lose: there’s often a second-round lottery for remaining slots. After t
 
 
 ### 5. Day of Your Visit
-Bring **photo ID** (passport works) and your reservation confirmation (screenshot on your phone is fine). Arrive 5-10 minutes before your time slot. Late arrivals may lose their reservation — most Animate Cafe locations enforce a 15-minute grace period.
+Bring **photo ID** (passport works) and your reservation confirmation (screenshot on your phone is fine). Arrive 5-10 minutes before your time slot. Late arrivals may lose their reservation, most Animate Cafe locations enforce a 15-minute grace period.
 
 
 ## All Current Animate Cafe Locations
@@ -109,7 +109,7 @@ The **Ikebukuro Main location** is the largest and gets every collaboration. Aki
 **If your trip includes Nagoya or Osaka:** Enter the lottery for those locations too. The same collaboration runs simultaneously across cities, but far fewer people enter the Nagoya and Osaka lotteries. Your chances of winning jump considerably.
 
 
-![Animate Osaka Nipponbashi storefront — Osaka anime district branch with separate Animate Cafe lottery pool](/images/articles/animate-cafe-guide-japan/body-wikimedia-3.webp)
+![Animate Osaka Nipponbashi storefront. Osaka anime district branch with separate Animate Cafe lottery pool](/images/articles/animate-cafe-guide-japan/body-wikimedia-3.webp)
 *Animate Osaka Nipponbashi. Osaka's flagship Animate, hosting the Osaka Animate Cafe lottery pool. Photo: トレインファン / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Animate_Osaka_Nippombashi.jpg) (CC0).*
 
 
@@ -119,7 +119,7 @@ The **Ikebukuro Main location** is the largest and gets every collaboration. Aki
 
 ## What to Expect: Menu, Prices, and Bonus Items
 
-Every collaboration has a unique menu designed around the featured franchise. Expect 4-8 food items, 4-6 drinks, and 2-4 desserts. Each item is named after a character or scene from the anime, and the presentation is part of the experience — dishes are arranged to look like characters, drinks come with character-printed latte art, and desserts feature edible prints.
+Every collaboration has a unique menu designed around the featured franchise. Expect 4-8 food items, 4-6 drinks, and 2-4 desserts. Each item is named after a character or scene from the anime, and the presentation is part of the experience, dishes are arranged to look like characters, drinks come with character-printed latte art, and desserts feature edible prints.
 
 
 ### Typical Pricing
@@ -198,7 +198,7 @@ Tokyo has several collab cafe operators. Here’s how Animate Cafe compares:
 | **THE GUEST cafe&diner** | First-come online booking. Shibuya PARCO permanent location. Higher food quality. Best for: combining with Shibuya shopping. |
 | **Permanent themed cafes** | Walk-in or easy booking. Fixed themes year-round (Eorzea Cafe, Square Enix Cafe). Best for: zero-planning visits. |
 
-The biggest practical difference: Animate Cafe’s lottery system means you need to plan 2-4 weeks ahead. Other chains let you book days before — or even walk in. If you’re visiting Japan soon and haven’t entered a lottery yet, look at our [complete booking guide](/articles/how-to-book-anime-collab-cafe-japan/) for the other systems.
+The biggest practical difference: Animate Cafe’s lottery system means you need to plan 2-4 weeks ahead. Other chains let you book days before, or even walk in. If you’re visiting Japan soon and haven’t entered a lottery yet, look at our [complete booking guide](/articles/how-to-book-anime-collab-cafe-japan/) for the other systems.
 
 
 ### Skip the Lottery: Book a Guided Collab Cafe Tour
@@ -216,7 +216,7 @@ Animate Cafe’s lottery system can be frustrating, especially if you don’t re
 
 
 ![Otome Road in Ikebukuro, the wider anime shopping district surrounding Animate flagship and the cafe](/images/articles/animate-cafe-guide-japan/body-wikimedia-2.webp)
-*Otome Road in Ikebukuro, the anime shopping street near Animate flagship — illustrative neighborhood context. Photo: Boyfriendback / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Otome_road_in_Ikebukuro,_Tokyo,_Japan.jpg), Public domain.*
+*Otome Road in Ikebukuro, the anime shopping street near Animate flagship, illustrative neighborhood context. Photo: Boyfriendback / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Otome_road_in_Ikebukuro,_Tokyo,_Japan.jpg), Public domain.*
 
 **Don’t show up without a reservation.** Animate Cafe will not seat walk-ins under any circumstances. This is different from some other collab cafes that hold back walk-in slots. At Animate Cafe, no reservation = no entry. Period.
 
@@ -240,7 +240,7 @@ Check the lottery schedule 3-4 weeks before your trip. Most lottery entry period
 
 **What’s the best Animate Cafe location?**
 
-Ikebukuro Main. Largest space, best kitchen, gets every collaboration, and it’s surrounded by the rest of Ikebukuro’s anime district — Animate flagship store, Otome Road, and Sunshine City are all within walking distance. See our [Ikebukuro Anime Guide](/articles/ikebukuro-anime-guide-2026/) for the full picture.
+Ikebukuro Main. Largest space, best kitchen, gets every collaboration, and it’s surrounded by the rest of Ikebukuro’s anime district. Animate flagship store, Otome Road, and Sunshine City are all within walking distance. See our [Ikebukuro Anime Guide](/articles/ikebukuro-anime-guide-2026/) for the full picture.
 
 
 ## More Collab Cafe Guides

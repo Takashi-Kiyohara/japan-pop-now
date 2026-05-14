@@ -43,9 +43,9 @@ Gachapon machines lined up at a Tokyo arcade
 ## What Is Gachapon? A Quick Primer
 The word *gachapon* comes from two sounds: *gacha* (the crank turning) and *pon* (the capsule dropping). You’ll also see it written as *gashapon* (Bandai’s trademark version) or just *gacha*. They all mean the same thing, coin-operated capsule toy dispensers.
 
-Japan has an estimated 600,000+ gachapon machines nationwide. The market hit 610 billion yen in 2023 and shows no sign of slowing down. What started as cheap toys for kids in the 1960s has evolved into a serious collectibles market. Today you’ll find gachapon featuring licensed anime characters, museum-quality miniature food replicas, functional phone accessories, and art pieces from independent designers. The two dominant brands behind these machines are [Bandai Gashapon](https://gashapon.jp/) — Bandai’s capsule toy division — and [Takara Tomy Arts](https://www.takaratomy-arts.co.jp/), whose gashapon line is currently observing its 60th anniversary with new collaboration product runs.
+Japan has an estimated 600,000+ gachapon machines nationwide. The market hit 610 billion yen in 2023 and shows no sign of slowing down. What started as cheap toys for kids in the 1960s has evolved into a serious collectibles market. Today you’ll find gachapon featuring licensed anime characters, museum-quality miniature food replicas, functional phone accessories, and art pieces from independent designers. The two dominant brands behind these machines are [Bandai Gashapon](https://gashapon.jp/): Bandai’s capsule toy division, and [Takara Tomy Arts](https://www.takaratomy-arts.co.jp/), whose gashapon line is currently observing its 60th anniversary with new collaboration product runs.
 
-The key difference from Western vending machines: Japanese gachapon almost always come in themed sets of 4 to 6 designs. Each capsule is random, so you might not get the one you want on the first try. Some machines show the complete lineup on a printed card attached to the front. That lineup card is your best friend — check it before you insert coins.
+The key difference from Western vending machines: Japanese gachapon almost always come in themed sets of 4 to 6 designs. Each capsule is random, so you might not get the one you want on the first try. Some machines show the complete lineup on a printed card attached to the front. That lineup card is your best friend, check it before you insert coins.
 
 
 ![Aisle of capsule toy gachapon machines lining the walls of a Gashapon shop in Akihabara, Tokyo](/images/articles/gachapon-guide-japan/body-wikimedia-1.webp)
@@ -59,7 +59,7 @@ Using a gachapon machine takes about 15 seconds once you know the process.
 2. **Insert coins.** Feed them one at a time into the coin slot. The machine has a small counter that shows how much you’ve put in.
 3. **Turn the crank.** A full clockwise rotation. Don’t force it if it won’t turn — you probably haven’t inserted enough coins.
 4. **Grab your capsule.** It drops into the tray at the bottom. Open it up and check what you got.
-5. **Recycle the capsule shell.** Most gachapon locations have a bin nearby for empty capsule shells. Please use it — don’t leave shells on the floor.
+5. **Recycle the capsule shell.** Most gachapon locations have a bin nearby for empty capsule shells. Please use it, don’t leave shells on the floor.
 
 **Important:** These machines do not give change. If the price is 300 yen, you need exactly three 100-yen coins. Bring a bag of 100-yen coins or use the change machines that every dedicated gachapon shop provides. Convenience store cashiers won’t break bills just for change, but buying a drink first makes the request easier.
 
@@ -98,7 +98,7 @@ Gachapon machines are everywhere in Japan, but some locations are worth making a
 | **Hours** | 10:00 – 22:00 daily |
 | **Machines** | 500+ |
 
-**Gashapon Bandai Official Shop (Tokyo Station)** — Bandai’s own shop inside Tokyo Station Character Street. Focuses on Bandai-exclusive releases. Smaller than Akihabara shops but convenient if you’re passing through. Some machines here carry Tokyo Station limited editions.
+**Gashapon Bandai Official Shop (Tokyo Station)**: Bandai’s own shop inside Tokyo Station Character Street. Focuses on Bandai-exclusive releases. Smaller than Akihabara shops but convenient if you’re passing through. Some machines here carry Tokyo Station limited editions.
 
 **Kenelephant Gachapon Department (Shibuya)**. Inside Shibuya PARCO. Known for art-toy crossover lines and trendy collaborations. Smaller space but hand-picked selection that skews toward the premium 400-500 yen range.
 
@@ -106,7 +106,7 @@ Gachapon machines are everywhere in Japan, but some locations are worth making a
 ### Big Retail Stores with Large Gachapon Sections
 **Yodobashi Camera Akihabara**. The 6th floor toy section has 200+ gachapon machines lined up along the wall. Good selection of anime-licensed machines. The advantage here: you’re already in a store that accepts credit cards, so you can buy 100-yen coins from the change machine without hunting for a convenience store first.
 
-**Animate (all locations)** — Every Animate store has a gachapon corner, usually near the entrance or on a dedicated floor. The Ikebukuro main store has the largest anime-focused gachapon selection. Tilts heavily toward anime and manga series.
+**Animate (all locations)**: Every Animate store has a gachapon corner, usually near the entrance or on a dedicated floor. The Ikebukuro main store has the largest anime-focused gachapon selection. Tilts heavily toward anime and manga series.
 
 **Don Quijote**. The discount chain always has gachapon machines on the ground floor or near the entrance. Selection varies by location, but you’ll usually find 50 to 100 machines. The Shibuya mega store and Akihabara branch have the best selections.
 
@@ -117,7 +117,7 @@ You don’t need to visit a specialty shop. Gachapon machines appear in everyday
 Collectible figures from gachapon machines
 
 ![Shoppers browsing a wall of gachapon capsule toy machines at a dedicated gashapon shop in Ueno Station, Tokyo](/images/articles/gachapon-guide-japan/body-wikimedia-4.webp)
-*Shoppers browsing a wall of gashapon machines inside JR Ueno Station — dedicated shops like this stock hundreds of machines side by side. Photo: Ka23 13 / Wikimedia Commons (CC BY 4.0).*
+*Shoppers browsing a wall of gashapon machines inside JR Ueno Station, dedicated shops like this stock hundreds of machines side by side. Photo: Ka23 13 / Wikimedia Commons (CC BY 4.0).*
 
 
 ## Best Series and Brands to Look For
@@ -146,10 +146,10 @@ With thousands of machines to choose from, here are five categories that consist
 1. **Miniature Japanese food replicas (300 yen).** Tiny sushi, ramen bowls, and bento boxes that look almost real. Qualia and Kitan Club make the best ones. Perfect desk decorations and gifts.
 2. **Anime character swing keychains (300 yen).** Small enough to attach to your bag or phone case. Every major series has a swing keychain set. Bandai dominates this category.
 3. **Cup no Fuchiko-style rim hangers (300 yen).** Figures designed to perch on the edge of a cup or glass. Kitan Club started this trend and it’s still going strong with new character collaborations.
-4. **Animal figurines (400 yen).** Incredibly detailed sleeping cats, sitting dogs, and wildlife figures. These transcend anime fandom — anyone would appreciate them as a gift.
+4. **Animal figurines (400 yen).** Incredibly detailed sleeping cats, sitting dogs, and wildlife figures. These transcend anime fandom, anyone would appreciate them as a gift.
 5. **Miniature electronics and appliances (500 yen).** Tiny working fans, miniature vending machines, and small arcade cabinets. Takara Tomy Arts makes most of these. They’re conversation starters.
 
-**Budget guide:** Bring 2,000 yen in 100-yen coins for a satisfying gachapon session. That gets you 4-6 capsules across different machines — enough variety without overspending.
+**Budget guide:** Bring 2,000 yen in 100-yen coins for a satisfying gachapon session. That gets you 4-6 capsules across different machines, enough variety without overspending.
 
 
 ![Pile of opened gachapon capsules with character figures and stickers visible inside](/images/articles/gachapon-guide-japan/body-wikimedia-5.webp)
@@ -169,7 +169,7 @@ With thousands of machines to choose from, here are five categories that consist
 
 **Duplicates are tradeable.** If you get duplicates while hunting a specific figure, hold onto them. Some gachapon shops have trading boards where collectors swap duplicates. In Akihabara, Nakano Broadway shops will sometimes buy back popular duplicates.
 
-**Customs-friendly souvenirs.** Gachapon capsules are small, lightweight, and not food — they sail through customs in any country. They pack flat in carry-on luggage. Each one costs under $5. For souvenir-per-yen value, gachapon are hard to beat.
+**Customs-friendly souvenirs.** Gachapon capsules are small, lightweight, and not food, they sail through customs in any country. They pack flat in carry-on luggage. Each one costs under $5. For souvenir-per-yen value, gachapon are hard to beat.
 
 
 ### Buy Gachapon Capsule Toys Online

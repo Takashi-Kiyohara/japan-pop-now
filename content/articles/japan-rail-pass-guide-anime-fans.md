@@ -43,9 +43,9 @@ Trip reports across anime-pilgrimage forums show the JR Pass used productively o
 ## What Is the Japan Rail Pass?
 
 
-![Tokyo Station Marunouchi entrance — a typical starting point for anime-pilgrimage routes that use the JR Pass](/images/articles/japan-rail-pass-guide-anime-fans/body-wikimedia-1.webp)
+![Tokyo Station Marunouchi entrance, a typical starting point for anime-pilgrimage routes that use the JR Pass](/images/articles/japan-rail-pass-guide-anime-fans/body-wikimedia-1.webp)
 
-*Photo: Zairon / Wikimedia Commons (CC BY-SA 4.0) — Tokyo Station Marunouchi side.*
+*Photo: Zairon / Wikimedia Commons (CC BY-SA 4.0): Tokyo Station Marunouchi side.*
 
 The Japan Rail Pass is a flat-rate ticket that gives you unlimited rides on JR trains, including the Shinkansen (bullet train), JR local lines, and some JR buses and ferries. It’s sold exclusively to foreign tourists on short-stay visas.
 
@@ -66,9 +66,9 @@ There are three durations: 7-day, 14-day, and 21-day. You activate it at any JR 
 ## Is a JR Pass Worth It for Anime Fans?
 
 
-![Akihabara Station — gateway to Tokyo's anime electronics district, on the JR Yamanote loop covered by the pass](/images/articles/japan-rail-pass-guide-anime-fans/body-wikimedia-2.webp)
+![Akihabara Station, gateway to Tokyo's anime electronics district, on the JR Yamanote loop covered by the pass](/images/articles/japan-rail-pass-guide-anime-fans/body-wikimedia-2.webp)
 
-*Photo: JKuroha / Wikimedia Commons (CC BY-SA 4.0) — Akihabara Station, Tokyo.*
+*Photo: JKuroha / Wikimedia Commons (CC BY-SA 4.0): Akihabara Station, Tokyo.*
 
 The short answer: **if you’re leaving Tokyo for at least two cities, almost certainly yes.** If you’re staying only in Tokyo, no.
 
@@ -80,7 +80,7 @@ The short answer: **if you’re leaving Tokyo for at least two cities, almost ce
 
 
 ### When to SKIP the JR Pass:
-**Tokyo-only trips.** Most Tokyo anime spots (Akihabara, Ikebukuro, Nakano, Shibuya) are on the Metro and private rail lines that the JR Pass doesn’t cover. You’d be paying 50,000 yen for a pass that saves you maybe 3,000 yen. Get an IC card instead — see our [IC Card Guide for Anime Fans](/articles/japan-ic-card-transit-guide/).
+**Tokyo-only trips.** Most Tokyo anime spots (Akihabara, Ikebukuro, Nakano, Shibuya) are on the Metro and private rail lines that the JR Pass doesn’t cover. You’d be paying 50,000 yen for a pass that saves you maybe 3,000 yen. Get an IC card instead, see our [IC Card Guide for Anime Fans](/articles/japan-ic-card-transit-guide/).
 
 **Short trips with one destination.** Flying Tokyo-Osaka on Peach or Jetstar can cost 5,000-8,000 yen one-way. If you’re only doing Tokyo and Osaka, a budget airline might beat the JR Pass on price.
 
@@ -138,7 +138,7 @@ Let me run the numbers on three common anime fan itineraries:
 | **14-Day JR Pass** | **~80,000 yen** |
 | **Verdict** | **Close call. Individual wins by ~7,700 yen, BUT the convenience of not buying tickets at every station is worth something.** |
 
-**Pro tip:** The real value of a JR Pass isn’t just savings — it’s flexibility. With a pass, you can spontaneously hop on a train to check out a collab cafe that just opened in another city without worrying about ticket costs.
+**Pro tip:** The real value of a JR Pass isn’t just savings, it’s flexibility. With a pass, you can spontaneously hop on a train to check out a collab cafe that just opened in another city without worrying about ticket costs.
 
 
 ### Check Current JR Pass Prices
@@ -204,7 +204,7 @@ All three routes link up with our area guides: [Akihabara Guide](/articles/akiha
 
 A JR Pass covers JR lines, but many Tokyo anime spots require Metro or private railways. You’ll still need an IC card (Suica or PASMO) for:
 
-- **Tokyo Metro lines** — needed for Ikebukuro’s Sunshine City (collab cafe venue), parts of Shibuya
+- **Tokyo Metro lines**, needed for Ikebukuro’s Sunshine City (collab cafe venue), parts of Shibuya
 - **Buses** — needed in Kumamoto for One Piece statue tour
 - **Convenience stores**. IC cards work as contactless payment at Lawson, 7-Eleven, etc.
 
@@ -234,7 +234,7 @@ With a JR Pass, you can reserve seats on the Shinkansen at no extra cost. Do thi
 
 
 ### Airport connections
-The JR Pass covers the Narita Express (N’EX) from Narita Airport to Tokyo — a 3,000 yen ride. It does NOT cover the Keisei Skyliner or monorail from Haneda. If you’re flying into Narita, activate your pass there and ride the N’EX for free.
+The JR Pass covers the Narita Express (N’EX) from Narita Airport to Tokyo, a 3,000 yen ride. It does NOT cover the Keisei Skyliner or monorail from Haneda. If you’re flying into Narita, activate your pass there and ride the N’EX for free.
 
 
 ### Get Your JR Pass + Pocket WiFi Together
@@ -268,7 +268,7 @@ Partially. The JR Pass covers JR lines to Universal City Station, but not the pa
 - [Akihabara Complete Guide 2026](/articles/akihabara-complete-guide-2026)
 - [10 Anime Pilgrimage Spots in Tokyo](/articles/anime-pilgrimage-spots-tokyo)
 - [@pop_now_jp](https://www.threads.net/@pop_now_jp)
-- [JR Pass Anime Pilgrimages 2026 — Routes, Prices & Savings Calculator](/articles/anime-day-trips-from-tokyo-2026)
+- [JR Pass Anime Pilgrimages 2026: Routes, Prices & Savings Calculator](/articles/anime-day-trips-from-tokyo-2026)
 - [Japan Trip Checklist for Anime Fans 2026](/articles/japan-trip-checklist-anime-fans-2026)
 - [Ship Anime Figures Home from Japan: 2026 Guide](/ship-anime-figures-merch-home-japan-2026/)
 

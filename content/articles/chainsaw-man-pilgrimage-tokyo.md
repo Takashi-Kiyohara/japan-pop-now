@@ -34,9 +34,9 @@ Across years of Japanese anime location pilgrimage practice, the Jinbocho-Ochano
 ## Table of Contents
 
 - [Reze Arc Movie Locations](#reze-arc-locations)
-- [The Phone Booth — Where Denji Meets Reze](#phone-booth)
+- [The Phone Booth. Where Denji Meets Reze](#phone-booth)
 - [Aoi Building. Reze's Walking Scene](#aoi-building)
-- [Onnazaka Stairs — The Iconic Staircase](#onnazaka)
+- [Onnazaka Stairs. The Iconic Staircase](#onnazaka)
 - [Cafe Vale. The Real-Life Model for Reze's Cafe](#cafe-vale)
 - [Season 1 Tokyo Locations](#season1-locations)
 - [Recommended Walking Route (2-3 Hours)](#walking-route)
@@ -50,7 +50,7 @@ Across years of Japanese anime location pilgrimage practice, the Jinbocho-Ochano
 ## Reze Arc Movie Locations
 
 
-![Secondhand bookstores in Kanda-Jinbocho district Tokyo — backdrop for Chainsaw Man Reze Arc pilgrimage](/images/articles/chainsaw-man-pilgrimage-tokyo/body-wikimedia-2.webp)
+![Secondhand bookstores in Kanda-Jinbocho district Tokyo, backdrop for Chainsaw Man Reze Arc pilgrimage](/images/articles/chainsaw-man-pilgrimage-tokyo/body-wikimedia-2.webp)
 
 Every major location from the Reze Arc movie sits within a tight cluster around Jinbocho (神保町), Tokyo's famous used-bookstore district. The area's Showa-era architecture, narrow slopes, and quiet side streets clearly influenced the film's visual design, and walking through it, you'll immediately feel why the animators chose these specific spots.
 
@@ -70,7 +70,7 @@ Go in the late afternoon if you want the same lighting as the movie scene. The s
 
 | Address | 1 Chome-44, Jinbocho, Kanda, Chiyoda City, Tokyo 101-0051 |
 | --- | --- |
-| Nearest Station | Jinbocho Station (Mita/Hanzomon/Shinjuku Lines) — Exit A5, 3-minute walk |
+| Nearest Station | Jinbocho Station (Mita/Hanzomon/Shinjuku Lines): Exit A5, 3-minute walk |
 | GPS | 35.6977, 139.7574 |
 | Best Time to Visit | Late afternoon (4:00-5:00 PM) for movie-accurate lighting |
 | Cost | Free (outdoor location) |
@@ -97,7 +97,7 @@ This is a working office building, so stay on the sidewalk and don't enter. Fans
 ![Otokozaka stone staircase in Sarugakucho Tokyo, sister staircase to Onnazaka in the Chainsaw Man Reze Arc](/images/articles/chainsaw-man-pilgrimage-tokyo/body-wikimedia-1.webp)
 
 
-## Onnazaka Stairs — The Iconic Staircase
+## Onnazaka Stairs. The Iconic Staircase
 
 Onnazaka (女坂) is the single most recognizable location from the Reze Arc. This stone staircase, wedged between old buildings in Sarugakucho, is the basis for the scene where Reze walks up the stairs on her way to the cafe. The stone paving, the buildings lining both sides, the quiet atmosphere, it's an almost frame-for-frame match with the film.
 
@@ -116,7 +116,7 @@ The stairs are public and accessible 24 hours, but visits after dark are best av
 ![Sanseido Bookstore Building in Jinbocho Tokyo, landmark of the Chainsaw Man Reze Arc neighbourhood](/images/articles/chainsaw-man-pilgrimage-tokyo/body-wikimedia-5.webp)
 
 
-## Cafe Vale — The Real-Life Model for Reze's Cafe
+## Cafe Vale. The Real-Life Model for Reze's Cafe
 
 Fans have identified two cafes as possible models for the cafe where Reze works part-time. The most widely accepted candidate is a cafe in the Kurabayashi Building, a quiet spot that matches the interior layout seen in several movie frames.
 
@@ -129,7 +129,7 @@ A word of caution: these are small businesses, not tourist attractions. Order so
 | Cafe Vale Location | Kurabayashi Building, 2-7-7 Sarugakucho, Chiyoda City, Tokyo 101-0064 |
 | --- | --- |
 | Cafe L Location | 1 Chome-5, Sarugakucho, Chiyoda City, Tokyo 101-0064 |
-| Nearest Station | Suidobashi Station (East Exit) or Jinbocho Station (A5 Exit) — both 5 minutes |
+| Nearest Station | Suidobashi Station (East Exit) or Jinbocho Station (A5 Exit), both 5 minutes |
 | Typical Hours | 8:00 AM – 6:00 PM (varies; closed Sundays at some) |
 | Budget | Coffee: ~¥500-800 |
 
@@ -186,9 +186,9 @@ Jinbocho is one of Tokyo's best lunch neighborhoods, and it's criminally underra
 | Area | Jinbocho / Sarugakucho / Ochanomizu, Chiyoda City, Tokyo |
 | --- | --- |
 | Nearest Stations | Suidobashi (JR Sobu, Toei Mita) / Ochanomizu (JR, Marunouchi) / Jinbocho (Mita, Hanzomon, Shinjuku) |
-| From Shinjuku | 15 minutes — JR Sobu Line to Suidobashi, or Shinjuku Line to Jinbocho |
+| From Shinjuku | 15 minutes. JR Sobu Line to Suidobashi, or Shinjuku Line to Jinbocho |
 | From Akihabara | 5 minutes. JR Sobu Line to Suidobashi (1 stop) |
-| From Shibuya | 20 minutes — Hanzomon Line to Jinbocho (direct) |
+| From Shibuya | 20 minutes. Hanzomon Line to Jinbocho (direct) |
 | Total Route Time | 2-3 hours including photo stops and coffee break |
 | Walking Distance | ~2.5 km (flat terrain) |
 | Best Day to Visit | Weekday afternoons for fewer crowds; avoid Mondays (some bookshops closed) |
@@ -198,7 +198,7 @@ Jinbocho is one of Tokyo's best lunch neighborhoods, and it's criminally underra
 
 ## Pilgrimage Etiquette
 
-Anime pilgrimage, *seichi junrei* (聖地巡礼) — has become a mainstream part of Japanese tourism culture, and most locals welcome respectful fans. But Jinbocho is a working neighborhood, not a theme park. Keep these points in mind:
+Anime pilgrimage, *seichi junrei* (聖地巡礼), has become a mainstream part of Japanese tourism culture, and most locals welcome respectful fans. But Jinbocho is a working neighborhood, not a theme park. Keep these points in mind:
 
 **Don't block sidewalks or stairs.** Take your photo and move on. The Onnazaka stairs are narrow, and residents use them daily.
 

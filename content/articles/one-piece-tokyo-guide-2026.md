@@ -17,14 +17,14 @@ relatedSlugs: []
 wpPostId: 512
 ---
 
-*Last updated: May 2026 — operator-source comparison guide.*
+*Last updated: May 2026, operator-source comparison guide.*
 
 
 ![Tokyo Solamachi at Skytree Town, where the Mugiwara Store flagship sits inside the shopping complex](/images/articles/one-piece-tokyo-guide-2026/hero-wikimedia.webp)
 
 Finding your way through Tokyo's One Piece merchandise landscape in 2026.
 
-This guide covers Tokyo's One Piece retail and cafe surface — Base Shop, Mugiwara Store chain, One Piece Cafe GENE at Shibuya PARCO, [Jump Shop](https://www.shonenjump.com/j/jumpshop/) locations including the new Jimbocho branch — sourced from operator pages, [Toei Animation](https://www.toei-anim.co.jp/en/)'s broadcast-schedule announcements, and the [Shueisha One Piece official portal](https://one-piece.com/). Use it to plan a *seichi junrei* (聖地巡礼) shopping route through 12 locations across 8 districts.
+This guide covers Tokyo's One Piece retail and cafe surface. Base Shop, Mugiwara Store chain, One Piece Cafe GENE at Shibuya PARCO, [Jump Shop](https://www.shonenjump.com/j/jumpshop/) locations including the new Jimbocho branch, sourced from operator pages, [Toei Animation](https://www.toei-anim.co.jp/en/)'s broadcast-schedule announcements, and the [Shueisha One Piece official portal](https://one-piece.com/). Use it to plan a *seichi junrei* (聖地巡礼) shopping route through 12 locations across 8 districts.
 
 The city's One Piece infrastructure expanded significantly in the past 12 months: two major new locations opened this spring, the anime series ramped up production around the Elbaph Arc premiere on April 5, 2026 per Toei Animation's announcement, and the publishers competed harder than ever for fan attention.
 
@@ -44,7 +44,7 @@ The city's One Piece infrastructure expanded significantly in the past 12 months
 ## One Piece Base Shop Shinjuku
 
 
-![Marui City Shinjuku at night — the Marui Main Building hosts the One Piece Base Shop on the 4th floor](/images/articles/one-piece-tokyo-guide-2026/body-wikimedia-1.webp)
+![Marui City Shinjuku at night, the Marui Main Building hosts the One Piece Base Shop on the 4th floor](/images/articles/one-piece-tokyo-guide-2026/body-wikimedia-1.webp)
 
 The flagship One Piece Base Shop opened in December 2025 at Shinjuku Marui Main Building, 4th floor, and remains the most concentrated cache of official merch in the city per the operator's listing. The space spans roughly 800 square meters with approximately 800 different products across multiple categories: figures, cards, apparel, accessories, stationery, home goods, and limited edition collectibles.
 
@@ -63,7 +63,7 @@ The store tracks restocks daily and clearly marks quantities for limited items p
 | Popular Items | Gear Fifth figures, Limited-edition cards, Luffy apparel |
 | Payment | Cash, IC Card, Credit card, Mobile Pay |
 
-Per the operator's listings, exclusive items at the Base Shop typically include Gear Fifth scale figures (price band ¥8,000–10,000) and exclusive character acrylic stands (¥2,000–2,500) that are not stocked at Mugiwara Stores or Jump Shops. The shop runs monthly limited-edition drops on Thursdays, usually announced 1 week in advance via the official Twitter account — follow it to plan visits around major releases.
+Per the operator's listings, exclusive items at the Base Shop typically include Gear Fifth scale figures (price band ¥8,000–10,000) and exclusive character acrylic stands (¥2,000–2,500) that are not stocked at Mugiwara Stores or Jump Shops. The shop runs monthly limited-edition drops on Thursdays, usually announced 1 week in advance via the official Twitter account, follow it to plan visits around major releases.
 
 **Crowd timing per visitor reports:** weekend afternoons (Saturday, Sunday) draw the largest crowds, with Tripadvisor reviews noting wait times at the entrance during peak hours. Weekday mornings and post-7 PM windows are reported as quieter.
 
@@ -77,19 +77,19 @@ The Mugiwara Store chain operates 5 locations across Tokyo per the chain directo
 
 
 ### Shibuya MAGNET by SHIBUYA109
-The Shibuya location is the most accessibility-friendly per the operator listings — it sits inside MAGNET, a 5-story complex with a direct Fukutoshin Line exit connection. The Mugiwara Store occupies roughly 120 square meters on the 3rd floor with a focus on mainstream merchandise: apparel, bags, small figurines, and lifestyle items.
+The Shibuya location is the most accessibility-friendly per the operator listings, it sits inside MAGNET, a 5-story complex with a direct Fukutoshin Line exit connection. The Mugiwara Store occupies roughly 120 square meters on the 3rd floor with a focus on mainstream merchandise: apparel, bags, small figurines, and lifestyle items.
 
-The display strategy curates roughly 250 products with intentional breathing room rather than cramming 200 items onto packed shelves — easier to scan visually for specific items per visitor reviews. Staff at this location are reported by visitors to be especially fashion-forward in their item recommendations.
+The display strategy curates roughly 250 products with intentional breathing room rather than cramming 200 items onto packed shelves, easier to scan visually for specific items per visitor reviews. Staff at this location are reported by visitors to be especially fashion-forward in their item recommendations.
 
 
 ### Tokyo Station Character Street
-The Tokyo Station location sits in the famous Character Street arcade — a mall of character shops inside the station itself. The Mugiwara Store here is smaller (roughly 80 square meters) and positioned for travelers per the chain's directory. About 35% of the inventory focuses on travel-friendly items: small figures that pack in luggage, compact wallets with character designs, and travel-size stationery.
+The Tokyo Station location sits in the famous Character Street arcade, a mall of character shops inside the station itself. The Mugiwara Store here is smaller (roughly 80 square meters) and positioned for travelers per the chain's directory. About 35% of the inventory focuses on travel-friendly items: small figures that pack in luggage, compact wallets with character designs, and travel-size stationery.
 
 The Character Street corridor creates bottlenecks during peak hours (noon to 4 PM) per visitor reports — early morning or evening visits are quieter. Travelers connecting through Tokyo Station can stop by without backtracking.
 
 
 ### Odaiba DiverCity
-The DiverCity Tokyo Plaza location is roughly 140 square meters per the operator — one of the larger Mugiwara Stores — and emphasizes figures and collectibles, with approximately 180 distinct figurine variants in stock per recent operator inventory snapshots. This makes it the strongest destination for Banpresto or Figuarts collectors.
+The DiverCity Tokyo Plaza location is roughly 140 square meters per the operator, one of the larger Mugiwara Stores, and emphasizes figures and collectibles, with approximately 180 distinct figurine variants in stock per recent operator inventory snapshots. This makes it the strongest destination for Banpresto or Figuarts collectors.
 
 DiverCity is more spacious than central-Tokyo retail per visitor reports, with predictable foot traffic and ample nearby parking. Prices match the Base Shop and other Mugiwara locations per chain pricing — no deal-hunting advantage, but the calmer shopping environment is documented in Tripadvisor reviews as worth the train ride for crowd-sensitive shoppers.
 
@@ -204,7 +204,7 @@ Weekly restocks at the Base Shop happen  every Thursday morning. If you hunt for
 
 ## Practical Shopping Tips
 
-A handful of practical patterns recur across these locations — useful for shopping efficiently:
+A handful of practical patterns recur across these locations, useful for shopping efficiently:
 
 
 ### Payment Methods
@@ -212,7 +212,7 @@ All major Tokyo retail locations accept IC cards (Suica, Pasmo), credit cards, a
 
 
 ### Sizing & Language
-Apparel at these shops runs small compared to US sizing — visitor reviews on Tripadvisor and X (Twitter) consistently note sizing up by one step (US medium → JP large) for a comparable fit. Staff at every location speak basic English and can help with sizing questions; the Base Shop and Shibuya MAGNET staff are reported as most fluent. Don't hesitate to ask staff to translate product descriptions — they're used to international customers.
+Apparel at these shops runs small compared to US sizing, visitor reviews on Tripadvisor and X (Twitter) consistently note sizing up by one step (US medium → JP large) for a comparable fit. Staff at every location speak basic English and can help with sizing questions; the Base Shop and Shibuya MAGNET staff are reported as most fluent. Don't hesitate to ask staff to translate product descriptions — they're used to international customers.
 
 
 ### Limited Item Purchase Limits
@@ -282,7 +282,7 @@ Planning a trip to Tokyo?
 ## Never Miss a Cafe Opening or Anime Event
 
 
-![DiverCity Tokyo Plaza in Odaiba — home of the Mugiwara Store DiverCity location](/images/articles/one-piece-tokyo-guide-2026/body-wikimedia-6.webp)
+![DiverCity Tokyo Plaza in Odaiba, home of the Mugiwara Store DiverCity location](/images/articles/one-piece-tokyo-guide-2026/body-wikimedia-6.webp)
 
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.
 

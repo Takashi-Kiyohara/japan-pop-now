@@ -22,9 +22,9 @@ wpPostId: 750
 *Last updated: May 2026.*
 
 Ghibli Park sits inside the massive Expo 2005 Aichi Commemorative Park, about 45 minutes east of central Nagoya. Photo: Japan Pop Now
-Ghibli Park has five themed areas spread across the Expo 2005 Aichi Commemorative Park in Nagakute, Aichi Prefecture. Ticket prices range from ¥1,000 (~$7) for individual area passes to ¥7,800 (~$53) for the Premium All-Area Pass on weekends. Every ticket requires advance purchase — there are no walk-in admissions, and popular dates sell out within hours of going on sale. Per multi-visit visitor reports since the Valley of Witches opened in 2024, one day is not enough for all five areas.
+Ghibli Park has five themed areas spread across the Expo 2005 Aichi Commemorative Park in Nagakute, Aichi Prefecture. Ticket prices range from ¥1,000 (~$7) for individual area passes to ¥7,800 (~$53) for the Premium All-Area Pass on weekends. Every ticket requires advance purchase, there are no walk-in admissions, and popular dates sell out within hours of going on sale. Per multi-visit visitor reports since the Valley of Witches opened in 2024, one day is not enough for all five areas.
 
-The park doesn’t have rides or roller coasters. If that’s what you’re after, this isn’t your destination. What Ghibli Park does is recreate the physical spaces from Studio Ghibli films. Mei and Satsuki’s house from My Neighbor Totoro, the antique shop from Whisper of the Heart, Howl’s castle-inspired structures — with the kind of obsessive detail that makes you forget you’re in a theme park at all. You walk through rooms, touch furniture, and notice things the animators put there 30 years ago.
+The park doesn’t have rides or roller coasters. If that’s what you’re after, this isn’t your destination. What Ghibli Park does is recreate the physical spaces from Studio Ghibli films. Mei and Satsuki’s house from My Neighbor Totoro, the antique shop from Whisper of the Heart, Howl’s castle-inspired structures, with the kind of obsessive detail that makes you forget you’re in a theme park at all. You walk through rooms, touch furniture, and notice things the animators put there 30 years ago.
 
 This guide covers ticket types and prices, how to buy from overseas, what each area contains, access from Tokyo and Nagoya, and how to plan your visit without running out of time.
 
@@ -67,7 +67,7 @@ Recommended pick for overseas visitors: if this is likely your only Ghibli Park 
 ![Elevator Tower in Hill of Youth, the Castle in the Sky / Howl-inspired area at Ghibli Park](/images/articles/ghibli-park-complete-guide-2026/body-wikimedia-2.webp)
 *Photo: Kyu3a / Wikimedia Commons, CC BY-SA 4.0*
 
-Tickets go on sale on the 10th of each month at 14:00 JST (Japan Standard Time) for dates two months later. So April 10 at 2 p.m. JST opens June dates, May 10 opens July dates, and so on. They sell out fast — popular weekends can be gone within hours.
+Tickets go on sale on the 10th of each month at 14:00 JST (Japan Standard Time) for dates two months later. So April 10 at 2 p.m. JST opens June dates, May 10 opens July dates, and so on. They sell out fast, popular weekends can be gone within hours.
 
 You have three booking options as an international visitor:
 
@@ -97,22 +97,22 @@ One purchase limit applies: maximum 6 tickets per transaction, and you’re limi
 Each area has a different atmosphere and draws from different Ghibli films. Here’s what you’ll find in each:
 
 
-### 1. Ghibli’s Grand Warehouse (ジブリの大倉庫) — Plan 3-4 hours
+### 1. Ghibli’s Grand Warehouse (ジブリの大倉庫): Plan 3-4 hours
 This is the main event for most visitors and the only area large enough to justify a standalone ticket. It’s an indoor exhibition space — think of it as a Ghibli museum on a much larger scale. Inside you’ll find life-size recreations of scenes from multiple films, a short film cinema (exclusive Ghibli shorts not shown anywhere else), an expansive gift shop, a children’s play area, and rotating special exhibitions. The April 2026 exhibition “Delicious! Animating Memorable Meals Expanded Edition” runs through June 8.
 
 The Grand Warehouse is where you’ll spend the most time regardless of which ticket you buy. Weekday mornings are the least crowded, if you have flexibility on dates, a Tuesday or Thursday is ideal.
 
 
-### 2. Hill of Youth (青春の丘) — Plan 1.5-2 hours
+### 2. Hill of Youth (青春の丘): Plan 1.5-2 hours
 A steampunk-inspired area built around the Elevator Tower (think Castle in the Sky meets Howl’s Moving Castle) and the World Emporium from Whisper of the Heart. The antique shop recreation is extraordinarily detailed — the violin-making workshop, the grandfather clock collection, and the ceramic cat figurines are all there. This area is smaller but worth the time if you care about Whisper of the Heart or Ghibli’s European-flavored films.
 
 
 ### 3. Dondoko Forest (どんどこ森). Plan 1-2 hours
-The My Neighbor Totoro area, centered on a full-scale recreation of Mei and Satsuki’s house. You can walk through every room — the kitchen, the bath, the upstairs bedroom. The attention to period-accurate 1950s Japanese domestic details is remarkable. Surrounding the house is a forested walking trail that captures the feel of the film’s countryside setting. Young children tend to love this area; it’s calmer and more nature-focused than the Grand Warehouse.
+The My Neighbor Totoro area, centered on a full-scale recreation of Mei and Satsuki’s house. You can walk through every room, the kitchen, the bath, the upstairs bedroom. The attention to period-accurate 1950s Japanese domestic details is remarkable. Surrounding the house is a forested walking trail that captures the feel of the film’s countryside setting. Young children tend to love this area; it’s calmer and more nature-focused than the Grand Warehouse.
 
 
 ### 4. Mononoke Village (もののけの里). Plan 1-1.5 hours
-Opened November 2023, this area recreates the Tatara-ba ironworks settlement from Princess Mononoke. The landscape blends traditional Japanese rural aesthetics with the film’s mystical forest atmosphere. It’s more of an outdoor walking experience than an exhibition — the charm is in how the natural terrain has been shaped to evoke the film’s world.
+Opened November 2023, this area recreates the Tatara-ba ironworks settlement from Princess Mononoke. The landscape blends traditional Japanese rural aesthetics with the film’s mystical forest atmosphere. It’s more of an outdoor walking experience than an exhibition, the charm is in how the natural terrain has been shaped to evoke the film’s world.
 
 
 ### 5. Valley of Witches (魔女の谷). Plan 2-3 hours
@@ -171,7 +171,7 @@ Here’s what’s realistic:
 
 **Two days (recommended):** Day 1: Grand Warehouse + Hill of Youth + Dondoko Forest. Day 2: Valley of Witches + Mononoke Village + revisit your favorite spots. This is how the park was designed to be experienced.
 
-If you’re only visiting once and you chose the Premium Pass, my suggestion: start with Grand Warehouse at opening (it has the most to see), do Hill of Youth and Dondoko Forest before lunch, eat at one of the park cafes, then spend your afternoon in Valley of Witches and Mononoke Village. Skip the gift shops until the end — they’re open until closing time.
+If you’re only visiting once and you chose the Premium Pass, my suggestion: start with Grand Warehouse at opening (it has the most to see), do Hill of Youth and Dondoko Forest before lunch, eat at one of the park cafes, then spend your afternoon in Valley of Witches and Mononoke Village. Skip the gift shops until the end, they’re open until closing time.
 
 
 ## Where Should You Stay? Hotels Near Ghibli Park
@@ -180,7 +180,7 @@ If you’re only visiting once and you chose the Premium Pass, my suggestion: st
 ![Satsuki and Mei's House (My Neighbor Totoro) seen from afar at Ghibli Park, Nagakute Aichi](/images/articles/ghibli-park-complete-guide-2026/body-wikimedia-6.webp)
 *Photo: Kyu3a / Wikimedia Commons, CC BY-SA 4.0*
 
-Ghibli Park is in Nagakute, a suburban area east of Nagoya. There aren’t luxury resorts next door — your options are practical business hotels near transit stations, or staying in central Nagoya with more dining and nightlife options.
+Ghibli Park is in Nagakute, a suburban area east of Nagoya. There aren’t luxury resorts next door, your options are practical business hotels near transit stations, or staying in central Nagoya with more dining and nightlife options.
 
 | Hotel | Location | Price/Night | Travel to Park | Best For |
 | --- | --- | --- | --- | --- |
@@ -188,7 +188,7 @@ Ghibli Park is in Nagakute, a suburban area east of Nagoya. There aren’t luxur
 | **Hilton Nagoya** | Fushimi Station, central Nagoya | ¥20,800-57,100 (~$142-389) | 45 min (subway + Linimo) | International service, restaurants, central location |
 | **Vessel Hotel Campana Nagoya** | 9 min walk from Nagoya Station | ~¥5,000-10,000 (~$34-68) | 50 min (subway + Linimo) | Budget, children under 18 free with parents |
 
-**Best overall: Hotel Route Inn Grand Fujigaoka.** It’s on the Linimo line so you’re 15 minutes from the park, the price is reasonable, and the onsen (hot spring bath) is a legitimate perk after a full day of walking. Central Nagoya hotels give you more evening options, restaurants, nightlife, Nagoya Castle — but add 30 minutes to your morning commute.
+**Best overall: Hotel Route Inn Grand Fujigaoka.** It’s on the Linimo line so you’re 15 minutes from the park, the price is reasonable, and the onsen (hot spring bath) is a legitimate perk after a full day of walking. Central Nagoya hotels give you more evening options, restaurants, nightlife, Nagoya Castle, but add 30 minutes to your morning commute.
 
 If you’re visiting for two days, staying near Fujigaoka makes the logistics significantly easier. For a single day visit as part of a broader trip, staying at Nagoya Station gives you better shinkansen access for your next destination.
 
@@ -196,7 +196,7 @@ If you’re visiting for two days, staying near Fujigaoka makes the logistics si
 ## FAQ: Frequently Asked Questions
 **When are Ghibli Park tickets released?**
 
-On the 10th of each month at 14:00 JST, for dates two months ahead. April 10 opens June dates. Mark your calendar and be online exactly at 14:00 — weekend dates sell out within hours.
+On the 10th of each month at 14:00 JST, for dates two months ahead. April 10 opens June dates. Mark your calendar and be online exactly at 14:00, weekend dates sell out within hours.
 
 **Can I buy tickets at the gate?**
 

@@ -22,8 +22,8 @@ canonical: 'https://www.japan-pop-now.com/articles/kamakura-slam-dunk-pilgrimage
 ---
 
 
-The Kamakurakokomae No.1 Railroad Crossing — Slam Dunk's most iconic real-world location, with the Shonan coast stretching behind it. Photo: Japan Pop Now
-The Kamakurakokomae No.1 Railroad Crossing, where Sakuragi and Haruko wave at each other in Slam Dunk's opening sequence — is a 100-meter walk west from Kamakurakokomae Station on the Enoden line. The crossing is free to visit, and the full Slam Dunk pilgrimage route through Kamakura and the Shonan coast takes about 3-4 hours on foot. Budget around ¥4,700-5,700 (~$32-39) for the whole trip from Tokyo, including train fare, the Enoden day pass, and lunch.
+The Kamakurakokomae No.1 Railroad Crossing. Slam Dunk's most iconic real-world location, with the Shonan coast stretching behind it. Photo: Japan Pop Now
+The Kamakurakokomae No.1 Railroad Crossing, where Sakuragi and Haruko wave at each other in Slam Dunk's opening sequence, is a 100-meter walk west from Kamakurakokomae Station on the Enoden line. The crossing is free to visit, and the full Slam Dunk pilgrimage route through Kamakura and the Shonan coast takes about 3-4 hours on foot. Budget around ¥4,700-5,700 (~$32-39) for the whole trip from Tokyo, including train fare, the Enoden day pass, and lunch.
 
 THE FIRST SLAM DUNK movie (December 2022) earned over ¥16.2 billion at the Japanese box office and reignited international interest in these locations. Four years later, the crossing still draws steady crowds, but Kamakura City has implemented a managed photography system with designated viewing areas and on-site staff, making the experience significantly smoother than the chaotic 2023 peak.
 
@@ -69,7 +69,7 @@ The crossing that launched a million pilgrimages is officially named Kamakurakok
 
 The scene from the opening: the crossing gates lower, an Enoden train passes from left to right, and in the background you see the Shonan coastline and Enoshima island. Sakuragi stands on one side; Haruko on the other. They make eye contact across the tracks as the train clears. It's a 3-second shot that became one of the most recognizable images in anime history.
 
-For the best recreation of that shot, position yourself on the ocean side of the crossing (south side of the tracks) and wait for the Enoden to pass. The train comes every 12 minutes, so you won't wait long. Late afternoon light — around 4:00-5:00 PM — gives you the warm golden tones closest to the anime's color palette.
+For the best recreation of that shot, position yourself on the ocean side of the crossing (south side of the tracks) and wait for the Enoden to pass. The train comes every 12 minutes, so you won't wait long. Late afternoon light, around 4:00-5:00 PM — gives you the warm golden tones closest to the anime's color palette.
 
 
 ## What Other Slam Dunk Locations Can You Visit in Kamakura?
@@ -85,7 +85,7 @@ The Kanagawa Prefectural Kamakura High School sits on the hillside directly abov
 
 
 ### Why Shichirigahama Is the Best Extra Stop on a Slam Dunk Day Trip
-One station west of Kamakurakokomae on the Enoden line. The long beach and ocean views here appear in multiple manga panels, particularly Rukawa Kaede's cycling scenes along the coastal road. The stretch between Kamakurakokomae and Shichirigahama is one of the most scenic sections of the Enoden line — the train runs almost directly along the shoreline.
+One station west of Kamakurakokomae on the Enoden line. The long beach and ocean views here appear in multiple manga panels, particularly Rukawa Kaede's cycling scenes along the coastal road. The stretch between Kamakurakokomae and Shichirigahama is one of the most scenic sections of the Enoden line, the train runs almost directly along the shoreline.
 
 
 ### Is Kugenuma Beach Worth Adding to Your Slam Dunk Pilgrimage?
@@ -118,7 +118,7 @@ Most readers get stuck deciding whether this trip is a JR-pass day, a simple IC-
 - [**Just taking local trains around Tokyo and Kamakura?** Use the IC card transit guide](/articles/japan-ic-card-transit-guide)
 - [**Want to extend this into another anime coastal day trip?** Compare more anime day trips from Tokyo](/articles/anime-day-trips-from-tokyo-2026)
 
-No transfers needed from Tokyo Station — the Yokosuka Line runs direct to Kamakura. At Kamakura Station, exit and follow signs to the Enoden platforms (it's a separate station building adjacent to JR). Board any Enoden train heading toward Fujisawa and get off at Kamakurakokomae, five stops later.
+No transfers needed from Tokyo Station, the Yokosuka Line runs direct to Kamakura. At Kamakura Station, exit and follow signs to the Enoden platforms (it's a separate station building adjacent to JR). Board any Enoden train heading toward Fujisawa and get off at Kamakurakokomae, five stops later.
 
 
 ### Best Direct Route From Shinjuku to Kamakura for Slam Dunk Fans
@@ -138,9 +138,9 @@ Here's my recommended 3-4 hour route that covers the key spots without backtrack
 
 **10:00. Arrive Kamakura Station.** Buy an Enoden Day Pass (¥800) at the Enoden window next to the JR gates. Board the Enoden toward Fujisawa.
 
-**10:15 — Kamakurakokomae Station.** Walk 1 minute west to the famous crossing. Spend 30-45 minutes here, wait for 2-3 Enoden trains to pass for photo opportunities. Follow staff directions to the designated photography area at Koegoe Rakko Park for the best angle.
+**10:15: Kamakurakokomae Station.** Walk 1 minute west to the famous crossing. Spend 30-45 minutes here, wait for 2-3 Enoden trains to pass for photo opportunities. Follow staff directions to the designated photography area at Koegoe Rakko Park for the best angle.
 
-**11:00 — Walk to Shichirigahama** (15-minute walk along the coastal road, or 1 Enoden stop). The beach views along this stretch match several manga panels. Stop at one of the ocean-view cafes for coffee. Amalfi Cafe has terrace seating with direct ocean views (opens 11:00).
+**11:00: Walk to Shichirigahama** (15-minute walk along the coastal road, or 1 Enoden stop). The beach views along this stretch match several manga panels. Stop at one of the ocean-view cafes for coffee. Amalfi Cafe has terrace seating with direct ocean views (opens 11:00).
 
 **11:45 — Enoden to Hase Station** (2 stops back toward Kamakura). Walk 7 minutes to Kotoku-in and see the Great Buddha (大仏), ¥300 admission. Not Slam Dunk-related, but you're in Kamakura and it's one of Japan's most iconic sights. 30-minute visit.
 
@@ -172,7 +172,7 @@ The result: the experience is significantly better than 2023-2024. You can still
 ## What Should You Know About Etiquette and Local Rules?
 
 
-![What Should You Know About Etiquette and Local Rules? — Slam Dunk Kamakura Pilgrimage 2026](/images/articles/slam-dunk-kamakura-pilgrimage-2026/6.jpg)
+![What Should You Know About Etiquette and Local Rules?: Slam Dunk Kamakura Pilgrimage 2026](/images/articles/slam-dunk-kamakura-pilgrimage-2026/6.jpg)
 
 This is a residential neighborhood, not a tourist attraction. People live here, walk their dogs here, and send their kids to school across this crossing. The local community has been dealing with a massive increase in tourist foot traffic since 2022, and their patience depends on visitors being respectful.
 
@@ -182,7 +182,7 @@ This is a residential neighborhood, not a tourist attraction. People live here, 
 
 **Don't block the road.** The road at the crossing is an active vehicle route. Don't stand in the middle of it or block cars from passing. Use the sidewalks and the designated photo areas.
 
-**Keep noise down.** This is a residential area. Shouting, playing music, or making excessive noise, especially before 8:00 AM or after 8:00 PM — affects the people who live here.
+**Keep noise down.** This is a residential area. Shouting, playing music, or making excessive noise, especially before 8:00 AM or after 8:00 PM, affects the people who live here.
 
 **Don't enter the school grounds.** Kamakura High School is directly uphill from the crossing. It's an active school campus with students and staff. Photographing the building exterior from the public road is fine; walking onto school property is trespassing.
 
@@ -214,7 +214,7 @@ Yes. It's a public railroad crossing on a regular road, there's no admission fee
 
 **Can I visit the crossing at night or early morning?**
 
-Technically, it's a public road so you can visit anytime. The management staff are on duty 10:00-18:00. Early morning (before 7:00 AM) is actually the best time for photography — clear light, no crowds, and the morning sun illuminates the ocean side of the crossing beautifully. Be quiet though; residents are still sleeping.
+Technically, it's a public road so you can visit anytime. The management staff are on duty 10:00-18:00. Early morning (before 7:00 AM) is actually the best time for photography, clear light, no crowds, and the morning sun illuminates the ocean side of the crossing beautifully. Be quiet though; residents are still sleeping.
 
 **Is the JR Pass worth it just for the Kamakura trip?**
 
@@ -260,7 +260,7 @@ Planning a trip to Tokyo?
 ## Never Miss a Cafe Opening or Anime Event
 
 
-![Never Miss a Cafe Opening or Anime Event — Slam Dunk Kamakura Pilgrimage 2026](/images/articles/slam-dunk-kamakura-pilgrimage-2026/7.jpg)
+![Never Miss a Cafe Opening or Anime Event. Slam Dunk Kamakura Pilgrimage 2026](/images/articles/slam-dunk-kamakura-pilgrimage-2026/7.jpg)
 
 Join 1,000+ Japan pop culture fans. Weekly updates on collab cafes, events, and travel tips.
 

@@ -42,8 +42,8 @@ If you collect anime figures or have any interest in the craftsmanship behind th
 - [Frequently Asked Questions](#faq)
 
 
-![Makuhari Messe North Hall exterior — the venue that hosts Wonder Festival twice a year](/images/articles/wonder-festival-figure-events-japan-2026/body-wikimedia-1.webp)
-*Makuhari Messe North Hall in Chiba — the WonFes venue, a 30-minute train ride from Tokyo Station via the JR Keiyo Line. Photo: Wikimedia Commons (CC BY-SA)*
+![Makuhari Messe North Hall exterior, the venue that hosts Wonder Festival twice a year](/images/articles/wonder-festival-figure-events-japan-2026/body-wikimedia-1.webp)
+*Makuhari Messe North Hall in Chiba, the WonFes venue, a 30-minute train ride from Tokyo Station via the JR Keiyo Line. Photo: Wikimedia Commons (CC BY-SA)*
 
 
 ## What Is Wonder Festival and When Is It?
@@ -60,13 +60,13 @@ Wonder Festival (ワンダーフェスティバル, commonly shortened to WonFes
 | **Expected attendance** | 30,000+ visitors |
 | **Dealer booths** | 2,000+ (amateur and professional) |
 
-The event has two halves. **The dealer hall** is where individual artists and small circles sell their original garage kits — handmade resin figures, often unpainted, produced in limited quantities of 10-200 pieces. These are the items that sell out fast and can’t be found anywhere else. **The corporate zone** is where major manufacturers like Good Smile Company, Kotobukiya, Max Factory, and Bandai display upcoming commercial releases and exclusive event-limited figures.
+The event has two halves. **The dealer hall** is where individual artists and small circles sell their original garage kits, handmade resin figures, often unpainted, produced in limited quantities of 10-200 pieces. These are the items that sell out fast and can’t be found anywhere else. **The corporate zone** is where major manufacturers like Good Smile Company, Kotobukiya, Max Factory, and Bandai display upcoming commercial releases and exclusive event-limited figures.
 
-WonFes 2026 Summer features two special exhibitions: the Hiroshi Yokoyama Exhibition 2026 (centered on Maschinen Krieger — the first exhibition since 2016) and Imaginary Creatures WonderFes, a showcase of original monster and yokai-themed works.
+WonFes 2026 Summer features two special exhibitions: the Hiroshi Yokoyama Exhibition 2026 (centered on Maschinen Krieger, the first exhibition since 2016) and Imaginary Creatures WonderFes, a showcase of original monster and yokai-themed works.
 
 
 ![View of Makuhari Messe approach from Messe-Ohashi Bridge, typical access route for WonFes attendees](/images/articles/wonder-festival-figure-events-japan-2026/body-wikimedia-2.webp)
-*Makuhari Messe approach from Messe-Ohashi Bridge — most attendees walk this elevated pedestrian route from Kaihin-Makuhari Station. Photo: Wikimedia Commons (CC BY-SA)*
+*Makuhari Messe approach from Messe-Ohashi Bridge, most attendees walk this elevated pedestrian route from Kaihin-Makuhari Station. Photo: Wikimedia Commons (CC BY-SA)*
 
 
 ## How Do You Get Tickets as an International Visitor?
@@ -76,7 +76,7 @@ Tickets are sold through Lawson Ticket (ローソンチケット). You can buy t
 | Ticket Type | Price | Notes |
 | --- | --- | --- |
 | **Advance (General)** | ¥3,500 (~$24) | Buy through Lawson Ticket before event day |
-| **Advance (U22)** | ¥2,200 (~$15) | Age 22 and under — bring ID |
+| **Advance (U22)** | ¥2,200 (~$15) | Age 22 and under, bring ID |
 | **Afternoon entry** | ¥2,300 (~$16) | Entry from 13:00 only |
 | **Day-of purchase** | ¥4,000 (~$27) | Buy at venue if not sold out |
 | **Children** | Free | Under elementary school age, with guardian |
@@ -102,7 +102,7 @@ WonFes operates differently from a normal shopping experience. Here’s what wor
 
 
 ![Good Smile Company corporate booth display with Nendoroid figures at a major exhibition](/images/articles/wonder-festival-figure-events-japan-2026/body-wikimedia-3.webp)
-*Good Smile Company corporate booth display — the same manufacturer runs a flagship booth at WonFes with prototype Nendoroids and event-limited figures. Photo: Wikimedia Commons (CC BY-SA)*
+*Good Smile Company corporate booth display, the same manufacturer runs a flagship booth at WonFes with prototype Nendoroids and event-limited figures. Photo: Wikimedia Commons (CC BY-SA)*
 
 
 ## How Do You Ship Figures Home?
@@ -154,7 +154,7 @@ Yes, photography is allowed and encouraged in most areas. Some corporate display
 
 **Is WonFes only for figure collectors?**
 
-Primarily, yes. If you’re not interested in figures, garage kits, or plastic models, the event won’t hold your attention for 7 hours. But even casual anime fans find the corporate booth displays impressive — seeing prototype figures of current-season anime characters up close is a unique experience. Budget 2-3 hours if you’re casually browsing rather than seriously shopping.
+Primarily, yes. If you’re not interested in figures, garage kits, or plastic models, the event won’t hold your attention for 7 hours. But even casual anime fans find the corporate booth displays impressive, seeing prototype figures of current-season anime characters up close is a unique experience. Budget 2-3 hours if you’re casually browsing rather than seriously shopping.
 
 **How hot is it inside the venue in summer?**
 

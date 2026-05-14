@@ -24,15 +24,15 @@ wpPostId: 204
 
 *Last updated: March 2026. Covers all floors, Mandarake locations, Daily Chico soft serve, opening hours, and a practical comparison with Akihabara.*
 
-Everybody knows Akihabara. It’s loud, it’s neon, and every travel guide on the internet will send you there for anime shopping. But the people who actually collect — the ones hunting first-edition manga, vintage Gundam kits, and figures that haven’t been in production for 20 years, they go to Nakano Broadway.
+Everybody knows Akihabara. It’s loud, it’s neon, and every travel guide on the internet will send you there for anime shopping. But the people who actually collect, the ones hunting first-edition manga, vintage Gundam kits, and figures that haven’t been in production for 20 years, they go to Nakano Broadway.
 
-Nakano Broadway is a multi-story shopping complex five minutes from Shinjuku on the JR Chuo Line. From the outside, it looks like a regular neighborhood building. Inside, it’s a vertical maze of over 300 shops across four floors, with the highest concentration of rare anime and manga goods anywhere in Tokyo. It’s where Mandarake — the world’s largest secondhand anime retailer, was born in 1980, and where they still operate over 30 individual specialty stores under one roof.
+Nakano Broadway is a multi-story shopping complex five minutes from Shinjuku on the JR Chuo Line. From the outside, it looks like a regular neighborhood building. Inside, it’s a vertical maze of over 300 shops across four floors, with the highest concentration of rare anime and manga goods anywhere in Tokyo. It’s where Mandarake, the world’s largest secondhand anime retailer, was born in 1980, and where they still operate over 30 individual specialty stores under one roof.
 
 This guide covers how to get there, what’s on each floor, which shops matter, and why serious collectors prefer it over Akihabara.
 
 
 ## How to Get to Nakano Broadway
-Take the **JR Chuo Line** (orange, rapid service) from Shinjuku Station. Nakano is the first stop — five minutes, ¥200. Trains run every few minutes throughout the day.
+Take the **JR Chuo Line** (orange, rapid service) from Shinjuku Station. Nakano is the first stop, five minutes, ¥200. Trains run every few minutes throughout the day.
 
 
 ![Nakano Broadway entrance signage, the façade most visitors use to confirm they have arrived at the correct building](/images/articles/nakano-broadway-guide/body-wikimedia-2.webp)
@@ -40,7 +40,7 @@ Take the **JR Chuo Line** (orange, rapid service) from Shinjuku Station. Nakano 
 
 At Nakano Station, take the **North Exit**. Walk straight ahead and you’ll enter **Nakano Sun Mall**, a covered shopping arcade that runs for about 225 meters. Follow it all the way to the end. The arcade deposits you directly at the entrance of Nakano Broadway. The whole walk from the station takes about five minutes.
 
-**Don’t skip Nakano Sun Mall.** This covered arcade has been here since 1966 and has over 100 shops — ramen joints, izakayas, pharmacies, watch dealers. It’s worth a slow walk through, especially for lunch before or after you hit Broadway.
+**Don’t skip Nakano Sun Mall.** This covered arcade has been here since 1966 and has over 100 shops, ramen joints, izakayas, pharmacies, watch dealers. It’s worth a slow walk through, especially for lunch before or after you hit Broadway.
 
 | **Address** | 5-52-15 Nakano, Nakano-ku, Tokyo |
 | --- | --- |
@@ -52,7 +52,7 @@ At Nakano Station, take the **North Exit**. Walk straight ahead and you’ll ent
 
 
 ## Floor-by-Floor Guide
-Nakano Broadway runs from basement level (B1) to the 4th floor. The layout is dense and maze-like — corridors branch off in every direction, and many shops are just a few square meters. Getting lost is part of the experience.
+Nakano Broadway runs from basement level (B1) to the 4th floor. The layout is dense and maze-like, corridors branch off in every direction, and many shops are just a few square meters. Getting lost is part of the experience.
 
 
 ### B1. Food and Everyday Life
@@ -60,7 +60,7 @@ The basement is a local marketplace. You’ll find groceries, fishmongers, cheap
 
 
 ### 1F. The Ground Floor
-The ground floor is the transition zone. You’ll see clothing shops, shoe stores, general retail, and the entrance to the building. There’s a VR arcade space and some regular convenience shopping. The first Mandarake shop you’ll encounter is on this floor — a good warm-up for what’s upstairs.
+The ground floor is the transition zone. You’ll see clothing shops, shoe stores, general retail, and the entrance to the building. There’s a VR arcade space and some regular convenience shopping. The first Mandarake shop you’ll encounter is on this floor, a good warm-up for what’s upstairs.
 
 
 ### 2F–3F. The Main Event
@@ -93,7 +93,7 @@ Mandarake gets all the attention, but the independent shops are what make Nakano
 
 **Jungle** carries limited-edition model kits and figures you won’t find in standard retail. They’re particularly good for hard-to-find Bandai releases and premium figure lines.
 
-There are also multiple shops selling **trading cards** — Pokémon, Yu-Gi-Oh!, One Piece Card Game, with rare singles that card shops in Akihabara price higher. Prices here tend to be fair, though the most sought-after cards (vintage holographic Pokémon, tournament-legal Yu-Gi-Oh!) can still run into the tens of thousands of yen.
+There are also multiple shops selling **trading cards**: Pokémon, Yu-Gi-Oh!, One Piece Card Game, with rare singles that card shops in Akihabara price higher. Prices here tend to be fair, though the most sought-after cards (vintage holographic Pokémon, tournament-legal Yu-Gi-Oh!) can still run into the tens of thousands of yen.
 
 
 ![Nakano Broadway shopping mall exterior in Tokyo — the four-floor otaku second-hand mecca](/images/articles/nakano-broadway-guide/body-wikimedia-1.webp)
@@ -166,7 +166,7 @@ Yes. Even if you don’t plan to buy anything, the sheer density and variety of 
 
 **Can I find current-season anime merchandise here?**
 
-Some, but it’s not the focus. If you want the latest Jujutsu Kaisen or Spy×Family goods from this season, Akihabara or [Ikebukuro’s Animate flagship](/articles/ikebukuro-anime-guide-2026/) will have better selection. Nakano Broadway’s strength is everything that came before — the back catalog, the out-of-print, the rare.
+Some, but it’s not the focus. If you want the latest Jujutsu Kaisen or Spy×Family goods from this season, Akihabara or [Ikebukuro’s Animate flagship](/articles/ikebukuro-anime-guide-2026/) will have better selection. Nakano Broadway’s strength is everything that came before, the back catalog, the out-of-print, the rare.
 
 **How long should I spend here?**
 
@@ -183,7 +183,7 @@ Akihabara first, if it’s your first time in Tokyo. It gives you the full anime
 
 ## More Area Guides
 
-- [Tokyo Anime Districts — Complete Guide to Every Pop Culture Neighborhood](/articles/tokyo-anime-district-guide)
+- [Tokyo Anime Districts. Complete Guide to Every Pop Culture Neighborhood](/articles/tokyo-anime-district-guide)
 - [Akihabara Complete Guide 2026](/articles/akihabara-complete-guide-2026)
 - [Ikebukuro Anime Guide 2026](/articles/ikebukuro-anime-guide-2026)
 - [Shibuya & Harajuku Pop Culture Guide](/articles/shibuya-harajuku-pop-culture-guide)

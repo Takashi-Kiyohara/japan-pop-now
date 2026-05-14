@@ -20,12 +20,12 @@ wpPostId: 297
 
 *Last updated: March 2026.*
 
-Den Den Town is Osaka’s answer to Akihabara — smaller, less crowded, and packed with deals you won’t find in Tokyo.
+Den Den Town is Osaka’s answer to Akihabara, smaller, less crowded, and packed with deals you won’t find in Tokyo.
 Tokyo gets all the attention when it comes to anime tourism, but Osaka has been quietly building one of Japan’s best otaku districts. Den Den Town (short for Nipponbashi Denden Town) runs along a single main street in Namba, and on a weekday afternoon you can browse five floors of vintage figures without fighting through tourist crowds.
 
 I started visiting Den Den Town in 2024 when a friend tipped me off about the secondhand figure prices, often 30-40% cheaper than Akihabara for the same items. Per visitor reports across more than a dozen return trips, every visit turns up something new: a collab cafe that just opened, a retro game shop expanding its arcade floor, or a limited gashapon machine that sold out in Tokyo weeks ago.
 
-This guide covers everything you need for a full day (or two) of anime shopping, gaming, and eating in Osaka. Exact addresses, current hours, and the specific floors are listed below where you’ll find what you’re looking for — plus a few spots outside Den Den Town that most guides miss entirely.
+This guide covers everything you need for a full day (or two) of anime shopping, gaming, and eating in Osaka. Exact addresses, current hours, and the specific floors are listed below where you’ll find what you’re looking for, plus a few spots outside Den Den Town that most guides miss entirely.
 
 
 ## Table of Contents
@@ -42,14 +42,14 @@ This guide covers everything you need for a full day (or two) of anime shopping,
 
 
 ![Animate flagship store exterior at Osaka Nipponbashi, the largest female-oriented anime retailer in Den Den Town](/images/articles/osaka-anime-guide-den-den-town/body-wikimedia.webp)
-*Animate Osaka Nipponbashi — the Den Den Town anchor store for anime merchandise, doujinshi, and Animate Cafe lottery signups. Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Animate_Osaka_Nippombashi.jpg), CC0.*
+*Animate Osaka Nipponbashi, the Den Den Town anchor store for anime merchandise, doujinshi, and Animate Cafe lottery signups. Photo: [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Animate_Osaka_Nippombashi.jpg), CC0.*
 
 
 ## Getting to Den Den Town
 
 Den Den Town sits between Namba and Nipponbashi stations, which means you’ve got multiple access points depending on where you’re coming from.
 
-From **Shin-Osaka Station** (if you’re arriving by Shinkansen): Take the Midosuji Line south to Namba Station, about 15 minutes, 280 yen. Exit via the Nankai side and walk east for 5 minutes. From **Kansai International Airport**: The Nankai Rapi:t express runs directly to Namba in 38 minutes for 1,450 yen — it’s faster and cheaper than the JR Haruka to Shin-Osaka if Den Den Town is your first stop. From **central Osaka**: Nipponbashi Station on the Sakaisuji Line drops you right at the north end of Den Den Town.
+From **Shin-Osaka Station** (if you’re arriving by Shinkansen): Take the Midosuji Line south to Namba Station, about 15 minutes, 280 yen. Exit via the Nankai side and walk east for 5 minutes. From **Kansai International Airport**: The Nankai Rapi:t express runs directly to Namba in 38 minutes for 1,450 yen, it’s faster and cheaper than the JR Haruka to Shin-Osaka if Den Den Town is your first stop. From **central Osaka**: Nipponbashi Station on the Sakaisuji Line drops you right at the north end of Den Den Town.
 
 The main otaku strip runs along Sakai-suji (Route 25) between Nipponbashi Station and Ebisucho Station. It’s about 800 meters end to end, a 10-minute walk if you don’t stop, but plan for 3-4 hours minimum once you start browsing.
 
@@ -80,7 +80,7 @@ What sets this location apart: the secondhand corner on the upper floor regularl
 ### Mandarake Grand Chaos
 This is the store that justifies the trip to Osaka on its own. Mandarake Grand Chaos is one of the largest Mandarake locations in Japan, spread across multiple floors in a single building. The name isn’t exaggerating, the sheer volume of inventory here is overwhelming in the best way.
 
-Floor breakdown: B1F is vintage manga and doujinshi. 1F handles new arrivals and popular series. 2F is figures and toys (this is where the deals are — Megahouse Portrait of Pirates figures regularly turn up here at roughly 40% below Tokyo prices). 3F covers cards, retro games, and CDs. 4F is cosplay items and adult content (18+ only).
+Floor breakdown: B1F is vintage manga and doujinshi. 1F handles new arrivals and popular series. 2F is figures and toys (this is where the deals are. Megahouse Portrait of Pirates figures regularly turn up here at roughly 40% below Tokyo prices). 3F covers cards, retro games, and CDs. 4F is cosplay items and adult content (18+ only).
 
 The pricing philosophy here seems more aggressive than Tokyo Mandarake locations. Items sit on shelves longer in Osaka, so the staff marks things down faster. If you’re hunting for a specific figure, check Grand Chaos before paying Tokyo prices.
 
@@ -106,7 +106,7 @@ For serious retro collectors: check the glass cases near the register for rare i
 
 
 ### Other Notable Shops on the Strip
-**Jungle** (multiple locations on the strip) specializes in figures, model kits, and character goods. They’re known for competitive buyback prices, so if you’re selling as well as buying, start here. **Volks Hobby Paradise** is the spot for Gunpla builders and garage kit enthusiasts — they carry tools and paints that are hard to find elsewhere. **Melonbooks Osaka** is the go-to for doujinshi, especially for visitors who can’t make it to Comiket.
+**Jungle** (multiple locations on the strip) specializes in figures, model kits, and character goods. They’re known for competitive buyback prices, so if you’re selling as well as buying, start here. **Volks Hobby Paradise** is the spot for Gunpla builders and garage kit enthusiasts, they carry tools and paints that are hard to find elsewhere. **Melonbooks Osaka** is the go-to for doujinshi, especially for visitors who can’t make it to Comiket.
 
 
 ## Gashapon Department Store Namba
@@ -119,7 +119,7 @@ Located on the 6th floor of Namba Parks, this is one of the largest gashapon col
 
 The layout groups machines by category: character goods, animals, miniature food, gag items, and seasonal specials. New machines rotate in weekly, and the staff posts a “new arrivals” board near the entrance so you can spot what just dropped.
 
-Most machines take 100-yen coins (some are 200 or 300 yen). There’s a change machine inside, but it only accepts 500-yen coins and 1,000-yen bills — bring smaller bills if you can. For a deeper dive into how gashapon machines work and where to find them across Japan, check out our [complete Gachapon Guide](/articles/gachapon-guide-japan/).
+Most machines take 100-yen coins (some are 200 or 300 yen). There’s a change machine inside, but it only accepts 500-yen coins and 1,000-yen bills, bring smaller bills if you can. For a deeper dive into how gashapon machines work and where to find them across Japan, check out our [complete Gachapon Guide](/articles/gachapon-guide-japan/).
 
 | Location | Namba Parks 6F, 2-10-70 Nanbanaka, Naniwa-ku, Osaka |
 | --- | --- |
@@ -146,7 +146,7 @@ For more on Japan’s arcade culture, crane game strategies, and other game cent
 
 
 ### Athena Nipponbashi
-A Den Den Town institution. Athena has been running game floors in Nipponbashi for decades. The ground floor is crane games with current anime prizes; upper floors have fighting games, retro cabinets, and medal games. It’s smaller and more intimate than Round1 — the kind of place where regulars know the staff and the staff knows which machines are “hot” for prizes.
+A Den Den Town institution. Athena has been running game floors in Nipponbashi for decades. The ground floor is crane games with current anime prizes; upper floors have fighting games, retro cabinets, and medal games. It’s smaller and more intimate than Round1, the kind of place where regulars know the staff and the staff knows which machines are “hot” for prizes.
 
 
 ## Collab Cafes in Osaka
@@ -158,11 +158,11 @@ Osaka’s collab cafe scene is growing fast. While Tokyo still dominates with vo
 
 
 ### Key Collab Cafe Venues
-**Collabo Cafe Honpo Osaka** — A dedicated collaboration cafe space in Nipponbashi that rotates themes every 2-4 weeks. This is the most convenient option if you’re already in Den Den Town. Check their Twitter/X for the current collaboration before visiting.
+**Collabo Cafe Honpo Osaka**: A dedicated collaboration cafe space in Nipponbashi that rotates themes every 2-4 weeks. This is the most convenient option if you’re already in Den Den Town. Check their Twitter/X for the current collaboration before visiting.
 
 **mottocafe Namba**. Located near Namba Station, this venue hosts rotating anime and game collaborations. The space is larger than most Tokyo collab cafes, so reservations are sometimes easier to get here. Menu items typically run 800-1,500 yen for drinks and 1,200-1,800 yen for food items.
 
-**My Charaful** — A permanent character cafe concept with rotating anime themes. Located in the Shinsaibashi area, it’s walkable from Den Den Town in about 15 minutes.
+**My Charaful**: A permanent character cafe concept with rotating anime themes. Located in the Shinsaibashi area, it’s walkable from Den Den Town in about 15 minutes.
 
 For booking tips, what to expect at your first collab cafe, and a calendar of current collaborations, check our [How to Book an Anime Collab Cafe](/articles/how-to-book-anime-collab-cafe-japan/) guide and the [Spring 2026 Collab Cafe Calendar](/articles/tokyo-anime-collab-cafes-spring-2026/).
 
@@ -218,11 +218,11 @@ If you’ve only got one day for Osaka anime tourism, here’s a route that cove
 
 **15:00**. Gashapon Department Store at Namba Parks 6F. Budget 30-45 minutes (and 2,000-3,000 yen in 100-yen coins).
 
-**16:00** — If you have a collab cafe reservation, head there now. If not, use this time for a second pass through Den Den Town or explore the side streets for smaller specialty shops.
+**16:00**: If you have a collab cafe reservation, head there now. If not, use this time for a second pass through Den Den Town or explore the side streets for smaller specialty shops.
 
 **18:00**. Dinner in Dotonbori (5-minute walk north from Den Den Town). The famous street food strip has everything from kushikatsu to okonomiyaki.
 
-**20:00** — Round1 Stadium Sennichimae for late-night gaming. Open 24 hours, so stay as long as you want.
+**20:00**: Round1 Stadium Sennichimae for late-night gaming. Open 24 hours, so stay as long as you want.
 
 **Two-day option:** If you have a second day, dedicate it to USJ. The park needs a full day to cover properly, especially if you want to experience both Super Nintendo World and the Cool Japan seasonal attractions.
 
@@ -311,7 +311,7 @@ For a single-day Osaka trip, yes. Den Den Town condenses Akihabara's mix of figu
 
 ### What is Nipponbashi Street Festa?
 
-A one-day cosplay parade every March across Den Den Town, free to attend. Checking the 2026 schedule before you book is worth the extra minute — locals compete for the best outfits.
+A one-day cosplay parade every March across Den Den Town, free to attend. Checking the 2026 schedule before you book is worth the extra minute, locals compete for the best outfits.
 
 
 ### Which Den Den Town shops must first-time visitors see?

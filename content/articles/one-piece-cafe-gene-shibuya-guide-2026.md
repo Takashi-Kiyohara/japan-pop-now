@@ -35,7 +35,7 @@ relatedSlugs:
   - lawson-ticket-anime-cafe-booking
 ---
 
-*Last updated: May 7, 2026 — verified against the official PARCO Cafe listing.*
+*Last updated: May 7, 2026, verified against the official PARCO Cafe listing.*
 
 
 ![Moe from Japan Pop Now with full table spread at One Piece Cafe GENE Shibuya, skull bowl ramen, crepe bowl, two character drinks, Luffy standee, and Straw Hat Crew placemat](/images/articles/one-piece-cafe-gene-shibuya-guide-2026/moe-table-spread.jpg)
@@ -51,7 +51,7 @@ A typical 2-food + 2-drink order at this cafe runs ~¥5,060 per the published me
 
 - **Where:** Shibuya PARCO 6F (6-min walk from JR Shibuya Hachiko Exit)
 - **When:** Phase 2 runs April 1 - May 18, 2026, 10:00-21:00
-- **Book?** Lawson Ticket ¥550 — optional. Walk-in works weekdays after 14:00.
+- **Book?** Lawson Ticket ¥550, optional. Walk-in works weekdays after 14:00.
 - **Spend:** ¥3,000-5,000 per person for the full food + drink + coaster experience
 - **One thing to order:** Straw Hat Salt Ramen in the skull bowl (¥1,980)
 - **Free with every visit:** Original placemat + one coaster per drink
@@ -87,7 +87,7 @@ The cafe sits on the 6th floor of Shibuya PARCO, which is a 6-minute walk from J
 1. **Exit from Hachiko Exit** at JR Shibuya Station. You will see the Hachiko statue and Shibuya Scramble Crossing ahead.
 2. **Cross the Scramble Crossing** toward the Starbucks side.
 3. **Walk straight** past QFRONT and Tower Records for about 4 minutes. Shibuya PARCO is the large modern building on your left.
-4. **Take the elevator to 6F.** The cafe entrance is next to Nintendo TOKYO — you will see the red ONE PIECE CAFE GENE signage.
+4. **Take the elevator to 6F.** The cafe entrance is next to Nintendo TOKYO, you will see the red ONE PIECE CAFE GENE signage.
 
 Tokyo Metro users: Shibuya Station exits A6 or A7 put you closer. From Meiji-Jingumae or Harajuku, it is about a 12-minute walk south through Cat Street.
 
@@ -104,12 +104,12 @@ If you are combining this with our [Shibuya-Harajuku pop culture walking route](
 3. Pay ¥550 per person
 4. Show the digital ticket at the cafe entrance
 
-**The catch for international visitors:** Lawson Ticket requires a Japanese phone number to register. If you do not have one, ask your hotel concierge to book on your behalf, or use a temporary Japanese SIM. Walk-ins are a solid backup plan — see below.
+**The catch for international visitors:** Lawson Ticket requires a Japanese phone number to register. If you do not have one, ask your hotel concierge to book on your behalf, or use a temporary Japanese SIM. Walk-ins are a solid backup plan, see below.
 
 
 <div className="jpn-tip">
 
-**Cannot book Lawson Ticket from overseas?** Reservation-included tours and anime cafe experiences through Klook are the smoothest workaround — they handle the Japanese-side booking for you. [Check One Piece Cafe availability and Tokyo anime experiences on Klook](https://affiliate.klook.com/redirect?aid=117469&aff_adid=1251547&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US/search/?query=one+piece+tokyo&aid=1117469).
+**Cannot book Lawson Ticket from overseas?** Reservation-included tours and anime cafe experiences through Klook are the smoothest workaround, they handle the Japanese-side booking for you. [Check One Piece Cafe availability and Tokyo anime experiences on Klook](https://affiliate.klook.com/redirect?aid=117469&aff_adid=1251547&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US/search/?query=one+piece+tokyo&aid=1117469).
 
 </div>
 
@@ -139,17 +139,17 @@ Phase 2 runs April 1 through May 18, 2026 with a completely refreshed menu. The 
 
 - **Most photogenic:** Straw Hat Salt Ramen (the skull bowl lid lift is the money shot)
 - **Best value:** Nakama Wrap Sandwich Plate at ¥1,320, cheapest food, generous portion
-- **Fan-service pick:** Law & Corazon Memory Sweets Plate (¥2,090) — only order if you love Law
+- **Fan-service pick:** Law & Corazon Memory Sweets Plate (¥2,090), only order if you love Law
 - **Skip if pressed for time:** Shabondy Bread Gratin — tasty but takes 15 min to arrive
 
 </div>
 
 
-![Skull bowl ramen being served at One Piece Cafe GENE — staff lifting the Trafalgar Law Jolly Roger lid to reveal salt ramen inside](/images/articles/one-piece-cafe-gene-shibuya-guide-2026/skull-bowl-ramen.jpg)
+![Skull bowl ramen being served at One Piece Cafe GENE, staff lifting the Trafalgar Law Jolly Roger lid to reveal salt ramen inside](/images/articles/one-piece-cafe-gene-shibuya-guide-2026/skull-bowl-ramen.jpg)
 *The skull bowl moment, staff lift the lid tableside and steam rolls out. The bowl is Trafalgar Law's Jolly Roger. Photo: Japan Pop Now*
 
 **Straw Hat Salt Ramen (麦わら塩ラーメン) - ¥1,980**
-The signature item. It arrives in a branded bowl with salt broth, thin noodles, egg, seaweed, and a Zoro character acrylic pick. The broth is lighter than typical Tokyo ramen but rich enough to finish. The real selling point is the bowl itself — it is a full ceramic piece with the GENE logo that you keep as a souvenir (just kidding, you cannot — but it is worth photographing from every angle).
+The signature item. It arrives in a branded bowl with salt broth, thin noodles, egg, seaweed, and a Zoro character acrylic pick. The broth is lighter than typical Tokyo ramen but rich enough to finish. The real selling point is the bowl itself — it is a full ceramic piece with the GENE logo that you keep as a souvenir (just kidding, you cannot, but it is worth photographing from every angle).
 
 **Zoro's Deadly Spice Keema Curry (ゾロ 決死のスパイスキーマカレー) - ¥1,980**
 Green-tinted keema curry with a serious kick. The spice level is about a 6 out of 10 by Japanese standards, noticeable but manageable for most visitors.
@@ -165,7 +165,7 @@ The lightest and cheapest food option. Good if you want to save room for dessert
 *The dessert menu. The Crepe Bowl (¥1,760) comes in a skull-shaped dish you'll want to photograph from above. Photo: Japan Pop Now*
 
 **Jimbei's Settlement Cup Cake (ジンベエ ケジメの盃 落とし前ケーキ) - ¥1,870**
-A ceremonial sake-cup presentation with cake — the Jimbei theme hits hard for Whole Cake Island fans.
+A ceremonial sake-cup presentation with cake, the Jimbei theme hits hard for Whole Cake Island fans.
 
 **Franky's Wave Fruit Parfait - ¥1,760**
 A layered fruit parfait that looks better in person than on the menu board.
@@ -196,7 +196,7 @@ Order 2 drinks minimum for the table spread photo. The placemat, coasters, and 2
 
 ## What about the birthday card campaign?
 
-Based on my April 2026 visit, ordering food or drinks earned random birthday cards featuring One Piece characters with April birthdays. The cards were exclusive to the campaign period and not available for separate purchase. Campaign details may change — check the [official PARCO Cafe page](https://cafe.parco.jp/event/onepiece_cafe_gene_shibuya?area=029438) for current promotions before your visit.
+Based on my April 2026 visit, ordering food or drinks earned random birthday cards featuring One Piece characters with April birthdays. The cards were exclusive to the campaign period and not available for separate purchase. Campaign details may change, check the [official PARCO Cafe page](https://cafe.parco.jp/event/onepiece_cafe_gene_shibuya?area=029438) for current promotions before your visit.
 
 Per the cafe's bonus-card structure, ordering 4 menu items typically returns 3 different character cards — postcard-sized with original illustrations not used in any other Cafe GENE merchandise per the operator's announcement. If the campaign is still running when you visit, the operator's published guidance is that ordering 3 items gives the best card-to-yen ratio.
 
@@ -249,7 +249,7 @@ If you are short on time, JUMP SHOP plus the cafe alone is a solid 90-minute loo
 
 ## What gives this cafe its repeat-visit pull
 
-ONE PIECE has run for over 25 years and its cafe collaborations carry a specific weight that newer franchises cannot match. Japanese fans treat these events less like themed restaurants and more like *seichi junrei* (聖地巡礼, sacred site pilgrimage) — each dish recreates a food that appeared in the manga. The salt ramen references a scene from Water Seven, Zoro's curry ties to a specific arc moment, and the skull bowl is Trafalgar Law's entire aesthetic compressed into tableware.
+ONE PIECE has run for over 25 years and its cafe collaborations carry a specific weight that newer franchises cannot match. Japanese fans treat these events less like themed restaurants and more like *seichi junrei* (聖地巡礼, sacred site pilgrimage), each dish recreates a food that appeared in the manga. The salt ramen references a scene from Water Seven, Zoro's curry ties to a specific arc moment, and the skull bowl is Trafalgar Law's entire aesthetic compressed into tableware.
 
 The location inside Shibuya PARCO's anime-dedicated 6th floor amplifies the atmosphere. You can hit JUMP SHOP for exclusive ONE PIECE goods, cross the hall to Pokemon Center Shibuya, and end at Nintendo TOKYO — all without leaving the floor. For Japanese otaku, this floor is the single most efficient pop culture shopping run in the city.
 
@@ -278,7 +278,7 @@ The location inside Shibuya PARCO's anime-dedicated 6th floor amplifies the atmo
 - [ ] Screenshot of your reservation saved (backup if the app fails)
 - [ ] Cash or IC card loaded with at least ¥3,500 per person
 - [ ] Passport or ID — rare but sometimes requested to match the reservation name
-- [ ] Empty tote bag — the placemat is too large for a standard pocket
+- [ ] Empty tote bag, the placemat is too large for a standard pocket
 - [ ] Stomach at 40-50% — the skull bowl ramen is generous and you want room for dessert
 - [ ] Search [#ONEPIECE\_CAFE\_GENE on X](https://twitter.com/search?q=%23ONEPIECE_CAFE_GENE&f=live) for same-day wait reports and sold-out updates
 
