@@ -22,6 +22,7 @@ import Breadcrumb from '@/components/Breadcrumb';
 import Sidebar from '@/components/Sidebar';
 import ArticleFooter from '@/components/ArticleFooter';
 import AffiliateDisclosure from '@/components/AffiliateDisclosure';
+import ThreadsCTA from '@/components/ThreadsCTA';
 import NewsletterSignup from '@/components/NewsletterSignup';
 import ShareButtons from '@/components/ShareButtons';
 import ScrollDepthTracker from '@/components/ScrollDepthTracker';
@@ -393,6 +394,12 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                   slug={slug}
                   relatedSuggestions={relatedArticles.map(a => ({ slug: a.slug, title: a.title }))}
                 />
+                {/* R14-D (2026-05-14): ThreadsCTA auto-injected here.
+                    Previously 29 articles each carried an inline jpn-cta
+                    block with identical text; stripped from MDX bodies in
+                    the next commit. Component-level render preserves the
+                    CTA without inflating duplicate-text signals. */}
+                <ThreadsCTA />
               </div>
 
               {/* Newsletter CTA */}
