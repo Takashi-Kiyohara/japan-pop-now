@@ -12,6 +12,9 @@ author: "Takapon"
 excerpt: "Planning to visit AnimeJapan 2026 in Tokyo? This practical guide covers dates, venue access, what Family Anime Festa is, nearby anime spots, and how to build a..."
 relatedSlugs: []
 wpPostId: 821
+# R16 (2026-05-14): forced-RED per HCU firsthand+originality override.
+# Author/Cowork can rewrite + re-enable indexing later. Sitemap.ts auto-excludes.
+robots: 'noindex, follow'
 ---
 
 If you are visiting Japan in late March and want the biggest anime event of the season, **AnimeJapan 2026 is one of the strongest event picks for international visitors**. It will be held on **March 28-29, 2026** at **Tokyo Big Sight** in the East 4-8 halls, South 1-4 halls, and rooftop exhibition area. The venue is easy to reach from central Tokyo, and the event works especially well if you want to combine a major convention day with nearby Odaiba or central Tokyo anime plans.[1]

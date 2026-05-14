@@ -19,6 +19,9 @@ excerpt: >-
   route.
 relatedSlugs: []
 wpPostId: 510
+# R16 (2026-05-14): forced-RED per HCU firsthand+originality override.
+# Author/Cowork can rewrite + re-enable indexing later. Sitemap.ts auto-excludes.
+robots: 'noindex, follow'
 ---
 
 
