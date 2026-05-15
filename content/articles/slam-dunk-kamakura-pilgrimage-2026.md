@@ -76,6 +76,7 @@ For the best recreation of that shot, position yourself on the ocean side of the
 
 
 ![Shichirigahama beach with Enoshima island in the distance, the Shonan coast featured in Slam Dunk's Enoden line scenes](/images/articles/slam-dunk-kamakura-pilgrimage-2026/2.webp)
+*Photo: Shichirigahama beach with Enoshima island in the distance — the Shonan coast section featured in Slam Dunk's Enoden-line scenes, via Wikimedia Commons, CC BY-SA contributor.*
 
 The crossing gets all the attention, but there are several other Slam Dunk-connected spots along the Enoden line and Shonan coast:
 
@@ -100,6 +101,7 @@ While not a specific Slam Dunk location, Enoshima island is visible from the fam
 
 
 ![Enoden 1251 train at Kamakura Station, the private railway connecting JR Kamakura to Kamakura-Koko-Mae and the Slam Dunk crossing](/images/articles/slam-dunk-kamakura-pilgrimage-2026/3.webp)
+*Photo: Enoden 1251-series train at Kamakura Station — the private-railway line that links JR Kamakura to Kamakura-Koko-Mae and the famous Slam Dunk crossing, via Wikimedia Commons, CC BY-SA contributor.*
 
 Two main routes, both straightforward:
 
