@@ -16,6 +16,7 @@ excerpt: >-
   across...
 relatedSlugs: []
 wpPostId: 206
+robots: 'noindex,follow'
 ---
 
 *Last updated: March 2026. The complete guide to every anime and pop culture neighborhood in Tokyo, where to go, what to buy, and how to plan your route across all districts.*
