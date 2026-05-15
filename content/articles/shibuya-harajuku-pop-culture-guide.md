@@ -17,6 +17,7 @@ excerpt: >-
   districts.
 relatedSlugs: []
 wpPostId: 205
+robots: 'noindex,follow'
 ---
 *Last updated: March 2026. Covers Shibuya PARCO’s 6F Cyberspace, Harajuku’s Takeshita Street, Cat Street, Kawaii Monster Land, Kiddy Land, and a walking route combining both areas.*
 Shibuya and Harajuku don’t show up on most anime fan itineraries. Akihabara gets that slot, and understandably, it’s the obvious choice. But if you skip Shibuya and Harajuku, you’re missing two things: the Nintendo flagship store, the Pokémon Center, the Jump Shop, and the Capcom Store all sitting on one floor of the same building, and an entire neighborhood dedicated to the kawaii culture that fuels half the anime aesthetic you already love.
