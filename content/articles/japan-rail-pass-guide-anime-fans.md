@@ -23,9 +23,9 @@ canonical: 'https://www.japan-pop-now.com/articles/japan-rail-pass-2026-guide'
 ---
 
 
-If you’re planning an anime pilgrimage across Japan — hitting collab cafes in Tokyo, One Piece statues in Kumamoto, and Den Den Town in Osaka, transportation costs add up fast. A Japan Rail Pass (JR Pass) can cut your train expenses in half, but it’s not always the right call. Here’s how to figure out if you actually need one, and how to get the best deal.
+As of April 2026, if you’re planning an anime pilgrimage across Japan — hitting collab cafes in Tokyo, One Piece statues in Kumamoto, and Den Den Town in Osaka, transportation costs add up fast. A Japan Rail Pass (JR Pass) can cut your train expenses in half, but it’s not always the right call. Per the operator, pricing tiers (7-day / 14-day / 21-day) and the foreign-tourist eligibility rules are confirmed via the official JR Pass site at the time of writing. Here’s how to figure out if you actually need one, and how to get the best deal.
 
-Trip reports across anime-pilgrimage forums show the JR Pass used productively on combinations of 7-day and 14-day itineraries, and skipped on Tokyo-only stays. This guide covers exactly when it pays off for anime fans, when it doesn’t, and the one mistake most first-time buyers make.
+Trip reports across anime-pilgrimage forums, and per visitor reports on the JR Pass after the 2023 fare reset, show the JR Pass used productively on combinations of 7-day and 14-day itineraries, and skipped on Tokyo-only stays. This guide covers exactly when it pays off for anime fans, when it doesn’t, and the one mistake most first-time buyers make.
 
 
 ## Table of Contents
