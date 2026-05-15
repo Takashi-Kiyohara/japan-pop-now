@@ -21,6 +21,7 @@ wpPostId: 512
 
 
 ![Tokyo Solamachi at Skytree Town, where the Mugiwara Store flagship sits inside the shopping complex](/images/articles/one-piece-tokyo-guide-2026/hero-wikimedia.webp)
+*Photo: Tokyo Solamachi at Skytree Town — the shopping complex that hosts the Mugiwara Store flagship, via Wikimedia Commons, CC BY-SA contributor.*
 
 Finding your way through Tokyo's One Piece merchandise landscape in 2026.
 
@@ -45,6 +46,7 @@ The city's One Piece infrastructure expanded significantly in the past 12 months
 
 
 ![Marui City Shinjuku at night, the Marui Main Building hosts the One Piece Base Shop on the 4th floor](/images/articles/one-piece-tokyo-guide-2026/body-wikimedia-1.webp)
+*Photo: Marui City Shinjuku Main Building at night — the host complex for the One Piece Base Shop flagship on the 4th floor, via Wikimedia Commons, CC BY-SA contributor.*
 
 The flagship One Piece Base Shop opened in December 2025 at Shinjuku Marui Main Building, 4th floor, and remains the most concentrated cache of official merch in the city per the operator's listing. The space spans roughly 800 square meters with approximately 800 different products across multiple categories: figures, cards, apparel, accessories, stationery, home goods, and limited edition collectibles.
 
@@ -72,6 +74,7 @@ Per the operator's listings, exclusive items at the Base Shop typically include 
 
 
 ![Tokyo Solamachi 2F pedway inside Tokyo Skytree Town. Mugiwara Store sits in this complex](/images/articles/one-piece-tokyo-guide-2026/body-wikimedia-2.webp)
+*Photo: Tokyo Solamachi 2F pedway inside Tokyo Skytree Town — pedestrian flow into the Mugiwara Store complex, via Wikimedia Commons, CC BY-SA contributor.*
 
 The Mugiwara Store chain operates 5 locations across Tokyo per the chain directory and remains the most accessible official One Piece retail presence. While the locations carry overlapping inventory, each one has distinct advantages depending on your travel route.
 
