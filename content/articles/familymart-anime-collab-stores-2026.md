@@ -28,12 +28,14 @@ FamilyMart Anime Collab Stores: Japan's Newest Trend (2026)
 ## What Is a FamilyMart Anime Collab Store?
 
 ![FamilyMart BUSTA Shinjuku storefront with green-and-blue branding — typical FamilyMart layout used for anime collab stores](/images/articles/familymart-anime-collab-stores-2026/body-wikimedia-1.webp)
+*Photo: FamilyMart BUSTA Shinjuku storefront — generic FamilyMart layout used here as a visual stand-in for the Durarara!! collab store interior, via Wikimedia Commons, CC BY-SA contributor.*
 A standard FamilyMart location gets a full visual redesign—window displays, shelf signage, staff uniforms, bag designs, and interior layout all themed around a single anime. The store stocks exclusive merchandise (acrylic keychains, tote bags, pins) and limited-edition food items (drinks with character designs, boxed bentos with artwork). Items sell out fast, especially weekends.
 It’s a low-cost play for FamilyMart (minimal infrastructure change, existing store staff) and enormous value for fans. The store becomes a pilgrimage destination for collectors. A single collab can draw 500–1,000 visitors per day, with average spend of ¥2,000–¥4,000 per person.
 
 ## Durarara!! Ikebukuro Store: The Flagship (Opened March 17, 2026)
 
 ![Ikebukuro Station East Exit Tokyo — gateway to the FamilyMart Durarara!! collab store](/images/articles/familymart-anime-collab-stores-2026/body-wikimedia-2.webp)
+*Photo: Ikebukuro Station East Exit — the gateway plaza for the Durarara!! collab store and the wider Otome Road anime-retail district, via Wikimedia Commons, CC BY-SA contributor.*
 The Durarara!! collab is perfect timing. Durarara!! is set in Ikebukuro—the anime’s entire narrative maps onto the actual neighborhood. FamilyMart opened a fully themed Durarara!! store on March 17, 2026, directly in Ikebukuro, turning fiction into literal geography tourism.
 **What’s inside:**
 - Window displays featuring life-sized character cutouts (Mikado, Masaomi, Anri, Shizuo)
@@ -59,6 +61,7 @@ Duration: Typically 4–8 weeks (check dates)
 ## Exclusive Merch: What You Can Only Buy Here
 
 ![Animate Ikebukuro main store, anchor of the Otome Road anime merch district near the FamilyMart collab store](/images/articles/familymart-anime-collab-stores-2026/body-wikimedia-3.webp)
+*Photo: Animate Ikebukuro main store — anchor of Otome Road and a useful crawl stop after the FamilyMart Durarara!! collab, via Wikimedia Commons, CC BY-SA contributor.*
 **Exclusive to this store:** FamilyMart-branded tote bags, store-exclusive acrylic stands/keychains, limited-edition food packaging, collaboration posters.
 **The buying strategy:** Prioritize exclusive items you can’t get elsewhere. Skip standard merch, buy it on Amazon Japan later.
 
