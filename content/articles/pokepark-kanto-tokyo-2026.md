@@ -49,6 +49,7 @@ Plan your PokéPark day faster:
 ## How Much Do PokéPark Kanto Tickets Cost?
 
 ![Pokémon Center Mega Tokyo entrance in Sunshine City, Ikebukuro, the largest Pokémon Center in Japan and the closest analog to PokéPark Kanto's themed retail experience](/images/articles/pokepark-kanto-tokyo-2026/body-wikimedia-1.webp)
+*Photo: Pokémon Center Mega Tokyo entrance at Sunshine City Ikebukuro — used here as a visual stand-in for PokéPark Kanto's themed retail until on-site photography is available, via Wikimedia Commons, CC BY-SA contributor.*
 PokéPark Kanto uses dynamic pricing, costs fluctuate based on predicted crowd levels, so weekdays are generally cheaper than weekends and holidays. The prices below are base rates; actual prices on your selected date may be higher.
 | Ticket Tier | Adult (13+) | Child (3-12) | What’s Included |
 | --- | --- | --- | --- |
@@ -64,6 +65,7 @@ Recommended pick for international visitors: the Elite Trainers Pass. Per the of
 ## How Do You Buy Tickets from Overseas?
 
 ![Pokémon Center Mega Tokyo interior. Pokémon merchandise display similar in scale to what visitors will find at PokéPark Kanto's Kayatsuri Town shops](/images/articles/pokepark-kanto-tokyo-2026/body-wikimedia-2.webp)
+*Photo: Pokémon Center Mega Tokyo interior — merchandise display used as a visual proxy for the retail density expected at PokéPark Kanto's Kayatsuri Town shops, via Wikimedia Commons, CC BY-SA contributor.*
 This is where PokéPark Kanto is genuinely better than most Japanese attractions for international visitors. There’s a dedicated English-language booking portal specifically for overseas guests, no Japanese phone number, no SMS verification, no membership registration required.
 
 ### Best Way to Book PokéPark Kanto From Overseas: Official English Site
@@ -84,6 +86,7 @@ If your dates are still open, book the official English site immediately. If the
 ## What Are the 3 Areas Inside PokéPark Kanto?
 
 ![Pokémon Center Mega Tokyo plush and figure displays, comparable themed retail to PokéPark's Entrance Square exhibits](/images/articles/pokepark-kanto-tokyo-2026/body-wikimedia-3.webp)
+*Photo: Pokémon Center Mega Tokyo plush and figure displays — comparable themed retail to PokéPark Kanto's Entrance Square exhibits, via Wikimedia Commons, CC BY-SA contributor.*
 PokéPark Kanto is divided into three zones, each with a completely different feel. Here’s what to expect in each:
 
 ### Is Pokémon Forest Worth Prioritizing First at PokéPark Kanto?
