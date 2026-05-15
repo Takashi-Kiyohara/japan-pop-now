@@ -50,6 +50,7 @@ Conan also has one of the deepest pilgrimage networks of any anime: real-world l
 
 
 ![Yura Conan Station JR Sanin Main Line in Hokuei Tottori. Detective Conan creator hometown stop](/images/articles/detective-conan-pilgrimage-events-2026/body-wikimedia-1.webp)
+*Photo: Yura Conan Station signage at the JR Sanin Main Line stop themed for Gosho Aoyama's Hokuei hometown — Hsu Tzu-hsun via Wikimedia Commons, CC BY-SA 4.0.*
 
 Here’s everything running or confirmed as of April 2026:
 
@@ -64,6 +65,7 @@ Here’s everything running or confirmed as of April 2026:
 
 
 ![Yokohama Minato Mirai 21 waterfront, setting of Detective Conan 29th movie Highway’s Fallen Angel](/images/articles/detective-conan-pilgrimage-events-2026/body-wikimedia-5.webp)
+*Photo: Yokohama Minato Mirai 21 waterfront — the cityscape staged for the 29th Conan film, via Wikimedia Commons, CC BY-SA contributor.*
 
 
 ### The 29th Movie: Highway’s Fallen Angel (ハイウェイの堕天使)
@@ -91,6 +93,7 @@ Tickets are available through [Lawson Ticket (l-tike.com)](https://l-tike.com/) 
 
 
 ![Tokyo Tower at night, appears as Toto Tower in Detective Conan series](/images/articles/detective-conan-pilgrimage-events-2026/body-wikimedia-3.webp)
+*Photo: Tokyo Tower at night — the real-world landmark that appears as "Toto Tower" across the Detective Conan series, via Wikimedia Commons, CC BY-SA contributor.*
 
 Detective Conan is set in the fictional Beika City (米花町), but the Tokyo landmarks that appear throughout the series are very real:
 
