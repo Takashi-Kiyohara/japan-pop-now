@@ -29,8 +29,7 @@ wpPostId: 100
 
 
 ![Lawson Loppi multimedia kiosk, the red touchscreen terminal where you print anime collab cafe reservations and tickets](/images/articles/how-to-book-anime-collab-cafe-japan/body-wikimedia-1.webp)
-Lawson Loppi kiosk, the dominant booking terminal for anime collab cafes in Japan
-Image: Corpse Reviver / Wikimedia Commons (CC BY-SA 3.0)
+*Photo: Lawson Loppi multimedia kiosk — the dominant booking terminal for anime collab cafes in Japan, Corpse Reviver via Wikimedia Commons, CC BY-SA 3.0.*
 
 You’ve found the perfect anime collaboration cafe. The themed menu looks incredible. The exclusive merchandise is exactly what you want. You check the booking page and, it’s entirely in Japanese, asks for information you don’t know how to provide, and every time slot already says 満席 (full).
 
@@ -160,8 +159,7 @@ If dealing with Japanese lottery systems and Lawson Loppi machines sounds overwh
 
 
 ![Animate Annex storefront in Ikebukuro — anchor of the Otome Road anime shopping district where many collab cafes pop up](/images/articles/how-to-book-anime-collab-cafe-japan/body-wikimedia-2.webp)
-Animate Annex Ikebukuro, the chain that runs Animate Cafe lottery bookings
-Image: Wikimedia Commons via Flickr (CC BY 2.0)
+*Photo: Animate Annex Ikebukuro storefront — the Animate chain runs the Animate Cafe lottery booking system, Wikimedia Commons via Flickr, CC BY 2.0.*
 
 Don’t give up. You have three realistic options:
 
@@ -176,8 +174,7 @@ Don’t give up. You have three realistic options:
 
 
 ![DECOTTO by animate cafe storefront with collab merch displays, banners, and standees in front of the entrance](/images/articles/how-to-book-anime-collab-cafe-japan/body-wikimedia-3.webp)
-DECOTTO by animate cafe, collab merch displays at the cafe entrance
-Image: Wikimedia Commons (CC BY 4.0)
+*Photo: DECOTTO by animate cafe storefront — collab merch displays, banners, and standees at the cafe entrance, Wikimedia Commons, CC BY 4.0.*
 
 **Arrive on time.** Collab cafes operate on strict time slots. Your 80-90 minute window starts at the scheduled time regardless of when you check in. Being 10 minutes late means 10 fewer minutes at the cafe — and some cafes will cancel your reservation entirely for no-shows past 15 minutes. Aim to arrive 5-10 minutes early.
 
