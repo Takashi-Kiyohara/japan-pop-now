@@ -40,7 +40,15 @@ export const metadata: Metadata = {
 
 export default function ArticlesIndexPage() {
   // Already sorted by date desc inside getAllArticles().
-  const articles = getAllArticles();
+  // R18-P4: exclude noindex articles from the main listing. Promoting
+  // noindex (low-quality / deduped / sunset) pages in the site's primary
+  // article index sends an HCU-negative signal and inflates the live
+  // index count vs. the sitemap. The same filtered set feeds the category
+  // counts, the {n} articles label, and the CollectionPage ItemList JSON-LD,
+  // so they all stay consistent automatically.
+  const articles = getAllArticles().filter(
+    (a) => !(a.robots ?? '').toLowerCase().includes('noindex'),
+  );
 
   const breadcrumbs = [
     { label: 'Home', href: '/' },
