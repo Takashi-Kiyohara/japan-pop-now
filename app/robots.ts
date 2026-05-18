@@ -40,6 +40,9 @@ export default function robots(): MetadataRoute.Robots {
     ],
     sitemap: [
       'https://www.japan-pop-now.com/sitemap.xml',
+      // R19-S1: TEMPORARY removed-URLs sitemap (deindex speedup).
+      // Scheduled removal 2026-07-17 — see docs/sitemap-removed-expiry.md.
+      'https://www.japan-pop-now.com/sitemap-removed.xml',
     ],
     host: 'https://www.japan-pop-now.com',
   };

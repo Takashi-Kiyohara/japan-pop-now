@@ -1,0 +1,47 @@
+{
+  "_comment": "R19-S1 (W6-quick) whitelist. Snapshot of ALL pre-existing intentional redirects/410s as of baseline 6e8c919, derived verbatim from next.config.ts redirects() + middleware.ts. PURPOSE: Phase 2 must NEVER revert/remove any entry here (誤revert=0 gate). Phase 2 Group A only collapses multi-hop chains whose FINAL destination already appears in .permanent here; anything whose final destination is NOT here is deferred (untouched). CI + Phase 4 verify reference this file.",
+  "baseline_sha": "6e8c919",
+  "generated": "2026-05-19",
+  "permanent": [
+    { "source": "/articles/demon-slayer-rerun-cafe-ufotable-2026", "destination": "/articles/demon-slayer-rerun-cafe-ufotable-kizuna-2026", "reason": "cannibalization 308 — source noindex+canonical, next.config.ts" },
+    { "source": "/articles/osaka-anime-collab-cafes-pop-culture-2026", "destination": "/articles/osaka-anime-cafes-complete-guide-2026", "reason": "cannibalization 308 — next.config.ts" },
+    { "source": "/articles/japan-rail-pass-guide-anime-fans", "destination": "/articles/japan-rail-pass-2026-guide", "reason": "JR Pass cluster merge cycle E1 — next.config.ts" },
+    { "source": "/articles/jr-pass-anime-pilgrimage-routes-2026", "destination": "/articles/japan-rail-pass-2026-guide", "reason": "JR Pass cluster merge cycle E1 — next.config.ts" },
+    { "source": "/articles/detective-conan-cafe-2026-japan-guide", "destination": "/articles/detective-conan-cafe-tokyo-osaka-3venue-2026", "reason": "Conan cafe cannibalization — next.config.ts" },
+    { "source": "/articles/slam-dunk-kamakura-pilgrimage-2026", "destination": "/articles/kamakura-slam-dunk-pilgrimage-2026", "reason": "slug normalization 2026-05-10 — next.config.ts" },
+    { "source": "/:slug(LEGACY_FLAT_SLUGS)", "destination": "/articles/:slug", "reason": "19 pre-Next WP flat-slug 301/308s (LEGACY_FLAT_SLUGS alternation) — next.config.ts" },
+    { "source": "/the-complete-guide-to-japanese-game-centers-arcades-2026-crane-games-rhythm-games-more", "destination": "/articles/game-centers-arcades-japan", "reason": "long WP slug renamed at re-publication — next.config.ts" },
+    { "source": "/collab-cafe-calendar", "destination": "/calendar", "reason": "WP standalone calendar → hub — next.config.ts" },
+    { "source": "/feed", "destination": "/feed.xml", "reason": "WP feed URL — next.config.ts" },
+    { "source": "/sitemap_index.xml", "destination": "/sitemap.xml", "reason": "WP multi-sitemap legacy URL (R15-C) — next.config.ts" },
+    { "source": "japan-pop-now.com/:path*", "destination": "https://www.japan-pop-now.com/:path*", "reason": "apex→www canonical normalization (host-conditioned) — next.config.ts" },
+    { "source": "/:path+/", "destination": "/:path+", "reason": "generic trailing-slash strip (replaces framework priority rule) — next.config.ts, MUST stay last" },
+    { "source": "/Articles/* (uppercase)", "destination": "/articles/* (lowercase)", "reason": "case-canonicalization 301 — middleware.ts R9-L9" },
+    { "source": "LEGACY_ARTICLE_SLUGS (bare, 7 slugs)", "destination": "/articles/:slug", "reason": "WP-era bare flat slugs 301 — middleware.ts R15-B" },
+    { "source": "/category/<old> and /category/<old>/page/<N>", "destination": "/category/<new>", "reason": "2026-04-19 category slug migration 301 (collab-cafes→cafes, anime-pilgrimage→destinations, area-guides→destinations, travel-tips→experiences) — middleware.ts R15-A" },
+    { "source": "/YYYY/MM/DD/:slug (slug exists)", "destination": "/articles/:slug", "reason": "WP date-URL 308 with existence guard — middleware.ts R13-E1" }
+  ],
+  "gone_410": [
+    { "pattern": "/?p=*", "reason": "WordPress post-by-id legacy query param — middleware.ts WP_LEGACY_QUERY_PARAMS" },
+    { "pattern": "/?page_id=*", "reason": "WordPress page-by-id legacy query param — middleware.ts" },
+    { "pattern": "/?cat=*", "reason": "WordPress category-by-id legacy query param — middleware.ts" },
+    { "pattern": "/?tag=*", "reason": "WordPress tag archive legacy query param — middleware.ts" },
+    { "pattern": "/?author=*", "reason": "WordPress author archive legacy query param — middleware.ts" },
+    { "pattern": "/?feed=*", "reason": "WordPress feed legacy query param — middleware.ts" },
+    { "pattern": "/?m=*", "reason": "WordPress date archive legacy query param — middleware.ts" },
+    { "pattern": "/?s=*", "reason": "WordPress search legacy query param — middleware.ts" },
+    { "pattern": "/?paged=*", "reason": "WordPress pagination legacy query param (homepage-dedupe flush) — middleware.ts" },
+    { "pattern": "/wp-admin*", "reason": "WordPress admin legacy path — middleware.ts R15-D" },
+    { "pattern": "/wp-content/*", "reason": "WordPress asset legacy path — middleware.ts R15-D" },
+    { "pattern": "/wp-includes/*", "reason": "WordPress includes legacy path — middleware.ts R15-D" },
+    { "pattern": "/wp-login.php", "reason": "WordPress login legacy path — middleware.ts R15-D" },
+    { "pattern": "/xmlrpc.php", "reason": "WordPress XML-RPC legacy path — middleware.ts R15-D" },
+    { "pattern": "/articles/one-piece-cafe-gene-parco-2026", "reason": "permanently deleted article (DELETED_ARTICLE_SLUGS) — middleware.ts" },
+    { "pattern": "/articles/find-by-anime-in-japan-2026-pilgrimage-guides-by-series", "reason": "permanently deleted article (DELETED_ARTICLE_SLUGS) — middleware.ts" },
+    { "pattern": "/YYYY/MM/DD/:slug (slug missing)", "reason": "WP date-URL with no surviving article → 410 drop signal — middleware.ts R13-E1" }
+  ],
+  "exclude_from_sitemap": [
+    { "rule": "frontmatter robots includes 'noindex'", "reason": "app/sitemap.ts:106-109 already filters these; one signal not two (R8-H)" },
+    { "rule": "any URL containing /tags/", "reason": "app/sitemap.ts:194 strips tag archives (thin content)" }
+  ]
+}
