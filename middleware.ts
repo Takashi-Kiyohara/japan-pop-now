@@ -219,13 +219,19 @@ export function middleware(request: NextRequest) {
 
   const response = NextResponse.next()
 
-  // R13-B1 (post-R2 Critic a21a55759f86ef1cc): Vary:User-Agent now set at
-  // CDN edge via vercel.json headers stanza ("later wins, comma-joined"
-  // merge semantics with the Next.js framework Vary). Middleware-level
-  // Vary mutation was tried in commit 4ca138e but the value didn't survive
-  // to the production response (likely framework overwrite or Vercel edge
-  // normalizer stripping non-framework Vary tokens). vercel.json applies
-  // headers AFTER Next.js framework, so it composes correctly.
+  // R18-P5 (2026-05-18): Vary:User-Agent abandoned as a mechanism.
+  // Live production verification proves NEITHER prior approach gets
+  // User-Agent into the response Vary — both the middleware append
+  // (commit 4ca138e) and the vercel.json headers stanza (commit ba282a1)
+  // are clobbered by Next.js 16's RSC Vary
+  // (`rsc, next-router-state-tree, next-router-prefetch, next-router-segment-prefetch`),
+  // which is the only Vary value the live site emits on `/` and articles.
+  // vercel.json's Vary line is left in place (harmless, no-op on RSC
+  // routes) but is NOT relied upon. The real risk Vary was meant to
+  // mitigate — a UA-variant response poisoning the shared CDN cache — is
+  // instead handled at its source below: the ONLY UA-dependent output is
+  // the X-Robots-Tag:noindex header set for unknown bots, so that specific
+  // response is marked uncacheable rather than depending on Vary surviving.
 
   // Geo-personalization: Set geo cookie from Vercel geo header
   // Next.js 16+ removed request.geo, use x-vercel-ip-country header directly
@@ -276,6 +282,13 @@ export function middleware(request: NextRequest) {
 
   if (isBotLike && !isKnownBot(ua)) {
     response.headers.set('X-Robots-Tag', 'noindex, nofollow')
+    // R18-P5: this is the only UA-variant response on the site. Mark it
+    // private + non-storable so Vercel's shared CDN cache never stores it
+    // and serves the noindex variant to a human (or vice versa). This
+    // replaces the unreliable Vary:User-Agent approach (RSC clobbers Vary;
+    // see comment above). Unknown bots are low volume and their responses
+    // should not be cached anyway, so the cache-hit-rate cost is negligible.
+    response.headers.set('Cache-Control', 'private, no-store')
   }
 
   return response
