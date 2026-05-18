@@ -1,0 +1,5208 @@
+{
+  "_meta": {
+    "active_method": "draft3_p4_compressed_suspect_15pct",
+    "axis_pass_pct": {
+      "A": 7.9545,
+      "B": 43.1818,
+      "C": 94.3182,
+      "D": 100,
+      "E": 72.7273,
+      "F": 46.5909,
+      "G": 7.9545
+    },
+    "baseline_sha": "e3f2c99",
+    "calibration": {
+      "_meta": {
+        "active_method": "draft3_p4_compressed_suspect_15pct",
+        "calibrated_from": [
+          "one-piece-cafe-gene-shibuya-guide-2026",
+          "chiikawa-bakery-harajuku-guide-2026",
+          "luvlab-harajuku-diy-accessory-experience",
+          "dragon-ball-marugame-seimen-collab-2026",
+          "jojo-stone-ocean-cafe-jojo-world-2026"
+        ],
+        "n": 5
+      },
+      "boilerplate_hits": {
+        "mu": 0.4,
+        "sigma": 0.8
+      },
+      "em_dash_density": {
+        "mu": 0.4392,
+        "sigma": 0.1329
+      },
+      "sentence_length_variance": {
+        "mu": 18.0342,
+        "sigma": 3.1494
+      }
+    },
+    "counts": {
+      "delete": 5,
+      "delete_A_410": 0,
+      "delete_B_301": 0,
+      "delete_C_noindex": 5,
+      "fix": 70,
+      "maintain": 13
+    },
+    "generated": "2026-05-19T00:00:00Z",
+    "gptzero": "absent_regex_only_degrade",
+    "preserve_list": {
+      "all_maintained": true,
+      "override_count": 9,
+      "size": 10
+    },
+    "press_coverage": {
+      "competitor_fallback": 0,
+      "manual_SME_flag": 50,
+      "press": 38,
+      "total": 88
+    },
+    "total_articles": 88
+  },
+  "results": [
+    {
+      "bucket": {
+        "forced_by": "PRESERVE_LIST",
+        "tier": "Tier 3 (R11 video planned)",
+        "type": "maintain"
+      },
+      "passCount": 2,
+      "preserve_override": {
+        "original_bucket": "delete",
+        "original_detail": {
+          "auto_promote": "stage_A_410",
+          "routing": "noindex",
+          "stage": "C",
+          "ttl_expires": "2026-08-17T00:00:00.000Z",
+          "type": "delete"
+        },
+        "reason": "PRESERVE LIST Tier 3 (R11 video planned)"
+      },
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": null,
+          "pass": null,
+          "reason": "press+competitor fetch unavailable",
+          "source": "manual_SME_flag"
+        },
+        "C": {
+          "igBlockCount": 0,
+          "pass": false,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": -0.4733,
+          "em_dash_density": 0.3763,
+          "pass": true,
+          "sd": 15.7729,
+          "sdZ": -0.718,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 3,
+          "pass": false,
+          "required": {
+            "access": true,
+            "booking": true,
+            "hours": true,
+            "price": false,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "akihabara-arcade-rhythm-games-guide-2026"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 4,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": null,
+          "pass": null,
+          "reason": "press+competitor fetch unavailable",
+          "source": "manual_SME_flag"
+        },
+        "C": {
+          "igBlockCount": 1,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": -0.4308,
+          "em_dash_density": 0.382,
+          "pass": true,
+          "sd": 12.3664,
+          "sdZ": -1.7996,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 4,
+          "pass": true,
+          "required": {
+            "access": true,
+            "booking": true,
+            "hours": true,
+            "price": true,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "akihabara-complete-guide-2026"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 4,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": 0.0561,
+          "pass": true,
+          "source": "press"
+        },
+        "C": {
+          "igBlockCount": 2,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": -0.6249,
+          "em_dash_density": 0.3562,
+          "pass": false,
+          "sd": 10.3196,
+          "sdZ": -2.4496,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 4,
+          "pass": true,
+          "required": {
+            "access": true,
+            "booking": true,
+            "hours": true,
+            "price": true,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "animate-cafe-guide-japan"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 4,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": null,
+          "pass": null,
+          "reason": "press+competitor fetch unavailable",
+          "source": "manual_SME_flag"
+        },
+        "C": {
+          "igBlockCount": 3,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": -0.6312,
+          "em_dash_density": 0.3553,
+          "pass": true,
+          "sd": 14.4161,
+          "sdZ": -1.1488,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 4,
+          "pass": true,
+          "required": {
+            "access": true,
+            "booking": true,
+            "hours": true,
+            "price": true,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "anime-day-trips-from-tokyo-2026"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 4,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": null,
+          "pass": null,
+          "reason": "press+competitor fetch unavailable",
+          "source": "manual_SME_flag"
+        },
+        "C": {
+          "igBlockCount": 2,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": 0.75,
+          "bp_hits": 1,
+          "emDashZ": 1.6994,
+          "em_dash_density": 0.6651,
+          "pass": true,
+          "sd": 17.6889,
+          "sdZ": -0.1096,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 4,
+          "pass": true,
+          "required": {
+            "access": true,
+            "booking": true,
+            "hours": true,
+            "price": true,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "anime-hotels-tokyo-2026"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 5,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": 0.6526,
+          "pass": true,
+          "source": "press"
+        },
+        "C": {
+          "igBlockCount": 2,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": 0.7893,
+          "em_dash_density": 0.5441,
+          "pass": true,
+          "sd": 14.3048,
+          "sdZ": -1.1842,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 4,
+          "pass": true,
+          "required": {
+            "access": true,
+            "booking": true,
+            "hours": true,
+            "price": true,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "anime-merch-shopping-guide-japan"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 4,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": null,
+          "pass": null,
+          "reason": "press+competitor fetch unavailable",
+          "source": "manual_SME_flag"
+        },
+        "C": {
+          "igBlockCount": 3,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": -0.2426,
+          "em_dash_density": 0.407,
+          "pass": true,
+          "sd": 12.1292,
+          "sdZ": -1.8749,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 4,
+          "pass": true,
+          "required": {
+            "access": true,
+            "booking": true,
+            "hours": true,
+            "price": true,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "anime-pilgrimage-spots-tokyo"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 3,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": null,
+          "pass": null,
+          "reason": "press+competitor fetch unavailable",
+          "source": "manual_SME_flag"
+        },
+        "C": {
+          "igBlockCount": 3,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": -0.7848,
+          "em_dash_density": 0.3349,
+          "pass": true,
+          "sd": 19.7705,
+          "sdZ": 0.5513,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 3,
+          "pass": false,
+          "required": {
+            "access": true,
+            "booking": true,
+            "hours": true,
+            "price": false,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "animejapan-2026-guide-international-visitors"
+    },
+    {
+      "bucket": {
+        "auto_promote": "stage_A_410",
+        "routing": "noindex",
+        "stage": "C",
+        "ttl_expires": "2026-08-17T00:00:00.000Z",
+        "type": "delete"
+      },
+      "passCount": 2,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": null,
+          "pass": null,
+          "reason": "press+competitor fetch unavailable",
+          "source": "manual_SME_flag"
+        },
+        "C": {
+          "igBlockCount": 3,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": 0.75,
+          "bp_hits": 1,
+          "emDashZ": -0.2808,
+          "em_dash_density": 0.4019,
+          "pass": false,
+          "sd": 10.9577,
+          "sdZ": -2.2469,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 3,
+          "pass": false,
+          "required": {
+            "access": true,
+            "booking": false,
+            "hours": true,
+            "price": true,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "animejapan-comiket-2026-guide"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 5,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": 0.2814,
+          "pass": true,
+          "source": "press"
+        },
+        "C": {
+          "igBlockCount": 2,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": -0.5795,
+          "em_dash_density": 0.3622,
+          "pass": true,
+          "sd": 24.3191,
+          "sdZ": 1.9956,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 4,
+          "pass": true,
+          "required": {
+            "access": true,
+            "booking": true,
+            "hours": true,
+            "price": true,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "apothecary-diaries-oshi-tabi-osaka-shinkansen-2026"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 4,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": null,
+          "pass": null,
+          "reason": "press+competitor fetch unavailable",
+          "source": "manual_SME_flag"
+        },
+        "C": {
+          "igBlockCount": 5,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": 1.0022,
+          "em_dash_density": 0.5724,
+          "pass": true,
+          "sd": 15.2754,
+          "sdZ": -0.876,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 4,
+          "pass": true,
+          "required": {
+            "access": true,
+            "booking": true,
+            "hours": true,
+            "price": true,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "best-anime-tours-tokyo-2026"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 3,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": 0.4639,
+          "pass": true,
+          "source": "press"
+        },
+        "C": {
+          "igBlockCount": 3,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": 2.8436,
+          "em_dash_density": 0.8171,
+          "pass": false,
+          "sd": 15.6076,
+          "sdZ": -0.7705,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 3,
+          "pass": false,
+          "required": {
+            "access": true,
+            "booking": true,
+            "hours": true,
+            "price": false,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "blue-lock-tokyo-skytree-cafe-2026"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 3,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": null,
+          "pass": null,
+          "reason": "press+competitor fetch unavailable",
+          "source": "manual_SME_flag"
+        },
+        "C": {
+          "igBlockCount": 2,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": 2.3433,
+          "em_dash_density": 0.7506,
+          "pass": false,
+          "sd": 17.9744,
+          "sdZ": -0.019,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 4,
+          "pass": true,
+          "required": {
+            "access": true,
+            "booking": true,
+            "hours": true,
+            "price": true,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "book-japan-anime-events-overseas-2026"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 4,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": 0.2815,
+          "pass": true,
+          "source": "press"
+        },
+        "C": {
+          "igBlockCount": 2,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": -0.4304,
+          "em_dash_density": 0.382,
+          "pass": true,
+          "sd": 12.5448,
+          "sdZ": -1.743,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 3,
+          "pass": false,
+          "required": {
+            "access": true,
+            "booking": false,
+            "hours": true,
+            "price": true,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "chainsaw-man-pilgrimage-tokyo"
+    },
+    {
+      "bucket": {
+        "forced_by": "PRESERVE_LIST",
+        "tier": "Tier 1 (firsthand visit confirmed)",
+        "type": "maintain"
+      },
+      "passCount": 5,
+      "preserve_override": {
+        "original_bucket": "fix",
+        "original_detail": {
+          "manual_reaudit_gate": true,
+          "noindex_quarantine": true,
+          "type": "fix"
+        },
+        "reason": "PRESERVE LIST Tier 1 (firsthand visit confirmed)"
+      },
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": 0.0899,
+          "pass": true,
+          "source": "press"
+        },
+        "C": {
+          "igBlockCount": 2,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": 1.9636,
+          "em_dash_density": 0.7002,
+          "pass": true,
+          "sd": 13.6532,
+          "sdZ": -1.391,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 4,
+          "pass": true,
+          "required": {
+            "access": true,
+            "booking": true,
+            "hours": true,
+            "price": true,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "chiikawa-bakery-harajuku-guide-2026"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 3,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": null,
+          "pass": null,
+          "reason": "press+competitor fetch unavailable",
+          "source": "manual_SME_flag"
+        },
+        "C": {
+          "igBlockCount": 1,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": 0.75,
+          "bp_hits": 1,
+          "emDashZ": -0.4506,
+          "em_dash_density": 0.3793,
+          "pass": true,
+          "sd": 19.7981,
+          "sdZ": 0.5601,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 3,
+          "pass": false,
+          "required": {
+            "access": true,
+            "booking": true,
+            "hours": true,
+            "price": false,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "chiikawa-land-tokyo-complete-2026"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 4,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": null,
+          "pass": null,
+          "reason": "press+competitor fetch unavailable",
+          "source": "manual_SME_flag"
+        },
+        "C": {
+          "igBlockCount": 2,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": -0.2844,
+          "em_dash_density": 0.4014,
+          "pass": true,
+          "sd": 12.6037,
+          "sdZ": -1.7243,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 4,
+          "pass": true,
+          "required": {
+            "access": true,
+            "booking": true,
+            "hours": true,
+            "price": true,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "cosplay-experience-tokyo-2026"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 4,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": 0.3636,
+          "pass": true,
+          "source": "press"
+        },
+        "C": {
+          "igBlockCount": 1,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": -1.0177,
+          "em_dash_density": 0.304,
+          "pass": true,
+          "sd": 16.8731,
+          "sdZ": -0.3687,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 1,
+          "pass": false,
+          "required": {
+            "access": false,
+            "booking": true,
+            "hours": false,
+            "price": false,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "dark-moon-chara-cafe-ikebukuro-2026"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 6,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 1,
+          "firstPartyRatio": 1,
+          "pass": true
+        },
+        "B": {
+          "cosine": 0.4881,
+          "pass": true,
+          "source": "press"
+        },
+        "C": {
+          "igBlockCount": 2,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": -0.2625,
+          "em_dash_density": 0.4043,
+          "pass": true,
+          "sd": 26.1038,
+          "sdZ": 2.5623,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 2,
+          "pass": false,
+          "required": {
+            "access": true,
+            "booking": true,
+            "hours": false,
+            "price": false,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 1,
+          "pass": true
+        }
+      },
+      "slug": "demon-slayer-handmade-club-ufotable-cafe-2026"
+    },
+    {
+      "bucket": {
+        "type": "maintain"
+      },
+      "passCount": 6,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 1,
+          "firstPartyRatio": 1,
+          "pass": true
+        },
+        "B": {
+          "cosine": null,
+          "pass": null,
+          "reason": "press+competitor fetch unavailable",
+          "source": "manual_SME_flag"
+        },
+        "C": {
+          "igBlockCount": 3,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": -0.5606,
+          "em_dash_density": 0.3647,
+          "pass": true,
+          "sd": 20.1758,
+          "sdZ": 0.68,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 4,
+          "pass": true,
+          "required": {
+            "access": true,
+            "booking": true,
+            "hours": true,
+            "price": true,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 1,
+          "pass": true
+        }
+      },
+      "slug": "demon-slayer-meiji-mura-aichi-pilgrimage-2026"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 3,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": null,
+          "pass": null,
+          "reason": "press+competitor fetch unavailable",
+          "source": "manual_SME_flag"
+        },
+        "C": {
+          "igBlockCount": 1,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": -0.3782,
+          "em_dash_density": 0.3889,
+          "pass": false,
+          "sd": 11.2296,
+          "sdZ": -2.1606,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 4,
+          "pass": true,
+          "required": {
+            "access": true,
+            "booking": true,
+            "hours": true,
+            "price": true,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "demon-slayer-pilgrimage-tokyo"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 5,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": 0.4639,
+          "pass": true,
+          "source": "press"
+        },
+        "C": {
+          "igBlockCount": 2,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": 0.0368,
+          "em_dash_density": 0.4441,
+          "pass": true,
+          "sd": 29.8736,
+          "sdZ": 3.7593,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 4,
+          "pass": true,
+          "required": {
+            "access": true,
+            "booking": true,
+            "hours": true,
+            "price": true,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "demon-slayer-rerun-cafe-ufotable-2026"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 3,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": 0.468,
+          "pass": true,
+          "source": "press"
+        },
+        "C": {
+          "igBlockCount": 2,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": 2.1603,
+          "em_dash_density": 0.7263,
+          "pass": false,
+          "sd": 19.3561,
+          "sdZ": 0.4197,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 3,
+          "pass": false,
+          "required": {
+            "access": true,
+            "booking": true,
+            "hours": true,
+            "price": false,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "demon-slayer-rerun-cafe-ufotable-kizuna-2026"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 4,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": 0.2553,
+          "pass": true,
+          "source": "press"
+        },
+        "C": {
+          "igBlockCount": 2,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": 0.75,
+          "bp_hits": 1,
+          "emDashZ": -1.0438,
+          "em_dash_density": 0.3005,
+          "pass": true,
+          "sd": 17.7752,
+          "sdZ": -0.0822,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 0,
+          "pass": false,
+          "required": {
+            "access": false,
+            "booking": false,
+            "hours": false,
+            "price": false,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "detective-conan-cafe-2026-japan-guide"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 3,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": 0.3047,
+          "pass": true,
+          "source": "press"
+        },
+        "C": {
+          "igBlockCount": 2,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": 2.6735,
+          "em_dash_density": 0.7945,
+          "pass": false,
+          "sd": 46.3087,
+          "sdZ": 8.9777,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 3,
+          "pass": false,
+          "required": {
+            "access": true,
+            "booking": true,
+            "hours": true,
+            "price": false,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "detective-conan-cafe-tokyo-osaka-3venue-2026"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 5,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": 0.3033,
+          "pass": true,
+          "source": "press"
+        },
+        "C": {
+          "igBlockCount": 3,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": 0.75,
+          "bp_hits": 1,
+          "emDashZ": 0.2009,
+          "em_dash_density": 0.4659,
+          "pass": true,
+          "sd": 19.1353,
+          "sdZ": 0.3496,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 4,
+          "pass": true,
+          "required": {
+            "access": true,
+            "booking": true,
+            "hours": true,
+            "price": true,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "detective-conan-pilgrimage-events-2026"
+    },
+    {
+      "bucket": {
+        "forced_by": "PRESERVE_LIST",
+        "tier": "Tier 1 (R11 firsthand)",
+        "type": "maintain"
+      },
+      "passCount": 3,
+      "preserve_override": {
+        "original_bucket": "fix",
+        "original_detail": {
+          "manual_reaudit_gate": true,
+          "noindex_quarantine": true,
+          "type": "fix"
+        },
+        "reason": "PRESERVE LIST Tier 1 (R11 firsthand)"
+      },
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": 0.3063,
+          "pass": true,
+          "source": "press"
+        },
+        "C": {
+          "igBlockCount": 0,
+          "pass": false,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": -0.6815,
+          "em_dash_density": 0.3486,
+          "pass": true,
+          "sd": 19.0971,
+          "sdZ": 0.3375,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 2,
+          "pass": false,
+          "required": {
+            "access": false,
+            "booking": true,
+            "hours": false,
+            "price": true,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "dragon-ball-marugame-seimen-collab-2026"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 3,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": null,
+          "pass": null,
+          "reason": "press+competitor fetch unavailable",
+          "source": "manual_SME_flag"
+        },
+        "C": {
+          "igBlockCount": 2,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": 2.2552,
+          "em_dash_density": 0.7389,
+          "pass": false,
+          "sd": 11.2492,
+          "sdZ": -2.1544,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 4,
+          "pass": true,
+          "required": {
+            "access": true,
+            "booking": true,
+            "hours": true,
+            "price": true,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "familymart-anime-collab-stores-2026"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 3,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": null,
+          "pass": null,
+          "reason": "press+competitor fetch unavailable",
+          "source": "manual_SME_flag"
+        },
+        "C": {
+          "igBlockCount": 1,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": -0.895,
+          "em_dash_density": 0.3203,
+          "pass": true,
+          "sd": 26.41,
+          "sdZ": 2.6595,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 3,
+          "pass": false,
+          "required": {
+            "access": true,
+            "booking": true,
+            "hours": true,
+            "price": false,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "first-timers-japan-playbook-anime-fans-2026"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 3,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": 0.159,
+          "pass": true,
+          "source": "press"
+        },
+        "C": {
+          "igBlockCount": 0,
+          "pass": false,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": 1.6116,
+          "em_dash_density": 0.6534,
+          "pass": true,
+          "sd": 24.2162,
+          "sdZ": 1.9629,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 3,
+          "pass": false,
+          "required": {
+            "access": true,
+            "booking": true,
+            "hours": true,
+            "price": false,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "frieren-usj-story-walk-osaka-2026"
+    },
+    {
+      "bucket": {
+        "auto_promote": "stage_A_410",
+        "routing": "noindex",
+        "stage": "C",
+        "ttl_expires": "2026-08-17T00:00:00.000Z",
+        "type": "delete"
+      },
+      "passCount": 2,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": null,
+          "pass": null,
+          "reason": "press+competitor fetch unavailable",
+          "source": "manual_SME_flag"
+        },
+        "C": {
+          "igBlockCount": 1,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": -0.5133,
+          "em_dash_density": 0.371,
+          "pass": false,
+          "sd": 9.6875,
+          "sdZ": -2.6503,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 3,
+          "pass": false,
+          "required": {
+            "access": true,
+            "booking": false,
+            "hours": true,
+            "price": true,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "gachapon-guide-japan"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 3,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": null,
+          "pass": null,
+          "reason": "press+competitor fetch unavailable",
+          "source": "manual_SME_flag"
+        },
+        "C": {
+          "igBlockCount": 1,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": -0.6764,
+          "em_dash_density": 0.3493,
+          "pass": false,
+          "sd": 10.9125,
+          "sdZ": -2.2613,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 4,
+          "pass": true,
+          "required": {
+            "access": true,
+            "booking": true,
+            "hours": true,
+            "price": true,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "game-centers-arcades-japan"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 4,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": null,
+          "pass": null,
+          "reason": "press+competitor fetch unavailable",
+          "source": "manual_SME_flag"
+        },
+        "C": {
+          "igBlockCount": 2,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": -0.722,
+          "em_dash_density": 0.3432,
+          "pass": true,
+          "sd": 12.6544,
+          "sdZ": -1.7082,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 4,
+          "pass": true,
+          "required": {
+            "access": true,
+            "booking": true,
+            "hours": true,
+            "price": true,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "gaming-tokyo-2026"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 4,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": null,
+          "pass": null,
+          "reason": "press+competitor fetch unavailable",
+          "source": "manual_SME_flag"
+        },
+        "C": {
+          "igBlockCount": 3,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": 0.75,
+          "bp_hits": 1,
+          "emDashZ": -0.336,
+          "em_dash_density": 0.3945,
+          "pass": true,
+          "sd": 16.5999,
+          "sdZ": -0.4554,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 4,
+          "pass": true,
+          "required": {
+            "access": true,
+            "booking": true,
+            "hours": true,
+            "price": true,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "ghibli-park-complete-guide-2026"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 3,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": 0.3371,
+          "pass": true,
+          "source": "press"
+        },
+        "C": {
+          "igBlockCount": 2,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": 2.1839,
+          "em_dash_density": 0.7294,
+          "pass": false,
+          "sd": 21.4788,
+          "sdZ": 1.0937,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 3,
+          "pass": false,
+          "required": {
+            "access": false,
+            "booking": true,
+            "hours": true,
+            "price": true,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "golden-kamuy-golden-week-shinjuku-popup-2026"
+    },
+    {
+      "bucket": {
+        "type": "maintain"
+      },
+      "passCount": 7,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 1,
+          "firstPartyRatio": 1,
+          "pass": true
+        },
+        "B": {
+          "cosine": 0.3162,
+          "pass": true,
+          "source": "press"
+        },
+        "C": {
+          "igBlockCount": 2,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": -0.1597,
+          "em_dash_density": 0.418,
+          "pass": true,
+          "sd": 42.9004,
+          "sdZ": 7.8955,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 5,
+          "pass": true,
+          "required": {
+            "access": true,
+            "booking": true,
+            "hours": true,
+            "price": true,
+            "tldr": true
+          }
+        },
+        "G": {
+          "firstHandPara": 1,
+          "pass": true
+        }
+      },
+      "slug": "golden-week-2026-anime-events-complete-guide"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 4,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": 0.0374,
+          "pass": true,
+          "source": "press"
+        },
+        "C": {
+          "igBlockCount": 0,
+          "pass": false,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": 0.0847,
+          "em_dash_density": 0.4505,
+          "pass": true,
+          "sd": 15.3879,
+          "sdZ": -0.8403,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 4,
+          "pass": true,
+          "required": {
+            "access": true,
+            "booking": true,
+            "hours": true,
+            "price": true,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "how-to-book-anime-collab-cafe-japan"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 3,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": null,
+          "pass": null,
+          "reason": "press+competitor fetch unavailable",
+          "source": "manual_SME_flag"
+        },
+        "C": {
+          "igBlockCount": 2,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": 1.7825,
+          "em_dash_density": 0.6761,
+          "pass": true,
+          "sd": 25.3312,
+          "sdZ": 2.3169,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 3,
+          "pass": false,
+          "required": {
+            "access": true,
+            "booking": true,
+            "hours": true,
+            "price": false,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "how-to-ride-trains-japan-tourists-2026"
+    },
+    {
+      "bucket": {
+        "type": "maintain"
+      },
+      "passCount": 6,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 1,
+          "firstPartyRatio": 0.8333,
+          "pass": true
+        },
+        "B": {
+          "cosine": 0.4146,
+          "pass": true,
+          "source": "press"
+        },
+        "C": {
+          "igBlockCount": 1,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": 2.6847,
+          "em_dash_density": 0.796,
+          "pass": false,
+          "sd": 22.0548,
+          "sdZ": 1.2766,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 4,
+          "pass": true,
+          "required": {
+            "access": true,
+            "booking": true,
+            "hours": true,
+            "price": true,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 1,
+          "pass": true
+        }
+      },
+      "slug": "hypnosismic-sweets-paradise-round8-2026"
+    },
+    {
+      "bucket": {
+        "auto_promote": "stage_A_410",
+        "routing": "noindex",
+        "stage": "C",
+        "ttl_expires": "2026-08-17T00:00:00.000Z",
+        "type": "delete"
+      },
+      "passCount": 2,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": null,
+          "pass": null,
+          "reason": "press+competitor fetch unavailable",
+          "source": "manual_SME_flag"
+        },
+        "C": {
+          "igBlockCount": 1,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": 2.2617,
+          "em_dash_density": 0.7398,
+          "pass": false,
+          "sd": 19.0922,
+          "sdZ": 0.3359,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 3,
+          "pass": false,
+          "required": {
+            "access": false,
+            "booking": true,
+            "hours": true,
+            "price": true,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "ikebukuro-anime-guide-2026"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 4,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": null,
+          "pass": null,
+          "reason": "press+competitor fetch unavailable",
+          "source": "manual_SME_flag"
+        },
+        "C": {
+          "igBlockCount": 4,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": -0.1728,
+          "em_dash_density": 0.4162,
+          "pass": true,
+          "sd": 16.8722,
+          "sdZ": -0.369,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 4,
+          "pass": true,
+          "required": {
+            "access": true,
+            "booking": true,
+            "hours": true,
+            "price": true,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "japan-esim-pocket-wifi-sim-card"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 3,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": null,
+          "pass": null,
+          "reason": "press+competitor fetch unavailable",
+          "source": "manual_SME_flag"
+        },
+        "C": {
+          "igBlockCount": 1,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": 0.2445,
+          "em_dash_density": 0.4717,
+          "pass": true,
+          "sd": 16.7924,
+          "sdZ": -0.3943,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 2,
+          "pass": false,
+          "required": {
+            "access": true,
+            "booking": true,
+            "hours": false,
+            "price": false,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "japan-ic-card-transit-guide"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 4,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": null,
+          "pass": null,
+          "reason": "press+competitor fetch unavailable",
+          "source": "manual_SME_flag"
+        },
+        "C": {
+          "igBlockCount": 4,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": 0.7484,
+          "em_dash_density": 0.5387,
+          "pass": true,
+          "sd": 19.2619,
+          "sdZ": 0.3898,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 4,
+          "pass": true,
+          "required": {
+            "access": true,
+            "booking": true,
+            "hours": true,
+            "price": true,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "japan-luggage-forwarding-2026"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 3,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": null,
+          "pass": null,
+          "reason": "press+competitor fetch unavailable",
+          "source": "manual_SME_flag"
+        },
+        "C": {
+          "igBlockCount": 2,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": -0.4188,
+          "em_dash_density": 0.3835,
+          "pass": true,
+          "sd": 16.4186,
+          "sdZ": -0.513,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 3,
+          "pass": false,
+          "required": {
+            "access": true,
+            "booking": false,
+            "hours": true,
+            "price": true,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "japan-proxy-shopping-2026"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 4,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": null,
+          "pass": null,
+          "reason": "press+competitor fetch unavailable",
+          "source": "manual_SME_flag"
+        },
+        "C": {
+          "igBlockCount": 4,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": 0.7464,
+          "em_dash_density": 0.5384,
+          "pass": true,
+          "sd": 18.7812,
+          "sdZ": 0.2372,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 4,
+          "pass": true,
+          "required": {
+            "access": true,
+            "booking": true,
+            "hours": true,
+            "price": true,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "japan-rail-pass-2026-guide"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 3,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": null,
+          "pass": null,
+          "reason": "press+competitor fetch unavailable",
+          "source": "manual_SME_flag"
+        },
+        "C": {
+          "igBlockCount": 3,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": -1.4934,
+          "em_dash_density": 0.2407,
+          "pass": true,
+          "sd": 24.8404,
+          "sdZ": 2.1611,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 3,
+          "pass": false,
+          "required": {
+            "access": true,
+            "booking": true,
+            "hours": true,
+            "price": false,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "japan-rail-pass-guide-anime-fans"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 3,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": null,
+          "pass": null,
+          "reason": "press+competitor fetch unavailable",
+          "source": "manual_SME_flag"
+        },
+        "C": {
+          "igBlockCount": 3,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": 0.0292,
+          "em_dash_density": 0.4431,
+          "pass": true,
+          "sd": 17.1978,
+          "sdZ": -0.2656,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 3,
+          "pass": false,
+          "required": {
+            "access": false,
+            "booking": true,
+            "hours": true,
+            "price": true,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "japan-travel-insurance-2026"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 3,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": null,
+          "pass": null,
+          "reason": "press+competitor fetch unavailable",
+          "source": "manual_SME_flag"
+        },
+        "C": {
+          "igBlockCount": 1,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": 0.1431,
+          "em_dash_density": 0.4582,
+          "pass": true,
+          "sd": 24.4625,
+          "sdZ": 2.0411,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 3,
+          "pass": false,
+          "required": {
+            "access": true,
+            "booking": true,
+            "hours": true,
+            "price": false,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "japan-trip-checklist-anime-fans-2026"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 4,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": 0.2876,
+          "pass": true,
+          "source": "press"
+        },
+        "C": {
+          "igBlockCount": 2,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": -0.1945,
+          "em_dash_density": 0.4133,
+          "pass": true,
+          "sd": 27.2504,
+          "sdZ": 2.9263,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 2,
+          "pass": false,
+          "required": {
+            "access": true,
+            "booking": true,
+            "hours": false,
+            "price": false,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "jjk-sweets-paradise-complete-guide-2026"
+    },
+    {
+      "bucket": {
+        "forced_by": "PRESERVE_LIST",
+        "tier": "Tier 1 (R11 firsthand)",
+        "type": "maintain"
+      },
+      "passCount": 5,
+      "preserve_override": {
+        "original_bucket": "fix",
+        "original_detail": {
+          "manual_reaudit_gate": true,
+          "noindex_quarantine": true,
+          "type": "fix"
+        },
+        "reason": "PRESERVE LIST Tier 1 (R11 firsthand)"
+      },
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": 0.093,
+          "pass": true,
+          "source": "press"
+        },
+        "C": {
+          "igBlockCount": 2,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": -0.3883,
+          "em_dash_density": 0.3876,
+          "pass": true,
+          "sd": 15.9819,
+          "sdZ": -0.6517,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 4,
+          "pass": true,
+          "required": {
+            "access": true,
+            "booking": true,
+            "hours": true,
+            "price": true,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "jojo-stone-ocean-cafe-jojo-world-2026"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 3,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": null,
+          "pass": null,
+          "reason": "press+competitor fetch unavailable",
+          "source": "manual_SME_flag"
+        },
+        "C": {
+          "igBlockCount": 2,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": 1.7032,
+          "em_dash_density": 0.6656,
+          "pass": true,
+          "sd": 17.6618,
+          "sdZ": -0.1182,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 3,
+          "pass": false,
+          "required": {
+            "access": true,
+            "booking": true,
+            "hours": true,
+            "price": false,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "jr-pass-anime-pilgrimage-routes-2026"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 4,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": 0.2992,
+          "pass": true,
+          "source": "press"
+        },
+        "C": {
+          "igBlockCount": 1,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": -0.3089,
+          "em_dash_density": 0.3981,
+          "pass": true,
+          "sd": 18.7476,
+          "sdZ": 0.2265,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 1,
+          "pass": false,
+          "required": {
+            "access": false,
+            "booking": true,
+            "hours": false,
+            "price": false,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "jujutsu-kaisen-cafes-japan-2026-guide"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 4,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": 0.1651,
+          "pass": true,
+          "source": "press"
+        },
+        "C": {
+          "igBlockCount": 1,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": 2,
+          "bp_hits": 2,
+          "emDashZ": 1.436,
+          "em_dash_density": 0.63,
+          "pass": false,
+          "sd": 14.148,
+          "sdZ": -1.2339,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 4,
+          "pass": true,
+          "required": {
+            "access": true,
+            "booking": true,
+            "hours": true,
+            "price": true,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "jujutsu-kaisen-shibuya-locations-2026"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 3,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": null,
+          "pass": null,
+          "reason": "press+competitor fetch unavailable",
+          "source": "manual_SME_flag"
+        },
+        "C": {
+          "igBlockCount": 3,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": -1.1219,
+          "em_dash_density": 0.2901,
+          "pass": true,
+          "sd": 18.2464,
+          "sdZ": 0.0674,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 3,
+          "pass": false,
+          "required": {
+            "access": true,
+            "booking": true,
+            "hours": true,
+            "price": false,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "kamakura-slam-dunk-pilgrimage-2026"
+    },
+    {
+      "bucket": {
+        "forced_by": "PRESERVE_LIST",
+        "tier": "Tier 1 (firsthand visit confirmed)",
+        "type": "maintain"
+      },
+      "passCount": 3,
+      "preserve_override": {
+        "original_bucket": "fix",
+        "original_detail": {
+          "manual_reaudit_gate": true,
+          "noindex_quarantine": true,
+          "type": "fix"
+        },
+        "reason": "PRESERVE LIST Tier 1 (firsthand visit confirmed)"
+      },
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": null,
+          "pass": null,
+          "reason": "press+competitor fetch unavailable",
+          "source": "manual_SME_flag"
+        },
+        "C": {
+          "igBlockCount": 2,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": 1.9979,
+          "em_dash_density": 0.7047,
+          "pass": true,
+          "sd": 14.4241,
+          "sdZ": -1.1463,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 3,
+          "pass": false,
+          "required": {
+            "access": true,
+            "booking": true,
+            "hours": true,
+            "price": false,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "krispy-kreme-mario-galaxy-shibuya-2026"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 3,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": null,
+          "pass": null,
+          "reason": "press+competitor fetch unavailable",
+          "source": "manual_SME_flag"
+        },
+        "C": {
+          "igBlockCount": 2,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": 0.4722,
+          "em_dash_density": 0.502,
+          "pass": true,
+          "sd": 13.6007,
+          "sdZ": -1.4077,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 3,
+          "pass": false,
+          "required": {
+            "access": true,
+            "booking": false,
+            "hours": true,
+            "price": true,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "kyoto-anime-guide-2026"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 4,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": 0.1857,
+          "pass": true,
+          "source": "press"
+        },
+        "C": {
+          "igBlockCount": 4,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": -0.54,
+          "em_dash_density": 0.3674,
+          "pass": true,
+          "sd": 20.5335,
+          "sdZ": 0.7936,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 3,
+          "pass": false,
+          "required": {
+            "access": true,
+            "booking": true,
+            "hours": false,
+            "price": true,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "lawson-ticket-anime-cafe-booking"
+    },
+    {
+      "bucket": {
+        "forced_by": "PRESERVE_LIST",
+        "tier": "Tier 1 (firsthand visit confirmed)",
+        "type": "maintain"
+      },
+      "passCount": 3,
+      "preserve_override": {
+        "original_bucket": "fix",
+        "original_detail": {
+          "manual_reaudit_gate": true,
+          "noindex_quarantine": true,
+          "type": "fix"
+        },
+        "reason": "PRESERVE LIST Tier 1 (firsthand visit confirmed)"
+      },
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": 0.1552,
+          "pass": true,
+          "source": "press"
+        },
+        "C": {
+          "igBlockCount": 1,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": 2,
+          "bp_hits": 2,
+          "emDashZ": -0.1955,
+          "em_dash_density": 0.4132,
+          "pass": false,
+          "sd": 23.0258,
+          "sdZ": 1.5849,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 3,
+          "pass": false,
+          "required": {
+            "access": true,
+            "booking": true,
+            "hours": true,
+            "price": false,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "luvlab-harajuku-diy-accessory-experience"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 4,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": 0.193,
+          "pass": true,
+          "source": "press"
+        },
+        "C": {
+          "igBlockCount": 1,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": 1.3573,
+          "em_dash_density": 0.6196,
+          "pass": true,
+          "sd": 22.8043,
+          "sdZ": 1.5146,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 1,
+          "pass": false,
+          "required": {
+            "access": false,
+            "booking": true,
+            "hours": false,
+            "price": false,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "my-hero-academia-cafe-tokyo-2026"
+    },
+    {
+      "bucket": {
+        "forced_by": "PRESERVE_LIST",
+        "tier": "Tier 2 (partial firsthand)",
+        "type": "maintain"
+      },
+      "passCount": 2,
+      "preserve_override": {
+        "original_bucket": "delete",
+        "original_detail": {
+          "auto_promote": "stage_A_410",
+          "routing": "noindex",
+          "stage": "C",
+          "ttl_expires": "2026-08-17T00:00:00.000Z",
+          "type": "delete"
+        },
+        "reason": "PRESERVE LIST Tier 2 (partial firsthand)"
+      },
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": null,
+          "pass": null,
+          "reason": "press+competitor fetch unavailable",
+          "source": "manual_SME_flag"
+        },
+        "C": {
+          "igBlockCount": 2,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": 2.0407,
+          "em_dash_density": 0.7104,
+          "pass": false,
+          "sd": 23.6043,
+          "sdZ": 1.7686,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 3,
+          "pass": false,
+          "required": {
+            "access": true,
+            "booking": true,
+            "hours": true,
+            "price": false,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "my-hero-academia-waffle-diner-ikebukuro-2026"
+    },
+    {
+      "bucket": {
+        "auto_promote": "stage_A_410",
+        "routing": "noindex",
+        "stage": "C",
+        "ttl_expires": "2026-08-17T00:00:00.000Z",
+        "type": "delete"
+      },
+      "passCount": 2,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": null,
+          "pass": null,
+          "reason": "press+competitor fetch unavailable",
+          "source": "manual_SME_flag"
+        },
+        "C": {
+          "igBlockCount": 4,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": 3.25,
+          "bp_hits": 3,
+          "emDashZ": -1.2526,
+          "em_dash_density": 0.2727,
+          "pass": false,
+          "sd": 13.8116,
+          "sdZ": -1.3407,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 3,
+          "pass": false,
+          "required": {
+            "access": true,
+            "booking": false,
+            "hours": true,
+            "price": true,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "nakano-broadway-guide"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 3,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": null,
+          "pass": null,
+          "reason": "press+competitor fetch unavailable",
+          "source": "manual_SME_flag"
+        },
+        "C": {
+          "igBlockCount": 2,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": 0.75,
+          "bp_hits": 1,
+          "emDashZ": -1.7859,
+          "em_dash_density": 0.2019,
+          "pass": true,
+          "sd": 16.0729,
+          "sdZ": -0.6228,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 2,
+          "pass": false,
+          "required": {
+            "access": true,
+            "booking": false,
+            "hours": true,
+            "price": false,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "naruto-tokyo-pilgrimage-2026"
+    },
+    {
+      "bucket": {
+        "forced_by": "PRESERVE_LIST",
+        "tier": "Tier 2 (partial firsthand)",
+        "type": "maintain"
+      },
+      "passCount": 5,
+      "preserve_override": {
+        "original_bucket": "fix",
+        "original_detail": {
+          "manual_reaudit_gate": true,
+          "noindex_quarantine": true,
+          "type": "fix"
+        },
+        "reason": "PRESERVE LIST Tier 2 (partial firsthand)"
+      },
+      "scores": {
+        "A": {
+          "firstHandPara": 1,
+          "firstPartyRatio": 1,
+          "pass": true
+        },
+        "B": {
+          "cosine": null,
+          "pass": null,
+          "reason": "press+competitor fetch unavailable",
+          "source": "manual_SME_flag"
+        },
+        "C": {
+          "igBlockCount": 3,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": 2.7148,
+          "em_dash_density": 0.8,
+          "pass": false,
+          "sd": 18.6083,
+          "sdZ": 0.1823,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 4,
+          "pass": true,
+          "required": {
+            "access": true,
+            "booking": true,
+            "hours": true,
+            "price": true,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 1,
+          "pass": true
+        }
+      },
+      "slug": "okami-20th-monster-hunter-sakaba-tokyo-osaka-2026"
+    },
+    {
+      "bucket": {
+        "type": "maintain"
+      },
+      "passCount": 7,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 1,
+          "firstPartyRatio": 1,
+          "pass": true
+        },
+        "B": {
+          "cosine": 0.5652,
+          "pass": true,
+          "source": "press"
+        },
+        "C": {
+          "igBlockCount": 3,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": -0.6993,
+          "em_dash_density": 0.3463,
+          "pass": true,
+          "sd": 18.413,
+          "sdZ": 0.1203,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 4,
+          "pass": true,
+          "required": {
+            "access": true,
+            "booking": true,
+            "hours": true,
+            "price": true,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 1,
+          "pass": true
+        }
+      },
+      "slug": "one-piece-cafe-gene-shibuya-guide-2026"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 5,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": 0.3033,
+          "pass": true,
+          "source": "press"
+        },
+        "C": {
+          "igBlockCount": 2,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": -0.4405,
+          "em_dash_density": 0.3807,
+          "pass": true,
+          "sd": 14.1811,
+          "sdZ": -1.2234,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 4,
+          "pass": true,
+          "required": {
+            "access": true,
+            "booking": true,
+            "hours": true,
+            "price": true,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "one-piece-kumamoto-statue-tour"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 4,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": null,
+          "pass": null,
+          "reason": "press+competitor fetch unavailable",
+          "source": "manual_SME_flag"
+        },
+        "C": {
+          "igBlockCount": 1,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": -0.3935,
+          "em_dash_density": 0.3869,
+          "pass": true,
+          "sd": 18.0727,
+          "sdZ": 0.0122,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 4,
+          "pass": true,
+          "required": {
+            "access": true,
+            "booking": true,
+            "hours": true,
+            "price": true,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "one-piece-tokyo-guide-2026"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 5,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": 0.3892,
+          "pass": true,
+          "source": "press"
+        },
+        "C": {
+          "igBlockCount": 3,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": -1.3258,
+          "em_dash_density": 0.263,
+          "pass": true,
+          "sd": 25.1225,
+          "sdZ": 2.2507,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 4,
+          "pass": true,
+          "required": {
+            "access": true,
+            "booking": true,
+            "hours": true,
+            "price": true,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "osaka-anime-cafes-complete-guide-2026"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 5,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": 0.3479,
+          "pass": true,
+          "source": "press"
+        },
+        "C": {
+          "igBlockCount": 3,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": 0.731,
+          "em_dash_density": 0.5364,
+          "pass": true,
+          "sd": 12.5511,
+          "sdZ": -1.741,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 4,
+          "pass": true,
+          "required": {
+            "access": true,
+            "booking": true,
+            "hours": true,
+            "price": true,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "osaka-anime-collab-cafes-pop-culture-2026"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 3,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": null,
+          "pass": null,
+          "reason": "press+competitor fetch unavailable",
+          "source": "manual_SME_flag"
+        },
+        "C": {
+          "igBlockCount": 2,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": -0.4971,
+          "em_dash_density": 0.3731,
+          "pass": true,
+          "sd": 16.5156,
+          "sdZ": -0.4822,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 3,
+          "pass": false,
+          "required": {
+            "access": true,
+            "booking": true,
+            "hours": true,
+            "price": false,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "osaka-anime-guide-den-den-town"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 4,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": 0.372,
+          "pass": true,
+          "source": "press"
+        },
+        "C": {
+          "igBlockCount": 2,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": -0.8206,
+          "em_dash_density": 0.3301,
+          "pass": true,
+          "sd": 29.1371,
+          "sdZ": 3.5254,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 3,
+          "pass": false,
+          "required": {
+            "access": false,
+            "booking": true,
+            "hours": true,
+            "price": true,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "ouran-host-club-20th-anniversary-cafes-2026"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 3,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 1,
+          "firstPartyRatio": 1,
+          "pass": true
+        },
+        "B": {
+          "cosine": null,
+          "pass": null,
+          "reason": "press+competitor fetch unavailable",
+          "source": "manual_SME_flag"
+        },
+        "C": {
+          "igBlockCount": 0,
+          "pass": false,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": 2.0049,
+          "em_dash_density": 0.7056,
+          "pass": false,
+          "sd": 18.1714,
+          "sdZ": 0.0436,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 3,
+          "pass": false,
+          "required": {
+            "access": true,
+            "booking": true,
+            "hours": true,
+            "price": false,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 1,
+          "pass": true
+        }
+      },
+      "slug": "pokemon-center-tokyo-complete-guide-2026"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 4,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": 0.2411,
+          "pass": true,
+          "source": "press"
+        },
+        "C": {
+          "igBlockCount": 2,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": 2.0922,
+          "em_dash_density": 0.7173,
+          "pass": false,
+          "sd": 23.2163,
+          "sdZ": 1.6454,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 4,
+          "pass": true,
+          "required": {
+            "access": true,
+            "booking": true,
+            "hours": true,
+            "price": true,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "pokemon-karaoke-manekineko-30th-anniversary-2026"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 4,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": null,
+          "pass": null,
+          "reason": "press+competitor fetch unavailable",
+          "source": "manual_SME_flag"
+        },
+        "C": {
+          "igBlockCount": 4,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": 0.75,
+          "bp_hits": 1,
+          "emDashZ": 0.4735,
+          "em_dash_density": 0.5021,
+          "pass": true,
+          "sd": 17.3932,
+          "sdZ": -0.2035,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 4,
+          "pass": true,
+          "required": {
+            "access": true,
+            "booking": true,
+            "hours": true,
+            "price": true,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "pokepark-kanto-tokyo-2026"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 3,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": null,
+          "pass": null,
+          "reason": "press+competitor fetch unavailable",
+          "source": "manual_SME_flag"
+        },
+        "C": {
+          "igBlockCount": 2,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": -0.5478,
+          "em_dash_density": 0.3664,
+          "pass": true,
+          "sd": 38.3827,
+          "sdZ": 6.4611,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 3,
+          "pass": false,
+          "required": {
+            "access": true,
+            "booking": true,
+            "hours": true,
+            "price": false,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "ranma-japan-2026-exhibition-tree-village-guide"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 4,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": 0.4251,
+          "pass": true,
+          "source": "press"
+        },
+        "C": {
+          "igBlockCount": 2,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": -0.4936,
+          "em_dash_density": 0.3736,
+          "pass": true,
+          "sd": 22.3478,
+          "sdZ": 1.3696,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 2,
+          "pass": false,
+          "required": {
+            "access": false,
+            "booking": true,
+            "hours": true,
+            "price": false,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "re-zero-curemaid-cafe-akihabara-2026"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 5,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": 0.4079,
+          "pass": true,
+          "source": "press"
+        },
+        "C": {
+          "igBlockCount": 3,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": -0.4876,
+          "em_dash_density": 0.3744,
+          "pass": true,
+          "sd": 20.1015,
+          "sdZ": 0.6564,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 4,
+          "pass": true,
+          "required": {
+            "access": true,
+            "booking": true,
+            "hours": true,
+            "price": true,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "rilakkuma-cafe-tokyo-osaka-2026"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 3,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": null,
+          "pass": null,
+          "reason": "press+competitor fetch unavailable",
+          "source": "manual_SME_flag"
+        },
+        "C": {
+          "igBlockCount": 2,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": 0.75,
+          "bp_hits": 1,
+          "emDashZ": -0.5851,
+          "em_dash_density": 0.3614,
+          "pass": false,
+          "sd": 9.9975,
+          "sdZ": -2.5518,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 4,
+          "pass": true,
+          "required": {
+            "access": true,
+            "booking": true,
+            "hours": true,
+            "price": true,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "shibuya-harajuku-pop-culture-guide"
+    },
+    {
+      "bucket": {
+        "auto_promote": "stage_A_410",
+        "routing": "noindex",
+        "stage": "C",
+        "ttl_expires": "2026-08-17T00:00:00.000Z",
+        "type": "delete"
+      },
+      "passCount": 2,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": null,
+          "pass": null,
+          "reason": "press+competitor fetch unavailable",
+          "source": "manual_SME_flag"
+        },
+        "C": {
+          "igBlockCount": 2,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": -0.5903,
+          "em_dash_density": 0.3608,
+          "pass": false,
+          "sd": 9.478,
+          "sdZ": -2.7168,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 3,
+          "pass": false,
+          "required": {
+            "access": true,
+            "booking": false,
+            "hours": true,
+            "price": true,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "ship-anime-figures-merch-home-japan"
+    },
+    {
+      "bucket": {
+        "forced_by": "PRESERVE_LIST",
+        "tier": "Tier 2 (partial firsthand)",
+        "type": "maintain"
+      },
+      "passCount": 3,
+      "preserve_override": {
+        "original_bucket": "fix",
+        "original_detail": {
+          "manual_reaudit_gate": true,
+          "noindex_quarantine": true,
+          "type": "fix"
+        },
+        "reason": "PRESERVE LIST Tier 2 (partial firsthand)"
+      },
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": null,
+          "pass": null,
+          "reason": "press+competitor fetch unavailable",
+          "source": "manual_SME_flag"
+        },
+        "C": {
+          "igBlockCount": 2,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": -0.7598,
+          "em_dash_density": 0.3382,
+          "pass": true,
+          "sd": 15.7315,
+          "sdZ": -0.7312,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 3,
+          "pass": false,
+          "required": {
+            "access": true,
+            "booking": false,
+            "hours": true,
+            "price": true,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "slam-dunk-kamakura-pilgrimage-2026"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 4,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": null,
+          "pass": null,
+          "reason": "press+competitor fetch unavailable",
+          "source": "manual_SME_flag"
+        },
+        "C": {
+          "igBlockCount": 2,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": 0.75,
+          "bp_hits": 1,
+          "emDashZ": 1.4485,
+          "em_dash_density": 0.6317,
+          "pass": true,
+          "sd": 15.8018,
+          "sdZ": -0.7088,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 4,
+          "pass": true,
+          "required": {
+            "access": true,
+            "booking": true,
+            "hours": true,
+            "price": true,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "spy-family-tokyo-fan-day-2026"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 5,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": 0.0609,
+          "pass": true,
+          "source": "press"
+        },
+        "C": {
+          "igBlockCount": 2,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": -0.6522,
+          "em_dash_density": 0.3525,
+          "pass": true,
+          "sd": 16.5889,
+          "sdZ": -0.4589,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 4,
+          "pass": true,
+          "required": {
+            "access": true,
+            "booking": true,
+            "hours": true,
+            "price": true,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "tokyo-anime-collab-cafes-spring-2026"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 4,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": 0.3889,
+          "pass": true,
+          "source": "press"
+        },
+        "C": {
+          "igBlockCount": 3,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": 0.75,
+          "bp_hits": 1,
+          "emDashZ": -0.7081,
+          "em_dash_density": 0.3451,
+          "pass": true,
+          "sd": 15.7404,
+          "sdZ": -0.7283,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 3,
+          "pass": false,
+          "required": {
+            "access": true,
+            "booking": true,
+            "hours": false,
+            "price": true,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "tokyo-anime-collab-cafes-summer-2026"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 5,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": 0.2376,
+          "pass": true,
+          "source": "press"
+        },
+        "C": {
+          "igBlockCount": 2,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": 0.75,
+          "bp_hits": 1,
+          "emDashZ": -0.7389,
+          "em_dash_density": 0.341,
+          "pass": true,
+          "sd": 16.9683,
+          "sdZ": -0.3384,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 4,
+          "pass": true,
+          "required": {
+            "access": true,
+            "booking": true,
+            "hours": true,
+            "price": true,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "tokyo-anime-district-guide"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 3,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": null,
+          "pass": null,
+          "reason": "press+competitor fetch unavailable",
+          "source": "manual_SME_flag"
+        },
+        "C": {
+          "igBlockCount": 3,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": -1.2517,
+          "em_dash_density": 0.2729,
+          "pass": true,
+          "sd": 23.0795,
+          "sdZ": 1.602,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 0,
+          "pass": false,
+          "required": {
+            "access": false,
+            "booking": false,
+            "hours": false,
+            "price": false,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "universal-cool-japan-2026-guide"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 3,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": null,
+          "pass": null,
+          "reason": "press+competitor fetch unavailable",
+          "source": "manual_SME_flag"
+        },
+        "C": {
+          "igBlockCount": 1,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": 0.75,
+          "bp_hits": 1,
+          "emDashZ": -0.7067,
+          "em_dash_density": 0.3453,
+          "pass": true,
+          "sd": 12.5923,
+          "sdZ": -1.7279,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 3,
+          "pass": false,
+          "required": {
+            "access": true,
+            "booking": false,
+            "hours": true,
+            "price": true,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "weathering-with-you-locations-tokyo"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 3,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": null,
+          "pass": null,
+          "reason": "press+competitor fetch unavailable",
+          "source": "manual_SME_flag"
+        },
+        "C": {
+          "igBlockCount": 2,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": 3.25,
+          "bp_hits": 3,
+          "emDashZ": -0.5456,
+          "em_dash_density": 0.3667,
+          "pass": false,
+          "sd": 10.0347,
+          "sdZ": -2.54,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 4,
+          "pass": true,
+          "required": {
+            "access": true,
+            "booking": true,
+            "hours": true,
+            "price": true,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "wonder-festival-figure-events-japan-2026"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 3,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": 0.3844,
+          "pass": true,
+          "source": "press"
+        },
+        "C": {
+          "igBlockCount": 1,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": 2.7378,
+          "em_dash_density": 0.8031,
+          "pass": false,
+          "sd": 28.8,
+          "sdZ": 3.4184,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 2,
+          "pass": false,
+          "required": {
+            "access": true,
+            "booking": true,
+            "hours": false,
+            "price": false,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "world-trigger-festival-2026-tokyo-dome-city-cafe"
+    },
+    {
+      "bucket": {
+        "manual_reaudit_gate": true,
+        "noindex_quarantine": true,
+        "type": "fix"
+      },
+      "passCount": 3,
+      "preserve_override": null,
+      "scores": {
+        "A": {
+          "firstHandPara": 0,
+          "firstPartyRatio": 1,
+          "pass": false
+        },
+        "B": {
+          "cosine": null,
+          "pass": null,
+          "reason": "press+competitor fetch unavailable",
+          "source": "manual_SME_flag"
+        },
+        "C": {
+          "igBlockCount": 2,
+          "pass": true,
+          "wikimediaRatio": 0
+        },
+        "D": {
+          "pass": true,
+          "pending_shoot_30d": true,
+          "tier": "weak"
+        },
+        "E": {
+          "bpZ": -0.5,
+          "bp_hits": 0,
+          "emDashZ": -1.0686,
+          "em_dash_density": 0.2972,
+          "pass": true,
+          "sd": 13.0735,
+          "sdZ": -1.5751,
+          "source": "composite_regex_only"
+        },
+        "F": {
+          "count": 3,
+          "pass": false,
+          "required": {
+            "access": true,
+            "booking": false,
+            "hours": true,
+            "price": true,
+            "tldr": false
+          }
+        },
+        "G": {
+          "firstHandPara": 0,
+          "pass": false
+        }
+      },
+      "slug": "your-name-pilgrimage-tokyo"
+    }
+  ]
+}
