@@ -1,0 +1,35 @@
+{
+  "_meta": {
+    "version": "1.0",
+    "source": "docs/prompt-design/w5-r3-draft3-SHIP-20260518.md Round 3 (5 article calibration set)",
+    "generated_at": "2026-05-19T01:00:00Z",
+    "purpose": "Takashi Kiyohara firsthand-confirmed articles として baseline、ESL personal mean+σ 引算で E 軸 (AI fingerprint) FP 低減"
+  },
+  "human_confirmed_articles": [
+    "one-piece-cafe-gene-shibuya-guide-2026",
+    "chiikawa-bakery-harajuku-guide-2026",
+    "luvlab-harajuku-diy-accessory-experience",
+    "dragon-ball-marugame-seimen-collab-2026",
+    "jojo-stone-ocean-cafe-jojo-world-2026"
+  ],
+  "metrics_to_calibrate": [
+    "em_dash_density",
+    "boilerplate_hits",
+    "sentence_length_variance"
+  ],
+  "active_method": "draft3_p4_compressed_suspect_15pct",
+  "calibration_method": {
+    "step_1": "Read 5 baseline articles, extract sectionStrip'd content body",
+    "step_2": "Compute mean (μ) + stddev (σ) of each metric across the 5 corpus",
+    "step_3": "For each new article: z = (metric_value - μ) / σ",
+    "step_4": "compositePass: z_em_dash < 2 AND z_boilerplate < 2 AND z_sentlen_var > -2 (Draft 2 formula = base)",
+    "step_5_active": "Draft 3 P-4 圧縮版 (active): GPTZero 2nd opinion 範囲 = suspect 15% only (z in [2,3) for em_dash/boilerplate, or z in (-3,-2] for sentlen_var)。step_4 fail かつ Z 範囲 [2,3) のみ GPTZero call、(3,inf) は確定 fail。",
+    "step_5_draft2_legacy": "Draft 2 (legacy、do NOT use): GPTZero suspect 30% (z in [2,inf))、free tier 予算超過リスク"
+  },
+  "notes": [
+    "Article 集合は Takashi 実訪問 / R11 動画 firsthand 5 本 (handoff doc Section 7 PRESERVE LIST Tier 1 + W5 SHIP Round 3 確定)",
+    "ESL author の personal baseline、global AI corpus と差 + Takashi 文体特徴を吸収",
+    "GPTZero free 10k/月 不在時 fallback、regex 単独で運用可",
+    "Critic R-4 raised concern: 10-day-old memory (project_jpn_real_photo_articles_20260509) lists only 4 articles (one-piece/chiikawa/luvlab/krispy-kreme). Rebuttal: dragon-ball-marugame + jojo-stone-ocean are R11 Takashi visit / rewrite (PRESERVE LIST Tier 1 explicitly lists them). The 8-day-old memory predates R11 work; SHIP doc + PRESERVE LIST are authoritative current state per feedback_handoff_doc_skepticism. Calibration baseline 5 retained as SHIP-specified."
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "_meta": {
+    "version": "1.0",
+    "source": "docs/prompt-design/w5-r3-draft3-SHIP-20260518.md Round 3 patch P-2 (25 phrase + co_occur)",
+    "generated_at": "2026-05-19T01:00:00Z",
+    "purpose": "japan-pop-now brand vocabulary — boilerplate regex 除外 + co_occur_with context check"
+  },
+  "brand_vocabulary": [
+    { "phrase": "collab cafe", "co_occur_with": ["IP_name"] },
+    { "phrase": "コラボカフェ", "co_occur_with": ["IP_name"] },
+    { "phrase": "oshi-tabi", "co_occur_with": ["location"] },
+    { "phrase": "推し旅", "co_occur_with": ["location"] },
+    { "phrase": "limited edition", "co_occur_with": ["IP_name", "date"] },
+    { "phrase": "期間限定", "co_occur_with": ["IP_name", "date"] },
+    { "phrase": "pop-up", "co_occur_with": ["venue", "date"] },
+    { "phrase": "ポップアップ", "co_occur_with": ["venue", "date"] },
+    { "phrase": "exclusive goods", "co_occur_with": ["IP_name"] },
+    { "phrase": "限定グッズ", "co_occur_with": ["IP_name"] },
+    { "phrase": "official store", "co_occur_with": ["IP_name"] },
+    { "phrase": "公式ストア", "co_occur_with": ["IP_name"] },
+    { "phrase": "tie-in menu", "co_occur_with": ["IP_name"] },
+    { "phrase": "コラボメニュー", "co_occur_with": ["IP_name"] },
+    { "phrase": "amezaiku", "co_occur_with": ["location"] },
+    { "phrase": "anime tourism", "co_occur_with": ["location"] },
+    { "phrase": "doujinshi", "co_occur_with": ["IP_name"] },
+    { "phrase": "doujin", "co_occur_with": ["IP_name"] },
+    { "phrase": "tokusatsu", "co_occur_with": ["IP_name"] },
+    { "phrase": "vtuber", "co_occur_with": ["IP_name"] },
+    { "phrase": "Klook", "co_occur_with": ["IP_name", "venue"] },
+    { "phrase": "Suica", "co_occur_with": ["transport"] },
+    { "phrase": "Pasmo", "co_occur_with": ["transport"] },
+    { "phrase": "otaku culture", "co_occur_with": ["location"] },
+    { "phrase": "kawaii aesthetic", "co_occur_with": ["IP_name", "venue"] },
+    { "phrase": "oshi (推し)", "co_occur_with": ["IP_name"] },
+    { "phrase": "seichi junrei (聖地巡礼)", "co_occur_with": ["IP_name", "location"] },
+    { "phrase": "gachapon", "co_occur_with": ["IP_name", "venue"] },
+    { "phrase": "merch drop", "co_occur_with": ["IP_name", "date"] },
+    { "phrase": "season-limited", "co_occur_with": ["IP_name", "date"] },
+    { "phrase": "itasha", "co_occur_with": ["IP_name", "event"] }
+  ],
+  "excluded_from_whitelist": [
+    { "phrase": "matcha", "reason": "普通名詞、boilerplate 混同低" },
+    { "phrase": "ramen", "reason": "普通名詞、boilerplate 混同低" },
+    { "phrase": "pilgrimage", "reason": "単体は boilerplate risk、'fan pilgrimage' 形でのみ pass" }
+  ]
+}
