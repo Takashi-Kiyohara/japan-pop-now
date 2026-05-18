@@ -9,6 +9,7 @@ import { insertInternalLinks } from '@/lib/internal-links';
 import { getAllArticles } from '@/lib/articles';
 import { getAffiliateProductForCategory } from '@/lib/affiliate-map';
 import remarkAffiliate from '@/lib/remark-affiliate';
+import rehypeAffiliateRel from '@/lib/rehype-affiliate-rel';
 import { mdxComponents } from './mdx-components';
 
 /**
@@ -16,11 +17,15 @@ import { mdxComponents } from './mdx-components';
  * - remark-gfm: GFM tables, strikethrough, autolinks
  * - remark-affiliate: swap REPLACE_WITH_*_AFF_ID placeholders for env values
  * - rehype-external-links (R13-F1, 2026-05-14): every external <a> emits
- *   rel="nofollow noopener noreferrer" + target="_blank". Klook links
- *   already carry rel="sponsored" via inline HTML wrapping (R12-tail), so
- *   this plugin layers nofollow+noopener on top of those without removing
- *   sponsored. For citation links added in F2 batch, this is the
- *   sole rel-emission source (no per-link inline HTML needed).
+ *   rel="nofollow noopener noreferrer" + target="_blank".
+ * - rehype-affiliate-rel (R18-P3, 2026-05-18): runs AFTER external-links and
+ *   Set-merges rel="sponsored" onto affiliate-network anchors. NOTE: the
+ *   prior assumption that "Klook links already carry sponsored via inline
+ *   HTML (R12-tail)" was FALSE for raw markdown links — a live scan found
+ *   31/91 klook anchors missing sponsored. <AffiliateCTA>/inline-HTML links
+ *   keep their own rel; this plugin backfills the raw markdown-link case.
+ *   Ordering matters: external-links *replaces* rel, so affiliate-rel must
+ *   come second to layer sponsored on top without being clobbered.
  */
 const mdxOptions = {
   mdxOptions: {
@@ -30,6 +35,7 @@ const mdxOptions = {
         typeof rehypeExternalLinks,
         { rel: string[]; target: string },
       ],
+      rehypeAffiliateRel,
     ],
   },
 };
