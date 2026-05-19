@@ -16,6 +16,7 @@
 import fs from 'node:fs'
 import path from 'node:path'
 import process from 'node:process'
+import { execSync } from 'node:child_process'
 import {
   REPO, loadAllArticles, stripSections, countEmDash, wordCount,
   countBoilerplate, stdDevSentenceLength, dot, round4, extractImages,
@@ -353,8 +354,36 @@ async function main() {
   console.log(`[triage] press=${pressN} competitor=${competitorN} manual_SME=${manualN} | axis% ${Object.entries(meta._meta.axis_pass_pct).map(([k, v]) => k + '=' + v).join(' ')}`)
 
   if (PR_MODE) {
-    const failing = results.filter((r) => r.bucket.type !== 'maintain' && !PRESERVE_LIST[r.slug])
-    if (failing.length > 0) { console.error(`[pr-gate] ${failing.length} article(s) < 6 PASS`); process.exit(1) }
+    // R19-S4 F1 (external-Critic fix): the old gate filtered the WHOLE
+    // corpus, so the 70 pre-existing fix-bucket articles made every
+    // content PR exit 1 (incl. PR #73's link-scrub) — the gate was
+    // unmergeable-by-construction. Correct purpose: block a NEW sub-par
+    // article entering the index, not pre-existing/scrub/delete changes.
+    // Scope to article files ADDED in this PR (vs base), and exempt
+    // PRESERVE + user-approved delete (STAGE_A_OVERRIDES).
+    const base = process.env.PR_BASE || 'origin/main'
+    let addedSlugs = []
+    try {
+      addedSlugs = execSync(
+        `git diff --diff-filter=A --name-only ${base}...HEAD -- content/articles`,
+        { cwd: REPO, encoding: 'utf-8' },
+      ).split('\n').map((f) => f.trim())
+        .filter((f) => /\.mdx?$/.test(f) && !f.endsWith('.deprecated'))
+        .map((f) => path.basename(f).replace(/\.mdx?$/, ''))
+    } catch {
+      console.error('[pr-gate] git diff unavailable — gate skipped (no added-article context)')
+      addedSlugs = []
+    }
+    const failing = results.filter((r) =>
+      addedSlugs.includes(r.slug) &&
+      r.bucket.type !== 'maintain' &&
+      !PRESERVE_LIST[r.slug] &&
+      !STAGE_A_OVERRIDES.has(r.slug))
+    if (failing.length > 0) {
+      console.error(`[pr-gate] ${failing.length} newly-added article(s) < 6 PASS: ${failing.map((r) => r.slug).join(', ')}`)
+      process.exit(1)
+    }
+    console.log(`[pr-gate] PASS — ${addedSlugs.length} added article(s) checked, 0 sub-par`)
   }
 }
 
