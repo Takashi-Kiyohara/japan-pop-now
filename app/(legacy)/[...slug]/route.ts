@@ -31,6 +31,11 @@
 const DELETED_ARTICLE_SLUGS = new Set<string>([
   'one-piece-cafe-gene-parco-2026',
   'find-by-anime-in-japan-2026-pilgrimage-guides-by-series',
+  // R19-S4 W5 delete bucket — user check-in #4 (2026-05-19), stage A 410.
+  'animejapan-comiket-2026-guide',
+  'gachapon-guide-japan',
+  'nakano-broadway-guide',
+  'ship-anime-figures-merch-home-japan',
 ])
 
 function isGonePath(pathname: string): boolean {
