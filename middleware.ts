@@ -157,6 +157,9 @@ export function middleware(request: NextRequest) {
         headers: {
           'Content-Type': 'text/plain; charset=utf-8',
           'X-Robots-Tag': 'noindex',
+          // R19-S4 F2: long-cache the permanent 410 (parity with
+          // app/(legacy)/[...slug]/route.ts) so the edge serves it cheaply.
+          'Cache-Control': 'public, max-age=31536000',
         },
       }
     )

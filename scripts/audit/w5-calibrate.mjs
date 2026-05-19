@@ -11,6 +11,8 @@
  */
 import fs from 'node:fs'
 import path from 'node:path'
+import os from 'node:os'
+import { randomUUID } from 'node:crypto'
 import process from 'node:process'
 import {
   REPO, readArticleBySlug, stripSections, countEmDash, wordCount,
@@ -48,8 +50,9 @@ export function calibrate() {
 
 if (import.meta.url === `file://${process.argv[1]}` || process.argv[1]?.endsWith('w5-calibrate.mjs')) {
   const baseline = calibrate()
-  const out = '/tmp/w5-baseline.json'
-  try { fs.mkdirSync('/tmp', { recursive: true }) } catch { /* exists */ }
+  // R19-S4 F4 (CodeQL): predictable /tmp path was symlink-attackable.
+  // Use os.tmpdir() + an unguessable filename.
+  const out = path.join(os.tmpdir(), `w5-baseline-${randomUUID()}.json`)
   fs.writeFileSync(out, JSON.stringify(baseline, null, 2))
   console.log(JSON.stringify(baseline, null, 2))
   console.error(`[calibrate] baseline written → ${out} (n=${baseline._meta.n})`)
