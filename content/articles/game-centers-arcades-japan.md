@@ -324,7 +324,7 @@ A local guide shows you the best game center floors, teaches crane game tricks, 
 - [Akihabara Arcade Rhythm Games 2026](/articles/akihabara-arcade-rhythm-games-guide-2026)
 - [Gaming in Tokyo 2026](/articles/gaming-tokyo-2026)
 - [Akihabara Complete Guide 2026](/articles/akihabara-complete-guide-2026)
-- [Gachapon Guide Japan](/articles/gachapon-guide-japan)
+- Gachapon Guide Japan
 
 
 ## Image Credits

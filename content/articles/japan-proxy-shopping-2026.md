@@ -222,7 +222,7 @@ If you’re buying multiple items, consolidation saves money. Three shipments of
 
 ## Related Guides
 - [Anime Merchandise Shopping Guide: Where to Buy & What’s Worth It](/articles/anime-merch-shopping-guide-japan/)
-- [Gachapon Guide 2026: Capsule Toy Hunting in Tokyo](/articles/gachapon-guide-japan/)
+- Gachapon Guide 2026: Capsule Toy Hunting in Tokyo
 - [Akihabara Complete Guide 2026: Anime Shops, Gaming & Arcades](/articles/akihabara-complete-guide-2026/)
 
 ## Common Questions
@@ -239,9 +239,9 @@ Avoid bootlegs by checking MyFigureCollection. Consolidate shipments to save on 
 
 ### Shopping & Merch Guides
 - [Anime Merch Shopping Guide Japan](/anime-merch-shopping-guide/)
-- [Nakano Broadway Guide](/articles/nakano-broadway-guide)
+- Nakano Broadway Guide
 - [Akihabara Complete Guide 2026](/articles/akihabara-complete-guide-2026)
-- [Gachapon Guide Japan](/articles/gachapon-guide-japan)
+- Gachapon Guide Japan
 - [Japan Luggage Forwarding 2026](/articles/japan-luggage-forwarding-2026)
 - [Japan Travel Insurance 2026](/articles/japan-travel-insurance-2026)
 Planning a trip to Tokyo?

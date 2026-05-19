@@ -119,7 +119,7 @@ Located on the 6th floor of Namba Parks, this is one of the largest gashapon col
 
 The layout groups machines by category: character goods, animals, miniature food, gag items, and seasonal specials. New machines rotate in weekly, and the staff posts a “new arrivals” board near the entrance so you can spot what just dropped.
 
-Most machines take 100-yen coins (some are 200 or 300 yen). There’s a change machine inside, but it only accepts 500-yen coins and 1,000-yen bills, bring smaller bills if you can. For a deeper dive into how gashapon machines work and where to find them across Japan, check out our [complete Gachapon Guide](/articles/gachapon-guide-japan/).
+Most machines take 100-yen coins (some are 200 or 300 yen). There’s a change machine inside, but it only accepts 500-yen coins and 1,000-yen bills, bring smaller bills if you can. For a deeper dive into how gashapon machines work and where to find them across Japan, check out our complete Gachapon Guide.
 
 | Location | Namba Parks 6F, 2-10-70 Nanbanaka, Naniwa-ku, Osaka |
 | --- | --- |
@@ -260,7 +260,7 @@ If you’re combining Tokyo and Osaka on your anime trip, a Japan Rail Pass cove
 ## More Anime Shopping & Culture Guides
 
 - [Anime Merch Shopping Guide: Best Stores, Budget Tips & What to Buy](/articles/anime-merch-shopping-guide-japan/)
-- [Gachapon Guide Japan: Where to Find & How to Use Capsule Toy Machines](/articles/gachapon-guide-japan/)
+- Gachapon Guide Japan: Where to Find & How to Use Capsule Toy Machines
 - [Game Centers & Arcades Guide: Crane Games, Rhythm Games & Tips](/articles/game-centers-arcades-japan/)
 - [Akihabara Complete Guide: The Tokyo Otaku District](/articles/akihabara-complete-guide-2026/)
 - [How to Book an Anime Collab Cafe in Japan](/articles/how-to-book-anime-collab-cafe-japan/)
@@ -276,7 +276,7 @@ For a complete list of anime collaboration cafes currently running in Osaka, che
 
 - [Akihabara Complete Guide 2026](/articles/akihabara-complete-guide-2026)
 - [Ikebukuro Anime Guide 2026](/articles/ikebukuro-anime-guide-2026)
-- [Nakano Broadway Guide](/articles/nakano-broadway-guide)
+- Nakano Broadway Guide
 - [Shibuya & Harajuku Pop Culture Guide](/articles/shibuya-harajuku-pop-culture-guide)
 - [Kyoto Anime Guide 2026](/articles/kyoto-anime-guide-2026)
 - [How to Book Anime Collab Cafes](/articles/how-to-book-anime-collab-cafe-japan)

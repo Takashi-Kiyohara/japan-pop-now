@@ -102,9 +102,20 @@ export default function sitemap(): MetadataRoute.Sitemap {
   // editorially as retrospectives. The explicit signal for "do not index
   // any longer" is `robots: noindex` in frontmatter; validUntil should
   // not also gate crawl-discovery. Filter removed.
+  // R19-S4 W5 delete bucket — user check-in #4 (2026-05-19) stage-A 410.
+  // These articles still exist as .md files (no-delete policy) but return
+  // 410 via middleware; they MUST be excluded from the sitemap so Google
+  // gets one consistent signal (Gone), not a sitemap'd 410.
+  const W5_DELETED_410 = new Set<string>([
+    'animejapan-comiket-2026-guide',
+    'gachapon-guide-japan',
+    'nakano-broadway-guide',
+    'ship-anime-figures-merch-home-japan',
+  ]);
   const articlePages: MetadataRoute.Sitemap = articles
     .filter((article) => {
       if (article.robots?.toLowerCase().includes('noindex')) return false;
+      if (W5_DELETED_410.has(article.slug)) return false;
       return true;
     })
     .map((article) => ({

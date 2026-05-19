@@ -3,7 +3,7 @@
 baseline e3f2c99 | total 88 | active_method draft3_p4_compressed_suspect_15pct | GPTZero absent_regex_only_degrade
 
 ## Buckets
-maintain=14 fix=70 delete=4 (A_410=0 B_301=0 C_noindex_90d=4)
+maintain=14 fix=70 delete=4 (A_410=4 B_301=0 C_noindex_90d=0)
 
 ## Axis PASS %
 A=11.3636% B=43.1818% C=94.3182% D=100% E=72.7273% F=46.5909% G=20.4545%
@@ -28,7 +28,7 @@ press=38 competitor_fallback=0 manual_SME_flag=50 total=88
 ## Delete 3-stage routing
 | slug | passCount | stage | routing | target | manual_gate | ttl_expires |
 |---|---|---|---|---|---|---|
-| animejapan-comiket-2026-guide | 2 | C | noindex | - | no | 2026-08-17 |
-| gachapon-guide-japan | 2 | C | noindex | - | no | 2026-08-17 |
-| nakano-broadway-guide | 2 | C | noindex | - | no | 2026-08-17 |
-| ship-anime-figures-merch-home-japan | 2 | C | noindex | - | no | 2026-08-17 |
+| animejapan-comiket-2026-guide | 2 | A | 410 | - | no | - |
+| gachapon-guide-japan | 2 | A | 410 | - | no | - |
+| nakano-broadway-guide | 2 | A | 410 | - | no | - |
+| ship-anime-figures-merch-home-japan | 2 | A | 410 | - | no | - |

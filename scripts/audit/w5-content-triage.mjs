@@ -207,8 +207,22 @@ function scoreG(article, slug) {
   return { pass: false, branch: 'fail', firstHandPara, authorBound: ab, advisoryMarker: am, authorBoxPresent: abx }
 }
 
-function deleteRouting(frontmatter, today) {
+// R19-S4: user check-in #4 (2026-05-19) — explicitly approved these 4 for
+// IMMEDIATE stage-A 410 (thin evergreen, no rewrite planned; skip the 90d
+// grace for early-HCU recovery). Config-driven so the override survives
+// re-runs (idempotent) instead of a hand-edited JSON a re-run would revert.
+const STAGE_A_OVERRIDES = new Set([
+  'animejapan-comiket-2026-guide',
+  'gachapon-guide-japan',
+  'nakano-broadway-guide',
+  'ship-anime-figures-merch-home-japan',
+])
+
+function deleteRouting(frontmatter, today, slug) {
   const todayDate = new Date(today)
+  if (slug && STAGE_A_OVERRIDES.has(slug)) {
+    return { type: 'delete', stage: 'A', routing: '410', reason: 'user check-in #4 (2026-05-19): thin evergreen, immediate 410', overridden_from: 'C' }
+  }
   // SoT (P-3 + Mario Cafe precedent): stage B first — link equity > canonical
   if (frontmatter.supersededBy) {
     return { type: 'delete', stage: 'B', routing: '301', target: frontmatter.supersededBy, manual_gate: true }
@@ -225,10 +239,14 @@ function deleteRouting(frontmatter, today) {
   }
 }
 
-function decideBucket(scores, passCount, frontmatter, today) {
+function decideBucket(scores, passCount, frontmatter, today, slug) {
   const a = scores.A.pass, b = scores.B.pass, c = scores.C.pass, g = scores.G.pass, f = scores.F.pass
+  // R19-S4: user-approved immediate-410 slugs route stage A even though
+  // their axis score (passCount 2) would already → delete; explicit so a
+  // future score shift can't silently re-bucket an approved deletion.
+  if (STAGE_A_OVERRIDES.has(slug)) return deleteRouting(frontmatter, today, slug)
   if (passCount <= 2 || (a === false && b === false && c === false && g === false)) {
-    return deleteRouting(frontmatter, today)
+    return deleteRouting(frontmatter, today, slug)
   }
   if (passCount >= 6 && a && f && g) return { type: 'maintain' }
   return { type: 'fix', noindex_quarantine: true, manual_reaudit_gate: true }
@@ -261,7 +279,7 @@ async function main() {
       G: scoreG(article, slug),
     }
     const passCount = Object.values(scores).filter((s) => s.pass === true).length
-    let bucket = decideBucket(scores, passCount, article.frontmatter, today)
+    let bucket = decideBucket(scores, passCount, article.frontmatter, today, slug)
     let preserve_override = null
     if (PRESERVE_LIST[slug] && bucket.type !== 'maintain') {
       preserve_override = {
