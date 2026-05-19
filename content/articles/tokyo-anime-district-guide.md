@@ -89,7 +89,7 @@ Read the full guide: [Ikebukuro Anime Guide 2026](/articles/ikebukuro-anime-guid
 
 
 ## Nakano Broadway. The Collector’s Sanctuary
-**[Read our Nakano Broadway guide →](/articles/nakano-broadway-guide)**
+**Read our Nakano Broadway guide →**
 
 
 ![Nakano Broadway entrance signage, the vertical shopping complex housing the Mandarake secondhand anime empire across four floors](/images/articles/tokyo-anime-district-guide/body-nakano.webp)
@@ -101,7 +101,7 @@ Five minutes from Shinjuku on the JR Chuo Line, Nakano Broadway is a vertical sh
 
 The atmosphere is the opposite of Akihabara. Quiet corridors, local neighborhood feel, and a crowd that’s mostly Japanese collectors rather than tourists. The building’s basement has a local food market and the famous Daily Chico soft serve stand (eight flavors, ¥1,000, spectacularly photogenic).
 
-Read the full guide: [Nakano Broadway Guide. Tokyo’s Best-Kept Anime Secret](/articles/nakano-broadway-guide/)
+Read the full guide: Nakano Broadway Guide. Tokyo’s Best-Kept Anime Secret
 
 | **Station** | JR Nakano Station (Chuo Line), North Exit. 5 min walk through Nakano Sun Mall |
 | --- | --- |
@@ -203,7 +203,7 @@ Akihabara. It has the broadest selection, the most shops, and the full “anime 
 
 **Which district has the cheapest prices?**
 
-[Nakano Broadway](/articles/nakano-broadway-guide/) for secondhand goods. Smaller shops, less tourist markup, and Mandarake’s pricing is generally fair. For new items, prices are fairly consistent across all districts, the same figure costs roughly the same at Animate in Akihabara and Animate in Ikebukuro.
+Nakano Broadway for secondhand goods. Smaller shops, less tourist markup, and Mandarake’s pricing is generally fair. For new items, prices are fairly consistent across all districts, the same figure costs roughly the same at Animate in Akihabara and Animate in Ikebukuro.
 
 **Are any of these districts good for anime collab cafes?**
 
@@ -227,7 +227,7 @@ A guided anime district tour hits Akihabara, Ikebukuro, and Nakano in a single d
 
 - [Akihabara Complete Guide 2026](/articles/akihabara-complete-guide-2026/)
 - [Ikebukuro Anime Guide 2026](/articles/ikebukuro-anime-guide-2026/)
-- [Nakano Broadway Guide. Tokyo’s Best-Kept Anime Secret](/articles/nakano-broadway-guide/)
+- Nakano Broadway Guide. Tokyo’s Best-Kept Anime Secret
 - [Shibuya & Harajuku Pop Culture Guide. Beyond the Tourist Surface](/articles/shibuya-harajuku-pop-culture-guide/)
 - [How to Book an Anime Collab Cafe in Japan](/articles/how-to-book-anime-collab-cafe-japan/)
 - [10 Anime Pilgrimage Spots in Tokyo You Can Visit Today](/articles/anime-pilgrimage-spots-tokyo/)
@@ -241,7 +241,7 @@ A guided anime district tour hits Akihabara, Ikebukuro, and Nakano in a single d
 
 - [Anime Merch Shopping Guide Japan](/anime-merch-shopping-guide/)
 - [Japanese Game Centers & Arcades Guide](/articles/game-centers-arcades-japan)
-- [Gachapon Guide Japan](/articles/gachapon-guide-japan)
+- Gachapon Guide Japan
 - [10 Must-Visit Anime Pilgrimage Spots in Tokyo](/articles/anime-pilgrimage-spots-tokyo)
 - [Japan IC Card Transit Guide](/articles/japan-ic-card-transit-guide)
 
