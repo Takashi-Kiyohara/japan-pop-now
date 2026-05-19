@@ -1,0 +1,9 @@
+# R19-S3 (W5 audit): keep build-time audit tooling + ML model cache out of
+# the Vercel serverless bundle (250MB limit — Critic R-2 C). The Next app
+# never imports @xenova/transformers; only scripts/audit/*.mjs do, and that
+# package is a devDependency so it is not installed for the runtime build.
+scripts/audit/
+**/.cache/
+.tmp/
+/tmp/
+docs/audit/w5-competitor-cache.json

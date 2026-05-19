@@ -1,0 +1,763 @@
+{
+  "_meta": {
+    "version": "1.1",
+    "generated_at": "2026-05-19T00:55:00Z",
+    "patched_at": "2026-05-19T01:10:00Z",
+    "generated_by": "Cowork autonomous run 2026-05-19 (handoff S0) + External Critic R-4 patch",
+    "baseline_sha": "e3f2c99 (R19-S1 W6-quick post-push)",
+    "total_articles": 88,
+    "stats": {
+      "bucket_A_websearch_verified": 11,
+      "bucket_A_downgraded_manual_SME_flag": 2,
+      "bucket_A_low_confidence_retained": 1,
+      "auto_matched": 27,
+      "bucket_B_null_acceptable": 47,
+      "auto_null_unclassified": 0,
+      "verified_200_with_evidence": 12,
+      "total_with_url": 39
+    },
+    "schema": {
+      "url": "primary press source URL (verified or auto-matched), null if no canonical source",
+      "source_tag": "prtimes|collabo-cafe|twitter_official_x|animate|parco|sunshinecity|shibuya109|ufotable|official_brand_jp|null (URL host base)",
+      "source_origin": "(optional) underlying issuer if different from host, e.g. official_pref_jp via prtimes",
+      "verified_200": "true=WebSearch+WebFetch 200 confirmed 2026-05-19; false=downgraded post-Critic; null=auto-matched not re-verified",
+      "bucket": "A_websearch_verified|A_downgraded_manual_SME_flag|auto_matched|B_null_acceptable|auto_null_unclassified",
+      "confidence": "high|medium|low (Bucket A only)",
+      "downgrade_reason": "(optional) Critic round で downgrade した場合の理由 verbatim",
+      "critic_note": "(optional) Critic round 経由の retention/downgrade 説明"
+    },
+    "usage_note": "Consumed by W5 audit framework (docs/prompt-design/w5-r3-draft3-SHIP-20260518.md) as press source corpus for axis B (citation depth) scoring. null URL → axis B fallback to competitor_top10 (Phase 1 scoreB Step 2)、その後 manual_SME_flag (Phase 1 scoreB Step 3 = P-1 Round 3 patch)。Critic R-4 patch: bucket A 3 件 downgrade (demon-slayer-pilgrimage / familymart-stores / MHA-cafe confidence low)。",
+    "critic_round_4_changelog": [
+      "demon-slayer-pilgrimage-tokyo: high→null (scope mismatch、single venue popup ≠ pilgrimage 多 venue)",
+      "familymart-anime-collab-stores-2026: high→null (roundup → single JJK collab narrowing)",
+      "my-hero-academia-cafe-tokyo-2026: high→low (HOTEL PLUS ULTRA dominant framing、cafe element 包含だが部分一致)",
+      "one-piece-kumamoto-statue-tour: source_tag schema fix (official_pref_jp → prtimes + source_origin=official_pref_jp、enum 整合)"
+    ]
+  },
+  "articles": {
+    "akihabara-arcade-rhythm-games-guide-2026": {
+      "url": null,
+      "source_tag": null,
+      "all_candidates": [],
+      "bucket": "B_null_acceptable"
+    },
+    "akihabara-complete-guide-2026": {
+      "url": null,
+      "source_tag": null,
+      "all_candidates": [],
+      "bucket": "B_null_acceptable"
+    },
+    "animate-cafe-guide-japan": {
+      "url": "https://x.com/animate_cafe",
+      "source_tag": "twitter_official_x",
+      "all_candidates": [
+        "https://x.com/animate_cafe",
+        "https://cafe.animate.co.jp/"
+      ],
+      "bucket": "auto_matched",
+      "verified_200": null
+    },
+    "anime-day-trips-from-tokyo-2026": {
+      "url": null,
+      "source_tag": null,
+      "all_candidates": [],
+      "bucket": "B_null_acceptable"
+    },
+    "anime-hotels-tokyo-2026": {
+      "url": null,
+      "source_tag": null,
+      "all_candidates": [],
+      "bucket": "B_null_acceptable"
+    },
+    "anime-merch-shopping-guide-japan": {
+      "url": "https://www.animate.co.jp/en/shop/ikebukuro/floor/",
+      "source_tag": "animate",
+      "all_candidates": [
+        "https://www.animate.co.jp/en/shop/ikebukuro/floor/",
+        "https://www.animate.co.jp/en/spacegalleria/ikebukuro/",
+        "https://www.animate.co.jp/en/shop/ikebukuro/access/"
+      ],
+      "bucket": "auto_matched",
+      "verified_200": null
+    },
+    "anime-pilgrimage-spots-tokyo": {
+      "url": null,
+      "source_tag": null,
+      "all_candidates": [],
+      "bucket": "B_null_acceptable"
+    },
+    "animejapan-2026-guide-international-visitors": {
+      "url": null,
+      "source_tag": null,
+      "all_candidates": [],
+      "bucket": "B_null_acceptable"
+    },
+    "animejapan-comiket-2026-guide": {
+      "url": null,
+      "source_tag": null,
+      "all_candidates": [],
+      "bucket": "B_null_acceptable"
+    },
+    "apothecary-diaries-oshi-tabi-osaka-shinkansen-2026": {
+      "url": "https://www.animate.co.jp/shop/umeda/",
+      "source_tag": "animate",
+      "all_candidates": [
+        "https://www.animate.co.jp/shop/umeda/"
+      ],
+      "bucket": "auto_matched",
+      "verified_200": null
+    },
+    "best-anime-tours-tokyo-2026": {
+      "url": null,
+      "source_tag": null,
+      "all_candidates": [],
+      "bucket": "B_null_acceptable"
+    },
+    "blue-lock-tokyo-skytree-cafe-2026": {
+      "url": "https://prtimes.jp/main/html/rd/p/000000422.000041446.html",
+      "source_tag": "prtimes",
+      "all_candidates": [
+        "https://prtimes.jp/main/html/rd/p/000000422.000041446.html"
+      ],
+      "verified_200": true,
+      "verified_at": "2026-05-19T00:30:00Z",
+      "confidence": "high",
+      "evidence_excerpt": "「BLUE LOCK EPISODE 空 in 東京スカイツリー(R)」 SKYTREE CAFE / ブルーロック × 東京スカイツリー 初コラボ",
+      "bucket": "A_websearch_verified"
+    },
+    "book-japan-anime-events-overseas-2026": {
+      "url": null,
+      "source_tag": null,
+      "all_candidates": [],
+      "bucket": "B_null_acceptable"
+    },
+    "chainsaw-man-pilgrimage-tokyo": {
+      "url": "https://prtimes.jp/main/html/rd/p/000000702.000011430.html",
+      "source_tag": "prtimes",
+      "all_candidates": [
+        "https://prtimes.jp/main/html/rd/p/000000702.000011430.html"
+      ],
+      "verified_200": true,
+      "verified_at": "2026-05-19T00:30:00Z",
+      "confidence": "high",
+      "evidence_excerpt": "MAPPAが手掛ける『チェンソーマン』のポップアップショップ「チェンソーマン 大交流展」ベースヤード トーキョーにて開催決定",
+      "bucket": "A_websearch_verified"
+    },
+    "chiikawa-bakery-harajuku-guide-2026": {
+      "url": "https://x.com/chiikawabakery",
+      "source_tag": "twitter_official_x",
+      "all_candidates": [
+        "https://x.com/chiikawabakery",
+        "https://x.com/chiikawabakery",
+        "https://x.com/chiikawabakery"
+      ],
+      "bucket": "auto_matched",
+      "verified_200": null
+    },
+    "chiikawa-land-tokyo-complete-2026": {
+      "url": null,
+      "source_tag": null,
+      "all_candidates": [],
+      "bucket": "B_null_acceptable"
+    },
+    "cosplay-experience-tokyo-2026": {
+      "url": null,
+      "source_tag": null,
+      "all_candidates": [],
+      "bucket": "B_null_acceptable"
+    },
+    "dark-moon-chara-cafe-ikebukuro-2026": {
+      "url": "https://collabo-cafe.com/events/collabo/darkmoon-cafe-the-chara-cafe-ikebukuro2026/",
+      "source_tag": "collabo-cafe",
+      "all_candidates": [
+        "https://collabo-cafe.com/events/collabo/darkmoon-cafe-the-chara-cafe-ikebukuro2026/"
+      ],
+      "verified_200": true,
+      "verified_at": "2026-05-19T00:30:00Z",
+      "confidence": "high",
+      "evidence_excerpt": "DARK MOON カフェ in THEキャラCAFE池袋 4月25日より開催",
+      "bucket": "A_websearch_verified"
+    },
+    "demon-slayer-handmade-club-ufotable-cafe-2026": {
+      "url": "https://collabo-cafe.com/events/collabo/kimetsu-handmade-ufotable-cafe-2026/",
+      "source_tag": "collabo-cafe",
+      "all_candidates": [
+        "https://collabo-cafe.com/events/collabo/kimetsu-handmade-ufotable-cafe-2026/",
+        "https://x.com/ufotable/status/1978025805037842469"
+      ],
+      "bucket": "auto_matched",
+      "verified_200": null
+    },
+    "demon-slayer-meiji-mura-aichi-pilgrimage-2026": {
+      "url": null,
+      "source_tag": null,
+      "all_candidates": [],
+      "bucket": "B_null_acceptable"
+    },
+    "demon-slayer-pilgrimage-tokyo": {
+      "url": null,
+      "source_tag": null,
+      "all_candidates": [
+        "https://prtimes.jp/main/html/rd/p/000001019.000020364.html"
+      ],
+      "verified_200": false,
+      "bucket": "A_downgraded_manual_SME_flag",
+      "downgrade_reason": "Critic R-4 RED: pilgrimage article = location-based multi-venue, Sunshine City 単一 popup URL は scope mismatch (pilgrimage ≠ single venue popup). axis B cosine が false-low になり scoring 信頼性低下。null + manual_SME 推奨。candidate URL は all_candidates に残置、後段で複数 URL array 化検討可能"
+    },
+    "demon-slayer-rerun-cafe-ufotable-2026": {
+      "url": "https://collabo-cafe.com/events/collabo/kimetsu-rerun-vol1-ufotable-cafe-2026/",
+      "source_tag": "collabo-cafe",
+      "all_candidates": [
+        "https://collabo-cafe.com/events/collabo/kimetsu-rerun-vol1-ufotable-cafe-2026/"
+      ],
+      "bucket": "auto_matched",
+      "verified_200": null
+    },
+    "demon-slayer-rerun-cafe-ufotable-kizuna-2026": {
+      "url": "https://collabo-cafe.com/events/collabo/kimetsu-rerun-vol1-ufotable-cafe-2026/",
+      "source_tag": "collabo-cafe",
+      "all_candidates": [
+        "https://collabo-cafe.com/events/collabo/kimetsu-rerun-vol1-ufotable-cafe-2026/",
+        "https://collabo-cafe.com/events/collabo/kimetsu-rerun-vol1-ufotable-cafe-2026/"
+      ],
+      "bucket": "auto_matched",
+      "verified_200": null
+    },
+    "detective-conan-cafe-2026-japan-guide": {
+      "url": "https://prtimes.jp/main/html/rd/p/000000284.000086964.html",
+      "source_tag": "prtimes",
+      "all_candidates": [
+        "https://prtimes.jp/main/html/rd/p/000000284.000086964.html"
+      ],
+      "verified_200": true,
+      "verified_at": "2026-05-19T00:30:00Z",
+      "confidence": "high",
+      "evidence_excerpt": "劇場版『名探偵コナン ハイウェイの堕天使』公開記念！全国6都市8会場にて「名探偵コナンカフェ」期間限定オープン",
+      "bucket": "A_websearch_verified"
+    },
+    "detective-conan-cafe-tokyo-osaka-3venue-2026": {
+      "url": "https://collabo-cafe.com/events/collabo/conan-movie-vol29-cafe-2026/",
+      "source_tag": "collabo-cafe",
+      "all_candidates": [
+        "https://collabo-cafe.com/events/collabo/conan-movie-vol29-cafe-2026/",
+        "https://x.com/conan_cafe",
+        "https://collabo-cafe.com/events/collabo/conan-movie-vol29-cafe-2026/"
+      ],
+      "bucket": "auto_matched",
+      "verified_200": null
+    },
+    "detective-conan-pilgrimage-events-2026": {
+      "url": "https://sunshinecity.jp/",
+      "source_tag": "sunshinecity",
+      "all_candidates": [
+        "https://sunshinecity.jp/"
+      ],
+      "bucket": "auto_matched",
+      "verified_200": null
+    },
+    "dragon-ball-marugame-seimen-collab-2026": {
+      "url": "https://prtimes.jp/main/html/rd/p/000000296.000056642.html",
+      "source_tag": "prtimes",
+      "all_candidates": [
+        "https://prtimes.jp/main/html/rd/p/000000296.000056642.html"
+      ],
+      "verified_200": true,
+      "verified_at": "2026-05-19T00:35:00Z",
+      "confidence": "high",
+      "evidence_excerpt": "「丸亀製麺」と『ドラゴンボールZ』の7つの驚きのコラボ",
+      "bucket": "A_websearch_verified"
+    },
+    "familymart-anime-collab-stores-2026": {
+      "url": null,
+      "source_tag": null,
+      "all_candidates": [
+        "https://prtimes.jp/main/html/rd/p/000002112.000046210.html"
+      ],
+      "verified_200": false,
+      "bucket": "A_downgraded_manual_SME_flag",
+      "downgrade_reason": "Critic R-4 RED: article = multi-IP roundup (FamilyMart 全 anime collab stores)、URL = 単一 JJK 第三弾 collab。scope narrowing で axis B cosine 不安定。null + manual_SME 推奨。candidate URL は all_candidates に残置、後段で複数 collab URL array 化検討可能"
+    },
+    "first-timers-japan-playbook-anime-fans-2026": {
+      "url": null,
+      "source_tag": null,
+      "all_candidates": [],
+      "bucket": "B_null_acceptable"
+    },
+    "frieren-usj-story-walk-osaka-2026": {
+      "url": "https://prtimes.jp/main/html/rd/p/000000825.000005761.html",
+      "source_tag": "prtimes",
+      "all_candidates": [
+        "https://prtimes.jp/main/html/rd/p/000000825.000005761.html"
+      ],
+      "bucket": "auto_matched",
+      "verified_200": null
+    },
+    "gachapon-guide-japan": {
+      "url": null,
+      "source_tag": null,
+      "all_candidates": [],
+      "bucket": "B_null_acceptable"
+    },
+    "game-centers-arcades-japan": {
+      "url": null,
+      "source_tag": null,
+      "all_candidates": [],
+      "bucket": "B_null_acceptable"
+    },
+    "gaming-tokyo-2026": {
+      "url": null,
+      "source_tag": null,
+      "all_candidates": [],
+      "bucket": "B_null_acceptable"
+    },
+    "ghibli-park-complete-guide-2026": {
+      "url": null,
+      "source_tag": null,
+      "all_candidates": [],
+      "bucket": "B_null_acceptable"
+    },
+    "golden-kamuy-golden-week-shinjuku-popup-2026": {
+      "url": "https://collabo-cafe.com/events/collabo/goldenkamuy-shinjuku-pasera/",
+      "source_tag": "collabo-cafe",
+      "all_candidates": [
+        "https://collabo-cafe.com/events/collabo/goldenkamuy-shinjuku-pasera/",
+        "https://x.com/kamuy_anime",
+        "https://collabo-cafe.com/events/collabo/goldenkamuy-shinjuku-pasera/",
+        "https://collabo-cafe.com/events/collabo/goldenkamuy-ogata-fair-animate-shinjuku-2026/"
+      ],
+      "bucket": "auto_matched",
+      "verified_200": null
+    },
+    "golden-week-2026-anime-events-complete-guide": {
+      "url": "https://www.ufotable.com/cafe/",
+      "source_tag": "ufotable",
+      "all_candidates": [
+        "https://www.ufotable.com/cafe/"
+      ],
+      "bucket": "auto_matched",
+      "verified_200": null
+    },
+    "how-to-book-anime-collab-cafe-japan": {
+      "url": "https://x.com/animate_cafe",
+      "source_tag": "twitter_official_x",
+      "all_candidates": [
+        "https://x.com/animate_cafe",
+        "https://x.com/boxcafespace",
+        "https://x.com/collabo_cafe",
+        "https://collabo-cafe.com/"
+      ],
+      "bucket": "auto_matched",
+      "verified_200": null
+    },
+    "how-to-ride-trains-japan-tourists-2026": {
+      "url": null,
+      "source_tag": null,
+      "all_candidates": [],
+      "bucket": "B_null_acceptable"
+    },
+    "hypnosismic-sweets-paradise-round8-2026": {
+      "url": "https://collabo-cafe.com/events/collabo/hypnosismic-cafe-sweets-paradise-vol8-2026/",
+      "source_tag": "collabo-cafe",
+      "all_candidates": [
+        "https://collabo-cafe.com/events/collabo/hypnosismic-cafe-sweets-paradise-vol8-2026/",
+        "https://collabo-cafe.com/events/collabo/hypnosismic-cafe-sweets-paradise-vol8-2026/"
+      ],
+      "bucket": "auto_matched",
+      "verified_200": null
+    },
+    "ikebukuro-anime-guide-2026": {
+      "url": null,
+      "source_tag": null,
+      "all_candidates": [],
+      "bucket": "B_null_acceptable"
+    },
+    "japan-esim-pocket-wifi-sim-card": {
+      "url": null,
+      "source_tag": null,
+      "all_candidates": [],
+      "bucket": "B_null_acceptable"
+    },
+    "japan-ic-card-transit-guide": {
+      "url": null,
+      "source_tag": null,
+      "all_candidates": [],
+      "bucket": "B_null_acceptable"
+    },
+    "japan-luggage-forwarding-2026": {
+      "url": null,
+      "source_tag": null,
+      "all_candidates": [],
+      "bucket": "B_null_acceptable"
+    },
+    "japan-proxy-shopping-2026": {
+      "url": null,
+      "source_tag": null,
+      "all_candidates": [],
+      "bucket": "B_null_acceptable"
+    },
+    "japan-rail-pass-2026-guide": {
+      "url": null,
+      "source_tag": null,
+      "all_candidates": [],
+      "bucket": "B_null_acceptable"
+    },
+    "japan-rail-pass-guide-anime-fans": {
+      "url": null,
+      "source_tag": null,
+      "all_candidates": [],
+      "bucket": "B_null_acceptable"
+    },
+    "japan-travel-insurance-2026": {
+      "url": null,
+      "source_tag": null,
+      "all_candidates": [],
+      "bucket": "B_null_acceptable"
+    },
+    "japan-trip-checklist-anime-fans-2026": {
+      "url": null,
+      "source_tag": null,
+      "all_candidates": [],
+      "bucket": "B_null_acceptable"
+    },
+    "jjk-sweets-paradise-complete-guide-2026": {
+      "url": "https://collabo-cafe.com/events/collabo/jujutsukaisen-5th-anniversary-sweets-paradise2026-add-info-sdc-menu/",
+      "source_tag": "collabo-cafe",
+      "all_candidates": [
+        "https://collabo-cafe.com/events/collabo/jujutsukaisen-5th-anniversary-sweets-paradise2026-add-info-sdc-menu/",
+        "https://collabo-cafe.com/events/collabo/jujutsukaisen-5th-anniversary-sweets-paradise2026-add-info-sdc-menu/"
+      ],
+      "bucket": "auto_matched",
+      "verified_200": null
+    },
+    "jojo-stone-ocean-cafe-jojo-world-2026": {
+      "url": "https://x.com/THE_JOJO_WORLD",
+      "source_tag": "twitter_official_x",
+      "all_candidates": [
+        "https://x.com/THE_JOJO_WORLD",
+        "https://shibuya.parco.jp/shop/detail/?cd=029769",
+        "https://x.com/THE_JOJO_WORLD"
+      ],
+      "bucket": "auto_matched",
+      "verified_200": null
+    },
+    "jr-pass-anime-pilgrimage-routes-2026": {
+      "url": null,
+      "source_tag": null,
+      "all_candidates": [],
+      "bucket": "B_null_acceptable"
+    },
+    "jujutsu-kaisen-cafes-japan-2026-guide": {
+      "url": "https://prtimes.jp/main/html/rd/p/000000762.000059072.html",
+      "source_tag": "prtimes",
+      "all_candidates": [
+        "https://prtimes.jp/main/html/rd/p/000000762.000059072.html"
+      ],
+      "verified_200": true,
+      "verified_at": "2026-05-19T00:35:00Z",
+      "confidence": "high",
+      "evidence_excerpt": "TVアニメ『呪術廻戦』× Chugai Grace Cafe コラボカフェが渋谷・大阪で開催",
+      "bucket": "A_websearch_verified"
+    },
+    "jujutsu-kaisen-shibuya-locations-2026": {
+      "url": "https://shibuya109.jp/",
+      "source_tag": "shibuya109",
+      "all_candidates": [
+        "https://shibuya109.jp/",
+        "https://shibuya109.jp/"
+      ],
+      "bucket": "auto_matched",
+      "verified_200": null
+    },
+    "kamakura-slam-dunk-pilgrimage-2026": {
+      "url": null,
+      "source_tag": null,
+      "all_candidates": [],
+      "bucket": "B_null_acceptable"
+    },
+    "krispy-kreme-mario-galaxy-shibuya-2026": {
+      "url": null,
+      "source_tag": null,
+      "all_candidates": [],
+      "bucket": "B_null_acceptable"
+    },
+    "kyoto-anime-guide-2026": {
+      "url": null,
+      "source_tag": null,
+      "all_candidates": [],
+      "bucket": "B_null_acceptable"
+    },
+    "lawson-ticket-anime-cafe-booking": {
+      "url": "https://faq.l-tike.com/%E4%BC%9A%E5%93%A1%E7%99%BB%E9%8C%B2%E3%81%97%E3%81%AA%E3%81%84%E3%81%A8%E3%83%81%E3%82%B1%E3%83%83%E3%83%88%E3%81%AF%E5%8F%96%E3%82%8C%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B%EF%BC%9F-672b342651fbc1d8bb8c253f",
+      "source_tag": "official_brand_jp",
+      "all_candidates": [
+        "https://faq.l-tike.com/%E4%BC%9A%E5%93%A1%E7%99%BB%E9%8C%B2%E3%81%97%E3%81%AA%E3%81%84%E3%81%A8%E3%83%81%E3%82%B1%E3%83%83%E3%83%88%E3%81%AF%E5%8F%96%E3%82%8C%E3%81%BE%E3%81%9B%E3%82%93%E3%81%8B%EF%BC%9F-672b342651fbc1d8bb8c253f"
+      ],
+      "verified_200": true,
+      "verified_at": "2026-05-19T00:35:00Z",
+      "confidence": "medium",
+      "evidence_excerpt": "ローチケ FAQ 会員登録/チケット取得 (how-to guide canonical source)",
+      "bucket": "A_websearch_verified"
+    },
+    "luvlab-harajuku-diy-accessory-experience": {
+      "url": "https://prtimes.jp/main/html/rd/p/000000007.000167249.html",
+      "source_tag": "prtimes",
+      "all_candidates": [
+        "https://prtimes.jp/main/html/rd/p/000000007.000167249.html"
+      ],
+      "verified_200": true,
+      "verified_at": "2026-05-19T00:35:00Z",
+      "confidence": "high",
+      "evidence_excerpt": "来店客数333人突破記念｜らぶLab 原宿店で「333 THANKSキャンペーン」緊急開催 Ninevation株式会社プレスリリース 2026年4月14日",
+      "bucket": "A_websearch_verified"
+    },
+    "my-hero-academia-cafe-tokyo-2026": {
+      "url": "https://prtimes.jp/main/html/rd/p/000003915.000005113.html",
+      "source_tag": "prtimes",
+      "all_candidates": [
+        "https://prtimes.jp/main/html/rd/p/000003915.000005113.html"
+      ],
+      "verified_200": true,
+      "verified_at": "2026-05-19T00:40:00Z",
+      "confidence": "low",
+      "evidence_excerpt": "『僕のヒーローアカデミア』の世界を体感！渋谷エクセルホテル東急の期間限定コラボ企画「HOTEL PLUS ULTRA」(コラボカフェメニューを「エスタシオン カフェ」等で展開、cafe element 包含、但し dominant framing = hotel package)",
+      "bucket": "A_websearch_verified",
+      "critic_note": "Critic R-4 YELLOW→retain at low confidence: HOTEL PLUS ULTRA は collab cafe element を hotel 内 cafe (エスタシオン カフェ) で展開、article slug の cafe scope と部分一致。dominant venue framing = hotel 中心、confidence を high → low に downgrade。manual_SME review 推奨"
+    },
+    "my-hero-academia-waffle-diner-ikebukuro-2026": {
+      "url": null,
+      "source_tag": null,
+      "all_candidates": [],
+      "bucket": "B_null_acceptable"
+    },
+    "nakano-broadway-guide": {
+      "url": null,
+      "source_tag": null,
+      "all_candidates": [],
+      "bucket": "B_null_acceptable"
+    },
+    "naruto-tokyo-pilgrimage-2026": {
+      "url": null,
+      "source_tag": null,
+      "all_candidates": [],
+      "bucket": "B_null_acceptable"
+    },
+    "okami-20th-monster-hunter-sakaba-tokyo-osaka-2026": {
+      "url": null,
+      "source_tag": null,
+      "all_candidates": [],
+      "bucket": "B_null_acceptable"
+    },
+    "one-piece-cafe-gene-shibuya-guide-2026": {
+      "url": "https://cafe.parco.jp/event/onepiece_cafe_gene_shibuya?area=029438",
+      "source_tag": "parco",
+      "all_candidates": [
+        "https://cafe.parco.jp/event/onepiece_cafe_gene_shibuya?area=029438",
+        "https://twitter.com/search?q=%23ONEPIECE_CAFE_GENE&f=live",
+        "https://en.cafe.parco.jp/event/onepiece_cafe_gene_shibuya?area=029438"
+      ],
+      "bucket": "auto_matched",
+      "verified_200": null
+    },
+    "one-piece-kumamoto-statue-tour": {
+      "url": "https://prtimes.jp/main/html/rd/p/000000111.000098840.html",
+      "source_tag": "prtimes",
+      "source_origin": "official_pref_jp",
+      "all_candidates": [
+        "https://prtimes.jp/main/html/rd/p/000000111.000098840.html"
+      ],
+      "verified_200": true,
+      "verified_at": "2026-05-19T00:40:00Z",
+      "confidence": "high",
+      "evidence_excerpt": "熊本県のプレスリリース「ONE PIECE 麦わらの一味像ひとつなぎバスツアー」(prtimes 経由、source_origin=official_pref_jp 熊本県)",
+      "bucket": "A_websearch_verified",
+      "critic_note": "Critic schema fix: URL host = prtimes.jp なので source_tag=prtimes (schema enum 一致)、発信元 = 熊本県 official は別 field source_origin で表現"
+    },
+    "one-piece-tokyo-guide-2026": {
+      "url": null,
+      "source_tag": null,
+      "all_candidates": [],
+      "bucket": "B_null_acceptable"
+    },
+    "osaka-anime-cafes-complete-guide-2026": {
+      "url": "https://collabo-cafe.com/events/tag/osaka/",
+      "source_tag": "collabo-cafe",
+      "all_candidates": [
+        "https://collabo-cafe.com/events/tag/osaka/"
+      ],
+      "verified_200": true,
+      "verified_at": "2026-05-19T00:40:00Z",
+      "confidence": "medium",
+      "evidence_excerpt": "大阪 の一覧 – コラボカフェ canonical Osaka tag aggregator (guide format)",
+      "bucket": "A_websearch_verified"
+    },
+    "osaka-anime-collab-cafes-pop-culture-2026": {
+      "url": "https://collabo-cafe.com/events/tag/osaka/",
+      "source_tag": "collabo-cafe",
+      "all_candidates": [
+        "https://collabo-cafe.com/events/tag/osaka/"
+      ],
+      "verified_200": true,
+      "verified_at": "2026-05-19T00:40:00Z",
+      "confidence": "medium",
+      "evidence_excerpt": "Same canonical Osaka aggregator; both Osaka roundup articles share this primary source",
+      "bucket": "A_websearch_verified"
+    },
+    "osaka-anime-guide-den-den-town": {
+      "url": null,
+      "source_tag": null,
+      "all_candidates": [],
+      "bucket": "B_null_acceptable"
+    },
+    "ouran-host-club-20th-anniversary-cafes-2026": {
+      "url": "https://collabo-cafe.com/events/collabo/ouran-high-school-host-club-cafe-tree-village-2026/",
+      "source_tag": "collabo-cafe",
+      "all_candidates": [
+        "https://collabo-cafe.com/events/collabo/ouran-high-school-host-club-cafe-tree-village-2026/",
+        "https://collabo-cafe.com/events/collabo/ouran-high-school-host-club-cafe-mottocafe-ikebukuro-2026/",
+        "https://x.com/ourancafe"
+      ],
+      "bucket": "auto_matched",
+      "verified_200": null
+    },
+    "pokemon-center-tokyo-complete-guide-2026": {
+      "url": null,
+      "source_tag": null,
+      "all_candidates": [],
+      "bucket": "B_null_acceptable"
+    },
+    "pokemon-karaoke-manekineko-30th-anniversary-2026": {
+      "url": "https://prtimes.jp/main/html/rd/p/000000029.000037296.html",
+      "source_tag": "prtimes",
+      "all_candidates": [
+        "https://prtimes.jp/main/html/rd/p/000000029.000037296.html",
+        "https://collabo-cafe.com/events/collabo/pocket-monster-karaoke-manekineko-campain-2026/"
+      ],
+      "bucket": "auto_matched",
+      "verified_200": null
+    },
+    "pokepark-kanto-tokyo-2026": {
+      "url": null,
+      "source_tag": null,
+      "all_candidates": [],
+      "bucket": "B_null_acceptable"
+    },
+    "ranma-japan-2026-exhibition-tree-village-guide": {
+      "url": "https://sunshinecity.jp/en/access/",
+      "source_tag": "sunshinecity",
+      "all_candidates": [
+        "https://sunshinecity.jp/en/access/"
+      ],
+      "bucket": "auto_matched",
+      "verified_200": null
+    },
+    "re-zero-curemaid-cafe-akihabara-2026": {
+      "url": "https://collabo-cafe.com/events/collabo/re-zero-cafe-curemaid-akihabara2026/",
+      "source_tag": "collabo-cafe",
+      "all_candidates": [
+        "https://collabo-cafe.com/events/collabo/re-zero-cafe-curemaid-akihabara2026/",
+        "https://x.com/curemaidcafe",
+        "https://collabo-cafe.com/events/collabo/re-zero-cafe-curemaid-akihabara2026/",
+        "https://x.com/curemaidcafe"
+      ],
+      "bucket": "auto_matched",
+      "verified_200": null
+    },
+    "rilakkuma-cafe-tokyo-osaka-2026": {
+      "url": "https://www.shibuya109.jp/",
+      "source_tag": "shibuya109",
+      "all_candidates": [
+        "https://www.shibuya109.jp/"
+      ],
+      "bucket": "auto_matched",
+      "verified_200": null
+    },
+    "shibuya-harajuku-pop-culture-guide": {
+      "url": null,
+      "source_tag": null,
+      "all_candidates": [],
+      "bucket": "B_null_acceptable"
+    },
+    "ship-anime-figures-merch-home-japan": {
+      "url": null,
+      "source_tag": null,
+      "all_candidates": [],
+      "bucket": "B_null_acceptable"
+    },
+    "slam-dunk-kamakura-pilgrimage-2026": {
+      "url": null,
+      "source_tag": null,
+      "all_candidates": [],
+      "bucket": "B_null_acceptable"
+    },
+    "spy-family-tokyo-fan-day-2026": {
+      "url": null,
+      "source_tag": null,
+      "all_candidates": [],
+      "bucket": "B_null_acceptable"
+    },
+    "tokyo-anime-collab-cafes-spring-2026": {
+      "url": "https://x.com/jujutsu_plaza",
+      "source_tag": "twitter_official_x",
+      "all_candidates": [
+        "https://x.com/jujutsu_plaza",
+        "https://cafe.parco.jp/",
+        "https://x.com/animate_cafe"
+      ],
+      "bucket": "auto_matched",
+      "verified_200": null
+    },
+    "tokyo-anime-collab-cafes-summer-2026": {
+      "url": "https://collabo-cafe.com/",
+      "source_tag": "collabo-cafe",
+      "all_candidates": [
+        "https://collabo-cafe.com/",
+        "https://collabo-cafe.com/"
+      ],
+      "bucket": "auto_matched",
+      "verified_200": null
+    },
+    "tokyo-anime-district-guide": {
+      "url": "https://www.animate.co.jp/shop/ikebukuro/",
+      "source_tag": "animate",
+      "all_candidates": [
+        "https://www.animate.co.jp/shop/ikebukuro/"
+      ],
+      "bucket": "auto_matched",
+      "verified_200": null
+    },
+    "universal-cool-japan-2026-guide": {
+      "url": null,
+      "source_tag": null,
+      "all_candidates": [],
+      "bucket": "B_null_acceptable"
+    },
+    "weathering-with-you-locations-tokyo": {
+      "url": null,
+      "source_tag": null,
+      "all_candidates": [],
+      "bucket": "B_null_acceptable"
+    },
+    "wonder-festival-figure-events-japan-2026": {
+      "url": null,
+      "source_tag": null,
+      "all_candidates": [],
+      "bucket": "B_null_acceptable"
+    },
+    "world-trigger-festival-2026-tokyo-dome-city-cafe": {
+      "url": "https://collabo-cafe.com/events/collabo/world-trigger-cafe-stand-tokyo-dome-city-2026/",
+      "source_tag": "collabo-cafe",
+      "all_candidates": [
+        "https://collabo-cafe.com/events/collabo/world-trigger-cafe-stand-tokyo-dome-city-2026/",
+        "https://x.com/thechara_TDC"
+      ],
+      "bucket": "auto_matched",
+      "verified_200": null
+    },
+    "your-name-pilgrimage-tokyo": {
+      "url": null,
+      "source_tag": null,
+      "all_candidates": [],
+      "bucket": "B_null_acceptable"
+    }
+  }
+}

@@ -1,0 +1,27 @@
+# R19-S3 W5 — article audit PR gate (Draft 2 CI gate, R2 B-7).
+# Blocks merge when a changed/new article would not reach the maintain
+# bar (≥6 PASS + A∧F∧G), excluding PRESERVE-LIST slugs. Prevents the
+# "leak loop" where unhelpful articles re-enter the index post-cleanup.
+name: article-audit-gate
+
+on:
+  pull_request:
+    paths:
+      - 'content/articles/**'
+
+jobs:
+  audit-gate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Install deps (incl. devDependencies for audit)
+        run: npm ci
+      - name: Run W5 triage in PR gate mode
+        env:
+          AUDIT_TODAY: '2026-05-19T00:00:00Z'
+          COMPETITOR_CACHE: docs/audit/w5-competitor-cache.json
+        run: node scripts/audit/w5-content-triage.mjs --pr-mode --today="$AUDIT_TODAY"
+      # Exit 1 inside --pr-mode (non-maintain, non-PRESERVE article) fails the job.
