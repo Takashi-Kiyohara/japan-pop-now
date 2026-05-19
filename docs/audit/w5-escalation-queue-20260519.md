@@ -2,10 +2,65 @@
 sprint: R19-S3 (W5 audit framework)
 date: 2026-05-19
 baseline_sha: e3f2c99
-status: escalated — requires Cowork/user policy decision before S4
+status: RESOLVED — user (owner) chose option Y, 2026-05-19; S4 gate cleared
+resolved_by: user/owner in-session policy decision 2026-05-19
 ---
 
 # W5 S3 — Escalation Queue
+
+## ✅ ESC-1 RESOLUTION (2026-05-19, user/owner authority)
+
+The user (project owner) decided ESC-1 in-session. **Option chosen: "Y"**
+(a 4th option beyond the original 1/2/3 menu below — *decouple advisory
+authorship from the post-S7 name via a scoreA/scoreG branch (b)*):
+
+- **scoreG**: PASS if (a) firstHandPara ≥ 1 (first-person, unchanged) **OR**
+  (b) `authorBound (author ∈ {Takapon, Takashi Kiyohara}) ∧ advisoryMarker
+  (frontmatter.voice==='advisory' ∨ title/slug ∈ /おすすめ|編集部|complete
+  guide|roundup|ガイド/ , /complete-guide|roundup|guide-2026/) ∧
+  authorBoxBound`.
+- **scoreA**: add branch (b) = `authorBound ∧ advisoryMarker ∧ officialPress
+  (PRESS_MAP[slug] non-null)`; branch (a) = firsthand unchanged.
+- **authorBoxBound reality-grounding** (decision-recorded, not just in
+  code): the user's Y code tested `/AuthorBox/.test(article.content)`, but
+  AuthorBox is route-injected for every article at
+  `app/articles/[slug]/page.tsx:439` (`<AuthorBox variant="full" />`,
+  unconditional) and is **0/88** in raw markdown. Grounded in that
+  architectural fact (every article IS author-box-bound) — same pattern the
+  in-session Critic validated for the isFirstParty R2 fix. Implemented in
+  `scripts/audit/w5-content-triage.mjs` (authorBound/advisoryMarker/
+  authorBoxBound + scoreA/scoreG).
+- Rationale: the site's `feedback_no_first_person_fabrication` advisory
+  voice must not be penalised; honest advisory articles now reach A/G via
+  binding, not fabricated "I visited".
+
+Post-Y re-run (idempotent, run1==run2): maintain=14 fix=70 delete=4 (all
+stage C); axis% A=11.36 B=43.18 C=94.32 D=100 E=72.73 F=46.59 **G=20.45**
+(branch dist: G a_firsthand=7/b_advisory=11/fail=70; A a_firsthand=7/
+b_advisory=3/fail=78). fix=70 is the honest consequence of the user's
+deliberately narrow advisoryMarker patterns — not a masked axis.
+
+**PRESERVE LIST reconciliation** (supersedes the stale "all 10
+hard-overridden" line in §"PRESERVE LIST overrides" below; cross-checked
+against w5-bucket-result-20260519.json `_meta.preserve_list` + per-slug
+`preserve_override`): post-Y, `override_count = 8`. The **2 on merit**
+(`preserve_override == null`) are:
+`one-piece-cafe-gene-shibuya-guide-2026` (passCount 7, branch **a_firsthand**)
+and `chiikawa-bakery-harajuku-guide-2026` (passCount 7, branch
+**b_advisory**). The **other 8 remain hard-overridden** —
+`luvlab-harajuku-diy-accessory-experience`,
+`krispy-kreme-mario-galaxy-shibuya-2026`,
+`dragon-ball-marugame-seimen-collab-2026`,
+`jojo-stone-ocean-cafe-jojo-world-2026`,
+`slam-dunk-kamakura-pilgrimage-2026`,
+`okami-20th-monster-hunter-sakaba-tokyo-osaka-2026`,
+`my-hero-academia-waffle-diner-ikebukuro-2026`,
+`akihabara-arcade-rhythm-games-guide-2026` (note: akihabara is overridden,
+passCount 3, A=fail — NOT on merit). All 10 still `bucket.type == maintain`
+(0 PRESERVE conflict).
+
+S4 gate: **CLEARED** by this recorded owner decision. (Original options
+1/2/3 below are superseded by option Y and retained only for history.)
 
 Per Critic R-2 patch B (max 3 re-rounds, then escalate) +
 `feedback_critic_finding_no_deferral` (resolve in-session OR escalate, never
