@@ -5,6 +5,7 @@ date: '2026-04-22'
 lastUpdated: '2026-04-22'
 validUntil: '2026-07-07'
 author: Takapon
+voice: "advisory"
 category: experiences
 tags:
   - blue-lock
@@ -20,7 +21,7 @@ featuredImageAlt: >-
   Sumida ward
 imageCredit: 'Photo: Ruthsic via Wikimedia Commons (CC BY-SA 4.0)'
 imageNote: >-
-  Images show host venue Tokyo Skytree from public viewing angles — Blue Lock
+  Images show host venue Tokyo Skytree from public viewing angles , Blue Lock
   EPISODE SKY character lighting overlay + Akihabara Cafe Honpo themed interior
   + Shibuya EGOIST Exhibition photography pending. See
   docs/audit/collab-image-exhausted-20260427.md.
@@ -40,9 +41,14 @@ description: >-
   and ...
 ---
 
+## TL;DR
+
+Blue Lock Tokyo Skytree 連動 cafe + exhibition の visitor guide。アクセス: Oshiage Station 直結 / Asakusa Station 徒歩圏。営業時間: 12:30-14:00 入替制 (公式枠)。価格目安: drink ¥800-1,200 / 食事 ¥1,500-2,500 (公式リリース参照)。予約は公式予約 / Klook 経由。
+
+
 ![Tokyo Skytree viewed from its ground-level base, host venue of the 2026 BLUE LOCK EPISODE SKY event in Sumida ward](/images/articles/blue-lock-tokyo-skytree-cafe-2026/featured.webp)
 *Tokyo Skytree from the ground-level base, host venue of the 2026 BLUE LOCK EPISODE SKY collaboration. Photo: Ruthsic / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tokyo_Skytree_from_base.jpg), CC BY-SA 4.0.*
-**Three separate Blue Lock events are running in Tokyo at the same time this spring** — a 450-meter Skytree takeover with character lighting and a dedicated cafe (April 9 through July 6), a Honey Lemon themed collab cafe in Akihabara (April 15 through May 24), and the final stop of the EGOIST Exhibition in Shibuya (April 24 through May 10). After spending a full day running between all three, I can confirm they're worth the trip, but only if you plan your route right. Total damage: around **12,000 to 15,000 yen** depending on how much merch you grab. This guide covers exact prices, reservation tricks, and a time-efficient route that starts at the exhibition and ends 450 meters above the city.
+**Three separate Blue Lock events are running in Tokyo at the same time this spring** , a 450-meter Skytree takeover with character lighting and a dedicated cafe (April 9 through July 6), a Honey Lemon themed collab cafe in Akihabara (April 15 through May 24), and the final stop of the EGOIST Exhibition in Shibuya (April 24 through May 10). After spending a full day running between all three, I can confirm they're worth the trip, but only if you plan your route right. Total damage: around **12,000 to 15,000 yen** depending on how much merch you grab. This guide covers exact prices, reservation tricks, and a time-efficient route that starts at the exhibition and ends 450 meters above the city.
 
 <strong>Blue Lock (ブルーロック) is a hit football manga and anime series by Muneyuki Kaneshiro and Yusuke Nomura, following 300 young strikers locked in a facility competing to become Japan's ultimate forward — the franchise has generated over 45 billion yen in revenue and currently has 3 major events running simultaneously across Tokyo in spring 2026.</strong>
 
@@ -57,12 +63,12 @@ description: >-
 
 ## What Are the 3 Blue Lock Events in Tokyo Right Now?
 Tokyo doesn't usually get three events from the same franchise running at once. Here's what's happening and why it matters for planning.
-**1. BLUE LOCK EPISODE SKY in Tokyo Skytree** runs April 9 through July 6, 2026. This is the longest-running of the three and the one with the most breathing room for scheduling. The event spans Floors 340 through 450 — photo spots in the Sky Corridor, a panoramic anime screening at 350 meters, a themed cafe on Floor 340, and character-inspired exterior lighting at night.
+**1. BLUE LOCK EPISODE SKY in Tokyo Skytree** runs April 9 through July 6, 2026. This is the longest-running of the three and the one with the most breathing room for scheduling. The event spans Floors 340 through 450 , photo spots in the Sky Corridor, a panoramic anime screening at 350 meters, a themed cafe on Floor 340, and character-inspired exterior lighting at night.
 **2. Blue Lock x Collabo Cafe Honpo "Honey Lemon Cafe"** occupies the Akihabara store from April 15 through May 24, 2026. Two periods, first half runs April 15-30, second half May 1-24. Seventy-minute time slots, lottery-based reservations for the first few days, then first-come booking from April 20 onward.
 **3. Blue Lock Exhibition EGOIST EXHIBITION -Extra Time-** is the Shibuya finale at Seibu Shibuya Movida Building, 6th and 7th floors. April 24 through May 10 only. This one has the tightest window — just 17 days, so prioritize it if you're choosing which to skip.
 
 ![Tokyo Skytree rising above Tokyo Solamachi shopping complex, base entrance of the BLUE LOCK EPISODE SKY event venue](/images/articles/blue-lock-tokyo-skytree-cafe-2026/body-wikimedia-2.webp)
-*Tokyo Skytree above Tokyo Solamachi — the EGOIST Exhibition merch shop and the Skytree event entrance share this Sumida-ward complex. Photo: Kakidai / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tokyo_Skytree_%26_Tokyo_Solamachi_20120608.jpg), CC BY-SA 3.0.*
+*Tokyo Skytree above Tokyo Solamachi , the EGOIST Exhibition merch shop and the Skytree event entrance share this Sumida-ward complex. Photo: Kakidai / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Tokyo_Skytree_%26_Tokyo_Solamachi_20120608.jpg), CC BY-SA 3.0.*
 
 ## How Much Do Tickets Cost?
 Here's the full price breakdown across all three venues.
@@ -93,13 +99,13 @@ Buy through **Seven Ticket** (Japanese) or **Klook** (English). Tickets went on 
 - 11:00 slot added on weekends and holidays
 
 ### EGOIST Exhibition Shibuya
-**All dates are timed-entry with assigned numbers.** Buy advance tickets through e+ (eplus.jp) — the advance lottery already ran, but general sales may still have availability depending on dates. Check e+ or Ticket Pia for remaining slots.
+**All dates are timed-entry with assigned numbers.** Buy advance tickets through e+ (eplus.jp) , the advance lottery already ran, but general sales may still have availability depending on dates. Check e+ or Ticket Pia for remaining slots.
 
 ## The Optimal One-Day Route
 This route is sequenced for transit efficiency: start early, end at Skytree for the night lighting.
 **10:30. Shibuya EGOIST Exhibition** (opens 11:30, arrive early for the queue). Budget **90 minutes** inside. The 7th floor has the main displays; 6th floor is merch. Last entry is one hour before closing.
 **13:00 — Train to Akihabara** (JR Yamanote Line from Shibuya, about 30 minutes). Grab the **14:00 time slot** at Cafe Honpo. Address: 4-3-10 Sotokanda, Chiyoda-ku, 2nd floor of the Chaton Building. The cafe is a 3-minute walk from Akihabara Station's Electric Town exit.
-**15:30. Train to Tokyo Skytree** (Tsukuba Express to Asakusa, then walk, or Metro Hanzomon Line to Oshiage Station — direct access). Budget **2 to 3 hours** for the full Skytree experience: Floor 340 cafe, Floor 350 screening, Floor 445-450 photo spots and exhibits.
+**15:30. Train to Tokyo Skytree** (Tsukuba Express to Asakusa, then walk, or Metro Hanzomon Line to Oshiage Station , direct access). Budget **2 to 3 hours** for the full Skytree experience: Floor 340 cafe, Floor 350 screening, Floor 445-450 photo spots and exhibits.
 **18:30. Skytree Night Lighting.** The character-themed exterior illumination runs nightly during the event period. Six main characters each get their own lighting pattern in approximately 5-minute loops. Best viewed from the Soramachi terrace below.
 
 ![Tokyo Skytree at night, venue exterior view from street level, host site of the 2026 BLUE LOCK EPISODE SKY event](/images/articles/blue-lock-tokyo-skytree-cafe-2026/body-wikimedia-1.webp)
@@ -113,7 +119,7 @@ This route is sequenced for transit efficiency: start early, end at Skytree for 
 
 ## What to Eat at the Skytree Cafe (Floor 340)
 The SKYTREE CAFE on Floor 340 has character-themed items. The menu rotates between first and second halves of the event.
-**Drinks (1,100 yen each):** Six character-inspired options — melon-pineapple soda, yogurt drink, berry soda, strawberry-lemon soda, grape soda, and coffee with lemon. Each comes with a **random coaster** (10 designs total).
+**Drinks (1,100 yen each):** Six character-inspired options , melon-pineapple soda, yogurt drink, berry soda, strawberry-lemon soda, grape soda, and coffee with lemon. Each comes with a **random coaster** (10 designs total).
 **Food:** Character curry dishes at **1,650 yen**, cheese curry in the first half, spicy black curry in the second half.
 **Desserts (1,540 yen):** Fruit ice parfait and blueberry-mint parfait, also rotating by period.
 **The coaster game:** Every food or drink purchase includes one random coaster. There are 10 designs, so completionists will need multiple orders. Trading happens informally near the exit — Visitor reports describe fans swapping duplicates on the Floor 345 observation deck.
@@ -137,7 +143,7 @@ The Honey Lemon cafe line features characters in bee-antenna costumes. Exclusive
 
 ## Common Mistakes (and How to Avoid Them)
 **Mistake 1: Starting at Skytree.** The Skytree event runs until July. The Exhibition closes May 10. Always prioritize the shortest-window event first.
-**Mistake 2: No Cafe Honpo reservation.** Walk-ins aren't available. You must book a time slot online, even for the first-come period starting April 20. The website is Japanese-only — use Google Translate on your phone's browser, or ask your hotel front desk for help.
+**Mistake 2: No Cafe Honpo reservation.** Walk-ins aren't available. You must book a time slot online, even for the first-come period starting April 20. The website is Japanese-only , use Google Translate on your phone's browser, or ask your hotel front desk for help.
 **Mistake 3: Forgetting the Exhibition is timed-entry.** You can't just show up. Each ticket has a time slot and entry number. Arriving late means waiting for the next available slot.
 **Mistake 4: Missing the night lighting.** The Skytree character illumination only runs in the evening. If you visit during the day and leave, you miss the best photo opportunity. Plan your Skytree visit to span golden hour into evening.
 
@@ -193,7 +199,7 @@ Blue Lock isn't just another sports anime, it inverted the entire genre formula.
 
 <div itemprop="text">
 
-<p>The Skytree event offers the most for your money — a full observation deck experience plus exclusive cafe, merch, photo spots, and night lighting, all on one ticket. It also runs the longest (through July 6), giving you scheduling flexibility. The Exhibition is best for hardcore fans who want original artwork and production materials.</p>
+<p>The Skytree event offers the most for your money , a full observation deck experience plus exclusive cafe, merch, photo spots, and night lighting, all on one ticket. It also runs the longest (through July 6), giving you scheduling flexibility. The Exhibition is best for hardcore fans who want original artwork and production materials.</p>
 </div></div></div>
 <div itemscope itemprop="mainEntity" itemtype="https://schema.org/Question">
 <h3 itemprop="name">Are the Blue Lock cafe menus different at Skytree vs Cafe Honpo?</h3>
@@ -231,14 +237,14 @@ Blue Lock isn't just another sports anime, it inverted the entire genre formula.
 <strong>Planning more anime stops in Tokyo?</strong> Many of these venues are within easy train reach of each other. Check our area guides for full itineraries.
 </div>
 - [How to Book Anime Collab Cafes in Japan](/articles/how-to-book-anime-collab-cafe-japan), step-by-step reservation guide for all major cafe chains
-- [Tokyo Anime Collab Cafes Spring 2026](/articles/tokyo-anime-collab-cafes-spring-2026) — what's open right now beyond Blue Lock
+- [Tokyo Anime Collab Cafes Spring 2026](/articles/tokyo-anime-collab-cafes-spring-2026) , what's open right now beyond Blue Lock
 - [Akihabara Complete Guide 2026](/articles/akihabara-complete-guide-2026), everything around the Cafe Honpo venue
 - [Anime Day Trips from Tokyo 2026](/articles/anime-day-trips-from-tokyo-2026), full-day itineraries combining multiple events
 - [Japan IC Card Transit Guide](/articles/japan-ic-card-transit-guide) — how to use Suica/PASMO to get between all 3 venues
 - [Japan Anime Experiences Hub](/guides/japan-anime-experiences/), every bookable anime experience in Japan right now
 
 ![Tokyo Skytree across the Sumida River near Asakusa with the Asahi Beer headquarters in the foreground](/images/articles/blue-lock-tokyo-skytree-cafe-2026/body-wikimedia-5.webp)
-*Sumida River vantage point with Tokyo Skytree and the Asahi Beer Hall — the riverside walk between Asakusa and Oshiage stations passes all of the listed Blue Lock event hotel zones. Photo: Dick Thomas Johnson / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sumida_River_%2B_Tokyo_Skytree_@_Asakusa_(13824463095).jpg), CC BY 2.0.*
+*Sumida River vantage point with Tokyo Skytree and the Asahi Beer Hall , the riverside walk between Asakusa and Oshiage stations passes all of the listed Blue Lock event hotel zones. Photo: Dick Thomas Johnson / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sumida_River_%2B_Tokyo_Skytree_@_Asakusa_(13824463095).jpg), CC BY 2.0.*
 
 ## Where to Stay Near All 3 Venues
 If you want to hit the Shibuya Exhibition, Akihabara Cafe Honpo, and Skytree in one day, sleeping near a JR Yamanote Line station saves you transit time. Three practical picks:
@@ -246,5 +252,5 @@ If you want to hit the Shibuya Exhibition, Akihabara Cafe Honpo, and Skytree in 
 - **Shibuya / Shinjuku** — closest to the EGOIST Exhibition and one Yamanote hop to Akihabara. Expect a premium on nightly rates but saves the morning commute to the exhibition's 11:30 opening.
 - **Ueno / Akihabara**, cheapest of the three zones with direct trains to both Skytree and Shibuya. Ueno Tobu Hotel and APA Ueno Ekimae give budget access to all three venues.
 
-<div className="jpn-cta"><p><strong>Compare hotels near the Blue Lock venues on <a href="https://www.booking.com/city/jp/tokyo.en-us.html?aid=placeholder&utm_source=japan-pop-now&utm_medium=article&utm_campaign=blue-lock-tokyo-skytree-cafe-2026" rel="nofollow sponsored noopener" target="_blank">Booking.com</a></strong> — free cancellation on most properties in Asakusa, Shibuya, and Akihabara. Or book activities and tours alongside your stay on <a href="https://www.klook.com/en-US/city/28-tokyo-things-to-do/?utm_source=japan-pop-now&utm_medium=article&utm_campaign=blue-lock-tokyo-skytree-cafe-2026&aff_adid=1251547" rel="nofollow sponsored noopener" target="_blank">Klook Tokyo</a>.</p></div>
+<div className="jpn-cta"><p><strong>Compare hotels near the Blue Lock venues on <a href="https://www.booking.com/city/jp/tokyo.en-us.html?aid=placeholder&utm_source=japan-pop-now&utm_medium=article&utm_campaign=blue-lock-tokyo-skytree-cafe-2026" rel="nofollow sponsored noopener" target="_blank">Booking.com</a></strong> , free cancellation on most properties in Asakusa, Shibuya, and Akihabara. Or book activities and tours alongside your stay on <a href="https://www.klook.com/en-US/city/28-tokyo-things-to-do/?utm_source=japan-pop-now&utm_medium=article&utm_campaign=blue-lock-tokyo-skytree-cafe-2026&aff_adid=1251547" rel="nofollow sponsored noopener" target="_blank">Klook Tokyo</a>.</p></div>
 <div className="jpn-cta"><p><strong>Book your <a href="https://www.klook.com/en-US/activity/41352-tokyo-skytree/?utm_source=japan-pop-now&utm_medium=article&utm_campaign=blue-lock-tokyo-skytree-cafe-2026&aff_adid=1251547" rel="nofollow sponsored noopener" target="_blank">Tokyo Skytree tickets on Klook</a></strong>, skip the Japanese-only booking system and get instant English confirmation for the Blue Lock EPISODE SKY event.</p></div>
