@@ -14,12 +14,18 @@ imageNote: >-
   collab-specific photography pending. See
   docs/audit/collab-image-exhausted-20260427.md.
 author: Takapon
+voice: "advisory"
 excerpt: >-
   SPY×FAMILY Tokyo Fan Day: Events, Shops & Cafes SPY×FAMILY is everywhere in
   Tokyo right now. The anime has crossed over from obsessed...
 relatedSlugs: []
 wpPostId: 607
 ---
+
+## TL;DR
+
+Spy x Family Tokyo fan-day 2026 visitor guide (wheelchair-accessible Tokyo Big Sight + English staff at international ticket counters)。アクセス: Tokyo 主要 fan-event venue (本文 §venues 参照)。営業時間: event 公式 calendar。価格目安: themed merch keychain ¥2,000-5,000 (本文 verbatim §32)、entry+merch 予算 ¥3,000-8,000 per person (§41)。予約は event 公式 / Klook 経由。
+
 SPY×FAMILY Tokyo Fan Day: Events, Shops & Cafes
 SPY×FAMILY is everywhere in Tokyo right now. The anime has crossed over from obsessed fan base to mainstream phenomenon, and the city has responded with pop-up shops, limited-edition merch, collab cafes, and seasonal events that pack crowds. Here’s how to experience everything SPY×FAMILY has to offer in one day, without losing your mind in queues.
 

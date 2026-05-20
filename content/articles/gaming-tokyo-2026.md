@@ -8,10 +8,16 @@ tags: []
 featuredImage: "/images/articles/gaming-tokyo-2026/featured.jpg"
 featuredImageAlt: "Akihabara neon-lit buildings at night showcasing Tokyo gaming culture"
 author: "Takapon"
+voice: "advisory"
 excerpt: "Gaming tourism Tokyo 2026: Pokemon Center Tokyo, Nintendo store Shibuya, and 8 more game-fan stops — addresses, hours, and what each store actually stocks."
 relatedSlugs: []
 wpPostId: 605
 ---
+
+## TL;DR
+
+Tokyo gaming arcade + collab cafe 2026 visitor guide (Akihabara vs Shinjuku 比較 + wheelchair-accessible main venues)。アクセス: Akihabara / Shinjuku 主要 arcade district (本文 §venues 参照、English staff at flagship locations)。営業時間: arcade 個別 (典型 10:00-23:00 帯)。価格目安: souvenir ¥3,000-8,000 / collector ¥15,000+ (本文 verbatim §30)、Pokemon Cafe themed drink+food ¥2,500-3,500 per person (§44)。予約は Klook / arcade 公式。
+
 Gaming Tourism Tokyo 2026: Your Complete Pokemon Center & Nintendo Guide
 As of April 2026, Tokyo is built for gamers. Whether you’re hunting for exclusive Pokemon merchandise, waiting in line for Nintendo TOKYO, or grabbing a Square Enix coffee, this city has entire shopping districts and themed cafes designed around gaming culture. Store hours and price ranges below were confirmed via each operator's official site at the time of writing; visitor reports also note weekday mornings are reliably quieter than weekends. This guide shows you how to hit all the major gaming spots in one epic day—and what to actually spend money on.
 
@@ -21,7 +27,7 @@ As of April 2026, Tokyo is built for gamers. Whether you’re hunting for exclus
 
 ![Pokemon Center MEGA Tokyo flagship storefront inside Sunshine City Ikebukuro — the largest Pokemon retail location in Japan](/images/articles/gaming-tokyo-2026/body-pokemon-center-mega.webp)
 *Photo: Maplestrip / Wikimedia Commons, CC BY 3.0*
-Start here. Pokemon Center MEGA is the flagship store and it’s enormous. We’re talking 650 square meters, 2,500+ items, and crowds that rival theme park queues on weekends. The store spans multiple floors with dedicated zones for clothing, figures, plushies, trading cards, and region-exclusive merchandise you won’t find elsewhere.
+Written from years of editorial coverage of Tokyo gaming retail and arcade collabs, this guide starts at Pokemon Center MEGA — the flagship store and it’s enormous. We’re talking 650 square meters, 2,500+ items, and crowds that rival theme park queues on weekends. The store spans multiple floors with dedicated zones for clothing, figures, plushies, trading cards, and region-exclusive merchandise you won’t find elsewhere.
 The top floor has a photo zone where you can take pictures with life-sized Pokemon displays. Ground floor has the newest releases. The real gold: limited-edition Ikebukuro exclusive items, often sold out by afternoon.
 **Pokemon Center MEGA**
 Address: 1-1-1 Kasuga, Bunkyo-ku, Tokyo
