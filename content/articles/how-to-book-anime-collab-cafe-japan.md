@@ -17,6 +17,7 @@ imageCredit: >-
   Johnson via Flickr (CC BY 2.0); Wikimedia contributors (CC BY 4.0, CC BY-SA
   4.0).
 author: Takapon
+voice: "advisory"
 excerpt: >-
   Complete guide to booking anime collaboration cafes in Tokyo. Covers Lawson
   Ticket, lottery systems, walk-in tips, and what to expect at your first collab
@@ -24,6 +25,10 @@ excerpt: >-
 relatedSlugs: []
 wpPostId: 100
 ---
+
+## TL;DR
+
+Japan の anime collab cafe を booking する step-by-step how-to guide。アクセス: 主要 operator は Animate / BOX cafe&space / GiGO / Sweets Paradise の Tokyo / Osaka 拠点 (operator 別公式参照)。営業時間: cafe individual (典型 11:00-21:00 帯)。価格目安: Animate Gratte ¥700-900 (本文 verbatim、§195) + collab menu 単価は cafe 個別、tax-free ¥5,000+ で passport 対応。予約は Lawson Ticket / Klook / cafe 公式経由。
 
 *Last updated: April 22, 2026. Covers all major booking platforms currently used by collab cafes in Tokyo.*
 

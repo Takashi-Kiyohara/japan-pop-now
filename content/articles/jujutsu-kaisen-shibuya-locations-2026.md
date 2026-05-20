@@ -12,12 +12,17 @@ featuredImageAlt: >-
   Shibuya Scramble Crossing aerial view, the iconic Jujutsu Kaisen pilgrimage
   location
 author: Takapon
+voice: "advisory"
 excerpt: >-
   Jujutsu Kaisen Shibuya Pilgrimage Guide: Location Matching & Walking Routes
   Shibuya in 2024 became the epicenter of Jujutsu Kaisen’s...
 relatedSlugs: []
 wpPostId: 604
 ---
+
+## TL;DR
+
+Jujutsu Kaisen Shibuya Incident location pilgrimage の visitor guide。アクセス: JR/メトロ Shibuya Station 起点 + Hachiko 周辺を route 化 (本文 §Route 参照)。営業時間: 屋外 location は常時、Walnut coffee / Ichiran ramen は店舗別。価格目安: coffee ¥900-1,200 (本文 verbatim、§289+301) / ramen ¥900-1,100 (§307+319) + guided tour ¥12,000-15,000 (Viator、§44)。Klook / Viator 経由予約可。
 
 Jujutsu Kaisen Shibuya Pilgrimage Guide: Location Matching & Walking Routes
 

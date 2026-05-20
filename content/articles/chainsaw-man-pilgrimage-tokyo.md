@@ -13,6 +13,7 @@ featuredImageAlt: >-
   Otokozaka stone staircase in Sarugakucho Tokyo — sister staircase to Onnazaka
   featured in Chainsaw Man Reze Arc
 author: Takapon
+voice: "advisory"
 excerpt: >-
   Walk the real Jinbocho locations from Chainsaw Man's Reze Arc — phone booth,
   stone staircase, Showa-era office building, all within a 10-minute walking
@@ -24,6 +25,9 @@ wpPostId: 510
 robots: 'noindex, follow'
 ---
 
+## TL;DR
+
+Chainsaw Man Reze Arc 関連 Tokyo location pilgrimage の visitor guide。アクセス: JR Suidobashi Station east exit 起点 + Jinbocho 周辺を route 化 (本文 §Route 参照)。営業時間: 屋外 spot は常時アクセス可、coffee shop は店舗別 (公式営業時間参照)。価格目安: ¥0 (屋外 free) + coffee/food ¥500-1,500 程度 (本文 §Budget verbatim、line 198)。Klook で Tokyo Subway pass 800 yen から手配可。
 
 The [Chainsaw Man movie *Reze Arc*](https://chainsawman.dog/) (Studio MAPPA, official portal) turned Jinbocho into one of Tokyo's hottest anime pilgrimage spots overnight. Fans have been lining up at a phone booth, climbing an old stone staircase, and snapping photos in front of a Showa-era office building, all within a 10-minute walk of each other. Per visitor reports on Twitter (X) and the [Shueisha Jump+ Chainsaw Man portal](https://shonenjumpplus.com/episode/3269632237288328772), weekday afternoons see the route nearly empty, with weekend crowds significantly heavier.
 

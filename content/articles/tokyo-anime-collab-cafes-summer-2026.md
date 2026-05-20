@@ -11,6 +11,7 @@ tags: []
 featuredImage: /images/articles/tokyo-anime-collab-cafes-summer-2026/featured.jpg
 featuredImageAlt: Rainbow Bridge and Tokyo Harbor summer cityscape
 author: Takapon
+voice: "advisory"
 excerpt: >-
   Tokyo anime collab cafes summer 2026: 15-20 active themed cafes, what's open
   by month, plus how to book reservations and walk-in venues across the city.
@@ -18,6 +19,9 @@ relatedSlugs: []
 wpPostId: 752
 ---
 
+## TL;DR
+
+Tokyo summer (June-August) 2026 anime collab cafe 15+ venue 横断比較 visitor guide。アクセス: 主要 cafe は Ikebukuro / Akihabara / Shibuya 拠点 (本文 §171 itinerary 参照)。営業時間: cafe individual。価格目安: main dish ¥1,200-1,990 / dessert ¥800-1,200 / drink ¥700-990 + reservation fee free-¥700 (本文 verbatim §147-150)、予算 ¥2,000-3,500 per visit + merch ¥1,000-3,000 (§23)。予約は cafe 個別 / Klook 経由 (Tokyo Subway pass 800 yen)。
 
 Tokyo's collab cafe scene rotates constantly, there are usually 15-20 anime-themed cafes running at any given time across the city. Photo: Japan Pop Now
 Tokyo runs at least 15 anime collab cafes at any given time between June and August, with new ones launching almost weekly as summer anime premieres kick off. Confirmed summer 2026 cafes include Haikyuu!! at Animate Cafe Ikebukuro (July 26 – August 20), Maid-sama! at My Charaful Cafe through August 23, and a steady rotation of short-run cafes at BOX CAFE, GiGO, and Collabo Cafe Honpo in Akihabara and Ikebukuro. Budget ¥2,000-3,500 (~$14-24) per visit for food and a drink, plus ¥1,000-3,000 (~$7-20) if you buy exclusive merchandise.

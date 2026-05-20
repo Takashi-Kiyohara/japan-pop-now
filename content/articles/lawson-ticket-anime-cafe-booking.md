@@ -6,6 +6,7 @@ updated: '2026-04-28'
 lastUpdated: '2026-04-28'
 dateModified: '2026-04-28'
 author: Takapon
+voice: "advisory"
 category: experiences
 tags:
   - lawson-ticket
@@ -43,7 +44,9 @@ featured: true
 wpPostId: 201
 ---
 
+## TL;DR
 
+Lawson Ticket (ローチケ) で anime collab cafe を予約する step-by-step how-to。アクセス: 予約後 Loppi 端末で受取 (Lawson 店舗全国、24 時間)。営業時間: Loppi 24 時間、cafe は operator 別 (本文参照)。価格目安: 予約料 ¥500-2,000 per slot (本文 verbatim §80+87)、cash ¥3,000 buffer 推奨、SMS-capable SIM (Mobal) ¥3,000 / 7 日 (本文 §277)。予約は Lawson Ticket / l-tike.com / ホテル代行。
 
 ![Lawson convenience store at night in Tokyo, home of the Loppi ticket machine used for anime cafe reservations](/images/articles/lawson-ticket-anime-cafe-booking/featured.jpg)
 *Lawson storefront in Tokyo. Loppi kiosks live just inside the entrance. Photo: Japan Pop Now editorial.*
