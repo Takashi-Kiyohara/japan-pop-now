@@ -1,5 +1,6 @@
 'use client';
 
+import Link from 'next/link';
 import { useEffect, useState } from 'react';
 
 /**
@@ -74,9 +75,9 @@ export default function CookieConsent() {
       <p style={{ maxWidth: '600px', margin: 0, lineHeight: 1.5 }}>
         We use cookies for analytics and advertising personalization. By clicking
         &quot;Accept&quot;, you consent to our use of cookies.{' '}
-        <a href="/privacy" style={{ color: '#fb923c', textDecoration: 'underline' }}>
+        <Link href="/privacy" style={{ color: '#fb923c', textDecoration: 'underline' }}>
           Privacy Policy
-        </a>
+        </Link>
       </p>
       <div style={{ display: 'flex', gap: '8px' }}>
         <button

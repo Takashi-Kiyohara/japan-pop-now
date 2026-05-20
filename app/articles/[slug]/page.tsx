@@ -1,5 +1,6 @@
 import { Metadata } from 'next';
 import Image from 'next/image';
+import Link from 'next/link';
 import ArticleBody from '@/components/ArticleBody';
 import {
   getArticleBySlug,
@@ -363,7 +364,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                   )}
                   <span style={{ color: '#d6d3d1' }}>|</span>
                   <span>
-                    By <a href="/about" style={{ color: '#14213d', textDecoration: 'underline', textUnderlineOffset: '2px' }}>{article.author}</a>
+                    By <Link href="/about" style={{ color: '#14213d', textDecoration: 'underline', textUnderlineOffset: '2px' }}>{article.author}</Link>
                   </span>
                   <span style={{ color: '#d6d3d1' }}>|</span>
                   <ReadingTime content={article.content} />

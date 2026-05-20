@@ -1,4 +1,5 @@
 ﻿import { Metadata } from 'next';
+import Link from 'next/link';
 
 export const metadata: Metadata = {
   title: 'Affiliate Disclosure',
@@ -79,7 +80,7 @@ export default function AffiliateDisclosure() {
         <p>
           If you have any questions about our affiliate relationships, want to report a
           broken or outdated link, or believe a piece of content is missing a disclosure,
-          please <a href="/contact" style={{ color: '#f97316', textDecoration: 'underline' }}>contact us</a>
+          please <Link href="/contact" style={{ color: '#f97316', textDecoration: 'underline' }}>contact us</Link>
           {' '}— we read every message and update guidance promptly.
         </p>
       </div>
