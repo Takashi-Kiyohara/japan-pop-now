@@ -1,4 +1,5 @@
 import { Metadata } from 'next';
+import Link from 'next/link';
 import { AUTHOR } from '@/lib/author';
 
 export const metadata: Metadata = {
@@ -202,7 +203,7 @@ export default function PrivacyPage() {
             <p><strong>Beehiiv</strong> — newsletter management. <a href="https://www.beehiiv.com/privacy" target="_blank" rel="noopener noreferrer" style={{ color: '#f97316' }}>Beehiiv Privacy Policy</a>.</p>
             <p><strong>Vercel</strong> — website hosting + Vercel Analytics (page-view counter, no tracking cookies). <a href="https://vercel.com/legal/privacy-policy" target="_blank" rel="noopener noreferrer" style={{ color: '#f97316' }}>Vercel Privacy Policy</a>.</p>
             <p><strong>Giscus / GitHub Discussions</strong> — article comments. Stored on GitHub. <a href="https://docs.github.com/en/site-policy/privacy-policies/github-general-privacy-statement" target="_blank" rel="noopener noreferrer" style={{ color: '#f97316' }}>GitHub Privacy Statement</a>.</p>
-            <p><strong>Affiliate partners</strong> (Klook, Agoda, Booking.com, GetYourGuide, Viator, Amazon Associates) — when you click an affiliate link, the partner site sets its own cookies and processes your visit per their own policy. We earn a commission on qualifying purchases; see <a href="/affiliate-disclosure" style={{ color: '#f97316' }}>Affiliate Disclosure</a>.</p>
+            <p><strong>Affiliate partners</strong> (Klook, Agoda, Booking.com, GetYourGuide, Viator, Amazon Associates) — when you click an affiliate link, the partner site sets its own cookies and processes your visit per their own policy. We earn a commission on qualifying purchases; see <Link href="/affiliate-disclosure" style={{ color: '#f97316' }}>Affiliate Disclosure</Link>.</p>
           </Section>
 
           <Section title="11. Newsletter terms">
@@ -231,7 +232,7 @@ export default function PrivacyPage() {
 
           <Section title="14. Affiliate disclosure">
             <p>
-              The site participates in affiliate programs as listed in section 10. The full affiliate disclosure with details on partner identification and commission structure is at <a href="/affiliate-disclosure" style={{ color: '#f97316' }}>/affiliate-disclosure</a>.
+              The site participates in affiliate programs as listed in section 10. The full affiliate disclosure with details on partner identification and commission structure is at <Link href="/affiliate-disclosure" style={{ color: '#f97316' }}>/affiliate-disclosure</Link>.
             </p>
           </Section>
 
