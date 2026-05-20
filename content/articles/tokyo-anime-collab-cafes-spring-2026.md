@@ -12,6 +12,7 @@ tags: []
 featuredImage: /images/articles/tokyo-anime-collab-cafes-spring-2026/featured.jpg
 featuredImageAlt: Meguro River cherry blossom illumination in Tokyo spring season
 author: Takapon
+voice: "advisory"
 excerpt: >-
   Updated weekly. Every anime collaboration cafe in Tokyo for Spring 2026: JJK
   PLAZA, One Piece Cafe GENE, My Dress-Up Darling, and more. Dates,
@@ -19,6 +20,11 @@ excerpt: >-
 relatedSlugs: []
 wpPostId: 101
 ---
+
+## TL;DR
+
+Tokyo spring 2026 anime collab cafe roundup visitor guide。アクセス: 主要 cafe district (Ikebukuro / Akihabara / Shibuya 拠点)。営業時間: cafe individual (典型 11:00-21:00 帯)。価格目安: food ¥800-2,500 / item (本文 verbatim §59)、典型訪問予算 ¥2,500-5,000 per person + merch (§63)、JJK Chair:Black acrylic stand ¥880 / clear file ¥440 / tapestry ¥2,200 (§76)。予約は cafe 個別 / Klook 経由。
+
 *Last updated: April 29, 2026.*
 *Updated weekly. Last update: April 29, 2026, six collabs ended over the past week (full list below); Golden Week openings noted.*
 For the live cross-Japan tracker (active + upcoming, not just spring Tokyo), see the [/cafes hub](/cafes), it's updated against operator official sites whenever a collab opens, ends, or cancels.
