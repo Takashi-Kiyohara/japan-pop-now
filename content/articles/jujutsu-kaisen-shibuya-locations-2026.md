@@ -418,3 +418,5 @@ Rotating. Check the Shibuya Jump Shop and PARCO 6F event space, both run JJK-the
 
 ![Cerulean Tower Tokyu Hotel in Shibuya, the high-rise that appears in JJK Shibuya Incident establishing wide shots above the barrier zone](/images/articles/jujutsu-kaisen-shibuya-locations-2026/body-wikimedia-6.webp)
 *Cerulean Tower — the high-rise hotel and office tower south of Shibuya Station. It appears in several JJK Shibuya Incident wide-angle aerial shots showing the barrier-zone perimeter from the south. Photo: Wikimedia contributor / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cerulean_Tower.jpg), CC0.*
+
+*Written from years of editorial coverage of Tokyo collab cafes and pop culture districts.*

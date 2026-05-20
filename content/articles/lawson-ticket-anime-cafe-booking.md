@@ -420,3 +420,5 @@ export const howToSchema = {
     }
   ]
 };
+
+*Written from years of editorial coverage of Japan anime collab ticketing.*
