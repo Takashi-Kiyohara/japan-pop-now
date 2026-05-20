@@ -32,6 +32,9 @@
   "optionalDependencies": {
     "lightningcss-linux-x64-gnu": "^1.29.0"
   },
+  "overrides": {
+    "protobufjs": "^7.5.8"
+  },
   "devDependencies": {
     "@playwright/test": "^1.59.1",
     "@tailwindcss/postcss": "^4",
