@@ -86,7 +86,10 @@ function authorBoxBound(article) {
   return true || /AuthorBox|<AuthorBox/.test(article.content) // route-injected for all (page.tsx:439)
 }
 
-function scoreA(article, slug) {
+// scoreA accepts a partial scores object so branch (c) can read scoreC's
+// wikimediaRatio + igBlockCount without re-computing. Caller must compute
+// scoreC BEFORE scoreA (see main loop order).
+function scoreA(article, slug, scoresPartial = {}) {
   const imgs = extractImages(article)
   const fp = imgs.filter((s) => isFirstParty(s) === true).length
   const firstPartyRatio = ratio(fp, imgs.length)
@@ -100,7 +103,33 @@ function scoreA(article, slug) {
   if (authorBound(article.frontmatter) && advisoryMarker(article.frontmatter, slug) && officialPress) {
     return { pass: true, branch: 'b_advisory', firstPartyRatio: round4(firstPartyRatio), firstHandPara, officialPress: true }
   }
-  return { pass: false, branch: 'fail', firstPartyRatio: round4(firstPartyRatio), firstHandPara, officialPress }
+  // (c) ESC-2 hybrid (b): advisory-without-press, gated by quality signal
+  // (low Wikimedia ratio ≤ 0.3 + IG ≥ 3 + AuthorBox). Uses authorBoxBound
+  // helper for architectural consistency with scoreG(b) — AuthorBox is
+  // route-injected at app/articles/[slug]/page.tsx for every article, so
+  // raw-content /AuthorBox/ regex would be always-false. Memory
+  // feedback_no_first_person_fabrication permits this branch only when the
+  // article meets advisory editorial quality bar (IG ≥ 3, not 1).
+  const wikimediaRatio = scoresPartial.C?.wikimediaRatio ?? 1.0
+  const igBlockCount = scoresPartial.C?.igBlockCount ?? 0
+  if (
+    authorBound(article.frontmatter) &&
+    advisoryMarker(article.frontmatter, slug) &&
+    authorBoxBound(article) &&
+    wikimediaRatio <= 0.3 &&
+    igBlockCount >= 3
+  ) {
+    return {
+      pass: true, branch: 'c_advisory_no_press',
+      firstPartyRatio: round4(firstPartyRatio), firstHandPara, officialPress: false,
+      wikimediaRatio: round4(wikimediaRatio), igBlockCount,
+    }
+  }
+  return {
+    pass: false, branch: 'fail',
+    firstPartyRatio: round4(firstPartyRatio), firstHandPara, officialPress,
+    wikimediaRatio: round4(wikimediaRatio), igBlockCount,
+  }
 }
 
 async function scoreB(article, slug, competitorCache) {
@@ -195,7 +224,15 @@ function scoreF(article) {
 
 // scoreG — user ESC-1 option-Y code (verbatim logic), authorBoxBound
 // reality-grounded per note above.
-function scoreG(article, slug) {
+//
+// ESC-2 hybrid (b): scoreG(c) added per user spec ("advisory + AuthorBox +
+// IG ≥ 3、press 不要"). Functionally subordinate to scoreG(b) in the current
+// article corpus — (b) is already "press 不要" and passes for any author +
+// advisory marker + AuthorBox (always-true), so the (c) branch is reached
+// only when (b) fails, which the current author/marker check makes rare.
+// Kept for audit-trail parallelism with scoreA(c) + future tightening of
+// scoreG(b) if quality-gate tightening is decided in a follow-up cycle.
+function scoreG(article, slug, scoresPartial = {}) {
   const firstHandPara = countFirstHandParagraphs(article.content)
   if (firstHandPara >= 1) return { pass: true, branch: 'a_firsthand', firstHandPara }
   const fm = article.frontmatter
@@ -205,7 +242,18 @@ function scoreG(article, slug) {
   if (ab && am && abx) {
     return { pass: true, branch: 'b_advisory', authorBound: ab, advisoryMarker: am, authorBoxPresent: abx }
   }
-  return { pass: false, branch: 'fail', firstHandPara, authorBound: ab, advisoryMarker: am, authorBoxPresent: abx }
+  // (c) advisory + AuthorBox + IG ≥ 3 — quality-gated press-less path
+  const igBlockCount = scoresPartial.C?.igBlockCount ?? 0
+  if (ab && am && abx && igBlockCount >= 3) {
+    return {
+      pass: true, branch: 'c_advisory_no_press',
+      authorBound: ab, advisoryMarker: am, authorBoxPresent: abx, igBlockCount,
+    }
+  }
+  return {
+    pass: false, branch: 'fail',
+    firstHandPara, authorBound: ab, advisoryMarker: am, authorBoxPresent: abx, igBlockCount,
+  }
 }
 
 // R19-S4: user check-in #4 (2026-05-19) — explicitly approved these 4 for
@@ -270,15 +318,17 @@ async function main() {
   const results = []
   for (const article of articles) {
     const slug = article.slug
-    const scores = {
-      A: scoreA(article, slug),
-      B: await scoreB(article, slug, competitorCache),
-      C: scoreC(article),
-      D: scoreD(article, slug),
-      E: await scoreE(article, baseline),
-      F: scoreF(article),
-      G: scoreG(article, slug),
-    }
+    // ESC-2 hybrid (b): scoreC computed first so scoreA(c) + scoreG(c) can
+    // read wikimediaRatio + igBlockCount from it. Other axes have no
+    // cross-axis dependency, original order preserved otherwise.
+    const scores = {}
+    scores.C = scoreC(article)
+    scores.A = scoreA(article, slug, scores)
+    scores.B = await scoreB(article, slug, competitorCache)
+    scores.D = scoreD(article, slug)
+    scores.E = await scoreE(article, baseline)
+    scores.F = scoreF(article)
+    scores.G = scoreG(article, slug, scores)
     const passCount = Object.values(scores).filter((s) => s.pass === true).length
     let bucket = decideBucket(scores, passCount, article.frontmatter, today, slug)
     let preserve_override = null
