@@ -17,6 +17,7 @@ imageNote: >-
   disclosure are the permanent state. Audit doc:
   docs/audit/collab-image-exhausted-20260427.md
 author: Takapon
+voice: "advisory"
 excerpt: >-
   Planning to visit the My Hero Academia Cafe in Ikebukuro in 2026? This
   practical guide explains the dates, why Ikebukuro is the best base, and how to
@@ -25,6 +26,9 @@ relatedSlugs: []
 wpPostId: 833
 ---
 
+## TL;DR
+
+My Hero Academia "Diner" pop-up cafe (DECOTTO by animate cafe Ikebukuro) の visitor guide。**注意: イベントは 2026-04-26 で終了済 (history reference 用、frontmatter robots:noindex 設定済)。** アクセス: Ikebukuro 駅周辺、Sunshine City 近接 (本文 §Why Ikebukuro 参照)。営業時間: 終了済 (April 3-26, 2026)。価格目安: collab menu 単価は公式リリース時点の値、本文に specific ¥ 記載なし (P1-b 教訓に従い generic)。後続 cafe 情報は本文末リンク経由 (MHA Waffle Diner 2026 / Tokyo Anime Collab Cafes Spring 2026 へ Klook + 予約参照)。
 
 <div className="jpn-warning"><strong>Event ended (May 6, 2026 update):</strong> The My Hero Academia 'Diner' pop-up at DECOTTO by Animate Cafe Ikebukuro ran <strong>April 3 – April 26, 2026</strong> and has since closed. This article is preserved as a historical reference. For current cafe options, see <a href="/articles/tokyo-anime-collab-cafes-spring-2026">Tokyo Anime Collab Cafes Spring 2026</a> or the <a href="/articles/my-hero-academia-waffle-diner-ikebukuro-2026">MHA Waffle Diner Ikebukuro 2026</a> deep-dive.</div>
 
