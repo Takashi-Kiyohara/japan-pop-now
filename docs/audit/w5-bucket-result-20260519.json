@@ -1904,7 +1904,7 @@
           "pass": true
         },
         "B": {
-          "cosine": 0.2142,
+          "cosine": 0.2303,
           "pass": true,
           "source": "press"
         },
@@ -1921,11 +1921,11 @@
         "E": {
           "bpZ": -0.5,
           "bp_hits": 0,
-          "emDashZ": 1.5295,
-          "em_dash_density": 0.6425,
+          "emDashZ": 1.5202,
+          "em_dash_density": 0.6412,
           "pass": true,
-          "sd": 23.9763,
-          "sdZ": 1.8868,
+          "sd": 23.9456,
+          "sdZ": 1.877,
           "source": "composite_regex_only"
         },
         "F": {
@@ -2221,7 +2221,7 @@
           "pass": true
         },
         "B": {
-          "cosine": 0.384,
+          "cosine": 0.3725,
           "pass": true,
           "source": "press"
         },
@@ -2238,11 +2238,11 @@
         "E": {
           "bpZ": -0.5,
           "bp_hits": 0,
-          "emDashZ": -0.3501,
-          "em_dash_density": 0.3927,
+          "emDashZ": -0.3588,
+          "em_dash_density": 0.3915,
           "pass": true,
-          "sd": 21.2718,
-          "sdZ": 1.028,
+          "sd": 21.2507,
+          "sdZ": 1.0213,
           "source": "composite_regex_only"
         },
         "F": {
@@ -4722,11 +4722,11 @@
         "E": {
           "bpZ": -0.5,
           "bp_hits": 0,
-          "emDashZ": -0.3753,
-          "em_dash_density": 0.3893,
+          "emDashZ": -0.5951,
+          "em_dash_density": 0.3601,
           "pass": true,
-          "sd": 37.8171,
-          "sdZ": 6.2815,
+          "sd": 37.771,
+          "sdZ": 6.2669,
           "source": "composite_regex_only"
         },
         "F": {
