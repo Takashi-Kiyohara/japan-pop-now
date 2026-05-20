@@ -13,6 +13,7 @@ featuredImageAlt: >-
   pickup
 imageCredit: 'Photo: Syced / Wikimedia Commons, CC0'
 author: Takapon
+voice: "advisory"
 excerpt: >-
   Skip the heavy suitcase shuffle. Here is exactly how takkyubin (Japanese
   luggage forwarding) works, costs ¥2,000-3,000 per bag, and how to use it so
@@ -20,6 +21,11 @@ excerpt: >-
 relatedSlugs: []
 wpPostId: 612
 ---
+
+## TL;DR
+
+Japan 国内 luggage forwarding (takkyubin) 2026 visitor guide。アクセス: Yamato / Sagawa convenience store + hotel 受付 (全国)。営業時間: 24 時間受付 (集荷時刻は店舗別)。価格目安: ¥2,000-3,000 per bag (Yamato / Sagawa 本文 verbatim §2+4+18)。予約は Yamato / Sagawa 公式 / hotel concierge 経由。
+
 Japan Luggage Forwarding 2026: Ship Your Bags for ¥2,000 Between Cities
 Skip the heavy suitcase shuffle. Here’s exactly how takuhaibin (Japanese luggage forwarding) works, costs ¥2,000-3,000 per bag, and how to use it so you actually enjoy your trip instead of playing pack mule between hotels.
 

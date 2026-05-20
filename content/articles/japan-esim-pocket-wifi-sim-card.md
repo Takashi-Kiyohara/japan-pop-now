@@ -13,6 +13,7 @@ featuredImageAlt: >-
   visitors
 imageCredit: 'Photo: Z thomas / Wikimedia Commons, CC BY-SA 4.0'
 author: Takapon
+voice: "advisory"
 excerpt: >-
   Japan eSIM vs pocket WiFi vs physical SIM card 2026: provider rate ranges,
   coverage maps, activation steps, and which option fits solo, family, and group
@@ -20,6 +21,10 @@ excerpt: >-
 relatedSlugs: []
 wpPostId: 455
 ---
+
+## TL;DR
+
+Japan e-SIM / Pocket WiFi / SIM card 2026 比較 visitor guide。アクセス: airport 受取 (Narita / Haneda) or オンライン pre-order。営業時間: 24 時間オンライン手配可。価格目安: IIJmio eSIM 2GB ¥3,300 / Rakuten Unlimited ¥3,278 (30 日、本文 verbatim §69-70)、airport SIM ¥3,000-5,000 / 7-15 日 (§138)。予約は IIJmio / Rakuten / Klook 経由。
 
 *All prices and plan details verified against provider websites.*
 

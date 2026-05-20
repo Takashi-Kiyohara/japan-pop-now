@@ -10,6 +10,7 @@ tags: []
 featuredImage: /images/articles/ghibli-park-complete-guide-2026/featured.jpg
 featuredImageAlt: Mononoke Village walking path at Ghibli Park in Aichi Prefecture
 author: Takapon
+voice: "advisory"
 excerpt: >-
   Ghibli Park has five themed areas across the Expo 2005 Aichi Park in Nagakute.
   Tickets range ¥1,000-7,800, every ticket requires advance purchase, and
@@ -18,6 +19,10 @@ excerpt: >-
 relatedSlugs: []
 wpPostId: 750
 ---
+
+## TL;DR
+
+Ghibli Park 2026 5 areas (Aichi Nagakute) visitor guide。アクセス: Expo 2005 Aichi Commemorative Park 内 (本文 §access 参照)。営業時間: Park individual (公式参照)。価格目安: 個別 area pass ¥1,000- / Premium All-Area Pass ¥7,800 (週末、本文 verbatim §4+15+25)、advance purchase 必須。予約は Ghibli Park 公式 / Klook 経由。
 
 *Last updated: May 2026.*
 
