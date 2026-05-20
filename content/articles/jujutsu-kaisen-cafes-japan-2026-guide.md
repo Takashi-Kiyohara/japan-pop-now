@@ -42,7 +42,7 @@ The format also fits 2026 travel patterns well. As more visitors extend trips be
 
 | Item | Details |
 | --- | --- |
-| Event | the 5th Anniversary cafe at Sweets Paradise 2026 |
+| Event | 5th Anniversary Cafe at Sweets Paradise 2026 |
 | Start date | April 2, 2026 |
 | Scale | 9 cities |
 | Early-opening cities | Tokyo, Osaka, Hiroshima |
@@ -52,7 +52,7 @@ The format also fits 2026 travel patterns well. As more visitors extend trips be
 
 
 ## Which cities are included?
-According to the event information, the first wave begins in **Tokyo, Osaka, and Hiroshima** from **April 2 to April 29, 2026**. A second wave in **across the seven-city tour (Yokohama through Fukuoka), and Fukuoka** runs from **April 11 to April 29, 2026**.[1]
+According to the event information, the first wave begins in **Tokyo, Osaka, and Hiroshima** from **April 2 to April 29, 2026**. A second wave across **Yokohama, Omiya, Sendai, Nagoya, Kyoto, and Fukuoka** runs from **April 11 to April 29, 2026**.[1]
 
 This staggered opening matters because it changes which city makes sense for your itinerary.
 
@@ -65,7 +65,7 @@ This staggered opening matters because it changes which city makes sense for you
 ## Is Tokyo or Osaka the better choice?
 
 
-![Sweets Paradise Umeda shop exterior in Osaka — one of the host venues for the this anniversary cafe collab 2026](/images/articles/jujutsu-kaisen-cafes-japan-2026-guide/body-wikimedia-1.webp)
+![Sweets Paradise Umeda shop exterior in Osaka — one of the host venues for the JJK 5th Anniversary Cafe 2026](/images/articles/jujutsu-kaisen-cafes-japan-2026-guide/body-wikimedia-1.webp)
 *Sweets Paradise Umeda (Osaka) — host venue for the Jujutsu Kaisen 5th Anniversary Cafe 2026 first-wave Osaka location. Image: Asanagi / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:SWEETS_PARADISE_Umeda_shop.jpg), licensed CC-BY-SA-4.0.*
 
 For most international visitors, **Tokyo and Osaka are the most practical branches**, but they serve slightly different trip styles.
@@ -104,7 +104,7 @@ Reservations are made **exclusively through the SP app**.[1]
 
 | Rule | Details |
 | --- | --- |
-| Booking method | the official booking app only |
+| Booking method | Official Sweets Paradise app only |
 | Opening window | Reservations open 5 weeks before the visit date |
 | Closing window | Until 8:00 PM on the previous day, subject to availability |
 | Allocation | First come, first served |
@@ -117,7 +117,7 @@ For international visitors, this is a major planning issue. If you do not prepar
 
 
 ![Sweets Paradise Nagoya Spiral Towers branch storefront — one of the second-wave host venues for the JJK 5th Anniversary Cafe](/images/articles/jujutsu-kaisen-cafes-japan-2026-guide/body-wikimedia-2.webp)
-*Sweets Paradise Nagoya Spiral Towers — the Nagoya second-wave host of the the 5th Anniversary cafe (April 11-29, 2026). Captured by Tokumeigakarinoaoshima / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sweets_Paradise_Nagoya_Spiral_Towers.JPG), CC BY-SA 3.0.*
+*Sweets Paradise Nagoya Spiral Towers — the Nagoya second-wave host of the 5th Anniversary Cafe (April 11-29, 2026). Captured by Tokumeigakarinoaoshima / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Sweets_Paradise_Nagoya_Spiral_Towers.JPG), CC BY-SA 3.0.*
 
 The 5th Anniversary Cafe features a themed menu, new illustration art, and multiple purchase bonuses. Reported details include:
 
@@ -141,7 +141,7 @@ This means the event is not just about the meal. Beyond food it doubles as a **b
 | Flexible late-April visitor | Second-wave cities may be easier to fit into the schedule |
 
 
-![Hiroshima PARCO building facade — a Sweets Paradise Hiroshima Parco branch hosts the first-wave this anniversary cafe collab](/images/articles/jujutsu-kaisen-cafes-japan-2026-guide/body-wikimedia-4.webp)
+![Hiroshima PARCO building facade — Sweets Paradise Hiroshima Parco branch hosts the first-wave JJK cafe collab](/images/articles/jujutsu-kaisen-cafes-japan-2026-guide/body-wikimedia-4.webp)
 *Hiroshima PARCO — Sweets Paradise's Hiroshima branch sits in this complex and is part of the first-wave Jujutsu Kaisen 5th Anniversary Cafe rollout (April 2-29, 2026). Pictured: Taisyo / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Hiroshima_PARCO_PART1_201109.JPG), CC BY 3.0.*
 
 
@@ -180,12 +180,12 @@ Social media makes anime cafes look frictionless. Realistically, availability, a
 
 ## FAQ
 
-### When does the the 5th Anniversary cafe start?
+### When does the 5th Anniversary Cafe start?
 The event starts on **April 2, 2026** in Tokyo, Osaka, and Hiroshima.[1]
 
 
 ### Which cities have the Jujutsu Kaisen Cafe in 2026?
-Current coverage runs in **Tokyo, Osaka, Hiroshima, in the second-wave cities (Yokohama–Kyoto), and Fukuoka**.[1]
+Current coverage runs in **Tokyo, Osaka, Hiroshima, the second-wave cities (Yokohama–Kyoto), and Fukuoka**.[1]
 
 
 ### Do I need a reservation?
@@ -210,7 +210,7 @@ After this guide, the most useful next reads are:
 
 ## Sources
 
-1. Essential Japan, “this anniversary cafe collab at Sweets Paradise 2026” — https://essential-japan.com/events/jujutsu-kaisen-5th-anniversary-cafe-at-sweets-paradise-2026/
+1. Essential Japan, “Jujutsu Kaisen 5th Anniversary Cafe at Sweets Paradise 2026” — https://essential-japan.com/events/jujutsu-kaisen-5th-anniversary-cafe-at-sweets-paradise-2026/
 2. TTG Asia, “Hoshino report highlights shift in Japan travel towards regional and longer stays” — https://www.ttgasia.com/2026/04/01/hoshino-report-highlights-shift-in-japan-travel-towards-regional-and-longer-stays/
 
 Planning a trip to Tokyo?
