@@ -391,7 +391,7 @@ Direct operators sometimes request bank transfer (especially for private tours).
 - [Akihabara Complete Guide 2026](/articles/akihabara-complete-guide-2026)
 - [Ikebukuro Anime Guide 2026](/articles/ikebukuro-anime-guide-2026)
 - [Shibuya & Harajuku Guide](/articles/shibuya-harajuku-pop-culture-guide)
-- [Nakano Broadway Guide](/articles/nakano-broadway-guide)
+- Nakano Broadway Guide
 - [How to Book Collab Cafes](/articles/how-to-book-anime-collab-cafe-japan)
 - [Anime Merch Shopping Guide](/articles/anime-merch-shopping-guide-japan)
 

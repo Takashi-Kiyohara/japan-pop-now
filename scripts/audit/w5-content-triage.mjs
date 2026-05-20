@@ -16,6 +16,7 @@
 import fs from 'node:fs'
 import path from 'node:path'
 import process from 'node:process'
+import { execSync } from 'node:child_process'
 import {
   REPO, loadAllArticles, stripSections, countEmDash, wordCount,
   countBoilerplate, stdDevSentenceLength, dot, round4, extractImages,
@@ -207,8 +208,22 @@ function scoreG(article, slug) {
   return { pass: false, branch: 'fail', firstHandPara, authorBound: ab, advisoryMarker: am, authorBoxPresent: abx }
 }
 
-function deleteRouting(frontmatter, today) {
+// R19-S4: user check-in #4 (2026-05-19) — explicitly approved these 4 for
+// IMMEDIATE stage-A 410 (thin evergreen, no rewrite planned; skip the 90d
+// grace for early-HCU recovery). Config-driven so the override survives
+// re-runs (idempotent) instead of a hand-edited JSON a re-run would revert.
+const STAGE_A_OVERRIDES = new Set([
+  'animejapan-comiket-2026-guide',
+  'gachapon-guide-japan',
+  'nakano-broadway-guide',
+  'ship-anime-figures-merch-home-japan',
+])
+
+function deleteRouting(frontmatter, today, slug) {
   const todayDate = new Date(today)
+  if (slug && STAGE_A_OVERRIDES.has(slug)) {
+    return { type: 'delete', stage: 'A', routing: '410', reason: 'user check-in #4 (2026-05-19): thin evergreen, immediate 410', overridden_from: 'C' }
+  }
   // SoT (P-3 + Mario Cafe precedent): stage B first — link equity > canonical
   if (frontmatter.supersededBy) {
     return { type: 'delete', stage: 'B', routing: '301', target: frontmatter.supersededBy, manual_gate: true }
@@ -225,10 +240,14 @@ function deleteRouting(frontmatter, today) {
   }
 }
 
-function decideBucket(scores, passCount, frontmatter, today) {
+function decideBucket(scores, passCount, frontmatter, today, slug) {
   const a = scores.A.pass, b = scores.B.pass, c = scores.C.pass, g = scores.G.pass, f = scores.F.pass
+  // R19-S4: user-approved immediate-410 slugs route stage A even though
+  // their axis score (passCount 2) would already → delete; explicit so a
+  // future score shift can't silently re-bucket an approved deletion.
+  if (STAGE_A_OVERRIDES.has(slug)) return deleteRouting(frontmatter, today, slug)
   if (passCount <= 2 || (a === false && b === false && c === false && g === false)) {
-    return deleteRouting(frontmatter, today)
+    return deleteRouting(frontmatter, today, slug)
   }
   if (passCount >= 6 && a && f && g) return { type: 'maintain' }
   return { type: 'fix', noindex_quarantine: true, manual_reaudit_gate: true }
@@ -261,7 +280,7 @@ async function main() {
       G: scoreG(article, slug),
     }
     const passCount = Object.values(scores).filter((s) => s.pass === true).length
-    let bucket = decideBucket(scores, passCount, article.frontmatter, today)
+    let bucket = decideBucket(scores, passCount, article.frontmatter, today, slug)
     let preserve_override = null
     if (PRESERVE_LIST[slug] && bucket.type !== 'maintain') {
       preserve_override = {
@@ -335,8 +354,36 @@ async function main() {
   console.log(`[triage] press=${pressN} competitor=${competitorN} manual_SME=${manualN} | axis% ${Object.entries(meta._meta.axis_pass_pct).map(([k, v]) => k + '=' + v).join(' ')}`)
 
   if (PR_MODE) {
-    const failing = results.filter((r) => r.bucket.type !== 'maintain' && !PRESERVE_LIST[r.slug])
-    if (failing.length > 0) { console.error(`[pr-gate] ${failing.length} article(s) < 6 PASS`); process.exit(1) }
+    // R19-S4 F1 (external-Critic fix): the old gate filtered the WHOLE
+    // corpus, so the 70 pre-existing fix-bucket articles made every
+    // content PR exit 1 (incl. PR #73's link-scrub) — the gate was
+    // unmergeable-by-construction. Correct purpose: block a NEW sub-par
+    // article entering the index, not pre-existing/scrub/delete changes.
+    // Scope to article files ADDED in this PR (vs base), and exempt
+    // PRESERVE + user-approved delete (STAGE_A_OVERRIDES).
+    const base = process.env.PR_BASE || 'origin/main'
+    let addedSlugs = []
+    try {
+      addedSlugs = execSync(
+        `git diff --diff-filter=A --name-only ${base}...HEAD -- content/articles`,
+        { cwd: REPO, encoding: 'utf-8' },
+      ).split('\n').map((f) => f.trim())
+        .filter((f) => /\.mdx?$/.test(f) && !f.endsWith('.deprecated'))
+        .map((f) => path.basename(f).replace(/\.mdx?$/, ''))
+    } catch {
+      console.error('[pr-gate] git diff unavailable — gate skipped (no added-article context)')
+      addedSlugs = []
+    }
+    const failing = results.filter((r) =>
+      addedSlugs.includes(r.slug) &&
+      r.bucket.type !== 'maintain' &&
+      !PRESERVE_LIST[r.slug] &&
+      !STAGE_A_OVERRIDES.has(r.slug))
+    if (failing.length > 0) {
+      console.error(`[pr-gate] ${failing.length} newly-added article(s) < 6 PASS: ${failing.map((r) => r.slug).join(', ')}`)
+      process.exit(1)
+    }
+    console.log(`[pr-gate] PASS — ${addedSlugs.length} added article(s) checked, 0 sub-par`)
   }
 }
 

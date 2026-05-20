@@ -218,7 +218,17 @@ export function extractImages(article) {
 export function isFirstParty(imgSrc) {
   if (/wikimedia\.org|commons\.wikimedia/.test(imgSrc)) return false
   if (/unsplash|pexels|shutterstock|istockphoto|gettyimages|pixabay/.test(imgSrc)) return false
-  if (/^https?:\/\//i.test(imgSrc) && !/japan-pop-now\.com/.test(imgSrc)) return false // external host
+  // R19-S4 F4 (CodeQL): substring `/japan-pop-now\.com/` matched
+  // attacker hosts like `japan-pop-now.com.evil.tld`. Parse the URL and
+  // check the actual hostname (exact or true sub-domain). (CodeQL flagged
+  // this as w5-content-triage.mjs:188 — line drifted from my ESC-1/S4
+  // edits; the only real host check is here in w5-lib.isFirstParty.)
+  if (/^https?:\/\//i.test(imgSrc)) {
+    let host = ''
+    try { host = new URL(imgSrc).hostname.toLowerCase() } catch { return false }
+    const ours = host === 'japan-pop-now.com' || host.endsWith('.japan-pop-now.com')
+    if (!ours) return false // external host
+  }
   if (/^\/images\/articles\/[^/]+\/(IMG_|moe-shot|takashi-)/.test(imgSrc)) return true
   if (/^\/images\//.test(imgSrc)) return true // local owned asset (CLAUDE.md image policy)
   return null
@@ -280,8 +290,8 @@ export async function fetchPressBody(url) {
     if (!r.ok) return null
     const html = await r.text()
     return html
-      .replace(/<script[\s\S]*?<\/script>/gi, ' ')
-      .replace(/<style[\s\S]*?<\/style>/gi, ' ')
+      .replace(/<script[\s\S]*?<\/script\s*>/gi, ' ') // R19-S4 F4: tolerate `</script >`
+      .replace(/<style[\s\S]*?<\/style\s*>/gi, ' ')
       .replace(/<[^>]+>/g, ' ')
       .replace(/\s+/g, ' ')
       .trim()

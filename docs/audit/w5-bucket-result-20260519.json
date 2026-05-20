@@ -38,9 +38,9 @@
     },
     "counts": {
       "delete": 4,
-      "delete_A_410": 0,
+      "delete_A_410": 4,
       "delete_B_301": 0,
-      "delete_C_noindex": 4,
+      "delete_C_noindex": 0,
       "fix": 70,
       "maintain": 14
     },
@@ -578,10 +578,10 @@
     },
     {
       "bucket": {
-        "auto_promote": "stage_A_410",
-        "routing": "noindex",
-        "stage": "C",
-        "ttl_expires": "2026-08-17T00:00:00.000Z",
+        "overridden_from": "C",
+        "reason": "user check-in #4 (2026-05-19): thin evergreen, immediate 410",
+        "routing": "410",
+        "stage": "A",
         "type": "delete"
       },
       "passCount": 2,
@@ -1969,10 +1969,10 @@
     },
     {
       "bucket": {
-        "auto_promote": "stage_A_410",
-        "routing": "noindex",
-        "stage": "C",
-        "ttl_expires": "2026-08-17T00:00:00.000Z",
+        "overridden_from": "C",
+        "reason": "user check-in #4 (2026-05-19): thin evergreen, immediate 410",
+        "routing": "410",
+        "stage": "A",
         "type": "delete"
       },
       "passCount": 2,
@@ -3898,10 +3898,10 @@
     },
     {
       "bucket": {
-        "auto_promote": "stage_A_410",
-        "routing": "noindex",
-        "stage": "C",
-        "ttl_expires": "2026-08-17T00:00:00.000Z",
+        "overridden_from": "C",
+        "reason": "user check-in #4 (2026-05-19): thin evergreen, immediate 410",
+        "routing": "410",
+        "stage": "A",
         "type": "delete"
       },
       "passCount": 2,
@@ -4292,7 +4292,7 @@
           "pass": true
         },
         "B": {
-          "cosine": 0.3892,
+          "cosine": 0.3615,
           "pass": true,
           "source": "press"
         },
@@ -4354,7 +4354,7 @@
           "pass": false
         },
         "B": {
-          "cosine": 0.3479,
+          "cosine": 0.3156,
           "pass": true,
           "source": "press"
         },
@@ -4969,10 +4969,10 @@
     },
     {
       "bucket": {
-        "auto_promote": "stage_A_410",
-        "routing": "noindex",
-        "stage": "C",
-        "ttl_expires": "2026-08-17T00:00:00.000Z",
+        "overridden_from": "C",
+        "reason": "user check-in #4 (2026-05-19): thin evergreen, immediate 410",
+        "routing": "410",
+        "stage": "A",
         "type": "delete"
       },
       "passCount": 2,
@@ -5249,7 +5249,7 @@
           "pass": false
         },
         "B": {
-          "cosine": 0.3889,
+          "cosine": 0.3948,
           "pass": true,
           "source": "press"
         },

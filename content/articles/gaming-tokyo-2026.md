@@ -156,7 +156,7 @@ See our [Akihabara complete guide](/articles/akihabara-complete-guide-2026/), [I
 - [Akihabara Complete Guide 2026](/articles/akihabara-complete-guide-2026)
 - [Ikebukuro Anime Guide 2026](/articles/ikebukuro-anime-guide-2026)
 - [Japanese Game Centers & Arcades Guide](/articles/game-centers-arcades-japan)
-- [Gachapon Guide Japan](/articles/gachapon-guide-japan)
+- Gachapon Guide Japan
 - [Tokyo Anime District Guide](/articles/tokyo-anime-district-guide)
 - [Anime Merch Shopping Guide Japan](/anime-merch-shopping-guide/)
 Planning a trip to Tokyo?

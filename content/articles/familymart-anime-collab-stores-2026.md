@@ -86,7 +86,7 @@ Lawson runs smaller collabs (2–3 weeks, focus on food items, less store redesi
 **9:30–11:00 AM:** Durarara!! FamilyMart (¥2,000–¥5,000).
 **11:15 AM:** Ikebukuro anime spots — Sunshine City, Animate, Mandarake (1–2 hours). See [our Ikebukuro guide](/articles/ikebukuro-anime-guide-2026/).
 **1:00 PM:** Lunch (¥1,200–¥1,800).
-**2:00–5:00 PM:** More Ikebukuro or head to Shibuya. For capsule toys, check our [gachapon guide](/articles/gachapon-guide-japan/).
+**2:00–5:00 PM:** More Ikebukuro or head to Shibuya. For capsule toys, check our gachapon guide.
 **Total: ¥8,000–¥16,000 (USD $55–$110)**
 
 ## Pro Tips
