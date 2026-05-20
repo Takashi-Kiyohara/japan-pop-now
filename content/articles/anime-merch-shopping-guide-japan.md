@@ -13,7 +13,7 @@ relatedSlugs: []
 wpPostId: 103
 ---
 **More Shopping Resources**
-Need to ship your haul home? Read our [Guide to Shipping Anime Merch from Japan](/articles/ship-anime-figures-merch-home-japan). Can’t visit Japan? Check our [Proxy Shopping Guide for 2026](/articles/japan-proxy-shopping-2026).
+Need to ship your haul home? Read our Guide to Shipping Anime Merch from Japan. Can’t visit Japan? Check our [Proxy Shopping Guide for 2026](/articles/japan-proxy-shopping-2026).
 *Last updated: May 6, 2026.*
 Image: Collabo Cafe
 **Anime merchandise shopping in Japan offers prices 30-50% lower than international retail, with exclusive items unavailable anywhere else, across dedicated stores in districts like Akihabara, Ikebukuro, and Nakano Broadway.** Japan’s anime merchandise market exceeds $5 billion annually, and the country is home to flagship stores for every major franchise. Visitors can find figures, apparel, artbooks, limited-edition collaborations, and secondhand rare items at all price points from 100 yen gachapon to 50,000+ yen premium figures.
@@ -35,7 +35,7 @@ Buying anime merchandise in Japan isn’t just cheaper — it’s a completely d
 For anime fans planning a trip to Japan, merch shopping is often the single biggest budget item after flights and hotels. This guide covers where to shop, what to buy, how much to budget, and the practical tips that will save you money and suitcase space.
 Quick decision guide
 If you only have one shopping block in Tokyo, choose your route by goal first instead of trying to visit every store.
-- **Want the cheapest figures and older series goods?** Start with [Nakano Broadway](/articles/nakano-broadway-guide) and Mandarake.
+- **Want the cheapest figures and older series goods?** Start with Nakano Broadway and Mandarake.
 - **Want current hit titles, bonuses, and easy browsing?** Start with [Ikebukuro](/articles/ikebukuro-anime-guide-2026) and Animate.
 - **Want a full otaku day with arcades, gachapon, and big flagship stores?** Start with [Akihabara](/articles/akihabara-complete-guide-2026).
 - **Still deciding by series rather than district?** Use the [Find by Anime hub](/category/destinations) first, then come back here for the shopping plan.
@@ -74,7 +74,7 @@ Discover authentic anime merchandise and collectibles:
 As an Amazon Associate, we may earn from qualifying purchases.
 
 ## Where to Shop: Tokyo’s Best Anime Merch Stores
-Tokyo has several major anime shopping districts — [Akihabara](/articles/akihabara-complete-guide-2026), [Ikebukuro](/articles/ikebukuro-anime-guide-2026), and [Nakano Broadway](/articles/nakano-broadway-guide) are the big three. See our [Tokyo Anime District Guide](/articles/tokyo-anime-district-guide) for an overview of all five areas.
+Tokyo has several major anime shopping districts — [Akihabara](/articles/akihabara-complete-guide-2026), [Ikebukuro](/articles/ikebukuro-anime-guide-2026), and Nakano Broadway are the big three. See our [Tokyo Anime District Guide](/articles/tokyo-anime-district-guide) for an overview of all five areas.
 
 ![Animate Akihabara flagship anime merch shop exterior on Chuo-dori in Tokyo](/images/articles/anime-merch-shopping-guide-japan/body-wikimedia-1.webp)
 *Photo: Dick Thomas Johnson / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Animate_Akihabara_(53152038454).jpg), CC BY 2.0.*
@@ -87,7 +87,7 @@ Animate stores run their own exclusive merchandise lines and frequently offer pu
 **Key locations:** Ikebukuro (flagship — 9 above-ground + 2 basement floors), Akihabara, Shinjuku, Shibuya, Ikebukuro Otome Road (second location focused on BL/otome titles).
 
 ### Mandarake
-*Mandarake’s flagship is in Nakano Broadway — see our [Nakano Broadway Guide](/articles/nakano-broadway-guide) for the full floor map.*
+*Mandarake’s flagship is in Nakano Broadway — see our Nakano Broadway Guide for the full floor map.*
 
 ![Mandarake Complex used anime figure and manga shop building in Akihabara Tokyo](/images/articles/anime-merch-shopping-guide-japan/body-wikimedia-2.webp)
 *Photo: street viewer / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mandarake_Complex,_Akihabara.jpg), CC BY 2.0.*
@@ -115,7 +115,7 @@ Most visitors overspend when they buy too many low-priority items early in the d
 *Photo: PhilaSiti / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Interiors_of_Mandarake,_Akibahara.jpg), CC BY-SA 4.0.*
 
 ### What a ¥3,000–¥5,000 anime merch budget gets you
-**Budget-friendly:** Focus on small goods — keychains, acrylic stands, clear files, gacha items, and sticker sheets. Browse Animate’s accessories floor and check [gachapon](/articles/gachapon-guide-japan) machines outside stores. Crane games at [game center](/game-centers-guide-japan/)s can yield figures for less than retail if you’re skillful (or lucky).
+**Budget-friendly:** Focus on small goods — keychains, acrylic stands, clear files, gacha items, and sticker sheets. Browse Animate’s accessories floor and check gachapon machines outside stores. Crane games at [game center](/game-centers-guide-japan/)s can yield figures for less than retail if you’re skillful (or lucky).
 
 ### What a ¥10,000–¥20,000 shopping budget gets you in Tokyo
 **Moderate:** You can pick up 2–3 prize figures, a handful of character goods, some manga volumes, and maybe a T-shirt. This is the sweet spot for most tourists — enough to get meaningful souvenirs without breaking the bank. Mandarake and Surugaya are your best friends at this budget level.
@@ -164,7 +164,7 @@ Amazon Japan ships to 65+ countries. Switch to English in the top menu.
 Usually yes, especially after tax-free savings. Prize figures and secondhand items offer the biggest savings, and new release figures are often cheaper once you include overseas shipping.
 
 ### Where should first-time visitors shop for anime merch in Tokyo?
-If you want the easiest first stop, choose [Ikebukuro](/articles/ikebukuro-anime-guide-2026) for Animate and current mainstream titles. Choose [Akihabara](/articles/akihabara-complete-guide-2026) if you want a full otaku day with arcades, gachapon, and figure stores. Choose [Nakano Broadway](/articles/nakano-broadway-guide) if secondhand treasures and older series matter more than flashy flagship stores.
+If you want the easiest first stop, choose [Ikebukuro](/articles/ikebukuro-anime-guide-2026) for Animate and current mainstream titles. Choose [Akihabara](/articles/akihabara-complete-guide-2026) if you want a full otaku day with arcades, gachapon, and figure stores. Choose Nakano Broadway if secondhand treasures and older series matter more than flashy flagship stores.
 
 ### Can I find Jujutsu Kaisen, Jump, or older anime goods easily?
 Yes, but where you look matters. For current Jump titles such as Jujutsu Kaisen, check Animate and **Jump Shop** first. For older series and out-of-print goods, Mandarake and Surugaya are usually better bets.
@@ -221,8 +221,8 @@ New merchandise launches align with anime seasons (January, April, July, October
 ## More Shopping & Practical Guides
 - [Akihabara Guide 2026: 30+ Shops, Cafes & Hidden Spots](/articles/akihabara-complete-guide-2026/)
 - [Ikebukuro Anime Guide: Animate, Otome Road & Walking Route](/articles/ikebukuro-anime-guide-2026/)
-- [Nakano Broadway Guide: 100+ Vintage Anime & Manga Shops](/articles/nakano-broadway-guide/)
-- [Gachapon Guide: Where to Find, How to Use & What to Collect](/articles/gachapon-guide-japan/)
+- Nakano Broadway Guide: 100+ Vintage Anime & Manga Shops
+- Gachapon Guide: Where to Find, How to Use & What to Collect
 - [Game Centers Guide: Crane Games, Rhythm & Retro Arcades](/articles/game-centers-arcades-japan/)
 - [Tokyo Anime District Guide: Which Neighborhood Matches Your Fandom](/articles/tokyo-anime-district-guide/)
 

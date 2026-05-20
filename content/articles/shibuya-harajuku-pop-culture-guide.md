@@ -154,12 +154,12 @@ Akihabara has the widest selection and the “anime district” atmosphere. [Ike
 - [Tokyo Anime Districts — Complete Guide to Every Pop Culture Neighborhood](/articles/tokyo-anime-district-guide)
 - [Akihabara Complete Guide 2026](/articles/akihabara-complete-guide-2026)
 - [Ikebukuro Anime Guide 2026](/articles/ikebukuro-anime-guide-2026)
-- [Nakano Broadway Guide. Tokyo’s Best-Kept Anime Secret](/articles/nakano-broadway-guide)
+- Nakano Broadway Guide. Tokyo’s Best-Kept Anime Secret
 - [Find Walking Tours on Klook](https://affiliate.klook.com/redirect?aid=117469&aff_adid=1251547&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US/search/?query=shibuya+harajuku+tour&aid=1117469)
 - [Tokyo Anime District Guide: Which Neighborhood Matches Your Fandom](/articles/tokyo-anime-district-guide)
 - [Akihabara Guide 2026: 30+ Shops, Cafes & Hidden Spots](/articles/akihabara-complete-guide-2026)
 - [Ikebukuro Anime Guide: Animate, Otome Road & Walking Route](/articles/ikebukuro-anime-guide-2026)
-- [Nakano Broadway Guide: 100+ Vintage Anime & Manga Shops](/articles/nakano-broadway-guide)
+- Nakano Broadway Guide: 100+ Vintage Anime & Manga Shops
 - [Anime Merch Shopping Guide: Where to Buy & How to Save](/anime-merch-shopping-guide/)
 - [Game Centers Guide: Crane Games, Rhythm & Retro Arcades](/articles/game-centers-arcades-japan)
 Planning a trip to Tokyo?

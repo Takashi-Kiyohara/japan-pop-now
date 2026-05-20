@@ -1,0 +1,32 @@
+# R19-S4 F3 — dependency hygiene + documented security carve-out.
+#
+# Resolved this PR chain:
+#   - `next` HIGH (DoS / cache-poisoning / XSS) → bumped 16.2.2 → 16.2.6
+#     (non-breaking semver-minor; the production-relevant fix).
+#
+# DOCUMENTED CARVE-OUT (accepted risk, not fixable without breakage):
+#   `npm audit` reports CRITICAL `protobufjs` + HIGH `onnxruntime-web` /
+#   `onnx-proto` / `@xenova/transformers`. ALL are TRANSITIVE via
+#   `@xenova/transformers`, which is a **devDependency** used only by the
+#   build-time W5 audit scripts (scripts/audit/w5-*.mjs). It is:
+#     - never imported by the Next.js app (runtime/serverless),
+#     - excluded from the Vercel deploy bundle (.vercelignore: scripts/audit/
+#       + **/.cache/), so it never reaches production or end users,
+#     - the only npm-offered "fix" is downgrading @xenova/transformers to
+#       2.0.1 (isSemVerMajor: true) which breaks the feature-extraction API
+#       the audit pipeline depends on.
+#   Risk is contained to local/CI build-time tooling. Tracked here so the
+#   acceptance is explicit and auditable rather than silently ignored.
+version: 2
+updates:
+  - package-ecosystem: npm
+    directory: "/"
+    schedule:
+      interval: weekly
+    ignore:
+      # Carve-out: build-time devDep, not in prod bundle; upgrade path is
+      # a breaking major. Re-evaluate if a non-breaking patched line ships.
+      - dependency-name: "@xenova/transformers"
+      - dependency-name: "protobufjs"
+      - dependency-name: "onnxruntime-web"
+      - dependency-name: "onnx-proto"

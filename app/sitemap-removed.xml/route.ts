@@ -26,6 +26,11 @@ const REMOVED_URLS = [
   `${BASE}/wp-login.php`,
   `${BASE}/xmlrpc.php`,
   `${BASE}/wp-admin`,
+  // R19-S4 W5 delete bucket — user check-in #4 (2026-05-19), stage-A 410.
+  `${BASE}/articles/animejapan-comiket-2026-guide`,
+  `${BASE}/articles/gachapon-guide-japan`,
+  `${BASE}/articles/nakano-broadway-guide`,
+  `${BASE}/articles/ship-anime-figures-merch-home-japan`,
 ]
 
 export async function GET(): Promise<Response> {

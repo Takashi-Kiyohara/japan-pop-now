@@ -184,7 +184,7 @@ Ikebukuro station has dozens of hotels within 5 minutes walk. Staying here puts 
 
 - [Tokyo Anime District Guide: Which Neighborhood Matches Your Fandom](/articles/tokyo-anime-district-guide/)
 - [Akihabara Guide 2026: 30+ Shops, Cafes & Hidden Spots](/articles/akihabara-complete-guide-2026/)
-- [Nakano Broadway Guide: 100+ Vintage Anime & Manga Shops](/articles/nakano-broadway-guide/)
+- Nakano Broadway Guide: 100+ Vintage Anime & Manga Shops
 - [Shibuya & Harajuku Pop Culture Guide: Nintendo, PARCO & More](/articles/shibuya-harajuku-pop-culture-guide/)
 - [Tokyo Collab Cafes Spring 2026: Currently Open](/articles/tokyo-anime-collab-cafes-spring-2026/)
 - [Anime Merch Shopping Guide: Where to Buy & How to Save](/articles/anime-merch-shopping-guide-japan/)
@@ -216,7 +216,7 @@ Love One Piece? Don’t miss our [One Piece Tokyo Guide](/articles/one-piece-tok
 ## More Area Guides
 
 - [Akihabara Complete Guide 2026](/articles/akihabara-complete-guide-2026)
-- [Nakano Broadway Guide](/articles/nakano-broadway-guide)
+- Nakano Broadway Guide
 - [Shibuya & Harajuku Pop Culture Guide](/articles/shibuya-harajuku-pop-culture-guide)
 - [Osaka Anime Guide — Den Den Town](/articles/osaka-anime-guide-den-den-town)
 - [Kyoto Anime Guide 2026](/articles/kyoto-anime-guide-2026)

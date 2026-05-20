@@ -111,7 +111,7 @@ Pocket WiFi also works with any device, laptops, tablets, older phones, Nintendo
 ### Pocket WiFi downsides
 Battery life is the main headache. Most devices last 8-12 hours, which sounds fine until you’re on hour 10 of exploring Akihabara and your Maps dies right when you need it. I always carry a power bank when using pocket WiFi, it’s essentially mandatory for long days out.
 
-You also need to keep the device with you. If your group splits up for the afternoon (one person at [Nakano Broadway](/articles/nakano-broadway-guide/), another at [Harajuku](/articles/shibuya-harajuku-pop-culture-guide/)), only the person carrying the device has internet. And if you forget to charge it overnight, your morning starts with no connection.
+You also need to keep the device with you. If your group splits up for the afternoon (one person at Nakano Broadway, another at [Harajuku](/articles/shibuya-harajuku-pop-culture-guide/)), only the person carrying the device has internet. And if you forget to charge it overnight, your morning starts with no connection.
 
 Return logistics add a small hassle too. Most rentals require you to drop the device at an airport counter or designated return box before your departure flight. Miss the return and you’ll get charged.
 

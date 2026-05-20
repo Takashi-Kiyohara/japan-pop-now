@@ -72,7 +72,7 @@ Prices range from surprisingly affordable to serious-collector territory. The co
 **Address:** 3-11-12 Sotokanda, Chiyoda-ku, Tokyo
 **Hours:** 12:00–20:00 daily
 **Access:** 5 min walk from JR Akihabara Station, toward Suehirocho
-💡 **Local tip:** The Mandarake in Akihabara and the one in Nakano Broadway carry different stock. If youre a serious collector, visit both (Nakano is 25 min from Akihabara on the Chuo Line, change at Shinjuku). See our [Nakano Broadway Guide](/articles/nakano-broadway-guide) for details.
+💡 **Local tip:** The Mandarake in Akihabara and the one in Nakano Broadway carry different stock. If youre a serious collector, visit both (Nakano is 25 min from Akihabara on the Chuo Line, change at Shinjuku). See our Nakano Broadway Guide for details.
 
 ## The Deep Cuts: What Most Guides Miss
 
@@ -86,7 +86,7 @@ This is the store that retro game enthusiasts from overseas specifically fly to 
 
 ### Akihabara Gachapon Kaikan
 An entire store filled with nothing but gachapon (capsule toy) machines, over 500 of them packed into a single space. The machines dispense miniature figures, keychains, and novelty items for ¥200-500 per turn. Categories include anime characters, realistic miniature food replicas, cats in costumes, tiny furniture sets, and things so absurd they defy description.
-Budget ¥1,000-2,000 and accept that youll probably spend more. Its addictive, the randomness of what youll get is part of the appeal. See our [Complete Gachapon Guide](/articles/gachapon-guide-japan) for detailed tips.
+Budget ¥1,000-2,000 and accept that youll probably spend more. Its addictive, the randomness of what youll get is part of the appeal. See our Complete Gachapon Guide for detailed tips.
 **Address:** 3-15-5 Sotokanda, Chiyoda-ku, Tokyo
 **Hours:** Mon–Thu 11:00–20:00 / Fri–Sat 11:00–22:00 / Sun & Holidays 11:00–19:00
 **Access:** 5 min walk from Akihabara Station (closer to Suehirocho Station: 2 min on foot)
@@ -198,7 +198,7 @@ From Narita Airport: ~90 min by train (Narita Express to Tokyo, transfer to Yama
 **Ueno** (JR, 2 stops) — Ameyoko street market, Ueno Park with its museums, and a completely different atmosphere. Excellent afternoon contrast after a morning in Akihabara.
 **Asakusa** (Tsukuba Express, 5 min direct). Sensoji temple, traditional Tokyo, and street food. Asakusa also has anime connections: Sensoji has hosted Demon Slayer events, making it a subtle pilgrimage spot.
 **Ikebukuro** (JR Yamanote, ~20 min): Tokyos other major otaku hub. Where Akihabara skews male-oriented, Ikebukuros Otome Road caters more to female fans. Animate Ikebukuro is the chains flagship, larger than the Akihabara store. → [Read our Ikebukuro guide](/articles/ikebukuro-anime-guide-2026)
-**Nakano Broadway** (JR Chuo Line via Shinjuku, ~25 min total): A shopping complex filled with specialist anime, manga, and figure shops. Less touristy than Akihabara, with different secondhand stock at Mandarakes Nakano location. Worth the trip for collectors. → [Read our Nakano Broadway guide](/articles/nakano-broadway-guide)
+**Nakano Broadway** (JR Chuo Line via Shinjuku, ~25 min total): A shopping complex filled with specialist anime, manga, and figure shops. Less touristy than Akihabara, with different secondhand stock at Mandarakes Nakano location. Worth the trip for collectors. → Read our Nakano Broadway guide
 **Jimbocho** (walk 10 min west, or Toei Shinjuku Line 1 stop). Tokyos legendary used bookstore district. Dozens of bookshops specializing in everything from rare first editions to manga to academic texts. A completely different kind of treasure hunt.
 
 ### Pre-Order Akihabara Exclusives Online
@@ -246,7 +246,7 @@ Many anime locations are just a short train ride away. Explore [Jujutsu Kaisen l
 - [Ikebukuro for Anime Fans: Animate, Otome Road & Beyond](/articles/ikebukuro-anime-guide-2026)
 - [10 Anime Pilgrimage Spots in Tokyo You Can Visit Today](/articles/anime-pilgrimage-spots-tokyo)
 - [How to Book an Anime Collab Cafe in Japan](/articles/how-to-book-anime-collab-cafe-japan)
-- [The Complete Gachapon Guide for Tourists in Japan](/articles/gachapon-guide-japan)
+- The Complete Gachapon Guide for Tourists in Japan
 - [Game Centers & Arcades in Japan. The Complete Guide](/articles/game-centers-arcades-japan)
 - [Japan IC Card & Transit Guide for Anime Fans](/articles/japan-ic-card-transit-guide)
 ## FAQ: Frequently Asked Questions

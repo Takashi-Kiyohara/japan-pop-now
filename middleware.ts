@@ -21,6 +21,13 @@ const LEGACY_ARTICLE_SLUGS = new Set<string>([
 const DELETED_ARTICLE_SLUGS = new Set<string>([
   'one-piece-cafe-gene-parco-2026',
   'find-by-anime-in-japan-2026-pilgrimage-guides-by-series',
+  // R19-S4 W5 delete bucket — user check-in #4 approved 2026-05-19,
+  // forced stage A (immediate 410, not noindex-90d): thin evergreen,
+  // no rewrite planned, skip the grace period for early-HCU recovery.
+  'animejapan-comiket-2026-guide',
+  'gachapon-guide-japan',
+  'nakano-broadway-guide',
+  'ship-anime-figures-merch-home-japan',
 ])
 
 // 2026-04-19 category slug migration (5-body MECE).
@@ -150,6 +157,9 @@ export function middleware(request: NextRequest) {
         headers: {
           'Content-Type': 'text/plain; charset=utf-8',
           'X-Robots-Tag': 'noindex',
+          // R19-S4 F2: long-cache the permanent 410 (parity with
+          // app/(legacy)/[...slug]/route.ts) so the edge serves it cheaply.
+          'Cache-Control': 'public, max-age=31536000',
         },
       }
     )
