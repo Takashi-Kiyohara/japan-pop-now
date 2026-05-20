@@ -781,7 +781,7 @@
           "pass": true
         },
         "B": {
-          "cosine": 0.5147,
+          "cosine": 0.5071,
           "pass": true,
           "source": "press"
         },
@@ -798,11 +798,11 @@
         "E": {
           "bpZ": -0.5,
           "bp_hits": 0,
-          "emDashZ": -0.4218,
-          "em_dash_density": 0.3831,
+          "emDashZ": -0.4129,
+          "em_dash_density": 0.3843,
           "pass": true,
-          "sd": 15.4527,
-          "sdZ": -0.8197,
+          "sd": 15.4468,
+          "sdZ": -0.8215,
           "source": "composite_regex_only"
         },
         "F": {
@@ -1582,7 +1582,7 @@
           "pass": true
         },
         "B": {
-          "cosine": 0.3542,
+          "cosine": 0.3333,
           "pass": true,
           "source": "press"
         },
@@ -1599,11 +1599,11 @@
         "E": {
           "bpZ": -0.5,
           "bp_hits": 0,
-          "emDashZ": -0.3603,
-          "em_dash_density": 0.3913,
+          "emDashZ": -0.0915,
+          "em_dash_density": 0.427,
           "pass": true,
-          "sd": 45.4902,
-          "sdZ": 8.7179,
+          "sd": 45.1911,
+          "sdZ": 8.6229,
           "source": "composite_regex_only"
         },
         "F": {
@@ -3294,7 +3294,7 @@
           "pass": true
         },
         "B": {
-          "cosine": 0.3945,
+          "cosine": 0.3969,
           "pass": true,
           "source": "press"
         },
@@ -3311,11 +3311,11 @@
         "E": {
           "bpZ": -0.5,
           "bp_hits": 0,
-          "emDashZ": -0.407,
-          "em_dash_density": 0.3851,
+          "emDashZ": -0.3712,
+          "em_dash_density": 0.3899,
           "pass": true,
-          "sd": 18.539,
-          "sdZ": 0.1603,
+          "sd": 18.3158,
+          "sdZ": 0.0894,
           "source": "composite_regex_only"
         },
         "F": {
@@ -3356,7 +3356,7 @@
           "pass": false
         },
         "B": {
-          "cosine": 0.1544,
+          "cosine": 0.1525,
           "pass": true,
           "source": "press"
         },
@@ -4268,7 +4268,7 @@
           "pass": true
         },
         "B": {
-          "cosine": 0.3729,
+          "cosine": 0.3466,
           "pass": true,
           "source": "press"
         },
@@ -4330,7 +4330,7 @@
           "pass": false
         },
         "B": {
-          "cosine": 0.3425,
+          "cosine": 0.3227,
           "pass": true,
           "source": "press"
         },
@@ -4722,11 +4722,11 @@
         "E": {
           "bpZ": -0.5,
           "bp_hits": 0,
-          "emDashZ": -0.5951,
-          "em_dash_density": 0.3601,
+          "emDashZ": -0.5981,
+          "em_dash_density": 0.3597,
           "pass": true,
-          "sd": 37.771,
-          "sdZ": 6.2669,
+          "sd": 37.7584,
+          "sdZ": 6.2628,
           "source": "composite_regex_only"
         },
         "F": {
@@ -4830,7 +4830,7 @@
           "pass": false
         },
         "B": {
-          "cosine": 0.3992,
+          "cosine": 0.4075,
           "pass": true,
           "source": "press"
         },
@@ -5222,7 +5222,7 @@
           "pass": false
         },
         "B": {
-          "cosine": 0.3954,
+          "cosine": 0.3634,
           "pass": true,
           "source": "press"
         },
