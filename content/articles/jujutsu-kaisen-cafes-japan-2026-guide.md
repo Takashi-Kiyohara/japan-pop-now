@@ -21,7 +21,7 @@ robots: "noindex,follow"
 
 ## TL;DR
 
-Jujutsu Kaisen cafes 全国 (Tokyo / Osaka 他) 5th anniversary 連動 cafe の比較 visitor guide。アクセス: 各 venue 公式参照 (Sweets Paradise 全国展開 + 池袋 / 渋谷 / Osaka 直営)。営業時間: 8:00 受付開始の予約枠 + venue 営業時間 (公式リリース参照)。価格目安: drink ¥700-900 / 食事 ¥1,500-2,800 + bonus (公式メニュー基準)。予約は Sweets Paradise 公式 / Klook 経由。
+Jujutsu Kaisen cafes 全国 (Tokyo / Osaka 他) 5th anniversary 連動 cafe の比較 visitor guide。アクセス: 各 venue 公式参照 (Sweets Paradise 全国展開 + 池袋 / 渋谷 / Osaka 直営)。営業時間: 8:00 受付開始の予約枠 + venue 営業時間 (公式リリース参照)。価格目安: collab-menu 単価は公式メニュー drop 時点で確定、本文記載は bonus 仕様のみ verbatim (2,000 円ごとに 1 枚 postcard、placemat / coaster は menu order 連動)。予約は Sweets Paradise 公式 / Klook 経由。
 
 
 
