@@ -2,13 +2,13 @@
   "_meta": {
     "active_method": "draft3_p4_compressed_suspect_15pct",
     "axis_pass_pct": {
-      "A": 11.3636,
+      "A": 22.7273,
       "B": 43.1818,
-      "C": 94.3182,
+      "C": 95.4545,
       "D": 100,
-      "E": 72.7273,
-      "F": 46.5909,
-      "G": 20.4545
+      "E": 78.4091,
+      "F": 56.8182,
+      "G": 31.8182
     },
     "baseline_sha": "e3f2c99",
     "calibration": {
@@ -41,10 +41,10 @@
       "delete_A_410": 4,
       "delete_B_301": 0,
       "delete_C_noindex": 0,
-      "fix": 70,
-      "maintain": 14
+      "fix": 60,
+      "maintain": 24
     },
-    "generated": "2026-05-19T00:00:00Z",
+    "generated": "2026-05-20T00:00:00Z",
     "gptzero": "absent_regex_only_degrade",
     "preserve_list": {
       "all_maintained": true,
@@ -196,22 +196,20 @@
     },
     {
       "bucket": {
-        "manual_reaudit_gate": true,
-        "noindex_quarantine": true,
-        "type": "fix"
+        "type": "maintain"
       },
-      "passCount": 4,
+      "passCount": 6,
       "preserve_override": null,
       "scores": {
         "A": {
-          "branch": "fail",
+          "branch": "b_advisory",
           "firstHandPara": 0,
           "firstPartyRatio": 1,
           "officialPress": true,
-          "pass": false
+          "pass": true
         },
         "B": {
-          "cosine": 0.0561,
+          "cosine": 0.0657,
           "pass": true,
           "source": "press"
         },
@@ -228,31 +226,30 @@
         "E": {
           "bpZ": -0.5,
           "bp_hits": 0,
-          "emDashZ": -0.6249,
-          "em_dash_density": 0.3562,
+          "emDashZ": -1.8442,
+          "em_dash_density": 0.1941,
           "pass": false,
-          "sd": 10.3196,
-          "sdZ": -2.4496,
+          "sd": 10.2213,
+          "sdZ": -2.4808,
           "source": "composite_regex_only"
         },
         "F": {
-          "count": 4,
+          "count": 5,
           "pass": true,
           "required": {
             "access": true,
             "booking": true,
             "hours": true,
             "price": true,
-            "tldr": false
+            "tldr": true
           }
         },
         "G": {
-          "advisoryMarker": false,
+          "advisoryMarker": true,
           "authorBound": true,
           "authorBoxPresent": true,
-          "branch": "fail",
-          "firstHandPara": 0,
-          "pass": false
+          "branch": "b_advisory",
+          "pass": true
         }
       },
       "slug": "animate-cafe-guide-japan"
@@ -771,22 +768,20 @@
     },
     {
       "bucket": {
-        "manual_reaudit_gate": true,
-        "noindex_quarantine": true,
-        "type": "fix"
+        "type": "maintain"
       },
-      "passCount": 3,
+      "passCount": 7,
       "preserve_override": null,
       "scores": {
         "A": {
-          "branch": "fail",
+          "branch": "b_advisory",
           "firstHandPara": 0,
           "firstPartyRatio": 1,
           "officialPress": true,
-          "pass": false
+          "pass": true
         },
         "B": {
-          "cosine": 0.4639,
+          "cosine": 0.5147,
           "pass": true,
           "source": "press"
         },
@@ -803,31 +798,30 @@
         "E": {
           "bpZ": -0.5,
           "bp_hits": 0,
-          "emDashZ": 2.8436,
-          "em_dash_density": 0.8171,
-          "pass": false,
-          "sd": 15.6076,
-          "sdZ": -0.7705,
+          "emDashZ": -0.4218,
+          "em_dash_density": 0.3831,
+          "pass": true,
+          "sd": 15.4527,
+          "sdZ": -0.8197,
           "source": "composite_regex_only"
         },
         "F": {
-          "count": 3,
-          "pass": false,
+          "count": 5,
+          "pass": true,
           "required": {
             "access": true,
             "booking": true,
             "hours": true,
-            "price": false,
-            "tldr": false
+            "price": true,
+            "tldr": true
           }
         },
         "G": {
-          "advisoryMarker": false,
+          "advisoryMarker": true,
           "authorBound": true,
           "authorBoxPresent": true,
-          "branch": "fail",
-          "firstHandPara": 0,
-          "pass": false
+          "branch": "b_advisory",
+          "pass": true
         }
       },
       "slug": "blue-lock-tokyo-skytree-cafe-2026"
@@ -1148,22 +1142,20 @@
     },
     {
       "bucket": {
-        "manual_reaudit_gate": true,
-        "noindex_quarantine": true,
-        "type": "fix"
+        "type": "maintain"
       },
-      "passCount": 4,
+      "passCount": 7,
       "preserve_override": null,
       "scores": {
         "A": {
-          "branch": "fail",
+          "branch": "b_advisory",
           "firstHandPara": 0,
           "firstPartyRatio": 1,
           "officialPress": true,
-          "pass": false
+          "pass": true
         },
         "B": {
-          "cosine": 0.3636,
+          "cosine": 0.4798,
           "pass": true,
           "source": "press"
         },
@@ -1180,31 +1172,30 @@
         "E": {
           "bpZ": -0.5,
           "bp_hits": 0,
-          "emDashZ": -1.0177,
-          "em_dash_density": 0.304,
+          "emDashZ": -1.0709,
+          "em_dash_density": 0.2969,
           "pass": true,
-          "sd": 16.8731,
-          "sdZ": -0.3687,
+          "sd": 16.6115,
+          "sdZ": -0.4517,
           "source": "composite_regex_only"
         },
         "F": {
-          "count": 1,
-          "pass": false,
+          "count": 5,
+          "pass": true,
           "required": {
-            "access": false,
+            "access": true,
             "booking": true,
-            "hours": false,
-            "price": false,
-            "tldr": false
+            "hours": true,
+            "price": true,
+            "tldr": true
           }
         },
         "G": {
-          "advisoryMarker": false,
+          "advisoryMarker": true,
           "authorBound": true,
           "authorBoxPresent": true,
-          "branch": "fail",
-          "firstHandPara": 0,
-          "pass": false
+          "branch": "b_advisory",
+          "pass": true
         }
       },
       "slug": "dark-moon-chara-cafe-ikebukuro-2026"
@@ -1455,22 +1446,20 @@
     },
     {
       "bucket": {
-        "manual_reaudit_gate": true,
-        "noindex_quarantine": true,
-        "type": "fix"
+        "type": "maintain"
       },
-      "passCount": 3,
+      "passCount": 7,
       "preserve_override": null,
       "scores": {
         "A": {
-          "branch": "fail",
+          "branch": "b_advisory",
           "firstHandPara": 0,
           "firstPartyRatio": 1,
           "officialPress": true,
-          "pass": false
+          "pass": true
         },
         "B": {
-          "cosine": 0.468,
+          "cosine": 0.4758,
           "pass": true,
           "source": "press"
         },
@@ -1487,31 +1476,30 @@
         "E": {
           "bpZ": -0.5,
           "bp_hits": 0,
-          "emDashZ": 2.1603,
-          "em_dash_density": 0.7263,
-          "pass": false,
-          "sd": 19.3561,
-          "sdZ": 0.4197,
+          "emDashZ": -0.1861,
+          "em_dash_density": 0.4145,
+          "pass": true,
+          "sd": 19.2488,
+          "sdZ": 0.3856,
           "source": "composite_regex_only"
         },
         "F": {
-          "count": 3,
-          "pass": false,
+          "count": 5,
+          "pass": true,
           "required": {
             "access": true,
             "booking": true,
             "hours": true,
-            "price": false,
-            "tldr": false
+            "price": true,
+            "tldr": true
           }
         },
         "G": {
-          "advisoryMarker": false,
+          "advisoryMarker": true,
           "authorBound": true,
           "authorBoxPresent": true,
-          "branch": "fail",
-          "firstHandPara": 0,
-          "pass": false
+          "branch": "b_advisory",
+          "pass": true
         }
       },
       "slug": "demon-slayer-rerun-cafe-ufotable-kizuna-2026"
@@ -1581,22 +1569,20 @@
     },
     {
       "bucket": {
-        "manual_reaudit_gate": true,
-        "noindex_quarantine": true,
-        "type": "fix"
+        "type": "maintain"
       },
-      "passCount": 3,
+      "passCount": 7,
       "preserve_override": null,
       "scores": {
         "A": {
-          "branch": "fail",
+          "branch": "b_advisory",
           "firstHandPara": 0,
           "firstPartyRatio": 1,
           "officialPress": true,
-          "pass": false
+          "pass": true
         },
         "B": {
-          "cosine": 0.3047,
+          "cosine": 0.3542,
           "pass": true,
           "source": "press"
         },
@@ -1613,31 +1599,30 @@
         "E": {
           "bpZ": -0.5,
           "bp_hits": 0,
-          "emDashZ": 2.6735,
-          "em_dash_density": 0.7945,
-          "pass": false,
-          "sd": 46.3087,
-          "sdZ": 8.9777,
+          "emDashZ": -0.3603,
+          "em_dash_density": 0.3913,
+          "pass": true,
+          "sd": 45.4902,
+          "sdZ": 8.7179,
           "source": "composite_regex_only"
         },
         "F": {
-          "count": 3,
-          "pass": false,
+          "count": 5,
+          "pass": true,
           "required": {
             "access": true,
             "booking": true,
             "hours": true,
-            "price": false,
-            "tldr": false
+            "price": true,
+            "tldr": true
           }
         },
         "G": {
-          "advisoryMarker": false,
+          "advisoryMarker": true,
           "authorBound": true,
           "authorBoxPresent": true,
-          "branch": "fail",
-          "firstHandPara": 0,
-          "pass": false
+          "branch": "b_advisory",
+          "pass": true
         }
       },
       "slug": "detective-conan-cafe-tokyo-osaka-3venue-2026"
@@ -1659,7 +1644,7 @@
           "pass": false
         },
         "B": {
-          "cosine": 0.3033,
+          "cosine": 0.2924,
           "pass": true,
           "source": "press"
         },
@@ -1906,28 +1891,26 @@
     },
     {
       "bucket": {
-        "manual_reaudit_gate": true,
-        "noindex_quarantine": true,
-        "type": "fix"
+        "type": "maintain"
       },
-      "passCount": 3,
+      "passCount": 7,
       "preserve_override": null,
       "scores": {
         "A": {
-          "branch": "fail",
+          "branch": "b_advisory",
           "firstHandPara": 0,
           "firstPartyRatio": 1,
           "officialPress": true,
-          "pass": false
+          "pass": true
         },
         "B": {
-          "cosine": 0.159,
+          "cosine": 0.2142,
           "pass": true,
           "source": "press"
         },
         "C": {
-          "igBlockCount": 0,
-          "pass": false,
+          "igBlockCount": 1,
+          "pass": true,
           "wikimediaRatio": 0
         },
         "D": {
@@ -1938,31 +1921,30 @@
         "E": {
           "bpZ": -0.5,
           "bp_hits": 0,
-          "emDashZ": 1.6116,
-          "em_dash_density": 0.6534,
+          "emDashZ": 1.5295,
+          "em_dash_density": 0.6425,
           "pass": true,
-          "sd": 24.2162,
-          "sdZ": 1.9629,
+          "sd": 23.9763,
+          "sdZ": 1.8868,
           "source": "composite_regex_only"
         },
         "F": {
-          "count": 3,
-          "pass": false,
+          "count": 5,
+          "pass": true,
           "required": {
             "access": true,
             "booking": true,
             "hours": true,
-            "price": false,
-            "tldr": false
+            "price": true,
+            "tldr": true
           }
         },
         "G": {
-          "advisoryMarker": false,
+          "advisoryMarker": true,
           "authorBound": true,
           "authorBoxPresent": true,
-          "branch": "fail",
-          "firstHandPara": 0,
-          "pass": false
+          "branch": "b_advisory",
+          "pass": true
         }
       },
       "slug": "frieren-usj-story-walk-osaka-2026"
@@ -2226,22 +2208,20 @@
     },
     {
       "bucket": {
-        "manual_reaudit_gate": true,
-        "noindex_quarantine": true,
-        "type": "fix"
+        "type": "maintain"
       },
-      "passCount": 3,
+      "passCount": 7,
       "preserve_override": null,
       "scores": {
         "A": {
-          "branch": "fail",
+          "branch": "b_advisory",
           "firstHandPara": 0,
           "firstPartyRatio": 1,
           "officialPress": true,
-          "pass": false
+          "pass": true
         },
         "B": {
-          "cosine": 0.3371,
+          "cosine": 0.384,
           "pass": true,
           "source": "press"
         },
@@ -2258,31 +2238,30 @@
         "E": {
           "bpZ": -0.5,
           "bp_hits": 0,
-          "emDashZ": 2.1839,
-          "em_dash_density": 0.7294,
-          "pass": false,
-          "sd": 21.4788,
-          "sdZ": 1.0937,
+          "emDashZ": -0.3501,
+          "em_dash_density": 0.3927,
+          "pass": true,
+          "sd": 21.2718,
+          "sdZ": 1.028,
           "source": "composite_regex_only"
         },
         "F": {
-          "count": 3,
-          "pass": false,
+          "count": 5,
+          "pass": true,
           "required": {
-            "access": false,
+            "access": true,
             "booking": true,
             "hours": true,
             "price": true,
-            "tldr": false
+            "tldr": true
           }
         },
         "G": {
-          "advisoryMarker": false,
+          "advisoryMarker": true,
           "authorBound": true,
           "authorBoxPresent": true,
-          "branch": "fail",
-          "firstHandPara": 0,
-          "pass": false
+          "branch": "b_advisory",
+          "pass": true
         }
       },
       "slug": "golden-kamuy-golden-week-shinjuku-popup-2026"
@@ -3302,22 +3281,20 @@
     },
     {
       "bucket": {
-        "manual_reaudit_gate": true,
-        "noindex_quarantine": true,
-        "type": "fix"
+        "type": "maintain"
       },
-      "passCount": 4,
+      "passCount": 7,
       "preserve_override": null,
       "scores": {
         "A": {
-          "branch": "fail",
+          "branch": "b_advisory",
           "firstHandPara": 0,
           "firstPartyRatio": 1,
           "officialPress": true,
-          "pass": false
+          "pass": true
         },
         "B": {
-          "cosine": 0.2992,
+          "cosine": 0.3945,
           "pass": true,
           "source": "press"
         },
@@ -3334,31 +3311,30 @@
         "E": {
           "bpZ": -0.5,
           "bp_hits": 0,
-          "emDashZ": -0.3089,
-          "em_dash_density": 0.3981,
+          "emDashZ": -0.407,
+          "em_dash_density": 0.3851,
           "pass": true,
-          "sd": 18.7476,
-          "sdZ": 0.2265,
+          "sd": 18.539,
+          "sdZ": 0.1603,
           "source": "composite_regex_only"
         },
         "F": {
-          "count": 1,
-          "pass": false,
+          "count": 5,
+          "pass": true,
           "required": {
-            "access": false,
+            "access": true,
             "booking": true,
-            "hours": false,
-            "price": false,
-            "tldr": false
+            "hours": true,
+            "price": true,
+            "tldr": true
           }
         },
         "G": {
-          "advisoryMarker": false,
+          "advisoryMarker": true,
           "authorBound": true,
           "authorBoxPresent": true,
-          "branch": "fail",
-          "firstHandPara": 0,
-          "pass": false
+          "branch": "b_advisory",
+          "pass": true
         }
       },
       "slug": "jujutsu-kaisen-cafes-japan-2026-guide"
@@ -3380,7 +3356,7 @@
           "pass": false
         },
         "B": {
-          "cosine": 0.1651,
+          "cosine": 0.1544,
           "pass": true,
           "source": "press"
         },
@@ -3835,7 +3811,7 @@
           "auto_promote": "stage_A_410",
           "routing": "noindex",
           "stage": "C",
-          "ttl_expires": "2026-08-17T00:00:00.000Z",
+          "ttl_expires": "2026-08-18T00:00:00.000Z",
           "type": "delete"
         },
         "reason": "PRESERVE LIST Tier 2 (partial firsthand)"
@@ -4292,7 +4268,7 @@
           "pass": true
         },
         "B": {
-          "cosine": 0.3615,
+          "cosine": 0.3729,
           "pass": true,
           "source": "press"
         },
@@ -4354,7 +4330,7 @@
           "pass": false
         },
         "B": {
-          "cosine": 0.3156,
+          "cosine": 0.3425,
           "pass": true,
           "source": "press"
         },
@@ -4715,19 +4691,17 @@
     },
     {
       "bucket": {
-        "manual_reaudit_gate": true,
-        "noindex_quarantine": true,
-        "type": "fix"
+        "type": "maintain"
       },
-      "passCount": 3,
+      "passCount": 6,
       "preserve_override": null,
       "scores": {
         "A": {
-          "branch": "fail",
+          "branch": "b_advisory",
           "firstHandPara": 0,
           "firstPartyRatio": 1,
           "officialPress": true,
-          "pass": false
+          "pass": true
         },
         "B": {
           "cosine": null,
@@ -4748,31 +4722,30 @@
         "E": {
           "bpZ": -0.5,
           "bp_hits": 0,
-          "emDashZ": -0.5478,
-          "em_dash_density": 0.3664,
+          "emDashZ": -0.3753,
+          "em_dash_density": 0.3893,
           "pass": true,
-          "sd": 38.3827,
-          "sdZ": 6.4611,
+          "sd": 37.8171,
+          "sdZ": 6.2815,
           "source": "composite_regex_only"
         },
         "F": {
-          "count": 3,
-          "pass": false,
+          "count": 5,
+          "pass": true,
           "required": {
             "access": true,
             "booking": true,
             "hours": true,
-            "price": false,
-            "tldr": false
+            "price": true,
+            "tldr": true
           }
         },
         "G": {
-          "advisoryMarker": false,
+          "advisoryMarker": true,
           "authorBound": true,
           "authorBoxPresent": true,
-          "branch": "fail",
-          "firstHandPara": 0,
-          "pass": false
+          "branch": "b_advisory",
+          "pass": true
         }
       },
       "slug": "ranma-japan-2026-exhibition-tree-village-guide"
@@ -4857,7 +4830,7 @@
           "pass": false
         },
         "B": {
-          "cosine": 0.4079,
+          "cosine": 0.3992,
           "pass": true,
           "source": "press"
         },
@@ -5249,7 +5222,7 @@
           "pass": false
         },
         "B": {
-          "cosine": 0.3948,
+          "cosine": 0.3954,
           "pass": true,
           "source": "press"
         },
@@ -5552,22 +5525,20 @@
     },
     {
       "bucket": {
-        "manual_reaudit_gate": true,
-        "noindex_quarantine": true,
-        "type": "fix"
+        "type": "maintain"
       },
-      "passCount": 3,
+      "passCount": 7,
       "preserve_override": null,
       "scores": {
         "A": {
-          "branch": "fail",
+          "branch": "b_advisory",
           "firstHandPara": 0,
           "firstPartyRatio": 1,
           "officialPress": true,
-          "pass": false
+          "pass": true
         },
         "B": {
-          "cosine": 0.3844,
+          "cosine": 0.4016,
           "pass": true,
           "source": "press"
         },
@@ -5584,31 +5555,30 @@
         "E": {
           "bpZ": -0.5,
           "bp_hits": 0,
-          "emDashZ": 2.7378,
-          "em_dash_density": 0.8031,
-          "pass": false,
-          "sd": 28.8,
-          "sdZ": 3.4184,
+          "emDashZ": -0.1873,
+          "em_dash_density": 0.4143,
+          "pass": true,
+          "sd": 28.4186,
+          "sdZ": 3.2972,
           "source": "composite_regex_only"
         },
         "F": {
-          "count": 2,
-          "pass": false,
+          "count": 5,
+          "pass": true,
           "required": {
             "access": true,
             "booking": true,
-            "hours": false,
-            "price": false,
-            "tldr": false
+            "hours": true,
+            "price": true,
+            "tldr": true
           }
         },
         "G": {
-          "advisoryMarker": false,
+          "advisoryMarker": true,
           "authorBound": true,
           "authorBoxPresent": true,
-          "branch": "fail",
-          "firstHandPara": 0,
-          "pass": false
+          "branch": "b_advisory",
+          "pass": true
         }
       },
       "slug": "world-trigger-festival-2026-tokyo-dome-city-cafe"
