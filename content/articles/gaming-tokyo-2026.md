@@ -27,7 +27,7 @@ As of May 2026, Tokyo is built for gamers. Whether you’re hunting for exclusiv
 
 ![Pokemon Center MEGA Tokyo flagship storefront inside Sunshine City Ikebukuro — the largest Pokemon retail location in Japan](/images/articles/gaming-tokyo-2026/body-pokemon-center-mega.webp)
 *Photo: Maplestrip / Wikimedia Commons, CC BY 3.0*
-Written from years of editorial coverage of Tokyo gaming retail and arcade collabs, this guide starts at Pokemon Center MEGA — the flagship store and it’s enormous. We’re talking 650 square meters, 2,500+ items, and crowds that rival theme park queues on weekends. The store spans multiple floors with dedicated zones for clothing, figures, plushies, trading cards, and region-exclusive merchandise you won’t find elsewhere.
+Written from years of editorial coverage of Tokyo gaming retail and arcade collabs, this guide starts at Pokémon Center MEGA TOKYO — the largest Pokémon Center in Japan, stocking 2,500+ item types with crowds that rival theme-park queues on weekends. The store spans dedicated zones for clothing, figures, plushies, trading cards, and region-exclusive merchandise you won’t find elsewhere. (Published floor-area figures for this store disagree widely, so no square-meter number is cited here.)
 The top floor has a photo zone where you can take pictures with life-sized Pokemon displays. Ground floor has the newest releases. The real gold: limited-edition Ikebukuro exclusive items, often sold out by afternoon.
 <div className="jpn-warning"><strong>Temporary closure:</strong> Pokémon Center MEGA TOKYO has been temporarily closed since March 26, 2026 per the official Pokémon Center site, with no reopening date announced as of May 2026. Confirm status on the operator site before planning a visit.</div>
 
@@ -84,16 +84,16 @@ Website: [Nintendo TOKYO — Shibuya PARCO official](https://en.shibuya.parco.jp
 ![GiGO Akihabara arcade storefront at night — Tokyo's biggest arcade chains stock crane games, rhythm cabinets and retro gaming machines on every block of Akihabara](/images/articles/gaming-tokyo-2026/body-akihabara-arcades.webp)
 *Photo: Stephen Kelly / Wikimedia Commons, CC BY 2.0*
 Tokyo has gaming arcades on every block. The big ones:
-- **Sega World Shinjuku:** 8 floors, rhythm games, crane games, racing sims. ¥500–¥1,000 per game.
+- **GiGO (formerly SEGA arcades):** SEGA's arcade chain was sold to GENDA in 2022 and every branch was rebranded GiGO — there is no longer a "SEGA" arcade brand in Japan. GiGO branches in Akihabara and Shinjuku stock rhythm games, crane games, and racing sims.
 - **Round1 (multiple locations):** Bowling, arcade games, rhythm games. Popular with locals. Cheapest way to play new games.
-- **Taito Hey:** Retro games, new releases, crane games. Ginza location is central.
+- **Taito HEY (Akihabara):** Retro games, new releases, and crane games on floors 1-4 of the Hirose Corp. Building, 1-10-5 Sotokanda, Chiyoda-ku — open 10:00 AM to 11:45 PM daily per the Taito official store page. A 3-5 minute walk from Akihabara Station Electric Town Exit.
 Bring coins. Most machines take ¥100 coins. Credit cards rarely work in arcades.
 
 ## Bandai Namco & Specialty Stores
 
-![Shinjuku Toho Building viewed from Godzilla Street — the Shinjuku entertainment district hosts the Bandai Namco Cross Store and JUMP SHOP Shinjuku within walking distance](/images/articles/gaming-tokyo-2026/body-shinjuku-bandai-namco.webp)
-*Photo: Kakidai / Wikimedia Commons, CC BY-SA 4.0*
-**Bandai Namco Cross Store (Shinjuku):** Combines Bandai, Namco, and Gundam merchandise. Gundam figures dominate, but also One Piece, Pac-Man, Tamagotchi. Not just gaming, but gaming-adjacent pop culture. 3 floors, worth 30-45 minutes.
+![Sunshine City in Ikebukuro — the Toshima-ku complex whose World Import Mart Building houses the Bandai Namco Cross Store Tokyo](/images/articles/gaming-tokyo-2026/body-sunshine-city-bandai-namco.webp)
+*Sunshine City, Ikebukuro — the Toshima-ku retail complex housing the Bandai Namco Cross Store Tokyo. Photo: Maplestrip / Wikimedia Commons, CC BY 3.0*
+**Bandai Namco Cross Store Tokyo (Ikebukuro):** On the 3rd floor of the Sunshine City World Import Mart Building (3-1-3 Higashi-Ikebukuro, Toshima-ku) per the Bandai Namco Amusement official site. Combines Bandai, Namco, and Gundam merchandise — Gundam figures dominate, but also One Piece, Pac-Man, and Tamagotchi. Gaming-adjacent pop culture; worth 30-45 minutes.
 **Luida’s Bar ([Akihabara](/articles/akihabara-complete-guide-2026)):** Official Dragon Quest collaboration bar run with Pasela Resorts. Themed food, drinks, and a fantasy-tavern atmosphere. Casual vibe, low cover charge (¥1,500–¥2,000 with one drink), and a good way to decompress after shopping.
 **Luida’s Bar**
 Address: Pasela Resorts AKIBA 1F, 1-1-10 Sotokanda, Chiyoda-ku, Tokyo
@@ -182,5 +182,9 @@ Every venue address, floor, and opening-hours figure in this guide was re-verifi
 - **Pokémon Cafe Tokyo (Nihombashi)** — address and renovation-closure dates: [pokemon-cafe.jp/en/cafe](https://www.pokemon-cafe.jp/en/cafe/)
 - **Nintendo TOKYO** — address, floor, and hours: [Shibuya PARCO official shop page](https://en.shibuya.parco.jp/shop/detail/?cd=025793)
 - **LUIDA'S BAR** — address and hours: [paselabo.pasela.co.jp/luidas_bar](https://en.paselabo.pasela.co.jp/luidas_bar/)
+- **Taito HEY (Akihabara)** — address and hours: [Taito official store page](https://www.taito.co.jp/en/store/00001703)
+- **Bandai Namco Cross Store Tokyo (Ikebukuro)** — location: [Bandai Namco Amusement official](https://bandainamco-am.co.jp/en/official_shop/sunrise-world/)
+
+The SEGA arcade brand was sold to GENDA in 2022 and every branch rebranded to GiGO — there is no "SEGA arcade" in Japan today.
 
 Two venues that appeared in an earlier revision of this guide — a "Square Enix Cafe Ginza" and a "Capcom Store Shinjuku" — were removed because neither exists. Square Enix operates the ARTNIA cafe-and-shop in Shinjuku (a separate venue); Capcom Store branches are elsewhere in Tokyo, not Shinjuku. Always confirm a venue on its operator's official site before traveling to it.
