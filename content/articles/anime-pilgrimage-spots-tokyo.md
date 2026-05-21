@@ -11,6 +11,7 @@ tags: []
 featuredImage: /images/articles/anime-pilgrimage-spots-tokyo/featured.webp
 featuredImageAlt: Sensoji Temple in Asakusa Tokyo a famous anime pilgrimage location
 author: Takapon
+voice: "advisory"
 excerpt: >-
   Visit real anime locations in Tokyo: Your Name stairs, Shibuya Crossing (JJK),
   Sensoji (Demon Slayer), Akihabara (Steins;Gate), Kamakura (Slam Dunk), and
@@ -18,6 +19,11 @@ excerpt: >-
 relatedSlugs: []
 wpPostId: 105
 ---
+
+## TL;DR
+
+Tokyo 内 anime pilgrimage 5 spot 横断 visitor guide。アクセス: Shibuya / Akihabara / Shinjuku / Ikebukuro 各拠点 (本文 §spot 参照)。営業時間: 屋外 spot は常時、Shibuya Sky 等 paid spot は施設別。価格目安: Shibuya Sky ¥2,200 online / ¥2,500 walk-up (本文 verbatim §64)、Inokashira Park swan boat ¥1,000 / 30 min (§123)、屋外 location は free。Klook で Tokyo Subway pass 800 yen 経由。
+
 *Last updated: May 2026.*
 Quiet Tokyo neighborhood stairs, residential areas like Yotsuya hide famous anime locations
 Anime pilgrimage, called *seichi junrei* (聖地巡礼), literally “holy land pilgrimage”, is one of the most uniquely rewarding ways to experience Tokyo. You’re not sightseeing in the traditional sense. You’re standing in the exact spot where a fictional character stood, seeing the same view they saw, walking streets that exist simultaneously in the real world and in a story that moved you.

@@ -19,6 +19,7 @@ heroImageAlt: >-
   entrance
 imageCredit: 'Photo: Hsu Tzu-hsun / Wikimedia Commons, CC BY-SA 4.0'
 author: Takapon
+voice: "advisory"
 excerpt: >-
   Detective Conan is running more events in 2026 than any other anime IP in
   Japan. The 30th anniversary exhibition tours 12 cities, the 29th movie opens
@@ -28,6 +29,9 @@ relatedSlugs: []
 wpPostId: 753
 ---
 
+## TL;DR
+
+Detective Conan 2026 events 横断 visitor guide (Movie 29 + 30th Anniversary Exhibition + Conan Cafe)。アクセス: Movie は全国 theater、Exhibition は 12-city national tour (Feb 2026-Mar 2027)、Cafe は 6-city 8-venue (本文 §venues 参照)。営業時間: event individual (本文参照)。価格目安: Movie ~¥2,000 / Exhibition ¥2,200 adult・¥1,500 student / Cafe ~¥2,000-3,500 per visit (本文 verbatim §59-62)。予約は event 公式 / Klook 経由。
 
 The 30th anniversary TV anime exhibition tours 12 Japanese cities in 2026-2027, starting at Tokyo Dome City. Photo: Japan Pop Now
 Detective Conan is running more events in 2026 than any other anime IP in Japan — and it’s not close. The 30th TV anime anniversary has triggered a nationwide exhibition tour (12 cities), the 29th movie “Highway’s Fallen Angel” opens April 10, the annual Conan Cafe is serving themed food across 6 cities, Sunshine City Ikebukuro is hosting its 8th Conan collaboration event through June 7, and USJ’s Detective Conan World runs through June 30. If you’re visiting Japan between April and August 2026, you can hit multiple Conan events in a single trip without even trying.

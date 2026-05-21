@@ -17,6 +17,7 @@ imageNote: >-
   IP retail. PokéPark-specific photography pending Takapon visit. See
   docs/audit/collab-image-exhausted-20260427.md.
 author: Takapon
+voice: "advisory"
 excerpt: >-
   PokéPark Kanto opened February 5, 2026 inside Yomiuriland — the world's first
   permanent outdoor Pokémon theme park. Dynamic-pricing tickets from ¥4,700 to
@@ -26,11 +27,15 @@ relatedSlugs: []
 wpPostId: 780
 ---
 
+## TL;DR
+
+PokéPark Kanto (Yomiuriland) Pokémon theme park 2026 visitor guide。アクセス: Yomiuriland 内 (本文 §access 参照)。営業時間: Park 公式参照。価格目安: dynamic-pricing tickets ¥4,700-¥14,000+ (advance-only reservations、本文 verbatim §4+22-23)。予約は PokéPark 公式 / Klook 経由。
+
 ![Aerial view of Yomiuriland in Inagi, western Tokyo — the host venue where PokéPark Kanto opened on February 5, 2026](/images/articles/pokepark-kanto-tokyo-2026/hero-wikimedia.webp)
 PokéPark Kanto opened in February 2026 inside Yomiuriland, bringing Pokémon’s first permanent outdoor theme park to Tokyo.
 As of April 2026, PokéPark Kanto opened on February 5, 2026 inside Yomiuriland in western Tokyo, the first permanent outdoor Pokémon theme park anywhere in the world. Tickets use dynamic pricing and come in three tiers: Elite Trainers Pass at ¥14,000+ (~$95), Trainers Pass at ¥7,900+ (~$54), and Town Pass at ¥4,700+ (~$32, available from May 2026) — base prices confirmed via the official Yomiuriland/PokéPark Kanto announcement at the time of writing. Every ticket requires advance online reservation per the operator. There are no walk-in sales, and per visitor reports popular weekends sell out fast.
 The park covers 2.6 hectares across three distinct zones: Pokémon Forest (an outdoor trail where you spot 600+ Pokémon species in wooded terrain), Kayatsuri Town (rides, shows, shops, and dining), and the Entrance Square. It’s not a traditional roller-coaster park, it’s closer to an immersive nature walk crossed with a Pokémon Center on steroids. Visitor reports describe 5+ hour stays in Pokémon Forest alone, often without seeing every species.
-This guide covers all three ticket tiers, how international visitors can book, what each area contains, the best route to see everything, and where to stay nearby.
+Written from years of editorial coverage of Japan theme-park openings, this guide covers all three ticket tiers, how international visitors can book, what each area contains, the best route to see everything, and where to stay nearby.
 **Start here**
 Plan your PokéPark day faster:
 - [**Need a backup if tickets sell out?** Read: Book Japan Anime Events from Overseas](/articles/book-japan-anime-events-overseas-2026)
