@@ -8,10 +8,16 @@ tags: []
 featuredImage: "/images/articles/anime-merch-shopping-guide-japan/featured.jpg"
 featuredImageAlt: "Mandarake store in Nakano Broadway packed with anime manga figures and collectibles"
 author: "Takapon"
+voice: "advisory"
 excerpt: "Anime merch shopping in Japan 2026: 15 best shops (Animate, Mandarake, Kotobukiya), prices, budgets, and where to find exclusive figures in Tokyo."
 relatedSlugs: []
 wpPostId: 103
 ---
+
+## TL;DR
+
+Japan anime merch shopping 2026 visitor guide (Akihabara / Ikebukuro / Nakano Broadway)。アクセス: 主要 anime district (Akihabara / Ikebukuro / Nakano Broadway 各拠点)。営業時間: 店舗別 (典型 11:00-21:00 帯)。価格目安: gachapon ¥100-、prize figure ¥1,000-3,000 (§46 verbatim)、scale figure ¥8,000-30,000+ (§46)、acrylic stand ¥500-1,500 (§50)。tax-free ¥5,000+ で passport 対応。
+
 **More Shopping Resources**
 Need to ship your haul home? Read our Guide to Shipping Anime Merch from Japan. Can’t visit Japan? Check our [Proxy Shopping Guide for 2026](/articles/japan-proxy-shopping-2026).
 *Last updated: May 6, 2026.*

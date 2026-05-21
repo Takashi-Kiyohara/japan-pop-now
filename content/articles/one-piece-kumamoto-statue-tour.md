@@ -14,6 +14,7 @@ featuredImageAlt: >-
   D. Luffy bronze statue, the first installed of Eiichiro Oda's Straw Hat
   statues
 author: Takapon
+voice: "advisory"
 excerpt: >-
   All 10 Straw Hat crew statues in Kumamoto with maps, transit access, and a
   2-day itinerary that pairs the statue tour with Kumamoto Castle and local
@@ -21,6 +22,10 @@ excerpt: >-
 relatedSlugs: []
 wpPostId: 207
 ---
+
+## TL;DR
+
+One Piece Kumamoto bronze statue 10-spot pilgrimage 2026 visitor guide (Oda 寄付 ¥800 million 復興 tribute)。アクセス: Kumamoto Station + rental car (Toyota / Nippon / Times、本文 verbatim §129)。営業時間: 屋外 statue は常時、Zoo 等は施設別。価格目安: statue 訪問 free / Zoo admission ¥500 adults (§75)、rental car ¥5,000-8,000 / day (§129)、Oda 寄付 ¥800 million tribute (§27 historical context)。
 
 *Last updated: March 2026. Covers all 10 Straw Hat crew statues, maps, transportation, Kumamoto Castle, and a recommended 2-day itinerary for visiting every statue.*
 
