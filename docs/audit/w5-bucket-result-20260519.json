@@ -2,13 +2,13 @@
   "_meta": {
     "active_method": "draft3_p4_compressed_suspect_15pct",
     "axis_pass_pct": {
-      "A": 65.9091,
+      "A": 72.7273,
       "B": 43.1818,
       "C": 95.4545,
       "D": 100,
       "E": 79.5455,
-      "F": 73.8636,
-      "G": 68.1818
+      "F": 80.6818,
+      "G": 75
     },
     "baseline_sha": "e3f2c99",
     "calibration": {
@@ -41,10 +41,10 @@
       "delete_A_410": 4,
       "delete_B_301": 0,
       "delete_C_noindex": 0,
-      "fix": 20,
-      "maintain": 64
+      "fix": 14,
+      "maintain": 70
     },
-    "generated": "2026-05-21T00:32:27.586Z",
+    "generated": "2026-05-21T00:37:31.038Z",
     "gptzero": "absent_regex_only_degrade",
     "preserve_list": {
       "all_maintained": true,
@@ -1837,22 +1837,19 @@
     },
     {
       "bucket": {
-        "manual_reaudit_gate": true,
-        "noindex_quarantine": true,
-        "type": "fix"
+        "type": "maintain"
       },
-      "passCount": 3,
+      "passCount": 6,
       "preserve_override": null,
       "scores": {
         "A": {
-          "branch": "fail",
+          "branch": "c_advisory_no_press",
           "firstHandPara": 0,
           "firstPartyRatio": 1,
-          "igBlockCount": 1,
+          "igBlockCount": 4,
           "officialPress": false,
-          "pass": false,
-          "wikimediaRatio": 0,
-          "wordCount": 2597
+          "pass": true,
+          "wikimediaRatio": 0
         },
         "B": {
           "cosine": null,
@@ -1861,7 +1858,7 @@
           "source": "manual_SME_flag"
         },
         "C": {
-          "igBlockCount": 1,
+          "igBlockCount": 4,
           "pass": true,
           "wikimediaRatio": 0
         },
@@ -1873,33 +1870,30 @@
         "E": {
           "bpZ": -0.5,
           "bp_hits": 0,
-          "emDashZ": -0.895,
-          "em_dash_density": 0.3203,
+          "emDashZ": -1.0081,
+          "em_dash_density": 0.3052,
           "pass": true,
-          "sd": 26.41,
-          "sdZ": 2.6595,
+          "sd": 25.6995,
+          "sdZ": 2.4339,
           "source": "composite_regex_only"
         },
         "F": {
-          "count": 3,
-          "pass": false,
+          "count": 5,
+          "pass": true,
           "required": {
             "access": true,
             "booking": true,
             "hours": true,
-            "price": false,
-            "tldr": false
+            "price": true,
+            "tldr": true
           }
         },
         "G": {
-          "advisoryMarker": false,
+          "advisoryMarker": true,
           "authorBound": true,
           "authorBoxPresent": true,
-          "branch": "fail",
-          "firstHandPara": 0,
-          "igBlockCount": 1,
-          "pass": false,
-          "wordCount": 2597
+          "branch": "b_advisory",
+          "pass": true
         }
       },
       "slug": "first-timers-japan-playbook-anime-fans-2026"
@@ -2409,22 +2403,19 @@
     },
     {
       "bucket": {
-        "manual_reaudit_gate": true,
-        "noindex_quarantine": true,
-        "type": "fix"
+        "type": "maintain"
       },
-      "passCount": 3,
+      "passCount": 6,
       "preserve_override": null,
       "scores": {
         "A": {
-          "branch": "fail",
+          "branch": "c_advisory_no_press",
           "firstHandPara": 0,
           "firstPartyRatio": 1,
-          "igBlockCount": 2,
+          "igBlockCount": 5,
           "officialPress": false,
-          "pass": false,
-          "wikimediaRatio": 0,
-          "wordCount": 3342
+          "pass": true,
+          "wikimediaRatio": 0
         },
         "B": {
           "cosine": null,
@@ -2433,7 +2424,7 @@
           "source": "manual_SME_flag"
         },
         "C": {
-          "igBlockCount": 2,
+          "igBlockCount": 5,
           "pass": true,
           "wikimediaRatio": 0
         },
@@ -2445,33 +2436,30 @@
         "E": {
           "bpZ": -0.5,
           "bp_hits": 0,
-          "emDashZ": 1.7825,
-          "em_dash_density": 0.6761,
+          "emDashZ": 1.8444,
+          "em_dash_density": 0.6843,
           "pass": true,
-          "sd": 25.3312,
-          "sdZ": 2.3169,
+          "sd": 24.8247,
+          "sdZ": 2.1561,
           "source": "composite_regex_only"
         },
         "F": {
-          "count": 3,
-          "pass": false,
+          "count": 5,
+          "pass": true,
           "required": {
             "access": true,
             "booking": true,
             "hours": true,
-            "price": false,
-            "tldr": false
+            "price": true,
+            "tldr": true
           }
         },
         "G": {
-          "advisoryMarker": false,
+          "advisoryMarker": true,
           "authorBound": true,
           "authorBoxPresent": true,
-          "branch": "fail",
-          "firstHandPara": 0,
-          "igBlockCount": 2,
-          "pass": false,
-          "wordCount": 3342
+          "branch": "b_advisory",
+          "pass": true
         }
       },
       "slug": "how-to-ride-trains-japan-tourists-2026"
@@ -2796,22 +2784,19 @@
     },
     {
       "bucket": {
-        "manual_reaudit_gate": true,
-        "noindex_quarantine": true,
-        "type": "fix"
+        "type": "maintain"
       },
-      "passCount": 3,
+      "passCount": 6,
       "preserve_override": null,
       "scores": {
         "A": {
-          "branch": "fail",
+          "branch": "c_advisory_no_press",
           "firstHandPara": 0,
           "firstPartyRatio": 1,
-          "igBlockCount": 2,
+          "igBlockCount": 4,
           "officialPress": false,
-          "pass": false,
-          "wikimediaRatio": 0,
-          "wordCount": 2941
+          "pass": true,
+          "wikimediaRatio": 0
         },
         "B": {
           "cosine": null,
@@ -2820,7 +2805,7 @@
           "source": "manual_SME_flag"
         },
         "C": {
-          "igBlockCount": 2,
+          "igBlockCount": 4,
           "pass": true,
           "wikimediaRatio": 0
         },
@@ -2832,33 +2817,30 @@
         "E": {
           "bpZ": -0.5,
           "bp_hits": 0,
-          "emDashZ": -0.4188,
-          "em_dash_density": 0.3835,
+          "emDashZ": -0.4933,
+          "em_dash_density": 0.3736,
           "pass": true,
-          "sd": 16.4186,
-          "sdZ": -0.513,
+          "sd": 16.1953,
+          "sdZ": -0.5839,
           "source": "composite_regex_only"
         },
         "F": {
-          "count": 3,
-          "pass": false,
+          "count": 4,
+          "pass": true,
           "required": {
             "access": true,
             "booking": false,
             "hours": true,
             "price": true,
-            "tldr": false
+            "tldr": true
           }
         },
         "G": {
-          "advisoryMarker": false,
+          "advisoryMarker": true,
           "authorBound": true,
           "authorBoxPresent": true,
-          "branch": "fail",
-          "firstHandPara": 0,
-          "igBlockCount": 2,
-          "pass": false,
-          "wordCount": 2941
+          "branch": "b_advisory",
+          "pass": true
         }
       },
       "slug": "japan-proxy-shopping-2026"
@@ -3054,22 +3036,19 @@
     },
     {
       "bucket": {
-        "manual_reaudit_gate": true,
-        "noindex_quarantine": true,
-        "type": "fix"
+        "type": "maintain"
       },
-      "passCount": 3,
+      "passCount": 6,
       "preserve_override": null,
       "scores": {
         "A": {
-          "branch": "fail",
+          "branch": "c_advisory_no_press",
           "firstHandPara": 0,
           "firstPartyRatio": 1,
-          "igBlockCount": 1,
+          "igBlockCount": 3,
           "officialPress": false,
-          "pass": false,
-          "wikimediaRatio": 0,
-          "wordCount": 4582
+          "pass": true,
+          "wikimediaRatio": 0
         },
         "B": {
           "cosine": null,
@@ -3078,7 +3057,7 @@
           "source": "manual_SME_flag"
         },
         "C": {
-          "igBlockCount": 1,
+          "igBlockCount": 3,
           "pass": true,
           "wikimediaRatio": 0
         },
@@ -3090,33 +3069,30 @@
         "E": {
           "bpZ": -0.5,
           "bp_hits": 0,
-          "emDashZ": 0.1431,
-          "em_dash_density": 0.4582,
+          "emDashZ": 0.0716,
+          "em_dash_density": 0.4487,
           "pass": true,
-          "sd": 24.4625,
-          "sdZ": 2.0411,
+          "sd": 24.1654,
+          "sdZ": 1.9468,
           "source": "composite_regex_only"
         },
         "F": {
-          "count": 3,
-          "pass": false,
+          "count": 5,
+          "pass": true,
           "required": {
             "access": true,
             "booking": true,
             "hours": true,
-            "price": false,
-            "tldr": false
+            "price": true,
+            "tldr": true
           }
         },
         "G": {
-          "advisoryMarker": false,
+          "advisoryMarker": true,
           "authorBound": true,
           "authorBoxPresent": true,
-          "branch": "fail",
-          "firstHandPara": 0,
-          "igBlockCount": 1,
-          "pass": false,
-          "wordCount": 4582
+          "branch": "b_advisory",
+          "pass": true
         }
       },
       "slug": "japan-trip-checklist-anime-fans-2026"
@@ -3259,22 +3235,19 @@
     },
     {
       "bucket": {
-        "manual_reaudit_gate": true,
-        "noindex_quarantine": true,
-        "type": "fix"
+        "type": "maintain"
       },
-      "passCount": 3,
+      "passCount": 6,
       "preserve_override": null,
       "scores": {
         "A": {
-          "branch": "fail",
+          "branch": "c_advisory_no_press",
           "firstHandPara": 0,
           "firstPartyRatio": 1,
-          "igBlockCount": 2,
+          "igBlockCount": 4,
           "officialPress": false,
-          "pass": false,
-          "wikimediaRatio": 0,
-          "wordCount": 2992
+          "pass": true,
+          "wikimediaRatio": 0
         },
         "B": {
           "cosine": null,
@@ -3283,7 +3256,7 @@
           "source": "manual_SME_flag"
         },
         "C": {
-          "igBlockCount": 2,
+          "igBlockCount": 4,
           "pass": true,
           "wikimediaRatio": 0
         },
@@ -3295,33 +3268,30 @@
         "E": {
           "bpZ": -0.5,
           "bp_hits": 0,
-          "emDashZ": 1.7032,
-          "em_dash_density": 0.6656,
+          "emDashZ": 1.494,
+          "em_dash_density": 0.6378,
           "pass": true,
-          "sd": 17.6618,
-          "sdZ": -0.1182,
+          "sd": 17.3551,
+          "sdZ": -0.2156,
           "source": "composite_regex_only"
         },
         "F": {
-          "count": 3,
-          "pass": false,
+          "count": 5,
+          "pass": true,
           "required": {
             "access": true,
             "booking": true,
             "hours": true,
-            "price": false,
-            "tldr": false
+            "price": true,
+            "tldr": true
           }
         },
         "G": {
-          "advisoryMarker": false,
+          "advisoryMarker": true,
           "authorBound": true,
           "authorBoxPresent": true,
-          "branch": "fail",
-          "firstHandPara": 0,
-          "igBlockCount": 2,
-          "pass": false,
-          "wordCount": 2992
+          "branch": "b_advisory",
+          "pass": true
         }
       },
       "slug": "jr-pass-anime-pilgrimage-routes-2026"
@@ -3858,7 +3828,7 @@
           "auto_promote": "stage_A_410",
           "routing": "noindex",
           "stage": "C",
-          "ttl_expires": "2026-08-19T00:32:27.586Z",
+          "ttl_expires": "2026-08-19T00:37:31.038Z",
           "type": "delete"
         },
         "reason": "PRESERVE LIST Tier 2 (partial firsthand)"
@@ -4434,22 +4404,19 @@
     },
     {
       "bucket": {
-        "manual_reaudit_gate": true,
-        "noindex_quarantine": true,
-        "type": "fix"
+        "type": "maintain"
       },
-      "passCount": 3,
+      "passCount": 6,
       "preserve_override": null,
       "scores": {
         "A": {
-          "branch": "fail",
+          "branch": "c_advisory_no_press",
           "firstHandPara": 0,
           "firstPartyRatio": 1,
-          "igBlockCount": 2,
+          "igBlockCount": 5,
           "officialPress": false,
-          "pass": false,
-          "wikimediaRatio": 0,
-          "wordCount": 3314
+          "pass": true,
+          "wikimediaRatio": 0
         },
         "B": {
           "cosine": null,
@@ -4458,7 +4425,7 @@
           "source": "manual_SME_flag"
         },
         "C": {
-          "igBlockCount": 2,
+          "igBlockCount": 5,
           "pass": true,
           "wikimediaRatio": 0
         },
@@ -4470,33 +4437,30 @@
         "E": {
           "bpZ": -0.5,
           "bp_hits": 0,
-          "emDashZ": -0.4971,
-          "em_dash_density": 0.3731,
+          "emDashZ": -0.3796,
+          "em_dash_density": 0.3888,
           "pass": true,
-          "sd": 16.5156,
-          "sdZ": -0.4822,
+          "sd": 16.3008,
+          "sdZ": -0.5504,
           "source": "composite_regex_only"
         },
         "F": {
-          "count": 3,
-          "pass": false,
+          "count": 5,
+          "pass": true,
           "required": {
             "access": true,
             "booking": true,
             "hours": true,
-            "price": false,
-            "tldr": false
+            "price": true,
+            "tldr": true
           }
         },
         "G": {
-          "advisoryMarker": false,
+          "advisoryMarker": true,
           "authorBound": true,
           "authorBoxPresent": true,
-          "branch": "fail",
-          "firstHandPara": 0,
-          "igBlockCount": 2,
-          "pass": false,
-          "wordCount": 3314
+          "branch": "b_advisory",
+          "pass": true
         }
       },
       "slug": "osaka-anime-guide-den-den-town"

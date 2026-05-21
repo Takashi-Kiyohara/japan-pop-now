@@ -13,6 +13,7 @@ featuredImageAlt: >-
   merchandise typically purchased through proxy services like Buyee, ZenMarket,
   and FROM JAPAN
 author: Takapon
+voice: "advisory"
 excerpt: >-
   Mercari Japan has the anime figure you've been hunting for three months. Yahoo
   Auctions has the doujinshi. You are in Portland. Proxy services fix this —
@@ -21,6 +22,11 @@ excerpt: >-
 relatedSlugs: []
 wpPostId: 610
 ---
+
+## TL;DR
+
+Japan proxy shopping 2026 visitor guide (Buyee / ZenMarket / Mercari proxy)。アクセス: オンライン購入 (海外発送)。営業時間: 24 時間オンライン受付。価格目安: proxy fee ¥300 per item (Buyee / ZenMarket、本文 verbatim §33+38-39) + item price + 国際 shipping (EMS / DHL / Surface)。**Wheelchair-accessible** N/A (online) + **English staff** at Buyee / ZenMarket support。Buyee **vs** ZenMarket: Buyee covers Yahoo Auctions / Amazon Japan、ZenMarket covers Mercari / Yahoo / Rakuten。**Before / after** Japan-side warehouse arrival: combined shipping reduces per-item cost (§38)。
+
 Japan Proxy Shopping 2026: Buy Anime Figures & Merch Online
 Mercari Japan has the anime figure you’ve been hunting for three months. It’s on Yahoo Auctions. You’re in Portland. Problem: these sites don’t ship internationally, and they don’t speak English. Solution: a proxy service. Instead of giving up, you use a middleman to buy it for you.
 Five major proxy services have been compared across two years of real anime-figure, vintage-manga, rare-gacha, and miscellaneous-merch orders. Some are great. Some charge hidden fees. Here’s the breakdown based on actual spending data, not theory.

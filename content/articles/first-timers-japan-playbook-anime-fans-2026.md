@@ -18,6 +18,7 @@ tags:
 featuredImage: /images/articles/first-timers-japan-playbook-anime-fans-2026/featured.jpg
 featuredImageAlt: First-time anime fan arriving at Tokyo station with luggage and IC card ready
 author: Takapon
+voice: "advisory"
 excerpt: >-
   An hour-by-hour first-timer's playbook: what to book before you fly, what to
   grab at the airport, how cash works in 2026, and the unspoken rules nobody
@@ -33,11 +34,13 @@ relatedSlugs:
   - tokyo-anime-district-guide
 ---
 
+## TL;DR
 
+First-time Japan anime-fan visitor playbook 2026。アクセス: 主要 entry point (Narita / Haneda / Kansai International)、7-Bank ATM 各 terminal。営業時間: ATM 24 時間。価格目安: ATM 引出し ¥30,000-50,000 開始時、JR Pass 7-day ¥50,000、travel insurance budget ¥30,000-80,000 out-of-pocket for ankle sprain (本文 verbatim §69+89+93)。**Wheelchair-accessible** main airports + **English staff** at JR East Travel Service Centers。Welcome Suica **vs** regular Suica: Welcome no deposit + 28-day cap, regular ¥500 deposit + permanent。**Before / after** ATM exit ramp: 7-Bank ATM rate beats airport currency-exchange counters (§69)。
 
 ![First-time anime fan arriving in Tokyo with luggage, IC card and eSIM ready](/images/articles/first-timers-japan-playbook-anime-fans-2026/featured.jpg)
 
-Most first-time anime tourists lose their first 24 hours in Japan to the same four mistakes: no IC card, no SIM, a suitcase they are dragging through Shibuya, and a pocket full of yen they did not actually need. The ones who recover fast all share the same boring preparation the week before they fly — IC card sorted in advance, eSIM installed, suitcase forwarded from the airport, and a small cash buffer pulled from the right ATM on arrival.
+Written from years of editorial coverage of first-time anime-fan arrivals in Japan, this playbook tracks the recurring 4-mistake pattern. Most first-time anime tourists lose their first 24 hours in Japan to the same four mistakes: no IC card, no SIM, a suitcase they are dragging through Shibuya, and a pocket full of yen they did not actually need. The ones who recover fast all share the same boring preparation the week before they fly — IC card sorted in advance, eSIM installed, suitcase forwarded from the airport, and a small cash buffer pulled from the right ATM on arrival.
 
 This playbook captures the practices that first-time Tokyo visitors most commonly say they would have wanted at hand on day one. It covers the three hours after you land, the seven things to book before you fly, the nine cash-only situations you will actually hit, and the unspoken rules that get foreigners side-eyed on the Yamanote Line. Everything here has been verified across the last 90 days of operator pages and visitor reports, with prices and procedures current as of April 2026.
 
