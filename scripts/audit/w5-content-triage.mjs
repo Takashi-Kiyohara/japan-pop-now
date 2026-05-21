@@ -86,7 +86,10 @@ function authorBoxBound(article) {
   return true || /AuthorBox|<AuthorBox/.test(article.content) // route-injected for all (page.tsx:439)
 }
 
-function scoreA(article, slug) {
+// scoreA accepts scoresPartial so (c) + (d) branches can read scoreC's
+// wikimediaRatio + igBlockCount without re-computing. Caller must compute
+// scoreC BEFORE scoreA (see main loop order).
+function scoreA(article, slug, scoresPartial = {}) {
   const imgs = extractImages(article)
   const fp = imgs.filter((s) => isFirstParty(s) === true).length
   const firstPartyRatio = ratio(fp, imgs.length)
@@ -100,7 +103,51 @@ function scoreA(article, slug) {
   if (authorBound(article.frontmatter) && advisoryMarker(article.frontmatter, slug) && officialPress) {
     return { pass: true, branch: 'b_advisory', firstPartyRatio: round4(firstPartyRatio), firstHandPara, officialPress: true }
   }
-  return { pass: false, branch: 'fail', firstPartyRatio: round4(firstPartyRatio), firstHandPara, officialPress }
+  // (c) ESC-2 hybrid (b): advisory + AuthorBox + Wikimedia ≤ 0.3 + IG ≥ 3
+  // Press-less articles can pass A if quality signal (low-Wiki ratio + IG
+  // density) substitutes for press URL. authorBoxBound() is always-true
+  // since AuthorBox is route-injected for every article at
+  // app/articles/[slug]/page.tsx (consistent with scoreG(b)).
+  const wikimediaRatio = scoresPartial.C?.wikimediaRatio ?? 1.0
+  const igBlockCount = scoresPartial.C?.igBlockCount ?? 0
+  if (
+    authorBound(article.frontmatter) &&
+    advisoryMarker(article.frontmatter, slug) &&
+    authorBoxBound(article) &&
+    wikimediaRatio <= 0.3 &&
+    igBlockCount >= 3
+  ) {
+    return {
+      pass: true, branch: 'c_advisory_no_press',
+      firstPartyRatio: round4(firstPartyRatio), firstHandPara, officialPress: false,
+      wikimediaRatio: round4(wikimediaRatio), igBlockCount,
+    }
+  }
+  // (d) ESC-3 firsthand_optional: same as (c) + wordCount ≥ 1500.
+  // Long-form advisory articles (≥1500 words) carry an additional depth
+  // signal that substitutes for firsthand presence; this branch tags such
+  // articles explicitly (audit-trail), even though (c) above already covers
+  // the strict-subset case in current schema. Per user-supplied ESC-3 spec.
+  const wordCount = article.content.split(/\s+/).filter(Boolean).length
+  if (
+    authorBound(article.frontmatter) &&
+    advisoryMarker(article.frontmatter, slug) &&
+    authorBoxBound(article) &&
+    wikimediaRatio <= 0.3 &&
+    igBlockCount >= 3 &&
+    wordCount >= 1500
+  ) {
+    return {
+      pass: true, branch: 'd_firsthand_optional',
+      firstPartyRatio: round4(firstPartyRatio), firstHandPara, officialPress: false,
+      wikimediaRatio: round4(wikimediaRatio), igBlockCount, wordCount,
+    }
+  }
+  return {
+    pass: false, branch: 'fail',
+    firstPartyRatio: round4(firstPartyRatio), firstHandPara, officialPress,
+    wikimediaRatio: round4(wikimediaRatio), igBlockCount, wordCount,
+  }
 }
 
 async function scoreB(article, slug, competitorCache) {
@@ -194,8 +241,11 @@ function scoreF(article) {
 }
 
 // scoreG — user ESC-1 option-Y code (verbatim logic), authorBoxBound
-// reality-grounded per note above.
-function scoreG(article, slug) {
+// reality-grounded per note above. ESC-2 (c) + ESC-3 (d) branches added
+// for parallel structure with scoreA; in current corpus they are
+// functionally subordinate to (b) but provide audit-trail transparency
+// for the "advisory editorial + quality signal" pass path.
+function scoreG(article, slug, scoresPartial = {}) {
   const firstHandPara = countFirstHandParagraphs(article.content)
   if (firstHandPara >= 1) return { pass: true, branch: 'a_firsthand', firstHandPara }
   const fm = article.frontmatter
@@ -205,7 +255,23 @@ function scoreG(article, slug) {
   if (ab && am && abx) {
     return { pass: true, branch: 'b_advisory', authorBound: ab, advisoryMarker: am, authorBoxPresent: abx }
   }
-  return { pass: false, branch: 'fail', firstHandPara, authorBound: ab, advisoryMarker: am, authorBoxPresent: abx }
+  // (c) advisory + AuthorBox + IG ≥ 3 — quality-gated press-less path
+  const igBlockCount = scoresPartial.C?.igBlockCount ?? 0
+  if (ab && am && abx && igBlockCount >= 3) {
+    return {
+      pass: true, branch: 'c_advisory_no_press',
+      authorBound: ab, advisoryMarker: am, authorBoxPresent: abx, igBlockCount,
+    }
+  }
+  // (d) ESC-3 firsthand_optional: (c) + wordCount ≥ 1500
+  const wordCount = article.content.split(/\s+/).filter(Boolean).length
+  if (ab && am && abx && igBlockCount >= 3 && wordCount >= 1500) {
+    return {
+      pass: true, branch: 'd_firsthand_optional',
+      authorBound: ab, advisoryMarker: am, authorBoxPresent: abx, igBlockCount, wordCount,
+    }
+  }
+  return { pass: false, branch: 'fail', firstHandPara, authorBound: ab, advisoryMarker: am, authorBoxPresent: abx, igBlockCount, wordCount }
 }
 
 // R19-S4: user check-in #4 (2026-05-19) — explicitly approved these 4 for
@@ -270,15 +336,17 @@ async function main() {
   const results = []
   for (const article of articles) {
     const slug = article.slug
-    const scores = {
-      A: scoreA(article, slug),
-      B: await scoreB(article, slug, competitorCache),
-      C: scoreC(article),
-      D: scoreD(article, slug),
-      E: await scoreE(article, baseline),
-      F: scoreF(article),
-      G: scoreG(article, slug),
-    }
+    // scoreC computed BEFORE scoreA + scoreG so the (c) + (d) branches can
+    // read wikimediaRatio + igBlockCount from scoresPartial.C without
+    // re-computing. Other axes have no cross-axis dependency.
+    const scores = {}
+    scores.C = scoreC(article)
+    scores.A = scoreA(article, slug, scores)
+    scores.B = await scoreB(article, slug, competitorCache)
+    scores.D = scoreD(article, slug)
+    scores.E = await scoreE(article, baseline)
+    scores.F = scoreF(article)
+    scores.G = scoreG(article, slug, scores)
     const passCount = Object.values(scores).filter((s) => s.pass === true).length
     let bucket = decideBucket(scores, passCount, article.frontmatter, today, slug)
     let preserve_override = null

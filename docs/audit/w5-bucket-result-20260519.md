@@ -1,12 +1,12 @@
-# W5 88-article triage — 2026-05-20T00:00:00Z
+# W5 88-article triage — 2026-05-21T00:37:31.038Z
 
 baseline e3f2c99 | total 88 | active_method draft3_p4_compressed_suspect_15pct | GPTZero absent_regex_only_degrade
 
 ## Buckets
-maintain=24 fix=60 delete=4 (A_410=4 B_301=0 C_noindex_90d=0)
+maintain=70 fix=14 delete=4 (A_410=4 B_301=0 C_noindex_90d=0)
 
 ## Axis PASS %
-A=22.7273% B=43.1818% C=95.4545% D=100% E=78.4091% F=56.8182% G=31.8182%
+A=72.7273% B=43.1818% C=95.4545% D=100% E=79.5455% F=80.6818% G=75%
 
 ## Press coverage
 press=38 competitor_fallback=0 manual_SME_flag=50 total=88

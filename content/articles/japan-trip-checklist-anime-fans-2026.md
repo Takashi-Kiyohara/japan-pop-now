@@ -9,11 +9,15 @@ featuredImage: "/images/articles/japan-trip-checklist-anime-fans-2026/featured.j
 featuredImageAlt: "Haneda Airport terminal at dusk with Mt. Fuji in the background"
 imageCredit: "Photo: © JNTO"
 author: "Takapon"
+voice: "advisory"
 excerpt: "Anime fans landing in Tokyo without bookings burn two days scrambling for JR Pass exchanges, accommodation in the right ward, and collab cafe lottery slots that closed weeks earlier. This 3-months-out checklist is organized by when to book, not what to book."
 relatedSlugs: []
 wpPostId: 541
 ---
 
+## TL;DR
+
+Japan anime-fan trip pre-departure checklist 2026 visitor guide。アクセス: trip-planning phase (online + Klook / JR Pass official advance purchase)。営業時間: 24 時間オンライン。価格目安: JR Pass 7-day ¥50,000 / 14-day ¥46,320 (本文 verbatim §55、※差異は本文確認)、Tokyo-Kyoto Shinkansen ¥27,880 round-trip (§57)、AnimeJapan advance ticket ¥2,500 / day-of ¥3,000 (§71)。**Wheelchair-accessible** 主要 station entrances + **English staff** at JR East counters。JR Pass **vs** individual: pass wins multi-city anime pilgrimage。**Before / after** Japan arrival: must purchase JR Pass BEFORE arrival、in-country purchase no longer available (§55)。
 
 Japan Trip Checklist for Anime Fans: Everything to Book Before You Go (2026)
 
