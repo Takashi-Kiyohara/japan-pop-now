@@ -9,10 +9,16 @@ featuredImage: "/images/articles/japan-rail-pass-2026-guide/hero-wikimedia.webp"
 featuredImageAlt: "Shinkansen N700S bullet train arriving at Tokyo Station Shinkansen platform"
 imageCredit: "Photo: Syced / Wikimedia Commons (CC0)"
 author: "Takapon"
+voice: "advisory"
 excerpt: "The JR Pass costs ¥50,000 for 7 days in 2026 — up from ¥29,650 in 2022. After JR East's 70% price hike in October 2023, the math changed completely. This guide breaks down exactly when it still saves money, when regional passes win, and how to calculate your own trip before you buy."
 relatedSlugs: []
 wpPostId: 613
 ---
+
+## TL;DR
+
+Japan Rail Pass 2026 (post-2023 fare reset) visitor guide。アクセス: 全国 JR 駅 みどりの窓口 + オンライン購入。営業時間: 24 時間オンライン購入可、みどりの窓口 typical 6:30-22:00 帯。価格目安: 7-day ~¥50,000 (本文 verbatim §title、post-Oct-2023 70% hike)、Shinkansen Nozomi/Mizuho 除外、break-even は trip planning 次第。予約は JR Pass 公式 / Klook 経由。
+
 **Last updated: May 2026**
 Japan Rail Pass 2026: Worth ¥50,000? Honest Calculator Inside
 The JR Pass costs ¥50,000 ($330) for 7 days in 2026 — up from ¥29,650 in 2022. We break down exactly when it saves money, when you’re better off with regional passes, and how to calculate your own trip before you buy.

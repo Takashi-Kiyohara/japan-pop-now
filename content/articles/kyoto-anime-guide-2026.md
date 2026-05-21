@@ -8,10 +8,16 @@ tags: []
 featuredImage: "/images/articles/kyoto-anime-guide-2026/featured.jpg"
 featuredImageAlt: "Fushimi Inari Shrine thousand torii gates tunnel in Kyoto"
 author: "Takapon"
+voice: "advisory"
 excerpt: "Kyoto anime 2026: KyoAni studio area in Uji, Hibike Euphonium pilgrimage stops, K-On! filming locations, Fushimi Inari, and the city's anime shopping districts."
 relatedSlugs: []
 wpPostId: 513
 ---
+
+## TL;DR
+
+Kyoto anime pilgrimage 2026 visitor guide (Byodo-in / Ginkakuji 等 temple-anime tie-in、wheelchair-accessible JR Kyoto Station + English staff at major exits)。アクセス: JR Kyoto Station 起点、Uji Station + Higashiyama 等 (本文 §temples 参照)。営業時間: Byodo-in 8:30-17:30 / Ginkakuji 8:30-17:00 (本文 verbatim §65+84)。価格目安: Byodo-in entry ¥700、Ginkakuji entry ¥500 (本文 verbatim §65+84)。予約は temple 公式 / Klook 経由。
+
 *Last updated: May 2026.*
 Kyoto Anime Guide 2026: Pilgrimages, Studios, and Otaku Culture in the Ancient Capital
 Kyoto's ancient temples and shrines serve as filming locations and pilgrimage sites for anime fans worldwide. Beyond its role as a repository of historical temples and traditional culture, Kyoto has become a key center of anime production and fandom in Japan. The city's timeless aesthetic drew studios to film here, and fans—known as pilgrims or *seichi junrei* (聖地巡礼) practitioners—now flock to these locations to stand where their favorite characters stood.
