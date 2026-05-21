@@ -115,7 +115,7 @@ Located at Universal Studios Japan (Osaka, 2.5 hours from Tokyo by train). Full 
 **4:00 PM:** Pokemon Center Shibuya (quick visit, 30 mins). Grab anything you missed at MEGA.
 **5:00 PM:** JUMP SHOP (30 mins) for Shonen Jump franchise merch.
 **6:00 PM:** Dinner — a casual ramen shop in Shibuya or Shinjuku, or head to Akihabara for Luida’s Bar (Dragon Quest themed, last entry well before its 9:00 PM close).
-**8:00 PM:** Sega World Shinjuku or arcade gaming for 1–2 hours. ¥2,000–¥4,000.
+**8:00 PM:** GiGO Shinjuku (or any GiGO / Round1 branch) for 1–2 hours of arcade gaming. ¥2,000–¥4,000.
 **10:00 PM:** Head home or grab late-night ramen in Shinjuku.
 **Total estimated cost: ¥12,000–¥30,000 (USD $85–$210)** depending on shopping restraint and cafe reservations.
 
