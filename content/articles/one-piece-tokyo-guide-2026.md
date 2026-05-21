@@ -10,12 +10,17 @@ tags: []
 featuredImage: /images/articles/one-piece-tokyo-guide-2026/hero-wikimedia.webp
 featuredImageAlt: Tokyo Solamachi at Skytree Town — home of the Mugiwara Store flagship
 author: Takapon
+voice: "advisory"
 excerpt: >-
   One Piece in Tokyo 2026: Base Shop Shinjuku, 5 Mugiwara Stores, One Piece Cafe
   GENE at Shibuya PARCO, and Jump Shop Jimbocho — full addresses, hours, route.
 relatedSlugs: []
 wpPostId: 512
 ---
+
+## TL;DR
+
+One Piece Tokyo visitor guide 2026 (Mugiwara Store / Base Shop / PARCO Cafe)。アクセス: 主要 Tokyo anime district (Shibuya / Akihabara / Ikebukuro)。営業時間: 店舗別 (PARCO Cafe 90-min slot 制)。価格目安: Base Shop figure ¥8,000-10,000 / acrylic stand ¥2,000-2,500 (本文 verbatim §68)、PARCO Cafe 食事 ¥1,200-2,000 + drink ¥750-1,200 / pin ¥850 / clear file ¥600 / tray ¥1,500 (§118+120)。**Wheelchair-accessible** main stations + **English staff** at PARCO。Base Shop **vs** Mugiwara Store: Base Shop has Gear Fifth scale figures, Mugiwara has regional exclusives。**Before / after** monthly Thursday drops: stock peaks within 24 hours of release。
 
 *Last updated: May 2026, operator-source comparison guide.*
 

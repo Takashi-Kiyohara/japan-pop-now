@@ -2,12 +2,12 @@
   "_meta": {
     "active_method": "draft3_p4_compressed_suspect_15pct",
     "axis_pass_pct": {
-      "A": 62.5,
+      "A": 65.9091,
       "B": 43.1818,
       "C": 95.4545,
       "D": 100,
       "E": 79.5455,
-      "F": 72.7273,
+      "F": 73.8636,
       "G": 68.1818
     },
     "baseline_sha": "e3f2c99",
@@ -41,10 +41,10 @@
       "delete_A_410": 4,
       "delete_B_301": 0,
       "delete_C_noindex": 0,
-      "fix": 23,
-      "maintain": 61
+      "fix": 20,
+      "maintain": 64
     },
-    "generated": "2026-05-21T00:26:43.691Z",
+    "generated": "2026-05-21T00:32:27.586Z",
     "gptzero": "absent_regex_only_degrade",
     "preserve_list": {
       "all_maintained": true,
@@ -136,22 +136,19 @@
     },
     {
       "bucket": {
-        "manual_reaudit_gate": true,
-        "noindex_quarantine": true,
-        "type": "fix"
+        "type": "maintain"
       },
-      "passCount": 5,
+      "passCount": 6,
       "preserve_override": null,
       "scores": {
         "A": {
-          "branch": "fail",
+          "branch": "c_advisory_no_press",
           "firstHandPara": 0,
           "firstPartyRatio": 1,
-          "igBlockCount": 1,
+          "igBlockCount": 4,
           "officialPress": false,
-          "pass": false,
-          "wikimediaRatio": 0,
-          "wordCount": 4156
+          "pass": true,
+          "wikimediaRatio": 0
         },
         "B": {
           "cosine": null,
@@ -160,7 +157,7 @@
           "source": "manual_SME_flag"
         },
         "C": {
-          "igBlockCount": 1,
+          "igBlockCount": 4,
           "pass": true,
           "wikimediaRatio": 0
         },
@@ -172,22 +169,22 @@
         "E": {
           "bpZ": -0.5,
           "bp_hits": 0,
-          "emDashZ": -0.4308,
-          "em_dash_density": 0.382,
+          "emDashZ": -0.4919,
+          "em_dash_density": 0.3738,
           "pass": true,
-          "sd": 12.3664,
-          "sdZ": -1.7996,
+          "sd": 12.2303,
+          "sdZ": -1.8429,
           "source": "composite_regex_only"
         },
         "F": {
-          "count": 4,
+          "count": 5,
           "pass": true,
           "required": {
             "access": true,
             "booking": true,
             "hours": true,
             "price": true,
-            "tldr": false
+            "tldr": true
           }
         },
         "G": {
@@ -1017,22 +1014,19 @@
     },
     {
       "bucket": {
-        "manual_reaudit_gate": true,
-        "noindex_quarantine": true,
-        "type": "fix"
+        "type": "maintain"
       },
-      "passCount": 4,
+      "passCount": 6,
       "preserve_override": null,
       "scores": {
         "A": {
-          "branch": "fail",
+          "branch": "c_advisory_no_press",
           "firstHandPara": 0,
           "firstPartyRatio": 1,
-          "igBlockCount": 1,
+          "igBlockCount": 4,
           "officialPress": false,
-          "pass": false,
-          "wikimediaRatio": 0,
-          "wordCount": 3044
+          "pass": true,
+          "wikimediaRatio": 0
         },
         "B": {
           "cosine": null,
@@ -1041,7 +1035,7 @@
           "source": "manual_SME_flag"
         },
         "C": {
-          "igBlockCount": 1,
+          "igBlockCount": 4,
           "pass": true,
           "wikimediaRatio": 0
         },
@@ -1053,22 +1047,22 @@
         "E": {
           "bpZ": 0.75,
           "bp_hits": 1,
-          "emDashZ": -0.4506,
-          "em_dash_density": 0.3793,
+          "emDashZ": -0.5531,
+          "em_dash_density": 0.3657,
           "pass": true,
-          "sd": 19.7981,
-          "sdZ": 0.5601,
+          "sd": 19.4052,
+          "sdZ": 0.4353,
           "source": "composite_regex_only"
         },
         "F": {
-          "count": 3,
-          "pass": false,
+          "count": 5,
+          "pass": true,
           "required": {
             "access": true,
             "booking": true,
             "hours": true,
-            "price": false,
-            "tldr": false
+            "price": true,
+            "tldr": true
           }
         },
         "G": {
@@ -3864,7 +3858,7 @@
           "auto_promote": "stage_A_410",
           "routing": "noindex",
           "stage": "C",
-          "ttl_expires": "2026-08-19T00:26:43.691Z",
+          "ttl_expires": "2026-08-19T00:32:27.586Z",
           "type": "delete"
         },
         "reason": "PRESERVE LIST Tier 2 (partial firsthand)"
@@ -4257,22 +4251,19 @@
     },
     {
       "bucket": {
-        "manual_reaudit_gate": true,
-        "noindex_quarantine": true,
-        "type": "fix"
+        "type": "maintain"
       },
-      "passCount": 5,
+      "passCount": 6,
       "preserve_override": null,
       "scores": {
         "A": {
-          "branch": "fail",
+          "branch": "c_advisory_no_press",
           "firstHandPara": 0,
           "firstPartyRatio": 1,
-          "igBlockCount": 1,
+          "igBlockCount": 3,
           "officialPress": false,
-          "pass": false,
-          "wikimediaRatio": 0,
-          "wordCount": 3568
+          "pass": true,
+          "wikimediaRatio": 0
         },
         "B": {
           "cosine": null,
@@ -4281,7 +4272,7 @@
           "source": "manual_SME_flag"
         },
         "C": {
-          "igBlockCount": 1,
+          "igBlockCount": 3,
           "pass": true,
           "wikimediaRatio": 0
         },
@@ -4293,22 +4284,22 @@
         "E": {
           "bpZ": -0.5,
           "bp_hits": 0,
-          "emDashZ": -0.3935,
-          "em_dash_density": 0.3869,
+          "emDashZ": -0.4809,
+          "em_dash_density": 0.3753,
           "pass": true,
-          "sd": 18.0727,
-          "sdZ": 0.0122,
+          "sd": 17.858,
+          "sdZ": -0.056,
           "source": "composite_regex_only"
         },
         "F": {
-          "count": 4,
+          "count": 5,
           "pass": true,
           "required": {
             "access": true,
             "booking": true,
             "hours": true,
             "price": true,
-            "tldr": false
+            "tldr": true
           }
         },
         "G": {
