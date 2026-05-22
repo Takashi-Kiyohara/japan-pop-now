@@ -31,14 +31,20 @@ export function generateFAQSchema(faqs: FAQItem[]): FAQSchema {
   return {
     '@context': 'https://schema.org',
     '@type': 'FAQPage',
-    mainEntity: faqs.map((faq) => ({
-      '@type': 'Question',
-      name: faq.question,
-      acceptedAnswer: {
-        '@type': 'Answer',
-        text: stripMarkdown(faq.answer),
-      },
-    })),
+    mainEntity: faqs
+      .map((faq) => ({
+        '@type': 'Question',
+        name: faq.question,
+        acceptedAnswer: {
+          '@type': 'Answer',
+          text: stripMarkdown(faq.answer),
+        },
+      }))
+      // RED-3 (2026-05-22): drop any entry whose answer is empty after
+      // stripMarkdown (e.g. a tag/table-only "answer") — an empty
+      // acceptedAnswer.text fails Google Rich Results. Safety net alongside
+      // the extraction-side skip in extractQAFromHeadings().
+      .filter((q) => q.acceptedAnswer.text.trim().length > 0),
   };
 }
 
@@ -160,7 +166,14 @@ export function extractQAFromHeadings(markdown: string): FAQItem[] {
         // *italic* — those share the '*' prefix but are prose, not bullets.
         const isBullet = /^[-*]\s/.test(nextLine);
         const isCodeFence = nextLine.startsWith('```');
-        if (!isBullet && !isCodeFence) {
+        // RED-3 (2026-05-22): also skip HTML/MDX tag lines (<div ...>,
+        // <ResponsiveTable ...>, <GoogleMap/>) and markdown table rows (|...|).
+        // These are not prose; collecting them gave an "answer" that
+        // stripMarkdown() later reduced to "", emitting empty acceptedAnswer
+        // entries that fail Google Rich Results.
+        const isTag = nextLine.startsWith('<');
+        const isTableRow = nextLine.startsWith('|');
+        if (!isBullet && !isCodeFence && !isTag && !isTableRow) {
           answer += nextLine + ' ';
         }
         i++;
