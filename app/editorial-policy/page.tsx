@@ -1,4 +1,5 @@
 import { Metadata } from 'next';
+import Link from 'next/link';
 import Breadcrumb from '@/components/Breadcrumb';
 
 export const metadata: Metadata = {
@@ -124,9 +125,9 @@ export default function EditorialPolicyPage() {
           ))}
           <p style={{ fontSize: '0.9rem', color: '#78716c' }}>
             Spotted a factual error? See the{' '}
-            <a href="/corrections" style={{ color: '#0d9488', textDecoration: 'underline' }}>
+            <Link href="/corrections" style={{ color: '#0d9488', textDecoration: 'underline' }}>
               corrections page
-            </a>
+            </Link>
             .
           </p>
         </div>
