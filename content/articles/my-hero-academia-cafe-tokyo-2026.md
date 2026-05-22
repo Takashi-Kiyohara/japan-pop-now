@@ -13,7 +13,7 @@ featuredImage: /images/articles/my-hero-academia-cafe-tokyo-2026/featured.jpg
 featuredImageAlt: Kabukicho neon street at night in Shinjuku Tokyo anime district
 imageNote: >-
   exhausted-permanent — DECOTTO Animate Cafe collab ended 2026-04-26;
-  retroactive Takapon photoshoot impossible. Wikimedia venue photos with caption
+  retroactive Takashi Kiyohara photoshoot impossible. Wikimedia venue photos with caption
   disclosure are the permanent state. Audit doc:
   docs/audit/collab-image-exhausted-20260427.md
 author: Takashi Kiyohara

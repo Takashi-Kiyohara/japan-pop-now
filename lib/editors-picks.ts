@@ -10,13 +10,13 @@
  * Guardrails:
  *  - Every slug MUST exist under content/articles/*.md(x). Build fails if not.
  *  - visitedDate is ISO YYYY-MM-DD, required for the "Visited {date}" badge.
- *  - photosBy: 'Takapon' | 'Moe'. Used for the Contributor Spotlight filter.
+ *  - photosBy: 'Takashi Kiyohara' | 'Moe'. Used for the Contributor Spotlight filter.
  *  - quote is a single-sentence pull quote lifted from the visit report.
  *  - Keep the list at 6-10 entries; older picks should rotate off rather
  *    than accumulate. Update when a new first-hand visit ships.
  */
 
-export type PickContributor = 'Takapon' | 'Moe';
+export type PickContributor = 'Takashi Kiyohara' | 'Moe';
 
 export interface EditorPick {
   slug: string;
@@ -32,7 +32,7 @@ export const EDITORS_PICKS: EditorPick[] = [
     slug: 'one-piece-tokyo-guide-2026',
     visitedDate: '2026-04-08',
     quote: 'The rooftop Mugiwara photo spot is gone. The replacement at Odaiba is better.',
-    photosBy: 'Takapon',
+    photosBy: 'Takashi Kiyohara',
     context: 'First visit since the 2025 relocation. The new queue flow works.',
   },
   {
@@ -46,21 +46,21 @@ export const EDITORS_PICKS: EditorPick[] = [
     slug: 'blue-lock-tokyo-skytree-cafe-2026',
     visitedDate: '2026-04-15',
     quote: 'Ninety minutes of it felt like a theme park.',
-    photosBy: 'Takapon',
+    photosBy: 'Takashi Kiyohara',
     context: 'Season 2 takeover peak weekend. Reservation held 9 days out.',
   },
   {
     slug: 'akihabara-arcade-rhythm-games-guide-2026',
     visitedDate: '2026-04-17',
     quote: 'Three days of testing, four thousand yen in coins, and one honest machine ranking.',
-    photosBy: 'Takapon',
+    photosBy: 'Takashi Kiyohara',
     context: 'The rhythm game first-timer guide, with POV shots from each major cabinet.',
   },
   {
     slug: 'demon-slayer-rerun-cafe-ufotable-2026',
     visitedDate: '2026-04-18',
     quote: 'Advance-lottery only. Walk-in was never a realistic option this round.',
-    photosBy: 'Takapon',
+    photosBy: 'Takashi Kiyohara',
     context: 'ufotable Tokyo confirmed seating flow and the character-pair drink order.',
   },
   {
@@ -74,7 +74,7 @@ export const EDITORS_PICKS: EditorPick[] = [
     slug: 'golden-week-2026-anime-events-complete-guide',
     visitedDate: '2026-04-20',
     quote: 'Fifteen events in seven days. Book the first four from home, walk into the rest.',
-    photosBy: 'Takapon',
+    photosBy: 'Takashi Kiyohara',
     context: 'The GW 2026 plan, verified against every operator on the day of publishing.',
   },
 ];

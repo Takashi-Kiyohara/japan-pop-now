@@ -107,7 +107,7 @@ export default function SupportPage() {
             style={{ color: '#44403c', lineHeight: 1.8, fontSize: '0.95rem' }}
           >
             <p className="mb-4">
-              Japan Pop Now is run by one person (hi, Takapon) with a small
+              Japan Pop Now is run by one person (hi, Takashi Kiyohara) with a small
               on-the-ground team in Tokyo. Every cafe we cover, we visit.
               Every reservation flow we explain, we booked ourselves.
               Translation, research, fact-checking, and field photography all

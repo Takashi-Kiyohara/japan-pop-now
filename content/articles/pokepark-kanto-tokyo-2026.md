@@ -14,7 +14,7 @@ featuredImageAlt: >-
 imageNote: >-
   Hero is aerial of Yomiuriland (host venue, but PokéPark gate not visible at
   scale); body images use Pokemon Center Mega Tokyo as visual proxy for Pokemon
-  IP retail. PokéPark-specific photography pending Takapon visit. See
+  IP retail. PokéPark-specific photography pending Takashi Kiyohara visit. See
   docs/audit/collab-image-exhausted-20260427.md.
 author: Takashi Kiyohara
 voice: "advisory"

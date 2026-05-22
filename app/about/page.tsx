@@ -7,7 +7,7 @@ import ArticleCard from '@/components/ArticleCard';
 export const metadata: Metadata = {
   title: { absolute: 'About Japan Pop Now — Editorial Mission, Sourcing, and Author' },
   description:
-    'Mission, editorial principles, image policy, and affiliate disclosures for japan-pop-now.com — written by Takapon, Tokyo-based editor covering anime collab cafes, pilgrimage spots, and pop-culture travel.',
+    'Mission, editorial principles, image policy, and affiliate disclosures for japan-pop-now.com — written by Takashi Kiyohara, Tokyo-based editor covering anime collab cafes, pilgrimage spots, and pop-culture travel.',
   alternates: {
     canonical: 'https://www.japan-pop-now.com/about',
   },
@@ -85,8 +85,8 @@ const SECTIONS: { heading: string; body: string[] }[] = [
   {
     heading: 'Editorial team',
     body: [
-      `Japan Pop Now is currently a one-person editorial operation. ${AUTHOR.name} writes, photographs, fact-checks, designs, and codes the site. There is no editorial team beyond Takapon, no contributor network, and no ghostwriter pool.`,
-      `Editorial review is handled by external review passes — Japanese trade press articles, operator official pages, and visitor reports on X — which we cross-check against the article body before publication. We do not use AI-generated articles. Articles are written by Takapon, then run through a fact-check pass against the cited sources before publication.`,
+      `Japan Pop Now is currently a one-person editorial operation. ${AUTHOR.name} writes, photographs, fact-checks, designs, and codes the site. There is no editorial team beyond Takashi Kiyohara, no contributor network, and no ghostwriter pool.`,
+      `Editorial review is handled by external review passes — Japanese trade press articles, operator official pages, and visitor reports on X — which we cross-check against the article body before publication. We do not use AI-generated articles. Articles are written by Takashi Kiyohara, then run through a fact-check pass against the cited sources before publication.`,
       `Should the site grow to a multi-author operation in the future, every contributing author will get a public byline and an entry on this page; we will not anonymize or substitute author identity.`,
     ],
   },
@@ -321,7 +321,7 @@ export default function AboutPage() {
               Get in touch
             </h2>
             <p style={{ color: 'rgba(255,255,255,0.6)', marginBottom: '24px', lineHeight: 1.7 }}>
-              Tip, correction, or partnership inquiry — Takapon reads everything that lands.
+              Tip, correction, or partnership inquiry — Takashi Kiyohara reads everything that lands.
             </p>
             <a
               href="mailto:snsganbaro@gmail.com"
