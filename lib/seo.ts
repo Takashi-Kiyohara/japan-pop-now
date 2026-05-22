@@ -42,7 +42,7 @@ export function generateArticleMetadata(article: ArticleMeta, slug: string) {
       publishedTime: article.date,
       modifiedTime: article.date,
       // R14-B (2026-05-14): og:authors SSoT enforcement — fall back to
-      // AUTHOR.name (Takapon) when frontmatter author is empty. Prevents
+      // AUTHOR.name (Takashi Kiyohara) when frontmatter author is empty. Prevents
       // OG meta from emitting an empty authors array, which OG validators
       // and Twitter Card validators both flag as malformed.
       authors: [article.author || AUTHOR.name],

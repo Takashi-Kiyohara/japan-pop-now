@@ -10,7 +10,7 @@ category: destinations
 tags: []
 featuredImage: /images/articles/anime-day-trips-from-tokyo-2026/featured.jpg
 featuredImageAlt: Great Buddha statue in Kamakura a popular anime day trip from Tokyo
-author: Takapon
+author: Takashi Kiyohara
 voice: "advisory"
 excerpt: >-
   Six of Japan's best anime pilgrimage spots sit within day-trip range of Tokyo

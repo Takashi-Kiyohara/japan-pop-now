@@ -25,7 +25,7 @@ heroImageAlt: >-
   LuvLab Harajuku crafting table with colorful keycaps, charm displays, and
   pegboard wall
 imageCredit: Photos by Japan Pop Now
-author: Takapon
+author: Takashi Kiyohara
 excerpt: >-
   LuvLab Harajuku opened April 10, 2026 — a walk-in DIY accessory workshop 2
   minutes from JR Harajuku Station where you can make Italian charm watches,

@@ -16,7 +16,7 @@ category: "collab-cafes" | "experiences" | "area-guides" | "anime-pilgrimage" | 
 tags: string[]
 featuredImage: "/images/articles/{slug}/featured.jpg"
 featuredImageAlt: string (descriptive, SEO-friendly)
-author: "Takapon"
+author: "Takashi Kiyohara"
 excerpt: string
 relatedSlugs: string[]
 ```

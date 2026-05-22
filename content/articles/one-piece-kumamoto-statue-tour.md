@@ -13,7 +13,7 @@ featuredImageAlt: >-
   Kumamoto Prefectural Government Office building — the location of the Monkey
   D. Luffy bronze statue, the first installed of Eiichiro Oda's Straw Hat
   statues
-author: Takapon
+author: Takashi Kiyohara
 voice: "advisory"
 excerpt: >-
   All 10 Straw Hat crew statues in Kumamoto with maps, transit access, and a

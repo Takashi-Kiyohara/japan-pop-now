@@ -13,7 +13,7 @@ featuredImageAlt: >-
   Makuhari Messe convention hall in Chiba — Wonder Festival venue for figure
   events
 imageCredit: 'Photo: Wikimedia Commons (CC BY-SA)'
-author: Takapon
+author: Takashi Kiyohara
 excerpt: >-
   Wonder Festival 2026 Summer takes place July 26 at Makuhari Messe — the
   world's largest figure and garage kit event with 2,000+ dealer booths. Tickets

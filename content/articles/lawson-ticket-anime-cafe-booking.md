@@ -5,7 +5,7 @@ date: '2026-03-28'
 updated: '2026-04-28'
 lastUpdated: '2026-04-28'
 dateModified: '2026-04-28'
-author: Takapon
+author: Takashi Kiyohara
 voice: "advisory"
 category: experiences
 tags:

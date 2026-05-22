@@ -12,7 +12,7 @@ featuredImage: /images/articles/weathering-with-you-locations-tokyo/featured.jpg
 featuredImageAlt: >-
   NTT Docomo Yoyogi Building clock tower at twilight — the Yoyogi-area landmark
   visible across the rainy Tokyo skyline of Weathering With You
-author: Takapon
+author: Takashi Kiyohara
 excerpt: >-
   Every Weathering With You Tokyo location verified as publicly accessible —
   Tabata, Yoyogi, Asahi Inari Shrine — with half-day and full-day walking

@@ -9,7 +9,7 @@ category: destinations
 tags: []
 featuredImage: /images/articles/nakano-broadway-guide/featured.jpg
 featuredImageAlt: Retro arcade game center inside Nakano Broadway with anime posters
-author: Takapon
+author: Takashi Kiyohara
 excerpt: >-
   Last updated: March 2026. Covers all floors, Mandarake locations, Daily Chico
   soft serve, opening hours, and a practical comparison with Akihabara.

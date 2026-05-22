@@ -22,7 +22,7 @@ heroImageAlt: >-
   crepe bowl, two character drinks, and Straw Hat Crew placemat with Moe from
   Japan Pop Now
 imageCredit: 'Photo: Japan Pop Now'
-author: Takapon
+author: Takashi Kiyohara
 excerpt: >-
   One Piece Cafe GENE at Shibuya PARCO 6F runs through May 18, 2026. After a
   full afternoon testing the Phase 2 menu — skull bowl ramen, birthday cards,

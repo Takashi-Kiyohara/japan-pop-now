@@ -85,7 +85,7 @@ export default function GuidesIndex() {
             They&apos;re built for first-time visitors who want a clear plan without the trial-and-error, and for repeat travelers chasing a specific franchise, season, or seasonal event. Pilgrimage purists, collab-cafe collectors, casual fans on a family trip — each persona has a recommended starting hub below.
           </p>
           <p style={{ marginBottom: 0, fontSize: '0.92rem', color: '#57534e' }}>
-            Updated monthly by Takapon, who lives in Tokyo and re-walks every featured route in person before publishing. If a cafe closes or a route changes, the guide changes with it.
+            Updated monthly by Takashi Kiyohara, who lives in Tokyo and re-walks every featured route in person before publishing. If a cafe closes or a route changes, the guide changes with it.
           </p>
         </div>
       </div>

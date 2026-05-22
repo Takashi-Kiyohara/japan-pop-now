@@ -10,7 +10,7 @@ tags: []
 featuredImage: /images/articles/best-anime-tours-tokyo-2026/featured.jpg
 featuredImageAlt: Yokohama Cosmo World amusement park with giant Ferris wheel at night
 imageCredit: 'Photo: © JNTO'
-author: Takapon
+author: Takashi Kiyohara
 voice: "advisory"
 excerpt: >-
   Six different anime tours across three platforms over 18 months — comparison

@@ -10,7 +10,7 @@ tags: []
 featuredImage: /images/articles/cosplay-experience-tokyo-2026/featured.webp
 featuredImageAlt: Cosplayers gathered for Shibuya Halloween street celebrations in Tokyo
 imageCredit: 'Photo: Dick Thomas Johnson / Wikimedia Commons, CC BY 2.0'
-author: Takapon
+author: Takashi Kiyohara
 voice: "advisory"
 excerpt: >-
   Rent a full cosplay outfit in Tokyo for ¥3,000–12,000 at English-friendly

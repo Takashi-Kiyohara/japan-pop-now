@@ -8,7 +8,7 @@ tags: []
 featuredImage: "/images/articles/japan-travel-insurance-2026/hero-wikimedia.webp"
 featuredImageAlt: "Traveller's Insurance vending machines at Haneda Airport Terminal 3 — Tokio Marine, MS&AD, and AIG Sonpo kiosks selling overseas travel insurance"
 imageCredit: "Photo: Momiji.Takinogawa / Wikimedia Commons (CC BY-SA 4.0)"
-author: "Takapon"
+author: "Takashi Kiyohara"
 voice: "advisory"
 excerpt: "You are in Tokyo, 3 AM, something hurts. The bill for three hours and some antibiotics is ¥45,000 without insurance. Japan's healthcare is excellent but expensive for tourists — uninsured travelers regularly report ER costs that exceed their airfare."
 relatedSlugs: []

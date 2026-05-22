@@ -12,7 +12,7 @@ featuredImageAlt: >-
   JR East E5 Hayabusa Shinkansen — the bullet train type covered by the JR Pass
   for Tohoku and Hokkaido routes
 imageCredit: 'Photo: MaedaAkihiko / Wikimedia Commons (CC BY-SA 4.0)'
-author: Takapon
+author: Takashi Kiyohara
 voice: "advisory"
 excerpt: >-
   If you’re planning an anime pilgrimage across Japan — hitting collab cafes in

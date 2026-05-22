@@ -10,7 +10,7 @@ category: destinations
 tags: []
 featuredImage: /images/articles/anime-pilgrimage-spots-tokyo/featured.webp
 featuredImageAlt: Sensoji Temple in Asakusa Tokyo a famous anime pilgrimage location
-author: Takapon
+author: Takashi Kiyohara
 voice: "advisory"
 excerpt: >-
   Visit real anime locations in Tokyo: Your Name stairs, Shibuya Crossing (JJK),

@@ -9,7 +9,7 @@ category: destinations
 tags: []
 featuredImage: /images/articles/osaka-anime-guide-den-den-town/featured.jpg
 featuredImageAlt: Osaka Den Den Town neon-lit street at night with anime shops
-author: Takapon
+author: Takashi Kiyohara
 voice: "advisory"
 excerpt: >-
   Den Den Town is Osaka's answer to Akihabara — smaller, less crowded, packed

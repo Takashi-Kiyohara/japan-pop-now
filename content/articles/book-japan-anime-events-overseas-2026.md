@@ -9,7 +9,7 @@ category: experiences
 tags: []
 featuredImage: /images/articles/book-japan-anime-events-overseas-2026/featured.jpg
 featuredImageAlt: Arrival gate at Narita Airport Terminal 2 for international visitors
-author: Takapon
+author: Takashi Kiyohara
 excerpt: >-
   Most anime collab cafes and events in Japan require advance reservations, and
   roughly half of those booking systems only work with a Japanese phone number,

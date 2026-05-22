@@ -10,7 +10,7 @@ category: experiences
 tags: []
 featuredImage: /images/articles/gachapon-guide-japan/featured.jpg
 featuredImageAlt: Bandai Gashapon store with capsule toy machines in Japan
-author: Takapon
+author: Takashi Kiyohara
 excerpt: >-
   Where to find gachapon in Japan, how to use the machines, and 7 best
   multi-floor buildings — Akihabara, Ikebukuro, Shibuya stops with capsule toy

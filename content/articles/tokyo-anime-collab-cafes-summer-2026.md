@@ -10,7 +10,7 @@ category: cafes
 tags: []
 featuredImage: /images/articles/tokyo-anime-collab-cafes-summer-2026/featured.jpg
 featuredImageAlt: Rainbow Bridge and Tokyo Harbor summer cityscape
-author: Takapon
+author: Takashi Kiyohara
 voice: "advisory"
 excerpt: >-
   Tokyo anime collab cafes summer 2026: 15-20 active themed cafes, what's open

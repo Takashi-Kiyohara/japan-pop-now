@@ -12,7 +12,7 @@ featuredImageAlt: >-
   Anime figure and Nendoroid display at an Akihabara shop — the kind of
   merchandise typically purchased through proxy services like Buyee, ZenMarket,
   and FROM JAPAN
-author: Takapon
+author: Takashi Kiyohara
 voice: "advisory"
 excerpt: >-
   Mercari Japan has the anime figure you've been hunting for three months. Yahoo

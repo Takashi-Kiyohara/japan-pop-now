@@ -8,7 +8,7 @@ tags: []
 featuredImage: "/images/articles/japan-trip-checklist-anime-fans-2026/featured.jpg"
 featuredImageAlt: "Haneda Airport terminal at dusk with Mt. Fuji in the background"
 imageCredit: "Photo: © JNTO"
-author: "Takapon"
+author: "Takashi Kiyohara"
 voice: "advisory"
 excerpt: "Anime fans landing in Tokyo without bookings burn two days scrambling for JR Pass exchanges, accommodation in the right ward, and collab cafe lottery slots that closed weeks earlier. This 3-months-out checklist is organized by when to book, not what to book."
 relatedSlugs: []

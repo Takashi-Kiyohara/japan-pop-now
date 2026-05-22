@@ -10,7 +10,7 @@ category: destinations
 tags: []
 featuredImage: /images/articles/jr-pass-anime-pilgrimage-routes-2026/featured.jpg
 featuredImageAlt: Enoden train at Kamakura seaside crossing on anime pilgrimage route
-author: Takapon
+author: Takashi Kiyohara
 voice: "advisory"
 excerpt: >-
   Is the JR Pass worth it for hitting multiple anime locations? Sometimes yes,

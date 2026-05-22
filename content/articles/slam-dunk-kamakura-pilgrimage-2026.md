@@ -10,7 +10,7 @@ category: destinations
 tags: []
 featuredImage: /images/articles/slam-dunk-kamakura-pilgrimage-2026/featured.jpg
 featuredImageAlt: Kamakura Koko-mae station railroad crossing from Slam Dunk
-author: Takapon
+author: Takashi Kiyohara
 excerpt: >-
   Slam Dunk's iconic Kamakurakokomae No.1 Railroad Crossing with the Shonan
   coast behind it — full pilgrimage route, transit access, and seasonal photo

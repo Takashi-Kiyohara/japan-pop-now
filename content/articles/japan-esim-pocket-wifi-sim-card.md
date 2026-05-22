@@ -12,7 +12,7 @@ featuredImageAlt: >-
   Self-service SIM card vending machine at a travel hub for international
   visitors
 imageCredit: 'Photo: Z thomas / Wikimedia Commons, CC BY-SA 4.0'
-author: Takapon
+author: Takashi Kiyohara
 voice: "advisory"
 excerpt: >-
   Japan eSIM vs pocket WiFi vs physical SIM card 2026: provider rate ranges,

@@ -59,7 +59,7 @@ const SECTIONS: Section[] = [
   {
     title: 'About',
     items: [
-      { href: '/about', Icon: Info, label: 'About Takapon' },
+      { href: '/about', Icon: Info, label: 'About Takashi Kiyohara' },
       { href: '/contact', Icon: Mail, label: 'Contact' },
       { href: '/support', Icon: HelpCircle, label: 'Support' },
       { href: '/privacy', Icon: Shield, label: 'Privacy policy' },

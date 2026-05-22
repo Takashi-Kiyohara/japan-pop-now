@@ -13,9 +13,9 @@ featuredImageAlt: >-
   flagship Tokyo storefront
 imageNote: >-
   Images show generic FamilyMart and Ikebukuro context — Durarara!! collab-store
-  interior photography pending Takapon visit. See
+  interior photography pending Takashi Kiyohara visit. See
   docs/audit/collab-image-exhausted-20260427.md.
-author: Takapon
+author: Takashi Kiyohara
 excerpt: >-
   FamilyMart Anime Collab Stores: Japan’s Newest Trend (2026) FamilyMart just
   cracked the code on making convenience stores into tourist...

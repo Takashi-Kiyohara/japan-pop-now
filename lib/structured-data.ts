@@ -32,6 +32,7 @@ export function getOrganizationSchema() {
   return {
     '@context': 'https://schema.org',
     '@type': 'Organization',
+    '@id': `${SITE_URL}/#organization`,
     name: SITE_NAME,
     url: SITE_URL,
     logo: { '@type': 'ImageObject', url: LOGO_URL },
@@ -220,13 +221,16 @@ export function getAuthorSchema(
   // pass false to avoid redundant inner @context emission.
   const base: Record<string, unknown> = {
     '@type': 'Person',
+    '@id': `${SITE_URL}/about/takashi-kiyohara#person`,
     name,
-    url: url || `${SITE_URL}${AUTHOR.profilePath}`,
+    alternateName: AUTHOR.alternateName,
+    url: url || AUTHOR.url,
     jobTitle: AUTHOR.jobTitle,
     description: AUTHOR.tagline,
     image: image || `${SITE_URL}${AUTHOR.avatar}`,
     sameAs: [...AUTHOR_SAME_AS],
     knowsAbout: [...AUTHOR.knowsAbout],
+    worksFor: { '@id': `${SITE_URL}/#organization` },
   }
   return includeContext
     ? { '@context': 'https://schema.org', ...base }

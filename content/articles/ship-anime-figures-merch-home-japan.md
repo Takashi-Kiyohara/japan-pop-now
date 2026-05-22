@@ -7,7 +7,7 @@ category: "experiences"
 tags: []
 featuredImage: "/images/articles/ship-anime-figures-merch-home-japan/featured.jpg"
 featuredImageAlt: "Yamato Transport Kuroneko delivery truck for shipping anime merch from Japan"
-author: "Takapon"
+author: "Takashi Kiyohara"
 excerpt: "Your suitcase is full. Your backpack is full. You're considering wearing two figures as earrings. Comparison data across five years of shipping 30+ figures home — from ¥1,500 to ¥18,000 per box — covers every major option. Here is how to get your anime haul home without destroying it, overpaying, or losing it to customs."
 relatedSlugs: []
 wpPostId: 540

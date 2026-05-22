@@ -16,7 +16,7 @@ featuredImageAlt: >-
   Inside Chiikawa Bakery Harajuku showing the main counter with character-shaped
   breads and a large Chiikawa plush figure
 imageCredit: 'Photo: Japan Pop Now'
-author: Takapon
+author: Takashi Kiyohara
 excerpt: >-
   After a morning inside Chiikawa Bakery at Tokyu Plaza Omotesando, here is a
   no-hype walkthrough: how reservation actually works, which breads are worth

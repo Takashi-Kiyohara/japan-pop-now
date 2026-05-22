@@ -7,7 +7,7 @@ category: "experiences"
 tags: []
 featuredImage: "/images/articles/gaming-tokyo-2026/featured.jpg"
 featuredImageAlt: "Akihabara neon-lit buildings at night showcasing Tokyo gaming culture"
-author: "Takapon"
+author: "Takashi Kiyohara"
 voice: "advisory"
 excerpt: "Gaming tourism Tokyo 2026: Pokemon Center Tokyo, Nintendo store Shibuya, and 8 more game-fan stops — addresses, hours, and what each store actually stocks."
 relatedSlugs: []
