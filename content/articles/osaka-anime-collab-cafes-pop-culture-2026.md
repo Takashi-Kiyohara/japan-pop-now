@@ -11,7 +11,7 @@ featuredImage: /images/articles/osaka-anime-collab-cafes-pop-culture-2026/hero-w
 featuredImageAlt: >-
   Den-Den Town neon-lit street in Nipponbashi, Osaka — Western Japan's largest
   otaku district
-author: Takapon
+author: Takashi Kiyohara
 voice: "advisory"
 excerpt: >-
   Osaka runs 8-12 anime collab cafes at any given time across Namba, Umeda, and

@@ -9,7 +9,7 @@ category: cafes
 tags: []
 featuredImage: /images/articles/animate-cafe-guide-japan/featured.jpg
 featuredImageAlt: Animate store and Lashinbang in Ikebukuro for anime cafe lottery booking
-author: Takapon
+author: Takashi Kiyohara
 voice: "advisory"
 excerpt: >-
   Last updated: April 29, 2026. Covers all Animate Cafe locations, the lottery

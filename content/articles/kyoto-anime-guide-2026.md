@@ -7,7 +7,7 @@ category: "destinations"
 tags: []
 featuredImage: "/images/articles/kyoto-anime-guide-2026/featured.jpg"
 featuredImageAlt: "Fushimi Inari Shrine thousand torii gates tunnel in Kyoto"
-author: "Takapon"
+author: "Takashi Kiyohara"
 voice: "advisory"
 excerpt: "Kyoto anime 2026: KyoAni studio area in Uji, Hibike Euphonium pilgrimage stops, K-On! filming locations, Fushimi Inari, and the city's anime shopping districts."
 relatedSlugs: []

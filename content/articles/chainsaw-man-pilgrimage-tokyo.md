@@ -12,7 +12,7 @@ featuredImage: /images/articles/chainsaw-man-pilgrimage-tokyo/featured.webp
 featuredImageAlt: >-
   Otokozaka stone staircase in Sarugakucho Tokyo — sister staircase to Onnazaka
   featured in Chainsaw Man Reze Arc
-author: Takapon
+author: Takashi Kiyohara
 voice: "advisory"
 excerpt: >-
   Walk the real Jinbocho locations from Chainsaw Man's Reze Arc — phone booth,

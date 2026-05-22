@@ -27,7 +27,7 @@ keywords:
   - Japanese game center guide
 featuredImage: /images/articles/game-centers-arcades-japan/featured.jpg
 featuredImageAlt: Akihabara Electric Town with retro game shops and arcades
-author: Takapon
+author: Takashi Kiyohara
 excerpt: >-
   Updated April 2026. Tokyo has 40+ major game centers, RED° TOKYO TOWER's
   70-attraction e-sports floor at Tokyo Tower, and Round1 Ikebukuro's 24-hour

@@ -18,7 +18,7 @@ heroImageAlt: >-
   Detective Conan creator Gosho Aoyama's hometown with character signage at the
   entrance
 imageCredit: 'Photo: Hsu Tzu-hsun / Wikimedia Commons, CC BY-SA 4.0'
-author: Takapon
+author: Takashi Kiyohara
 voice: "advisory"
 excerpt: >-
   Detective Conan is running more events in 2026 than any other anime IP in

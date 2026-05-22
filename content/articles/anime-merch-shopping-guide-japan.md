@@ -7,7 +7,7 @@ category: "experiences"
 tags: []
 featuredImage: "/images/articles/anime-merch-shopping-guide-japan/featured.jpg"
 featuredImageAlt: "Mandarake store in Nakano Broadway packed with anime manga figures and collectibles"
-author: "Takapon"
+author: "Takashi Kiyohara"
 voice: "advisory"
 excerpt: "Anime merch shopping in Japan 2026: 15 best shops (Animate, Mandarake, Kotobukiya), prices, budgets, and where to find exclusive figures in Tokyo."
 relatedSlugs: []

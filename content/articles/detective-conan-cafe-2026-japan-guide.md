@@ -11,7 +11,7 @@ featuredImageAlt: "Conan's House and Beika Shopping Street replica building in H
 heroImage: "/images/articles/detective-conan-cafe-2026-japan-guide/hero.webp"
 heroImageAlt: "Conan's House replica building on Conan Street in Hokuei, Tottori — Detective Conan-themed venue at the creator's hometown, useful pilgrimage extension for cafe visitors"
 imageCredit: "Photo: Hsu Tzu-hsun / Wikimedia Commons, CC BY-SA 4.0"
-author: "Takapon"
+author: "Takashi Kiyohara"
 excerpt: "Planning to visit Detective Conan Cafe 2026 in Japan? This practical guide covers the dates, best Tokyo and Osaka locations, what makes each city different,..."
 relatedSlugs: []
 wpPostId: 827

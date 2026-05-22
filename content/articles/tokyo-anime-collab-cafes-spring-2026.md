@@ -11,7 +11,7 @@ category: cafes
 tags: []
 featuredImage: /images/articles/tokyo-anime-collab-cafes-spring-2026/featured.jpg
 featuredImageAlt: Meguro River cherry blossom illumination in Tokyo spring season
-author: Takapon
+author: Takashi Kiyohara
 voice: "advisory"
 excerpt: >-
   Updated weekly. Every anime collaboration cafe in Tokyo for Spring 2026: JJK

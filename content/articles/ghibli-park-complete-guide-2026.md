@@ -9,7 +9,7 @@ category: experiences
 tags: []
 featuredImage: /images/articles/ghibli-park-complete-guide-2026/featured.jpg
 featuredImageAlt: Mononoke Village walking path at Ghibli Park in Aichi Prefecture
-author: Takapon
+author: Takashi Kiyohara
 voice: "advisory"
 excerpt: >-
   Ghibli Park has five themed areas across the Expo 2005 Aichi Park in Nagakute.

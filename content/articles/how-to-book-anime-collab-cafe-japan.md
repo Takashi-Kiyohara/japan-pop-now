@@ -16,7 +16,7 @@ imageCredit: >-
   Loppi terminal. Body images: Corpse Reviver (CC BY-SA 3.0); Dick Thomas
   Johnson via Flickr (CC BY 2.0); Wikimedia contributors (CC BY 4.0, CC BY-SA
   4.0).
-author: Takapon
+author: Takashi Kiyohara
 voice: "advisory"
 excerpt: >-
   Complete guide to booking anime collaboration cafes in Tokyo. Covers Lawson

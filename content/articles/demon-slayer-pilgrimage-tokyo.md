@@ -11,7 +11,7 @@ featuredImage: /images/articles/demon-slayer-pilgrimage-tokyo/featured.jpg
 featuredImageAlt: >-
   Kaminarimon Gate at Asakusa decorated with flowers a Demon Slayer pilgrimage
   spot
-author: Takapon
+author: Takashi Kiyohara
 excerpt: >-
   Updated May 2026. Every visitable Demon Slayer location in and around Tokyo —
   Asakusa, the guardian shrines, Mt. Kumotori, and where to buy goods, with

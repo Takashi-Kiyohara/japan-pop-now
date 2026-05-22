@@ -4,7 +4,7 @@ slug: blue-lock-tokyo-skytree-cafe-2026
 date: '2026-04-22'
 lastUpdated: '2026-04-22'
 validUntil: '2026-07-07'
-author: Takapon
+author: Takashi Kiyohara
 voice: "advisory"
 category: experiences
 tags:

@@ -17,7 +17,7 @@ tags:
   - anime-tourism
 featuredImage: /images/articles/first-timers-japan-playbook-anime-fans-2026/featured.jpg
 featuredImageAlt: First-time anime fan arriving at Tokyo station with luggage and IC card ready
-author: Takapon
+author: Takashi Kiyohara
 voice: "advisory"
 excerpt: >-
   An hour-by-hour first-timer's playbook: what to book before you fly, what to

@@ -10,7 +10,7 @@ category: destinations
 tags: []
 featuredImage: /images/articles/shibuya-harajuku-pop-culture-guide/featured.jpg
 featuredImageAlt: Crowded Takeshita Street in Harajuku with colorful kawaii shops
-author: Takapon
+author: Takashi Kiyohara
 excerpt: >-
   Shibuya PARCO 6F Cyberspace, Harajuku's Takeshita Street, Cat Street, Kiddy
   Land, and a 2026 walking route through Tokyo's pop culture and kawaii

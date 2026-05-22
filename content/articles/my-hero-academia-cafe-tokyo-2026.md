@@ -16,7 +16,7 @@ imageNote: >-
   retroactive Takapon photoshoot impossible. Wikimedia venue photos with caption
   disclosure are the permanent state. Audit doc:
   docs/audit/collab-image-exhausted-20260427.md
-author: Takapon
+author: Takashi Kiyohara
 voice: "advisory"
 excerpt: >-
   Planning to visit the My Hero Academia Cafe in Ikebukuro in 2026? This

@@ -10,7 +10,7 @@ tags: []
 featuredImage: /images/articles/anime-hotels-tokyo-2026/featured.jpg
 featuredImageAlt: Pokémon themed hotel room with Snorlax plush on bed at MIMARU Tokyo
 imageCredit: 'Photo: © JNTO'
-author: Takapon
+author: Takashi Kiyohara
 voice: "advisory"
 excerpt: >-
   Five anime-themed Tokyo hotels compared from official operator pages and

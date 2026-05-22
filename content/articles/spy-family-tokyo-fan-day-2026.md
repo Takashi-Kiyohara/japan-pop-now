@@ -13,7 +13,7 @@ imageNote: >-
   Hero & body show host venues (Skytree/Solamachi/Sunshine City) —
   collab-specific photography pending. See
   docs/audit/collab-image-exhausted-20260427.md.
-author: Takapon
+author: Takashi Kiyohara
 voice: "advisory"
 excerpt: >-
   SPY×FAMILY Tokyo Fan Day: Events, Shops & Cafes SPY×FAMILY is everywhere in

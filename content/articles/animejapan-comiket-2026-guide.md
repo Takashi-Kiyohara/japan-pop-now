@@ -9,7 +9,7 @@ category: experiences
 tags: []
 featuredImage: /images/articles/animejapan-comiket-2026-guide/featured.jpg
 featuredImageAlt: Massive crowd at Comiket convention at Tokyo Big Sight
-author: Takapon
+author: Takashi Kiyohara
 excerpt: >-
   AnimeJapan vs. Comiket: Complete Guide to Tokyo’s Biggest Anime Events 2026
   Across multiple AnimeJapan and Comiket cycles documented in operator press

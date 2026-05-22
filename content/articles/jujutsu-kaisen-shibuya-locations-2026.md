@@ -11,7 +11,7 @@ featuredImage: /images/articles/jujutsu-kaisen-shibuya-locations-2026/featured.w
 featuredImageAlt: >-
   Shibuya Scramble Crossing aerial view, the iconic Jujutsu Kaisen pilgrimage
   location
-author: Takapon
+author: Takashi Kiyohara
 voice: "advisory"
 excerpt: >-
   Jujutsu Kaisen Shibuya Pilgrimage Guide: Location Matching & Walking Routes

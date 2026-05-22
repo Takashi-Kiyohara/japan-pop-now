@@ -9,7 +9,7 @@ category: destinations
 tags: []
 featuredImage: /images/articles/one-piece-tokyo-guide-2026/hero-wikimedia.webp
 featuredImageAlt: Tokyo Solamachi at Skytree Town — home of the Mugiwara Store flagship
-author: Takapon
+author: Takashi Kiyohara
 voice: "advisory"
 excerpt: >-
   One Piece in Tokyo 2026: Base Shop Shinjuku, 5 Mugiwara Stores, One Piece Cafe

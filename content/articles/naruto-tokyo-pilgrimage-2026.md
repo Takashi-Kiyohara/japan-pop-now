@@ -8,7 +8,7 @@ tags: ["Naruto", "anime-tourism", "Tokyo", "seichi-junrei", "ninja"]
 featuredImage: "/images/articles/naruto-tokyo-pilgrimage-2026/featured.webp"
 featuredImageAlt: "JUMP SHOP Skytree Town flagship in Tokyo — Shueisha's official Naruto and Boruto merchandise destination on the Tokyo pilgrimage route"
 imageCredit: "Photo: Dick Thomas Johnson via Wikimedia Commons (CC BY 2.0)"
-author: "Takapon"
+author: "Takashi Kiyohara"
 excerpt: "Follow the path of Naruto through Tokyo's real-world pilgrimage sites, from merchandise havens to collaboration cafes and exhibitions dedicated to the legendary ninja series."
 relatedSlugs: []
 wpPostId: 0

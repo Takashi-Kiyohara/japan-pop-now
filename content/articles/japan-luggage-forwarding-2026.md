@@ -12,7 +12,7 @@ featuredImageAlt: >-
   Sagawa Express delivery truck parked on a Japanese street, ready for takkyubin
   pickup
 imageCredit: 'Photo: Syced / Wikimedia Commons, CC0'
-author: Takapon
+author: Takashi Kiyohara
 voice: "advisory"
 excerpt: >-
   Skip the heavy suitcase shuffle. Here is exactly how takkyubin (Japanese

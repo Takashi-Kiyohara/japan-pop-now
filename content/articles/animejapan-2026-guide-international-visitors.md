@@ -8,7 +8,7 @@ category: "experiences"
 tags: []
 featuredImage: "/images/articles/animejapan-2026-guide-international-visitors/featured.jpg"
 featuredImageAlt: "Tokyo Big Sight at night venue for AnimeJapan event"
-author: "Takapon"
+author: "Takashi Kiyohara"
 voice: "advisory"
 excerpt: "Planning to visit AnimeJapan 2026 in Tokyo? This practical guide covers dates, venue access, what Family Anime Festa is, nearby anime spots, and how to build a..."
 relatedSlugs: []
