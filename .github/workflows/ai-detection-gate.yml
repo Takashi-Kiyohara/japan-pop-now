@@ -47,13 +47,39 @@ jobs:
           set -euo pipefail
           # Compute merge-base against the PR's base branch (main).
           BASE_SHA=$(git merge-base origin/main HEAD)
-          CHANGED=$(git diff --name-only --diff-filter=AMR "${BASE_SHA}" HEAD -- 'content/articles/*.mdx' 'content/articles/*.md' || true)
-          if [ -z "${CHANGED}" ]; then
+          CANDIDATES=$(git diff --name-only --diff-filter=AMR "${BASE_SHA}" HEAD -- 'content/articles/*.mdx' 'content/articles/*.md' || true)
+          if [ -z "${CANDIDATES}" ]; then
             echo "No article changes detected — gate is a no-op."
             echo "files=" >> "${GITHUB_OUTPUT}"
             exit 0
           fi
-          echo "Articles to score:"
+          # Body-diff filter: the gate scores article PROSE only (gray-matter
+          # `.content`), never frontmatter. An article whose only change is a
+          # frontmatter field (e.g. `author:`) has a byte-identical body, so
+          # its composite score cannot differ — re-scoring it is redundant.
+          # Keep only articles whose post-frontmatter body actually changed;
+          # new/renamed articles have no base body and are always kept.
+          extract_body() {
+            awk 'BEGIN{c=0} /^---[[:space:]]*$/{c++; next} c>=2{print}'
+          }
+          CHANGED=""
+          while IFS= read -r f; do
+            [ -z "$f" ] && continue
+            head_body="$(extract_body < "$f" 2>/dev/null || true)"
+            base_body="$(git show "${BASE_SHA}:${f}" 2>/dev/null | extract_body || true)"
+            if [ "$head_body" != "$base_body" ]; then
+              CHANGED="${CHANGED}${f}"$'\n'
+            else
+              echo "Skip ${f} — frontmatter-only change, body unchanged (score cannot differ)."
+            fi
+          done <<< "${CANDIDATES}"
+          CHANGED="$(printf '%s' "${CHANGED}" | sed '/^[[:space:]]*$/d')"
+          if [ -z "${CHANGED}" ]; then
+            echo "All changed articles are frontmatter-only — gate is a no-op."
+            echo "files=" >> "${GITHUB_OUTPUT}"
+            exit 0
+          fi
+          echo "Articles to score (body changed):"
           echo "${CHANGED}"
           # Multi-line output via heredoc syntax
           {
