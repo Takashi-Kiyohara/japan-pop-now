@@ -58,6 +58,23 @@ export default function AuthorBox({ variant = 'full' }: AuthorBoxProps) {
             {AUTHOR.bio}
           </p>
         )}
+        <a
+          href={AUTHOR.socials.linkedin}
+          target="_blank"
+          rel="me noopener noreferrer"
+          aria-label={`${AUTHOR.name} on LinkedIn`}
+          style={{
+            display: 'inline-flex',
+            alignItems: 'center',
+            gap: '5px',
+            marginTop: '10px',
+            color: '#0d9488',
+            fontSize: '0.8rem',
+            fontWeight: 600,
+          }}
+        >
+          LinkedIn
+        </a>
       </div>
     </aside>
   );

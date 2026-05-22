@@ -1,13 +1,19 @@
-// Single source of truth for the site author ("Takapon").
+// Single source of truth for the site author ("Takashi Kiyohara").
 // Consumed by components/AuthorBox.tsx, lib/structured-data.ts (schema),
 // app/llms.txt & app/llms-full.txt routes, and the /about page.
 
+export const LINKEDIN_VANITY = 'takashi-kiyohara111222' as const;
+export const LINKEDIN_URL = `https://www.linkedin.com/in/${LINKEDIN_VANITY}` as const;
+
 export const AUTHOR = {
-  name: 'Takapon',
+  name: 'Takashi Kiyohara',
+  alternateName: 'Takashi',
   jobTitle: 'Founder & Editor',
-  avatar: '/images/author/takapon.webp',
-  avatarAlt: 'Portrait of Takapon, Founder & Editor of Japan Pop Now',
+  avatar: '/images/author/takashi-kiyohara.webp',
+  avatarAlt: 'Portrait of Takashi Kiyohara, Founder & Editor of Japan Pop Now',
   profilePath: '/about',
+  url: 'https://www.japan-pop-now.com/about/takashi-kiyohara/',
+  email: 'snsganbaro@gmail.com',
   bio: 'Kyoto-born, Tokyo-based writer covering anime, collab cafes, pilgrimage spots, and pop culture travel for international visitors. Former US strategy consultant; currently completing a graduate degree in International Relations in the UK.',
   tagline:
     "Kyoto-born, Tokyo-based writer covering anime, collab cafes, and pop culture travel. Former US strategy consultant, currently completing a graduate degree in International Relations in the UK. Verifies every cafe and event against the operator's official source.",
@@ -32,12 +38,14 @@ export const AUTHOR = {
   socials: {
     threads: 'https://www.threads.net/@pop_now_jp',
     x: 'https://x.com/pop_now_jp',
+    linkedin: LINKEDIN_URL,
   },
 } as const;
 
 export type AuthorInfo = typeof AUTHOR;
 
 export const AUTHOR_SAME_AS: readonly string[] = [
+  AUTHOR.socials.linkedin,
   AUTHOR.socials.threads,
   AUTHOR.socials.x,
 ] as const;

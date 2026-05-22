@@ -30,7 +30,7 @@
 - **Check before claim.** Do not say "done" without running `npm run build` or an equivalent verification step.
 - **No phantom imports.** Every import must exist in `package.json` or under `components/` / `lib/`.
 - **No past dates in 2026 articles.** Never write 2023/2024 as if current.
-- **Author is "Takapon".** Never use the real name `清原崇` in public-facing content.
+- **Author is "Takashi Kiyohara"** (real name, used publicly — S7 identity flip, 2026-05-22). The legacy pseudonym "Takapon" is retired; do not reintroduce it.
 - **Never delete files from repo.** Hidden dynamic imports may exist. Rename or deprecate instead.
 - **Prefer editing existing files** over creating new ones. Do not create README.md unless asked.
 - **Emojis only when the user asks.** Never in articles or UI components.
@@ -64,7 +64,7 @@
 @.claude/rules/security.md
 
 ## Critical Rules Recap
-- Author name: ALWAYS "Takapon" (NEVER use real name)
+- Author name: "Takashi Kiyohara" (real name; "Takapon" pseudonym retired 2026-05-22)
 - No past dates in 2026 articles
 - No Unsplash images — only official/authentic
 - No emoji in articles or UI
