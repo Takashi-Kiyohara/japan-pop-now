@@ -311,10 +311,8 @@ A local guide shows you the best game center floors, teaches crane game tricks, 
 ## More Practical Guides
 
 - [Akihabara Guide 2026: 30+ Shops, Cafes & Hidden Spots](/akihabara-complete-guide-2026/)
-- [Gachapon Guide: Where to Find, How to Use & What to Collect](/gachapon-guide-japan/)
 - [Anime Merch Shopping Guide: Where to Buy & How to Save](/anime-merch-shopping-guide/)
 - [Tokyo Anime District Guide: Which Neighborhood Matches Your Fandom](/tokyo-anime-district-guide/)
-- [Nakano Broadway Guide: 100+ Vintage Anime & Manga Shops](/nakano-broadway-guide/)
 - [Akihabara Arcade Rhythm Games: First-Timer Guide 2026](/akihabara-arcade-rhythm-games-guide-2026/)
 
 
