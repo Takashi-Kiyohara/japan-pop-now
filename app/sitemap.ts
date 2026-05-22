@@ -35,6 +35,24 @@ export default function sitemap(): MetadataRoute.Sitemap {
       priority: 0.5,
       lastModified: new Date('2026-04-10'),
     },
+    {
+      url: `${baseUrl}/about/takashi-kiyohara`,
+      changeFrequency: 'monthly',
+      priority: 0.5,
+      lastModified: new Date('2026-05-23'),
+    },
+    {
+      url: `${baseUrl}/editorial-policy`,
+      changeFrequency: 'yearly',
+      priority: 0.3,
+      lastModified: new Date('2026-05-23'),
+    },
+    {
+      url: `${baseUrl}/corrections`,
+      changeFrequency: 'monthly',
+      priority: 0.3,
+      lastModified: new Date('2026-05-23'),
+    },
     // /contact intentionally excluded — robots=noindex per app/contact/page.tsx
     // (boilerplate utility, kept out of GSC's "low-value" count). Listing it
     // would be a sitemap × meta-tag contradiction for Googlebot.

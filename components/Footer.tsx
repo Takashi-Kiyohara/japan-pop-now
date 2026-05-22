@@ -14,8 +14,11 @@ const SITE_LINKS = [
 
 const COMPANY_LINKS = [
   { href: '/about', label: 'About Us' },
+  { href: '/about/takashi-kiyohara', label: 'About the Editor' },
   { href: '/contact', label: 'Contact' },
   { href: '/support', label: 'Support Us' },
+  { href: '/editorial-policy', label: 'Editorial Policy' },
+  { href: '/corrections', label: 'Corrections' },
   { href: '/privacy', label: 'Privacy Policy' },
   { href: '/terms', label: 'Terms of Service' },
   { href: '/dmca', label: 'DMCA' },

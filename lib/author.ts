@@ -12,7 +12,7 @@ export const AUTHOR = {
   avatar: '/images/author/takashi-kiyohara.webp',
   avatarAlt: 'Portrait of Takashi Kiyohara, Founder & Editor of Japan Pop Now',
   profilePath: '/about',
-  url: 'https://www.japan-pop-now.com/about/takashi-kiyohara/',
+  url: 'https://www.japan-pop-now.com/about/takashi-kiyohara',
   email: 'snsganbaro@gmail.com',
   bio: 'Kyoto-born, Tokyo-based writer covering anime, collab cafes, pilgrimage spots, and pop culture travel for international visitors. Former US strategy consultant; currently completing a graduate degree in International Relations in the UK.',
   tagline:

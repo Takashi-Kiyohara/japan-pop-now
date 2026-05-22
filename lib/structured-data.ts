@@ -221,7 +221,7 @@ export function getAuthorSchema(
   // pass false to avoid redundant inner @context emission.
   const base: Record<string, unknown> = {
     '@type': 'Person',
-    '@id': `${SITE_URL}/about/takashi-kiyohara/#person`,
+    '@id': `${SITE_URL}/about/takashi-kiyohara#person`,
     name,
     alternateName: AUTHOR.alternateName,
     url: url || AUTHOR.url,
