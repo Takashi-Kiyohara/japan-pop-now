@@ -30,6 +30,14 @@ export const metadata: Metadata = {
       'Real-time tracker of anime collaboration cafes in Japan. Dates, venues, reservation guides, and English-visitor tips.',
     type: 'website',
     url: cafesHubUrl(),
+    images: [
+      {
+        url: 'https://www.japan-pop-now.com/og-image.png',
+        width: 1200,
+        height: 630,
+        alt: 'Japan Pop Now — anime collab cafe tracker',
+      },
+    ],
   },
 };
 
