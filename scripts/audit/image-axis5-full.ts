@@ -16,9 +16,15 @@
  *   - alt text + filename must share ≥ 1 token with article slug or title
  *
  * Axis 4 (real-photo signal — filename pattern heuristic):
- *   - allowed signals: "wikimedia", "press", "official", "takapon",
- *     "editorial", "cc-by", numeric/generic hero/body filenames are
- *     considered Takapon editorial unless flagged
+ *   - allowed signals: "wikimedia", "press", "official", "kiyohara",
+ *     "editorial", "cc-by", "wiki", "commons". Numeric/generic hero/body
+ *     filenames are considered editorial-by-default unless flagged.
+ *   - "takapon" signal removed 2026-05-23: per RED-5 audit, files named
+ *     with that legacy pseudonym were false attribution (Kiyohara is not
+ *     the photographer); orphan filenames still on disk but no longer
+ *     referenced from MDX. Identity flip (S7) renamed the author to
+ *     Takashi Kiyohara — future on-site shots should use a "kiyohara" or
+ *     filename pattern matching the renamed signal.
  *   - banned signals: "ai-generated", "midjourney", "stable-diffusion",
  *     "dalle", "generated", "synthetic"
  *
@@ -39,7 +45,7 @@ import sizeOf from 'image-size'
 const ARTICLES_DIR = path.join(process.cwd(), 'content/articles')
 const PUBLIC_ROOT = path.join(process.cwd(), 'public')
 
-const REAL_PHOTO_SIGNALS = ['wikimedia', 'press', 'official', 'takapon', 'editorial', 'cc-by', 'wiki', 'commons']
+const REAL_PHOTO_SIGNALS = ['wikimedia', 'press', 'official', 'kiyohara', 'editorial', 'cc-by', 'wiki', 'commons']
 const BANNED_GENERATION_SIGNALS = ['ai-generated', 'midjourney', 'stable-diffusion', 'dalle', 'generated', 'synthetic', 'sd-xl', 'sdxl']
 const STOPWORDS = new Set(['the', 'a', 'an', 'and', 'or', 'of', 'in', 'on', 'at', 'to', 'for', 'with', 'by', 'guide', '2026'])
 
