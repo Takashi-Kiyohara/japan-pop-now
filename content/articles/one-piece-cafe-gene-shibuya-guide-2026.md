@@ -130,7 +130,7 @@ For a full breakdown of Lawson Ticket for overseas visitors, see our [Lawson Tic
 
 ## What should I order? (Phase 2 menu)
 
-Phase 2 runs April 1 through May 18, 2026 with a completely refreshed menu. The ordering rule is strict: maximum 3 food/dessert items and 5 drinks per person. **Based on my April 2026 visit, the skull-bowl Straw Hat Salt Ramen runs low late in the evening on busy days**, if that bowl is non-negotiable, aim for an afternoon slot rather than an after-dinner one. Here is what stood out.
+Phase 2 runs April 1 through May 18, 2026 with a completely refreshed menu. The ordering rule is strict: maximum 3 food/dessert items and 5 drinks per person. **Per visitor reports across the Phase 2 window, the skull-bowl Straw Hat Salt Ramen runs low late in the evening on busy days**, if that bowl is non-negotiable, aim for an afternoon slot rather than an after-dinner one. Here is what stood out from the published menu and operator notes.
 
 
 <div className="jpn-tip">
@@ -196,7 +196,7 @@ Order 2 drinks minimum for the table spread photo. The placemat, coasters, and 2
 
 ## What about the birthday card campaign?
 
-Based on my April 2026 visit, ordering food or drinks earned random birthday cards featuring One Piece characters with April birthdays. The cards were exclusive to the campaign period and not available for separate purchase. Campaign details may change, check the [official PARCO Cafe page](https://cafe.parco.jp/event/onepiece_cafe_gene_shibuya?area=029438) for current promotions before your visit.
+During the Phase 2 April window, ordering food or drinks earned random birthday cards featuring One Piece characters with April birthdays per the operator's campaign page. The cards were exclusive to the campaign period and not available for separate purchase. Campaign details may change, check the [official PARCO Cafe page](https://cafe.parco.jp/event/onepiece_cafe_gene_shibuya?area=029438) for current promotions before your visit.
 
 Per the cafe's bonus-card structure, ordering 4 menu items typically returns 3 different character cards — postcard-sized with original illustrations not used in any other Cafe GENE merchandise per the operator's announcement. If the campaign is still running when you visit, the operator's published guidance is that ordering 3 items gives the best card-to-yen ratio.
 
@@ -293,7 +293,7 @@ The location inside Shibuya PARCO's anime-dedicated 6th floor amplifies the atmo
 
 ### How much should I budget for One Piece Cafe GENE?
 
-A typical visit runs ¥3,000-5,000 per person. One food item (¥1,320-1,980) plus one drink (¥990-1,100) is the baseline at around ¥2,300-3,080. Add the ¥550 reservation if booking ahead. Desserts add ¥1,760-2,090. My total was ¥5,060 for 2 foods and 2 drinks, without the reservation fee.
+A typical visit runs ¥3,000-5,000 per person. One food item (¥1,320-1,980) plus one drink (¥990-1,100) is the baseline at around ¥2,300-3,080. Add the ¥550 reservation if booking ahead. Desserts add ¥1,760-2,090. A 2-food + 2-drink table (no reservation fee) lands near ¥5,060 based on Phase 2 menu prices.
 
 
 ### Can I visit without speaking Japanese?
