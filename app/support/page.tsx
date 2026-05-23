@@ -107,22 +107,23 @@ export default function SupportPage() {
             style={{ color: '#44403c', lineHeight: 1.8, fontSize: '0.95rem' }}
           >
             <p className="mb-4">
-              Japan Pop Now is run by one person (hi, Takashi Kiyohara) with a small
-              on-the-ground team in Tokyo. Every cafe we cover, we visit.
-              Every reservation flow we explain, we booked ourselves.
-              Translation, research, fact-checking, and field photography all
-              happen on our own time.
+              Japan Pop Now is a one-person editorial operation run by
+              Takashi Kiyohara in Tokyo. Translation, research, fact-checking,
+              and editing happen on personal time. Coverage is built from
+              operator pages, official press releases, Wikimedia Commons, and
+              visitor reports on X (Twitter) and Tripadvisor; on-site field
+              checks are added when schedule and venue access allow.
             </p>
             <p className="mb-4">
-              We keep the site free, ad-light, and fully English so
+              The goal is to keep the site free, ad-light, and fully English so
               international anime fans can plan a trip to Japan without
               hitting a Japanese-only paywall. A small tip goes directly back
-              into server costs, travel to field-check new collab cafes, and
-              keeping our articles factually current.
+              into server costs, occasional field-check travel for new collab
+              cafes, and keeping articles factually current.
             </p>
             <p>
-              If we saved you an afternoon of Google Translate and guesswork,
-              this is a friendly way to say thanks.
+              If this guide saved you an afternoon of Google Translate and
+              guesswork, this is a friendly way to say thanks.
             </p>
           </div>
 
