@@ -207,13 +207,17 @@ export function middleware(request: NextRequest) {
   // /wp-includes/* etc. are pre-Next legacy paths. Currently 403 (default
   // Vercel response for non-existent paths under certain conditions) or 404.
   // Convert to 410 + noindex so Google drops them from the index.
+  // R20 (2026-05-23): /sitemap_index.xml added — the prior 308 to
+  // /sitemap.xml left the URL stuck in GSC's "Page with redirect" bucket
+  // rather than being deindexed. 410 makes Google drop it cleanly.
   if (
     pathname === '/wp-admin' ||
     pathname.startsWith('/wp-admin/') ||
     pathname.startsWith('/wp-content/') ||
     pathname.startsWith('/wp-includes/') ||
     pathname === '/wp-login.php' ||
-    pathname === '/xmlrpc.php'
+    pathname === '/xmlrpc.php' ||
+    pathname === '/sitemap_index.xml'
   ) {
     return new NextResponse(
       'This WordPress legacy path has been permanently removed.',
