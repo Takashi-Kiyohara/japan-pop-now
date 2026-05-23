@@ -37,7 +37,7 @@ Most first-time visitors head straight to Akihabara for their anime fix. That’
 
 Ikebukuro’s east side is home to the world’s largest Animate store, the massive Gashapon Department Store, multiple game centers, and a concentration of collab cafes that runs 3–5 different anime collaborations simultaneously on any given day. The west side has Otome Road. Japan’s premier destination for female-oriented anime and manga culture. And Sunshine City, a mega-complex attached to the station, regularly hosts anime exhibitions, pop-up events, and merchandise fairs.
 
-The district is also just easier to find your way around than Akihabara. It’s more compact, less overwhelming for first-timers, and better connected to the rest of Tokyo via the Yamanote, Marunouchi, Fukutoshin, and Seibu/Tobu lines. You can cover Ikebukuro’s entire anime scene in a focused half-day, or spread it across a leisurely full day with meals and cafe visits.
+Navigation is also just easier here than in Akihabara. It’s more compact, less overwhelming for first-timers, and better connected to the rest of Tokyo via the Yamanote, Marunouchi, Fukutoshin, and Seibu/Tobu lines. You can cover Ikebukuro’s entire anime scene in a focused half-day, or spread it across a leisurely full day with meals and cafe visits.
 
 
 ## East Side: The Animate District (East Exit)
