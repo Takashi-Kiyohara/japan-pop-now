@@ -45,7 +45,7 @@ export default function AffiliateDisclosure() {
           or booking, the publication may earn a small commission. This commission is paid by
           the merchant or platform — it does not increase the price you pay, and it does not
           change the products or experiences available to you. Commissions help fund the
-          editor's research, occasional field-check travel, fact-checking, and hosting costs
+          editor&apos;s research, occasional field-check travel, fact-checking, and hosting costs
           that keep Japan Pop Now free for readers worldwide.
         </p>
         <h2 style={{ fontFamily: 'var(--font-display), "Playfair Display", Georgia, serif', fontSize: '1.3rem', fontWeight: 700, color: '#14213d', marginTop: '24px', marginBottom: '8px' }}>
