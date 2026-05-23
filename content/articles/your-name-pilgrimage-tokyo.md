@@ -44,7 +44,7 @@ Tokyo residential stairway, the kind of everyday scenery that Makoto Shinkai cap
 
 ![Suga Shrine torii gate in Yotsuya, the shrine above the famous staircase from the Your Name climax](/images/articles/your-name-pilgrimage-tokyo/body-wikimedia.webp)
 *Suga Shrine (Suga-jinja), Yotsuya, the torii gate at the top of the stairs where Taki and Mitsuha finally meet in Your Name's final scene. Photo: Monado / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Suga_jinja.jpg), CC BY-SA 2.5.*
-This is the pilgrimage’s centerpiece. The staircase where Taki and Mitsuha finally meet again in the film’s climactic final scene. Shinkai’s team captured the location with near-photographic precision: the red handrails, the surrounding residential buildings, the way light falls across the steps in the late afternoon.
+This is the pilgrimage’s centerpiece — the staircase where Taki and Mitsuha finally meet again in the film’s climactic final scene. Shinkai’s team captured the location with near-photographic precision: red handrails, surrounding residential buildings, the way light falls across the steps in the late afternoon.
 A traditional shrine gate in Tokyo, quiet sanctuaries tucked away between modern buildings
 Standing at the top of these stairs and looking down is one of those moments where the boundary between fiction and reality blurs. You’ve seen this exact view dozens of times in screenshots and fan photos, but the physical experience of being there, feeling the air and hearing the neighborhood sounds that the film couldn’t capture, adds a dimension that no screen can replicate.
 | **Address** | Suga Shrine (須賀神社), 5 Sugacho, Shinjuku-ku, Tokyo 160-0018 |
@@ -52,24 +52,24 @@ Standing at the top of these stairs and looking down is one of those moments whe
 | **Access** | JR Yotsuya Station (四ツ谷駅) South Exit → turn right → walk 10 min through residential streets. The stairs are on the east side of the shrine. |
 | **Hours** | The stairs are public and accessible 24 hours. The shrine grounds are open 9:00–17:00. |
 | **Cost** | Free |
-**Best time for photos:** Late afternoon (3:00–5:00 PM) on a clear day. The golden hour light matches the film’s color palette almost exactly. For photos without other visitors in the frame, weekday mornings before 10:00 AM are quietest.
-**Photo angles:** The most recognizable angle is from the top of the stairs looking down and slightly to the right. The view from the bottom looking up also works well and shows the shrine gate at the top.
-**While you’re there:** Visit the shrine itself. It’s small and peaceful, a pocket of old Tokyo surrounded by residential streets. The wooden *ema* (prayer plaques) hung at the shrine include messages and illustrations from fans around the world, written in dozens of languages. It’s unexpectedly moving.
+**Best time for photos:** Late afternoon (3:00–5:00 PM) on a clear day. Golden-hour light matches the film’s color palette almost exactly. For photos without other visitors in the frame, weekday mornings before 10:00 AM are quietest.
+**Photo angles:** Most recognizable is the angle from the top of the stairs looking down and slightly to the right. Looking up from the bottom also works well and shows the shrine gate at the top.
+**While you’re there:** Visit the shrine itself. It’s small and peaceful, a pocket of old Tokyo surrounded by residential streets. Wooden *ema* (prayer plaques) hung at the shrine carry messages and illustrations from fans around the world, written in dozens of languages. Reading through them is unexpectedly moving.
 
 ## Location 2: Shinjuku Station South Exit & Pedestrian Overpass
-Multiple scenes in the film are set around Shinjuku Station’s southern exit area. The pedestrian overpass connecting the station to surrounding buildings appears in several key moments, and the surrounding buildings, including the NTT DOCOMO Yoyogi Building (the tall clock-tower-like structure), are visible in the film’s backgrounds.
+Multiple scenes in the film are set around Shinjuku Station’s southern exit area. Pedestrian overpasses connecting the station to surrounding buildings appear in several key moments, and the NTT DOCOMO Yoyogi Building (the tall clock-tower-like structure) is visible in the film’s backgrounds.
 | **Access** | Shinjuku Station, South Exit (南口) or New South Exit (新南口) |
 | --- | --- |
-| **Best angle** | From the overpass looking south toward the DOCOMO Tower, especially at twilight. The film uses several scenes set at this blue-orange moment. |
+| **Best angle** | From the overpass looking south toward the DOCOMO Tower, especially at twilight. Several scenes use this blue-orange moment. |
 
 ## Location 3: Shinanomachi Station Area
-The area around Shinanomachi Station on the JR Sobu Line appears in several scenes. The pedestrian bridge crossing over the train tracks and the view of the station platform are both reproduced in the film. This is one of the quieter locations, you may have the spot entirely to yourself, especially on weekdays.
+Shinanomachi Station on the JR Sobu Line appears in several scenes. Crossing the pedestrian bridge above the train tracks reproduces the platform view from the film. Quieter than the other stops, you may have it entirely to yourself, especially on weekdays.
 | **Access** | JR Shinanomachi Station (信濃町駅) on the Sobu Line. The station itself is the starting point, walk the pedestrian bridge for the best views. |
 | --- | --- |
-| **Best moment** | When a train passes through the station while you’re on the pedestrian bridge. The motion and sound add to the cinematic feeling. |
+| **Best moment** | When a train passes through the station while you’re on the pedestrian bridge. Motion and sound add to the cinematic feeling. |
 
 ## Location 4: National Art Center, Tokyo (Roppongi)
-The distinctive undulating glass facade of the National Art Center appears in the film as a background element. The building itself, designed by architect Kisho Kurokawa, is architecturally stunning regardless of its anime connection. The interior cafe (on an elevated cone-shaped platform) offers one of the best views in Roppongi.
+Undulating glass facade of the National Art Center appears in the film as a background element. Designed by architect Kisho Kurokawa, the building itself is architecturally stunning regardless of its anime connection. Inside, an elevated cone-shaped platform houses a cafe with one of the best views in Roppongi.
 
 ![National Art Center Tokyo, the undulating glass facade designed by Kisho Kurokawa that appears in Your Name's Roppongi scenes](/images/articles/your-name-pilgrimage-tokyo/body-wikimedia-2.webp)
 *National Art Center, Tokyo, the Roppongi glass facade referenced in the film's backgrounds. Photo: Kakidai / [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:2018_National_Art_Center,_Tokyo_2.jpg), CC BY-SA 4.0.*
@@ -99,17 +99,17 @@ You can visit all the main Tokyo locations in a single half-day walk. Here’s t
 | 15:20–15:50 | Shinjuku South Exit overpass | Walk the overpass and surrounding area. Best at twilight. |
 | Optional | Take Oedo Line to Roppongi | National Art Center (~20 min including transfer) |
 **Total time:** 2.5–3 hours at a relaxed pace, not including the optional Roppongi detour. Add 1-1.5 hours for the National Art Center if you include it.
-**Cost:** Effectively free, just train fare between stations (¥150-200 per ride, or covered by any day pass). The shrine, stairs, and all outdoor locations are free to visit.
+**Cost:** Effectively free, just train fare between stations (¥150-200 per ride, or covered by any day pass). Shrine grounds, stairs, and all outdoor locations are free to visit.
 
 ## Beyond Tokyo: Hida & Takayama (The “Itomori” Region)
-The fictional town of Itomori in the film is based on the Hida region of Gifu Prefecture, particularly the town of Hida (飛騨市). The Hida Furukawa train station, the local library, and the surrounding mountain scenery all appeared in the film. The area has embraced its anime heritage, with Your Name-themed signage, maps, and even themed goods at local shops.
+Itomori, the film’s fictional town, is based on the Hida region of Gifu Prefecture — particularly the town of Hida (飛騨市). Hida Furukawa train station, the local library, and the surrounding mountain scenery all appeared in the film. Local shops have embraced the anime heritage with Your Name-themed signage, maps, and themed goods.
 It’s a full day trip from Tokyo: approximately 4 hours by Shinkansen (Tokyo → Nagoya) + JR Takayama Main Line (Nagoya → Hida-Furukawa). A Japan Rail Pass covers the entire journey. If you’re already planning to visit Takayama or Shirakawa-go (both popular day trips from Tokyo), Hida-Furukawa is a short detour.
 
 ## Photography & Pilgrimage Etiquette
 **Save scene screenshots on your phone.** Before your trip, save screenshots of the anime scenes you want to match on location. Several fan-maintained websites and X/Twitter accounts catalog exact camera positions for Your Name locations — search “君の名は 聖地巡礼” for detailed comparison photos and GPS coordinates.
-**Match the time of day.** Shinkai is renowned for his depiction of light. The Suga Shrine stairs look completely different at noon versus golden hour, and the film uses late afternoon light. Visit between 3:00–5:00 PM on a clear day for the closest match to the film’s palette.
+**Match the time of day.** Shinkai is renowned for his depiction of light. Suga Shrine stairs look completely different at noon versus golden hour, and the film uses late-afternoon light. Visit between 3:00–5:00 PM on a clear day for the closest match to the film’s palette.
 **Save comparison screenshots.** Before your trip, save screenshots of the anime scenes on your phone. On-site, hold up the screenshot next to the real view for comparison photos — side-by-side posts (anime vs. reality) consistently perform well on social media.
-**Respect the neighborhood.** This is critical. The Suga Shrine area is a residential neighborhood where people live their daily lives. Keep noise to a minimum, don’t block sidewalks for extended photo sessions, don’t climb walls or fences for angles, and don’t enter private property. The residents have been remarkably patient with the years of fan visitors, return that patience with courtesy.
+**Respect the neighborhood.** This is critical. Residential streets surrounding Suga Shrine are where people live their daily lives. Keep noise to a minimum, don’t block sidewalks for extended photo sessions, don’t climb walls or fences for angles, and don’t enter private property. Residents have been remarkably patient with the years of fan visitors — return that patience with courtesy.
 *Want more anime pilgrimage ideas? Read our [guide to 10 anime pilgrimage spots in Tokyo](/articles/anime-pilgrimage-spots-tokyo/). For other pop culture activities, check our [Akihabara guide](/articles/akihabara-complete-guide-2026/) and [anime collab cafe guide](/articles/tokyo-anime-collab-cafes-spring-2026/).*
 
 ## More Anime Pilgrimages
@@ -117,7 +117,7 @@ It’s a full day trip from Tokyo: approximately 4 hours by Shinkansen (Tokyo �
 - [Akihabara Complete Guide](/articles/akihabara-complete-guide-2026/) — the Steins;Gate pilgrimage district
 
 ### Your Name Walking Tour with a Guide
-A local guide takes you to every filming location from Your Name, explains the scene references, and helps you recreate the iconic photos. The walking route covers Suga Shrine, Shinjuku, and Yotsuya in about 2.5 hours.
+A local guide takes you to every filming location from Your Name, explains the scene references, and helps you recreate the iconic photos. Coverage spans Suga Shrine, Shinjuku, and Yotsuya in about 2.5 hours.
 [Find Your Name Tours on GetYourGuide](https://www.getyourguide.com/tokyo-l193/?q=your+name+anime&partner_id=R7OISH9&utm_medium=online_publisher)
 
 ## Related Guides
@@ -151,7 +151,7 @@ Planning a trip to Tokyo?
 4–5 hours for the 5 main spots plus a shrine visit. Start at Yotsuya 13:00, finish at Roppongi around 18:00 with time for late-afternoon light at Suga Shrine.
 
 ### Are the Suga Shrine stairs free to visit?
-Yes, the stairs are a public residential road open 24 hours. The shrine itself opens 9:00–17:00 and collects optional 500-yen goshuin (shrine seal) fees.
+Yes, the stairs are a public residential road open 24 hours. Shrine grounds themselves open 9:00–17:00 and collect optional 500-yen goshuin (shrine seal) fees.
 
 ### Do I need to visit Hida/Takayama to complete the Your Name pilgrimage?
 Not on a Tokyo-only trip. Hida Furukawa is a 4-hour Shinkansen plus train ride away and makes more sense as a separate 1-night side trip.
