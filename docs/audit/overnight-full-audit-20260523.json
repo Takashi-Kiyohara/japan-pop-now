@@ -1,0 +1,25 @@
+{
+  "counts": {
+    "total": 66,
+    "http_non_200": 0,
+    "http_404": 0,
+    "takapon_residual_total": 6,
+    "takapon_residual_articles": 1,
+    "fab_total": 0,
+    "fab_articles": 0,
+    "empty_faq_total": 0,
+    "empty_faq_articles": 0,
+    "false_credit_total": 0,
+    "false_credit_articles": 0,
+    "audit_date": "2026-05-23T02:19:56.675Z"
+  },
+  "offenders": {
+    "http_non_200": [],
+    "takapon_residual": [
+      "https://www.japan-pop-now.com/articles/dark-moon-chara-cafe-ikebukuro-2026 (6)"
+    ],
+    "fab": [],
+    "empty_faq": [],
+    "false_credit": []
+  }
+}
