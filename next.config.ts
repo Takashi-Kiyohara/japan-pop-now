@@ -256,15 +256,11 @@ const nextConfig: NextConfig = {
       destination: '/feed.xml',
       permanent: true,
     },
-    // R15 fix C (2026-05-14): WordPress generates /sitemap_index.xml at the
-    // root for its multi-sitemap layout. Google has this URL indexed from
-    // the WP era and currently returns 404. Redirect to /sitemap.xml so
-    // GSC discovers our actual sitemap via the legacy URL.
-    {
-      source: '/sitemap_index.xml',
-      destination: '/sitemap.xml',
-      permanent: true,
-    },
+    // R20 (2026-05-23): /sitemap_index.xml moved from 308→/sitemap.xml to
+    // 410 in middleware.ts. The 308 redirect kept the URL alive in GSC's
+    // "Page with redirect" bucket; a 410 cleanly drops the WP-era URL from
+    // the index. Google discovers the live sitemap via robots.txt directly,
+    // so the legacy URL no longer serves a routing purpose.
 
     // ── Existing structural rules ──
     // R13-E1 (2026-05-14): WordPress date-based URL rule REMOVED from
