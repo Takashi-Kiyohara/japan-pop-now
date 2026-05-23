@@ -12,7 +12,6 @@ author: "Takashi Kiyohara"
 excerpt: "Follow the path of Naruto through Tokyo's real-world pilgrimage sites, from merchandise havens to collaboration cafes and exhibitions dedicated to the legendary ninja series."
 relatedSlugs: []
 wpPostId: 0
-robots: "noindex,follow"
 ---
 
 

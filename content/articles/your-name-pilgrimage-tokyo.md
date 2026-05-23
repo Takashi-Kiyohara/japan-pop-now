@@ -16,9 +16,6 @@ excerpt: >-
   photo...
 relatedSlugs: []
 wpPostId: 106
-# R16 (2026-05-14): forced-RED per HCU firsthand+originality override.
-# Author/Cowork can rewrite + re-enable indexing later. Sitemap.ts auto-excludes.
-robots: 'noindex, follow'
 ---
 *Last updated: May 2026.*
 Quiet Tokyo neighborhood stairs, residential areas like Yotsuya hide famous anime locations
