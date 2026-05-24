@@ -13,9 +13,6 @@ voice: "advisory"
 excerpt: "Planning to visit AnimeJapan 2026 in Tokyo? This practical guide covers dates, venue access, what Family Anime Festa is, nearby anime spots, and how to build a..."
 relatedSlugs: []
 wpPostId: 821
-# R16 (2026-05-14): forced-RED per HCU firsthand+originality override.
-# Author/Cowork can rewrite + re-enable indexing later. Sitemap.ts auto-excludes.
-robots: 'noindex, follow'
 ---
 
 ## TL;DR
