@@ -1,0 +1,198 @@
+{
+  "schema_version": "4.2",
+  "description": "Image library index (semantic + face-aware)",
+  "entries": [
+    {
+      "id": "img_20260410_145645",
+      "path": "/images/library/2026-04/IMG_20260410_145645.jpg",
+      "source": "ios-shortcut",
+      "source_detail": {
+        "original_filename": "IMG_20260410_145645__library.jpg",
+        "video_id": null,
+        "frame_time_sec": null
+      },
+      "uploaded_at": "2026-04-11T16:25:21.829Z",
+      "mode": "library",
+      "quality": {
+        "width": 5712,
+        "height": 4284,
+        "sharpness_score": 100,
+        "brightness_score": 40,
+        "file_size_kb": 6808
+      },
+      "semantic": null,
+      "user_meta": {
+        "caption": "",
+        "slug_hint": null,
+        "position_hint": "auto"
+      },
+      "usage": {
+        "articles": [],
+        "inserted_at": null,
+        "position_applied": null,
+        "replaced_image": null
+      },
+      "status": "indexed"
+    },
+    {
+      "id": "img_20260410_145718",
+      "path": "/images/library/2026-04/IMG_20260410_145718.jpg",
+      "source": "ios-shortcut",
+      "source_detail": {
+        "original_filename": "IMG_20260410_145718__library.jpg",
+        "video_id": null,
+        "frame_time_sec": null
+      },
+      "uploaded_at": "2026-04-11T16:25:22.871Z",
+      "mode": "library",
+      "quality": {
+        "width": 5712,
+        "height": 4284,
+        "sharpness_score": 100,
+        "brightness_score": 38,
+        "file_size_kb": 3901
+      },
+      "semantic": null,
+      "user_meta": {
+        "caption": "",
+        "slug_hint": null,
+        "position_hint": "auto"
+      },
+      "usage": {
+        "articles": [],
+        "inserted_at": null,
+        "position_applied": null,
+        "replaced_image": null
+      },
+      "status": "indexed"
+    },
+    {
+      "id": "img_20260410_151036",
+      "path": "/images/library/2026-04/IMG_20260410_151036.jpg",
+      "source": "ios-shortcut",
+      "source_detail": {
+        "original_filename": "IMG_20260410_151036__library.jpg",
+        "video_id": null,
+        "frame_time_sec": null
+      },
+      "uploaded_at": "2026-04-11T16:25:23.922Z",
+      "mode": "library",
+      "quality": {
+        "width": 5712,
+        "height": 4284,
+        "sharpness_score": 81,
+        "brightness_score": 40,
+        "file_size_kb": 4483
+      },
+      "semantic": null,
+      "user_meta": {
+        "caption": "",
+        "slug_hint": null,
+        "position_hint": "auto"
+      },
+      "usage": {
+        "articles": [],
+        "inserted_at": null,
+        "position_applied": null,
+        "replaced_image": null
+      },
+      "status": "indexed"
+    },
+    {
+      "id": "img_20260410_151038",
+      "path": "/images/library/2026-04/IMG_20260410_151038.jpg",
+      "source": "ios-shortcut",
+      "source_detail": {
+        "original_filename": "IMG_20260410_151038__library.jpg",
+        "video_id": null,
+        "frame_time_sec": null
+      },
+      "uploaded_at": "2026-04-11T16:25:25.066Z",
+      "mode": "library",
+      "quality": {
+        "width": 5712,
+        "height": 4284,
+        "sharpness_score": 82,
+        "brightness_score": 41,
+        "file_size_kb": 4435
+      },
+      "semantic": null,
+      "user_meta": {
+        "caption": "",
+        "slug_hint": null,
+        "position_hint": "auto"
+      },
+      "usage": {
+        "articles": [],
+        "inserted_at": null,
+        "position_applied": null,
+        "replaced_image": null
+      },
+      "status": "indexed"
+    },
+    {
+      "id": "img_20260411_115938",
+      "path": "/images/library/2026-04/IMG_20260411_115938.jpg",
+      "source": "ios-shortcut",
+      "source_detail": {
+        "original_filename": "IMG_20260411_115938__library.jpg",
+        "video_id": null,
+        "frame_time_sec": null
+      },
+      "uploaded_at": "2026-04-11T16:25:26.119Z",
+      "mode": "library",
+      "quality": {
+        "width": 5712,
+        "height": 4284,
+        "sharpness_score": 76,
+        "brightness_score": 62,
+        "file_size_kb": 4230
+      },
+      "semantic": null,
+      "user_meta": {
+        "caption": "",
+        "slug_hint": null,
+        "position_hint": "auto"
+      },
+      "usage": {
+        "articles": [],
+        "inserted_at": null,
+        "position_applied": null,
+        "replaced_image": null
+      },
+      "status": "indexed"
+    },
+    {
+      "id": "img_20260411_115941",
+      "path": "/images/library/2026-04/IMG_20260411_115941.jpg",
+      "source": "ios-shortcut",
+      "source_detail": {
+        "original_filename": "IMG_20260411_115941__library.jpg",
+        "video_id": null,
+        "frame_time_sec": null
+      },
+      "uploaded_at": "2026-04-11T16:25:27.194Z",
+      "mode": "library",
+      "quality": {
+        "width": 5712,
+        "height": 4284,
+        "sharpness_score": 82,
+        "brightness_score": 41,
+        "file_size_kb": 4435
+      },
+      "semantic": null,
+      "user_meta": {
+        "caption": "",
+        "slug_hint": null,
+        "position_hint": "auto"
+      },
+      "usage": {
+        "articles": [],
+        "inserted_at": null,
+        "position_applied": null,
+        "replaced_image": null
+      },
+      "status": "indexed"
+    }
+  ]
+}
