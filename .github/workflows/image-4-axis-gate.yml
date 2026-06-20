@@ -1,0 +1,28 @@
+name: Image 4-Axis Gate
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'content/articles/**'
+      - 'public/images/articles/**'
+      - 'scripts/check-image-4-axis.ts'
+      - '.github/workflows/image-4-axis-gate.yml'
+  pull_request:
+    paths:
+      - 'content/articles/**'
+      - 'public/images/articles/**'
+      - 'scripts/check-image-4-axis.ts'
+      - '.github/workflows/image-4-axis-gate.yml'
+  workflow_dispatch: {}
+
+jobs:
+  check-4-axis:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+      - run: npm ci
+      - run: npx tsx scripts/check-image-4-axis.ts
